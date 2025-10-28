@@ -1,18 +1,38 @@
 # Mercy
 
 * as brahminical symptom, [[sb/7/11/21#purport|SB 7.11.21]]
+* as Caitanya, [[sb/9/19/19#purport|SB 9.19.19]]
 * as human quality, [[sb/7/11/8-12#purport|SB 7.11.8-12]], [[sb/7/11/8-12#purport|SB 7.11.8-12]]
+* depending on, [[sb/9/18/25#purport|SB 9.18.25]]
+* devotional service via, [[sb/7/15/43-44#purport|SB 7.15.43-44]]
+* for everyone, [[sb/7/9/26#purport|SB 7.9.26]]
+* God realiātion via, [[sb/7/9/50#purport|SB 7.9.50]]
+* happiness via, [[sb/7/9/19#purport|SB 7.9.19]]
+* ignorance dispelled via, [[sb/7/7/27#purport|SB 7.7.27]]
 * in spiritual culture, [[sb/3/16/22#purport|SB 3.16.22]]
+* Kṛṣṇa consciousness movement’s success via, [[sb/7/10/42#purport|SB 7.10.42]]
+* Kṛṣṇa understood via, [[sb/7/5/32#purport|SB 7.5.32]]
+* living entities dependent on, [[sb/7/8/7#purport|SB 7.8.7]], [[sb/7/14/37#purport|SB 7.14.37]]
+* Lord known by, [[sb/9/8/21#purport|SB 9.8.21]]
+* Lord’s advent as, [[sb/9/24/57#purport|SB 9.24.57]]
+* nature’s laws suspended via, [[sb/7/9/43#purport|SB 7.9.43]]
 * obtained many ways, [[sb/7/1/31-31#purport|SB 7.1.31-31]]
 * of devotee, [[sb/6/1/1#purport|SB 6.1.1]], [[sb/6/1/2#purport|SB 6.1.2]], [[sb/6/2/32#purport|SB 6.2.32]], [[sb/6/2/35#purport|SB 6.2.35]]
 * of Kṛṣṇa, [[sb/3/2/12#purport|SB 3.2.12]], [[sb/3/2/19#purport|SB 3.2.19]], [[sb/3/2/23#purport|SB 3.2.23]]
-* *See:* Kṛṣṇa; mercy of 
-* of Lord 
 * of Lord, [[sb/9/9/5#purport|SB 9.9.5]], [[sb/9/10/20#purport|SB 9.10.20]], [[sb/9/11/25#purport|SB 9.11.25]], [[sb/9/13/11#purport|SB 9.13.11]]
 * of pure devotee, [[bg/18/71|Bg. 18.71]]
 * of spiritual master on disciple, [[sb/9/9/5#purport|SB 9.9.5]]
 * of spiritual master, [[sb/6/7/23#purport|SB 6.7.23]]
 * of Vyāsadeva, [[bg/18/74–75|Bg. 18.74–75]]
+* on Ambarīṣa, [[sb/9/5/24#purport|SB 9.5.24]]
+* on conditioned souls, [[sb/7/8/5#purport|SB 7.8.5]], [[sb/7/9/16#purport|SB 7.9.16]]
+* on devotee, [[sb/9/4/65-65#purport|SB 9.4.65-65]]
+* on devotees & demons, [[sb/9/24/61#purport|SB 9.24.61]], [[sb/9/24/66#purport|SB 9.24.66]], [[sb/9/24/67#purport|SB 9.24.67]]
+* on Hiraṇyakaśipu, [[sb/7/8/56#purport|SB 7.8.56]]
+* on preacher, [[sb/9/9/5#purport|SB 9.9.5]]
 * personified by sister, [[sb/6/7/29-30#purport|SB 6.7.29-30]]
+* via spiritual master, [[sb/7/12/11#purport|SB 7.12.11]], [[sb/7/15/25#purport|SB 7.15.25]], [[sb/7/15/26#purport|SB 7.15.26]], [[sb/7/15/45#purport|SB 7.15.45]]
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; mercy of
+*See also:* Supreme Lord; mercy of
+
+*See:* Kṛṣṇa; mercy of; Supreme Lord

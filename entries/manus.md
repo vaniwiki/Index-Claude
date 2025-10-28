@@ -1,6 +1,6 @@
 # Manu(s)
 
-[[cc/adi/3/10#purport|Ādi 3.10]], [[cc/adi/3/8#purport|Ādi 3.8]], **[[cc/adi/3/9#translation|Ādi 3.9]]**, **[[cc/adi/5/113#translation|Ādi 5.113]]**, [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/8/312#purport|Madhya 8.312]], [[sb/1/3/5#purport|SB 1.3.5]]
+[[sb/3/2/21#purport|SB 3.2.21]], [[sb/3/6/6#purport|SB 3.6.6]], [[cc/adi/3/8#purport|Ādi 3.8]], **[[cc/adi/3/9#translation|Ādi 3.9]]**, [[cc/adi/3/10#purport|Ādi 3.10]], [[cc/adi/5/41#purport|Ādi 5.41]], **[[cc/adi/5/113#translation|Ādi 5.113]]**, [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/8/312#purport|Madhya 8.312]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/4/20/15#purport|SB 4.20.15]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/30/41#purport|SB 4.30.41]], [[sb/4/30/49#purport|SB 4.30.49]]
 
 * *Bhagavad-gītā *spoken to, [[bg/4/1|Bg. 4.1]]
 * age of, [[bg/4/1|Bg. 4.1]] (4)
@@ -23,7 +23,7 @@
 * Brahmā created, [[sb/3/20/49#purport|SB 3.20.49]], [[sb/3/20/51#purport|SB 3.20.51]]
 * Brahma-sāvarṇi, [[sb/8/13/21#purport|SB 8.13.21]]
 * Cākṣuṣa, [[sb/4/13/15-16#purport|SB 4.13.15-16]], [[sb/6/6/15#purport|SB 6.6.15]], [[sb/8/5/7#purport|SB 8.5.7]], [[sb/8/5/8#purport|SB 8.5.8]], [[sb/8/24/10#purport|SB 8.24.10]], [[sb/8/24/37#purport|SB 8.24.37]], [[sb/8/24/58#purport|SB 8.24.58]]
-* cited. See: Manu(s) cited 
+* cited. See: Manu(s) cited
 * Dakṣa-sāvarṇi, [[sb/8/13/18-20#purport|SB 8.13.18-20]]
 * Deva-sāvarṇi, [[sb/8/13/30#purport|SB 8.13.30]], [[sb/8/13/31-32#purport|SB 8.13.31-32]]
 * Dharma-sāvarṇi, [[sb/8/13/24#purport|SB 8.13.24]], [[sb/8/13/26#purport|SB 8.13.26]]
@@ -38,10 +38,18 @@
 * humans as descendants of, [[sb/4/10/14#purport|SB 4.10.14]], [[sb/4/11/28#purport|SB 4.11.28]]
 * humans descend from, [[sb/3/22/31#purport|SB 3.22.31]]
 * identified, [[sb/7/8/48#purport|SB 7.8.48]]
+* in Brahma-sāvarṇi-manvantara, [[sb/8/13/21#purport|SB 8.13.21]]
 * in Brahmā’s day, [[sb/2/7/12#purport|SB 2.7.12]], [[sb/3/21/3#purport|SB 3.21.3]], [[sb/8/1/2#purport|SB 8.1.2]], [[sb/8/1/4#purport|SB 8.1.4]], [[sb/8/13/11#purport|SB 8.13.11]], [[sb/8/13/36#purport|SB 8.13.36]], [[sb/8/14/11#purport|SB 8.14.11]], [[sb/8/24/37#purport|SB 8.24.37]]
 * in Brahmā’s life, [[sb/4/24/42#purport|SB 4.24.42]]
-* in disciplic succession, 3, [[bg/4/16|Bg. 4.16]]
+* in Dakṣa-sāvarṇi-manvantara, [[sb/8/13/18#purport|SB 8.13.18]]
+* in Deva-sāvarṇi-manvantara, [[sb/8/13/30#purport|SB 8.13.30]]
+* in Dharma-sāvarṇi-manvantara, [[sb/8/13/24#purport|SB 8.13.24]]
 * in disciplic succession, [[sb/2/2/27#purport|SB 2.2.27]], [[sb/7/8/48#purport|SB 7.8.48]], [[sb/8/14/5#purport|SB 8.14.5]], [[sb/8/14/6#purport|SB 8.14.6]]
+* in disciplic succession, 3, [[bg/4/16|Bg. 4.16]]
+* in Indra-sāvarṇi-manvantara, [[sb/8/13/33#purport|SB 8.13.33]]
+* in Rudra-sāvarṇi-manvantara, [[sb/8/13/27#purport|SB 8.13.27]]
+* in Sāvarṇi-manvantara, [[sb/8/13/11#purport|SB 8.13.11]]
+* in Śrāddhadeva-manvantara, [[sb/8/13/2-3#purport|SB 8.13.2-3]]
 * incarnations of God as, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/27#purport|SB 1.3.27]]
 * incarnations of, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
 * Indra-sāvarṇi, [[sb/8/13/33#purport|SB 8.13.33]], [[sb/8/13/35#purport|SB 8.13.35]]
@@ -50,8 +58,9 @@
 * laws of, [[sb/2/10/4#purport|SB 2.10.4]], [[sb/4/10/14#purport|SB 4.10.14]], [[sb/4/11/7#purport|SB 4.11.7]], [[sb/4/18/3#purport|SB 4.18.3]]
 * life span of, [[sb/3/22/35#purport|SB 3.22.35]], [[sb/3/22/36#purport|SB 3.22.36]], [[sb/5/1/28#purport|SB 5.1.28]], [[sb/5/24/24#purport|SB 5.24.24]], [[sb/7/10/11#purport|SB 7.10.11]], [[sb/8/1/2#purport|SB 8.1.2]], [[sb/8/13/11#purport|SB 8.13.11]]
 * life-span of, [[sb/4/24/67#purport|SB 4.24.67]]
-* Lord appoints, [[sb/8/14/2#purport|SB 8.14.2]]
+* Lord appoints, [[sb/8/14/2#purport|SB 8.14.2]], [[sb/8/14/2#purport|SB 8.14.2]]
 * Lord rules as, [[sb/2/7/20#purport|SB 2.7.20]]
+* Lord’s will done by, [[sb/8/14/6#purport|SB 8.14.6]]
 * man comes from, [[sb/3/22/31#purport|SB 3.22.31]]
 * number & life span of, [[sb/6/10/16#purport|SB 6.10.16]]
 * origin of, [[bg/10/6|Bg. 10.6]]
@@ -62,13 +71,13 @@
 * Satyavrata as, [[sb/8/24/11#purport|SB 8.24.11]]
 * Sāvarṇi, [[sb/6/6/41#purport|SB 6.6.41]], [[sb/8/13/11#purport|SB 8.13.11]], [[sb/8/13/12#purport|SB 8.13.12]], [[sb/8/13/15-17#purport|SB 8.13.15-17]], [[sb/8/22/31#purport|SB 8.22.31]]
 * saved by Matsya, [[sb/6/9/23#purport|SB 6.9.23]]
-*  [[sb/4/20/15#purport|SB 4.20.15]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/30/41#purport|SB 4.30.41]], [[sb/4/30/49#purport|SB 4.30.49]]
-* sons of 
+* sons of
 * Śrāddhadeva, [[sb/6/6/40#purport|SB 6.6.40]], [[sb/8/13/1-3#purport|SB 8.13.1-3]]
 * surrender to Lord by, [[bg/7/15|Bg. 7.15]] (2)
+  * on lust, [[bg/3/39|Bg. 3.39]]
+  * on punishment for murder, [[bg/2/21|Bg. 2.21]]
 * Svārociṣa, [[sb/8/1/20#purport|SB 8.1.20]]
-* Svāyambhuva, [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/61#purport|SB 4.22.61]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/67#purport|SB 4.24.67]]
-* Svāyambhuva. See: Svāyambhuva Manu , , 
+* Svāyambhuva. See: Svāyambhuva Manu, [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/61#purport|SB 4.22.61]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/67#purport|SB 4.24.67]]
 * Tāmasa, [[sb/8/1/27#purport|SB 8.1.27]], [[sb/8/1/29#purport|SB 8.1.29]], [[sb/8/5/2#purport|SB 8.5.2]]
 * Uttama, [[sb/8/1/23#purport|SB 8.1.23]]
 * Vaivasvata, [[sb/3/20/1#purport|SB 3.20.1]], [[sb/3/21/3#purport|SB 3.21.3]], [[sb/8/1/10#purport|SB 8.1.10]], [[sb/8/13/11#purport|SB 8.13.11]], [[sb/8/24/58#purport|SB 8.24.58]]

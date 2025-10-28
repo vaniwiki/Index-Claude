@@ -1,4 +1,4 @@
-# Cloud(s)
+# Clouds
 
 * & rain compared to spiritual master’s mercy, [[sb/3/21/17#purport|SB 3.21.17]]
 * at demons’ birth, [[sb/3/17/5-6#purport|SB 3.17.5-6]], [[sb/3/17/13#purport|SB 3.17.13]]

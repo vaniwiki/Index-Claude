@@ -1,6 +1,6 @@
 # Opulence(s) of Kṛṣṇa
 
-**[[cc/madhya/21/120#translation|Madhya 21.120]]**, **[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**, **[[cc/madhya/21/98#translation|Madhya 21.98]]**, [[cc/madhya/24/24#purport|Madhya 24.24]]
+**[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**, **[[cc/madhya/21/98#translation|Madhya 21.98]]**, [[cc/madhya/24/24#purport|Madhya 24.24]], **[[cc/madhya/21/120#translation|Madhya 21.120]]**
 
 * as unlimited, **[[cc/madhya/21/26#translation|Madhya 21.26]]**, **[[cc/madhya/21/30#translation|Madhya 21.30]]**
 * Brahmā &, **[[cc/madhya/21/24–27#translation|Madhya 21.24–27]]**, **[[cc/madhya/21/59–89#translation|Madhya 21.59–89]]**

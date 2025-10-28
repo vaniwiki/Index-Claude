@@ -1,13 +1,11 @@
 # Ignorance
 
-[[cc/adi/1/102#purport|Ādi 1.102]], **[[cc/adi/1/97–98#translation|Ādi 1.97–98]]**, [[cc/adi/5/51#purport|Ādi 5.51]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/antya/1/188#purport|Antya 1.188]], [[cc/antya/1/92#purport|Antya 1.92]], **[[cc/antya/4/57#translation|Antya 4.57]]**
+**[[cc/adi/1/97–98#translation|Ādi 1.97–98]]**, [[cc/adi/1/102#purport|Ādi 1.102]], [[cc/adi/5/51#purport|Ādi 5.51]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/antya/1/92#purport|Antya 1.92]], [[cc/antya/1/188#purport|Antya 1.188]], **[[cc/antya/4/57#translation|Antya 4.57]]**
 
 * ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
 * *Bhagavad-gītā *counters, [[bg/2/1|Bg. 2.1]], [[bg/2/50|Bg. 2.50]]
 * & doubts removed by knowledge, [[bg/4/42|Bg. 4.42]]
-* about karma-yoga & Sāṅkhya, [[bg/5/4|Bg. 5.4]]
 * about *sāṅkhya*-yoga, 2.39 (3–4)
-* about yoga’s goal, [[bg/2/61|Bg. 2.61]]
 * about animal-killing, [[bg/14/16|Bg. 14.16]]
 * about Bhagavad-gītā, [[sb/4/30/10#purport|SB 4.30.10]]
 * about constitutional position of living entity, [[bg/2/50|Bg. 2.50]]
@@ -17,18 +15,36 @@
 * about devotional service, [[bg/5/4|Bg. 5.4]]
 * about duty, [[bg/2/32|Bg. 2.32]]
 * about factors of action, [[bg/18/16|Bg. 18.16]]
-* *See:* [[i#Ignorance|Ignorance]]; about soul or self 
+* about karma-yoga & Sāṅkhya, [[bg/5/4|Bg. 5.4]]
 * about karma, [[sb/4/29/58-60#purport|SB 4.29.58-60]]
 * about karmic law, [[bg/4/14|Bg. 4.14]]
 * about Kṛṣṇa consciousness, [[bg/2/63|Bg. 2.63]], [[bg/10/10|Bg. 10.10]]
 * about Kṛṣṇa, [[bg/4/3–4|Bg. 4.3–4]], [[bg/4/10|Bg. 4.10]], [[bg/4/14|Bg. 4.14]], [[bg/7/8|Bg. 7.8]], [[bg/7/13|Bg. 7.13]], [[bg/7/24–25|Bg. 7.24–25]], [[bg/9/18|Bg. 9.18]], [[bg/10/8|Bg. 10.8]], [[bg/10/14–15|Bg. 10.14–15]]
+  * *māyā *causes, [[bg/7/26|Bg. 7.26]]
+  * & living entity, [[bg/2/22|Bg. 2.22]], [[bg/2/51|Bg. 2.51]], [[bg/9/12|Bg. 9.12]]
+  * as absolute, [[bg/9/34|Bg. 9.34]]
+  * as creator, [[bg/10/8|Bg. 10.8]]
+  * as Lord, [[bg/4/9|Bg. 4.9]], [[bg/4/35|Bg. 4.35]], [[bg/7/3|Bg. 7.3]], [[bg/7/25–26|Bg. 7.25–26]], [[bg/9/11–12|Bg. 9.11–12]], [[bg/9/34|Bg. 9.34]], [[bg/10/3|Bg. 10.3]], [[bg/10/8|Bg. 10.8]], [[bg/11/51|Bg. 11.51]], [[bg/11/52–54|Bg. 11.52–54]]
+  * as person with form, 13, [[bg/4/10|Bg. 4.10]], [[bg/7/24|Bg. 7.24]], [[bg/9/11|Bg. 9.11]] (1–8), [[bg/11/43|Bg. 11.43]]
+  * commentaries based on, [[bg/9/1|Bg. 9.1]]
+  * compared to cloud, [[bg/7/26|Bg. 7.26]]
+  * from illusion, [[bg/7/27|Bg. 7.27]]
+  * inconceivable qualities of, [[bg/8/9|Bg. 8.9]]
+  * Kṛṣṇa’s potency maintains, [[bg/7/25|Bg. 7.25]]
+  * manifestations of, [[bg/11/6|Bg. 11.6]]
+  * of atheists, [[bg/7/4|Bg. 7.4]], [[bg/7/15|Bg. 7.15]] (15–16)
+  * of impersonalists, [[bg/13/23|Bg. 13.23]]
+  * of materialists & impersonalists, [[bg/4/10|Bg. 4.10]], [[bg/7/4|Bg. 7.4]], [[bg/7/24|Bg. 7.24]], [[bg/9/26|Bg. 9.26]], [[bg/10/14–15|Bg. 10.14–15]], [[bg/18/67|Bg. 18.67]]
+  * of nondevotees, [[bg/7/24|Bg. 7.24]], [[bg/18/67|Bg. 18.67]]
+  * result of, [[bg/9/21|Bg. 9.21]]
+  * true nature of, [[bg/7/24–25|Bg. 7.24–25]]
 * about liberation, [[bg/9/12|Bg. 9.12]]
 * about life’s origin, [[sb/4/25/33#purport|SB 4.25.33]]
 * about life’s purpose, 6, [[bg/7/15|Bg. 7.15]]
 * about life’s real problems, [[sb/4/28/12#purport|SB 4.28.12]]
 * about living entities’ identity & purpose, [[bg/4/35|Bg. 4.35]], [[bg/5/2|Bg. 5.2]]
+  * *See also:* Ignorance; about soul or self
 * about Lord, [[sb/4/29/3-3#purport|SB 4.29.3-3]], [[sb/9/8/21-22#purport|SB 9.8.21-22]], [[sb/9/8/24#purport|SB 9.8.24]]
-* *See:* [[i#Ignorance|Ignorance]]; about Kṛṣṇa 
 * about material nature, [[bg/11/33|Bg. 11.33]]
 * about material world’s miseries & dangers, [[bg/2/51|Bg. 2.51]]
 * about mind, [[sb/4/29/75#purport|SB 4.29.75]]
@@ -37,7 +53,7 @@
 * about religion, [[bg/4/16|Bg. 4.16]]
 * about scriptural regulations, [[bg/16/7|Bg. 16.7]]
 * about soul, [[bg/2/19|Bg. 2.19]], [[bg/2/20|Bg. 2.20]], [[bg/2/23|Bg. 2.23]], [[bg/2/26|Bg. 2.26]], [[bg/2/29|Bg. 2.29]], [[bg/3/32|Bg. 3.32]], [[bg/4/35|Bg. 4.35]], [[bg/5/2|Bg. 5.2]], [[bg/9/2|Bg. 9.2]] (3), [[bg/13/23|Bg. 13.23]], [[bg/13/33|Bg. 13.33]], [[bg/18/21|Bg. 18.21]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/30/48#purport|SB 4.30.48]]
-* about spiritual & material worlds, 22 
+* about spiritual & material worlds, 22
 * about spiritual existence, [[bg/4/10|Bg. 4.10]]
 * about spiritual identity, [[sb/4/28/27#purport|SB 4.28.27]]
 * about subtle body, [[sb/4/29/75#purport|SB 4.29.75]]
@@ -45,6 +61,7 @@
 * about wealth’s utility, [[bg/2/49|Bg. 2.49]]
 * about weaponry of old, [[bg/2/23|Bg. 2.23]]
 * about worshiping Lord, [[bg/9/15|Bg. 9.15]]
+* about yoga’s goal, [[bg/2/61|Bg. 2.61]]
 * anger due to, [[sb/8/19/13#purport|SB 8.19.13]]
 * Arjuna above, 7, [[bg/1/24|Bg. 1.24]]
 * as forgetfulness of identity, [[sb/2/2/1#purport|SB 2.2.1]], [[sb/2/6/21#purport|SB 2.6.21]]
@@ -73,8 +90,10 @@
 * Caitanya & Nityānanda dispel, [[cc/adi/1/94#purport|Ādi 1.94]], **[[cc/adi/1/95#translation|Ādi 1.95]]**
 * Caitanya dispels, **[[cc/adi/2/1#translation|Ādi 2.1]]**, **[[cc/adi/3/59–62#translation|Ādi 3.59–62]]**
 * cause of, [[sb/2/5/24#purport|SB 2.5.24]]
-* civiliātion in, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/7/6/4#purport|SB 7.6.4]]
-* compared 
+* civiliātion in, [[sb/7/6/4#purport|SB 7.6.4]], [[sb/10/2/27#purport|SB 10.2.27]]
+* compared
+  * to darkness, [[bg/10/11|Bg. 10.11]]
+  * to nighttime, [[bg/5/16|Bg. 5.16]]
 * compared to darkness, [[sb/1/5/27#purport|SB 1.5.27]], [[sb/1/7/23#purport|SB 1.7.23]]
 * compared to fog, [[sb/3/12/33#purport|SB 3.12.33]]
 * compared with spiritual knowledge, [[sb/4/25/31#purport|SB 4.25.31]]
@@ -130,13 +149,13 @@
 * kinds of, two given, [[sb/3/31/30-30#purport|SB 3.31.30-30]]
 * knowledge compared with, [[sb/4/24/75-75#purport|SB 4.24.75-75]]
 * knowledge removes, [[sb/1/15/31#purport|SB 1.15.31]]
-* Kṛṣṇa arranged for Arjuna’s, 7 
+* Kṛṣṇa arranged for Arjuna’s, 7
 * Kṛṣṇa consciousness dispels, [[sb/7/7/28#purport|SB 7.7.28]], [[sb/9/9/48#purport|SB 9.9.48]]
 * Kṛṣṇa derided out of, [[bg/9/11|Bg. 9.11]]
 * leaders & followers in, [[sb/6/7/14#purport|SB 6.7.14]]
 * leaders in, [[sb/4/24/75#purport|SB 4.24.75]], [[sb/7/6/4#purport|SB 7.6.4]]
 * living beings overpowered by, SB Intro 23
-* living entity in, [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/9/15#purport|SB 4.9.15]], [[sb/8/3/25#purport|SB 8.3.25]]
+* living entity in, [[sb/4/9/15#purport|SB 4.9.15]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/8/3/25#purport|SB 8.3.25]]
 * Lord dispels, [[sb/7/5/4#purport|SB 7.5.4]], [[sb/7/7/27#purport|SB 7.7.27]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/13/22#purport|SB 7.13.22]], [[sb/8/3/16#purport|SB 8.3.16]], [[sb/8/24/38#purport|SB 8.24.38]], [[sb/9/4/68#purport|SB 9.4.68]]
 * Lord dissipates, [[cc/adi/7/119#purport|Ādi 7.119]]
 * Lord eradicates, [[sb/4/30/5#purport|SB 4.30.5]]
@@ -159,8 +178,6 @@
 * māyā as, [[sb/7/8/10#purport|SB 7.8.10]]
 * Māyāvādīs in, [[sb/8/12/8#purport|SB 8.12.8]]
 * mode of, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[sb/2/1/20#purport|SB 2.1.20]], [[sb/2/5/30#purport|SB 2.5.30]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/10#purport|SB 2.9.10]]
-* *See:* [[i#Ignorance|Ignorance]]; mode of 
-* mode of. See: Ignorance, mode of , , , , , , 
 * modern civiliātion in, [[sb/7/13/25#purport|SB 7.13.25]], [[sb/8/16/19#purport|SB 8.16.19]]
 * modes of nature as, [[sb/7/8/24#purport|SB 7.8.24]]
 * monism as, [[sb/6/16/57#purport|SB 6.16.57]]
@@ -180,6 +197,8 @@
 * of life’s goal, [[sb/4/21/23#purport|SB 4.21.23]], [[sb/8/24/50#purport|SB 8.24.50]]
 * of Lord as complete whole, [[sb/1/5/20#purport|SB 1.5.20]]
 * of materialists, [[bg/3/29|Bg. 3.29]], [[bg/4/12|Bg. 4.12]], [[sb/4/25/10#purport|SB 4.25.10]], [[sb/4/29/47-47#purport|SB 4.29.47-47]]
+  * & pseudo transcendentalists, [[bg/15/11|Bg. 15.11]]
+  * about Kṛṣṇa, [[bg/7/4|Bg. 7.4]], [[bg/7/24|Bg. 7.24]], [[bg/9/11–12|Bg. 9.11–12]], [[bg/9/26|Bg. 9.26]], [[bg/10/14–15|Bg. 10.14–15]], [[bg/18/67|Bg. 18.67]]
 * of mental speculators, [[sb/1/11/37#purport|SB 1.11.37]], [[sb/1/11/37#purport|SB 1.11.37]]
 * of nondevotees about Lord, [[bg/7/23–24|Bg. 7.23–24]]
 * of real happiness, [[sb/5/18/2#purport|SB 5.18.2]]
@@ -197,7 +216,7 @@
 * rebirth via, [[sb/4/27/9#purport|SB 4.27.9]]
 * reincarnation &, [[bg/2/22|Bg. 2.22]], [[bg/2/51|Bg. 2.51]]
 * removing, [[sb/6/15/16#purport|SB 6.15.16]]
-* Ṛṣabha dispells, ( 26.40, Supp.note)
+* Ṛṣabha dispells, (, 26.40, Supp.note)
 * Ṛṣabhadeva cited on, [[sb/4/9/31#purport|SB 4.9.31]]
 * sense gratification as, [[sb/7/10/2#purport|SB 7.10.2]]
 * sin due to, [[sb/4/26/10#purport|SB 4.26.10]], [[sb/6/1/15#purport|SB 6.1.15]]
@@ -210,6 +229,7 @@
 * spiritual master dispels, [[sb/8/3/25#purport|SB 8.3.25]]
 * spiritual world free from, [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/10#purport|SB 2.9.10]]
 * spiritual, [[bg/9/2|Bg. 9.2]] (2)
+  * classes of persons doomed to, [[bg/13/25|Bg. 13.25]]
 * suffering because of, [[bg/5/14|Bg. 5.14]], [[bg/13/8|Bg. 13.8]] (3)
 * suffering due to, [[sb/1/8/35#purport|SB 1.8.35]], [[sb/4/24/75#purport|SB 4.24.75]]
 * suffering from, [[sb/5/5/5#purport|SB 5.5.5]], [[sb/5/5/16#purport|SB 5.5.16]], [[sb/5/14/1#purport|SB 5.14.1]]
@@ -223,4 +243,6 @@
 * without disciplic succession, [[bg/18/75|Bg. 18.75]]
 * world in, [[sb/8/3/25#purport|SB 8.3.25]]
 
-*See also:* [[i#Ignorance|Ignorance]]; mode of; [[i#Illusion|Illusion]]; [[b#Bodily concept of life|Bodily concept of life]]; [[d#Darkness|Darkness]]; [[m#Māyā|Māyā]]; Bodily concept
+*See also:* [Ignorance](entries/ignorance.md); mode of; [Illusion](entries/illusion.md); Māyā; Bodily concept of life; Darkness; Bodily concept
+
+*See:* [Ignorance](entries/ignorance.md); about Kṛṣṇa; about soul or self; mode of

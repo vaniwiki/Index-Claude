@@ -7,6 +7,6 @@
 * qualifications for, [[bg/5/23|Bg. 5.23]]
 * women victimize, [[sb/4/22/40#purport|SB 4.22.40]]
 
-*See also:* Gosvāmīs; [[s#sannyāsīs|sannyāsīs]]; [[s#Sannyāsīs|Sannyāsīs]]; Spirituals master; [[y#Yogīs|Yogīs]]
+*See also:* Gosvāmīs; sannyāsīs; Sannyāsīs; Spirituals master; Yogīs
 
 *See:* Sannyāsīs.

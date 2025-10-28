@@ -1,19 +1,22 @@
 # Saintly person(s)
 
-[[sb/1/5/10-11#purport|SB 1.5.10-11]]
+[[sb/1/5/10-11#purport|SB 1.5.10-11]], [[sb/5/5/9#purport|SB 5.5.9]], [[sb/5/14/39#purport|SB 5.14.39]]
 
 * anger absent in, [[sb/4/11/32#purport|SB 4.11.32]]
 * as devotees, [[sb/9/4/17#purport|SB 9.4.17]]
 * as forgiving, [[bg/1/36|Bg. 1.36]]
 * as perfect persons, [[sb/3/21/4#purport|SB 3.21.4]]
-* associating with, [[sb/10/10/13#purport|SB 10.10.13]], [[sb/10/10/17-17#purport|SB 10.10.17-17]], [[sb/10/10/18-18#purport|SB 10.10.18-18]], [[sb/4/22/15#purport|SB 4.22.15]]
+* associating with, [[sb/4/22/15#purport|SB 4.22.15]], [[sb/10/10/13#purport|SB 10.10.13]], [[sb/10/10/17-17#purport|SB 10.10.17-17]], [[sb/10/10/18-18#purport|SB 10.10.18-18]]
 * association with, [[sb/3/22/5#purport|SB 3.22.5]], [[sb/3/23/54#purport|SB 3.23.54]], [[sb/3/23/55#purport|SB 3.23.55]], [[sb/3/23/57#purport|SB 3.23.57]]
+* blessed by, [[sb/4/21/48#purport|SB 4.21.48]]
 * cited on glorifying Lord, [[sb/10/12/34#purport|SB 10.12.34]]
 * compassion of, [[sb/4/14/37#purport|SB 4.14.37]]
-* defined, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/4/21/28-29#purport|SB 4.21.28-29]]
+* created by, [[sb/4/22/43#purport|SB 4.22.43]]
+* defined, [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/10/7/31#purport|SB 10.7.31]]
 * demons killed by, [[sb/4/14/31#purport|SB 4.14.31]]
 * derision of, [[bg/16/24|Bg. 16.24]]
 * devotees as, [[bg/4/8|Bg. 4.8]]
+  * best among, [[bg/5/26|Bg. 5.26]]
 * duty of, [[sb/4/14/31#purport|SB 4.14.31]]
 * fools misunderstand, [[sb/4/13/10#purport|SB 4.13.10]]
 * forgiveness in, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]]
@@ -35,7 +38,7 @@
 * preach God consciousness, [[sb/4/14/9#purport|SB 4.14.9]]
 * preach Kṛṣṇa consciousness, [[sb/10/10/17#purport|SB 10.10.17]]
 * Pṛṣadhra as, [[sb/9/2/14-14#purport|SB 9.2.14-14]]
-* Pṛthu 
+* Pṛthu
 * punishment by, [[sb/10/10/19#purport|SB 10.10.19]]
 * purify holy places, [[sb/9/9/6#purport|SB 9.9.6]]
 * questions & answers among, benefit everyone, [[sb/4/22/18#purport|SB 4.22.18]], [[sb/4/22/19-19#purport|SB 4.22.19-19]]
@@ -43,7 +46,6 @@
 * residences of, [[sb/3/22/26-27#purport|SB 3.22.26-27]]
 * reversals met by, [[sb/4/19/34#purport|SB 4.19.34]]
 * sages, great, as, [[bg/10/6|Bg. 10.6]]
-*  [[sb/5/5/9#purport|SB 5.5.9]], [[sb/5/14/39#purport|SB 5.14.39]]
 * spiritual knowledge distributed by, [[sb/4/22/47-47#purport|SB 4.22.47-47]]
 * spiritual master follows, [[sb/4/16/1#purport|SB 4.16.1]]
 * symptoms of, [[sb/10/10/18#purport|SB 10.10.18]]
@@ -51,4 +53,4 @@
 * vision of, [[bg/5/18|Bg. 5.18]]
 * visited Śiva untimely, [[sb/9/1/29#purport|SB 9.1.29]], [[sb/9/1/30-31#purport|SB 9.1.30-31]]
 
-*See also:* Devotees; [[s#Sages|Sages]]; [[s#Sādhus|Sādhus]]; [[b#Brāhmaṇas|Brāhmaṇas]]; Pures devotee; Spirituals master; [[m#Mahātmās|Mahātmās]]; Brāhmaṇas:s Devotee; [[p#Paramahaṁsas|Paramahaṁsas]]; Mahātmas; [[t#Transcendentalists|Transcendentalists]]; specific saintly persons
+*See also:* Brāhmaṇas; Devotees; Mahātmās; Pures devotee; Sages; Spirituals master; Brāhmaṇas:s Devotee; Paramahaṁsas; Mahātmas; Transcendentalists; specific saintly persons; Sādhus

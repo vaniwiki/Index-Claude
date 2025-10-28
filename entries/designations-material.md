@@ -8,4 +8,4 @@
 * Kṛṣṇa consciousness dispels, [[sb/4/21/12#purport|SB 4.21.12]]
 * material desires cause, [[sb/4/22/28#purport|SB 4.22.28]]
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; [[e#Ego|Ego]]; false
+*See also:* Bodily concept of life; [Ego](entries/ego.md); false

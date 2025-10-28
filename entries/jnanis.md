@@ -1,6 +1,6 @@
-# Jñānī(s)
+# Jñānīs
 
-[[cc/antya/5/121#purport|Antya 5.121]], [[sb/10/13/54#purport|SB 10.13.54]], [[sb/4/8/61#purport|SB 4.8.61]]
+[[cc/antya/5/121#purport|Antya 5.121]], [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/9/44#purport|SB 1.9.44]], [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/25/3#purport|SB 4.25.3]], [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/30/34#purport|SB 4.30.34]], [[sb/9/11/19#purport|SB 9.11.19]], [[sb/9/13/9#purport|SB 9.13.9]], [[sb/9/23/20-21#purport|SB 9.23.20-21]], [[sb/10/13/54#purport|SB 10.13.54]]
 
 * Absolute Truth misunderstood by, [[sb/4/22/9#purport|SB 4.22.9]]
 * anxiety in, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
@@ -14,12 +14,12 @@
 * benediction sought by, [[sb/4/20/23#purport|SB 4.20.23]]
 * Brahman effulgence attracts, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 * classes of, main & subordinate, [[sb/6/14/5#purport|SB 6.14.5]]
-* compared 
+* compared
 * deficiency in, [[sb/6/17/31#purport|SB 6.17.31]]
-* defined, [[sb/3/24/29#purport|SB 3.24.29]], [[sb/3/5/47#purport|SB 3.5.47]], [[sb/5/1/19#purport|SB 5.1.19]]
+* defined, [[sb/3/5/47#purport|SB 3.5.47]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/5/1/19#purport|SB 5.1.19]]
 * desire of, [[sb/7/6/25#purport|SB 7.6.25]]
 * desire oneness with Supreme, [[sb/3/2/19#purport|SB 3.2.19]]
-* devotees compared with, [[sb/3/24/29#purport|SB 3.24.29]], [[sb/4/20/12#purport|SB 4.20.12]], [[sb/4/20/23#purport|SB 4.20.23]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/28#purport|SB 4.23.28]], [[sb/4/24/20#purport|SB 4.24.20]], [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/56-57#purport|SB 4.24.56-57]], [[sb/4/9/10#purport|SB 4.9.10]], [[sb/4/9/36#purport|SB 4.9.36]], [[sb/4/11/14#purport|SB 4.11.14]], [[sb/4/12/26#purport|SB 4.12.26]], [[sb/4/12/36#purport|SB 4.12.36]], [[sb/4/12/37#purport|SB 4.12.37]], [[sb/4/12/45#purport|SB 4.12.45]], [[sb/4/14/7#purport|SB 4.14.7]], [[sb/6/16/34#purport|SB 6.16.34]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/7/15/25#purport|SB 7.15.25]], [[sb/9/5/20#purport|SB 9.5.20]], [[sb/9/5/22#purport|SB 9.5.22]]
+* devotees compared with, [[sb/3/24/29#purport|SB 3.24.29]], [[sb/4/9/10#purport|SB 4.9.10]], [[sb/4/9/36#purport|SB 4.9.36]], [[sb/4/11/14#purport|SB 4.11.14]], [[sb/4/12/26#purport|SB 4.12.26]], [[sb/4/12/36#purport|SB 4.12.36]], [[sb/4/12/37#purport|SB 4.12.37]], [[sb/4/12/45#purport|SB 4.12.45]], [[sb/4/14/7#purport|SB 4.14.7]], [[sb/4/20/12#purport|SB 4.20.12]], [[sb/4/20/23#purport|SB 4.20.23]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/28#purport|SB 4.23.28]], [[sb/4/24/20#purport|SB 4.24.20]], [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/56-57#purport|SB 4.24.56-57]], [[sb/6/16/34#purport|SB 6.16.34]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/7/15/25#purport|SB 7.15.25]], [[sb/9/5/20#purport|SB 9.5.20]], [[sb/9/5/22#purport|SB 9.5.22]]
 * devotees contrasted to, [[sb/10/9/9-11#purport|SB 10.9.9-11]], [[sb/10/9/21#purport|SB 10.9.21]]
 * falldown common for, [[sb/5/1/41#purport|SB 5.1.41]]
 * falldown of, [[sb/4/20/12#purport|SB 4.20.12]], [[sb/4/22/23#purport|SB 4.22.23]], [[sb/4/24/56#purport|SB 4.24.56]]
@@ -39,13 +39,14 @@
 * reject world, [[sb/10/3/18#purport|SB 10.3.18]]
 * renunciation by, [[sb/5/1/38#purport|SB 5.1.38]], [[sb/5/1/41#purport|SB 5.1.41]]
 * satisfaction of, [[sb/5/1/1#purport|SB 5.1.1]]
-*  [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/9/44#purport|SB 1.9.44]], [[sb/4/25/3#purport|SB 4.25.3]], [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/30/34#purport|SB 4.30.34]], [[sb/9/11/19#purport|SB 9.11.19]], [[sb/9/13/9#purport|SB 9.13.9]], [[sb/9/23/20-21#purport|SB 9.23.20-21]]
 * self acknowledged by, [[sb/4/20/2#purport|SB 4.20.2]]
 * sense gratification not overcome by, [[sb/5/18/8#purport|SB 5.18.8]]
 * soul misunderstood by, [[sb/7/7/21#purport|SB 7.7.21]]
 * status of, [[sb/7/13/43#purport|SB 7.13.43]]
 * surrender after self-realization, [[sb/4/20/29#purport|SB 4.20.29]]
 * Vāsudeva known by, ultimately, [[sb/8/3/12#purport|SB 8.3.12]]
+* with devotees, [[sb/5/1/19#purport|SB 5.1.19]]
+* with karmīs, [[sb/5/11/3#purport|SB 5.11.3]]
 * worship Lord, [[sb/4/24/62#purport|SB 4.24.62]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[i#Impersonalists|Impersonalists]]; Philosophers; speculative; [[m#Monists|Monists]]; Scientists; [[p#Philosophy|Philosophy]]
+*See also:* [Philosophy](entries/philosophies.md); speculative; Brāhmaṇas; Impersonalists; Philosophers; Monists; Scientists

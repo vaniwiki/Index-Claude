@@ -1,6 +1,7 @@
 # Hellish planets
 
-*  [[bg/1/43|Bg. 1.43]], [[bg/16/10|Bg. 16.10]], [[bg/16/16|Bg. 16.16]], [[bg/16/21–22|Bg. 16.21–22]]
+[[bg/1/43|Bg. 1.43]], [[bg/16/10|Bg. 16.10]], [[bg/16/16|Bg. 16.16]], [[bg/16/21–22|Bg. 16.21–22]]
+
 * degradation to, [[bg/1/43|Bg. 1.43]]
 * demons bound for, [[bg/16/16|Bg. 16.16]]
 * devotees indifferent to, [[sb/8/21/32#purport|SB 8.21.32]], [[sb/8/21/34#purport|SB 8.21.34]]

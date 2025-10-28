@@ -5,7 +5,7 @@
 * as conditioned defect, [[sb/1/14/4#purport|SB 1.14.4]], [[sb/3/24/12#purport|SB 3.24.12]], [[sb/3/24/17#purport|SB 3.24.17]]
 * as ominous sign, [[sb/1/14/4#purport|SB 1.14.4]]
 * brāhmaṇas &, [[sb/5/4/5#purport|SB 5.4.5]]
-* by ”yogīs,” [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/21/7#purport|SB 3.21.7]]
+* by ”yogīs,”, [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/21/7#purport|SB 3.21.7]]
 * by economists, [[sb/5/14/26#purport|SB 5.14.26]]
 * by material energy, [[sb/3/23/57#purport|SB 3.23.57]]
 * by philosophers, [[sb/5/14/26#purport|SB 5.14.26]]

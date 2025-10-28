@@ -1,14 +1,16 @@
 # Brahman (impersonal Absolute)
 
-[[sb/10/3/24#purport|SB 10.3.24]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
+[[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/10/3/24#purport|SB 10.3.24]]
 
 * ”devotional service” for attaining, [[sb/6/14/5#purport|SB 6.14.5]]
 * as Absolute Truth feature, [[sb/3/24/39#purport|SB 3.24.39]], [[sb/3/33/26#purport|SB 3.33.26]], [[sb/9/5/25#purport|SB 9.5.25]], [[sb/9/9/49#purport|SB 9.9.49]], [[sb/9/23/20-21#purport|SB 9.23.20-21]]
 * as all-pervasive, [[sb/7/3/33#purport|SB 7.3.33]], [[sb/7/12/16#purport|SB 7.12.16]]
 * as aspect of Lord, [[sb/6/16/18-19#purport|SB 6.16.18-19]], [[sb/6/16/21#purport|SB 6.16.21]], [[sb/6/16/25#purport|SB 6.16.25]], [[sb/6/16/51#purport|SB 6.16.51]], [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/55#purport|SB 6.16.55]]
+* as difficult, [[sb/4/8/45#purport|SB 4.8.45]]
 * as expanding unlimitedly, [[sb/4/8/78#purport|SB 4.8.78]]
 * as immediate cause of creation, [[sb/2/9/33#purport|SB 2.9.33]]
 * as impersonal feature of Lord, [[sb/3/32/26#purport|SB 3.32.26]]
+* as incomplete, [[sb/4/4/14#purport|SB 4.4.14]]
 * as Lord’s effulgence, [[sb/3/25/34#purport|SB 3.25.34]], [[sb/3/26/3#purport|SB 3.26.3]], [[sb/3/27/29#purport|SB 3.27.29]], [[sb/9/11/19#purport|SB 9.11.19]]
 * as Lord’s energy, [[sb/7/7/24#purport|SB 7.7.24]]
 * as misconceived by unintelligent, [[sb/6/4/47#purport|SB 6.4.47]]
@@ -23,15 +25,17 @@
 * brāhmaṇa knows, [[sb/3/16/4#purport|SB 3.16.4]], [[sb/7/14/41#purport|SB 7.14.41]]
 * brāhmaṇas should know, [[sb/4/2/26#purport|SB 4.2.26]]
 * Bṛhaspati aware of, [[sb/6/7/21#purport|SB 6.7.21]]
+* compared with meditation on Lord, [[sb/4/8/45#purport|SB 4.8.45]]
 * compared with pradhāna, [[sb/3/26/10#purport|SB 3.26.10]]
 * Creation rests in, [[sb/2/6/39#purport|SB 2.6.39]]
 * defined by negation, [[sb/10/13/57#purport|SB 10.13.57]]
-* defined, [[sb/4/8/78#purport|SB 4.8.78]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/8/7/31#purport|SB 8.7.31]]
+* defined, [[sb/4/8/78#purport|SB 4.8.78]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/8/7/31#purport|SB 8.7.31]], [[sb/9/8/23#purport|SB 9.8.23]]
 * devotee’s consideration of, [[sb/9/4/25#purport|SB 9.4.25]]
 * devotees avoid merging with, [[sb/6/5/38#purport|SB 6.5.38]]
 * devotees realize, [[sb/3/33/26#purport|SB 3.33.26]], [[sb/4/7/29#purport|SB 4.7.29]]
 * devotees respect, [[sb/3/9/14#purport|SB 3.9.14]]
 * devotional service on level of, [[sb/4/3/23#purport|SB 4.3.23]]
+* devotional service on, [[sb/9/18/40#purport|SB 9.18.40]]
 * Durvāsā meditated on, [[sb/9/4/37#purport|SB 9.4.37]]
 * energies of, [[sb/4/9/16-16#purport|SB 4.9.16-16]]
 * enjoyment caused by, [[sb/6/16/55#purport|SB 6.16.55]]
@@ -41,7 +45,7 @@
 * happiness in, [[sb/3/1/31#purport|SB 3.1.31]], [[sb/7/7/37#purport|SB 7.7.37]]
 * humans should know, [[sb/4/2/26#purport|SB 4.2.26]]
 * impersonalists rise to & fall from, [[sb/4/9/29#purport|SB 4.9.29]]
-* knowledge about 
+* knowledge about
 * Kṛṣṇa above, [[sb/8/1/14#purport|SB 8.1.14]]
 * Kṛṣṇa causes, [[sb/7/1/19#purport|SB 7.1.19]]
 * Lord as basis of, [[sb/3/32/32#purport|SB 3.32.32]]
@@ -49,21 +53,22 @@
 * Lord as source of, [[sb/4/9/16#purport|SB 4.9.16]], [[sb/4/12/51#purport|SB 4.12.51]]
 * Lord basis of, [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/7/10/49#purport|SB 7.10.49]]
 * material world caused by, [[sb/4/9/16#purport|SB 4.9.16]]
-* meditation on 
-* merging with, at annihilation, [[sb/6/4/47#purport|SB 6.4.47]]
+* meditation on
 * merging with, [[sb/7/12/24#purport|SB 7.12.24]], [[sb/7/13/27#purport|SB 7.13.27]]
+* merging with, at annihilation, [[sb/6/4/47#purport|SB 6.4.47]]
 * oneness in quality with, [[sb/6/16/56#purport|SB 6.16.56]]
 * origin of, [[sb/6/9/42#purport|SB 6.9.42]]
 * personal & impersonal, [[sb/3/32/23#purport|SB 3.32.23]]
+* personal examples of, [[sb/9/8/23#purport|SB 9.8.23]]
 * perspectives on, [[sb/6/4/32-32#purport|SB 6.4.32-32]]
-* platform of 
+* platform of
 * primary realization, [[sb/3/15/46-47#purport|SB 3.15.46-47]]
 * realiātion about, [[sb/7/4/40#purport|SB 7.4.40]]
 * realiātion of, [[sb/6/9/33#purport|SB 6.9.33]]
 * realization of, [[sb/2/1/9#purport|SB 2.1.9]], [[sb/2/7/47#purport|SB 2.7.47]], [[sb/2/9/9#purport|SB 2.9.9]], [[sb/2/10/44#purport|SB 2.10.44]]
-* realization of. See: Brahman realization 
 * religious principles reveal, [[sb/7/10/45#purport|SB 7.10.45]]
 * saguṇa, compared with nirguṇa, [[sb/3/26/15#purport|SB 3.26.15]]
+* Śiva gives, [[sb/4/4/14#purport|SB 4.4.14]]
 * source of, [[sb/6/16/57#purport|SB 6.16.57]]
 * suffering absent in understanding, [[sb/6/15/25#purport|SB 6.15.25]]
 * Supreme Brahman surpasses, [[sb/3/4/16#purport|SB 3.4.16]]
@@ -74,4 +79,4 @@
 * Viṣṇu disinterested in, [[sb/8/7/31#purport|SB 8.7.31]]
 * yoga systems pursuing, [[sb/2/5/16#purport|SB 2.5.16]]
 
-*See also:* [[b#Brahmajyoti|Brahmajyoti]]; [[b#Brahman effulgence|Brahman effulgence]]; [[i#Impersonalism|Impersonalism]]; [[i#Impersonalists|Impersonalists]]; [[s#Spiritual world|Spiritual world]]; [[l#Liberation|Liberation]]; [[s#Souls|Souls]]; [[m#Monism|Monism]]
+*See also:* [Brahmajyoti](entries/brahmajyoti.md); [Impersonalism](entries/impersonalism.md); Brahman effulgence; [Monism](entries/monism.md); [Liberation](entries/liberation.md); Impersonalists; Spiritual world; Souls

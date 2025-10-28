@@ -1,6 +1,6 @@
 # Intelligence
 
-[[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/7/118#purport|Ādi 7.118]], [[bg/10/4|Bg. 10.4]], [[cc/madhya/11/102#purport|Madhya 11.102]], [[cc/madhya/11/99#purport|Madhya 11.99]], [[sb/1/7/42#purport|SB 1.7.42]]
+[[bg/10/4|Bg. 10.4]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/7/118#purport|Ādi 7.118]], [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/11/102#purport|Madhya 11.102]], [[sb/1/7/42#purport|SB 1.7.42]]
 
 * & material assets, [[sb/5/1/12#purport|SB 5.1.12]]
 * & mind & self, [[sb/4/25/57-61#purport|SB 4.25.57-61]]
@@ -17,19 +17,25 @@
 * Brahmā instructs Priyavrata to use, [[sb/5/1/12#purport|SB 5.1.12]]
 * brain &, [[sb/4/7/5#purport|SB 4.7.5]]
 * carried away, [[bg/2/67|Bg. 2.67]]
-* compared 
+* compared
+  * to boat, [[bg/2/67|Bg. 2.67]]
+  * to medicine, [[bg/6/34|Bg. 6.34]]
+  * with fruitive work, [[bg/3/1|Bg. 3.1]]
 * compared to chariot driver, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/29/18-20#purport|SB 4.29.18-20]]
 * compared to prostitute, [[sb/6/5/14-15#purport|SB 6.5.14-15]]
 * compared to Purañjanī, [[sb/4/29/17#purport|SB 4.29.17]]
 * compared to taste & aroma, [[sb/3/27/18#purport|SB 3.27.18]]
 * compared with mind & senses, [[sb/3/13/13#purport|SB 3.13.13]]
 * compared with mind, [[sb/3/26/31#purport|SB 3.26.31]]
+* compared with spiritual, [[sb/4/25/26#purport|SB 4.25.26]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/26/14#purport|SB 4.26.14]]
 * conditional life abandoned through, [[sb/7/2/46#purport|SB 7.2.46]]
+* controls, [[sb/7/8/52#purport|SB 7.8.52]]
 * creation dependent on, [[sb/2/10/49-50#purport|SB 2.10.49-50]]
 * demigod worshipers lack, [[sb/6/16/38#purport|SB 6.16.38]], [[sb/7/15/14#purport|SB 7.15.14]]
 * demons’ lack of, [[bg/16/9|Bg. 16.9]]
 * devotional service matter of, [[sb/6/18/75-75#purport|SB 6.18.75-75]]
 * devotional service requires, [[sb/4/12/8#purport|SB 4.12.8]]
+* discredited, [[sb/9/4/65#purport|SB 9.4.65]]
 * duality bewilders, [[sb/7/12/10#purport|SB 7.12.10]]
 * fixed on Kṛṣṇa, [[sb/3/2/10#purport|SB 3.2.10]]
 * for demon’s falldown, [[sb/4/30/26#purport|SB 4.30.26]]
@@ -54,7 +60,11 @@
 * in modes of nature, [[bg/13/6|Bg. 13.6]], [[bg/18/29–32|Bg. 18.29–32]]
 * in passion mode, [[bg/18/31|Bg. 18.31]]
 * in subtle body, [[sb/4/29/60-60#purport|SB 4.29.60-60]]
-* Kṛṣṇa 
+* inspires, [[sb/7/2/47#purport|SB 7.2.47]]
+* Kṛṣṇa
+  * as origin of, [[bg/10/4|Bg. 10.4]]
+  * as, [[bg/7/10|Bg. 7.10]]
+  * represented by, [[bg/10/34|Bg. 10.34]]
 * Kṛṣṇa conscious, [[sb/4/29/5#purport|SB 4.29.5]]
 * Kṛṣṇa consciousness as, [[sb/4/26/16#purport|SB 4.26.16]]
 * Kṛṣṇa consciousness object of, [[sb/5/14/46#purport|SB 5.14.46]]
@@ -62,15 +72,15 @@
 * Kṛṣṇa represented by, [[bg/10/34|Bg. 10.34]]
 * Kṛṣṇa understood in relation to, [[sb/6/9/38#purport|SB 6.9.38]]
 * living beings depend on, [[sb/2/2/35#purport|SB 2.2.35]]
-* Lord , 
+* Lord
 * Lord as basis of, [[sb/3/20/17#purport|SB 3.20.17]]
 * Lord as source of, [[sb/6/16/35#purport|SB 6.16.35]], [[sb/6/16/51#purport|SB 6.16.51]]
 * Lord giver of, [[sb/5/7/14#purport|SB 5.7.14]]
 * loss of, progression leading to, [[bg/2/62–63|Bg. 2.62–63]]
-* lust &, 3.40, 3.40, [[bg/3/42–43|Bg. 3.42–43]]
+* lust &, 3.40, [[bg/3/42–43|Bg. 3.42–43]]
 * many-branched, [[bg/2/41|Bg. 2.41]]
-* material, compared with spiritual, [[bg/2/69|Bg. 2.69]], [[sb/1/13/55#purport|SB 1.13.55]]
 * material, [[sb/2/10/3#purport|SB 2.10.3]], [[sb/4/25/20-22#purport|SB 4.25.20-22]], [[sb/4/25/36#purport|SB 4.25.36]], [[sb/4/25/56-56#purport|SB 4.25.56-56]], [[sb/4/25/57-61#purport|SB 4.25.57-61]], [[sb/4/29/5-5#purport|SB 4.29.5-5]], [[sb/4/29/17-17#purport|SB 4.29.17-17]], [[sb/4/31/11#purport|SB 4.31.11]]
+* material, compared with spiritual, [[bg/2/69|Bg. 2.69]], [[sb/1/13/55#purport|SB 1.13.55]]
 * materialists lack, [[sb/7/6/14#purport|SB 7.6.14]]
 * materialists’ lack of, [[bg/16/9|Bg. 16.9]]
 * meaning of, [[bg/10/4|Bg. 10.4]] (2), [[bg/10/34|Bg. 10.34]]
@@ -83,7 +93,7 @@
 * next to spirit soul, [[bg/3/40|Bg. 3.40]]
 * of demons, [[sb/3/19/1#purport|SB 3.19.1]], [[sb/7/2/21#purport|SB 7.2.21]], [[sb/7/2/35#purport|SB 7.2.35]]
 * of devotee topmost, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
-* of Durvāsā 
+* of Durvāsā
 * of irresolute, [[bg/2/41|Bg. 2.41]], [[sb/4/25/36#purport|SB 4.25.36]], [[sb/4/27/11#purport|SB 4.27.11]]
 * of Lord & living entity compared, [[sb/10/13/61#purport|SB 10.13.61]]
 * of monists, [[sb/7/7/19-20#purport|SB 7.7.19-20]]
@@ -93,6 +103,7 @@
 * of Vasiṣṭha discredited, [[sb/9/2/9#purport|SB 9.2.9]]
 * of woman, [[sb/3/23/54#purport|SB 3.23.54]], [[sb/3/24/5#purport|SB 3.24.5]], [[sb/3/25/30-30#purport|SB 3.25.30-30]]
 * origin of, [[bg/10/4|Bg. 10.4]]
+* oversees, [[sb/2/5/17#purport|SB 2.5.17]]
 * passion mode generates, [[sb/2/5/31#purport|SB 2.5.31]], [[sb/2/5/31#purport|SB 2.5.31]]
 * polluted, [[sb/7/7/26-27#purport|SB 7.7.26-27]]
 * proper use of, [[sb/2/10/32#purport|SB 2.10.32]], [[sb/5/1/12#purport|SB 5.1.12]]
@@ -100,6 +111,8 @@
 * Purañjanī compared to, [[sb/4/25/36#purport|SB 4.25.36]]
 * purification of, [[sb/1/15/29#purport|SB 1.15.29]], [[sb/4/29/5#purport|SB 4.29.5]], [[sb/7/7/26#purport|SB 7.7.26]]
 * purification via, [[bg/18/51|Bg. 18.51]]
+* purified by Sudarśana cakra, [[sb/9/5/20#purport|SB 9.5.20]]
+* purifies, [[sb/2/4/21#purport|SB 2.4.21]]
 * purpose of human, [[sb/7/6/1#purport|SB 7.6.1]]
 * purpose of, [[sb/1/13/41#purport|SB 1.13.41]]
 * sacrificed to Brahmā, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
@@ -114,9 +127,11 @@
 * spiritual, compared with material, [[sb/4/25/26#purport|SB 4.25.26]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/26/14#purport|SB 4.26.14]]
 * spiritualiātion of, [[sb/2/2/16#purport|SB 2.2.16]]
 * steady, [[bg/2/52–58|Bg. 2.52–58]], [[bg/2/61|Bg. 2.61]], [[bg/2/65|Bg. 2.65]], [[bg/2/68|Bg. 2.68]]
-* Supersoul 
+* Supersoul
+* supplies, [[sb/2/2/35#purport|SB 2.2.35]], [[sb/2/4/20#purport|SB 2.4.20]], [[sb/7/14/38#purport|SB 7.14.38]]
 * surrender requires, [[sb/7/15/12#purport|SB 7.15.12]]
 * transcendental, [[bg/2/66|Bg. 2.66]]
+* understood via, [[sb/7/7/25#purport|SB 7.7.25]]
 * valuable only in devotional service, [[sb/4/31/11-11#purport|SB 4.31.11-11]]
 * via devotional service, [[sb/4/28/41#purport|SB 4.28.41]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/29/5#purport|SB 4.29.5]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/30/10#purport|SB 4.30.10]], [[sb/4/30/20#purport|SB 4.30.20]], [[sb/4/31/13#purport|SB 4.31.13]], [[sb/6/3/26#purport|SB 6.3.26]]
 * via Kṛṣṇa consciousness, [[bg/2/65|Bg. 2.65]], [[bg/2/68|Bg. 2.68]], [[bg/10/10|Bg. 10.10]]
@@ -125,4 +140,4 @@
 * worship to Pradyumna for, [[sb/3/26/21#purport|SB 3.26.21]]
 * worshiping Kṛṣṇa as, [[sb/7/10/11#purport|SB 7.10.11]]
 
-*See also:* Body (material); subtle; [[k#Knowledge|Knowledge]]; [[u#Understanding|Understanding]]; [[b#Body|Body]]; [[e#Elements|Elements]]; material; [[m#Mind|Mind]]
+*See also:* [Body](entries/body.md); subtle; [Knowledge](entries/knowledge.md); [Mind](entries/mind.md); Body (material); [Understanding](entries/understanding.md); Elements; material

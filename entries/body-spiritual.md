@@ -16,8 +16,8 @@
 * manifestation of, [[sb/4/23/11#purport|SB 4.23.11]]
 * no change for, [[bg/15/16|Bg. 15.16]]
 * of Kṛṣṇa, [[sb/4/11/25#purport|SB 4.11.25]]
-* of pure devotee, N103 
 * of pure devotee, [[sb/4/22/26#purport|SB 4.22.26]]
+* of pure devotee, N103
 * of spiritual master, [[sb/10/4/20#purport|SB 10.4.20]]
 * original, [[bg/15/7|Bg. 15.7]]
 * qualities of, as sac-cid-ānanda, [[sb/2/9/32#purport|SB 2.9.32]]
@@ -29,8 +29,8 @@
 * Vaikuṇṭha via, [[sb/4/12/34#purport|SB 4.12.34]]
 * Vaikuṇṭha’s residents possess, [[sb/5/5/19#purport|SB 5.5.19]]
 * via Kṛṣṇa consciousness, [[sb/4/29/65#purport|SB 4.29.65]]
-* via preparation in this life, 23 
+* via preparation in this life, 23
 
-*See also:* [[s#Souls|Souls]]
+*See also:* Souls
 
-*See:* [[s#Spiritual body|Spiritual body]]
+*See:* Spiritual body

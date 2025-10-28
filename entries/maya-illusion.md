@@ -16,4 +16,4 @@
 * stands opposite Lord, [[sb/2/5/13#purport|SB 2.5.13]], [[sb/2/9/45#purport|SB 2.9.45]]
 * twofold snares of, [[sb/2/9/30#purport|SB 2.9.30]]
 
-*See also:* Energy; material; [[i#Illusion|Illusion]]; [[m#Material world|Material world]]; [[n#Nature|Nature]]; Universes
+*See also:* Energy; material; [Illusion](entries/illusion.md); Material world; Nature; Universes

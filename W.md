@@ -6,16 +6,6 @@
 
 ## Wa
 
-### [War](entries/war.md)
-
-[[bg/1/40|Bg. 1.40]]...
-
-* *kṣatriya* &,  2.31, [[bg/2/32|Bg. 2.32]]
-
-*→ See all 35 references in* [War](entries/war.md)
-
----
-
 ### War between demigods & demons
 
 [[sb/9/6/13#purport|SB 9.6.13]]
@@ -32,9 +22,11 @@
 
 ### [War(s)](entries/wars.md)
 
-* as prominent today, [[sb/1/1/10#purport|SB 1.1.10]]
+[[bg/1/40|Bg. 1.40]]...
 
-*→ See all 15 references in* [War(s)](entries/wars.md)
+* *kṣatriya* &,, 2.31, [[bg/2/32|Bg. 2.32]]
+
+*→ See all 51 references in* [War(s)](entries/wars.md)
 
 ---
 
@@ -55,7 +47,7 @@
 ### Warriors
 
 
-*See:* Armies; [[k#Kṣatriyas|Kṣatriyas]]; specific warriors
+*See:* Armies; Kṣatriyas; specific warriors
 
 ---
 
@@ -96,7 +88,7 @@
 
 [[sb/3/26/43#purport|SB 3.26.43]]...
 
-* ”evolution” of, [[sb/2/5/26-29#purport|SB 2.5.26-29]]
+* ”evolution” of,, [[sb/2/5/26-29#purport|SB 2.5.26-29]]
 
 *→ See all 41 references in* [Water](entries/water.md)
 
@@ -180,9 +172,9 @@
 
 ### [Wealth](entries/wealth.md)
 
-* *sannyāsī *&, [[bg/16/1|Bg. 16.1]] (5)
+* *sannyāsī *&,, [[bg/16/1|Bg. 16.1]] (5)
 
-*→ See all 124 references in* [Wealth](entries/wealth.md)
+*→ See all 128 references in* [Wealth](entries/wealth.md)
 
 ---
 
@@ -195,9 +187,9 @@
 
 ### [Weapon(s)](entries/weapons.md)
 
-* *pāśupata-astra, * 2.33
+* *pāśupata-astra, *, 2.33
 
-*→ See all 37 references in* [Weapon(s)](entries/weapons.md)
+*→ See all 44 references in* [Weapon(s)](entries/weapons.md)
 
 ---
 
@@ -249,7 +241,7 @@
 ### Weeping
 
 
-*See:* [[c#Crying|Crying]]
+*See:* Crying
 
 ---
 
@@ -270,31 +262,23 @@
 ### Welcome
 
 
-*See:* Addresses; [[w#welcome|welcome]]; Reception
+*See:* Addresses; welcome; Reception
 
 ---
 
 ### [Welfare activities](entries/welfare-activities.md)
 
-**[[cc/adi/9/42#translation|Ādi 9.42]]**, **[[cc/adi/9/43#translation|Ādi 9.43]]**, [[cc/adi/9/44#purport|Ādi 9.44]]...
+**[[cc/adi/9/42#translation|Ādi 9.42]]**...
 
-* as duty of everyone, [[sb/6/10/10#purport|SB 6.10.10]]
+* as duty of everyone,, [[sb/6/10/10#purport|SB 6.10.10]]
 
-*→ See all 9 references in* [Welfare activities](entries/welfare-activities.md)
-
----
-
-### [Welfare activity](entries/welfare-activity.md)
-
-* by brāhmaṇas, [[sb/3/3/27#purport|SB 3.3.27]]
-
-*→ See all 16 references in* [Welfare activity](entries/welfare-activity.md)
+*→ See all 25 references in* [Welfare activities](entries/welfare-activities.md)
 
 ---
 
 ### [Welfare work](entries/welfare-work.md)
 
-* by devotees, [[sb/4/14/7#purport|SB 4.14.7]]
+* by devotees,, [[sb/4/14/7#purport|SB 4.14.7]]
 
 *→ See all 8 references in* [Welfare work](entries/welfare-work.md)
 
@@ -331,13 +315,13 @@
 ### Well of nectar
 
 
-*See:* [[n#Nectar well|Nectar well]]
+*See:* Nectar well
 
 ---
 
 ### [Western countries](entries/western-countries.md)
 
-* ”yogīs” in, [[sb/4/23/8#purport|SB 4.23.8]]
+* ”yogīs” in,, [[sb/4/23/8#purport|SB 4.23.8]]
 
 *→ See all 18 references in* [Western countries](entries/western-countries.md)
 
@@ -352,7 +336,7 @@
 
 ### [Western world](entries/western-world.md)
 
-* *Bhagavad-gītā *versions in, 2 
+* *Bhagavad-gītā *versions in, 2
 
 *→ See all 6 references in* [Western world](entries/western-world.md)
 
@@ -378,7 +362,7 @@
 ### Wheel, Sudarśana
 
 
-*See:* [[s#Sudarśana cakra|Sudarśana cakra]]
+*See:* Sudarśana cakra
 
 ---
 
@@ -412,16 +396,11 @@
 
 ### [Wife](entries/wife.md)
 
-* as beauty of family life, [[sb/4/29/53#purport|SB 4.29.53]], [[sb/4/29/54-54#purport|SB 4.29.54-54]]
+[[bg/1/36|Bg. 1.36]], [[bg/3/34|Bg. 3.34]], [[bg/7/21|Bg. 7.21]], [[bg/11/44|Bg. 11.44]], [[bg/16/7|Bg. 16.7]]...
 
-*→ See all 55 references in* [Wife](entries/wife.md)
+* as beauty of family life,, [[sb/4/29/53#purport|SB 4.29.53]], [[sb/4/29/54-54#purport|SB 4.29.54-54]]
 
----
-
-### Wind
-
-* Kṛṣṇa controls, [[bg/9/6|Bg. 9.6]]
-* Kṛṣṇa represented by, [[bg/10/31|Bg. 10.31]]
+*→ See all 63 references in* [Wife](entries/wife.md)
 
 ---
 
@@ -457,6 +436,8 @@
 
 * at demons’ birth, [[sb/3/17/5-5#purport|SB 3.17.5-5]]
 * demigod of, [[sb/3/25/42#purport|SB 3.25.42]]
+* Kṛṣṇa controls, [[bg/9/6|Bg. 9.6]]
+* Kṛṣṇa represented by, [[bg/10/31|Bg. 10.31]]
 
 ---
 
@@ -468,7 +449,7 @@
 
 ### [Wine](entries/wine.md)
 
-* celibates forbidden, [[sb/7/12/12#purport|SB 7.12.12]]
+* celibates forbidden,, [[sb/7/12/12#purport|SB 7.12.12]]
 
 *→ See all 7 references in* [Wine](entries/wine.md)
 
@@ -486,13 +467,13 @@
 [[sb/10/10/8-8#purport|SB 10.10.8-8]]
 
 
-*See also:* [[i#Intoxication|Intoxication]]
+*See also:* [Intoxication](entries/intoxication.md)
 
 ---
 
 ### [Wisdom](entries/wisdom.md)
 
-* as brahminical quality, [[bg/18/42|Bg. 18.42]]
+* as brahminical quality,, [[bg/18/42|Bg. 18.42]]
 
 *→ See all 8 references in* [Wisdom](entries/wisdom.md)
 
@@ -502,15 +483,17 @@
 
 *  [[sb/4/24/67-67#purport|SB 4.24.67-67]], [[sb/4/24/68#purport|SB 4.24.68]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; Jṇānīs; [[s#Sages|Sages]]
+*See also:* Brāhmaṇas; Jṇānīs; Sages
 
 ---
 
 ### [Wise men](entries/wise-men.md)
 
-* as Kṛṣṇa conscious, [[sb/7/13/45#purport|SB 7.13.45]]
+...
 
-*→ See all 17 references in* [Wise men](entries/wise-men.md)
+* as Kṛṣṇa conscious,, [[sb/7/13/45#purport|SB 7.13.45]]
+
+*→ See all 19 references in* [Wise men](entries/wise-men.md)
 
 ---
 
@@ -532,13 +515,13 @@
 
 * as children’s enemies, [[sb/10/6/27-29#purport|SB 10.6.27-29]]
 
-*See also:* [[g#Ghosts|Ghosts]]
+*See also:* Ghosts
 
 ---
 
 ### [Wives](entries/wives.md)
 
-* chaste & faithful, [[sb/9/10/27#purport|SB 9.10.27]]
+* chaste & faithful,, [[sb/9/10/27#purport|SB 9.10.27]]
 
 *→ See all 13 references in* [Wives](entries/wives.md)
 
@@ -548,9 +531,9 @@
 
 ### [Woman (Women)](entries/woman-women.md)
 
-* addiction to, [[sb/4/8/65#purport|SB 4.8.65]]
+* abandoning of,, [[sb/4/8/65#purport|SB 4.8.65]]
 
-*→ See all 39 references in* [Woman (Women)](entries/woman-women.md)
+*→ See all 46 references in* [Woman (Women)](entries/woman-women.md)
 
 ---
 
@@ -570,11 +553,11 @@
 
 ### [Women](entries/women.md)
 
-[[cc/antya/12/42#purport|Antya 12.42]], **[[cc/antya/2/117–20#translation|Antya 2.117–20]]**, [[cc/antya/2/143#purport|Antya 2.143]]...
+**[[cc/madhya/22/87–90#translation|Madhya 22.87–90]]**...
 
-* ”sannyāsīs” seeking, [[sb/3/24/35#purport|SB 3.24.35]]
+* ”sannyāsīs” seeking,, [[sb/3/24/35#purport|SB 3.24.35]]
 
-*→ See all 243 references in* [Women](entries/women.md)
+*→ See all 263 references in* [Women](entries/women.md)
 
 ---
 
@@ -616,16 +599,16 @@
 
 ### [Work](entries/work.md)
 
-* “art of,” 2.50, [[bg/3/9|Bg. 3.9]]
+* “art of,”, 2.50, [[bg/3/9|Bg. 3.9]]
 
-*→ See all 83 references in* [Work](entries/work.md)
+*→ See all 139 references in* [Work](entries/work.md)
 
 ---
 
 ### Work, fruitive
 
 
-*See:* [[f#Fruitive work|Fruitive work]]
+*See:* Fruitive work
 
 ---
 
@@ -634,13 +617,15 @@
 [[sb/1/8/51#purport|SB 1.8.51]]
 
 
-*See also:* [[k#Karma|Karma]]
+*See also:* [Karma](entries/karma.md)
 
 ---
 
 ### [Worker(s)](entries/workers.md)
 
-* *See:* Fruitives worker 
+...
+
+* in goodness mode,, [[bg/18/26|Bg. 18.26]]
 
 *→ See all 9 references in* [Worker(s)](entries/workers.md)
 
@@ -649,22 +634,14 @@
 ### Workers, fruitive
 
 
-*See:* [[f#Fruitive workers|Fruitive workers]]
-
----
-
-### [World](entries/world.md)
-
-* Ambarīṣa ruled, [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/5/24#purport|SB 9.5.24]]
-
-*→ See all 9 references in* [World](entries/world.md)
+*See:* Fruitive workers
 
 ---
 
 ### World peace
 
 
-*See:* [[p#Peace|Peace]]; [[w#world|world]]
+*See:* [Peace](entries/peace.md); [world](entries/worlds.md)
 
 ---
 
@@ -678,23 +655,22 @@
 ### World, material
 
 
-*See:* [[c#Creation|Creation]]; the; [[e#Earth planet|Earth planet]]; [[m#Material world|Material world]]; Universes; [[u#Universe|Universe]]
+*See:* [Creation](entries/creation.md); the; Earth planet; Material world; Universes; Universe
 
 ---
 
 ### World, spiritual
 
 
-*See:* [[s#Spiritual world|Spiritual world]]
+*See:* Spiritual world
 
 ---
 
-### World(s)
+### [World(s)](entries/worlds.md)
 
-* former capital of, [[sb/1/15/38#purport|SB 1.15.38]]
-* Pāṇḍavas ruled, [[sb/1/15/4#purport|SB 1.15.4]]
+* Ambarīṣa ruled,, [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/5/24#purport|SB 9.5.24]]
 
-*See also:* [[e#Earth planet|Earth planet]]; Heavenlies planet; [[m#Material world|Material world]]
+*→ See all 12 references in* [World(s)](entries/worlds.md)
 
 ---
 
@@ -715,7 +691,7 @@
 ### Worms
 
 
-*See:* [[g#Glowworms|Glowworms]]
+*See:* Glowworms
 
 ---
 
@@ -728,17 +704,19 @@
 
 ### [Worship](entries/worship.md)
 
-[[cc/madhya/11/31#purport|Madhya 11.31]], [[cc/madhya/9/137#purport|Madhya 9.137]], **[[cc/madhya/9/139#translation|Madhya 9.139]]**...
+[[cc/madhya/9/137#purport|Madhya 9.137]]...
 
-* *saguṇa *& *nirguṇa,* 12.5 (1)
+* *saguṇa *& *nirguṇa,*, 12.5 (1)
 
-*→ See all 217 references in* [Worship](entries/worship.md)
+*→ See all 492 references in* [Worship](entries/worship.md)
 
 ---
 
 ### [Worship to Supreme Lord](entries/worship-to-supreme-lord.md)
 
-* as Viṣṇu, [[sb/10/6/27-29#purport|SB 10.6.27-29]], [[sb/10/8/45#purport|SB 10.8.45]]
+[[sb/10/13/49-49#purport|SB 10.13.49-49]], [[sb/10/13/51#purport|SB 10.13.51]], [[sb/10/13/53#purport|SB 10.13.53]]...
+
+* as Viṣṇu,, [[sb/10/6/27-29#purport|SB 10.6.27-29]], [[sb/10/8/45#purport|SB 10.8.45]]
 
 *→ See all 10 references in* [Worship to Supreme Lord](entries/worship-to-supreme-lord.md)
 
@@ -750,7 +728,7 @@
 
 *  [[sb/2/7/7#purport|SB 2.7.7]], [[sb/2/7/7#purport|SB 2.7.7]]
 
-*See:* [[a#Anger|Anger]]
+*See:* [Anger](entries/anger.md)
 
 ---
 

@@ -13,6 +13,6 @@
 * two types of, [[sb/3/21/12#purport|SB 3.21.12]]
 * via chanting oṁkāra, [[sb/2/1/17-18#purport|SB 2.1.17-18]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[m#Meditation|Meditation]]; Meditation on Kṛṣṇa; [[s#Samādhi|Samādhi]]
+*See also:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); Meditation on Kṛṣṇa; Samādhi
 
-*See:* [[m#Meditation|Meditation]]; [[s#Samādhi|Samādhi]]; [[y#Yoga|Yoga]]
+*See:* [Meditation](entries/meditation.md); [Yoga](entries/yogas.md); Samādhi

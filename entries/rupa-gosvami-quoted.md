@@ -1,8 +1,8 @@
 # Rūpa Gosvāmī quoted
 
-**[[cc/adi/17/293#translation|Ādi 17.293]]**, [[cc/adi/3/63#purport|Ādi 3.63]], [[cc/adi/3/66#purport|Ādi 3.66]], [[cc/adi/4/259–60#purport|Ādi 4.259–60]], [[cc/adi/4/275#purport|Ādi 4.275]], [[cc/antya/1/132#purport|Antya 1.132]], **[[cc/antya/19/35#translation|Antya 19.35]]**, **[[cc/madhya/1/76#translation|Madhya 1.76]]**, **[[cc/madhya/14/180#translation|Madhya 14.180]]**, [[cc/madhya/19/157#purport|Madhya 19.157]], **[[cc/madhya/20/180#translation|Madhya 20.180]]**, **[[cc/madhya/20/182#translation|Madhya 20.182]]**, **[[cc/madhya/8/161#translation|Madhya 8.161]]**, **[[cc/madhya/8/99#translation|Madhya 8.99]]**, **[[cc/madhya/9/150#translation|Madhya 9.150]]**
+[[cc/adi/3/63#purport|Ādi 3.63]], [[cc/adi/3/66#purport|Ādi 3.66]], [[cc/adi/4/275#purport|Ādi 4.275]], [[cc/antya/1/132#purport|Antya 1.132]], [[cc/madhya/19/157#purport|Madhya 19.157]], **[[cc/adi/17/293#translation|Ādi 17.293]]**, **[[cc/madhya/9/150#translation|Madhya 9.150]]**, **[[cc/madhya/20/180#translation|Madhya 20.180]]**, **[[cc/madhya/20/182#translation|Madhya 20.182]]**, [[cc/adi/4/259–60#purport|Ādi 4.259–60]], **[[cc/madhya/1/76#translation|Madhya 1.76]]**, **[[cc/madhya/8/99#translation|Madhya 8.99]]**, **[[cc/madhya/8/161#translation|Madhya 8.161]]**, **[[cc/madhya/14/180#translation|Madhya 14.180]]**, **[[cc/antya/19/35#translation|Antya 19.35]]**
 
-* aaRūpa Gosvāmī cited 
+* aaRūpa Gosvāmī cited
 * on activities spoiling devotional service, [[sb/7/13/34#purport|SB 7.13.34]]
 * on attraction to Kṛṣṇa, [[sb/7/10/38#purport|SB 7.10.38]]
 * on bliss, devotional compared with impersonal, [[sb/7/7/37#purport|SB 7.7.37]]
@@ -50,4 +50,4 @@
 * separation from, **[[cc/madhya/1/58#translation|Madhya 1.58]]**
 * stages of, [[cc/antya/3/251#purport|Antya 3.251]]
 
-*See also:* [[r#Rūpa Gosvāmī cited|Rūpa Gosvāmī cited]]
+*See also:* Rūpa Gosvāmī cited

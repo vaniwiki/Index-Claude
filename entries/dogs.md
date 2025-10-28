@@ -1,4 +1,4 @@
-# Dog(s)
+# Dogs
 
 [[sb/3/14/43#purport|SB 3.14.43]]
 

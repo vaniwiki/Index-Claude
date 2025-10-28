@@ -1,6 +1,6 @@
 # Identity
 
-* as ”I,” [[sb/2/9/33#purport|SB 2.9.33]]
+* as ”I,”, [[sb/2/9/33#purport|SB 2.9.33]]
 * beyond bodily conception, [[sb/2/2/35#purport|SB 2.2.35]]
 * forgetfulness of, [[sb/2/6/21#purport|SB 2.6.21]], [[sb/2/10/32#purport|SB 2.10.32]], [[sb/3/7/5#purport|SB 3.7.5]]
 * Lord’s, compared with living being’s, [[sb/2/9/33#purport|SB 2.9.33]]
@@ -13,6 +13,6 @@
 * subtle changes of, [[sb/2/2/28#purport|SB 2.2.28]], [[sb/2/2/28#purport|SB 2.2.28]]
 * three types of, [[sb/2/2/36#purport|SB 2.2.36]], [[sb/3/6/7#purport|SB 3.6.7]]
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; [[e#Ego|Ego]]; false; [[s#Self-realization|Self-realization]]; Soul; [[c#Consciousness|Consciousness]]; [[s#Self-realiātion|Self-realiātion]]
+*See also:* [Consciousness](entries/consciousness.md); Self-realiātion; Soul; [Self-realization](entries/self-realization.md); Bodily concept of life; [Ego](entries/ego.md); false
 
-*See:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[s#Souls|Souls]]; [[s#Self-realiātion|Self-realiātion]]; [[s#Self-realization|Self-realization]]; Soul
+*See:* [Self-realization](entries/self-realization.md); Soul; Souls; Kṛṣṇa consciousness; Self-realiātion

@@ -1,6 +1,6 @@
 # Material energy
 
-[[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/7/119#purport|Ādi 7.119]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/123#purport|Ādi 7.123]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/antya/5/119#purport|Antya 5.119]], [[cc/antya/5/121#purport|Antya 5.121]], **[[cc/antya/5/126#translation|Antya 5.126]]**, [[cc/madhya/8/130–31#purport|Madhya 8.130–31]], **[[cc/madhya/8/153#translation|Madhya 8.153]]**
+[[cc/antya/5/121#purport|Antya 5.121]], **[[cc/antya/5/126#translation|Antya 5.126]]**, [[cc/madhya/8/130–31#purport|Madhya 8.130–31]], **[[cc/madhya/8/153#translation|Madhya 8.153]]**, [[cc/antya/5/119#purport|Antya 5.119]], [[cc/adi/7/119#purport|Ādi 7.119]], [[cc/adi/7/123#purport|Ādi 7.123]], [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]]
 
 * & spiritual, [[sb/6/15/7#purport|SB 6.15.7]], [[sb/6/16/51#purport|SB 6.16.51]]
 * Antya), **[[cc/madhya/6/154–56#translation|Madhya 6.154–56]]**, [[cc/madhya/6/160#purport|Madhya 6.160]]
@@ -23,6 +23,6 @@
 * touchstone analogy &, **[[cc/madhya/6/171#translation|Madhya 6.171]]**
 * two divisions of, **[[cc/adi/6/14–15#translation|Ādi 6.14–15]]**
 
-*See also:* [[m#Māyā|Māyā]]; [[m#Material world|Material world]]
+*See also:* Māyā; Material world
 
-*See:* Energy; marginal; material; [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; [[m#Māyā|Māyā]]; [[e#Energy of Supreme Lord|Energy of Supreme Lord]]; external; [[m#Mahāmāyā|Mahāmāyā]]; Material nature; [[m#Material world|Material world]]
+*See:* Energies of Supreme Lord; material; Māyā; Energy of Supreme Lord; external; Mahāmāyā; Material nature; Material world; Energy; marginal

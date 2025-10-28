@@ -1,9 +1,9 @@
 # Sūta Gosvāmī
 
-[[cc/adi/2/11#purport|Ādi 2.11]], **[[cc/adi/2/69#translation|Ādi 2.69]]**, **[[cc/adi/2/84#translation|Ādi 2.84]]**, [[bg/10/18|Bg. 10.18]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/215#purport|Madhya 24.215]], [[cc/madhya/24/320#purport|Madhya 24.320]], [[cc/madhya/6/190#purport|Madhya 6.190]], [[cc/madhya/8/253#purport|Madhya 8.253]], [[sb/3/25/3#purport|SB 3.25.3]]
+[[bg/10/18|Bg. 10.18]], [[cc/adi/2/11#purport|Ādi 2.11]], **[[cc/adi/2/69#translation|Ādi 2.69]]**, **[[cc/adi/2/84#translation|Ādi 2.84]]**, [[cc/madhya/6/190#purport|Madhya 6.190]], [[cc/madhya/8/253#purport|Madhya 8.253]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/215#purport|Madhya 24.215]], [[cc/madhya/24/320#purport|Madhya 24.320]], [[sb/3/25/3#purport|SB 3.25.3]]
 
 * achievement of, as demonstrated, [[sb/1/5/37#purport|SB 1.5.37]]
-* as ”captain of ship,” [[sb/1/1/22#purport|SB 1.1.22]]
+* as ”captain of ship,”, [[sb/1/1/22#purport|SB 1.1.22]]
 * as Bhāgavatam reciter, [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]], [[sb/1/4/13#purport|SB 1.4.13]]
 * as eldest Vedāntist, [[sb/1/1/7#purport|SB 1.1.7]]
 * as lowborn, [[sb/1/18/18#purport|SB 1.18.18]]

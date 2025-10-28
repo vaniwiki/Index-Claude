@@ -1,12 +1,13 @@
-# Gopī(s)
+# Gopīs
 
-[[cc/adi/14/68#purport|Ādi 14.68]], **[[cc/adi/17/303–4#translation|Ādi 17.303–4]]**, **[[cc/adi/4/169–70#translation|Ādi 4.169–70]]**, **[[cc/adi/4/172–76#translation|Ādi 4.172–76]]**, **[[cc/adi/4/180–84#translation|Ādi 4.180–84]]**, **[[cc/adi/4/195#translation|Ādi 4.195]]**, **[[cc/adi/4/197–98#translation|Ādi 4.197–98]]**, [[cc/adi/4/201#purport|Ādi 4.201]], **[[cc/adi/4/209#translation|Ādi 4.209]]**, **[[cc/adi/4/79#translation|Ādi 4.79]]**, **[[cc/antya/1/162#translation|Antya 1.162]]**, **[[cc/antya/1/7#translation|Antya 1.7]]**, **[[cc/antya/14/12#translation|Antya 14.12]]**, **[[cc/antya/14/12#translation|Antya 14.12]]**, **[[cc/antya/14/32#translation|Antya 14.32]]**, **[[cc/antya/14/52#translation|Antya 14.52]]**, [[cc/antya/14/53#purport|Antya 14.53]], **[[cc/antya/15/30–31#translation|Antya 15.30–31]]**, **[[cc/antya/15/32–54#translation|Antya 15.32–54]]**, **[[cc/antya/15/81#translation|Antya 15.81]]**, **[[cc/antya/16/133#translation|Antya 16.133]]**, **[[cc/antya/16/140#translation|Antya 16.140]]**, **[[cc/antya/16/149#translation|Antya 16.149]]**, **[[cc/antya/17/32#translation|Antya 17.32]]**, **[[cc/antya/17/35–36#translation|Antya 17.35–36]]**, **[[cc/antya/17/38#translation|Antya 17.38]]**, **[[cc/antya/17/39#translation|Antya 17.39]]**, [[cc/antya/19/107#purport|Antya 19.107]], **[[cc/antya/19/53#translation|Antya 19.53]]**, [[cc/antya/4/64#purport|Antya 4.64]], **[[cc/antya/4/64#translation|Antya 4.64]]**, **[[cc/antya/5/20#translation|Antya 5.20]]**, [[cc/antya/7/47#purport|Antya 7.47]], [[cc/madhya/1/43#purport|Madhya 1.43]], **[[cc/madhya/1/5#translation|Madhya 1.5]]**, [[cc/madhya/1/51#purport|Madhya 1.51]], **[[cc/madhya/1/51–53#translation|Madhya 1.51–53]]**, **[[cc/madhya/1/81#translation|Madhya 1.81]]**, [[cc/madhya/1/82#purport|Madhya 1.82]], **[[cc/madhya/1/85–86#translation|Madhya 1.85–86]]**, **[[cc/madhya/13/124#translation|Madhya 13.124]]**, **[[cc/madhya/13/150#translation|Madhya 13.150]]**, **[[cc/madhya/14/123#translation|Madhya 14.123]]**, **[[cc/madhya/14/147#translation|Madhya 14.147]]**, **[[cc/madhya/14/156–57#translation|Madhya 14.156–57]]**, [[cc/madhya/14/158#purport|Madhya 14.158]], **[[cc/madhya/14/226#translation|Madhya 14.226]]**, **[[cc/madhya/19/210#translation|Madhya 19.210]]**, **[[cc/madhya/21/105#translation|Madhya 21.105]]**, **[[cc/madhya/21/107#translation|Madhya 21.107]]**, **[[cc/madhya/21/107#translation|Madhya 21.107]]**, **[[cc/madhya/21/112–15#translation|Madhya 21.112–15]]**, [[cc/madhya/21/137#purport|Madhya 21.137]], **[[cc/madhya/21/141–44#translation|Madhya 21.141–44]]**, **[[cc/madhya/23/57#translation|Madhya 23.57]]**, **[[cc/madhya/23/64#translation|Madhya 23.64]]**, [[cc/madhya/24/176#purport|Madhya 24.176]], [[cc/madhya/24/178#purport|Madhya 24.178]], **[[cc/madhya/25/130#translation|Madhya 25.130]]**, **[[cc/madhya/8/132#translation|Madhya 8.132]]**, [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/8/166#purport|Madhya 8.166]], [[cc/madhya/8/204–5#purport|Madhya 8.204–5]], **[[cc/madhya/8/214–20#translation|Madhya 8.214–20]]**, **[[cc/madhya/8/230#translation|Madhya 8.230]]**, [[cc/madhya/8/246#purport|Madhya 8.246]], **[[cc/madhya/8/80–81#translation|Madhya 8.80–81]]**, [[cc/madhya/8/90#purport|Madhya 8.90]], **[[cc/madhya/8/94#translation|Madhya 8.94]]**, **[[cc/madhya/9/136#translation|Madhya 9.136]]**, **[[cc/madhya/9/153–54#translation|Madhya 9.153–54]]**, [[sb/1/7/40#purport|SB 1.7.40]]
+[[bg/2|Bg. 2]], [[bg/19|Bg. 19]], **[[cc/adi/17/303–4#translation|Ādi 17.303–4]]**, **[[cc/madhya/1/51–53#translation|Madhya 1.51–53]]**, **[[cc/madhya/1/85–86#translation|Madhya 1.85–86]]**, [[cc/madhya/21/137#purport|Madhya 21.137]], **[[cc/antya/14/12#translation|Antya 14.12]]**, **[[cc/antya/14/32#translation|Antya 14.32]]**, **[[cc/antya/15/30–31#translation|Antya 15.30–31]]**, **[[cc/antya/17/32#translation|Antya 17.32]]**, **[[cc/antya/17/39#translation|Antya 17.39]]**, **[[cc/antya/19/53#translation|Antya 19.53]]**, **[[cc/madhya/23/57#translation|Madhya 23.57]]**, [[cc/madhya/1/51#purport|Madhya 1.51]], **[[cc/madhya/8/80–81#translation|Madhya 8.80–81]]**, **[[cc/madhya/23/64#translation|Madhya 23.64]]**, [[cc/madhya/24/176#purport|Madhya 24.176]], [[cc/madhya/24/178#purport|Madhya 24.178]], **[[cc/madhya/25/130#translation|Madhya 25.130]]**, **[[cc/antya/14/12#translation|Antya 14.12]]**, **[[cc/antya/14/52#translation|Antya 14.52]]**, [[cc/antya/14/53#purport|Antya 14.53]], **[[cc/antya/15/32–54#translation|Antya 15.32–54]]**, **[[cc/madhya/8/230#translation|Madhya 8.230]]**, **[[cc/madhya/8/132#translation|Madhya 8.132]]**, **[[cc/madhya/9/136#translation|Madhya 9.136]]**, **[[cc/madhya/9/153–54#translation|Madhya 9.153–54]]**, **[[cc/madhya/14/226#translation|Madhya 14.226]]**, [[cc/adi/14/68#purport|Ādi 14.68]], **[[cc/antya/1/7#translation|Antya 1.7]]**, **[[cc/madhya/21/105#translation|Madhya 21.105]]**, **[[cc/madhya/21/107#translation|Madhya 21.107]]**, **[[cc/madhya/21/112–15#translation|Madhya 21.112–15]]**, **[[cc/madhya/1/5#translation|Madhya 1.5]]**, **[[cc/madhya/21/141–44#translation|Madhya 21.141–44]]**, **[[cc/antya/1/162#translation|Antya 1.162]]**, [[cc/antya/4/64#purport|Antya 4.64]], **[[cc/antya/16/133#translation|Antya 16.133]]**, **[[cc/antya/16/140#translation|Antya 16.140]]**, **[[cc/antya/16/149#translation|Antya 16.149]]**, **[[cc/antya/17/35–36#translation|Antya 17.35–36]]**, **[[cc/antya/17/38#translation|Antya 17.38]]**, [[cc/madhya/8/90#purport|Madhya 8.90]], **[[cc/madhya/13/124#translation|Madhya 13.124]]**, **[[cc/adi/4/169–70#translation|Ādi 4.169–70]]**, **[[cc/adi/4/172–76#translation|Ādi 4.172–76]]**, **[[cc/adi/4/180–84#translation|Ādi 4.180–84]]**, **[[cc/adi/4/195#translation|Ādi 4.195]]**, **[[cc/adi/4/197–98#translation|Ādi 4.197–98]]**, **[[cc/adi/4/209#translation|Ādi 4.209]]**, [[cc/madhya/1/43#purport|Madhya 1.43]], [[cc/madhya/1/82#purport|Madhya 1.82]], **[[cc/madhya/8/94#translation|Madhya 8.94]]**, [[cc/madhya/8/166#purport|Madhya 8.166]], **[[cc/madhya/8/214–20#translation|Madhya 8.214–20]]**, **[[cc/madhya/14/156–57#translation|Madhya 14.156–57]]**, [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/adi/4/201#purport|Ādi 4.201]], **[[cc/madhya/14/147#translation|Madhya 14.147]]**, **[[cc/madhya/21/107#translation|Madhya 21.107]]**, **[[cc/antya/15/81#translation|Antya 15.81]]**, **[[cc/madhya/1/81#translation|Madhya 1.81]]**, **[[cc/madhya/19/210#translation|Madhya 19.210]]**, **[[cc/adi/4/79#translation|Ādi 4.79]]**, **[[cc/antya/5/20#translation|Antya 5.20]]**, **[[cc/antya/4/64#translation|Antya 4.64]]**, [[cc/antya/7/47#purport|Antya 7.47]], [[cc/madhya/8/204–5#purport|Madhya 8.204–5]], [[cc/madhya/14/158#purport|Madhya 14.158]], [[cc/madhya/8/246#purport|Madhya 8.246]], **[[cc/madhya/13/150#translation|Madhya 13.150]]**, **[[cc/madhya/14/123#translation|Madhya 14.123]]**, [[cc/antya/19/107#purport|Antya 19.107]], [[sb/1/7/40#purport|SB 1.7.40]], [[sb/4/21/44#purport|SB 4.21.44]], [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/38#purport|SB 4.30.38]], [[sb/5/18/19#purport|SB 5.18.19]], [[sb/5/18/23#purport|SB 5.18.23]], [[sb/5/25/5#purport|SB 5.25.5]]
 
 * & Kṛṣṇa, [[sb/9/24/65#purport|SB 9.24.65]], [[sb/9/24/66#purport|SB 9.24.66]]
 * Acyutānanda as, [[cc/adi/12/17#purport|Ādi 12.17]]
 * Ananta Ācārya as, [[cc/adi/8/60#purport|Ādi 8.60]], [[cc/adi/12/58#purport|Ādi 12.58]]
 * Annakūṭa-grāma &, [[cc/madhya/18/26#purport|Madhya 18.26]]
 * anxiety for Kṛṣṇa, **[[cc/antya/7/40#translation|Antya 7.40]]**
+* as ”sons” of, [[sb/10/13/22#purport|SB 10.13.22]], [[sb/10/13/25#purport|SB 10.13.25]], [[sb/10/13/26#purport|SB 10.13.26]]
 * as best devotees, [[sb/3/27/27#purport|SB 3.27.27]]
 * as best of Lord’s consorts, **[[cc/adi/1/79–80#translation|Ādi 1.79–80]]**
 * as goddesses of fortune, [[sb/7/11/29#purport|SB 7.11.29]]
@@ -20,10 +21,11 @@
 * at Kurukṣetra, [[cc/madhya/1/56#purport|Madhya 1.56]], **[[cc/madhya/1/81–82#translation|Madhya 1.81–82]]**
 * attaining body of, **[[cc/madhya/8/225#translation|Madhya 8.225]]**, **[[cc/madhya/8/229#translation|Madhya 8.229]]**
 * attraction to Kṛṣṇa by, **[[cc/madhya/19/210#translation|Madhya 19.210]]**, **[[cc/antya/15/70–75#translation|Antya 15.70–75]]**
+* attracts, [[sb/3/23/55#purport|SB 3.23.55]]
 * beauty of, **[[cc/adi/4/191–92#translation|Ādi 4.191–92]]**
-*  [[bg/2|Bg. 2]], [[bg/19|Bg. 19]], [[sb/4/21/44#purport|SB 4.21.44]], [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/38#purport|SB 4.30.38]], [[sb/5/18/19#purport|SB 5.18.19]], [[sb/5/18/23#purport|SB 5.18.23]], [[sb/5/25/5#purport|SB 5.25.5]]
 * Bhāgavata-sandarbha &, [[cc/madhya/1/43#purport|Madhya 1.43]]
 * born vaiśyas, [[sb/3/29/15#purport|SB 3.29.15]]
+* bound by, [[sb/10/10/39#purport|SB 10.10.39]]
 * Brahmā &, **[[cc/madhya/21/122#translation|Madhya 21.122]]**, **[[cc/madhya/21/124#translation|Madhya 21.124]]**
 * Brahmā criticized by, [[sb/1/12/23#purport|SB 1.12.23]]
 * Caitanya chanted names of, [[sb/4/23/31#purport|SB 4.23.31]]
@@ -31,6 +33,7 @@
 * Caitanya’s ecstasy &, **[[cc/adi/17/247–48#translation|Ādi 17.247–48]]**, **[[cc/madhya/13/125#translation|Madhya 13.125]]**
 * Caitanya’s mood &, [[cc/adi/17/276#purport|Ādi 17.276]], **[[cc/adi/17/276–78#translation|Ādi 17.276–78]]**
 * cart collapsing around Kṛṣṇa perplexed, [[sb/10/7/8#purport|SB 10.7.8]], [[sb/10/7/9-9#purport|SB 10.7.9-9]], [[sb/10/7/10#purport|SB 10.7.10]]
+* charmed, [[sb/10/8/31-31#purport|SB 10.8.31-31]]
 * Cirañjīva as, [[cc/adi/10/78–79#purport|Ādi 10.78–79]]
 * compared to flies, **[[cc/madhya/2/26#translation|Madhya 2.26]]**
 * conjugal mood of, **[[cc/adi/4/47–48#translation|Ādi 4.47–48]]**, **[[cc/madhya/19/191#translation|Madhya 19.191]]**
@@ -39,6 +42,8 @@
 * devotional ecstasy of, [[sb/10/8/51#purport|SB 10.8.51]]
 * devotional service mediated by, [[cc/adi/4/189#purport|Ādi 4.189]]
 * Dhruvānanda as, [[cc/adi/12/80#purport|Ādi 12.80]]
+* did bidding of, [[sb/10/11/7#purport|SB 10.11.7]], [[sb/10/11/8#purport|SB 10.11.8]]
+* disturbs minds of, [[sb/3/23/50#purport|SB 3.23.50]]
 * ecstatic feelings of, **[[cc/adi/17/281#translation|Ādi 17.281]]**, [[cc/adi/17/288#purport|Ādi 17.288]]
 * enjoyed Kṛṣṇa defying Yaśodā’s ropes, [[sb/10/9/17-17#purport|SB 10.9.17-17]]
 * expert service by, **[[cc/adi/4/212#translation|Ādi 4.212]]**
@@ -76,7 +81,7 @@
 * Kavi Datta as, [[cc/adi/12/81#purport|Ādi 12.81]]
 * Kavicandra as, [[cc/adi/10/109#purport|Ādi 10.109]]
 * knowledge of Kṛṣṇa by, **[[cc/adi/4/213#translation|Ādi 4.213]]**
-* Kṛṣṇa , 
+* Kṛṣṇa
 * Kṛṣṇa attracts, **[[cc/madhya/24/49–50#translation|Madhya 24.49–50]]**, **[[cc/madhya/24/55#translation|Madhya 24.55]]**
 * Kṛṣṇa chastised by, **[[cc/antya/7/41–42#translation|Antya 7.41–42]]**, **[[cc/antya/17/33–38#translation|Antya 17.33–38]]**
 * Kṛṣṇa denounced by, [[cc/adi/17/250#purport|Ādi 17.250]]
@@ -116,11 +121,13 @@
 * Lord took, back to Godhead, [[sb/1/15/20#purport|SB 1.15.20]]
 * Lord’s lotus feet enchanted, [[sb/10/2/38#purport|SB 10.2.38]]
 * love for Kṛṣṇa by, **[[cc/adi/4/162–63#translation|Ādi 4.162–63]]**, [[cc/adi/4/165#purport|Ādi 4.165]]
+* loved by, [[sb/10/6/35-36#purport|SB 10.6.35-36]], [[sb/10/6/39-40#purport|SB 10.6.39-40]], [[sb/10/6/39-40#purport|SB 10.6.39-40]]
 * lusty desires of, [[cc/madhya/8/139#purport|Madhya 8.139]], **[[cc/madhya/8/215#translation|Madhya 8.215]]**, [[sb/3/16/31#purport|SB 3.16.31]]
 * Mādhavācārya as, [[cc/adi/10/119#purport|Ādi 10.119]]
 * mahābhāva &, [[cc/madhya/6/13#purport|Madhya 6.13]], **[[cc/madhya/24/34#translation|Madhya 24.34]]**
 * Māmu Ṭhākura as, [[cc/adi/12/81#purport|Ādi 12.81]]
 * material conceptions about, [[cc/madhya/8/56#purport|Madhya 8.56]]
+* missed by, after dust storm, [[sb/10/7/25#purport|SB 10.7.25]]
 * missed Kṛṣṇa after dust storm, [[sb/10/7/25#purport|SB 10.7.25]]
 * morality &, [[cc/adi/4/30#purport|Ādi 4.30]], [[cc/madhya/4/133#purport|Madhya 4.133]]
 * moved to Vṛndāvana, [[sb/10/11/31-35#purport|SB 10.11.31-35]]
@@ -136,6 +143,7 @@
 * pleasure of, **[[cc/adi/4/186–89#translation|Ādi 4.186–89]]**, **[[cc/adi/4/194–95#translation|Ādi 4.194–95]]**
 * prayer to Kṛṣṇa by, **[[cc/madhya/13/136#translation|Madhya 13.136]]**
 * pride of, **[[cc/madhya/14/138#translation|Madhya 14.138]]**, **[[cc/madhya/14/139–40#translation|Madhya 14.139–40]]**
+* protected by, [[sb/10/6/19-21#purport|SB 10.6.19-21]], [[sb/10/6/22-26#purport|SB 10.6.22-26]], [[sb/10/6/30#purport|SB 10.6.30]]
 * Providence chastised by, **[[cc/antya/19/45–49#translation|Antya 19.45–49]]**
 * pure devotion by, **[[cc/adi/4/23#translation|Ādi 4.23]]**
 * purity of, [[sb/7/1/30-31#purport|SB 7.1.30-31]]
@@ -152,10 +160,12 @@
 * Raghunātha Bhaṭṭa as, [[cc/adi/10/158#purport|Ādi 10.158]]
 * Raghunātha dāsa Gosvāmī as, [[cc/adi/10/91#purport|Ādi 10.91]]
 * Rāmānanda Rāya &, [[cc/adi/10/134#purport|Ādi 10.134]], [[cc/madhya/8/23#purport|Madhya 8.23]]
+* received by, after Bakāsura pastime, [[sb/10/11/54-54#purport|SB 10.11.54-54]]
 * Rūpa Gosvāmī as, [[cc/adi/10/84#purport|Ādi 10.84]]
 * Sadāśiva Kavirāja as, [[cc/adi/11/39#purport|Ādi 11.39]]
 * Śārṅga Ṭhākura as, [[cc/adi/10/113#purport|Ādi 10.113]]
 * separation from Kṛṣṇa by, **[[cc/adi/6/67#translation|Ādi 6.67]]**, [[cc/adi/17/250#purport|Ādi 17.250]]
+* served by, [[sb/3/21/11#purport|SB 3.21.11]], [[sb/10/8/19#purport|SB 10.8.19]]
 * servitude sentiment by, **[[cc/adi/6/65–68#translation|Ādi 6.65–68]]**
 * Śikhi Māhiti as, [[cc/adi/10/135–36#purport|Ādi 10.135–36]]
 * Śiva worshiped by, [[sb/4/24/30#purport|SB 4.24.30]]
@@ -168,6 +178,7 @@
 * Śrīnātha Miśra as, [[cc/adi/10/109#purport|Ādi 10.109]]
 * śrutis &, **[[cc/madhya/9/123#translation|Madhya 9.123]]**, **[[cc/madhya/9/133–34#translation|Madhya 9.133–34]]**
 * Svarūpa Dāmodara &, **[[cc/madhya/25/253#translation|Madhya 25.253]]**
+* thought of by, always, [[sb/10/2/38#purport|SB 10.2.38]]
 * Uddhava &, [[cc/madhya/8/80#purport|Madhya 8.80]], **[[cc/antya/7/46–47#translation|Antya 7.46–47]]**
 * understanding Kṛṣṇa &, [[cc/madhya/14/158#purport|Madhya 14.158]], [[cc/antya/1/188#purport|Antya 1.188]]
 * vision of Vṛndāvana by, **[[cc/madhya/8/276#translation|Madhya 8.276]]**
@@ -176,4 +187,4 @@
 * Yaśodā informed by, of Kṛṣṇa’s mischief, [[sb/10/8/28#purport|SB 10.8.28]], [[sb/10/8/29#purport|SB 10.8.29]], [[sb/10/8/30#purport|SB 10.8.30]], [[sb/10/8/31#purport|SB 10.8.31]]
 * yogamāyā &, **[[cc/adi/4/29–30#translation|Ādi 4.29–30]]**
 
-*See also:* [[r#Rādhārāṇī|Rādhārāṇī]]; [[r#Rāsa dance|Rāsa dance]]
+*See also:* Rādhārāṇī; Rāsa dance

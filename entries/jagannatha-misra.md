@@ -1,6 +1,6 @@
 # Jagannātha Miśra
 
-**[[cc/adi/13/86#translation|Ādi 13.86]]**, **[[cc/adi/15/11–13#translation|Ādi 15.11–13]]**, **[[cc/madhya/9/301#translation|Madhya 9.301]]**
+**[[cc/madhya/9/301#translation|Madhya 9.301]]**, **[[cc/adi/13/86#translation|Ādi 13.86]]**, **[[cc/adi/15/11–13#translation|Ādi 15.11–13]]**
 
 * about Caitanya, **[[cc/adi/14/71#translation|Ādi 14.71]]**
 * appearance of, **[[cc/adi/3/95#translation|Ādi 3.95]]**

@@ -22,4 +22,4 @@
 * purification via, [[sb/4/29/83-85#purport|SB 4.29.83-85]], [[sb/4/30/21#purport|SB 4.30.21]], [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35-36#purport|SB 4.30.35-36]], [[sb/5/8/11#purport|SB 5.8.11]], [[sb/5/8/31#purport|SB 5.8.31]]
 * spiritual world invoked via, [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35#purport|SB 4.30.35]]
 
-*See also:* [[h#Hearing about Lord|Hearing about Lord]]; [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]
+*See also:* Hearing about Lord; Hearing about Supreme Lord

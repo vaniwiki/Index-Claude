@@ -1,9 +1,8 @@
 # Heavenly planet(s)
 
-**[[cc/antya/1/92#translation|Antya 1.92]]**, [[cc/madhya/13/141#purport|Madhya 13.141]], **[[cc/madhya/19/215#translation|Madhya 19.215]]**, [[cc/madhya/21/58#purport|Madhya 21.58]], [[cc/madhya/22/55#purport|Madhya 22.55]], [[cc/madhya/23/116#purport|Madhya 23.116]], [[cc/madhya/6/230#purport|Madhya 6.230]], [[cc/madhya/8/257#purport|Madhya 8.257]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[sb/2/8/14#purport|SB 2.8.14]]
+[[cc/madhya/6/230#purport|Madhya 6.230]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/8/257#purport|Madhya 8.257]], [[cc/madhya/13/141#purport|Madhya 13.141]], **[[cc/madhya/19/215#translation|Madhya 19.215]]**, [[cc/madhya/21/58#purport|Madhya 21.58]], [[cc/madhya/22/55#purport|Madhya 22.55]], [[cc/madhya/23/116#purport|Madhya 23.116]], **[[cc/antya/1/92#translation|Antya 1.92]]**, [[sb/2/8/14#purport|SB 2.8.14]], [[sb/6/1/2-2#purport|SB 6.1.2-2]], [[sb/6/3/25#purport|SB 6.3.25]], [[sb/6/3/32#purport|SB 6.3.32]]
 
 * *brāhmaṇas *earn, [[bg/2/31|Bg. 2.31]]
-* soma-rasa on, [[bg/2/42|Bg. 2.42]], [[bg/9/20|Bg. 9.20]]
 * admittance to, [[sb/1/12/5#purport|SB 1.12.5]]
 * airplanes of, [[sb/4/6/27-27#purport|SB 4.6.27-27]]
 * Ambarīṣa’s glories to be chanted in, [[sb/9/5/21#purport|SB 9.5.21]]
@@ -18,14 +17,18 @@
 * attained by yogīs, [[sb/4/4/25#purport|SB 4.4.25]]
 * attained via pious activities, [[sb/4/6/45-45#purport|SB 4.6.45-45]]
 * attained via virtue, [[sb/2/2/23#purport|SB 2.2.23]]
-* attainment to 
+* attainment to
 * attract materialist, [[sb/4/2/22#purport|SB 4.2.22]]
 * Bali ruled, [[sb/8/22/16#purport|SB 8.22.16]], [[sb/8/22/31#purport|SB 8.22.31]]
 * beauty of residents of, [[sb/5/2/6#purport|SB 5.2.6]]
+* beauty of, [[sb/5/2/6#purport|SB 5.2.6]]
 * Bhārata-varṣa’s residents aspire for, [[sb/5/19/22#purport|SB 5.19.22]]
 * Bṛhaspati as priest of, [[sb/4/18/14#purport|SB 4.18.14]]
+* by demigods, [[sb/5/19/22#purport|SB 5.19.22]]
 * by karma-kāṇḍa, [[sb/7/15/9#purport|SB 7.15.9]]
+* by persons in goodness mode, [[sb/5/11/3#purport|SB 5.11.3]], [[sb/5/26/37#purport|SB 5.26.37]]
 * by pious activities, [[sb/7/13/30#purport|SB 7.13.30]]
+* compared with devotional service, [[sb/5/17/3#purport|SB 5.17.3]]
 * compared with spiritual world, [[bg/9/21|Bg. 9.21]]
 * damsels of, Mandara Hill visited by, [[sb/5/2/2#purport|SB 5.2.2]]
 * dear to demigods, [[sb/9/4/24-24#purport|SB 9.4.24-24]]
@@ -34,7 +37,7 @@
 * demigods returned to, [[sb/8/23/26-27#purport|SB 8.23.26-27]]
 * demoniac attempt to reach, [[bg/16/16|Bg. 16.16]]
 * demons disturb, [[sb/7/4/9-12#purport|SB 7.4.9-12]]
-* denizens of 
+* denizens of
 * destroyed at cosmic dissolution, [[sb/4/22/36#purport|SB 4.22.36]]
 * detachment from, [[bg/11/55|Bg. 11.55]] (3)
 * devotee’s consideration of, [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/5/25#purport|SB 9.5.25]]
@@ -54,10 +57,15 @@
 * Earth excelled by, [[sb/8/22/32#purport|SB 8.22.32]], [[sb/9/14/21#purport|SB 9.14.21]], [[sb/9/14/23#purport|SB 9.14.23]]
 * Earth men cannot reach, [[sb/1/14/37#purport|SB 1.14.37]]
 * Earth receives rejects from, [[sb/9/20/39#purport|SB 9.20.39]]
+* Earth returned to by, [[sb/5/2/2#purport|SB 5.2.2]]
 * earthly planets returned to from, [[sb/5/19/22#purport|SB 5.19.22]], [[sb/5/19/25#purport|SB 5.19.25]]
 * elevation from, [[bg/8/16|Bg. 8.16]]
 * elevation to & falldown from, [[sb/3/32/3-3#purport|SB 3.32.3-3]], [[sb/3/32/20-20#purport|SB 3.32.20-20]]
 * elevation to, [[bg/2/8|Bg. 2.8]], [[bg/2/31|Bg. 2.31]], [[bg/2/42|Bg. 2.42]], [[bg/7/23|Bg. 7.23]], [[bg/9/20|Bg. 9.20]], [[bg/9/25|Bg. 9.25]], [[bg/14/14|Bg. 14.14]], [[bg/14/18|Bg. 14.18]], [[sb/4/11/16#purport|SB 4.11.16]], [[sb/4/25/3#purport|SB 4.25.3]], [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/25/39#purport|SB 4.25.39]], [[sb/4/25/51#purport|SB 4.25.51]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/28/55#purport|SB 4.28.55]], [[sb/4/29/13#purport|SB 4.29.13]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/66#purport|SB 4.29.66]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/30/34#purport|SB 4.30.34]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/9/23#purport|SB 7.9.23]], [[sb/7/13/25-25#purport|SB 7.13.25-25]], [[sb/8/8/2#purport|SB 8.8.2]]
+  * charity for, [[bg/17/21|Bg. 17.21]]
+  * for *kṣatriyas, *, 2.31, [[bg/2/32|Bg. 2.32]], [[bg/2/37|Bg. 2.37]]
+  * for Arjuna, [[bg/3/37|Bg. 3.37]]
+  * sacrifice for, [[bg/8/16|Bg. 8.16]]
 * examples of, [[bg/9/20|Bg. 9.20]], [[sb/4/30/2#purport|SB 4.30.2]]
 * falldown from, [[bg/8/16|Bg. 8.16]], [[bg/8/19|Bg. 8.19]], [[bg/9/21|Bg. 9.21]]
 * falling from, [[sb/4/9/10#purport|SB 4.9.10]], [[sb/4/9/32#purport|SB 4.9.32]], [[sb/7/7/40#purport|SB 7.7.40]], [[sb/7/15/50-51#purport|SB 7.15.50-51]], [[sb/7/15/50-51#purport|SB 7.15.50-51]], [[sb/9/10/23-23#purport|SB 9.10.23-23]]
@@ -65,9 +73,11 @@
 * fear in, [[sb/3/17/1#purport|SB 3.17.1]]
 * forefathers promoted to, [[sb/7/10/22-22#purport|SB 7.10.22-22]]
 * from Lord’s universal form, [[sb/8/5/40#purport|SB 8.5.40]]
+* gold abundant for, [[sb/5/16/20-21#purport|SB 5.16.20-21]]
 * happiness in, [[sb/7/7/40#purport|SB 7.7.40]], [[sb/7/13/25#purport|SB 7.13.25]]
 * Hiraṇyakaśipu promoted to, [[sb/7/10/22-22#purport|SB 7.10.22-22]]
 * Hiraṇyakaśipu terrorized, [[sb/7/8/3-4#purport|SB 7.8.3-4]]
+* householder sacrifices for, [[sb/8/16/9-9#purport|SB 8.16.9-9]]
 * human beings seek, [[sb/1/10/27#purport|SB 1.10.27]]
 * illusory pleasure on, [[sb/2/2/2#purport|SB 2.2.2]]
 * in universal form, [[bg/4/3|Bg. 4.3]]
@@ -75,14 +85,13 @@
 * Indra rules, [[sb/8/11/5#purport|SB 8.11.5]]
 * inhabitants of, [[sb/3/13/44-45#purport|SB 3.13.44-45]], [[sb/4/30/6#purport|SB 4.30.6]]
 * karmīs aspire to, [[sb/4/24/54#purport|SB 4.24.54]]
-* karmīs seek, [[sb/10/3/27#purport|SB 10.3.27]], [[sb/4/9/10#purport|SB 4.9.10]]
+* karmīs seek, [[sb/4/9/10#purport|SB 4.9.10]], [[sb/10/3/27#purport|SB 10.3.27]]
 * king of, [[bg/10/24|Bg. 10.24]], [[sb/4/30/13#purport|SB 4.30.13]], [[sb/7/7/6#purport|SB 7.7.6]], [[sb/9/2/14#purport|SB 9.2.14]]
-* king of. See: Indra , 
-* king of. See: Indra, King 
-* king(s) of. See: King(s) of heaven 
+* king(s) of. See: King(s) of heaven
 * Kṛṣṇa consciousness on, [[bg/8/16|Bg. 8.16]]
 * Kṛṣṇa took pārijāta tree from, [[sb/4/9/63#purport|SB 4.9.63]]
 * Kṛṣṇa’s footprints mark, [[sb/10/2/38#purport|SB 10.2.38]]
+* Kṛṣṇa’s lunching with cowherd boys amazed, [[sb/10/13/11#purport|SB 10.13.11]]
 * kṣatriyas promoted to, [[sb/4/25/8#purport|SB 4.25.8]]
 * landscape of, [[sb/8/2/6#purport|SB 8.2.6]]
 * life as temporary in, [[sb/7/7/40-40#purport|SB 7.7.40-40]]
@@ -90,6 +99,7 @@
 * life span on, [[sb/4/25/43#purport|SB 4.25.43]], [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/17#purport|SB 4.30.17]], [[sb/4/31/10#purport|SB 4.31.10]]
 * life-spans on, [[sb/3/25/37#purport|SB 3.25.37]]
 * Lord remembered in, [[sb/5/17/13#purport|SB 5.17.13]]
+* Mandara Hill visited by, [[sb/5/2/2#purport|SB 5.2.2]]
 * materialists aspire to, [[sb/1/18/13#purport|SB 1.18.13]]
 * materialists attain, via Vedic instruction, [[sb/5/11/2#purport|SB 5.11.2]]
 * Maya Dānava’s demons attacked, [[sb/7/10/56#purport|SB 7.10.56]]
@@ -118,19 +128,16 @@
 * priest of, [[sb/1/19/9-10#purport|SB 1.19.9-10]]
 * pure devotee disinterested in, [[sb/9/4/24-24#purport|SB 9.4.24-24]], [[sb/9/4/25#purport|SB 9.4.25]]
 * qualifications for going to, [[sb/8/11/5#purport|SB 8.11.5]]
-* residents of 
 * residents of, [[sb/1/15/12-13#purport|SB 1.15.12-13]]
-* residents of. See: Demigod(s) , 
-* residents of. See: Demigods , , 
 * rise to & fall from, [[sb/4/24/4#purport|SB 4.24.4]]
 * rulers of, [[sb/2/5/30#purport|SB 2.5.30]]
 * sacrifice for reaching, [[bg/2/42|Bg. 2.42]], [[bg/8/3|Bg. 8.3]], [[bg/18/71|Bg. 18.71]]
 * sacrifices for, discouraged, [[sb/7/15/50-51#purport|SB 7.15.50-51]]
 * Sagara’s sons elevated to, [[sb/9/9/12#purport|SB 9.9.12]], [[sb/9/9/13#purport|SB 9.9.13]], [[sb/9/9/14#purport|SB 9.9.14]]
-*  [[sb/6/1/2-2#purport|SB 6.1.2-2]], [[sb/6/3/25#purport|SB 6.3.25]], [[sb/6/3/32#purport|SB 6.3.32]]
 * scientists cannot reach, [[sb/1/15/12#purport|SB 1.15.12]]
 * sense gratification on, [[bg/2/42|Bg. 2.42]], [[bg/9/20|Bg. 9.20]], [[bg/9/21|Bg. 9.21]]
 * soma beverage in, [[sb/4/18/15#purport|SB 4.18.15]]
+* soma-rasa on, [[bg/2/42|Bg. 2.42]], [[bg/9/20|Bg. 9.20]]
 * spaceships’ attempt to reach, [[sb/1/12/5#purport|SB 1.12.5]]
 * spiritual world via, [[sb/2/5/15#purport|SB 2.5.15]]
 * state assembly house of, [[sb/1/14/38#purport|SB 1.14.38]]
@@ -141,8 +148,8 @@
 * temporary abodes only, [[sb/3/25/38#purport|SB 3.25.38]], [[sb/3/32/4-4#purport|SB 3.32.4-4]], [[sb/3/32/6#purport|SB 3.32.6]]
 * temporary relief on, [[sb/2/6/19#purport|SB 2.6.19]]
 * temporary residence on, [[bg/7/23|Bg. 7.23]], [[bg/8/16|Bg. 8.16]], [[bg/8/19|Bg. 8.19]], [[bg/9/21|Bg. 9.21]]
+* time on, [[sb/4/25/43#purport|SB 4.25.43]], [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/17#purport|SB 4.30.17]], [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/10/10/20-22#purport|SB 10.10.20-22]]
 * time on, compared with Earth time, [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/17/15#purport|SB 1.17.15]]
-* time on, [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/10/10/20-22#purport|SB 10.10.20-22]], [[sb/4/25/43#purport|SB 4.25.43]], [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/17#purport|SB 4.30.17]]
 * time on, vs. Earth time, [[sb/4/9/63#purport|SB 4.9.63]]
 * transmigration to, [[bg/8/17|Bg. 8.17]], [[bg/9/20|Bg. 9.20]]
 * trees in, [[sb/4/9/63#purport|SB 4.9.63]]
@@ -153,8 +160,12 @@
 * Vedic study for reaching, [[bg/9/20–21|Bg. 9.20–21]]
 * Venus as, [[sb/1/18/13#purport|SB 1.18.13]]
 * via austerities, [[sb/7/3/11#purport|SB 7.3.11]]
+* via birth in Bhārata-varṣa, [[sb/5/19/22#purport|SB 5.19.22]]
+* via fire sacrifice, [[sb/8/16/9-9#purport|SB 8.16.9-9]]
+* via fruitive activity, [[sb/5/14/41#purport|SB 5.14.41]]
 * via goodness mode, [[sb/3/22/36#purport|SB 3.22.36]]
-* via hearing *Bhagavad-gītā, * 18.71
+* via hearing *Bhagavad-gītā, *, 18.71
+* via hearing about Lord, [[sb/8/23/30#purport|SB 8.23.30]]
 * via pious acts, [[sb/1/15/12#purport|SB 1.15.12]]
 * via sacrifice, [[sb/7/7/40#purport|SB 7.7.40]]
 * via Vedic sacrifices, [[sb/4/20/28#purport|SB 4.20.28]], [[sb/4/20/30#purport|SB 4.20.30]]
@@ -162,4 +173,4 @@
 * women of, in Kṛṣṇa’s pastimes, [[sb/10/1/23#purport|SB 10.1.23]]
 * Yudhiṣṭhira’s fame reached, [[sb/1/12/5#purport|SB 1.12.5]]
 
-*See also:* [[c#Creation|Creation]]; the; [[d#Demigods|Demigods]]; [[e#Earth planet|Earth planet]]; [[p#Planets|Planets]]; material; [[s#Spiritual world|Spiritual world]]; [[u#Universe|Universe]]; Universes; specific heavenly planets
+*See also:* [Creation](entries/creation.md); the; Demigods; Earth planet; Planets; material; Spiritual world; Universe; [Indra](entries/indra.md); Universes; specific damsels; specific heavenly planets

@@ -1,6 +1,6 @@
 # Atheists (Atheism)
 
-[[cc/adi/10/11#purport|Ādi 10.11]], [[cc/madhya/1/34#purport|Madhya 1.34]], **[[cc/madhya/18/115#translation|Madhya 18.115]]**, [[cc/madhya/25/154#purport|Madhya 25.154]], [[cc/madhya/25/42–43#purport|Madhya 25.42–43]], [[cc/madhya/4/77#purport|Madhya 4.77]], [[cc/madhya/6/132#purport|Madhya 6.132]], [[cc/madhya/9/360#purport|Madhya 9.360]]
+[[cc/madhya/4/77#purport|Madhya 4.77]], [[cc/madhya/9/360#purport|Madhya 9.360]], [[cc/madhya/25/154#purport|Madhya 25.154]], [[cc/adi/10/11#purport|Ādi 10.11]], [[cc/madhya/1/34#purport|Madhya 1.34]], [[cc/madhya/6/132#purport|Madhya 6.132]], **[[cc/madhya/18/115#translation|Madhya 18.115]]**, [[cc/madhya/25/42–43#purport|Madhya 25.42–43]]
 
 * as demons, [[cc/adi/3/91#purport|Ādi 3.91]], [[cc/adi/17/257#purport|Ādi 17.257]]
 * Buddhists as, [[cc/madhya/9/51#purport|Madhya 9.51]], [[cc/madhya/25/91#purport|Madhya 25.91]]

@@ -1,17 +1,17 @@
 # Children
 
-[[sb/4/27/1#purport|SB 4.27.1]]
+[[bg/2/20|Bg. 2.20]], [[bg/3/38|Bg. 3.38]], [[bg/7/11|Bg. 7.11]], [[bg/7/15|Bg. 7.15]] (8), [[bg/16/1|Bg. 16.1]] (2), [[bg/16/1|Bg. 16.1]] (8), [[sb/4/27/1#purport|SB 4.27.1]]
 
 * ”cooking” & living entities ”enjoying,” analogy of, [[sb/4/24/63#purport|SB 4.24.63]]
 * animalistic, [[sb/4/20/14#purport|SB 4.20.14]]
 * animals compared to, [[sb/7/14/9-9#purport|SB 7.14.9-9]]
+* animals, [[sb/4/25/19#purport|SB 4.25.19]]
 * as by-products, [[sb/4/27/6#purport|SB 4.27.6]]
 * as husband’s expansions, [[sb/4/28/17#purport|SB 4.28.17]]
 * as innocent but not liberated, [[sb/4/29/72-73#purport|SB 4.29.72-73]]
 * as parents’ expansions, [[sb/3/23/10#purport|SB 3.23.10]]
 * attachment to, [[sb/7/6/11-13#purport|SB 7.6.11-13]]
 * begotten in sanctity, [[sb/3/20/28#purport|SB 3.20.28]]
-*  [[bg/2/20|Bg. 2.20]], [[bg/3/38|Bg. 3.38]], [[bg/7/11|Bg. 7.11]], [[bg/7/15|Bg. 7.15]] (8), [[bg/16/1|Bg. 16.1]] (2), [[bg/16/1|Bg. 16.1]] (8)
 * birth rituals for, [[sb/9/20/37#purport|SB 9.20.37]]
 * born before marriage, [[sb/9/24/34#purport|SB 9.24.34]]
 * born in good family, [[sb/3/22/33#purport|SB 3.22.33]]
@@ -20,7 +20,7 @@
 * celibacy training for, [[sb/2/6/20#purport|SB 2.6.20]]
 * ceremonies performed for, [[sb/10/7/4-4#purport|SB 10.7.4-4]]
 * ceremony at conception of, [[sb/4/27/7#purport|SB 4.27.7]]
-* compared to 
+* compared to
 * crying with false tears, [[sb/10/9/6#purport|SB 10.9.6]]
 * Deity worship for, [[sb/1/12/30#purport|SB 1.12.30]]
 * desirable & undesirable, [[sb/3/17/15#purport|SB 3.17.15]]
@@ -36,8 +36,8 @@
 * in modern Age, [[sb/3/24/15#purport|SB 3.24.15]]
 * in womb, [[sb/1/12/7#purport|SB 1.12.7]]
 * innocence of, [[sb/3/15/29#purport|SB 3.15.29]], [[sb/7/5/56-57#purport|SB 7.5.56-57]], [[sb/7/5/56-57#purport|SB 7.5.56-57]]
-* killing of, in womb, [[sb/7/2/55#purport|SB 7.2.55]]
 * killing of, [[sb/10/3/22#purport|SB 10.3.22]]
+* killing of, in womb, [[sb/7/2/55#purport|SB 7.2.55]]
 * Kṛṣṇa dolls for, [[sb/3/2/2#purport|SB 3.2.2]]
 * Kṛṣṇa pinched, [[sb/10/8/29-29#purport|SB 10.8.29-29]]
 * liberated soul compared to, [[sb/1/14/38#purport|SB 1.14.38]]
@@ -49,7 +49,7 @@
 * of Ayodhyā revived from death, [[sb/9/8/17#purport|SB 9.8.17]], [[sb/9/8/18#purport|SB 9.8.18]]
 * of Devakī, [[sb/10/1/56#purport|SB 10.1.56]], [[sb/10/1/65-66#purport|SB 10.1.65-66]], N113
 * of kṣatriya king, [[sb/9/18/29#purport|SB 9.18.29]]
-* of Madayantī ”born of a stone,” [[sb/9/9/39#purport|SB 9.9.39]]
+* of Madayantī ”born of a stone,”, [[sb/9/9/39#purport|SB 9.9.39]]
 * of Yuvanāśva, [[sb/9/6/30#purport|SB 9.6.30]], [[sb/9/6/31#purport|SB 9.6.31]]
 * parents &, [[sb/9/18/27#purport|SB 9.18.27]], [[sb/9/18/43#purport|SB 9.18.43]]
 * parents begetting, [[sb/3/22/19#purport|SB 3.22.19]], [[sb/3/24/15#purport|SB 3.24.15]]
@@ -64,8 +64,8 @@
 * prasāda to, [[sb/7/14/18#purport|SB 7.14.18]]
 * procreation of, [[sb/10/3/33#purport|SB 10.3.33]]
 * protection for, [[sb/1/14/41#purport|SB 1.14.41]], [[sb/3/16/10#purport|SB 3.16.10]]
-* protection of, by Lord alone, [[sb/7/2/40#purport|SB 7.2.40]], [[sb/7/2/55-55#purport|SB 7.2.55-55]]
 * protection of, [[sb/1/8/5#purport|SB 1.8.5]]
+* protection of, by Lord alone, [[sb/7/2/40#purport|SB 7.2.40]], [[sb/7/2/55-55#purport|SB 7.2.55-55]]
 * purificatory process for begetting, [[sb/4/22/53#purport|SB 4.22.53]]
 * purpose for having, [[sb/2/6/8#purport|SB 2.6.8]], [[sb/2/10/26#purport|SB 2.10.26]], [[sb/3/13/11#purport|SB 3.13.11]], [[sb/3/14/12#purport|SB 3.14.12]]
 * Pūtanā killed, [[sb/10/6/2#purport|SB 10.6.2]], [[sb/10/6/7#purport|SB 10.6.7]], [[sb/10/6/8#purport|SB 10.6.8]], [[sb/10/6/10#purport|SB 10.6.10]], [[sb/10/6/35-36#purport|SB 10.6.35-36]]
@@ -77,11 +77,12 @@
 * spiritual education for, [[sb/7/10/45#purport|SB 7.10.45]]
 * talk of, compared to bumblebees’ humming, [[sb/4/29/53-54#purport|SB 4.29.53-54]]
 * temporary relations with, [[sb/2/1/15#purport|SB 2.1.15]]
+* thieves, [[sb/4/25/19#purport|SB 4.25.19]]
 * transcendental, two types of, [[sb/3/22/19#purport|SB 3.22.19]]
 * twins, [[sb/3/17/18#purport|SB 3.17.18]]
 * two ways of begetting, [[sb/4/22/62#purport|SB 4.22.62]]
 * unborn, [[bg/3/38|Bg. 3.38]], [[bg/7/15|Bg. 7.15]] (7)
-* unwanted (*varṇa-saṅkara*),  1.40–41, [[bg/3/24|Bg. 3.24]]
+* unwanted (*varṇa-saṅkara*), 1.40–41, [[bg/3/24|Bg. 3.24]]
 * unwanted, [[sb/4/27/7#purport|SB 4.27.7]]
 * varṇa-saṅkara, [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/31/1#purport|SB 4.31.1]]
 * via sexual intercourse, [[sb/3/14/11#purport|SB 3.14.11]], [[sb/3/14/38#purport|SB 3.14.38]], [[sb/3/14/39#purport|SB 3.14.39]]
@@ -89,4 +90,4 @@
 * witches enemies of, [[sb/10/6/27-29#purport|SB 10.6.27-29]]
 * woman begetting, [[sb/4/24/12#purport|SB 4.24.12]]
 
-*See also:* Baby; [[c#Childbirth|Childbirth]]; Cowherds boy; specific children; [[d#Daughter & father|Daughter & father]]; [[f#Family life|Family life]]; Sons
+*See also:* Baby; Childbirth; Cowherds boy; specific children; Daughter & father; Family life; Sons; Sex life

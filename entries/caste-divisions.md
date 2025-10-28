@@ -6,4 +6,4 @@
 * maintenance of, [[sb/4/8/26#purport|SB 4.8.26]]
 * spirit in, four kinds of, [[sb/4/8/36#purport|SB 4.8.36]]
 
-*See also:* Varṇāśrama systems; [[v#Vedic culture|Vedic culture]]
+*See also:* Varṇāśrama systems; Vedic culture

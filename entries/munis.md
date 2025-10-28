@@ -6,4 +6,4 @@
 * types of, [[bg/2/56|Bg. 2.56]]
 * Vyāsadeva as best, [[bg/10/37|Bg. 10.37]]
 
-*See also:* Devotees; Philosophers; [[s#Saints|Saints]]; specific munis
+*See also:* Devotees; Philosophers; Saints; specific munis

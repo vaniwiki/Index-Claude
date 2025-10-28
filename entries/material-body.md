@@ -1,4 +1,4 @@
 # Material body
 
 
-*See:* [[b#Body|Body]]; material
+*See:* [Body](entries/body.md); material

@@ -6,4 +6,4 @@
 * defined, [[sb/1/13/25#purport|SB 1.13.25]]
 * Dhṛtarāṣṭra as, [[sb/1/13/25#purport|SB 1.13.25]]
 
-*See also:* [[m#Materialists|Materialists]]
+*See also:* Materialists

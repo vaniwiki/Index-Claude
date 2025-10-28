@@ -2,10 +2,12 @@
 
 [[cc/madhya/16/186#purport|Madhya 16.186]], [[cc/madhya/18/125#purport|Madhya 18.125]]
 
-* Jīva Gosvāmī quoted , 
+* as God, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
+* as source of incarnations, [[sb/1/3/28#purport|SB 1.3.28]]
+* Jīva Gosvāmī quoted
 * on Aghāsura attaining sārūpya-mukti, [[sb/10/12/33#purport|SB 10.12.33]]
 * on Atri Muni, [[sb/4/1/21#purport|SB 4.1.21]]
-* on Baladeva, N109 
+* on Baladeva, N109
 * on bhagavān, [[cc/adi/2/10#purport|Ādi 2.10]]
 * on bhakti-yoga, [[sb/2/9/36#purport|SB 2.9.36]]
 * on boar incarnation, [[sb/2/7/1#purport|SB 2.7.1]]
@@ -29,15 +31,15 @@
 * on God’s inconceivability, [[sb/10/13/57#purport|SB 10.13.57]]
 * on guru, [[sb/8/20/1#purport|SB 8.20.1]]
 * on internal potency, [[cc/adi/4/62#purport|Ādi 4.62]]
-* on Kṛṣṇa 
+* on Kṛṣṇa
 * on Kṛṣṇa adventing for Vasudeva & Devakī, [[sb/10/3/43#purport|SB 10.3.43]]
-* on Kṛṣṇa adventing with His expansions, N102 
+* on Kṛṣṇa adventing with His expansions, N102
 * on Kṛṣṇa incarnation, [[sb/10/8/13#purport|SB 10.8.13]]
 * on Kṛṣṇa within Devakī, [[sb/10/2/42#purport|SB 10.2.42]]
 * on kṛṣṇa-varṇam, [[cc/adi/3/52#purport|Ādi 3.52]]
 * on Kṛṣṇa’s expansions, [[sb/1/1/1#purport|SB 1.1.1]]
 * on Lord as Brahman, [[sb/4/8/78#purport|SB 4.8.78]]
-* on Lord as māyā-manuṣya, N107-8 
+* on Lord as māyā-manuṣya, N107-8
 * on Lord’s abode, [[sb/2/9/9-10#purport|SB 2.9.9-10]], [[sb/3/4/28#purport|SB 3.4.28]]
 * on Lord’s abodes, [[cc/adi/5/18#purport|Ādi 5.18]]
 * on Lord’s activities surpassing nirvāṇa, [[sb/1/16/23#purport|SB 1.16.23]]

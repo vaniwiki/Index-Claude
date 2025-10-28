@@ -36,3 +36,5 @@
 * symptoms of, described, [[sb/6/2/6#purport|SB 6.2.6]]
 * Vedic rituals impractical in, [[sb/8/23/16#purport|SB 8.23.16]]
 * Viṣṇu worship in, [[sb/8/16/60#purport|SB 8.16.60]]
+
+*See also:* Animal slaughter; Chantings holy name of Lord; Hare Kṛṣṇa mantra

@@ -8,6 +8,6 @@
 * of material desires, [[sb/3/21/12#purport|SB 3.21.12]]
 * via devotional service, [[sb/4/11/14#purport|SB 4.11.14]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/14#purport|SB 4.23.14]]
 
-*See also:* Brahma-bhūta platform; [[b#Brahman platform|Brahman platform]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[l#Liberation|Liberation]]; [[m#Meditation|Meditation]]; [[s#Spiritual world|Spiritual world]]; [[g#Godhead|Godhead]]; returning to
+*See also:* [Godhead](entries/godhead.md); returning to; Kṛṣṇa consciousness; [Liberation](entries/liberation.md); Spiritual world; Brahma-bhūta platform; Brahman platform; [Meditation](entries/meditation.md)
 
-*See:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[l#Liberation|Liberation]]
+*See:* Kṛṣṇa consciousness; [Liberation](entries/liberation.md)

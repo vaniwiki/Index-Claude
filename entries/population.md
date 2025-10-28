@@ -1,7 +1,7 @@
 # Population
 
-* ”over-,” [[sb/4/17/13#purport|SB 4.17.13]], [[sb/4/17/25#purport|SB 4.17.25]]
-* as ”cats & dogs,” 3.33, [[sb/10/3/34-35#purport|SB 10.3.34-35]]
+* ”over-,”, [[sb/4/17/13#purport|SB 4.17.13]], [[sb/4/17/25#purport|SB 4.17.25]]
+* as ”cats & dogs,”, 3.33, [[sb/10/3/34-35#purport|SB 10.3.34-35]]
 * Dakṣa’s daughters generated universal, [[sb/7/15/80#purport|SB 7.15.80]]
 * demoniac, increasing, [[sb/3/17/4-5#purport|SB 3.17.4-5]], [[sb/3/17/15#purport|SB 3.17.15]]
 * good & bad, [[sb/1/12/12-13#purport|SB 1.12.12-13]]
@@ -17,6 +17,6 @@
 * Vedic culture regulates, [[sb/3/17/15#purport|SB 3.17.15]]
 * via sanctified sex life, [[sb/3/20/28#purport|SB 3.20.28]], [[sb/3/21/1#purport|SB 3.21.1]]
 
-*See also:* [[c#Citizens|Citizens]]; [[s#Society|Society]]; human
+*See also:* [Society](entries/society.md); human; Citizens
 
-*See:* [[c#Citizens|Citizens]]; Human beings; [[s#Society|Society]]; human
+*See:* Citizens; Human beings; [Society](entries/society.md); human

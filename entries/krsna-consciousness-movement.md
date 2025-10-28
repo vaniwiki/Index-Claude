@@ -1,6 +1,6 @@
 # Kṛṣṇa consciousness movement
 
-[[cc/adi/10/160#purport|Ādi 10.160]], [[cc/adi/10/43#purport|Ādi 10.43]], [[cc/adi/10/7#purport|Ādi 10.7]], [[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/12/8#purport|Ādi 12.8]], [[cc/adi/12/8#purport|Ādi 12.8]], [[cc/adi/13/32#purport|Ādi 13.32]], [[cc/adi/14/19#purport|Ādi 14.19]], [[cc/adi/14/51#purport|Ādi 14.51]], [[cc/adi/16/1#purport|Ādi 16.1]], [[cc/adi/16/15#purport|Ādi 16.15]], [[cc/adi/16/19#purport|Ādi 16.19]], [[cc/adi/16/8#purport|Ādi 16.8]], [[cc/adi/17/127#purport|Ādi 17.127]], [[cc/adi/17/135#purport|Ādi 17.135]], [[cc/adi/17/203#purport|Ādi 17.203]], [[cc/adi/17/218#purport|Ādi 17.218]], [[cc/adi/17/24#purport|Ādi 17.24]], [[cc/adi/17/265#purport|Ādi 17.265]], [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/adi/17/35#purport|Ādi 17.35]], [[cc/adi/7/171#purport|Ādi 7.171]], [[cc/adi/7/25#purport|Ādi 7.25]], [[cc/adi/7/27#purport|Ādi 7.27]], [[cc/adi/7/28#purport|Ādi 7.28]], [[cc/adi/7/31–32#purport|Ādi 7.31–32]], [[cc/adi/7/38#purport|Ādi 7.38]], **[[cc/adi/9/36#translation|Ādi 9.36]]**, **[[cc/adi/9/39#translation|Ādi 9.39]]**, [[cc/adi/9/40#purport|Ādi 9.40]], [[cc/adi/9/41#purport|Ādi 9.41]], [[cc/adi/9/53#purport|Ādi 9.53]], [[cc/antya/1/101#purport|Antya 1.101]], [[cc/antya/1/3–4#purport|Antya 1.3–4]], [[cc/antya/1/92#purport|Antya 1.92]], [[cc/antya/11/23#purport|Antya 11.23]], [[cc/antya/3/104#purport|Antya 3.104]], [[cc/antya/3/137#purport|Antya 3.137]], **[[cc/antya/3/262#translation|Antya 3.262]]**, [[cc/antya/3/51#purport|Antya 3.51]], [[cc/antya/4/103#purport|Antya 4.103]], [[cc/antya/4/103#purport|Antya 4.103]], [[cc/antya/4/144#purport|Antya 4.144]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/antya/5/84#purport|Antya 5.84]], [[cc/madhya/11/102#purport|Madhya 11.102]], [[cc/madhya/11/103#purport|Madhya 11.103]], [[cc/madhya/11/103#purport|Madhya 11.103]], [[cc/madhya/14/16#purport|Madhya 14.16]], [[cc/madhya/14/21#purport|Madhya 14.21]], [[cc/madhya/15/107#purport|Madhya 15.107]], [[cc/madhya/15/41#purport|Madhya 15.41]], [[cc/madhya/16/175#purport|Madhya 16.175]], [[cc/madhya/16/175#purport|Madhya 16.175]], [[cc/madhya/16/187#purport|Madhya 16.187]], [[cc/madhya/17/145#purport|Madhya 17.145]], [[cc/madhya/17/153#purport|Madhya 17.153]], [[cc/madhya/18/207#purport|Madhya 18.207]], [[cc/madhya/18/207#purport|Madhya 18.207]], [[cc/madhya/19/114#purport|Madhya 19.114]], [[cc/madhya/19/135#purport|Madhya 19.135]], [[cc/madhya/22/113#purport|Madhya 22.113]], [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/madhya/23/82–83#purport|Madhya 23.82–83]], [[cc/madhya/24/205#purport|Madhya 24.205]], [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/24/266#purport|Madhya 24.266]], [[cc/madhya/24/336#purport|Madhya 24.336]], [[cc/madhya/25/120#purport|Madhya 25.120]], [[cc/madhya/25/170#purport|Madhya 25.170]], [[cc/madhya/25/198#purport|Madhya 25.198]], [[cc/madhya/25/20#purport|Madhya 25.20]], [[cc/madhya/25/20#purport|Madhya 25.20]], [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/madhya/25/35#purport|Madhya 25.35]], [[cc/madhya/3/203#purport|Madhya 3.203]], [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/4/93#purport|Madhya 4.93]], [[cc/madhya/5/76#purport|Madhya 5.76]], [[cc/madhya/7/148#purport|Madhya 7.148]], [[cc/madhya/7/82#purport|Madhya 7.82]], [[cc/madhya/8/128#purport|Madhya 8.128]], [[cc/madhya/8/39#purport|Madhya 8.39]], [[cc/madhya/8/56#purport|Madhya 8.56]], [[cc/madhya/9/8#purport|Madhya 9.8]], [[sb/2/4/18#purport|SB 2.4.18]]
+[[cc/antya/5/84#purport|Antya 5.84]], [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/adi/10/43#purport|Ādi 10.43]], [[cc/adi/16/15#purport|Ādi 16.15]], [[cc/adi/17/24#purport|Ādi 17.24]], [[cc/adi/17/35#purport|Ādi 17.35]], [[cc/adi/17/135#purport|Ādi 17.135]], [[cc/madhya/15/107#purport|Madhya 15.107]], [[cc/madhya/16/187#purport|Madhya 16.187]], [[cc/madhya/17/145#purport|Madhya 17.145]], [[cc/madhya/22/113#purport|Madhya 22.113]], [[cc/madhya/25/198#purport|Madhya 25.198]], [[cc/antya/1/101#purport|Antya 1.101]], [[cc/antya/3/137#purport|Antya 3.137]], [[cc/antya/4/103#purport|Antya 4.103]], [[cc/antya/11/23#purport|Antya 11.23]], [[cc/adi/9/53#purport|Ādi 9.53]], [[cc/adi/10/7#purport|Ādi 10.7]], [[cc/adi/10/160#purport|Ādi 10.160]], [[cc/madhya/11/103#purport|Madhya 11.103]], [[cc/madhya/18/207#purport|Madhya 18.207]], [[cc/madhya/25/120#purport|Madhya 25.120]], [[cc/antya/3/51#purport|Antya 3.51]], [[cc/madhya/24/266#purport|Madhya 24.266]], **[[cc/antya/3/262#translation|Antya 3.262]]**, [[cc/madhya/18/207#purport|Madhya 18.207]], [[cc/adi/7/38#purport|Ādi 7.38]], [[cc/madhya/25/35#purport|Madhya 25.35]], [[cc/adi/17/127#purport|Ādi 17.127]], [[cc/adi/17/218#purport|Ādi 17.218]], [[cc/madhya/3/203#purport|Madhya 3.203]], [[cc/madhya/4/93#purport|Madhya 4.93]], [[cc/antya/1/92#purport|Antya 1.92]], [[cc/adi/12/8#purport|Ādi 12.8]], [[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/14/51#purport|Ādi 14.51]], [[cc/adi/16/8#purport|Ādi 16.8]], [[cc/adi/16/19#purport|Ādi 16.19]], [[cc/madhya/7/82#purport|Madhya 7.82]], [[cc/madhya/7/148#purport|Madhya 7.148]], [[cc/madhya/8/39#purport|Madhya 8.39]], [[cc/madhya/8/56#purport|Madhya 8.56]], [[cc/madhya/9/8#purport|Madhya 9.8]], [[cc/madhya/15/41#purport|Madhya 15.41]], [[cc/madhya/23/82–83#purport|Madhya 23.82–83]], [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/madhya/24/205#purport|Madhya 24.205]], [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/antya/4/103#purport|Antya 4.103]], [[cc/antya/4/144#purport|Antya 4.144]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/madhya/24/336#purport|Madhya 24.336]], [[cc/adi/17/265#purport|Ādi 17.265]], [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/adi/7/25#purport|Ādi 7.25]], [[cc/adi/7/27#purport|Ādi 7.27]], [[cc/adi/7/28#purport|Ādi 7.28]], [[cc/adi/7/31–32#purport|Ādi 7.31–32]], **[[cc/adi/9/36#translation|Ādi 9.36]]**, **[[cc/adi/9/39#translation|Ādi 9.39]]**, [[cc/adi/9/40#purport|Ādi 9.40]], [[cc/adi/9/41#purport|Ādi 9.41]], [[cc/adi/13/32#purport|Ādi 13.32]], [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/5/76#purport|Madhya 5.76]], [[cc/madhya/8/128#purport|Madhya 8.128]], [[cc/madhya/11/102#purport|Madhya 11.102]], [[cc/madhya/11/103#purport|Madhya 11.103]], [[cc/madhya/14/16#purport|Madhya 14.16]], [[cc/madhya/14/21#purport|Madhya 14.21]], [[cc/madhya/16/175#purport|Madhya 16.175]], [[cc/madhya/19/114#purport|Madhya 19.114]], [[cc/madhya/19/135#purport|Madhya 19.135]], [[cc/madhya/25/20#purport|Madhya 25.20]], [[cc/madhya/25/170#purport|Madhya 25.170]], [[cc/antya/1/3–4#purport|Antya 1.3–4]], [[cc/antya/3/104#purport|Antya 3.104]], [[cc/adi/17/203#purport|Ādi 17.203]], [[cc/adi/7/171#purport|Ādi 7.171]], [[cc/adi/12/8#purport|Ādi 12.8]], [[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/14/19#purport|Ādi 14.19]], [[cc/adi/16/1#purport|Ādi 16.1]], [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/16/175#purport|Madhya 16.175]], [[cc/madhya/17/153#purport|Madhya 17.153]], [[cc/madhya/25/20#purport|Madhya 25.20]], [[sb/2/4/18#purport|SB 2.4.18]]
 
 * ”brāhmaṇas” protest, [[sb/7/11/17#purport|SB 7.11.17]]
 * ”brainwashing” charges against, [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/1/40#purport|SB 10.1.40]], [[sb/10/4/41#purport|SB 10.4.41]]
@@ -8,9 +8,9 @@
 * activities of, [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/14/30-33#purport|SB 7.14.30-33]], [[sb/7/15/11#purport|SB 7.15.11]]
 * aim of, [[sb/5/10/23#purport|SB 5.10.23]]
 * animal slaughter forbidden in, [[sb/7/15/11#purport|SB 7.15.11]]
-* animal-killing forbidden in, N103 
+* animal-killing forbidden in, N103
 * arcanā & saṅkīrtana in, [[sb/6/3/25#purport|SB 6.3.25]]
-* as “proper boat,” [[sb/6/7/14#purport|SB 6.7.14]]
+* as “proper boat,”, [[sb/6/7/14#purport|SB 6.7.14]]
 * as Caitanya’s mission, [[sb/5/14/31#purport|SB 5.14.31]], [[sb/7/14/30-33#purport|SB 7.14.30-33]]
 * as charitable, [[sb/8/19/41#purport|SB 8.19.41]]
 * as divine, [[sb/9/24/56#purport|SB 9.24.56]]
@@ -27,7 +27,7 @@
 * as saṅkīrtana, [[sb/7/14/16#purport|SB 7.14.16]]
 * as universal, [[sb/4/28/31#purport|SB 4.28.31]]
 * as unstoppable, [[sb/4/28/31#purport|SB 4.28.31]]
-* as world’s hope, [[sb/10/3/21#purport|SB 10.3.21]], [[sb/4/18/8#purport|SB 4.18.8]]
+* as world’s hope, [[sb/4/18/8#purport|SB 4.18.8]], [[sb/10/3/21#purport|SB 10.3.21]]
 * associating with devotees in, [[sb/4/9/11#purport|SB 4.9.11]], [[sb/4/12/37#purport|SB 4.12.37]]
 * association with devotees &, [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/24/98#purport|Madhya 24.98]]
 * association with women in, [[sb/5/6/3#purport|SB 5.6.3]]
@@ -262,10 +262,10 @@
 * popularity of, [[cc/adi/17/213#purport|Ādi 17.213]]
 * power of, **[[cc/adi/7/25–26#translation|Ādi 7.25–26]]**, [[cc/adi/10/1#purport|Ādi 10.1]]
 * prasādam &, [[cc/adi/7/141#purport|Ādi 7.141]], [[cc/adi/17/88#purport|Ādi 17.88]]
-* preachers in. See: Preacher(s) 
-* preachers of. See: Preacher(s), Kṛṣṇa conscious 
+* preachers in. See: Preacher(s)
+* preachers of. See: Preacher(s), Kṛṣṇa conscious
 * preaching &, [[cc/adi/7/92#purport|Ādi 7.92]], [[cc/adi/9/41#purport|Ādi 9.41]]
-* preaching by, [[sb/10/1/4#purport|SB 10.1.4]], [[sb/5/14/39#purport|SB 5.14.39]]
+* preaching by, [[sb/5/14/39#purport|SB 5.14.39]], [[sb/10/1/4#purport|SB 10.1.4]]
 * preaching duty in, [[sb/6/3/18#purport|SB 6.3.18]]
 * preaching of, disciplic succession for, [[sb/4/28/31#purport|SB 4.28.31]]
 * principles of, [[sb/6/5/20#purport|SB 6.5.20]]
@@ -278,12 +278,12 @@
 * purifies everyone, [[sb/6/13/8-9#purport|SB 6.13.8-9]]
 * purifying power of, [[sb/4/20/21#purport|SB 4.20.21]]
 * purity &, [[cc/madhya/11/95#purport|Madhya 11.95]], [[cc/antya/1/32#purport|Antya 1.32]]
-* purpose of, [[cc/adi/9/36#purport|Ādi 9.36]], [[cc/adi/9/45#purport|Ādi 9.45]], [[sb/10/1/42#purport|SB 10.1.42]], [[sb/10/1/64#purport|SB 10.1.64]], [[sb/10/8/49#purport|SB 10.8.49]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/7-11#purport|SB 10.12.7-11]], [[sb/10/13/53#purport|SB 10.13.53]], [[sb/4/11/19#purport|SB 4.11.19]], [[sb/4/12/22#purport|SB 4.12.22]], [[sb/4/12/48#purport|SB 4.12.48]], [[sb/4/14/20#purport|SB 4.14.20]], [[sb/7/1/28-29#purport|SB 7.1.28-29]], [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/39#purport|SB 7.9.39]], [[sb/7/9/44#purport|SB 7.9.44]], [[sb/7/10/42#purport|SB 7.10.42]], [[sb/7/10/70#purport|SB 7.10.70]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/11/35#purport|SB 7.11.35]], [[sb/7/13/9#purport|SB 7.13.9]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/8/3/11#purport|SB 8.3.11]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/16/19#purport|SB 8.16.19]], [[sb/8/19/24#purport|SB 8.19.24]], [[sb/9/6/51#purport|SB 9.6.51]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/15/26#purport|SB 9.15.26]]
+* purpose of, [[cc/adi/9/36#purport|Ādi 9.36]], [[cc/adi/9/45#purport|Ādi 9.45]], [[sb/4/11/19#purport|SB 4.11.19]], [[sb/4/12/22#purport|SB 4.12.22]], [[sb/4/12/48#purport|SB 4.12.48]], [[sb/4/14/20#purport|SB 4.14.20]], [[sb/7/1/28-29#purport|SB 7.1.28-29]], [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/39#purport|SB 7.9.39]], [[sb/7/9/44#purport|SB 7.9.44]], [[sb/7/10/42#purport|SB 7.10.42]], [[sb/7/10/70#purport|SB 7.10.70]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/11/35#purport|SB 7.11.35]], [[sb/7/13/9#purport|SB 7.13.9]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/8/3/11#purport|SB 8.3.11]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/16/19#purport|SB 8.16.19]], [[sb/8/19/24#purport|SB 8.19.24]], [[sb/9/6/51#purport|SB 9.6.51]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/15/26#purport|SB 9.15.26]], [[sb/10/1/42#purport|SB 10.1.42]], [[sb/10/1/64#purport|SB 10.1.64]], [[sb/10/8/49#purport|SB 10.8.49]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/7-11#purport|SB 10.12.7-11]], [[sb/10/13/53#purport|SB 10.13.53]]
 * purposes of, [[sb/4/22/23#purport|SB 4.22.23]], [[sb/4/24/72#purport|SB 4.24.72]], [[sb/4/28/27#purport|SB 4.28.27]], [[sb/4/28/48#purport|SB 4.28.48]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/30/34#purport|SB 4.30.34]], [[sb/4/30/35#purport|SB 4.30.35]]
 * reading requirements &, [[cc/madhya/25/278#purport|Madhya 25.278]]
 * regulative principles &, [[cc/madhya/7/128#purport|Madhya 7.128]], [[cc/madhya/19/159#purport|Madhya 19.159]]
 * regulative principles in, [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/29/61#purport|SB 4.29.61]]
-* regulative principles of, [[sb/10/2/31#purport|SB 10.2.31]], [[sb/7/13/8#purport|SB 7.13.8]]
+* regulative principles of, [[sb/7/13/8#purport|SB 7.13.8]], [[sb/10/2/31#purport|SB 10.2.31]]
 * religious unity &, [[cc/madhya/25/193#purport|Madhya 25.193]]
 * renunciation &, [[cc/madhya/24/259#purport|Madhya 24.259]], [[cc/antya/3/101#purport|Antya 3.101]]
 * renunciation in, [[sb/5/1/24#purport|SB 5.1.24]]
@@ -291,7 +291,7 @@
 * saṅkīrtana & arcanā in, [[sb/6/3/25#purport|SB 6.3.25]]
 * saṅkīrtana basis of, [[sb/7/9/38#purport|SB 7.9.38]]
 * saṅkīrtana by, [[cc/madhya/3/203#purport|Madhya 3.203]]sannyāsa order &, [[cc/adi/7/67#purport|Ādi 7.67]]
-* saṅkīrtana-yajña by, [[sb/4/24/10#purport|SB 4.24.10]], [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/19/7#purport|SB 4.19.7]]
+* saṅkīrtana-yajña by, [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/19/7#purport|SB 4.19.7]], [[sb/4/24/10#purport|SB 4.24.10]]
 * sannyāsa in, [[sb/5/14/4#purport|SB 5.14.4]]
 * sannyāsīs in, [[sb/7/13/9#purport|SB 7.13.9]], [[sb/8/1/32#purport|SB 8.1.32]]
 * scriptural basis of, [[sb/7/11/4#purport|SB 7.11.4]], [[sb/7/11/17#purport|SB 7.11.17]]
@@ -338,8 +338,8 @@
 * universe &, [[cc/madhya/20/123#purport|Madhya 20.123]]
 * Vaiṣṇava dress &, [[cc/madhya/14/5#purport|Madhya 14.5]]
 * value & necessity of, [[sb/4/26/10#purport|SB 4.26.10]], [[sb/4/28/10#purport|SB 4.28.10]], [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/30/19#purport|SB 4.30.19]]
-* value of, demonstrated, [[sb/6/2/19#purport|SB 6.2.19]]
 * value of, [[sb/7/6/1#purport|SB 7.6.1]], [[sb/8/16/19#purport|SB 8.16.19]]
+* value of, demonstrated, [[sb/6/2/19#purport|SB 6.2.19]]
 * varṇāśrama system attempted to be reestlablished by, [[sb/5/19/19#purport|SB 5.19.19]]
 * varṇāśrama-dharma propagated by, [[sb/7/11/18-20#purport|SB 7.11.18-20]], [[sb/7/14/10#purport|SB 7.14.10]]
 * Vedic knowledge distributed by, [[sb/4/21/24#purport|SB 4.21.24]]
@@ -360,6 +360,6 @@
 * world unity &, [[cc/adi/17/148#purport|Ādi 17.148]]
 * Yamarāja &, **[[cc/adi/12/71–72#translation|Ādi 12.71–72]]**
 
-*See also:* [[i#ISKCON|ISKCON]]; [[p#Preaching Kṛṣṇa consciousness|Preaching Kṛṣṇa consciousness]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[s#Saṅkīrtana movement|Saṅkīrtana movement]]; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]
+*See also:* [ISKCON](entries/iskcon.md); Preaching Kṛṣṇa consciousness; Kṛṣṇa consciousness; Saṅkīrtana movement; Saṅkīrtana-yajña
 
-*See:* [[i#ISKCON|ISKCON]]
+*See:* [ISKCON](entries/iskcon.md)

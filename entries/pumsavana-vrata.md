@@ -9,4 +9,4 @@
 * Parīkṣit’s inquiry about, [[sb/6/19/1#purport|SB 6.19.1]]
 * procedures following, [[sb/6/19/19-24#purport|SB 6.19.19-24]]
 
-*See also:* [[a#Atonement|Atonement]]
+*See also:* [Atonement](entries/atonement.md)

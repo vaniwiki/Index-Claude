@@ -14,6 +14,6 @@
 * on material enjoyment, [[sb/5/24/8#purport|SB 5.24.8]]
 * on materialists, [[sb/5/18/2#purport|SB 5.18.2]], [[sb/5/18/22#purport|SB 5.18.22]]
 * on perfection, [[sb/4/7/44#purport|SB 4.7.44]]
-* Prahlāda Mahārāja quoted 
+* Prahlāda Mahārāja quoted
 
-*See also:* [[p#Prahlāda Mahārāja quoted|Prahlāda Mahārāja quoted]]
+*See also:* Prahlāda Mahārāja quoted

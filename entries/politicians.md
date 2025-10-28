@@ -1,5 +1,7 @@
 # Politician(s)
 
+
+
 * ”independence” plans of, [[sb/4/9/35#purport|SB 4.9.35]]
 * advertisement of, [[sb/1/2/14#purport|SB 1.2.14]]
 * ancient, compared with modern, [[sb/4/9/67#purport|SB 4.9.67]]
@@ -38,6 +40,6 @@
 * sense gratification basis for, [[sb/1/2/10#purport|SB 1.2.10]]
 * whimsical, [[sb/4/18/4#purport|SB 4.18.4]]
 
-*See also:* Governments leader; Kings; Governments; [[l#leaders|leaders]]; [[k#Kṣatriyas|Kṣatriyas]]; [[l#Leaders|Leaders]]; modern
+*See also:* Governments leader; Kings; Governments; leaders; Kṣatriyas; Leaders; modern
 
 *See:* Government leaders

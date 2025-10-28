@@ -1,4 +1,4 @@
 # Modern age
 
 
-*See:* [[k#Kali-yuga|Kali-yuga]]; [[s#Society|Society]]
+*See:* [Kali-yuga](entries/kali-yuga.md); [Society](entries/society.md)

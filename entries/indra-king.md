@@ -1,6 +1,6 @@
 # Indra, King
 
-[[sb/8/3/30#purport|SB 8.3.30]]
+[[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/25/42-42#purport|SB 3.25.42-42]], [[sb/8/3/30#purport|SB 8.3.30]]
 
 * Adbhuta as, [[sb/8/13/19#purport|SB 8.13.19]], [[sb/8/13/20#purport|SB 8.13.20]]
 * as Bali’s enemy, [[sb/8/19/32#purport|SB 8.19.32]]
@@ -44,7 +44,6 @@
 * Ṛtadhāmā as, [[sb/8/13/28#purport|SB 8.13.28]]
 * Śambhu as, [[sb/8/13/22#purport|SB 8.13.22]]
 * Satyajit as, [[sb/8/1/24#purport|SB 8.1.24]], [[sb/8/1/26#purport|SB 8.1.26]]
-*  [[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/25/42-42#purport|SB 3.25.42-42]]
 * Śuci as, [[sb/8/13/34#purport|SB 8.13.34]]
 * thunderbolt of, [[sb/8/11/2#purport|SB 8.11.2]], [[sb/8/11/6#purport|SB 8.11.6]], [[sb/8/11/7#purport|SB 8.11.7]], [[sb/8/11/12#purport|SB 8.11.12]], [[sb/8/11/18#purport|SB 8.11.18]], [[sb/8/11/27-28#purport|SB 8.11.27-28]], [[sb/8/11/31-36#purport|SB 8.11.31-36]]
 * Triśikha as, [[sb/8/1/28#purport|SB 8.1.28]]

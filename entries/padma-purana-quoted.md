@@ -1,6 +1,6 @@
 # Padma Purāṇa quoted
 
-[[cc/adi/8/24#purport|Ādi 8.24]], [[cc/antya/1/101#purport|Antya 1.101]], [[cc/antya/5/118#purport|Antya 5.118]], [[cc/antya/6/294#purport|Antya 6.294]], **[[cc/madhya/11/31#translation|Madhya 11.31]]**, [[cc/madhya/12/38#purport|Madhya 12.38]], **[[cc/madhya/18/8#translation|Madhya 18.8]]**, **[[cc/madhya/18/8#translation|Madhya 18.8]]**
+**[[cc/madhya/11/31#translation|Madhya 11.31]]**, [[cc/madhya/12/38#purport|Madhya 12.38]], [[cc/antya/5/118#purport|Antya 5.118]], [[cc/antya/6/294#purport|Antya 6.294]], [[cc/adi/8/24#purport|Ādi 8.24]], **[[cc/madhya/18/8#translation|Madhya 18.8]]**, **[[cc/madhya/18/8#translation|Madhya 18.8]]**, [[cc/antya/1/101#purport|Antya 1.101]]
 
 * on ācārya-sampradāya, [[sb/10/2/31#purport|SB 10.2.31]]
 * on Bharata Mahārāja, **[[cc/madhya/23/27#translation|Madhya 23.27]]**

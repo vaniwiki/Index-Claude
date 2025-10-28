@@ -1,6 +1,6 @@
 # Pradyumna, Lord
 
-**[[cc/adi/1/8#translation|Ādi 1.8]]**, **[[cc/madhya/20/242#translation|Madhya 20.242]]**, [[sb/3/21/32#purport|SB 3.21.32]], [[sb/4/24/35-35#purport|SB 4.24.35-35]]
+**[[cc/adi/1/8#translation|Ādi 1.8]]**, **[[cc/madhya/20/242#translation|Madhya 20.242]]**, [[sb/1/2/22#purport|SB 1.2.22]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/4/24/35-35#purport|SB 4.24.35-35]]
 
 * addressed in Nārada’s mantra, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
 * Aniruddha expansion of, [[cc/adi/5/41#purport|Ādi 5.41]]
@@ -25,8 +25,7 @@
 * regeneration &, [[cc/adi/5/41#purport|Ādi 5.41]]
 * residence of, [[cc/adi/5/40#purport|Ādi 5.40]]
 * Saṅkarṣaṇa source of, [[cc/adi/5/41#purport|Ādi 5.41]] (3 purport
-*  [[sb/1/2/22#purport|SB 1.2.22]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]]
 * weapons of, **[[cc/madhya/20/225#translation|Madhya 20.225]]**
 * worship to, [[sb/3/26/21#purport|SB 3.26.21]]
 
-*See also:* [[c#Catur-vyūha|Catur-vyūha]]
+*See also:* Catur-vyūha

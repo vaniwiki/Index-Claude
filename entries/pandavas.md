@@ -1,11 +1,14 @@
 # Pāṇḍavas
 
-[[cc/adi/8/19#purport|Ādi 8.19]], **[[cc/madhya/10/53#translation|Madhya 10.53]]**, [[cc/madhya/15/269#purport|Madhya 15.269]], [[cc/madhya/6/135#purport|Madhya 6.135]], [[cc/madhya/8/246#purport|Madhya 8.246]], [[cc/madhya/9/11#purport|Madhya 9.11]], [[sb/1/7/12#purport|SB 1.7.12]], [[sb/3/16/37#purport|SB 3.16.37]], [[sb/3/19/34#purport|SB 3.19.34]], [[sb/5/5/18#purport|SB 5.5.18]], [[sb/7/1/31#purport|SB 7.1.31]]
+[[cc/adi/8/19#purport|Ādi 8.19]], [[cc/madhya/6/135#purport|Madhya 6.135]], [[cc/madhya/8/246#purport|Madhya 8.246]], [[cc/madhya/9/11#purport|Madhya 9.11]], **[[cc/madhya/10/53#translation|Madhya 10.53]]**, [[cc/madhya/15/269#purport|Madhya 15.269]], [[sb/1/7/12#purport|SB 1.7.12]], [[sb/3/16/37#purport|SB 3.16.37]], [[sb/3/19/34#purport|SB 3.19.34]], [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/24/1#purport|SB 4.24.1]], [[sb/4/28/50#purport|SB 4.28.50]], [[sb/5/5/18#purport|SB 5.5.18]], [[sb/7/1/31#purport|SB 7.1.31]]
 
 * & Kurus prepare to fight, [[bg/1/1–28|Bg. 1.1–28]]
-* army of 
+* army of
+  * destiny of, in Kurukṣetra Battle, [[bg/11/26–28|Bg. 11.26–28]]
+  * strength of, [[bg/1/10|Bg. 1.10]], [[bg/1/20|Bg. 1.20]]
+  * victory for, signs of, [[bg/1/20|Bg. 1.20]]
 * army of, described, [[bg/1/3–6|Bg. 1.3–6]], [[bg/1/10|Bg. 1.10]], [[bg/1/14–19|Bg. 1.14–19]]
-* as ”brāhmaṇas,” [[sb/1/12/21#purport|SB 1.12.21]]
+* as ”brāhmaṇas,”, [[sb/1/12/21#purport|SB 1.12.21]]
 * as Bharata’s descendant, [[sb/1/12/20#purport|SB 1.12.20]]
 * as demigods, [[sb/1/13/49#purport|SB 1.13.49]]
 * as Karṇa’s enemies, [[sb/1/15/16#purport|SB 1.15.16]]
@@ -19,8 +22,9 @@
 * assembly house for, [[sb/1/15/8#purport|SB 1.15.8]]
 * at Lord’s lotus feet, [[sb/1/15/46#purport|SB 1.15.46]]
 * at Virāṭa’s palace, [[sb/1/15/14#purport|SB 1.15.14]]
-* Bhīṣma 
+* Bhīṣma
 * brahmāstra attacked, [[sb/1/8/11-12#purport|SB 1.8.11-12]]
+* compared with, [[sb/1/15/49#purport|SB 1.15.49]]
 * conchshells sounded by, [[bg/1/14–19|Bg. 1.14–19]]
 * Dhṛtarāṣṭra &, relationship between, [[bg/1/1–2|Bg. 1.1–2]]
 * Dhṛtarāṣṭra plotted against, [[sb/1/13/8#purport|SB 1.13.8]]
@@ -28,6 +32,7 @@
 * Draupadī left by, [[sb/1/15/50#purport|SB 1.15.50]]
 * Duryodhana & Durvāsā vs., [[sb/1/15/11#purport|SB 1.15.11]]
 * Duryodhana cheated, [[sb/1/9/11#purport|SB 1.9.11]]
+* established reign of, [[sb/1/15/4#purport|SB 1.15.4]]
 * faith of, [[bg/1/19|Bg. 1.19]]
 * family history of, [[sb/3/1/39#purport|SB 3.1.39]]
 * fire escaped by, [[sb/1/13/8#purport|SB 1.13.8]]
@@ -41,28 +46,39 @@
 * Jayadratha humiliated by, [[sb/1/15/16#purport|SB 1.15.16]]
 * Kali-yuga envisioned by, [[sb/1/15/45#purport|SB 1.15.45]]
 * kingdom of, [[bg/1/16|Bg. 1.16]], [[bg/1/31–32|Bg. 1.31–32]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * directed, [[bg/1/20|Bg. 1.20]]
+  * known as Lord by, [[bg/7/25|Bg. 7.25]]
+  * representation of, among, [[bg/10/37|Bg. 10.37]]
+  * sided with, [[bg/1/14|Bg. 1.14]]
 * Kṛṣṇa’s relation to, [[sb/3/1/2#purport|SB 3.1.2]], [[sb/3/1/12#purport|SB 3.1.12]]
 * Kuru dynasty included, [[sb/1/8/14#purport|SB 1.8.14]]
 * Kuru uncles protected, [[sb/1/13/34#purport|SB 1.13.34]]
 * Kurus discouraged by, [[bg/1/19–20|Bg. 1.19–20]]
 * Kurus vs., [[sb/8/6/28#purport|SB 8.6.28]]
-* Lord 
+* lived for, [[sb/1/9/46#purport|SB 1.9.46]]
+* Lord
 * Lord assured victory of, [[sb/8/17/8#purport|SB 8.17.8]]
 * Lord’s mercy &, [[sb/1/8/37#purport|SB 1.8.37]], [[sb/1/8/37#purport|SB 1.8.37]], [[sb/1/8/38#purport|SB 1.8.38]]
 * mourned dead relatives, [[sb/1/8/1-3#purport|SB 1.8.1-3]], [[sb/1/8/3#purport|SB 1.8.3]]
+* opposed, [[sb/1/8/46#purport|SB 1.8.46]], [[sb/1/9/11#purport|SB 1.9.11]]
 * Parīkṣit proud of, [[sb/1/19/13#purport|SB 1.19.13]]
 * priest of, [[sb/1/19/9-10#purport|SB 1.19.9-10]]
+* protected, [[sb/1/13/8#purport|SB 1.13.8]], [[sb/1/8/8#purport|SB 1.8.8]], [[sb/1/8/13#purport|SB 1.8.13]], [[sb/1/8/13#purport|SB 1.8.13]], [[sb/1/8/17#purport|SB 1.8.17]], [[sb/1/8/24#purport|SB 1.8.24]], [[sb/1/9/12#purport|SB 1.9.12]], [[sb/1/13/8#purport|SB 1.13.8]], [[sb/1/13/8#purport|SB 1.13.8]]
+* reared, [[sb/1/9/11#purport|SB 1.9.11]]
 * renunciation by, [[sb/1/13/17#purport|SB 1.13.17]], [[sb/1/15/45#purport|SB 1.15.45]], [[sb/1/15/45#purport|SB 1.15.45]], [[sb/1/19/20#purport|SB 1.19.20]]
 * saints visited, [[sb/7/10/48-48#purport|SB 7.10.48-48]], [[sb/7/15/75#purport|SB 7.15.75]]
-*  [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/24/1#purport|SB 4.24.1]], [[sb/4/28/50#purport|SB 4.28.50]]
-* soldiers of 
+* served, [[sb/1/16/16#purport|SB 1.16.16]], [[sb/1/17/17#purport|SB 1.17.17]]
+* soldiers of
+  * destiny of, at Kurukṣetra, [[bg/11/26–28|Bg. 11.26–28]]
+  * in universal form, [[bg/11/26–28|Bg. 11.26–28]]
 * suffering of, [[sb/1/9/16#purport|SB 1.9.16]]
 * teacher of, [[bg/1/3|Bg. 1.3]]
 * victory awaits, [[bg/1/14|Bg. 1.14]]
-* Vidura 
+* Vidura
 * vs. Kurus, [[bg/1/1–45|Bg. 1.1–45]]
+  * political dealings of, [[bg/1/1–4|Bg. 1.1–4]], [[bg/1/11|Bg. 1.11]], [[bg/1/16|Bg. 1.16]], [[bg/1/23|Bg. 1.23]], [[bg/1/36|Bg. 1.36]], 1.37
 * wife of, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
 * yogamāyā covered, [[sb/7/10/48#purport|SB 7.10.48]]
 
-*See also:* [[a#Arjuna|Arjuna]]; [[b#Bhīma|Bhīma]]; [[n#Nakula|Nakula]]; [[s#Sahadeva|Sahadeva]]; Yudhiṣṭhira; Yudhisthira; specific Pāṇḍavas
+*See also:* [Arjuna](entries/arjuna.md); Bhīma; Nakula; Sahadeva; Yudhiṣṭhira; Yudhisthira; specific Pāṇḍavas

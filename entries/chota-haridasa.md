@@ -1,8 +1,7 @@
 # Choṭa Haridāsa
 
-**[[cc/adi/10/147#translation|Ādi 10.147]]**, **[[cc/antya/2/111#translation|Antya 2.111]]**, **[[cc/antya/2/111#translation|Antya 2.111]]**, **[[cc/antya/2/149#translation|Antya 2.149]]**, [[cc/antya/20/105#purport|Antya 20.105]], **[[cc/madhya/1/259#translation|Madhya 1.259]]**, **[[cc/madhya/10/149–50#translation|Madhya 10.149–50]]**
+[[bg/16/1|Bg. 16.1]] (5), **[[cc/adi/10/147#translation|Ādi 10.147]]**, **[[cc/madhya/1/259#translation|Madhya 1.259]]**, **[[cc/madhya/10/149–50#translation|Madhya 10.149–50]]**, [[cc/antya/20/105#purport|Antya 20.105]], **[[cc/antya/2/111#translation|Antya 2.111]]**, **[[cc/antya/2/111#translation|Antya 2.111]]**, **[[cc/antya/2/149#translation|Antya 2.149]]**
 
-*  [[bg/16/1|Bg. 16.1]] (5)
 * Bhagavān Ācārya &, **[[cc/antya/2/102–3#translation|Antya 2.102–3]]**, **[[cc/antya/2/107#translation|Antya 2.107]]**
 * Caitanya rejects, **[[cc/antya/2/113–25#translation|Antya 2.113–25]]**
 * Caitanya requests presence of, **[[cc/antya/2/150#translation|Antya 2.150]]**

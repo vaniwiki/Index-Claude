@@ -8,4 +8,4 @@
 * travel &, [[sb/5/5/32#purport|SB 5.5.32]]
 * true & false, [[sb/3/9/10#purport|SB 3.9.10]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; Devotees; [[s#Sannyāsīs|Sannyāsīs]]; Spirituals master
+*See also:* Brāhmaṇas; Devotees; Sannyāsīs; Spirituals master

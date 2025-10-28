@@ -19,7 +19,6 @@
 * Deity incarnates in, [[sb/4/12/17#purport|SB 4.12.17]]
 * dual character of, [[sb/2/9/35#purport|SB 2.9.35]]
 * earth, [[sb/6/9/21#purport|SB 6.9.21]], [[sb/6/10/11#purport|SB 6.10.11]]
-* earth. See: Earth element , 
 * emanate from Lord, [[sb/6/16/51#purport|SB 6.16.51]]
 * ether generates, [[sb/1/19/9-10#purport|SB 1.19.9-10]]
 * evolution of, [[sb/2/2/28#purport|SB 2.2.28]], [[sb/2/5/25#purport|SB 2.5.25]], [[sb/3/5/30-37#purport|SB 3.5.30-37]]
@@ -33,14 +32,13 @@
 * Haryaśvas’ understanding of, [[sb/6/5/17#purport|SB 6.5.17]]
 * in atheist’s theory, [[sb/7/8/31#purport|SB 7.8.31]]
 * in body wheel, [[sb/8/5/28#purport|SB 8.5.28]]
-* in body, [[sb/10/1/39#purport|SB 10.1.39]], [[sb/10/2/27#purport|SB 10.2.27]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/4/19#purport|SB 10.4.19]], [[sb/2/10/31#purport|SB 2.10.31]], [[sb/2/10/31#purport|SB 2.10.31]], [[sb/7/12/24-25#purport|SB 7.12.24-25]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/9/8/11#purport|SB 9.8.11]]
+* in body, [[sb/2/10/31#purport|SB 2.10.31]], [[sb/2/10/31#purport|SB 2.10.31]], [[sb/7/12/24-25#purport|SB 7.12.24-25]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/9/8/11#purport|SB 9.8.11]], [[sb/10/1/39#purport|SB 10.1.39]], [[sb/10/2/27#purport|SB 10.2.27]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/4/19#purport|SB 10.4.19]]
 * in world, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/10/3/14#purport|SB 10.3.14]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
 * Kṛṣṇa emanates, [[sb/10/2/27#purport|SB 10.2.27]]
 * Kṛṣṇa source of, [[cc/adi/5/61#purport|Ādi 5.61]]
-* *See:* [[l#Life|Life]]; origin of; material theory of 
 * life independent of, [[sb/8/17/23#purport|SB 8.17.23]]
 * life not from, [[sb/10/2/24#purport|SB 10.2.24]]
-* listed, [[cc/adi/7/118#purport|Ādi 7.118]], [[cc/adi/7/119#purport|Ādi 7.119]], [[bg/7/4|Bg. 7.4]], [[bg/7/5|Bg. 7.5]], [[sb/2/5/25#purport|SB 2.5.25]], [[sb/3/6/2#purport|SB 3.6.2]], [[sb/3/6/9#purport|SB 3.6.9]], [[sb/3/11/40#purport|SB 3.11.40]]
+* listed, [[bg/7/4|Bg. 7.4]], [[bg/7/5|Bg. 7.5]], [[cc/adi/7/118#purport|Ādi 7.118]], [[cc/adi/7/119#purport|Ādi 7.119]], [[sb/2/5/25#purport|SB 2.5.25]], [[sb/3/6/2#purport|SB 3.6.2]], [[sb/3/6/9#purport|SB 3.6.9]], [[sb/3/11/40#purport|SB 3.11.40]]
 * living entities exploit, [[sb/7/9/21#purport|SB 7.9.21]]
 * living entities inhabit all, [[bg/2/24|Bg. 2.24]]
 * Lord controller of, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
@@ -76,4 +74,6 @@
 * weapons of each, [[bg/2/23|Bg. 2.23]]
 * world made of, [[sb/2/2/3#purport|SB 2.2.3]]
 
-*See also:* [[m#Material nature|Material nature]]; specific elements; Chemicals; [[e#Energies|Energies]]; material; [[n#Nature|Nature]]; [[c#Creation|Creation]]; the; [[m#Material world|Material world]]; [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; Energy; [[f#Fire|Fire]]; [[w#Water|Water]]
+*See also:* [Creation](entries/creation.md); the; Material world; [Fire](entries/fire.md); [Water](entries/water.md); specific elements; Chemicals; Energies; material; Nature; Energies of Supreme Lord; Energy; Material nature
+
+*See:* [Life](entries/life.md); origin of; material theory of

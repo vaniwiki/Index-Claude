@@ -1,6 +1,6 @@
 # Vaiśya(s)
 
-[[cc/adi/17/59#purport|Ādi 17.59]], [[cc/antya/3/221#purport|Antya 3.221]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/madhya/8/58#purport|Madhya 8.58]]
+[[cc/adi/17/59#purport|Ādi 17.59]], [[cc/madhya/8/58#purport|Madhya 8.58]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/antya/3/221#purport|Antya 3.221]], [[sb/1/2/26#purport|SB 1.2.26]], [[sb/1/9/26#purport|SB 1.9.26]]
 
 * as created from Lord’s waist, [[sb/3/22/2#purport|SB 3.22.2]]
 * as designation, [[sb/1/13/42#purport|SB 1.13.42]]
@@ -20,7 +20,7 @@
 * defined, [[sb/2/1/37#purport|SB 2.1.37]], [[sb/3/12/41#purport|SB 3.12.41]]
 * disqualification for, [[sb/7/6/5#purport|SB 7.6.5]]
 * duties & service for, [[sb/3/29/15#purport|SB 3.29.15]]
-* duties of, [[sb/10/5/7#purport|SB 10.5.7]], [[sb/4/21/33#purport|SB 4.21.33]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/7/2/12#purport|SB 7.2.12]]
+* duties of, [[sb/4/21/33#purport|SB 4.21.33]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/7/2/12#purport|SB 7.2.12]], [[sb/10/5/7#purport|SB 10.5.7]]
 * duty of, [[sb/1/14/3#purport|SB 1.14.3]], [[sb/1/17/1#purport|SB 1.17.1]], [[sb/3/2/27#purport|SB 3.2.27]], [[sb/3/2/32#purport|SB 3.2.32]], [[sb/3/6/32#purport|SB 3.6.32]], [[sb/9/15/25#purport|SB 9.15.25]], [[sb/9/24/59#purport|SB 9.24.59]]
 * eligible for supreme destination, [[bg/9/32|Bg. 9.32]]
 * fallen devotee born in family of rich, [[sb/5/9/1-2#purport|SB 5.9.1-2]]
@@ -37,7 +37,7 @@
 * in mixed passion & ignorance, [[bg/4/13|Bg. 4.13]]
 * in passion & ignorance, [[bg/9/32|Bg. 9.32]]
 * in varṇāśrama-dharma, [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/11/13#purport|SB 7.11.13]]
-* Kṛṣṇa attainable by, 28 
+* Kṛṣṇa attainable by, 28
 * kṣatriyas above, [[sb/1/15/7#purport|SB 1.15.7]]
 * kṣatriyas administer through, [[sb/5/4/16#purport|SB 5.4.16]]
 * kṣatriyas compared with, [[sb/10/6/32#purport|SB 10.6.32]]
@@ -64,7 +64,6 @@
 * qualities of work of, [[bg/18/44|Bg. 18.44]]
 * qualities of, [[sb/9/15/40#purport|SB 9.15.40]], [[sb/9/16/28#purport|SB 9.16.28]]
 * renunciation by, [[cc/madhya/8/61#purport|Madhya 8.61]]
-*  [[sb/1/2/26#purport|SB 1.2.26]], [[sb/1/9/26#purport|SB 1.9.26]]
 * social status of, [[sb/1/16/20#purport|SB 1.16.20]], [[sb/7/9/10#purport|SB 7.9.10]]
 * supreme destination &, [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/madhya/8/36#purport|Madhya 8.36]]
 * symptoms of, [[sb/7/11/23#purport|SB 7.11.23]]
@@ -73,4 +72,4 @@
 * Vedas studied by, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * Vedic study &, [[cc/adi/17/253#purport|Ādi 17.253]]
 
-*See also:* [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* Varṇāśrama-dharma

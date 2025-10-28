@@ -1,7 +1,9 @@
 # Cowherd boys
 
+[[bg/19|Bg. 19]], [[bg/11/8|Bg. 11.8]]
+
 * as Kṛṣṇa’s expansions, [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/18-21#purport|SB 10.13.18-21]], [[sb/10/13/27#purport|SB 10.13.27]], [[sb/10/13/28#purport|SB 10.13.28]], [[sb/10/13/33#purport|SB 10.13.33]], [[sb/10/13/37-40#purport|SB 10.13.37-40]]
-*  [[bg/19|Bg. 19]], [[bg/11/8|Bg. 11.8]]
+* assured, about missing calves, [[sb/10/13/13#purport|SB 10.13.13]], [[sb/10/13/14#purport|SB 10.13.14]]
 * Brahmā saw, in Viṣṇu forms, [[sb/10/13/46-57#purport|SB 10.13.46-57]], [[sb/10/13/57#purport|SB 10.13.57]]
 * Brahmā took away, [[sb/10/13/15-15#purport|SB 10.13.15-15]], [[sb/10/13/18#purport|SB 10.13.18]]
 * during Bakāsura’s pastime, [[sb/10/11/49#purport|SB 10.11.49]], [[sb/10/11/53#purport|SB 10.11.53]]
@@ -9,9 +11,15 @@
 * good fortune of, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 * imitated animals, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 * in Viṣṇu forms, [[sb/10/13/46-57#purport|SB 10.13.46-57]], [[sb/10/13/57#purport|SB 10.13.57]]
-* Kṛṣṇa 
+* Kṛṣṇa
 * lunching with Kṛṣṇa, [[sb/10/13/6-14#purport|SB 10.13.6-14]]
+* on Aghāsura, [[sb/10/12/19-24#purport|SB 10.12.19-24]]
+* on Kṛṣṇa & yamala-arjuna trees, [[sb/10/11/4#purport|SB 10.11.4]]
+* on Kṛṣṇa killing calf demon, [[sb/10/11/44#purport|SB 10.11.44]]
 * pious past of, [[sb/10/13/49#purport|SB 10.13.49]]
+* pleased mothers of, as their sons, [[sb/10/13/22#purport|SB 10.13.22]], [[sb/10/13/23#purport|SB 10.13.23]]
+* revived, [[sb/10/12/32#purport|SB 10.12.32]]
+* saved, from Aghāsura, [[sb/10/13/4#purport|SB 10.13.4]]
 * sporting with Kṛṣṇa, [[sb/10/12/2-6#purport|SB 10.12.2-6]], [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 * tending calves, [[sb/10/11/46#purport|SB 10.11.46]], [[sb/10/12/2#purport|SB 10.12.2]], [[sb/10/12/3#purport|SB 10.12.3]]
 * three named, [[sb/10/13/21#purport|SB 10.13.21]], [[sb/10/13/25#purport|SB 10.13.25]]

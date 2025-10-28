@@ -19,8 +19,8 @@
 * spiritual pain as, [[sb/4/3/15#purport|SB 4.3.15]]
 * Utkala in, [[sb/4/13/8-9#purport|SB 4.13.8-9]]
 * variety in, [[sb/4/24/23#purport|SB 4.24.23]]
-* via chanting Lord’s names, N105 
+* via chanting Lord’s names, N105
 * via devotional service, [[sb/4/24/52#purport|SB 4.24.52]]
 * via knowing Lord’s pastimes, [[sb/4/9/16#purport|SB 4.9.16]]
 
-*See also:* [[e#Ecstasy|Ecstasy]]; [[e#Enjoyment|Enjoyment]]; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]
+*See also:* [Ecstasy](entries/ecstasy.md); [Enjoyment](entries/enjoyment.md); [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md)

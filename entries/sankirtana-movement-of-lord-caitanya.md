@@ -18,4 +18,4 @@
 * universality of, SB Intro 7, SB Intro 32
 * Vedānta study compared with, SB Intro 34-35
 
-*See also:* Chantings holy name of Lord; [[g#Glorification about Supreme Lord|Glorification about Supreme Lord]]
+*See also:* Chantings holy name of Lord; Glorification about Supreme Lord

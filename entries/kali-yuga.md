@@ -1,22 +1,21 @@
 # Kali-yuga
 
-**[[cc/adi/17/163#translation|Ādi 17.163]]**, **[[cc/adi/17/21–25#translation|Ādi 17.21–25]]**, [[cc/adi/17/212#purport|Ādi 17.212]], **[[cc/adi/17/316#translation|Ādi 17.316]]**, **[[cc/adi/3/100#translation|Ādi 3.100]]**, **[[cc/adi/4/102#translation|Ādi 4.102]]**, **[[cc/adi/4/226#translation|Ādi 4.226]]**, **[[cc/adi/4/38#translation|Ādi 4.38]]**, **[[cc/adi/4/53#translation|Ādi 4.53]]**, [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/120#purport|Ādi 7.120]], [[cc/adi/7/71#purport|Ādi 7.71]], **[[cc/adi/7/74#translation|Ādi 7.74]]**, **[[cc/adi/7/76#translation|Ādi 7.76]]**, [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/antya/20/8–10#purport|Antya 20.8–10]], **[[cc/antya/7/11#translation|Antya 7.11]]**, [[cc/antya/7/12#purport|Antya 7.12]], [[bg/8/17|Bg. 8.17]], **[[cc/madhya/11/98#translation|Madhya 11.98]]**, **[[cc/madhya/11/99–100#translation|Madhya 11.99–100]]**, [[cc/madhya/15/277#purport|Madhya 15.277]], [[cc/madhya/16/186#purport|Madhya 16.186]], [[cc/madhya/16/64#purport|Madhya 16.64]], [[cc/madhya/19/146#purport|Madhya 19.146]], [[cc/madhya/20/246#purport|Madhya 20.246]], **[[cc/madhya/20/330#translation|Madhya 20.330]]**, **[[cc/madhya/20/339–47#translation|Madhya 20.339–47]]**, **[[cc/madhya/20/340–42#translation|Madhya 20.340–42]]**, [[cc/madhya/20/352#purport|Madhya 20.352]], [[cc/madhya/20/352#purport|Madhya 20.352]], **[[cc/madhya/20/364–65#translation|Madhya 20.364–65]]**, **[[cc/madhya/22/1#translation|Madhya 22.1]]**, **[[cc/madhya/25/198#translation|Madhya 25.198]]**, **[[cc/madhya/25/28#translation|Madhya 25.28]]**, **[[cc/madhya/25/30#translation|Madhya 25.30]]**, [[cc/madhya/25/9#purport|Madhya 25.9]], [[cc/madhya/3/203#purport|Madhya 3.203]], **[[cc/madhya/6/101–3#translation|Madhya 6.101–3]]**, **[[cc/madhya/6/242#translation|Madhya 6.242]]**, [[cc/madhya/7/127#purport|Madhya 7.127]]
+[[bg/8/17|Bg. 8.17]], **[[cc/adi/17/163#translation|Ādi 17.163]]**, [[cc/madhya/15/277#purport|Madhya 15.277]], **[[cc/adi/4/38#translation|Ādi 4.38]]**, **[[cc/adi/4/53#translation|Ādi 4.53]]**, **[[cc/adi/4/102#translation|Ādi 4.102]]**, **[[cc/adi/4/226#translation|Ādi 4.226]]**, **[[cc/madhya/22/1#translation|Madhya 22.1]]**, **[[cc/adi/3/100#translation|Ādi 3.100]]**, [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/71#purport|Ādi 7.71]], **[[cc/adi/7/74#translation|Ādi 7.74]]**, **[[cc/adi/7/76#translation|Ādi 7.76]]**, [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/adi/7/120#purport|Ādi 7.120]], **[[cc/adi/17/21–25#translation|Ādi 17.21–25]]**, [[cc/adi/17/212#purport|Ādi 17.212]], **[[cc/adi/17/316#translation|Ādi 17.316]]**, [[cc/madhya/3/203#purport|Madhya 3.203]], **[[cc/madhya/6/242#translation|Madhya 6.242]]**, **[[cc/madhya/11/98#translation|Madhya 11.98]]**, **[[cc/madhya/11/99–100#translation|Madhya 11.99–100]]**, [[cc/madhya/16/64#purport|Madhya 16.64]], [[cc/madhya/16/186#purport|Madhya 16.186]], **[[cc/madhya/20/339–47#translation|Madhya 20.339–47]]**, [[cc/madhya/20/352#purport|Madhya 20.352]], [[cc/madhya/25/9#purport|Madhya 25.9]], **[[cc/madhya/25/30#translation|Madhya 25.30]]**, **[[cc/madhya/25/198#translation|Madhya 25.198]]**, **[[cc/antya/7/11#translation|Antya 7.11]]**, [[cc/antya/7/12#purport|Antya 7.12]], [[cc/antya/20/8–10#purport|Antya 20.8–10]], **[[cc/madhya/6/101–3#translation|Madhya 6.101–3]]**, [[cc/madhya/20/246#purport|Madhya 20.246]], **[[cc/madhya/20/330#translation|Madhya 20.330]]**, **[[cc/madhya/20/340–42#translation|Madhya 20.340–42]]**, [[cc/madhya/20/352#purport|Madhya 20.352]], **[[cc/madhya/20/364–65#translation|Madhya 20.364–65]]**, [[cc/madhya/19/146#purport|Madhya 19.146]], [[cc/madhya/7/127#purport|Madhya 7.127]], **[[cc/madhya/25/28#translation|Madhya 25.28]]**
 
 * ”equalizing” God in, [[sb/1/2/26#purport|SB 1.2.26]]
 * ”gods” in, [[sb/4/24/42#purport|SB 4.24.42]]
 * ”missionaries” mislead in, [[sb/4/27/11#purport|SB 4.27.11]]
 * ”spiritualism” in, [[sb/1/12/3#purport|SB 1.12.3]]
 * ”yogīs” in, [[sb/3/15/45#purport|SB 3.15.45]]
-* *Bhagavad-gītā As It Is *needed in, 2–3 
-* *Bhagavad-gītā* 
-* brahmacarya difficult in, [[bg/8/11|Bg. 8.11]]
+* *Bhagavad-gītā As It Is *needed in, 2–3
+* *Bhagavad-gītā*
+  * especially for, 29, 30
+  * versions in, [[bg/4/2|Bg. 4.2]]
 * *kṣatriyas *in, [[bg/2/31|Bg. 2.31]]
 * *Manu-saṁhitā *followed in, [[bg/16/7|Bg. 16.7]]
 * *saṅkīrtana *in, [[bg/2/46|Bg. 2.46]], [[bg/3/10|Bg. 3.10]], [[bg/3/14|Bg. 3.14]], [[bg/4/8|Bg. 4.8]], [[bg/6/12|Bg. 6.12]], [[bg/16/1|Bg. 16.1]] (9)
-* yoga in, [[bg/6/12|Bg. 6.12]], [[bg/6/23|Bg. 6.23]], [[bg/6/33|Bg. 6.33]]
-* yoga pretenders in, [[bg/15/11|Bg. 15.11]]
-* yugas (other) &, [[bg/4/1|Bg. 4.1]]
 * abortion in, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/7/2/55#purport|SB 7.2.55]]
+* absent in, [[sb/1/3/21#purport|SB 1.3.21]], [[sb/1/8/52#purport|SB 1.8.52]], [[sb/1/12/2#purport|SB 1.12.2]], [[sb/1/12/13#purport|SB 1.12.13]], [[sb/1/12/33#purport|SB 1.12.33]], [[sb/1/12/34#purport|SB 1.12.34]], [[sb/1/16/20#purport|SB 1.16.20]]
 * acts forbidden in, five listed, [[sb/9/6/7#purport|SB 9.6.7]]
 * administrators in, [[cc/antya/3/124#purport|Antya 3.124]]
 * advantages of, [[sb/1/18/7#purport|SB 1.18.7]], [[sb/1/18/7#purport|SB 1.18.7]]
@@ -31,7 +30,10 @@
 * as anomalous age, [[sb/1/4/16-18#purport|SB 1.4.16-18]]
 * as dangerous age, [[sb/1/1/22#purport|SB 1.1.22]]
 * as fallen age, [[sb/1/18/7#purport|SB 1.18.7]]
+* as forbidden for, SB Intro 11
+* as light for, [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/3/43#purport|SB 1.3.43]]
 * as quarrel age, [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/16/10#purport|SB 1.16.10]], [[sb/1/17/25#purport|SB 1.17.25]]
+* as śūdra in, [[sb/1/17/1#purport|SB 1.17.1]]
 * as worst Age, [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/10/53#purport|SB 9.10.53]]
 * atheism in, [[sb/5/6/9#purport|SB 5.6.9]], [[sb/5/26/15#purport|SB 5.26.15]]
 * austerities in, [[sb/4/30/4#purport|SB 4.30.4]]
@@ -42,7 +44,8 @@
 * Bibhīṣaṇa’s promise about, [[sb/5/15/7#purport|SB 5.15.7]]
 * bogus *yogīs *in, [[bg/15/11|Bg. 15.11]]
 * bogus avatāras in, [[sb/7/10/42#purport|SB 7.10.42]]
-* brāhmaṇas 
+* brahmacarya difficult in, [[bg/8/11|Bg. 8.11]]
+* brāhmaṇas
 * brāhmaṇas & kings in, [[sb/5/15/7#purport|SB 5.15.7]]
 * brāhmaṇas in, [[cc/adi/13/86#purport|Ādi 13.86]], [[cc/adi/17/9#purport|Ādi 17.9]], [[sb/10/7/13-15#purport|SB 10.7.13-15]], [[sb/10/8/6#purport|SB 10.8.6]]
 * brāhmaṇas lacking in, [[sb/5/7/5#purport|SB 5.7.5]]
@@ -75,16 +78,22 @@
 * China & India as illustration of, [[sb/1/5/11#purport|SB 1.5.11]]
 * cleanliness in, [[sb/5/6/10#purport|SB 5.6.10]]
 * conversion of, to spiritual life, [[sb/1/5/16#purport|SB 1.5.16]], [[sb/1/5/36#purport|SB 1.5.36]]
+* corrupt in, [[sb/7/13/36#purport|SB 7.13.36]]
+* counteracts, [[sb/1/17/24#purport|SB 1.17.24]], [[sb/1/17/27#purport|SB 1.17.27]]
 * cow-killing in, [[bg/14/16|Bg. 14.16]]
 * Darwinian theory in, [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/60#purport|SB 4.29.60]]
-* degradation in, [[cc/adi/7/119#purport|Ādi 7.119]], [[sb/4/26/5-6#purport|SB 4.26.5-6]], [[sb/4/27/30#purport|SB 4.27.30]], SB Intro 13, [[sb/1/1/22#purport|SB 1.1.22]], [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/5/11#purport|SB 1.5.11]]
+* degradation in, [[cc/adi/7/119#purport|Ādi 7.119]], SB Intro 13, [[sb/1/1/22#purport|SB 1.1.22]], [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/4/26/5-6#purport|SB 4.26.5-6]], [[sb/4/27/30#purport|SB 4.27.30]]
+* degraded in, [[sb/1/16/21#purport|SB 1.16.21]], [[sb/1/18/12#purport|SB 1.18.12]], [[sb/1/18/32-35#purport|SB 1.18.32-35]], [[sb/1/18/37#purport|SB 1.18.37]]
 * Deity worship neglected in, [[sb/7/14/39#purport|SB 7.14.39]]
 * deliverance from, [[sb/1/1/16#purport|SB 1.1.16]], [[sb/1/1/22#purport|SB 1.1.22]], [[sb/1/5/36#purport|SB 1.5.36]]
+* demoniac in, [[sb/7/8/42#purport|SB 7.8.42]], [[sb/7/8/47#purport|SB 7.8.47]]
 * demons & disturbances in, [[sb/3/17/15#purport|SB 3.17.15]]
 * demons born in, [[sb/1/18/47#purport|SB 1.18.47]]
 * deterioration in, [[sb/1/1/22#purport|SB 1.1.22]], [[sb/1/4/16-18#purport|SB 1.4.16-18]]
 * devotee’s fame &, [[cc/madhya/8/246#purport|Madhya 8.246]]
-* devotees in 
+* devotees in
+  * *See also:* Devotees
+  * direction of Lord for, [[bg/18/57|Bg. 18.57]]
 * devotees of Lord free from, [[sb/1/1/14#purport|SB 1.1.14]]
 * dhāmas unaffected by, [[sb/7/4/22-23#purport|SB 7.4.22-23]]
 * difficulties in, [[sb/1/1/10#purport|SB 1.1.10]], [[sb/1/1/22#purport|SB 1.1.22]], [[sb/1/4/16-18#purport|SB 1.4.16-18]], [[sb/1/5/11#purport|SB 1.5.11]]
@@ -95,6 +104,9 @@
 * duration of, [[bg/4/1|Bg. 4.1]] (5), [[bg/8/17|Bg. 8.17]], [[sb/1/3/25#purport|SB 1.3.25]], [[sb/1/15/37#purport|SB 1.15.37]], [[sb/3/11/19#purport|SB 3.11.19]]
 * duration of, calculated, [[sb/9/12/6#purport|SB 9.12.6]]
 * education in, [[bg/10/4|Bg. 10.4]] (2)
+  * as materialistic, [[bg/9/2|Bg. 9.2]] (2)
+  * not spiritual, [[bg/13/26|Bg. 13.26]]
+  * soul neglected in, [[bg/9/2|Bg. 9.2]] (2–3)
 * fallen population in, [[cc/madhya/16/65#purport|Madhya 16.65]]
 * false incarnations in, [[cc/madhya/20/351#purport|Madhya 20.351]]
 * family attachment in, [[sb/4/28/2#purport|SB 4.28.2]]
@@ -104,6 +116,7 @@
 * five acts forbidden in, [[sb/5/7/5#purport|SB 5.7.5]]
 * food as wanting in, [[sb/1/4/17-18#purport|SB 1.4.17-18]]
 * food scarce in, [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/15/6#purport|SB 7.15.6]]
+* for, [[sb/1/8/52#purport|SB 1.8.52]], [[sb/1/12/33-34#purport|SB 1.12.33-34]]
 * forbidden acts in, [[cc/adi/15/14#purport|Ādi 15.14]], **[[cc/adi/17/164#translation|Ādi 17.164]]**
 * fruitive activities prominent in, [[sb/4/27/29#purport|SB 4.27.29]]
 * future symptoms of, [[sb/2/7/38#purport|SB 2.7.38]], [[sb/2/7/38#purport|SB 2.7.38]]
@@ -113,22 +126,23 @@
 * godless called āryans in, [[sb/7/4/31-32#purport|SB 7.4.31-32]]
 * godlessness rules, [[sb/1/8/32#purport|SB 1.8.32]]
 * goodness almost nil in, [[sb/1/4/24#purport|SB 1.4.24]]
-* government 
+* government
 * government in, [[sb/1/12/26#purport|SB 1.12.26]], [[sb/4/20/15#purport|SB 4.20.15]], [[sb/4/27/18#purport|SB 4.27.18]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/5/2/1#purport|SB 5.2.1]], [[sb/5/4/18#purport|SB 5.4.18]], [[sb/5/5/20#purport|SB 5.5.20]], [[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/10/15#purport|SB 5.10.15]], [[sb/9/15/15#purport|SB 9.15.15]]
 * government leaders in, [[sb/5/1/22#purport|SB 5.1.22]], [[sb/5/12/7#purport|SB 5.12.7]]
 * gṛhasthas in, [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * Hare Kṛṣṇa mantra for, [[sb/7/14/39#purport|SB 7.14.39]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/14/47-48#purport|SB 9.14.47-48]], [[sb/9/24/56#purport|SB 9.24.56]]
 * heads of state in, [[sb/3/21/50#purport|SB 3.21.50]], [[sb/3/21/55#purport|SB 3.21.55]]
-* hearing Vedas difficult in, 29 
 * hearing about Lord counteracts, [[sb/1/18/7#purport|SB 1.18.7]]
+* hearing Vedas difficult in, 29
 * historic position of, [[bg/4/1|Bg. 4.1]] (5)
 * householders in, [[sb/2/1/2#purport|SB 2.1.2]]
 * human “civilization” in, [[bg/14/16|Bg. 14.16]]
 * human civilization deteriorates in, [[sb/5/12/7#purport|SB 5.12.7]]
-* human society in, as animalistic, [[sb/5/10/10#purport|SB 5.10.10]]
 * human society in, [[sb/10/7/4#purport|SB 10.7.4]], [[sb/10/10/16#purport|SB 10.10.16]]
+* human society in, as animalistic, [[sb/5/10/10#purport|SB 5.10.10]]
 * hunting in, [[sb/5/26/24#purport|SB 5.26.24]]
 * ignorance (spiritual) in, [[bg/7/15|Bg. 7.15]] (9–10), [[bg/9/2|Bg. 9.2]] (2–3), [[bg/14/16|Bg. 14.16]]
+  * *See also:* Ignorance; Ignorance; mode of
 * ignorance about spiritual science in, [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/29/60#purport|SB 4.29.60]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/30/48#purport|SB 4.30.48]]
 * ignorance in, [[cc/adi/7/119#purport|Ādi 7.119]], [[sb/5/10/11#purport|SB 5.10.11]], [[sb/7/6/4#purport|SB 7.6.4]]
 * illumination in, [[cc/adi/13/5#purport|Ādi 13.5]]
@@ -202,10 +216,11 @@
 * modes prominent in, [[sb/4/26/5#purport|SB 4.26.5]]
 * monarchy in, [[bg/10/27|Bg. 10.27]], [[sb/5/15/7#purport|SB 5.15.7]]
 * moon voyage in, discredited, [[sb/4/22/54#purport|SB 4.22.54]]
+* of śūdras in, [[sb/7/2/11#purport|SB 7.2.11]]
 * omens for, [[sb/1/14/5#purport|SB 1.14.5]]
 * oṁkāra in, [[sb/9/14/48#purport|SB 9.14.48]]
 * on gold standard, [[sb/1/17/39#purport|SB 1.17.39]]
-* oneness in religion desired in, 30 
+* oneness in religion desired in, 30
 * orders of life disrupted in, SB Intro 29, [[sb/1/1/10#purport|SB 1.1.10]], [[sb/1/1/11#purport|SB 1.1.11]]
 * panacea for, [[sb/7/6/1#purport|SB 7.6.1]], [[sb/7/9/39#purport|SB 7.9.39]]
 * pāñcarātrika system for, [[sb/1/5/38#purport|SB 1.5.38]], [[sb/1/12/13#purport|SB 1.12.13]]
@@ -216,7 +231,7 @@
 * passion mode in, [[bg/14/7|Bg. 14.7]]
 * peace in, chance for, [[bg/14/17|Bg. 14.17]]
 * people as śūdras in, [[sb/9/6/7#purport|SB 9.6.7]]
-* people in, [[sb/10/8/10#purport|SB 10.8.10]], [[sb/9/24/56#purport|SB 9.24.56]]
+* people in, [[sb/9/24/56#purport|SB 9.24.56]], [[sb/10/8/10#purport|SB 10.8.10]]
 * people oppressed in, [[sb/7/8/47#purport|SB 7.8.47]]
 * personification of, [[sb/3/6/31#purport|SB 3.6.31]]
 * personified, Parīkṣit &, [[sb/5/14/7#purport|SB 5.14.7]]
@@ -250,20 +265,23 @@
 * religion in, [[bg/7/15|Bg. 7.15]] (7), [[sb/1/16/20#purport|SB 1.16.20]], [[sb/1/16/25#purport|SB 1.16.25]], [[sb/5/3/17#purport|SB 5.3.17]]
 * religions in, [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/29/56#purport|SB 4.29.56]]
 * religious principles in, [[cc/madhya/8/38#purport|Madhya 8.38]], **[[cc/madhya/9/362#translation|Madhya 9.362]]**
-* religious unity for, 30 
+* religious unity for, 30
 * rulers in, [[sb/5/2/1#purport|SB 5.2.1]]
-* sacrifice for, *saṅkīrtana *as, [[bg/3/10|Bg. 3.10]], [[bg/3/12|Bg. 3.12]], [[bg/3/13|Bg. 3.13]], [[bg/3/14|Bg. 3.14]], [[bg/16/1|Bg. 16.1]] (9)
 * sacrifice for, [[sb/3/13/36#purport|SB 3.13.36]]
-* sacrifice(s) 
+* sacrifice for, *saṅkīrtana *as, [[bg/3/10|Bg. 3.10]], [[bg/3/12|Bg. 3.12]], [[bg/3/13|Bg. 3.13]], [[bg/3/14|Bg. 3.14]], [[bg/16/1|Bg. 16.1]] (9)
+* sacrifice(s)
 * sacrificial neglect in, [[sb/5/4/3#purport|SB 5.4.3]]
 * sage’s prophecy for, [[sb/1/18/44-45#purport|SB 1.18.44-45]]
 * saṅkīrtana for, [[sb/1/17/33#purport|SB 1.17.33]], [[sb/7/14/16#purport|SB 7.14.16]], [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/14/26#purport|SB 7.14.26]], [[sb/9/4/22#purport|SB 9.4.22]], [[sb/9/14/43#purport|SB 9.14.43]], [[sb/9/14/47#purport|SB 9.14.47]], [[sb/9/16/23#purport|SB 9.16.23]], [[sb/9/20/24-26#purport|SB 9.20.24-26]]
-* sannyāsa in, [[sb/3/24/35#purport|SB 3.24.35]], [[sb/7/13/34#purport|SB 7.13.34]], SB Intro 15, [[sb/1/6/13#purport|SB 1.6.13]]
+* sannyāsa in, SB Intro 15, [[sb/1/6/13#purport|SB 1.6.13]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/7/13/34#purport|SB 7.13.34]]
 * sannyāsa order &, [[cc/adi/2/5#purport|Ādi 2.5]], [[cc/madhya/6/127#purport|Madhya 6.127]]
 * Satya-yuga contrasted to, [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/14/48-48#purport|SB 9.14.48-48]]
 * science & scientists in, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/27/12#purport|SB 4.27.12]], [[sb/4/27/14#purport|SB 4.27.14]], [[sb/4/28/21#purport|SB 4.28.21]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/29/60#purport|SB 4.29.60]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/31/11#purport|SB 4.31.11]]
-* science in 
+* science in
+  * cow dung’s purity upheld by, 13–14
+  * limitations of, [[bg/7/4|Bg. 7.4]]
 * scientists in, [[bg/11/33|Bg. 11.33]]
+  * soul &, [[bg/2/17|Bg. 2.17]], [[bg/2/22|Bg. 2.22]]
 * scriptural regulations for, [[sb/4/26/6#purport|SB 4.26.6]]
 * scriptures compiled for, [[sb/2/7/36#purport|SB 2.7.36]]
 * self-realization in, [[sb/1/1/21#purport|SB 1.1.21]]
@@ -283,8 +301,8 @@
 * space travel attempted in, [[bg/16/16|Bg. 16.16]]
 * space travel in, [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/69#purport|SB 4.29.69]]
 * spiritual education in, [[bg/13/26|Bg. 13.26]], [[bg/14/16|Bg. 14.16]]
-* spirituality minimal in, 27 
-* Śrīmad-Bhāgavatam 
+* spirituality minimal in, 27
+* Śrīmad-Bhāgavatam
 * Śrīmad-Bhāgavatam like sun in, **[[cc/madhya/24/321#translation|Madhya 24.321]]**
 * Śrīmad-Bhāgavatam prior to, [[sb/2/1/8#purport|SB 2.1.8]]
 * śruti-dharas &, [[cc/adi/16/44#purport|Ādi 16.44]]
@@ -295,12 +313,15 @@
 * śūdras in, [[cc/adi/7/67#purport|Ādi 7.67]]
 * suffering in, [[cc/madhya/15/41#purport|Madhya 15.41]]
 * suffering intensifies in, [[sb/5/17/12#purport|SB 5.17.12]]
-* sun-god in 
+* sun-god in
+  * *See also:* Vivasvān
+  * Vivasvān as, [[bg/4/1|Bg. 4.1]] (3)
 * symptoms of persons in, [[sb/5/16/20-21#purport|SB 5.16.20-21]]
 * symptoms of, [[cc/adi/17/141#purport|Ādi 17.141]], [[sb/1/12/26#purport|SB 1.12.26]], [[sb/1/15/37#purport|SB 1.15.37]], [[sb/1/15/45#purport|SB 1.15.45]], [[sb/1/16/10#purport|SB 1.16.10]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * time of Lord’s appearance in, [[cc/adi/3/29#purport|Ādi 3.29]]
 * transcendentalists ill-received in, [[sb/1/4/17-18#purport|SB 1.4.17-18]]
 * tree-cutting in, [[sb/7/2/12#purport|SB 7.2.12]]
+* uncertain in, [[sb/1/18/12#purport|SB 1.18.12]]
 * vaiśyas in, [[sb/1/17/1#purport|SB 1.17.1]]
 * Vaivasvata Manu controls, [[sb/4/30/49#purport|SB 4.30.49]]
 * vānaprastha &, [[cc/madhya/16/130#purport|Madhya 16.130]]
@@ -320,10 +341,12 @@
 * wives’ attitudes change in, [[sb/7/2/34#purport|SB 7.2.34]]
 * women in, [[sb/1/17/24#purport|SB 1.17.24]]
 * women unprotected in, [[bg/16/7|Bg. 16.7]]
-* yoga in, [[sb/2/2/30#purport|SB 2.2.30]]
+* yoga in, [[bg/6/12|Bg. 6.12]], [[bg/6/23|Bg. 6.23]], [[bg/6/33|Bg. 6.33]], [[sb/2/2/30#purport|SB 2.2.30]]
 * yoga meditation impractical in, [[sb/3/21/7#purport|SB 3.21.7]]
+* yoga pretenders in, [[bg/15/11|Bg. 15.11]]
 * yoga process for, [[sb/3/15/45#purport|SB 3.15.45]]
 * yogic sense control &, [[bg/8/12|Bg. 8.12]]
 * Yudhiṣṭhira envisioned, [[sb/1/15/37#purport|SB 1.15.37]]
+* yugas (other) &, [[bg/4/1|Bg. 4.1]]
 
-*See also:* [[c#Civilization|Civilization]]; modern; [[m#Modern civilization|Modern civilization]]
+*See also:* Civilization; modern; Modern civilization

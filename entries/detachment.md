@@ -3,7 +3,13 @@
 * *vairāgya *as, [[bg/6/35|Bg. 6.35]]
 * & attachment to Kṛṣṇa, [[bg/5/5|Bg. 5.5]]
 * action in, in goodness mode, [[bg/18/23|Bg. 18.23]]
-* advantage(s) of 
+* advantage(s) of
+  * happiness as, [[bg/6/7|Bg. 6.7]], [[bg/13/22|Bg. 13.22]]
+  * liberation as, [[bg/2/15|Bg. 2.15]], [[bg/4/29|Bg. 4.29]], [[bg/5/19|Bg. 5.19]], [[bg/5/26–28|Bg. 5.26–28]], [[bg/16/1|Bg. 16.1]] (10)
+  * peace as, [[bg/2/70–71|Bg. 2.70–71]], [[bg/18/51|Bg. 18.51]]
+  * perfection as, [[bg/18/49–50|Bg. 18.49–50]]
+  * purification as, [[bg/16/22|Bg. 16.22]]
+  * self-realization as, [[bg/18/51|Bg. 18.51]]
 * artificial, [[bg/1/31|Bg. 1.31]]
 * as change in heart, [[sb/2/3/24#purport|SB 2.3.24]]
 * as condition for remembering Lord, [[sb/4/31/20-20#purport|SB 4.31.20-20]]
@@ -20,6 +26,7 @@
 * cause & effect of, [[sb/4/22/25#purport|SB 4.22.25]]
 * celibacy as primary, [[sb/3/28/5#purport|SB 3.28.5]]
 * charity with, [[bg/17/20|Bg. 17.20]], [[bg/17/25|Bg. 17.25]]
+* child displays, [[sb/4/29/72-73#purport|SB 4.29.72-73]]
 * compared to sun unaffected by its reflection, [[sb/3/27/1#purport|SB 3.27.1]]
 * compared with attachment, [[bg/2/55|Bg. 2.55]]
 * complete, symptoms of, [[bg/14/22|Bg. 14.22]]
@@ -32,7 +39,56 @@
 * for Arjuna, Kṛṣṇa urges, [[bg/2/38|Bg. 2.38]]
 * for return to Godhead, [[bg/15/3–5|Bg. 15.3–5]]
 * freedom from fear & anger via, [[sb/5/10/23#purport|SB 5.10.23]]
-* from 
+* from
+  * anger, [[bg/2/56|Bg. 2.56]], [[bg/4/10|Bg. 4.10]], [[bg/5/26|Bg. 5.26]], [[bg/5/27–28|Bg. 5.27–28]], [[bg/16/21|Bg. 16.21]], [[bg/18/51–53|Bg. 18.51–53]]
+  * auspicious or inauspicious work, [[bg/18/10–11|Bg. 18.10–11]]
+  * avoiding work, [[bg/3/18|Bg. 3.18]]
+  * bad association, [[bg/13/8|Bg. 13.8]] (12), [[bg/15/5|Bg. 15.5]]
+  * bodily needs, [[bg/6/23|Bg. 6.23]]
+  * body, material, [[bg/4/21|Bg. 4.21]], [[bg/5/8–11|Bg. 5.8–11]], [[bg/5/13–14|Bg. 5.13–14]], [[bg/14/22|Bg. 14.22]]
+  * criticism, [[bg/13/8|Bg. 13.8]] (4), [[bg/16/1|Bg. 16.1]] (15)
+  * death, time of, [[bg/8/23–25|Bg. 8.23–25]], [[bg/8/27|Bg. 8.27]]
+  * diplomacy, [[bg/13/8|Bg. 13.8]] (5)
+  * dualities, [[bg/2/45|Bg. 2.45]], [[bg/7/28|Bg. 7.28]], [[bg/12/17–19|Bg. 12.17–19]], [[bg/13/8|Bg. 13.8]] (11), [[bg/14/22|Bg. 14.22]], [[bg/15/5–6|Bg. 15.5–6]]
+  * duty’s results, [[bg/2/47–49|Bg. 2.47–49]], [[bg/3/30–31|Bg. 3.30–31]]
+  * eating, [[bg/18/51|Bg. 18.51]]
+  * everything but Kṛṣṇa, [[bg/9/13|Bg. 9.13]], [[bg/9/28|Bg. 9.28]], [[bg/11/55|Bg. 11.55]] (4), [[bg/12/6|Bg. 12.6]] (2), [[bg/18/65|Bg. 18.65]]
+  * false designations, [[bg/12/16|Bg. 12.16]]
+  * false ego, [[bg/2/71|Bg. 2.71]], [[bg/4/23|Bg. 4.23]], [[bg/5/20|Bg. 5.20]], [[bg/12/13|Bg. 12.13]], [[bg/13/8|Bg. 13.8]] (8), [[bg/18/51|Bg. 18.51]]
+  * false proprietorship, [[bg/18/51|Bg. 18.51]]
+  * fame & infamy, [[bg/12/18|Bg. 12.18]]
+  * family life, [[bg/3/7|Bg. 3.7]], [[bg/6/23|Bg. 6.23]], [[bg/12/16|Bg. 12.16]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (10)
+  * fight’s results, Kṛṣṇa urges for Arjuna, [[bg/2/38|Bg. 2.38]]
+  * fruitive work, [[bg/4/20–22|Bg. 4.20–22]], [[bg/5/12|Bg. 5.12]]
+  * fruits of work, [[bg/2/1|Bg. 2.1]], [[bg/2/47–49|Bg. 2.47–49]], [[bg/3/18–19|Bg. 3.18–19]], [[bg/3/30|Bg. 3.30]], [[bg/4/20–23|Bg. 4.20–23]], [[bg/5/3|Bg. 5.3]], [[bg/5/12|Bg. 5.12]], [[bg/6/1|Bg. 6.1]], [[bg/6/40|Bg. 6.40]]
+  * general mass of people, [[bg/13/8|Bg. 13.8]]
+  * happiness, [[bg/2/15|Bg. 2.15]], [[bg/2/38|Bg. 2.38]], [[bg/13/8|Bg. 13.8]] (11)
+  * heat & cold, [[bg/2/14|Bg. 2.14]], [[bg/12/18|Bg. 12.18]]
+  * higher planets, [[bg/11/55|Bg. 11.55]] (3)
+  * honor or dishonor, [[bg/13/8|Bg. 13.8]] (2), [[bg/14/22|Bg. 14.22]], [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (17)
+  * liberation, [[bg/2/70|Bg. 2.70]], [[bg/8/14|Bg. 8.14]], [[bg/8/15|Bg. 8.15]], [[bg/11/55|Bg. 11.55]] (3, )
+  * lording it over, [[bg/13/22|Bg. 13.22]], [[bg/14/27|Bg. 14.27]]
+  * lust, anger, & greed, [[bg/16/22|Bg. 16.22]], [[bg/18/51|Bg. 18.51]]
+  * material desire, [[bg/18/51|Bg. 18.51]]
+  * material happiness, [[bg/2/69|Bg. 2.69]]
+  * personal elevation, [[bg/6/32|Bg. 6.32]]
+  * pleasure & displeasure, [[bg/5/20|Bg. 5.20]]
+  * pride, false, [[bg/18/51|Bg. 18.51]]
+  * proprietorship, [[bg/2/71|Bg. 2.71]], [[bg/3/30|Bg. 3.30]], [[bg/4/21–23|Bg. 4.21–23]], [[bg/6/10|Bg. 6.10]], [[bg/11/55|Bg. 11.55]] (2), [[bg/12/13|Bg. 12.13]]
+  * regulated sense gratification, [[bg/3/34|Bg. 3.34]]
+  * residence, [[bg/12/18|Bg. 12.18]], [[bg/13/8|Bg. 13.8]]
+  * results of activities, [[bg/13/25|Bg. 13.25]]
+  * results of sacrifice, penance, & charity, [[bg/17/11|Bg. 17.11]], [[bg/17/25|Bg. 17.25]]
+  * sense gratification, [[bg/5/21|Bg. 5.21]], [[bg/5/22|Bg. 5.22]], [[bg/17/16|Bg. 17.16]], [[bg/18/51|Bg. 18.51]]
+  * senses despite use of, [[bg/5/8–11|Bg. 5.8–11]], [[bg/5/13|Bg. 5.13]]
+  * sex life, [[bg/5/21|Bg. 5.21]], [[bg/6/13|Bg. 6.13]] (1)
+  * sleep, [[bg/1/24|Bg. 1.24]], [[bg/6/17|Bg. 6.17]]
+  * sports, cinema, & social functions, [[bg/13/8|Bg. 13.8]] (12)
+  * strength, false, [[bg/18/51|Bg. 18.51]]
+  * suffering, [[bg/6/23|Bg. 6.23]]
+  * wasting time, [[bg/13/8|Bg. 13.8]] (12)
+  * wealth, [[bg/10/4|Bg. 10.4]] (4), [[bg/12/16|Bg. 12.16]]
+  * work’s results, [[bg/3/19|Bg. 3.19]], [[bg/3/30–31|Bg. 3.30–31]], [[bg/4/18–24|Bg. 4.18–24]], [[bg/5/12|Bg. 5.12]], [[bg/11/55|Bg. 11.55]] (2), [[bg/18/7–8|Bg. 18.7–8]], [[bg/18/10–11|Bg. 18.10–11]], [[bg/18/26|Bg. 18.26]]
 * from animal-killing, [[sb/4/26/9-9#purport|SB 4.26.9-9]]
 * from bodily concept, [[sb/4/22/21-21#purport|SB 4.22.21-21]]
 * from bodily identification, [[sb/4/29/46#purport|SB 4.29.46]]
@@ -44,27 +100,28 @@
 * from happiness & distress, [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/35#purport|SB 4.29.35]]
 * from household, [[sb/3/3/22#purport|SB 3.3.22]]
 * from intoxication, [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/13#purport|SB 4.26.13]]
-* from liberation, [[sb/3/25/34-34#purport|SB 3.25.34-34]], [[sb/3/29/13-13#purport|SB 3.29.13-13]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/30/37#purport|SB 4.30.37]]
-* from living conditions, [[sb/4/29/55#purport|SB 4.29.55]]
+* from liberation, [[sb/3/25/34-34#purport|SB 3.25.34-34]], [[sb/3/29/13-13#purport|SB 3.29.13-13]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/30/37#purport|SB 4.30.37]]
+* from living conditions, [[sb/4/29/55#purport|SB 4.29.55]], [[sb/4/29/55#purport|SB 4.29.55]]
 * from material activities, [[sb/4/30/23#purport|SB 4.30.23]]
 * from material life & desires, [[sb/4/29/66#purport|SB 4.29.66]]
 * from mystic powers, [[sb/3/27/30-30#purport|SB 3.27.30-30]]
 * from opulent residence, [[sb/4/29/55#purport|SB 4.29.55]]
+* from possessions, [[sb/4/31/21-21#purport|SB 4.31.21-21]]
 * from possessions, by devotees, [[sb/4/31/21-21#purport|SB 4.31.21-21]]
 * from predestined distress, [[sb/3/27/8#purport|SB 3.27.8]]
 * from results of work, [[sb/3/32/6-6#purport|SB 3.32.6-6]]
 * from sex life, [[sb/2/6/20#purport|SB 2.6.20]], [[sb/3/28/32#purport|SB 3.28.32]], [[sb/3/31/38#purport|SB 3.31.38]], [[sb/4/26/9#purport|SB 4.26.9]], [[sb/4/26/13#purport|SB 4.26.13]]
 * from varṇāśrama designations, [[sb/4/29/46#purport|SB 4.29.46]]
 * from Vedic rituals, [[sb/4/29/47-48#purport|SB 4.29.47-48]], [[sb/4/29/56#purport|SB 4.29.56]]
-* from wealth, [[sb/4/29/55#purport|SB 4.29.55]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/31/21-21#purport|SB 4.31.21-21]]
+* from wealth, [[sb/4/29/55#purport|SB 4.29.55]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/31/21-21#purport|SB 4.31.21-21]], [[sb/4/30/19#purport|SB 4.30.19]]
 * from women, [[sb/4/28/27#purport|SB 4.28.27]]
 * impersonal, vs. attachment to Kṛṣṇa, [[bg/6/35|Bg. 6.35]]
-* in yoga,  6.2, [[bg/6/4|Bg. 6.4]], [[bg/6/14–26|Bg. 6.14–26]], [[bg/8/12|Bg. 8.12]]
 * in banyan-tree analogy, [[bg/15/1|Bg. 15.1]], [[bg/15/3|Bg. 15.3]]
 * in devotional service, [[bg/2/55|Bg. 2.55]], [[bg/6/47|Bg. 6.47]]
 * in family life, [[sb/4/30/19-19#purport|SB 4.30.19-19]]
 * in Kṛṣṇa consciousness, [[bg/2/38|Bg. 2.38]], [[bg/2/55|Bg. 2.55]], [[bg/2/64|Bg. 2.64]], [[bg/4/18|Bg. 4.18]], [[bg/4/19–23|Bg. 4.19–23]], [[bg/5/7–14|Bg. 5.7–14]], [[bg/6/14–26|Bg. 6.14–26]]
 * in liberated souls, [[sb/4/3/15#purport|SB 4.3.15]]
+* in yoga, 6.2, [[bg/6/4|Bg. 6.4]], [[bg/6/14–26|Bg. 6.14–26]], [[bg/8/12|Bg. 8.12]]
 * inspired by Dhruva, [[sb/4/8/8#purport|SB 4.8.8]]
 * items of, [[bg/18/51|Bg. 18.51]]
 * Kṛṣṇa consciousness shown by, [[sb/3/27/22#purport|SB 3.27.22]]
@@ -79,18 +136,16 @@
 * mind disciplined via, [[bg/6/35|Bg. 6.35]]
 * necessity of, [[bg/6/5–6|Bg. 6.5–6]], [[bg/6/7–12|Bg. 6.7–12]], [[bg/6/14–26|Bg. 6.14–26]], [[bg/15/3|Bg. 15.3]]
 * needed for spiritual knowledge, [[sb/3/26/72-72#purport|SB 3.26.72-72]]
-* of muni,  2.56
 * of Arjuna, [[bg/2/6|Bg. 2.6]], [[sb/3/32/25#purport|SB 3.32.25]]
 * of Caitanya, [[sb/4/30/33#purport|SB 4.30.33]]
 * of children, [[sb/4/29/72-73#purport|SB 4.29.72-73]]
-* *See:* Devotees; detachment of 
 * of devotees, [[sb/3/25/37#purport|SB 3.25.37]], [[sb/3/25/39-40#purport|SB 3.25.39-40]], [[sb/3/27/27-27#purport|SB 3.27.27-27]], [[sb/3/27/30#purport|SB 3.27.30]], [[sb/3/31/48#purport|SB 3.31.48]], [[sb/3/32/24-25#purport|SB 3.32.24-25]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/4/31/2#purport|SB 4.31.2]], [[sb/4/31/20-20#purport|SB 4.31.20-20]], [[sb/4/31/21-21#purport|SB 4.31.21-21]], [[sb/4/31/30#purport|SB 4.31.30]]
 * of Haridāsa Thākura, [[sb/3/14/31#purport|SB 3.14.31]]
 * of Lord in His activities, [[sb/4/7/34#purport|SB 4.7.34]]
+* of muni, 2.56
 * of Pracetās, [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/30-33#purport|SB 4.30.30-33]]
-* of pure devotees, [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/31/21-21#purport|SB 4.31.21-21]]
-* of pure devotees. See: Devotees, pure; Devotional service, pure 
-* of sense control. See: Sense control 
+* of pure devotees. See: Devotees, pure; Devotional service, pure, [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/31/21-21#purport|SB 4.31.21-21]]
+* of sense control. See: Sense control
 * of Śiva, [[sb/3/14/25-29#purport|SB 3.14.25-29]]
 * of transcendentalist, [[sb/4/25/62#purport|SB 4.25.62]]
 * of Yāmunācārya, [[bg/2/60|Bg. 2.60]], [[bg/5/21|Bg. 5.21]]
@@ -104,21 +159,21 @@
 * self-realization &, [[bg/2/1|Bg. 2.1]], [[bg/18/51–54|Bg. 18.51–54]]
 * symptoms of, [[bg/2/55–61|Bg. 2.55–61]], [[bg/2/64–66|Bg. 2.64–66]], [[bg/2/68–72|Bg. 2.68–72]]
 * tolerance &, [[bg/8/5|Bg. 8.5]], [[bg/13/8|Bg. 13.8]] (4)
+* training for, [[sb/4/28/27#purport|SB 4.28.27]]
 * transcended in Kṛṣṇa consciousness, [[bg/2/64|Bg. 2.64]]
 * varṇāśrama-dharma for, [[sb/4/28/27#purport|SB 4.28.27]]
 * Vedic civilization teaches, [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/28/27#purport|SB 4.28.27]]
-* via bhakti-yoga, 7.1
-* via yoga, 4.27, [[bg/5/28|Bg. 5.28]], [[bg/6/1–4|Bg. 6.1–4]]
 * via association, [[bg/15/3|Bg. 15.3]]
-* via austerities, [[sb/4/28/44-44#purport|SB 4.28.44-44]]
+* via austerities, [[sb/4/28/44-44#purport|SB 4.28.44-44]], [[sb/4/28/44-44#purport|SB 4.28.44-44]]
+* via bhakti-yoga, 7.1
 * via breath control, [[bg/4/27|Bg. 4.27]], [[bg/5/28|Bg. 5.28]]
 * via devotee’s association, [[sb/3/25/24-24#purport|SB 3.25.24-24]]
+* via devotional service, [[sb/3/5/42#purport|SB 3.5.42]], [[sb/3/7/12#purport|SB 3.7.12]], [[sb/3/25/26#purport|SB 3.25.26]], [[sb/3/26/72#purport|SB 3.26.72]], [[sb/3/27/1-1#purport|SB 3.27.1-1]], [[sb/3/27/5-5#purport|SB 3.27.5-5]], [[sb/3/32/23-23#purport|SB 3.32.23-23]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/4/13/8-9#purport|SB 4.13.8-9]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/26/7#purport|SB 4.26.7]], [[sb/4/26/14#purport|SB 4.26.14]], [[sb/4/27/12#purport|SB 4.27.12]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/46-46#purport|SB 4.29.46-46]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/30/16#purport|SB 4.30.16]], [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19-19#purport|SB 4.30.19-19]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/4/30/35#purport|SB 4.30.35]], [[sb/4/31/19#purport|SB 4.31.19]], [[sb/5/7/11#purport|SB 5.7.11]]
 * via devotional service, 21, [[bg/3/28|Bg. 3.28]], [[bg/4/10|Bg. 4.10]], [[bg/18/55|Bg. 18.55]]
-* via devotional service, [[sb/3/25/26#purport|SB 3.25.26]], [[sb/3/26/72#purport|SB 3.26.72]], [[sb/3/27/1-1#purport|SB 3.27.1-1]], [[sb/3/27/5-5#purport|SB 3.27.5-5]], [[sb/3/32/23-23#purport|SB 3.32.23-23]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/3/5/42#purport|SB 3.5.42]], [[sb/3/7/12#purport|SB 3.7.12]], [[sb/4/13/8-9#purport|SB 4.13.8-9]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/26/7#purport|SB 4.26.7]], [[sb/4/26/14#purport|SB 4.26.14]], [[sb/4/27/12#purport|SB 4.27.12]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/46-46#purport|SB 4.29.46-46]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/30/16#purport|SB 4.30.16]], [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19-19#purport|SB 4.30.19-19]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/4/30/35#purport|SB 4.30.35]], [[sb/4/31/19#purport|SB 4.31.19]], [[sb/5/7/11#purport|SB 5.7.11]]
 * via hearing & chanting, [[sb/4/30/35#purport|SB 4.30.35]]
 * via hearing about Kṛṣṇa, [[bg/6/35|Bg. 6.35]]
 * via hearing Nārada’s Purañjana allegory, [[sb/4/29/83-85#purport|SB 4.29.83-85]]
-* via higher taste, [[bg/2/59–64|Bg. 2.59–64]], [[bg/2/67–68|Bg. 2.67–68]], [[bg/5/24|Bg. 5.24]], [[sb/3/33/20#purport|SB 3.33.20]], [[sb/3/7/13#purport|SB 3.7.13]]
+* via higher taste, [[bg/2/59–64|Bg. 2.59–64]], [[bg/2/67–68|Bg. 2.67–68]], [[bg/5/24|Bg. 5.24]], [[sb/3/7/13#purport|SB 3.7.13]], [[sb/3/33/20#purport|SB 3.33.20]]
 * via knowledge, [[bg/15/1|Bg. 15.1]], [[bg/15/3|Bg. 15.3]], [[sb/4/25/7#purport|SB 4.25.7]], [[sb/4/26/12#purport|SB 4.26.12]]
 * via Kṛṣṇa conscious family life, [[sb/3/31/42#purport|SB 3.31.42]]
 * via Kṛṣṇa consciousness, [[bg/2/55|Bg. 2.55]], [[bg/2/58–71|Bg. 2.58–71]], [[bg/3/17|Bg. 3.17]], [[bg/4/23|Bg. 4.23]], [[bg/5/26|Bg. 5.26]], [[bg/6/1–4|Bg. 6.1–4]], [[bg/6/10|Bg. 6.10]], [[bg/6/36–37|Bg. 6.36–37]], [[bg/7/1|Bg. 7.1]], [[bg/15/6|Bg. 15.6]], [[sb/4/28/19#purport|SB 4.28.19]], [[sb/4/29/7#purport|SB 4.29.7]], [[sb/4/29/36-37/#purport|SB 4.29.36-37.]] 29.36-37, [[sb/4/29/69#purport|SB 4.29.69]], [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/31/2#purport|SB 4.31.2]], [[sb/4/31/20#purport|SB 4.31.20]]
@@ -129,10 +184,12 @@
 * via regulation in sense gratification, [[bg/3/34|Bg. 3.34]]
 * via sacrifice, [[sb/4/26/7#purport|SB 4.26.7]]
 * via sense control, [[bg/5/28|Bg. 5.28]]
-* via spiritual consciousness, [[sb/3/25/15#purport|SB 3.25.15]]
+* via spiritual consciousness, [[sb/3/25/15#purport|SB 3.25.15]], [[sb/4/25/24#purport|SB 4.25.24]]
 * via surrender, [[bg/15/3|Bg. 15.3]]
+* via yoga, 4.27, [[bg/5/28|Bg. 5.28]], [[bg/6/1–4|Bg. 6.1–4]]
 * work in, [[bg/4/18–24|Bg. 4.18–24]]
+  * in goodness mode, [[bg/18/26|Bg. 18.26]]
 
-*See also:* [[a#Austerity|Austerity]]; [[p#Purification|Purification]]; [[r#Renunciation|Renunciation]]; [[a#Attachment|Attachment]]; [[c#Celibacy|Celibacy]]; [[s#Sense control|Sense control]]; [[b#Brahmacarya|Brahmacarya]]; [[s#Sannyāsa|Sannyāsa]]; [[r#Retirement|Retirement]]; [[s#Sannyāsīs|Sannyāsīs]]; Vānaprasthas
+*See also:* [Attachment](entries/attachment.md); [Celibacy](entries/celibacy.md); [Renunciation](entries/renunciation.md); Sense control; [Austerity](entries/austerities.md); [Brahmacarya](entries/brahmacarya.md); [Purification](entries/purification.md); Sannyāsa; [Retirement](entries/retirement.md); Sannyāsīs; Vānaprasthas
 
-*See:* Renuciation; [[r#Renunciation|Renunciation]]
+*See:* [Renunciation](entries/renunciation.md); Devotees; detachment of; Renuciation

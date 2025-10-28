@@ -20,6 +20,6 @@
 * transcendentalist realizes, [[sb/8/3/29#purport|SB 8.3.29]], [[sb/8/11/8#purport|SB 8.11.8]]
 * universe in, [[sb/6/16/22#purport|SB 6.16.22]]
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]; [[s#Supreme Lord|Supreme Lord]]; Kṛṣṇa
+*See also:* Absolute Truth; Supreme Lord; Kṛṣṇa
 
-*See:* [[s#Supreme Brahman|Supreme Brahman]]; [[s#Supreme Lord|Supreme Lord]]
+*See:* Supreme Brahman; Supreme Lord

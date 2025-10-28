@@ -16,6 +16,8 @@
 * Māndhātā’s daughters desired by, [[sb/9/6/39-40#purport|SB 9.6.39-40]]
 * mantra-chanting perfected by, [[sb/9/6/45-46#purport|SB 9.6.45-46]], [[sb/9/6/45-46#purport|SB 9.6.45-46]]
 * material opulence of, [[sb/9/6/45-46#purport|SB 9.6.45-46]], [[sb/9/6/47#purport|SB 9.6.47]]
+* on liberation from material bondage, [[sb/9/6/51#purport|SB 9.6.51]]
+* on sexual attractiveness, [[sb/9/6/41-42#purport|SB 9.6.41-42]]
 * perfection attained by, [[sb/9/6/54#purport|SB 9.6.54]]
 * regrets sexual association, [[sb/9/6/50#purport|SB 9.6.50]], [[sb/9/6/51#purport|SB 9.6.51]], [[sb/9/6/52#purport|SB 9.6.52]]
 * rejuvenation of, [[sb/9/6/41-42#purport|SB 9.6.41-42]], [[sb/9/6/43#purport|SB 9.6.43]]

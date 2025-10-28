@@ -1,8 +1,9 @@
 # Rāmacandra, Lord
 
-**[[cc/adi/17/69#translation|Ādi 17.69]]**, [[cc/antya/19/107#purport|Antya 19.107]], [[cc/antya/3/147#purport|Antya 3.147]], **[[cc/antya/4/30–31#translation|Antya 4.30–31]]**, **[[cc/antya/4/38–43#translation|Antya 4.38–43]]**, **[[cc/madhya/15/145–56#translation|Madhya 15.145–56]]**, [[cc/madhya/17/86#purport|Madhya 17.86]], **[[cc/madhya/22/126#translation|Madhya 22.126]]**, [[cc/madhya/9/11#purport|Madhya 9.11]], **[[cc/madhya/9/17–18#translation|Madhya 9.17–18]]**, **[[cc/madhya/9/198#translation|Madhya 9.198]]**, **[[cc/madhya/9/214#translation|Madhya 9.214]]**, **[[cc/madhya/9/221#translation|Madhya 9.221]]**, **[[cc/madhya/9/222#translation|Madhya 9.222]]**, **[[cc/madhya/9/224#translation|Madhya 9.224]]**, **[[cc/madhya/9/225#translation|Madhya 9.225]]**, **[[cc/madhya/9/31–32#translation|Madhya 9.31–32]]**, **[[cc/madhya/9/314–15#translation|Madhya 9.314–15]]**, **[[cc/madhya/9/35#translation|Madhya 9.35]]**, [[cc/madhya/9/64#purport|Madhya 9.64]], **[[cc/madhya/9/65#translation|Madhya 9.65]]**
+[[bg/1/20|Bg. 1.20]], [[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/8/14|Bg. 8.14]], [[bg/14/26|Bg. 14.26]], [[bg/15/7|Bg. 15.7]], [[bg/18/65|Bg. 18.65]], **[[cc/madhya/22/126#translation|Madhya 22.126]]**, [[cc/antya/19/107#purport|Antya 19.107]], **[[cc/antya/4/30–31#translation|Antya 4.30–31]]**, **[[cc/antya/4/38–43#translation|Antya 4.38–43]]**, **[[cc/madhya/9/214#translation|Madhya 9.214]]**, **[[cc/madhya/9/314–15#translation|Madhya 9.314–15]]**, **[[cc/madhya/9/224#translation|Madhya 9.224]]**, **[[cc/madhya/9/222#translation|Madhya 9.222]]**, [[cc/madhya/9/11#purport|Madhya 9.11]], **[[cc/madhya/9/221#translation|Madhya 9.221]]**, **[[cc/madhya/9/17–18#translation|Madhya 9.17–18]]**, [[cc/madhya/17/86#purport|Madhya 17.86]], [[cc/madhya/9/64#purport|Madhya 9.64]], **[[cc/adi/17/69#translation|Ādi 17.69]]**, **[[cc/madhya/15/145–56#translation|Madhya 15.145–56]]**, **[[cc/madhya/9/31–32#translation|Madhya 9.31–32]]**, **[[cc/madhya/9/35#translation|Madhya 9.35]]**, [[cc/antya/3/147#purport|Antya 3.147]], **[[cc/madhya/9/198#translation|Madhya 9.198]]**, **[[cc/madhya/9/65#translation|Madhya 9.65]]**, **[[cc/madhya/9/225#translation|Madhya 9.225]]**, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/19/9-10#purport|SB 1.19.9-10]], [[sb/4/25/13#purport|SB 4.25.13]], [[sb/4/25/24#purport|SB 4.25.24]], [[sb/4/30/38#purport|SB 4.30.38]]
 
 * & sages in Daṇḍakāraṇya Forest, [[sb/5/18/23#purport|SB 5.18.23]]
+* abandoned by, [[sb/9/11/10#purport|SB 9.11.10]], [[sb/9/11/15#purport|SB 9.11.15]]
 * activities of, [[sb/9/10/3#purport|SB 9.10.3]], [[sb/9/10/4-7#purport|SB 9.10.4-7]]
 * activity of, [[sb/7/7/34#purport|SB 7.7.34]]
 * Agnihotra-yajña by, [[sb/9/11/18#purport|SB 9.11.18]]
@@ -30,6 +31,7 @@
 * as Nārāyaṇa, incarnation of, [[sb/5/19/2#purport|SB 5.19.2]]
 * as omnipotent, [[sb/9/10/15#purport|SB 9.10.15]]
 * as pastime incarnation of Lord, **[[cc/madhya/20/298–99#translation|Madhya 20.298–99]]**
+* as pleasure potency of, [[sb/9/10/22#purport|SB 9.10.22]], [[sb/9/11/35#purport|SB 9.11.35]]
 * as renunciant, [[sb/1/8/41#purport|SB 1.8.41]]
 * as righteous king, [[bg/10/27|Bg. 10.27]]
 * as Supersoul & friend of self-realized souls, [[sb/5/19/6#purport|SB 5.19.6]]
@@ -46,7 +48,6 @@
 * Ayodhyā’s devotees brought to Vaikuṇṭha by, [[sb/5/19/8#purport|SB 5.19.8]]
 * Balarāma nondifferent from, [[sb/10/2/13#purport|SB 10.2.13]]
 * beyond material world, [[sb/9/10/11#purport|SB 9.10.11]]
-*  [[bg/1/20|Bg. 1.20]], [[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/8/14|Bg. 8.14]], [[bg/14/26|Bg. 14.26]], [[bg/15/7|Bg. 15.7]], [[bg/18/65|Bg. 18.65]], [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/19/9-10#purport|SB 1.19.9-10]], [[sb/4/25/13#purport|SB 4.25.13]], [[sb/4/25/24#purport|SB 4.25.24]], [[sb/4/30/38#purport|SB 4.30.38]]
 * Bharata welcomed home, [[sb/9/10/35-38#purport|SB 9.10.35-38]], [[sb/9/10/39-40#purport|SB 9.10.39-40]], [[sb/9/10/42-43#purport|SB 9.10.42-43]], [[sb/9/10/45-46#purport|SB 9.10.45-46]]
 * Bharata’s activities in absence of, [[sb/9/10/34#purport|SB 9.10.34]]
 * Bibhīṣaṇa’s promise to, [[sb/5/15/7#purport|SB 5.15.7]]
@@ -59,8 +60,9 @@
 * chanting name of, recommended, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * character of, [[sb/9/10/54#purport|SB 9.10.54]]
 * citizenry under, [[sb/9/10/50#purport|SB 9.10.50]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/10/53#purport|SB 9.10.53]], [[sb/9/11/26-26#purport|SB 9.11.26-26]]
-* color of, N107 
-* compared 
+* color of, N107
+* compared
+* considered, ordinary, [[sb/5/19/4#purport|SB 5.19.4]]
 * consort of, [[bg/1/20|Bg. 1.20]]
 * Daṇḍakāraṇya &, [[cc/madhya/9/311#purport|Madhya 9.311]]
 * Daśaratha &, [[sb/9/10/2#purport|SB 9.10.2]], [[sb/9/10/8#purport|SB 9.10.8]]
@@ -70,13 +72,15 @@
 * dynasty of, [[bg/4/1|Bg. 4.1]] (4), [[sb/5/6/18#purport|SB 5.6.18]]
 * exemplified ideal husband, [[sb/9/10/54#purport|SB 9.10.54]]
 * expansions of, [[sb/2/7/23#purport|SB 2.7.23]]
+* family of, killed by, [[sb/5/9/17#purport|SB 5.9.17]]
 * fasted at seashore, [[sb/9/10/13#purport|SB 9.10.13]]
 * father-in-law of, [[bg/3/20|Bg. 3.20]]
+* found by, [[sb/9/10/30#purport|SB 9.10.30]], [[sb/9/10/31#purport|SB 9.10.31]]
 * friendship with, [[sb/5/19/7#purport|SB 5.19.7]]
 * Gandharvas chant glories of, [[sb/5/19/2#purport|SB 5.19.2]]
 * glories of, [[sb/9/11/20#purport|SB 9.11.20]], [[sb/9/11/21#purport|SB 9.11.21]]
 * government of, [[sb/9/10/50#purport|SB 9.10.50]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/11/25-25#purport|SB 9.11.25-25]], [[sb/9/13/12#purport|SB 9.13.12]]
-* Hanumān &, [[cc/adi/6/42#purport|Ādi 6.42]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, [[bg/3/37|Bg. 3.37]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/9/30#purport|SB 2.9.30]]
+* Hanumān &, [[bg/3/37|Bg. 3.37]], [[cc/adi/6/42#purport|Ādi 6.42]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/9/30#purport|SB 2.9.30]]
 * Hanumān carrier of, [[sb/5/19/4#purport|SB 5.19.4]]
 * Hanumān worships in Kimpuruṣa-varsa, [[sb/5/19/1#purport|SB 5.19.1]]
 * Hanumān worships, [[sb/3/20/25#purport|SB 3.20.25]], [[sb/3/24/31#purport|SB 3.24.31]]
@@ -93,9 +97,10 @@
 * Indian Ocean gave way to, [[sb/10/3/50#purport|SB 10.3.50]]
 * instructed about attachment to women, [[sb/9/10/11#purport|SB 9.10.11]]
 * Jaṭāyu’s funeral performed by, [[sb/9/10/12#purport|SB 9.10.12]]
+* killed by, 29.5
 * king’s duty taught by, [[sb/5/19/6#purport|SB 5.19.6]]
-* kingdom of, politicians covet, [[sb/4/22/63#purport|SB 4.22.63]]
 * kingdom of, [[sb/9/10/4#purport|SB 9.10.4]], [[sb/9/10/8#purport|SB 9.10.8]], [[sb/9/10/50#purport|SB 9.10.50]], [[sb/9/11/2#purport|SB 9.11.2]], [[sb/9/11/26-28#purport|SB 9.11.26-28]], [[sb/9/11/31-34#purport|SB 9.11.31-34]]
+* kingdom of, politicians covet, [[sb/4/22/63#purport|SB 4.22.63]]
 * Kṛṣṇa appears as, [[sb/1/8/19#purport|SB 1.8.19]], [[sb/1/10/25#purport|SB 1.10.25]]
 * Kṛṣṇa represented by, [[bg/10/31|Bg. 10.31]]
 * Kṛṣṇa source of, [[cc/adi/2/67#purport|Ādi 2.67]], **[[cc/adi/5/153#translation|Ādi 5.153]]**
@@ -107,6 +112,7 @@
 * Lord known as, [[bg/5/22|Bg. 5.22]]
 * marriage of, [[cc/adi/15/29#purport|Ādi 15.29]]
 * marries Sītā, [[sb/9/20/15#purport|SB 9.20.15]]
+* marries, [[sb/9/20/15#purport|SB 9.20.15]]
 * Māyā-devī &, **[[cc/antya/3/256–57#translation|Antya 3.256–57]]**
 * mission of, [[sb/5/19/5#purport|SB 5.19.5]], [[sb/8/2/33#purport|SB 8.2.33]]
 * monkeys allied with, [[sb/9/10/12#purport|SB 9.10.12]], [[sb/9/10/16#purport|SB 9.10.16]], [[sb/9/10/19#purport|SB 9.10.19]]
@@ -132,12 +138,13 @@
 * Rāmadāsa Viśvāsa &, **[[cc/antya/13/92#translation|Antya 13.92]]**
 * Rāmāyaṇa history of, [[sb/1/12/19#purport|SB 1.12.19]]
 * rasas &, [[cc/adi/4/34#purport|Ādi 4.34]]
-* Rāvaṇa 
+* Rāvaṇa
 * Rāvaṇa &, [[cc/adi/5/36#purport|Ādi 5.36]], **[[cc/madhya/9/205#translation|Madhya 9.205]]**
-* Rāvaṇa killed by, [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/15/12#purport|SB 1.15.12]], [[sb/10/2/26#purport|SB 10.2.26]], [[sb/2/7/25#purport|SB 2.7.25]]
+* Rāvaṇa killed by, [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/15/12#purport|SB 1.15.12]], [[sb/2/7/25#purport|SB 2.7.25]], [[sb/10/2/26#purport|SB 10.2.26]]
 * Rāvaṇa vs., [[sb/4/22/36#purport|SB 4.22.36]], [[sb/9/10/16-23#purport|SB 9.10.16-23]], [[sb/9/10/26#purport|SB 9.10.26]], [[sb/9/10/27#purport|SB 9.10.27]], [[sb/9/10/29#purport|SB 9.10.29]]
 * Rāvaṇa wanted to kill, [[sb/1/9/34#purport|SB 1.9.34]]
 * Rāvaṇa’s sister deformed by, [[sb/9/10/9#purport|SB 9.10.9]]
+* recovered by, [[sb/5/14/24#purport|SB 5.14.24]]
 * reign of, [[sb/9/10/50-50#purport|SB 9.10.50-50]], [[sb/9/10/51-54#purport|SB 9.10.51-54]], [[sb/9/11/26-30#purport|SB 9.11.26-30]], [[sb/9/11/31-36#purport|SB 9.11.31-36]]
 * respected relatives, [[sb/9/10/45-46#purport|SB 9.10.45-46]]
 * returned to spiritual abode, [[sb/9/11/19-19#purport|SB 9.11.19-19]], [[sb/9/11/22#purport|SB 9.11.22]]
@@ -145,10 +152,11 @@
 * sacrifices by, [[sb/9/11/1-1#purport|SB 9.11.1-1]], [[sb/9/11/2-5#purport|SB 9.11.2-5]], [[sb/9/11/18#purport|SB 9.11.18]]
 * Saṅkarṣaṇa &, [[cc/adi/5/120#purport|Ādi 5.120]]
 * Sapta-tāla trees &, **[[cc/madhya/1/116#translation|Madhya 1.116]]**
+* separated from, [[sb/9/10/4#purport|SB 9.10.4]], [[sb/9/10/11-11#purport|SB 9.10.11-11]], [[sb/9/11/16#purport|SB 9.11.16]]
 * separation from Lakṣmaṇa by, [[sb/5/19/6#purport|SB 5.19.6]]
 * separation from Sītā by, [[sb/5/19/5#purport|SB 5.19.5]], [[sb/5/19/6#purport|SB 5.19.6]]
 * shaved & bathed after Ayodhyā return, [[sb/9/10/48#purport|SB 9.10.48]], [[sb/9/10/49#purport|SB 9.10.49]]
-* Sītā , 
+* Sītā
 * Sītā followed, in forest, [[sb/4/23/19#purport|SB 4.23.19]]
 * Sītā saved by, [[sb/8/8/9#purport|SB 8.8.9]]
 * Sītā wife of, [[sb/1/12/19#purport|SB 1.12.19]]
@@ -161,14 +169,19 @@
 * suffering by, [[sb/5/19/5#purport|SB 5.19.5]], [[sb/5/19/6#purport|SB 5.19.6]]
 * Śūrpaṇakhā disfigured by, [[sb/9/10/4#purport|SB 9.10.4]]
 * taught by example, [[sb/8/1/16#purport|SB 8.1.16]], [[sb/9/10/54#purport|SB 9.10.54]]
+* to boar incarnation, [[sb/9/11/29#purport|SB 9.11.29]]
+* to liberated soul, [[sb/9/10/8#purport|SB 9.10.8]]
+* to moon, [[sb/9/10/44#purport|SB 9.10.44]]
 * Vibhīṣaṇa &, [[sb/9/10/16#purport|SB 9.10.16]], [[sb/9/10/29#purport|SB 9.10.29]], [[sb/9/10/32#purport|SB 9.10.32]]
 * Viśvāmitra &, [[sb/5/10/15#purport|SB 5.10.15]]
 * vowed to take one wife, [[sb/9/10/54-54#purport|SB 9.10.54-54]]
 * vs. Rāvaṇa, [[bg/1/20|Bg. 1.20]], [[bg/1/36|Bg. 1.36]], [[sb/3/18/13#purport|SB 3.18.13]]
 * weapons of, [[sb/9/10/9#purport|SB 9.10.9]], [[sb/9/10/20#purport|SB 9.10.20]]
-* wife of, [[sb/1/13/30#purport|SB 1.13.30]], [[sb/9/10/3#purport|SB 9.10.3]], [[sb/9/10/11#purport|SB 9.10.11]], [[sb/9/10/54#purport|SB 9.10.54]], [[sb/9/10/55#purport|SB 9.10.55]]
+* wife of, [[sb/1/13/30#purport|SB 1.13.30]], [[sb/5/19/1#purport|SB 5.19.1]], [[sb/9/10/3#purport|SB 9.10.3]], [[sb/9/10/11#purport|SB 9.10.11]], [[sb/9/10/54#purport|SB 9.10.54]], [[sb/9/10/55#purport|SB 9.10.55]]
+* with Varāha, [[sb/9/11/29#purport|SB 9.11.29]]
+* won by, [[sb/9/10/6-7#purport|SB 9.10.6-7]]
 * worship to, [[sb/5/19/8#purport|SB 5.19.8]]
 * worshiped Himself, [[sb/9/11/1-1#purport|SB 9.11.1-1]]
 * Yudhiṣṭhira compared to, [[sb/1/15/40#purport|SB 1.15.40]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]
+*See also:* Supreme Lord

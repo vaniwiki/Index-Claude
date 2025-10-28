@@ -1,6 +1,6 @@
 # Gopīnātha Paṭṭanāyaka
 
-**[[cc/adi/10/133#translation|Ādi 10.133]]**, **[[cc/antya/9/110–12#translation|Antya 9.110–12]]**, **[[cc/antya/9/126#translation|Antya 9.126]]**, **[[cc/antya/9/148#translation|Antya 9.148]]**, **[[cc/antya/9/86#translation|Antya 9.86]]**, [[cc/madhya/10/49#purport|Madhya 10.49]]
+**[[cc/adi/10/133#translation|Ādi 10.133]]**, [[cc/madhya/10/49#purport|Madhya 10.49]], **[[cc/antya/9/86#translation|Antya 9.86]]**, **[[cc/antya/9/148#translation|Antya 9.148]]**, **[[cc/antya/9/110–12#translation|Antya 9.110–12]]**, **[[cc/antya/9/126#translation|Antya 9.126]]**
 
 * Caitanya informed about, **[[cc/antya/9/13–31#translation|Antya 9.13–31]]**, **[[cc/antya/9/63#translation|Antya 9.63]]**
 * Caitanya rebukes, **[[cc/antya/9/31–32#translation|Antya 9.31–32]]**, **[[cc/antya/9/87–92#translation|Antya 9.87–92]]**

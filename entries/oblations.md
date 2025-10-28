@@ -8,4 +8,4 @@
 * to Śiva at sacrifices, [[sb/4/4/9#purport|SB 4.4.9]]
 * to Viṣṇu, accepted by Him, [[sb/4/7/25#purport|SB 4.7.25]]
 
-*See also:* [[s#Sacrifices|Sacrifices]]
+*See also:* Sacrifices

@@ -1,5 +1,7 @@
 # Śukadeva Gosvāmī quoted
 
+
+
 * on accepting nature’s gifts, [[sb/2/2/4-5#purport|SB 2.2.4-5]]
 * on Bhāgavatam, subjects in, [[sb/2/10/1#purport|SB 2.10.1]]
 * on depending on Kṛṣṇa, [[sb/7/15/15#purport|SB 7.15.15]]

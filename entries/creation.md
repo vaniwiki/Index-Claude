@@ -1,9 +1,8 @@
 # Creation
 
-[[cc/adi/7/121#purport|Ādi 7.121]], **[[cc/madhya/20/276#translation|Madhya 20.276]]**, **[[cc/madhya/20/284–85#translation|Madhya 20.284–85]]**, **[[cc/madhya/20/361#translation|Madhya 20.361]]**, **[[cc/madhya/20/371#translation|Madhya 20.371]]**, **[[cc/madhya/24/76#translation|Madhya 24.76]]**, **[[cc/madhya/25/133#translation|Madhya 25.133]]**
+**[[cc/madhya/20/361#translation|Madhya 20.361]]**, **[[cc/madhya/20/371#translation|Madhya 20.371]]**, [[cc/adi/7/121#purport|Ādi 7.121]], **[[cc/madhya/24/76#translation|Madhya 24.76]]**, **[[cc/madhya/25/133#translation|Madhya 25.133]]**, **[[cc/madhya/20/284–85#translation|Madhya 20.284–85]]**, **[[cc/madhya/20/276#translation|Madhya 20.276]]**
 
-* mahat-tattva &, [[bg/7/4|Bg. 7.4]], [[bg/9/8|Bg. 9.8]], [[bg/10/20|Bg. 10.20]], [[bg/13/20|Bg. 13.20]], [[bg/14/3|Bg. 14.3]]
-* *puruṣa & prakṛti *&,  2.39 (1)
+* *puruṣa & prakṛti *&, 2.39 (1)
 * & annihilation, [[bg/8/17–19|Bg. 8.17–19]], [[bg/9/7–8|Bg. 9.7–8]]
 * Aniruddha &, [[cc/adi/5/41#purport|Ādi 5.41]]
 * as spiritual, actually, [[bg/18/62|Bg. 18.62]]
@@ -36,14 +35,16 @@
 * Lord’s will &, **[[cc/madhya/20/290#translation|Madhya 20.290]]**
 * lotus flower &, [[bg/11/37|Bg. 11.37]]
 * Mahā-Viṣṇu &, **[[cc/madhya/20/265–67#translation|Madhya 20.265–67]]**, **[[cc/madhya/20/278–81#translation|Madhya 20.278–81]]**
+* mahat-tattva &, [[bg/7/4|Bg. 7.4]], [[bg/9/8|Bg. 9.8]], [[bg/10/20|Bg. 10.20]], [[bg/13/20|Bg. 13.20]], [[bg/14/3|Bg. 14.3]]
 * material energies comprise, [[bg/7/4|Bg. 7.4]]
 * material energy &, **[[cc/madhya/20/271#translation|Madhya 20.271]]**, **[[cc/madhya/20/274#translation|Madhya 20.274]]**
 * nature’s role in, [[bg/7/14|Bg. 7.14]], [[bg/9/10|Bg. 9.10]]
 * of demigods, [[bg/11/37|Bg. 11.37]]
 * of first living entities, [[bg/10/6|Bg. 10.6]]
-* of life, Kṛṣṇa as cause of, [[bg/7/9–10|Bg. 7.9–10]]
 * of life, [[sb/3/26/19#purport|SB 3.26.19]]
+* of life, Kṛṣṇa as cause of, [[bg/7/9–10|Bg. 7.9–10]]
 * of living entities, [[bg/3/15|Bg. 3.15]], [[bg/9/8|Bg. 9.8]], [[bg/9/10|Bg. 9.10]], [[bg/13/20|Bg. 13.20]], [[bg/14/3–4|Bg. 14.3–4]]
+  * Lord’s desire for, [[bg/10/8|Bg. 10.8]]
 * of mahat-tattva, [[sb/3/26/20#purport|SB 3.26.20]]
 * of solar system, [[bg/4/1|Bg. 4.1]] (1)
 * of species of life, [[bg/9/8|Bg. 9.8]], [[bg/9/10|Bg. 9.10]]
@@ -71,4 +72,4 @@
 * Viṣṇus for, [[bg/7/4|Bg. 7.4]], [[bg/10/20|Bg. 10.20]], [[bg/10/32|Bg. 10.32]]
 * within Lord’s energies, [[bg/9/4–10|Bg. 9.4–10]]
 
-*See also:* [[a#Annihilation|Annihilation]]; [[e#Evolution|Evolution]]; Cause; ultimate; [[s#Supreme Lord|Supreme Lord]]; as creator
+*See also:* Annihilation; [Evolution](entries/evolution.md); Cause; ultimate; Supreme Lord; as creator

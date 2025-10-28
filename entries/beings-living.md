@@ -1,4 +1,4 @@
 # Beings, living
 
 
-*See:* Animals; Humans being; [[l#Living entities|Living entities]]; [[s#Souls|Souls]]
+*See:* Animals; Humans being; Living entities; Souls

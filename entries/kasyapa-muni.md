@@ -1,9 +1,9 @@
 # Kaśyapa Muni
 
-[[sb/1/13/15#purport|SB 1.13.15]]
+[[sb/1/13/15#purport|SB 1.13.15]], [[sb/8/7/5#purport|SB 8.7.5]], [[sb/8/8/31#purport|SB 8.8.31]]
 
 * Aditi begged, for instruction, [[sb/8/16/17#purport|SB 8.16.17]], [[sb/8/16/22#purport|SB 8.16.22]]
-* Aditi instructed by 
+* Aditi instructed by
 * Aditi questioned by, [[sb/8/16/4#purport|SB 8.16.4]], [[sb/8/16/6#purport|SB 8.16.6]], [[sb/8/16/8#purport|SB 8.16.8]], [[sb/8/16/10#purport|SB 8.16.10]]
 * Aditi reassured, about household, [[sb/8/16/11#purport|SB 8.16.11]], [[sb/8/16/12#purport|SB 8.16.12]]
 * Aditi’s union with, [[sb/8/17/23#purport|SB 8.17.23]]
@@ -34,9 +34,10 @@
 * historical accounts on, [[sb/1/9/8#purport|SB 1.9.8]]
 * Lord pleased with, [[sb/8/17/18#purport|SB 8.17.18]]
 * meditated on Lord, [[sb/8/17/22#purport|SB 8.17.22]], [[sb/8/17/23#purport|SB 8.17.23]]
+* on devotional service, [[sb/8/16/20-20#purport|SB 8.16.20-20]], [[sb/8/16/21#purport|SB 8.16.21]]
+* on payo-vrata, [[sb/8/16/25-58#purport|SB 8.16.25-58]], [[sb/8/17/1#purport|SB 8.17.1]], [[sb/8/17/7#purport|SB 8.17.7]]
 * Pāṇḍavas compared with, [[sb/7/10/48#purport|SB 7.10.48]]
-* quoted. See: Kaśyapa Muni quoted 
+* quoted. See: Kaśyapa Muni quoted
 * returned to Aditi, [[sb/8/16/2#purport|SB 8.16.2]]
-*  [[sb/8/7/5#purport|SB 8.7.5]], [[sb/8/8/31#purport|SB 8.8.31]]
 * son of, [[sb/7/3/17#purport|SB 7.3.17]]
 * sons of, [[sb/8/9/7#purport|SB 8.9.7]]

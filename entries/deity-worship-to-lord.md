@@ -33,4 +33,4 @@
 * temple for, [[sb/7/14/29#purport|SB 7.14.29]]
 * Tretā-yuga began, [[sb/7/14/39-39#purport|SB 7.14.39-39]]
 
-*See also:* Deities form; [[w#Worship|Worship]]; to Lord
+*See also:* Deities form; [Worship](entries/worship.md); to Lord

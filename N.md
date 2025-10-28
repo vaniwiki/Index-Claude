@@ -42,9 +42,9 @@
 
 [[sb/9/4/1#purport|SB 9.4.1]]...
 
-* Aṅgirā’s descendants gave money remnants to, [[sb/9/4/6#purport|SB 9.4.6]]
+* Aṅgirā’s descendants gave money remnants to,, [[sb/9/4/6#purport|SB 9.4.6]]
 
-*→ See all 9 references in* [Nābhāga (son of Nabhaga)](entries/nabhaga-son-of-nabhaga.md)
+*→ See all 11 references in* [Nābhāga (son of Nabhaga)](entries/nabhaga-son-of-nabhaga.md)
 
 ---
 
@@ -57,11 +57,11 @@
 
 ### [Nābhi, King](entries/nabhi-king.md)
 
-[[sb/1/3/13#purport|SB 1.3.13]], [[sb/2/7/10#purport|SB 2.7.10]]...
+[[sb/1/3/13#purport|SB 1.3.13]]...
 
-* Āgnīdhra 
+* Āgnīdhra
 
-*→ See all 22 references in* [Nābhi, King](entries/nabhi-king.md)
+*→ See all 40 references in* [Nābhi, King](entries/nabhi-king.md)
 
 ---
 
@@ -74,9 +74,9 @@
 
 ### [Nābhis priests quoted](entries/nabhis-priests-quoted.md)
 
-* on living entities, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
+* affection of, for devotees,, [[sb/5/3/12#purport|SB 5.3.12]]
 
-*→ See all 6 references in* [Nābhis priests quoted](entries/nabhis-priests-quoted.md)
+*→ See all 19 references in* [Nābhis priests quoted](entries/nabhis-priests-quoted.md)
 
 ---
 
@@ -90,13 +90,6 @@
 ### Nadīyā-nāgarīs
 
 [[cc/adi/4/107#purport|Ādi 4.107]], [[cc/adi/4/41#purport|Ādi 4.41]], [[cc/adi/5/232#purport|Ādi 5.232]], [[cc/antya/14/7#purport|Antya 14.7]]
-
-
----
-
-### Nāga
-
-[[cc/antya/2/10#purport|Antya 2.10]]
 
 
 ---
@@ -156,13 +149,13 @@
 
 ---
 
-### Nāga(s)
+### [Nāgas](entries/nagas.md)
 
-[[sb/1/11/11#purport|SB 1.11.11]], [[sb/3/20/48#purport|SB 3.20.48]], [[sb/4/1/22#purport|SB 4.1.22]], [[sb/4/24/12#purport|SB 4.24.12]], [[sb/8/8/16#purport|SB 8.8.16]], [[sb/9/22/32#purport|SB 9.22.32]]
+[[cc/antya/2/10#purport|Antya 2.10]]...
 
-* Maya Dānava builds homes for, [[sb/5/24/9#purport|SB 5.24.9]]
-* subterranean heavens inhabited by, [[sb/5/24/8#purport|SB 5.24.8]]
-* Sūrya worshiped by, [[sb/5/21/18#purport|SB 5.21.18]]
+* Maya Dānava builds homes for,, [[sb/5/24/9#purport|SB 5.24.9]]
+
+*→ See all 10 references in* [Nāgas](entries/nagas.md)
 
 ---
 
@@ -223,11 +216,13 @@
 
 ---
 
-### Naimiṣāraṇya
+### [Naimiṣāraṇya](entries/naimisaranya.md)
 
-[[cc/adi/5/171#purport|Ādi 5.171]], [[cc/madhya/22/55#purport|Madhya 22.55]], [[cc/madhya/24/215#purport|Madhya 24.215]], **[[cc/madhya/25/201–2#translation|Madhya 25.201–2]]**, [[cc/madhya/6/190#purport|Madhya 6.190]], [[sb/1/1/4#purport|SB 1.1.4]], [[sb/8/1/14#purport|SB 8.1.14]]
+[[cc/adi/5/171#purport|Ādi 5.171]]...
 
-* sages at, [[sb/1/11/36#purport|SB 1.11.36]]
+* quoted on Sūta’s narration,, [[sb/1/18/11-17#purport|SB 1.18.11-17]]
+
+*→ See all 10 references in* [Naimiṣāraṇya](entries/naimisaranya.md)
 
 ---
 
@@ -398,7 +393,7 @@
 
 ### [Nalakūvara & Maṇigrīva](entries/nalakuvara-manigriva.md)
 
-* as arjuna trees, [[sb/10/10/23#purport|SB 10.10.23]], [[sb/10/10/29-29#purport|SB 10.10.29-29]]
+* as arjuna trees,, [[sb/10/10/23#purport|SB 10.10.23]], [[sb/10/10/29-29#purport|SB 10.10.29-29]]
 
 *→ See all 6 references in* [Nalakūvara & Maṇigrīva](entries/nalakuvara-manigriva.md)
 
@@ -530,7 +525,7 @@
 
 ### [Name(s)](entries/names.md)
 
-* of Balarāma, [[sb/10/8/12#purport|SB 10.8.12]]
+* of Balarāma,, [[sb/10/8/12#purport|SB 10.8.12]]
 
 *→ See all 6 references in* [Name(s)](entries/names.md)
 
@@ -540,9 +535,9 @@
 
 * absolute nature of, [[sb/2/1/5#purport|SB 2.1.5]]
 
-*See also:* Chantings of holy name of Lord; [[s#Supreme Lord|Supreme Lord]]; names of
+*See also:* Chantings of holy name of Lord; Supreme Lord; names of
 
-*See:* Chantings holy name of Lord; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; specific names; [[s#Supreme Lord|Supreme Lord]]; names of
+*See:* Chantings holy name of Lord; Hare Kṛṣṇa mantra; specific names; Supreme Lord; names of
 
 ---
 
@@ -553,16 +548,16 @@
 
 ---
 
-### Name(s) of Lord
+### Names of Lord
 
 
-*See:* Chantings holy name of Lord; [[s#Supreme Lord|Supreme Lord]]; names of; [[c#Chanting holy names of Lord|Chanting holy names of Lord]]; [[c#Chanting Hare Kṛṣṇa|Chanting Hare Kṛṣṇa]]; Kṛṣṇa; Chanting holy names; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; [[c#Chanting|Chanting]]; Hare Kṛṣṇa
+*See:* Chantings holy name of Lord; Supreme Lord; names of; Chanting holy names of Lord; Chanting Hare Kṛṣṇa; Kṛṣṇa; Chanting holy names; Hare Kṛṣṇa mantra; [Chanting](entries/chanting.md); Hare Kṛṣṇa
 
 ---
 
 ### [Names of Supreme Lord](entries/names-of-supreme-lord.md)
 
-* as transcendental, [[sb/9/8/24-24#purport|SB 9.8.24-24]]
+* as transcendental,, [[sb/9/8/24-24#purport|SB 9.8.24-24]]
 
 *→ See all 6 references in* [Names of Supreme Lord](entries/names-of-supreme-lord.md)
 
@@ -599,11 +594,11 @@
 
 ---
 
-### Nanda & Sunanda (Viṣṇus associates)
+### [Nanda & Sunanda (Viṣṇus associates)](entries/nanda-sunanda-visnus-associates.md)
 
-* at Pṛthu’s horse sacrifices, [[sb/4/19/5#purport|SB 4.19.5]]
-* bodily features of, [[sb/4/12/20-20#purport|SB 4.12.20-20]]
-* Dhruva 
+* assured by, about Sunīti,, [[sb/4/12/32#purport|SB 4.12.32]], [[sb/4/12/33#purport|SB 4.12.33]]
+
+*→ See all 6 references in* [Nanda & Sunanda (Viṣṇus associates)](entries/nanda-sunanda-visnus-associates.md)
 
 ---
 
@@ -616,11 +611,11 @@
 
 ### [Nanda Mahārāja](entries/nanda-maharaja.md)
 
-[[cc/adi/10/77#purport|Ādi 10.77]], [[cc/adi/13/86#purport|Ādi 13.86]], [[cc/adi/14/3#purport|Ādi 14.3]]...
+[[cc/adi/4/35#purport|Ādi 4.35]]...
 
-* abode of, Pūtanā entered, [[sb/10/6/4#purport|SB 10.6.4]], [[sb/10/6/7#purport|SB 10.6.7]]
+* abode of, Pūtanā entered,, [[sb/10/6/4#purport|SB 10.6.4]], [[sb/10/6/7#purport|SB 10.6.7]]
 
-*→ See all 71 references in* [Nanda Mahārāja](entries/nanda-maharaja.md)
+*→ See all 79 references in* [Nanda Mahārāja](entries/nanda-maharaja.md)
 
 ---
 
@@ -695,10 +690,9 @@
 
 ---
 
-### Nandana Ācārya
+### [Nandana Ācārya](entries/nandana-acarya.md)
 
-**[[cc/adi/10/39#translation|Ādi 10.39]]**, **[[cc/adi/11/43#translation|Ādi 11.43]]**, [[cc/adi/17/12#purport|Ādi 17.12]], **[[cc/antya/10/122#translation|Antya 10.122]]**, **[[cc/antya/10/139#translation|Antya 10.139]]**, **[[cc/madhya/12/157#translation|Madhya 12.157]]**, **[[cc/madhya/12/157#translation|Madhya 12.157]]**
-
+**[[cc/adi/10/39#translation|Ādi 10.39]]**
 
 ---
 
@@ -765,13 +759,13 @@
 
 ---
 
-### Nandīśvara
+### [Nandīśvara](entries/nandisvara.md)
 
-**[[cc/madhya/18/57#translation|Madhya 18.57]]**
+**[[cc/madhya/18/57#translation|Madhya 18.57]]**...
 
-* curses of, [[sb/4/2/20-26#purport|SB 4.2.20-26]]
-* follower of Śiva, [[sb/4/2/20#purport|SB 4.2.20]]
-*  [[sb/4/2/20#purport|SB 4.2.20]], [[sb/4/5/17#purport|SB 4.5.17]]
+* as improper,, [[sb/4/2/20#purport|SB 4.2.20]]
+
+*→ See all 6 references in* [Nandīśvara](entries/nandisvara.md)
 
 ---
 
@@ -881,7 +875,7 @@
 
 ### [Nara-ṇārāyaṇa](entries/nara-narayana.md)
 
-* as Kṛṣṇa’s plenary expansion, [[sb/5/4/5#purport|SB 5.4.5]]
+* as Kṛṣṇa’s plenary expansion,, [[sb/5/4/5#purport|SB 5.4.5]]
 
 *→ See all 6 references in* [Nara-ṇārāyaṇa](entries/nara-narayana.md)
 
@@ -889,7 +883,9 @@
 
 ### [Nara-Nārāyaṇa Ṛṣi](entries/nara-narayana-rsi.md)
 
-* appearance (”birth”) of, [[sb/4/1/49-55#purport|SB 4.1.49-55]]
+[[sb/1/2/4#purport|SB 1.2.4]], [[sb/1/3/9#purport|SB 1.3.9]], [[sb/1/3/28#purport|SB 1.3.28]]...
+
+* appearance (”birth”) of,, [[sb/4/1/49-55#purport|SB 4.1.49-55]]
 
 *→ See all 7 references in* [Nara-Nārāyaṇa Ṛṣi](entries/nara-narayana-rsi.md)
 
@@ -936,7 +932,7 @@
 [[sb/6/8/16#purport|SB 6.8.16]]
 
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*See also:* Kṛṣṇa; Supreme Lord
 
 ---
 
@@ -949,11 +945,11 @@
 
 ### [Nārada Muni](entries/narada-muni.md)
 
-**[[cc/adi/8/19#translation|Ādi 8.19]]**, [[cc/antya/9/10#purport|Antya 9.10]], [[cc/madhya/1/44#purport|Madhya 1.44]]...
+[[bg/5|Bg. 5]], [[bg/7/24|Bg. 7.24]] (1)...
 
-* *prasādam *&, [[bg/9/2|Bg. 9.2]] (7)
+* *prasādam *&,, [[bg/9/2|Bg. 9.2]] (7)
 
-*→ See all 296 references in* [Nārada Muni](entries/narada-muni.md)
+*→ See all 343 references in* [Nārada Muni](entries/narada-muni.md)
 
 ---
 
@@ -964,15 +960,15 @@
 * on chanting Lord’s holy names, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * on devotees & nondevotees, [[sb/10/2/37#purport|SB 10.2.37]]
 
-*See also:* [[n#Nārada Muni quoted|Nārada Muni quoted]]
+*See also:* Nārada Muni quoted
 
 ---
 
 ### [Nārada Muni quoted](entries/narada-muni-quoted.md)
 
-* Nārada Muni cited 
+* & saint,, [[sb/7/13/46#purport|SB 7.13.46]]
 
-*→ See all 56 references in* [Nārada Muni quoted](entries/narada-muni-quoted.md)
+*→ See all 61 references in* [Nārada Muni quoted](entries/narada-muni-quoted.md)
 
 ---
 
@@ -985,11 +981,11 @@
 
 ### [Nārada-pañcarātra](entries/narada-pancaratra.md)
 
-[[cc/adi/3/40#purport|Ādi 3.40]], [[cc/adi/5/18#purport|Ādi 5.18]], [[cc/adi/5/41#purport|Ādi 5.41]]...
+[[bg/7/3|Bg. 7.3]]...
 
-* as Deity worship guide, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
+* as Deity worship guide,, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 
-*→ See all 26 references in* [Nārada-pañcarātra](entries/narada-pancaratra.md)
+*→ See all 28 references in* [Nārada-pañcarātra](entries/narada-pancaratra.md)
 
 ---
 
@@ -998,7 +994,7 @@
 * on Deity worship, [[sb/4/27/24#purport|SB 4.27.24]]
 * on devotional service, [[sb/4/23/11#purport|SB 4.23.11]]
 
-*See also:* [[n#Nārada-pañcarātra quoted|Nārada-pañcarātra quoted]]
+*See also:* Nārada-pañcarātra quoted
 
 ---
 
@@ -1030,7 +1026,7 @@
 * on purification, [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/71#purport|SB 4.29.71]]
 * on senses in Lord’s service, [[sb/4/24/44#purport|SB 4.24.44]]
 
-*See also:* [[n#Nārada-pañcarātra cited|Nārada-pañcarātra cited]]
+*See also:* Nārada-pañcarātra cited
 
 ---
 
@@ -1082,13 +1078,13 @@
 
 ---
 
-### Narādhama(s)
+### Narādhamas
 
 [[bg/7/15|Bg. 7.15]]
 
 * defined, [[bg/7/15|Bg. 7.15]] (7), [[sb/7/5/6#purport|SB 7.5.6]], [[sb/7/9/11#purport|SB 7.9.11]]
 
-*See also:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]; [[m#Materialists|Materialists]]; [[n#Nondevotees|Nondevotees]]
+*See also:* Atheists; Demons; Materialists; Nondevotees
 
 ---
 
@@ -1120,10 +1116,9 @@
 
 ---
 
-### Narahari (of Khaṇḍa)
+### [Narahari (of Khaṇḍa)](entries/narahari-of-khanda.md)
 
-**[[cc/madhya/10/90#translation|Madhya 10.90]]**, **[[cc/madhya/11/92#translation|Madhya 11.92]]**, **[[cc/madhya/13/46#translation|Madhya 13.46]]**, **[[cc/madhya/15/112#translation|Madhya 15.112]]**, **[[cc/madhya/15/132#translation|Madhya 15.132]]**, **[[cc/madhya/16/18#translation|Madhya 16.18]]**
-
+**[[cc/madhya/10/90#translation|Madhya 10.90]]**
 
 ---
 
@@ -1214,7 +1209,7 @@
 ### Narasiṁha
 
 
-*See:* Nṛsiṁha; [[l#Lord|Lord]]
+*See:* Nṛsiṁha; Lord
 
 ---
 
@@ -1290,7 +1285,7 @@
 ### Nārāyaṇa Ṛṣi
 
 
-*See:* [[n#Nara-Nārāyaṇa Ṛṣi|Nara-Nārāyaṇa Ṛṣi]]
+*See:* Nara-Nārāyaṇa Ṛṣi
 
 ---
 
@@ -1301,12 +1296,11 @@
 
 ---
 
-### Nārāyaṇa Upaniṣad quoted
+### [Nārāyaṇa Upaniṣad quoted](entries/narayana-upanisad-quoted.md)
 
-* on creation, [[bg/10/8|Bg. 10.8]]
-* on demigods, Nārāyaṇa as creator of, [[bg/10/8|Bg. 10.8]]
-* on Kṛṣṇa 
-* on living entities, Nārāyaṇa as creator of, [[bg/10/8|Bg. 10.8]]
+* on creation,, [[bg/10/8|Bg. 10.8]]
+
+*→ See all 6 references in* [Nārāyaṇa Upaniṣad quoted](entries/narayana-upanisad-quoted.md)
 
 ---
 
@@ -1326,7 +1320,7 @@
 
 ### [Nārāyaṇa-kavaca](entries/narayana-kavaca.md)
 
-* constitution of, [[sb/6/8/37#purport|SB 6.8.37]]
+* constitution of,, [[sb/6/8/37#purport|SB 6.8.37]]
 
 *→ See all 10 references in* [Nārāyaṇa-kavaca](entries/narayana-kavaca.md)
 
@@ -1407,11 +1401,11 @@
 
 ### [Nārāyaṇa, Lord](entries/narayana-lord.md)
 
-[[cc/adi/14/19#purport|Ādi 14.19]], **[[cc/adi/2/56#translation|Ādi 2.56]]**, **[[cc/adi/2/56–58#translation|Ādi 2.56–58]]**...
+[[bg/2/2|Bg. 2.2]] (3), [[bg/14/26|Bg. 14.26]], [[bg/18/65|Bg. 18.65]]...
 
-* ”parents” of, [[sb/7/11/6#purport|SB 7.11.6]]
+* ”parents” of,, [[sb/7/11/6#purport|SB 7.11.6]]
 
-*→ See all 198 references in* [Nārāyaṇa, Lord](entries/narayana-lord.md)
+*→ See all 204 references in* [Nārāyaṇa, Lord](entries/narayana-lord.md)
 
 ---
 
@@ -1456,10 +1450,9 @@
 
 ---
 
-### Narendra, Lake
+### [Narendra, Lake](entries/narendra-lake.md)
 
-**[[cc/antya/10/42–43#translation|Antya 10.42–43]]**, [[cc/madhya/11/68#purport|Madhya 11.68]], **[[cc/madhya/14/102#translation|Madhya 14.102]]**, **[[cc/madhya/14/242#translation|Madhya 14.242]]**, **[[cc/madhya/16/42#translation|Madhya 16.42]]**, **[[cc/madhya/25/226#translation|Madhya 25.226]]**
-
+[[cc/madhya/11/68#purport|Madhya 11.68]]
 
 ---
 
@@ -1498,11 +1491,9 @@
 
 ---
 
-### Narmadā River
+### [Narmadā River](entries/narmada-river.md)
 
-[[cc/antya/4/98#purport|Antya 4.98]], [[cc/madhya/9/244#purport|Madhya 9.244]], [[cc/madhya/9/310#purport|Madhya 9.310]], [[sb/5/19/17-18#purport|SB 5.19.17-18]], [[sb/6/10/16#purport|SB 6.10.16]], [[sb/8/18/21#purport|SB 8.18.21]]
-
-*  [[sb/9/15/20#purport|SB 9.15.20]], [[sb/9/15/21#purport|SB 9.15.21]]
+[[cc/madhya/9/244#purport|Madhya 9.244]]
 
 ---
 
@@ -1522,7 +1513,7 @@
 
 ### [Narottama dāsa Ṭhākura](entries/narottama-dasa-thakura.md)
 
-* as representative of mercy of Lord Caitanya, [[cc/antya/5/88#purport|Antya 5.88]]
+* as representative of mercy of Lord Caitanya,, [[cc/antya/5/88#purport|Antya 5.88]]
 
 *→ See all 13 references in* [Narottama dāsa Ṭhākura](entries/narottama-dasa-thakura.md)
 
@@ -1532,7 +1523,7 @@
 
 [[cc/madhya/6/235#purport|Madhya 6.235]]...
 
-* fallen souls &, [[cc/adi/16/108#purport|Ādi 16.108]], [[cc/madhya/11/46#purport|Madhya 11.46]]
+* fallen souls &,, [[cc/adi/16/108#purport|Ādi 16.108]], [[cc/madhya/11/46#purport|Madhya 11.46]]
 
 *→ See all 34 references in* [Narottama dāsa Ṭhākura cited](entries/narottama-dasa-thakura-cited.md)
 
@@ -1547,9 +1538,9 @@
 
 ### [Narottama dāsa Ṭhākura quoted](entries/narottama-dasa-thakura-quoted.md)
 
-[[cc/adi/14/50#purport|Ādi 14.50]], [[cc/antya/3/51#purport|Antya 3.51]], [[cc/madhya/22/153#purport|Madhya 22.153]]...
+[[cc/antya/3/51#purport|Antya 3.51]]...
 
-* Antya), [[cc/madhya/19/156#purport|Madhya 19.156]]
+* Antya),, [[cc/madhya/19/156#purport|Madhya 19.156]]
 
 *→ See all 65 references in* [Narottama dāsa Ṭhākura quoted](entries/narottama-dasa-thakura-quoted.md)
 
@@ -1668,14 +1659,14 @@
 
 ---
 
-### Nation(s)
+### Nations
 
 * come & go, [[sb/4/24/66#purport|SB 4.24.66]]
 * in beehive-humanity analogy, [[sb/4/24/64#purport|SB 4.24.64]]
 
-*See also:* [[g#Government|Government]]
+*See also:* [Government](entries/governments.md)
 
-*See:* [[c#Countries|Countries]]; specific countries
+*See:* Countries; specific countries
 
 ---
 
@@ -1690,13 +1681,15 @@
 
 * Kṛṣṇa directs, 7 
 
-*See:* [[m#Material nature|Material nature]]
+*See:* Material nature
 
 ---
 
 ### [Nature, material](entries/nature-material.md)
 
-* as time, [[sb/2/5/22#purport|SB 2.5.22]]
+[[sb/10/13/51#purport|SB 10.13.51]], [[sb/10/13/52#purport|SB 10.13.52]]...
+
+* as time,, [[sb/2/5/22#purport|SB 2.5.22]]
 
 *→ See all 16 references in* [Nature, material](entries/nature-material.md)
 
@@ -1711,9 +1704,9 @@
 
 ### [Navadvīpa](entries/navadvipa.md)
 
-**[[cc/madhya/16/207#translation|Madhya 16.207]]**, [[sb/9/22/32#purport|SB 9.22.32]]...
+**[[cc/madhya/16/207#translation|Madhya 16.207]]**...
 
-* Advaita’s residence at, [[cc/adi/13/111#purport|Ādi 13.111]]
+* Advaita’s residence at,, [[cc/adi/13/111#purport|Ādi 13.111]]
 
 *→ See all 27 references in* [Navadvīpa](entries/navadvipa.md)
 
@@ -1784,9 +1777,9 @@
 
 ### [Nawab Hussain Shah](entries/nawab-hussain-shah.md)
 
-[[cc/antya/4/217#purport|Antya 4.217]], **[[cc/madhya/18/30#translation|Madhya 18.30]]**, **[[cc/madhya/19/13–14#translation|Madhya 19.13–14]]**...
+**[[cc/madhya/19/13–14#translation|Madhya 19.13–14]]**...
 
-* as material success, [[sb/7/3/12#purport|SB 7.3.12]]
+* as material success,, [[sb/7/3/12#purport|SB 7.3.12]]
 
 *→ See all 11 references in* [Nawab Hussain Shah](entries/nawab-hussain-shah.md)
 
@@ -1832,7 +1825,7 @@
 
 [[sb/1/3/16#purport|SB 1.3.16]]...
 
-* as miracle potion, [[sb/8/9/21#purport|SB 8.9.21]], [[sb/8/9/25#purport|SB 8.9.25]]
+* as miracle potion,, [[sb/8/9/21#purport|SB 8.9.21]], [[sb/8/9/25#purport|SB 8.9.25]]
 
 *→ See all 18 references in* [Nectar](entries/nectar.md)
 
@@ -1844,9 +1837,9 @@
 
 * purification via reading, [[sb/5/18/11#purport|SB 5.18.11]]
 
-*See also:* [[b#Bhakti-rasāmṛta-sindhu quoted|Bhakti-rasāmṛta-sindhu quoted]]
+*See also:* Bhakti-rasāmṛta-sindhu quoted
 
-*See:* [[b#Bhakti-rasāmṛta-sindhu|Bhakti-rasāmṛta-sindhu]]
+*See:* Bhakti-rasāmṛta-sindhu
 
 ---
 
@@ -1878,14 +1871,12 @@
 
 ---
 
-### Nectar of Devotion, The
+### [Nectar of Devotion, The](entries/nectar-of-devotion-the.md)
 
-[[cc/adi/17/253#purport|Ādi 17.253]], [[cc/madhya/17/95#purport|Madhya 17.95]], [[cc/madhya/6/241#purport|Madhya 6.241]], [[sb/4/13/28#purport|SB 4.13.28]]
+[[cc/adi/17/253#purport|Ādi 17.253]]...
 
 
-*See also:* [[b#Bhakti-rasāmṛta-sindhu|Bhakti-rasāmṛta-sindhu]]
-
-*See:* [[b#Bhakti-rasāmṛta-sindhu|Bhakti-rasāmṛta-sindhu]]
+*→ See all 6 references in* [Nectar of Devotion, The](entries/nectar-of-devotion-the.md)
 
 ---
 
@@ -1946,7 +1937,7 @@
 
 ### [Neophyte devotee(s)](entries/neophyte-devotees.md)
 
-* as materialistic, [[sb/1/2/12#purport|SB 1.2.12]]
+* as materialistic,, [[sb/1/2/12#purport|SB 1.2.12]]
 
 *→ See all 6 references in* [Neophyte devotee(s)](entries/neophyte-devotees.md)
 
@@ -1954,7 +1945,7 @@
 
 ### [Nescience](entries/nescience.md)
 
-* darkness of, Lord removes, [[sb/4/30/5#purport|SB 4.30.5]]
+* darkness of, Lord removes,, [[sb/4/30/5#purport|SB 4.30.5]]
 
 *→ See all 6 references in* [Nescience](entries/nescience.md)
 
@@ -2072,7 +2063,7 @@
 
 * defined, [[sb/7/9/5#purport|SB 7.9.5]]
 
-*See also:* [[s#Sleep|Sleep]]
+*See also:* [Sleep](entries/sleep.md)
 
 ---
 
@@ -2094,7 +2085,7 @@
 * as body of ignorance, [[sb/3/20/19#purport|SB 3.20.19]]
 * demons born of, [[sb/3/20/22#purport|SB 3.20.22]]
 
-*See also:* [[t#Twilight|Twilight]]
+*See also:* Twilight
 
 ---
 
@@ -2252,10 +2243,7 @@
 
 ### [Nīlāmbara Cakravartī](entries/nilambara-cakravarti.md)
 
-[[cc/adi/12/81#purport|Ādi 12.81]], **[[cc/adi/13/121#translation|Ādi 13.121]]**, **[[cc/adi/13/60#translation|Ādi 13.60]]**...
-
-
-*→ See all 13 references in* [Nīlāmbara Cakravartī](entries/nilambara-cakravarti.md)
+[[cc/adi/12/81#purport|Ādi 12.81]]
 
 ---
 
@@ -2324,16 +2312,15 @@
 
 [[sb/9/6/4#purport|SB 9.6.4]]...
 
-* as Ikṣvāku’s son, [[sb/9/13/1#purport|SB 9.13.1]]
+* as Ikṣvāku’s son,, [[sb/9/13/1#purport|SB 9.13.1]]
 
 *→ See all 10 references in* [Nimi Mahārāja](entries/nimi-maharaja.md)
 
 ---
 
-### Nimi, King
+### [Nimi, King](entries/nimi-king.md)
 
-[[cc/adi/3/39#purport|Ādi 3.39]], [[cc/madhya/20/119#purport|Madhya 20.119]], [[cc/madhya/20/338#purport|Madhya 20.338]], [[cc/madhya/20/347#purport|Madhya 20.347]], [[cc/madhya/22/141#purport|Madhya 22.141]], [[cc/madhya/22/73#purport|Madhya 22.73]]
-
+[[cc/adi/3/39#purport|Ādi 3.39]]
 
 ---
 
@@ -2578,7 +2565,7 @@
 
 [[bg/6/20|Bg. 6.20]]...
 
-* defined, [[bg/2/72|Bg. 2.72]], [[sb/4/13/8-9#purport|SB 4.13.8-9]]
+* defined,, [[bg/2/72|Bg. 2.72]], [[sb/4/13/8-9#purport|SB 4.13.8-9]]
 
 *→ See all 12 references in* [Nirvāṇa](entries/nirvana.md)
 
@@ -2764,13 +2751,6 @@
 
 ---
 
-### Nitya-baddha
-
-[[cc/madhya/5/113#purport|Madhya 5.113]], [[sb/3/26/5#purport|SB 3.26.5]]
-
-
----
-
 ### Nitya-baddha defined
 
 [[sb/4/16/19#purport|SB 4.16.19]]
@@ -2791,6 +2771,8 @@
 ---
 
 ### Nitya-baddha(s)
+
+[[cc/madhya/5/113#purport|Madhya 5.113]], [[sb/3/26/5#purport|SB 3.26.5]]
 
 * beings, [[sb/1/3/1#purport|SB 1.3.1]]
 * defined, [[sb/1/10/22#purport|SB 1.10.22]]
@@ -2860,9 +2842,9 @@
 
 ### [Nitya-siddha(s)](entries/nitya-siddhas.md)
 
-[[cc/adi/8/5#purport|Ādi 8.5]], [[cc/madhya/11/89#purport|Madhya 11.89]], [[cc/madhya/11/96#purport|Madhya 11.96]]...
+[[cc/adi/8/5#purport|Ādi 8.5]]...
 
-* defined, [[sb/7/10/3#purport|SB 7.10.3]], [[sb/7/10/13#purport|SB 7.10.13]]
+* defined,, [[sb/7/10/3#purport|SB 7.10.3]], [[sb/7/10/13#purport|SB 7.10.13]]
 
 *→ See all 12 references in* [Nitya-siddha(s)](entries/nitya-siddhas.md)
 
@@ -2899,9 +2881,9 @@
 
 ### [Nityānanda, Lord](entries/nityananda-lord.md)
 
-[[cc/adi/1/102#purport|Ādi 1.102]], **[[cc/adi/1/102#translation|Ādi 1.102]]**, [[cc/adi/1/46#purport|Ādi 1.46]]...
+**[[cc/madhya/12/188–97#translation|Madhya 12.188–97]]**...
 
-* “Prabhupāda” title &, [[cc/madhya/10/23#purport|Madhya 10.23]]
+* “Prabhupāda” title &,, [[cc/madhya/10/23#purport|Madhya 10.23]]
 
 *→ See all 275 references in* [Nityānanda, Lord](entries/nityananda-lord.md)
 
@@ -3036,21 +3018,21 @@
 
 ---
 
-### [Nondevotee(s)](entries/nondevotees.md)
+### [Nondevotees](entries/nondevotees.md)
 
-**[[cc/adi/11/53#translation|Ādi 11.53]]**...
+[[bg/1/28|Bg. 1.28]], [[bg/2/7|Bg. 2.7]]...
 
-* afraid at death, [[sb/9/13/9#purport|SB 9.13.9]]
+* afraid at death,, [[sb/9/13/9#purport|SB 9.13.9]]
 
-*→ See all 89 references in* [Nondevotee(s)](entries/nondevotees.md)
+*→ See all 95 references in* [Nondevotees](entries/nondevotees.md)
 
 ---
 
 ### [Nonviolence](entries/nonviolence.md)
 
-[[bg/16/1|Bg. 16.1]], [[sb/2/7/37#purport|SB 2.7.37]], [[sb/6/10/9#purport|SB 6.10.9]]...
+[[bg/16/1|Bg. 16.1]]...
 
-* *kṣatriyas *&,  2.31, [[bg/2/32|Bg. 2.32]], [[bg/16/1|Bg. 16.1]] (16)
+* *kṣatriyas *&,, 2.31, [[bg/2/32|Bg. 2.32]], [[bg/16/1|Bg. 16.1]] (16)
 
 *→ See all 19 references in* [Nonviolence](entries/nonviolence.md)
 
@@ -3193,7 +3175,9 @@
 
 ### [Nṛsiṁha, Lord](entries/nrsimha-lord.md)
 
-* appeared from pillar, [[sb/3/24/6#purport|SB 3.24.6]]
+[[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/8/19#purport|SB 1.8.19]], [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/12/25#purport|SB 1.12.25]]...
+
+* appeared from pillar,, [[sb/3/24/6#purport|SB 3.24.6]]
 
 *→ See all 6 references in* [Nṛsiṁha, Lord](entries/nrsimha-lord.md)
 
@@ -3201,11 +3185,11 @@
 
 ### [Nṛsiṁhadeva, Lord](entries/nrsimhadeva-lord.md)
 
-**[[cc/adi/10/35#translation|Ādi 10.35]]**, **[[cc/adi/13/105#translation|Ādi 13.105]]**, **[[cc/adi/17/91–97#translation|Ādi 17.91–97]]**...
+[[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/8/14|Bg. 8.14]], [[bg/11/46|Bg. 11.46]], [[bg/15/7|Bg. 15.7]]...
 
-* advent of, cause of, [[sb/7/8/24#purport|SB 7.8.24]]
+* advent of, cause of,, [[sb/7/8/24#purport|SB 7.8.24]]
 
-*→ See all 94 references in* [Nṛsiṁhadeva, Lord](entries/nrsimhadeva-lord.md)
+*→ See all 101 references in* [Nṛsiṁhadeva, Lord](entries/nrsimhadeva-lord.md)
 
 ---
 
@@ -3215,10 +3199,9 @@
 
 ---
 
-### Nṛsiṁhānanda Brahmacārī
+### [Nṛsiṁhānanda Brahmacārī](entries/nrsimhananda-brahmacari.md)
 
-**[[cc/adi/10/35#translation|Ādi 10.35]]**, **[[cc/adi/10/58–59#translation|Ādi 10.58–59]]**, **[[cc/antya/2/36#translation|Antya 2.36]]**, **[[cc/antya/2/48–77#translation|Antya 2.48–77]]**, **[[cc/antya/2/5–6#translation|Antya 2.5–6]]**, **[[cc/madhya/1/155–61#translation|Madhya 1.155–61]]**, **[[cc/madhya/1/162#translation|Madhya 1.162]]**, **[[cc/madhya/11/87#translation|Madhya 11.87]]**, **[[cc/madhya/16/214–15#translation|Madhya 16.214–15]]**
-
+**[[cc/adi/10/35#translation|Ādi 10.35]]**
 
 ---
 
@@ -3226,9 +3209,9 @@
 
 ### [Nuclear weapons](entries/nuclear-weapons.md)
 
-[[bg/16/9|Bg. 16.9]], [[sb/1/8/12-13#purport|SB 1.8.12-13]]...
+[[bg/16/9|Bg. 16.9]]...
 
-* as demoniac, [[sb/1/15/8#purport|SB 1.15.8]]
+* as demoniac,, [[sb/1/15/8#purport|SB 1.15.8]]
 
 *→ See all 7 references in* [Nuclear weapons](entries/nuclear-weapons.md)
 

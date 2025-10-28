@@ -1,6 +1,6 @@
 # Ajāmila
 
-**[[cc/antya/3/187#translation|Antya 3.187]]**, **[[cc/antya/3/57#translation|Antya 3.57]]**, **[[cc/antya/3/64#translation|Antya 3.64]]**, [[bg/2/40|Bg. 2.40]], [[sb/1/5/17#purport|SB 1.5.17]], [[sb/2/7/26#purport|SB 2.7.26]], [[sb/4/6/45#purport|SB 4.6.45]], [[sb/5/14/43#purport|SB 5.14.43]], [[sb/7/15/13#purport|SB 7.15.13]], [[sb/9/9/6#purport|SB 9.9.6]]
+[[bg/2/40|Bg. 2.40]], **[[cc/antya/3/57#translation|Antya 3.57]]**, **[[cc/antya/3/64#translation|Antya 3.64]]**, **[[cc/antya/3/187#translation|Antya 3.187]]**, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/2/7/26#purport|SB 2.7.26]], [[sb/4/6/45#purport|SB 4.6.45]], [[sb/5/14/43#purport|SB 5.14.43]], [[sb/7/15/13#purport|SB 7.15.13]], [[sb/9/9/6#purport|SB 9.9.6]]
 
 * as determined in devotional service, [[sb/6/2/35-38#purport|SB 6.2.35-38]]
 * as pure devotee, [[sb/6/2/24-25#purport|SB 6.2.24-25]]

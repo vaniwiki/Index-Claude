@@ -28,4 +28,4 @@
 * trees in, [[sb/4/19/8#purport|SB 4.19.8]]
 * varṇa & āśrama neglected in, [[sb/4/6/44#purport|SB 4.6.44]]
 
-*See also:* [[s#Society|Society]]
+*See also:* [Society](entries/society.md)

@@ -1,5 +1,7 @@
 # Scientist(s), material
 
+[[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/21#purport|SB 4.28.21]], [[sb/4/29/8#purport|SB 4.29.8]], [[sb/4/29/29#purport|SB 4.29.29]]
+
 * Absolute Truth beyond, [[sb/4/11/23#purport|SB 4.11.23]]
 * airplanes made by, [[sb/4/12/30#purport|SB 4.12.30]]
 * as blind leading blind, [[sb/4/28/61#purport|SB 4.28.61]]
@@ -32,7 +34,6 @@
 * nature vs., [[sb/3/10/6#purport|SB 3.10.6]]
 * planets as understood by, [[sb/3/5/8#purport|SB 3.5.8]]
 * problems unsolved by, [[sb/4/27/27#purport|SB 4.27.27]]
-*  [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/21#purport|SB 4.28.21]], [[sb/4/29/8#purport|SB 4.29.8]], [[sb/4/29/29#purport|SB 4.29.29]]
 * soul-concept of, refuted, [[sb/4/24/64#purport|SB 4.24.64]]
 * space travel &, [[sb/3/15/15#purport|SB 3.15.15]], [[sb/3/15/26#purport|SB 3.15.26]]
 * space travel by, [[sb/4/12/25#purport|SB 4.12.25]], [[sb/4/12/26#purport|SB 4.12.26]]
@@ -42,4 +43,4 @@
 * universe misunderstood by, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/23/29#purport|SB 8.23.29]]
 * water misunderstood by, [[sb/8/5/33#purport|SB 8.5.33]]
 
-*See also:* [[a#Atheists|Atheists]]; Philosophers; speculative; Scholars
+*See also:* Atheists; Philosophers; speculative; Scholars

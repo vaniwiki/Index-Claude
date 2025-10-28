@@ -1,6 +1,6 @@
 # Narottama dāsa Ṭhākura quoted
 
-[[cc/adi/14/50#purport|Ādi 14.50]], [[cc/antya/3/51#purport|Antya 3.51]], [[cc/madhya/22/153#purport|Madhya 22.153]], [[cc/madhya/25/271#purport|Madhya 25.271]]
+[[cc/antya/3/51#purport|Antya 3.51]], [[cc/adi/14/50#purport|Ādi 14.50]], [[cc/madhya/22/153#purport|Madhya 22.153]], [[cc/madhya/25/271#purport|Madhya 25.271]]
 
 * Antya), [[cc/madhya/19/156#purport|Madhya 19.156]]
 * following, [[cc/adi/8/7#purport|Ādi 8.7]]
@@ -61,4 +61,4 @@
 * transcendental, [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/20/352#purport|Madhya 20.352]]
 * transcending, [[cc/antya/6/314#purport|Antya 6.314]]
 
-*See also:* [[n#Narottama dāsa Ṭhākura cited|Narottama dāsa Ṭhākura cited]]
+*See also:* Narottama dāsa Ṭhākura cited

@@ -1,6 +1,6 @@
 # Muslim(s)
 
-[[cc/adi/17/222#purport|Ādi 17.222]], **[[cc/madhya/18/27–31#translation|Madhya 18.27–31]]**, **[[cc/madhya/18/47#translation|Madhya 18.47]]**, [[cc/madhya/3/63#purport|Madhya 3.63]], [[cc/madhya/4/106#purport|Madhya 4.106]], [[cc/madhya/4/160#purport|Madhya 4.160]], [[cc/madhya/9/178#purport|Madhya 9.178]], [[cc/madhya/9/245#purport|Madhya 9.245]], [[sb/8/8/21#purport|SB 8.8.21]]
+[[cc/madhya/4/106#purport|Madhya 4.106]], [[cc/madhya/4/160#purport|Madhya 4.160]], [[cc/adi/17/222#purport|Ādi 17.222]], [[cc/madhya/3/63#purport|Madhya 3.63]], [[cc/madhya/9/245#purport|Madhya 9.245]], [[cc/madhya/9/178#purport|Madhya 9.178]], **[[cc/madhya/18/27–31#translation|Madhya 18.27–31]]**, **[[cc/madhya/18/47#translation|Madhya 18.47]]**, [[sb/8/8/21#purport|SB 8.8.21]]
 
 * animal rejuvenation &, **[[cc/adi/17/165#translation|Ādi 17.165]]**
 * Caitanya’s advent &, **[[cc/adi/13/95#translation|Ādi 13.95]]**

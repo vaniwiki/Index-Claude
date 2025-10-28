@@ -24,6 +24,6 @@
 * types of, five listed, [[sb/7/15/12#purport|SB 7.15.12]]
 * Yamadūtas accused of, [[sb/6/2/2#purport|SB 6.2.2]]
 
-*See also:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]; [[i#Impersonalism|Impersonalism]]; [[s#Sinful activities|Sinful activities]]; [[m#Materialism|Materialism]]
+*See also:* Atheists; [Materialism](entries/materialism.md); Demons; [Impersonalism](entries/impersonalism.md); Sinful activities
 
-*See:* [[a#Atheists|Atheists]]; [[i#Impious activities|Impious activities]]; [[s#Sinful activities|Sinful activities]]
+*See:* Atheists; Impious activities; Sinful activities

@@ -1,6 +1,6 @@
 # Madhvācārya cited
 
-* Madhvācārya quoted 
+* Madhvācārya quoted
 * on action, proper, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
 * on aṣṭāṅga-yoga, purpose of, [[sb/5/14/45#purport|SB 5.14.45]]
 * on Bhārata-varṣa’s residents, [[sb/5/6/13#purport|SB 5.6.13]]

@@ -10,4 +10,4 @@
 * protection by, [[sb/6/8/21#purport|SB 6.8.21]]
 * Supersoul as, [[sb/7/2/45#purport|SB 7.2.45]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]
+*See also:* Kṛṣṇa; Supreme Lord

@@ -1,19 +1,23 @@
 # Woman (Women)
 
-* addiction to, [[sb/4/8/65#purport|SB 4.8.65]]
+* abandoning of, [[sb/4/8/65#purport|SB 4.8.65]]
+* addiction to, [[sb/4/8/65#purport|SB 4.8.65]], [[sb/4/8/65#purport|SB 4.8.65]]
 * approaching supreme destination, [[sb/4/14/46#purport|SB 4.14.46]]
 * as basis of material life, [[sb/4/3/9#purport|SB 4.3.9]]
 * as government leader, [[sb/4/16/23#purport|SB 4.16.23]]
 * as strī, [[sb/4/3/9#purport|SB 4.3.9]]
-* as wife (wives) 
+* as wife (wives)
 * as yoṣit, [[sb/4/3/11#purport|SB 4.3.11]]
+* at sacrifices, [[sb/4/3/4#purport|SB 4.3.4]], [[sb/4/3/5-7#purport|SB 4.3.5-7]]
 * at sacrificial performances, [[sb/4/3/4#purport|SB 4.3.4]]
 * beautiful, danger of, [[sb/10/6/9#purport|SB 10.6.9]]
 * check spiritual life, [[sb/4/3/11#purport|SB 4.3.11]]
+* decorations of, [[sb/4/3/4#purport|SB 4.3.4]]
 * desire material enjoyment, [[sb/4/3/9#purport|SB 4.3.9]], [[sb/4/3/11#purport|SB 4.3.11]]
 * desire to dress nicely, [[sb/4/3/5-7#purport|SB 4.3.5-7]], [[sb/4/3/9#purport|SB 4.3.9]], [[sb/4/3/10#purport|SB 4.3.10]]
 * Earth as, [[sb/4/17/26#purport|SB 4.17.26]]
 * father worshipable for, [[sb/4/3/24#purport|SB 4.3.24]]
+* husband pleases, [[sb/4/1/6#purport|SB 4.1.6]]
 * husband worshipable for, [[sb/4/3/24#purport|SB 4.3.24]]
 * if favored by husband, [[sb/4/8/10#purport|SB 4.8.10]]
 * impunity for, [[sb/4/17/20#purport|SB 4.17.20]]
@@ -29,6 +33,7 @@
 * on level of śūdras, [[sb/4/4/17#purport|SB 4.4.17]]
 * protection for, [[sb/4/18/3#purport|SB 4.18.3]]
 * Pūtanā disguised as, [[sb/10/6/4-7#purport|SB 10.6.4-7]], [[sb/10/6/9-9#purport|SB 10.6.9-9]], [[sb/10/6/37-38#purport|SB 10.6.37-38]]
+* should obey husband, [[sb/4/4/3#purport|SB 4.4.3]]
 * softhearted, [[sb/4/4/7#purport|SB 4.4.7]]
 * Vedas inaccessible to, [[sb/4/1/3#purport|SB 4.1.3]]
 * village, compared with modern, [[sb/10/5/10#purport|SB 10.5.10]]
@@ -38,4 +43,4 @@
 * with Kuvera’s sons, [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/4#purport|SB 10.10.4]], [[sb/10/10/6#purport|SB 10.10.6]]
 * with paramour compared to brāhmaṇas worshiping demigods, [[sb/4/14/23-23#purport|SB 4.14.23-23]], [[sb/4/14/25#purport|SB 4.14.25]]
 
-*See also:* [[g#Gopīs|Gopīs]]; [[m#Mother|Mother]]; [[w#Wife|Wife]]
+*See also:* [Marriage](entries/marriage.md); Gopīs; [Mother](entries/mothers.md); [Wife](entries/wife.md)

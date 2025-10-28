@@ -7,4 +7,4 @@
 * dhyāna-yoga as, [[sb/3/33/26#purport|SB 3.33.26]]
 * miseries relieved by, [[sb/3/25/23#purport|SB 3.25.23]]
 
-*See also:* [[m#Meditation|Meditation]]
+*See also:* [Meditation](entries/meditation.md)

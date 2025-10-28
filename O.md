@@ -20,13 +20,13 @@
 
 ---
 
-### [Obeisance(s)](entries/obeisances.md)
+### [Obeisances](entries/obeisances.md)
 
-[[sb/1/19/11#purport|SB 1.19.11]], [[sb/10/13/62#purport|SB 10.13.62]]...
+[[sb/1/19/11#purport|SB 1.19.11]]...
 
-* as invocation, IV1 
+* as invocation, IV1
 
-*→ See all 30 references in* [Obeisance(s)](entries/obeisances.md)
+*→ See all 34 references in* [Obeisances](entries/obeisances.md)
 
 ---
 
@@ -61,22 +61,15 @@
 ### Objects of senses
 
 
-*See:* [[s#Sense objects|Sense objects]]
+*See:* Sense objects
 
 ---
 
 ### [Oblation(s)](entries/oblations.md)
 
-* accepted by fire-gods, [[sb/4/1/60-60#purport|SB 4.1.60-60]]
+* accepted by fire-gods,, [[sb/4/1/60-60#purport|SB 4.1.60-60]]
 
 *→ See all 8 references in* [Oblation(s)](entries/oblations.md)
-
----
-
-### Obligation
-
-
-*See:* [[d#Duty|Duty]]
 
 ---
 
@@ -84,6 +77,8 @@
 
 * devotional service absolves, [[sb/4/24/38#purport|SB 4.24.38]]
 * in human life, [[sb/4/25/40#purport|SB 4.25.40]]
+
+*See:* [Duty](entries/duties.md)
 
 ---
 
@@ -103,34 +98,21 @@
 
 ---
 
-### Occupation
-
-
-*See:* [[d#Duty|Duty]]
-
----
-
 ### [Occupation(s)](entries/occupations.md)
 
-* all may keep, 25 
+...
 
-*→ See all 31 references in* [Occupation(s)](entries/occupations.md)
+* all may keep, 25
+
+*→ See all 32 references in* [Occupation(s)](entries/occupations.md)
 
 ---
 
 ### [Occupational duty](entries/occupational-duty.md)
 
-* for liberation, [[sb/8/16/5#purport|SB 8.16.5]]
+* for liberation,, [[sb/8/16/5#purport|SB 8.16.5]]
 
 *→ See all 7 references in* [Occupational duty](entries/occupational-duty.md)
-
----
-
-### [Ocean](entries/ocean.md)
-
-* ”Dr. Frog” couldn’t calculate, [[sb/4/11/23#purport|SB 4.11.23]]
-
-*→ See all 24 references in* [Ocean](entries/ocean.md)
 
 ---
 
@@ -144,7 +126,7 @@
 ### Ocean of milk
 
 
-*See:* [[m#Milk|Milk]]; ocean of
+*See:* [Milk](entries/milk.md); ocean of
 
 ---
 
@@ -164,9 +146,9 @@
 
 ### [Ocean(s)](entries/oceans.md)
 
-* at demons’ birth, [[sb/3/17/7#purport|SB 3.17.7]]
+* ”Dr. Frog” couldn’t calculate,, [[sb/4/11/23#purport|SB 4.11.23]]
 
-*→ See all 27 references in* [Ocean(s)](entries/oceans.md)
+*→ See all 56 references in* [Ocean(s)](entries/oceans.md)
 
 ---
 
@@ -211,9 +193,9 @@
 
 ### [Offense(s)](entries/offenses.md)
 
-* ”mad elephant” offense, [[sb/4/26/24#purport|SB 4.26.24]]
+* ”mad elephant” offense,, [[sb/4/26/24#purport|SB 4.26.24]]
 
-*→ See all 107 references in* [Offense(s)](entries/offenses.md)
+*→ See all 119 references in* [Offense(s)](entries/offenses.md)
 
 ---
 
@@ -233,7 +215,7 @@
 
 ### [Offering(s)](entries/offerings.md)
 
-* by devotee of Lord, [[sb/9/9/12#purport|SB 9.9.12]]
+* by devotee of Lord,, [[sb/9/9/12#purport|SB 9.9.12]]
 
 *→ See all 8 references in* [Offering(s)](entries/offerings.md)
 
@@ -244,7 +226,7 @@
 [[sb/10/11/11#purport|SB 10.11.11]]
 
 
-*See also:* [[p#Prasāda|Prasāda]]
+*See also:* Prasāda
 
 ---
 
@@ -318,9 +300,9 @@
 
 ### [Old age](entries/old-age.md)
 
-[[sb/3/2/3#purport|SB 3.2.3]]...
+[[bg/13/8|Bg. 13.8]] (9)...
 
-* anxiety in, [[sb/7/6/7#purport|SB 7.6.7]]
+* anxiety in,, [[sb/7/6/7#purport|SB 7.6.7]]
 
 *→ See all 34 references in* [Old age](entries/old-age.md)
 
@@ -429,7 +411,7 @@
 
 ### [Oṁ namo bhagavate vāsudevāya, chanting of](entries/om-namo-bhagavate-vasudevaya-chanting-of.md)
 
-* as confidential, [[sb/4/8/53#purport|SB 4.8.53]]
+* as confidential,, [[sb/4/8/53#purport|SB 4.8.53]]
 
 *→ See all 6 references in* [Oṁ namo bhagavate vāsudevāya, chanting of](entries/om-namo-bhagavate-vasudevaya-chanting-of.md)
 
@@ -446,7 +428,7 @@
 
 [[bg/17/23–27|Bg. 17.23–27]]...
 
-* *brāhmaṇas *&,  17.23
+* *brāhmaṇas *&,, 17.23
 
 *→ See all 9 references in* [Oṁ tat sat](entries/om-tat-sat.md)
 
@@ -466,13 +448,13 @@
 
 ---
 
-### [Oṁ(kāra)](entries/om-kara.md)
+### [Oṁ(kāra)](entries/omkara.md)
 
 [[bg/8/11|Bg. 8.11]]...
 
-* as Brahman, [[bg/8/11|Bg. 8.11]], [[bg/8/13|Bg. 8.13]]
+* as Brahman,, [[bg/8/11|Bg. 8.11]], [[bg/8/13|Bg. 8.13]]
 
-*→ See all 14 references in* [Oṁ(kāra)](entries/om-kara.md)
+*→ See all 14 references in* [Oṁ(kāra)](entries/omkara.md)
 
 ---
 
@@ -498,17 +480,17 @@
 
 ### [Omen(s), bad](entries/omens-bad.md)
 
-* anger as, [[sb/1/14/5#purport|SB 1.14.5]]
+* anger as,, [[sb/1/14/5#purport|SB 1.14.5]]
 
 *→ See all 16 references in* [Omen(s), bad](entries/omens-bad.md)
 
 ---
 
-### Oṁkāra
+### [Oṁkāra](entries/omkara.md)
 
-[[cc/adi/7/128–30#purport|Ādi 7.128–30]], **[[cc/madhya/25/94#translation|Madhya 25.94]]**, **[[cc/madhya/25/97#translation|Madhya 25.97]]**, **[[cc/madhya/6/174–75#translation|Madhya 6.174–75]]**, [[sb/6/5/26#purport|SB 6.5.26]]
+[[cc/adi/7/128–30#purport|Ādi 7.128–30]]...
 
-* in Nārāyaṇa-kavaca mantra, [[sb/6/8/4-10#purport|SB 6.8.4-10]]
+* in Nārāyaṇa-kavaca mantra,, [[sb/6/8/4-10#purport|SB 6.8.4-10]]
 
 ---
 
@@ -546,7 +528,9 @@
 
 ### [Oneness](entries/oneness.md)
 
-* affection for Lord like, [[sb/2/7/47#purport|SB 2.7.47]]
+...
+
+* affection for Lord like,, [[sb/2/7/47#purport|SB 2.7.47]]
 
 *→ See all 36 references in* [Oneness](entries/oneness.md)
 
@@ -575,17 +559,11 @@
 
 ### Oneness & difference of Lord & living entities
 
-*  [[sb/6/16/9#purport|SB 6.16.9]], [[sb/6/16/10#purport|SB 6.16.10]], [[sb/6/16/11#purport|SB 6.16.11]], [[sb/6/16/35#purport|SB 6.16.35]], [[sb/6/16/57-57#purport|SB 6.16.57-57]], [[sb/6/16/63#purport|SB 6.16.63]], [[sb/7/12/15-15#purport|SB 7.12.15-15]], [[sb/7/12/31#purport|SB 7.12.31]], [[sb/7/15/6#purport|SB 7.15.6]]
-
----
-
-### Oneness & difference of Lord & living entity
-
 [[sb/4/22/38#purport|SB 4.22.38]]
 
-*  [[sb/3/1/2#purport|SB 3.1.2]], [[sb/3/5/4#purport|SB 3.5.4]]
+*  [[sb/3/1/2#purport|SB 3.1.2]], [[sb/3/5/4#purport|SB 3.5.4]], [[sb/6/16/9#purport|SB 6.16.9]], [[sb/6/16/10#purport|SB 6.16.10]], [[sb/6/16/11#purport|SB 6.16.11]], [[sb/6/16/35#purport|SB 6.16.35]], [[sb/6/16/57-57#purport|SB 6.16.57-57]], [[sb/6/16/63#purport|SB 6.16.63]], [[sb/7/12/15-15#purport|SB 7.12.15-15]], [[sb/7/12/31#purport|SB 7.12.31]], [[sb/7/15/6#purport|SB 7.15.6]]
 
-*See also:* [[l#Living entities|Living entities]]; Lord compared with
+*See also:* Living entities; Lord compared with
 
 ---
 
@@ -597,7 +575,7 @@
 
 ### [Oneness with Supreme](entries/oneness-with-supreme.md)
 
-* as illusory snare, [[sb/3/5/31#purport|SB 3.5.31]]
+* as illusory snare,, [[sb/3/5/31#purport|SB 3.5.31]]
 
 *→ See all 10 references in* [Oneness with Supreme](entries/oneness-with-supreme.md)
 
@@ -625,14 +603,6 @@
 
 ---
 
-### [Opulence](entries/opulence.md)
-
-* of Kṛṣṇa & others compared, [[sb/3/2/12#purport|SB 3.2.12]]
-
-*→ See all 8 references in* [Opulence](entries/opulence.md)
-
----
-
 ### Opulence of devotees
 
 *  [[sb/6/16/29#purport|SB 6.16.29]], [[sb/6/19/4#purport|SB 6.19.4]]
@@ -648,7 +618,7 @@
 
 ### [Opulence, material](entries/opulence-material.md)
 
-* as degrading influence, [[sb/6/7/12#purport|SB 6.7.12]], [[sb/6/7/13#purport|SB 6.7.13]]
+* as degrading influence,, [[sb/6/7/12#purport|SB 6.7.12]], [[sb/6/7/13#purport|SB 6.7.13]]
 
 *→ See all 6 references in* [Opulence, material](entries/opulence-material.md)
 
@@ -670,17 +640,17 @@
 
 ### [Opulence(s)](entries/opulences.md)
 
-* Ambarīṣa indifferent to, [[sb/9/4/15-16#purport|SB 9.4.15-16]]
+* Ambarīṣa indifferent to,, [[sb/9/4/15-16#purport|SB 9.4.15-16]]
 
-*→ See all 95 references in* [Opulence(s)](entries/opulences.md)
+*→ See all 118 references in* [Opulence(s)](entries/opulences.md)
 
 ---
 
 ### [Opulence(s) of Kṛṣṇa](entries/opulences-of-krsna.md)
 
-**[[cc/madhya/21/120#translation|Madhya 21.120]]**, **[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**, **[[cc/madhya/21/98#translation|Madhya 21.98]]**...
+**[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**...
 
-* as unlimited, **[[cc/madhya/21/26#translation|Madhya 21.26]]**, **[[cc/madhya/21/30#translation|Madhya 21.30]]**
+* as unlimited,, **[[cc/madhya/21/26#translation|Madhya 21.26]]**, **[[cc/madhya/21/30#translation|Madhya 21.30]]**
 
 *→ See all 12 references in* [Opulence(s) of Kṛṣṇa](entries/opulences-of-krsna.md)
 
@@ -688,7 +658,7 @@
 
 ### [Opulence(s), material](entries/opulences-material.md)
 
-* Ambarīṣa used, [[sb/7/10/1#purport|SB 7.10.1]]
+* Ambarīṣa used,, [[sb/7/10/1#purport|SB 7.10.1]]
 
 *→ See all 21 references in* [Opulence(s), material](entries/opulences-material.md)
 
@@ -699,7 +669,7 @@
 ### Orders of life
 
 
-*See:* [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See:* Varṇāśrama-dharma
 
 ---
 
@@ -728,13 +698,13 @@
 ### Origin of life
 
 
-*See:* [[l#Life|Life]]; origin of; [[l#Living entities|Living entities]]
+*See:* [Life](entries/life.md); origin of; Living entities
 
 ---
 
 ### [Orissa](entries/orissa.md)
 
-[[cc/adi/3/52#purport|Ādi 3.52]], [[cc/antya/9/122#purport|Antya 9.122]], [[cc/madhya/10/43#purport|Madhya 10.43]]...
+[[cc/adi/3/52#purport|Ādi 3.52]]...
 
 
 *→ See all 12 references in* [Orissa](entries/orissa.md)

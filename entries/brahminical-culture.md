@@ -13,4 +13,4 @@
 * teaches satisfaction, [[sb/8/19/21#purport|SB 8.19.21]]
 * value of, [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/16/18#purport|SB 1.16.18]], [[sb/1/19/3#purport|SB 1.19.3]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* Brāhmaṇas; Varṇāśrama-dharma

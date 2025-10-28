@@ -1,6 +1,6 @@
 # Vipra(s)
 
-[[sb/1/2/2#purport|SB 1.2.2]]
+[[sb/9/22/46-48#purport|SB 9.22.46-48]], [[sb/1/2/2#purport|SB 1.2.2]]
 
 * as astrologers, [[sb/1/12/29#purport|SB 1.12.29]]
 * brāhmaṇas compared with, [[sb/1/12/29#purport|SB 1.12.29]]
@@ -8,4 +8,4 @@
 * government supported, [[sb/1/12/32#purport|SB 1.12.32]]
 * need for, [[sb/1/12/29#purport|SB 1.12.29]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]
+*See also:* Brāhmaṇas

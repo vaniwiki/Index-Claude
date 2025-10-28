@@ -1,10 +1,10 @@
 # Śrīdhara Svāmī cited
 
-* aaŚrīdhara Svāmī quoted 
+* aaŚrīdhara Svāmī quoted
 * on Arjuna’s arresting Aśvatthāmā, [[sb/1/7/33#purport|SB 1.7.33]]
 * on auspiciousness, [[sb/4/21/42#purport|SB 4.21.42]]
 * on authenticity of Bhāgavatam, [[sb/1/1/1#purport|SB 1.1.1]]
-* on Bhagavān Kṛṣṇa, N102 
+* on Bhagavān Kṛṣṇa, N102
 * on Brahmā giving up his body, [[sb/3/20/28#purport|SB 3.20.28]]
 * on Brahmā, [[sb/1/12/23#purport|SB 1.12.23]]
 * on brāhmaṇas, [[sb/3/33/6#purport|SB 3.33.6]]

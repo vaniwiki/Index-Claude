@@ -35,4 +35,4 @@
 * perception of, [[cc/adi/5/20#purport|Ādi 5.20]]
 * service to, [[cc/madhya/10/67#purport|Madhya 10.67]]
 
-*See also:* [[n#Narottama dāsa Ṭhākura quoted|Narottama dāsa Ṭhākura quoted]]
+*See also:* Narottama dāsa Ṭhākura quoted

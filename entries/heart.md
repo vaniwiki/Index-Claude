@@ -15,7 +15,6 @@
 * Kṛṣṇa manifests within, [[sb/2/8/4#purport|SB 2.8.4]]
 * Lord cleanses, [[sb/2/8/5#purport|SB 2.8.5]]
 * Lord in, [[sb/3/20/17#purport|SB 3.20.17]], [[sb/3/20/28#purport|SB 3.20.28]], [[sb/3/21/23#purport|SB 3.21.23]], [[sb/3/24/5-5#purport|SB 3.24.5-5]], [[sb/3/24/45#purport|SB 3.24.45]], [[sb/3/24/46#purport|SB 3.24.46]], [[sb/4/24/33#purport|SB 4.24.33]], [[sb/4/24/41#purport|SB 4.24.41]], [[sb/4/24/64-64#purport|SB 4.24.64-64]], [[sb/4/24/70-70#purport|SB 4.24.70-70]], [[sb/9/23/20-21#purport|SB 9.23.20-21]], [[sb/9/23/20-21#purport|SB 9.23.20-21]]
-* *See:* [[s#Supersoul|Supersoul]] 
 * lust as disease of, [[sb/9/19/13#purport|SB 9.19.13]]
 * meditation on Lord in, [[sb/4/8/44-52#purport|SB 4.8.44-52]]
 * purification of, [[sb/4/22/20-20#purport|SB 4.22.20-20]], [[sb/4/22/26#purport|SB 4.22.26]], [[sb/4/24/59#purport|SB 4.24.59]]
@@ -31,4 +30,6 @@
 * Supersoul in, [[sb/6/1/42#purport|SB 6.1.42]], [[sb/6/3/16#purport|SB 6.3.16]]
 * Supersoul within, [[sb/2/8/10#purport|SB 2.8.10]], [[sb/2/9/25#purport|SB 2.9.25]], [[sb/2/9/25#purport|SB 2.9.25]]
 
-*See also:* Body (material); heart of; [[m#Mind|Mind]]
+*See also:* [Mind](entries/mind.md); Body (material); heart of
+
+*See:* [Supersoul](entries/supersoul.md)

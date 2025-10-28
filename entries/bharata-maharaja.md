@@ -1,15 +1,15 @@
 # Bharata Mahārāja
 
-**[[cc/antya/6/137#translation|Antya 6.137]]**, **[[cc/madhya/23/25#translation|Madhya 23.25]]**, **[[cc/madhya/23/27#translation|Madhya 23.27]]**, **[[cc/madhya/9/269#translation|Madhya 9.269]]**, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/4/7/9#purport|SB 4.7.9]]
+[[bg/1/24|Bg. 1.24]], [[bg/2/30|Bg. 2.30]], [[bg/6/43|Bg. 6.43]], [[bg/8/6|Bg. 8.6]], **[[cc/madhya/9/269#translation|Madhya 9.269]]**, **[[cc/madhya/23/25#translation|Madhya 23.25]]**, **[[cc/madhya/23/27#translation|Madhya 23.27]]**, **[[cc/antya/6/137#translation|Antya 6.137]]**, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/4/7/9#purport|SB 4.7.9]], [[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/20/27-35#purport|SB 9.20.27-35]], [[sb/9/20/39#purport|SB 9.20.39]], [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/2/37#purport|SB 10.2.37]]
 
 * affection for deer by, [[sb/5/8/8-25#purport|SB 5.8.8-25]]
 * as advanced devotee, [[sb/5/4/9#purport|SB 5.4.9]], [[sb/5/5/28#purport|SB 5.5.28]]
-* as Jaḍa Bharata. See: Jaḍa Bharata 
+* as Jaḍa Bharata. See: Jaḍa Bharata
 * as mahā-bhāgavata, [[sb/5/7/1#purport|SB 5.7.1]]
 * as perfect king, [[sb/5/7/4#purport|SB 5.7.4]]
 * as Ṛṣabhadeva’s eldest son, [[sb/5/4/9#purport|SB 5.4.9]], [[sb/5/5/28#purport|SB 5.5.28]]
-*  [[bg/1/24|Bg. 1.24]], [[bg/2/30|Bg. 2.30]], [[bg/6/43|Bg. 6.43]], [[bg/8/6|Bg. 8.6]], [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/2/37#purport|SB 10.2.37]], [[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/20/27-35#purport|SB 9.20.27-35]], [[sb/9/20/39#purport|SB 9.20.39]]
 * birth into brāhmaṇa family by, [[sb/5/9/1-2#purport|SB 5.9.1-2]]
+* cause of, [[sb/5/8/7#purport|SB 5.8.7]], [[sb/5/8/9#purport|SB 5.8.9]], [[sb/5/8/26#purport|SB 5.8.26]]
 * citizens ruled perfectly by, [[sb/5/7/4#purport|SB 5.7.4]]
 * compared to faithless friend, [[sb/5/8/16#purport|SB 5.8.16]]
 * compared to miser, [[sb/5/8/15#purport|SB 5.8.15]]
@@ -42,7 +42,7 @@
 * prayer by, at death in deer body, [[sb/5/14/45#purport|SB 5.14.45]]
 * Pulahāśrama returned to by, in deer body, [[sb/5/8/30#purport|SB 5.8.30]]
 * purity of, [[sb/5/7/6#purport|SB 5.7.6]], [[sb/5/7/7#purport|SB 5.7.7]], [[sb/5/7/11#purport|SB 5.7.11]]
-* quoted. See: Bharata Mahārāja quoted 
+* quoted. See: Bharata Mahārāja quoted
 * renunciation by, [[sb/5/7/8#purport|SB 5.7.8]], [[sb/5/8/13#purport|SB 5.8.13]], [[sb/5/14/43-44#purport|SB 5.14.43-44]]
 * Ṛṣabhadeva enthrones, [[sb/5/5/28#purport|SB 5.5.28]]
 * Ṛṣabhadeva instructs sons to follow, [[sb/5/5/20#purport|SB 5.5.20]]

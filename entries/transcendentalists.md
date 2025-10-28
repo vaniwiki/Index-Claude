@@ -1,6 +1,6 @@
 # Transcendentalist(s)
 
-* yoga attractive for, [[bg/6/44–45|Bg. 6.44–45]]
+* advanced, [[sb/7/13/18#purport|SB 7.13.18]]
 * as free from modes’ control, [[bg/14/22|Bg. 14.22]]
 * as paramhaṁsas, [[sb/3/7/17#purport|SB 3.7.17]]
 * as seers, [[bg/1/1|Bg. 1.1]], [[bg/2/16|Bg. 2.16]]
@@ -8,29 +8,39 @@
 * association with, [[bg/17/4|Bg. 17.4]]
 * attracted by Lord’s pastimes, [[sb/2/1/7#purport|SB 2.1.7]], [[sb/2/1/8-9#purport|SB 2.1.8-9]]
 * awake to God consciousness, [[sb/2/2/18#purport|SB 2.2.18]]
-* beyond 
+* beyond
 * beyond disturbance, [[sb/3/1/2#purport|SB 3.1.2]], [[sb/3/5/42#purport|SB 3.5.42]]
 * beyond fruitive activity, [[sb/2/2/7#purport|SB 2.2.7]]
 * beyond regulative principles, [[sb/2/1/7#purport|SB 2.1.7]]
 * birth in family of, [[bg/6/42|Bg. 6.42]]
 * bodily conception renounced by, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
-* body of 
+* body of
 * bogus, [[bg/3/6–8|Bg. 3.6–8]], [[bg/15/11|Bg. 15.11]]
 * categories of, two, [[sb/5/17/3#purport|SB 5.17.3]]
 * chanting for, [[sb/2/1/11#purport|SB 2.1.11]]
-* classes of, 3–4, [[bg/3/13|Bg. 3.13]], [[bg/12/1|Bg. 12.1]]
 * classes of, [[sb/1/13/27#purport|SB 1.13.27]], [[sb/1/18/50#purport|SB 1.18.50]]
-* compared 
+* classes of, 3–4, [[bg/3/13|Bg. 3.13]], [[bg/12/1|Bg. 12.1]]
+* compared
+  * to cloud, [[bg/6/38|Bg. 6.38]]
+  * to lamp in windless place, [[bg/6/19|Bg. 6.19]]
+  * to ocean, [[bg/2/70|Bg. 2.70]]
+  * with materialists, [[bg/6/38|Bg. 6.38]]
 * compared to demigods in air, [[sb/4/4/19#purport|SB 4.4.19]]
 * compared to hunter, [[sb/5/6/2#purport|SB 5.6.2]]
+* compared to patients, [[sb/2/1/7#purport|SB 2.1.7]]
 * destruction not met by, [[sb/4/24/56#purport|SB 4.24.56]]
 * determination of, [[sb/2/2/3-4#purport|SB 2.2.3-4]]
-* devotees 
+* devotees
+  * as best of, [[bg/18/1|Bg. 18.1]]
+  * as, [[bg/9/29|Bg. 9.29]]
 * devotees as, [[sb/4/4/20#purport|SB 4.4.20]]
 * equanimity of, [[bg/12/3|Bg. 12.3]], [[bg/14/22|Bg. 14.22]]
-* *See:* [[f#Falldown|Falldown]] 
-* fallen 
-* first requirement for, 11 
+* fallen
+  * *See also:* Falldown
+  * compared to riven cloud, [[bg/6/38|Bg. 6.38]]
+  * happiness lost by, [[bg/6/38|Bg. 6.38]]
+* first part of Śrīmad-Bhāgavatam for, [[sb/2/2/12#purport|SB 2.2.12]]
+* first requirement for, 11
 * fruitive activity condemned by, [[sb/5/14/23#purport|SB 5.14.23]]
 * geologist compared to, [[sb/7/7/21#purport|SB 7.7.21]], [[sb/7/7/23#purport|SB 7.7.23]]
 * gṛhasthas as, [[sb/2/1/2#purport|SB 2.1.2]]
@@ -39,6 +49,7 @@
 * impersonal, compared with personal, [[sb/1/18/16#purport|SB 1.18.16]], [[sb/7/10/49#purport|SB 7.10.49]]
 * in sannyāsa, [[sb/2/4/13#purport|SB 2.4.13]]
 * kinds of, [[bg/18/66|Bg. 18.66]]
+  * three compared, 23
 * leader of, [[sb/3/12/22#purport|SB 3.12.22]]
 * Lord approachable by, [[sb/8/3/20-21#purport|SB 8.3.20-21]]
 * Lord sought by, [[sb/8/3/15#purport|SB 8.3.15]]
@@ -50,10 +61,12 @@
 * modes of nature cannot touch, [[sb/1/18/50#purport|SB 1.18.50]]
 * mystic powers divert, [[sb/2/1/23#purport|SB 2.1.23]]
 * nature’s laws surpassed by, [[sb/3/18/15#purport|SB 3.18.15]]
-* neophyte 
+* neophyte
 * neophyte, universal form for, [[sb/1/3/30-31#purport|SB 1.3.30-31]], [[sb/1/3/31#purport|SB 1.3.31]]
 * night & awakening time for, [[bg/2/69|Bg. 2.69]]
+* oṁkāra for, [[sb/2/1/17#purport|SB 2.1.17]]
 * opulence disinterests, [[sb/1/19/13#purport|SB 1.19.13]]
+* pantheism for, [[sb/2/1/20#purport|SB 2.1.20]]
 * pleasure of, [[sb/2/1/7#purport|SB 2.1.7]]
 * pseudo, as durātmās, [[sb/2/2/19#purport|SB 2.2.19]]
 * pure devotees best among, [[sb/3/5/4#purport|SB 3.5.4]]
@@ -62,6 +75,7 @@
 * qualifications for, [[sb/2/2/18#purport|SB 2.2.18]]
 * qualities of, [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (1–17) 18.51–54
 * rarity of, [[bg/10/3|Bg. 10.3]], [[sb/1/5/16#purport|SB 1.5.16]]
+* renounced, [[sb/7/12/23-25#purport|SB 7.12.23-25]]
 * renounces senses, [[sb/7/12/26-28#purport|SB 7.12.26-28]]
 * renunciation by, [[sb/2/2/3-5#purport|SB 2.2.3-5]]
 * requirements for, [[bg/6/10–18|Bg. 6.10–18]]
@@ -69,6 +83,7 @@
 * satisfaction for, [[sb/3/15/50#purport|SB 3.15.50]]
 * self-sufficiency for, [[sb/2/2/12#purport|SB 2.2.12]]
 * service to, [[sb/3/7/18#purport|SB 3.7.18]]
+* social orders, [[sb/4/4/20#purport|SB 4.4.20]]
 * soul & Supersoul as perceived by, [[bg/13/28–32|Bg. 13.28–32]]
 * soul understood by, [[sb/7/7/22#purport|SB 7.7.22]]
 * spiritual intelligence of, [[sb/4/20/2#purport|SB 4.20.2]], [[sb/4/20/3#purport|SB 4.20.3]]
@@ -81,15 +96,22 @@
 * Supreme Brahman realized by, [[sb/8/3/29#purport|SB 8.3.29]]
 * symptoms & behavior of, [[bg/14/22|Bg. 14.22]]
 * symptoms of, [[sb/9/8/13#purport|SB 9.8.13]]
-* tempted by *māyā, * 6.37
+* temple worship for, [[sb/2/1/19#purport|SB 2.1.19]]
+* tempted by *māyā, *, 6.37
 * three types of, [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/22/39#purport|SB 4.22.39]], [[sb/4/24/55#purport|SB 4.24.55]]
+* three, [[sb/1/2/12#purport|SB 1.2.12]]
 * travel unrestrictedly, [[sb/2/2/23#purport|SB 2.2.23]], [[sb/2/2/23#purport|SB 2.2.23]]
 * true & false, [[sb/3/15/45#purport|SB 3.15.45]]
 * truth partially known to, [[sb/9/23/20-21#purport|SB 9.23.20-21]]
 * two types of, [[sb/3/16/4#purport|SB 3.16.4]]
-* unsuccessful 
+* unsuccessful
+  * birth for, [[bg/6/41–43|Bg. 6.41–43]]
+  * fate of, [[bg/6/37–45|Bg. 6.37–45]]
+  * future of, [[bg/6/37–45|Bg. 6.37–45]]
 * Vedic injunctions &, [[sb/8/3/16#purport|SB 8.3.16]]
+* Vedic rules, [[sb/4/4/19#purport|SB 4.4.19]], [[sb/4/4/20-20#purport|SB 4.4.20-20]]
+* yoga attractive for, [[bg/6/44–45|Bg. 6.44–45]]
 
-*See also:* Devotees; [[i#Impersonalists|Impersonalists]]; Pures devotee; [[s#Sages|Sages]]; Saintlies person; [[y#Yogīs|Yogīs]]; Ātmārāmas; [[j#Jñānīs|Jñānīs]]; Liberateds soul; [[p#Paramahaṁsas|Paramahaṁsas]]; specific transcendentalists; [[s#Saints|Saints]]; specific (types of) transcendentalists
+*See also:* Ātmārāmas; Devotees; Jñānīs; Liberateds soul; Pures devotee; Sages; Yogīs; Impersonalists; specific transcendentalists; Saintlies person; Saints; Paramahaṁsas; specific (types of) transcendentalists
 
-*See:* Devotees; [[j#Jñānīs|Jñānīs]]; [[p#Paramahaṁsas|Paramahaṁsas]]; Spiritual masters; Pures devotee; [[y#Yogīs|Yogīs]]
+*See:* [Falldown](entries/falldown.md); Devotees; Jñānīs; Paramahaṁsas; Spiritual masters; Pures devotee; Yogīs

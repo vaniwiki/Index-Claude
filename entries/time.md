@@ -1,11 +1,10 @@
 # Time
 
-[[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/20/117#purport|Madhya 20.117]], [[sb/1/4/17-18#purport|SB 1.4.17-18]], [[sb/3/32/37#purport|SB 3.32.37]]
+[[bg/8|Bg. 8]], [[bg/18/78|Bg. 18.78]] (6), [[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/20/117#purport|Madhya 20.117]], [[sb/1/4/17-18#purport|SB 1.4.17-18]], [[sb/3/32/37#purport|SB 3.32.37]], [[sb/4/29/54#purport|SB 4.29.54]], [[sb/4/31/18#purport|SB 4.31.18]]
 
-* karma &, 8 
-* *See:* [[t#Time & place|Time & place]] 
+* above, [[sb/7/9/31#purport|SB 7.9.31]]
 * all-devouring, [[bg/11/32|Bg. 11.32]], [[bg/11/55|Bg. 11.55]] (6)
-* as *Gītā’s* subject, 7, 8, 10 
+* as *Gītā’s* subject, 7, 8, 10
 * as Caṇḍavega, [[sb/4/27/13-16#purport|SB 4.27.13-16]], [[sb/4/29/21#purport|SB 4.29.21]]
 * as cause of death, [[sb/3/29/45#purport|SB 3.29.45]]
 * as controller, [[sb/1/9/14-15#purport|SB 1.9.14-15]], [[sb/8/11/7-7#purport|SB 8.11.7-7]], [[sb/8/11/8#purport|SB 8.11.8]]
@@ -27,20 +26,21 @@
 * as reminder to surrender, [[sb/3/26/16#purport|SB 3.26.16]]
 * as saṁvatsara, [[sb/4/29/18-20#purport|SB 4.29.18-20]]
 * as snakelike, [[sb/1/13/46#purport|SB 1.13.46]]
-* at ”dead of night,” [[sb/9/14/27#purport|SB 9.14.27]]
+* as, [[sb/7/3/31-31#purport|SB 7.3.31-31]], [[sb/7/8/8#purport|SB 7.8.8]], [[sb/7/9/22#purport|SB 7.9.22]], [[sb/7/9/24#purport|SB 7.9.24]], [[sb/7/13/6#purport|SB 7.13.6]]
+* at ”dead of night,”, [[sb/9/14/27#purport|SB 9.14.27]]
 * atomic to universal, [[sb/3/10/10#purport|SB 3.10.10]]
 * atoms calculate, [[sb/3/11/1#purport|SB 3.11.1]], [[sb/3/11/3-5#purport|SB 3.11.3-5]]
-*  [[bg/8|Bg. 8]], [[bg/18/78|Bg. 18.78]] (6), [[sb/4/29/54#purport|SB 4.29.54]], [[sb/4/31/18#purport|SB 4.31.18]]
 * bodily relations under, [[sb/6/15/3-3#purport|SB 6.15.3-3]]
 * body under, [[sb/7/13/6-6#purport|SB 7.13.6-6]]
 * Brahmā’s vision of, [[sb/2/7/33#purport|SB 2.7.33]]
 * changes caused by, [[sb/2/9/10#purport|SB 2.9.10]]
-* compared to 
+* compared to
 * compared to snake, [[sb/4/7/28#purport|SB 4.7.28]]
 * compared to tape recording, [[sb/3/10/12#purport|SB 3.10.12]]
 * compared to tiger, [[sb/4/29/53-54#purport|SB 4.29.53-54]]
 * conditioned souls under, [[sb/7/9/22#purport|SB 7.9.22]], [[sb/7/13/6#purport|SB 7.13.6]]
 * cosmos controlled by, [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/3/25#purport|SB 10.3.25]], [[sb/10/3/26-26#purport|SB 10.3.26-26]]
+* creates & controls, [[sb/7/1/11-11#purport|SB 7.1.11-11]]
 * creation depends on, [[sb/3/26/17-17#purport|SB 3.26.17-17]]
 * creation in, [[sb/2/5/21#purport|SB 2.5.21]], [[sb/2/6/31#purport|SB 2.6.31]]
 * daughter of, [[sb/4/27/19-30#purport|SB 4.27.19-30]]
@@ -87,17 +87,21 @@
 * in universal scale, [[sb/2/10/46#purport|SB 2.10.46]]
 * in universe, [[sb/3/7/33#purport|SB 3.7.33]]
 * Kakudmī’s plans surpassed by, [[sb/9/3/31#purport|SB 9.3.31]], [[sb/9/3/32#purport|SB 9.3.32]]
-* Kṛṣṇa 
+* karma &, 8
+* Kṛṣṇa
+  * as, [[bg/10/30|Bg. 10.30]], [[bg/10/33|Bg. 10.33]], [[bg/11/32|Bg. 11.32]], [[bg/11/55|Bg. 11.55]] (6)
+  * represented by, [[bg/10/30|Bg. 10.30]], [[bg/10/33|Bg. 10.33]]
+  * seer of all, [[bg/2/20|Bg. 2.20]]
 * Kṛṣṇa as, [[sb/1/8/28#purport|SB 1.8.28]], [[sb/1/9/14-15#purport|SB 1.9.14-15]]
-* Kṛṣṇa beyond, [[sb/10/9/13-14#purport|SB 10.9.13-14]], [[sb/3/4/17#purport|SB 3.4.17]]
+* Kṛṣṇa beyond, [[sb/3/4/17#purport|SB 3.4.17]], [[sb/10/9/13-14#purport|SB 10.9.13-14]]
 * Kṛṣṇa consciousness transcends, [[sb/3/21/17#purport|SB 3.21.17]]
 * Kṛṣṇa unaffected by, [[sb/1/11/6#purport|SB 1.11.6]], [[sb/1/12/11#purport|SB 1.12.11]]
 * Kṛṣṇa’s form of, [[sb/3/1/43#purport|SB 3.1.43]]
 * living entities subordinate to, [[sb/1/8/28#purport|SB 1.8.28]], [[sb/1/11/6#purport|SB 1.11.6]], [[sb/1/12/11#purport|SB 1.12.11]], [[sb/1/13/20#purport|SB 1.13.20]], [[sb/1/13/46#purport|SB 1.13.46]], [[sb/1/13/46#purport|SB 1.13.46]], [[sb/1/15/30#purport|SB 1.15.30]]
-* Lord 
+* Lord
 * Lord above, [[sb/8/5/50#purport|SB 8.5.50]], [[sb/8/12/44#purport|SB 8.12.44]]
 * Lord as, [[sb/1/13/19#purport|SB 1.13.19]], [[sb/1/13/41#purport|SB 1.13.41]], [[sb/3/26/18-18#purport|SB 3.26.18-18]], [[sb/4/11/19#purport|SB 4.11.19]], [[sb/4/11/20#purport|SB 4.11.20]], [[sb/4/12/3#purport|SB 4.12.3]], [[sb/6/9/31#purport|SB 6.9.31]]
-* Lord controls, [[sb/10/3/26-26#purport|SB 10.3.26-26]], [[sb/9/4/53-54#purport|SB 9.4.53-54]]
+* Lord controls, [[sb/9/4/53-54#purport|SB 9.4.53-54]], [[sb/10/3/26-26#purport|SB 10.3.26-26]]
 * Lord feared by, [[sb/6/9/21#purport|SB 6.9.21]]
 * Lord fully aware of, [[sb/2/1/33#purport|SB 2.1.33]]
 * Lord represented by, [[sb/8/14/9#purport|SB 8.14.9]], [[sb/8/17/27#purport|SB 8.17.27]], [[sb/8/21/21#purport|SB 8.21.21]], [[sb/8/21/22#purport|SB 8.21.22]]
@@ -114,7 +118,7 @@
 * mystic’s awareness of, [[sb/3/11/17#purport|SB 3.11.17]]
 * nature of, detailed, [[sb/3/26/15#purport|SB 3.26.15]], [[sb/3/26/15-17#purport|SB 3.26.15-17]]
 * of Brahmā, [[sb/4/25/43#purport|SB 4.25.43]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/30/49#purport|SB 4.30.49]], [[sb/4/31/10#purport|SB 4.31.10]]
-* of Kṛṣṇa’s ”birth,” 3.1-5, [[sb/10/3/1-5#purport|SB 10.3.1-5]]
+* of Kṛṣṇa’s ”birth,”, 3.1-5, [[sb/10/3/1-5#purport|SB 10.3.1-5]]
 * of Lord’s advent, [[sb/8/18/5#purport|SB 8.18.5]], [[sb/8/18/6#purport|SB 8.18.6]]
 * of Lord’s one second, [[sb/3/11/38#purport|SB 3.11.38]]
 * of Viṣṇu’s one breath, [[sb/2/10/46#purport|SB 2.10.46]]
@@ -123,7 +127,7 @@
 * on Brahmaloka, [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/37-38#purport|SB 10.3.37-38]]
 * on Earth compared with Brahmā’s time, [[sb/10/13/40#purport|SB 10.13.40]]
 * on Earth vs. heavenly planet, [[sb/1/17/15#purport|SB 1.17.15]]
-* on higher planets, [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/10/10/20-22#purport|SB 10.10.20-22]], [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/17#purport|SB 4.30.17]]
+* on higher planets, [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/17#purport|SB 4.30.17]], [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/10/10/20-22#purport|SB 10.10.20-22]]
 * on Pitṛloka, [[sb/5/22/5#purport|SB 5.22.5]]
 * parārdhas, [[sb/3/32/8-9#purport|SB 3.32.8-9]]
 * Parīkṣit’s questions on, [[sb/2/8/12-13#purport|SB 2.8.12-13]]
@@ -133,7 +137,7 @@
 * pot for measuring, [[sb/3/11/9#purport|SB 3.11.9]]
 * power of, [[bg/10/30|Bg. 10.30]], [[sb/1/9/15#purport|SB 1.9.15]]
 * preaching for, & place, [[sb/1/9/9#purport|SB 1.9.9]]
-* present 
+* present
 * present, calculated, [[sb/4/9/62#purport|SB 4.9.62]], [[sb/8/13/11#purport|SB 8.13.11]], [[sb/8/14/4#purport|SB 8.14.4]]
 * priceless, [[sb/3/10/11#purport|SB 3.10.11]]
 * proper, for charity, [[bg/17/20|Bg. 17.20]]
@@ -154,15 +158,21 @@
 * transforms elements, [[sb/2/5/26-29#purport|SB 2.5.26-29]]
 * transmigration of soul caused by, [[sb/7/13/6#purport|SB 7.13.6]]
 * universal, [[bg/9/7|Bg. 9.7]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/30/4#purport|SB 4.30.4]], [[sb/4/31/10#purport|SB 4.31.10]]
+  * durations & differences of, [[bg/8/17|Bg. 8.17]]
 * universe controlled by, [[sb/1/9/14#purport|SB 1.9.14]]
 * universe under, [[sb/8/3/5#purport|SB 8.3.5]]
 * utilization of, [[sb/2/1/12#purport|SB 2.1.12]], [[sb/2/3/17#purport|SB 2.3.17]], [[sb/2/3/17#purport|SB 2.3.17]]
 * Vaikuṇṭha planets free from, [[sb/3/25/38-38#purport|SB 3.25.38-38]]
-* value of, for devotee, [[bg/6/17|Bg. 6.17]]
 * value of, [[sb/2/2/3#purport|SB 2.2.3]], [[sb/3/30/1#purport|SB 3.30.1]], [[sb/4/27/3-3#purport|SB 4.27.3-3]], [[sb/4/27/5#purport|SB 4.27.5]], [[sb/6/5/19-19#purport|SB 6.5.19-19]]
+* value of, for devotee, [[bg/6/17|Bg. 6.17]]
+* Varāha-kalpa as, [[sb/2/10/47#purport|SB 2.10.47]]
 * Vedic divisions of, [[sb/3/21/18#purport|SB 3.21.18]]
 * wheel of, movement of, differs from movement of sun & planets, [[sb/5/22/2#purport|SB 5.22.2]]
+* wheel, [[sb/3/21/18#purport|SB 3.21.18]]
+* wind, [[sb/3/30/1#purport|SB 3.30.1]]
 * world under, [[sb/7/13/6#purport|SB 7.13.6]]
 * yoga system obscured by, [[sb/3/24/37#purport|SB 3.24.37]]
 
-*See also:* [[f#Future|Future]]; Past; present; & future; [[k#Kali-yuga|Kali-yuga]]
+*See also:* [Future](entries/future.md); Past; present; & future; [Kali-yuga](entries/kali-yuga.md); Kālakanyā; Jarā
+
+*See:* Time & place

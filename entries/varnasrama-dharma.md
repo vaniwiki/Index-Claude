@@ -1,9 +1,8 @@
 # Varṇāśrama-dharma
 
-**[[cc/madhya/22/142#translation|Madhya 22.142]]**, **[[cc/madhya/24/142#translation|Madhya 24.142]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], [[sb/10/13/53#purport|SB 10.13.53]]
+**[[cc/madhya/22/142#translation|Madhya 22.142]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], **[[cc/madhya/24/142#translation|Madhya 24.142]]**, [[sb/10/13/53#purport|SB 10.13.53]], [[cc/madhya/3/194#purport|Madhya 3.194]]
 
 * & surrender to Lord, [[sb/5/1/15#purport|SB 5.1.15]]
-* &, [[cc/madhya/3/194#purport|Madhya 3.194]]
 * aim of, [[sb/1/2/2#purport|SB 1.2.2]], [[sb/1/2/13#purport|SB 1.2.13]]
 * always present, [[sb/4/2/31#purport|SB 4.2.31]]
 * as bhāgavata-dharma, [[sb/6/16/43#purport|SB 6.16.43]]
@@ -40,6 +39,7 @@
 * conditioned souls trained by, [[sb/5/4/14#purport|SB 5.4.14]]
 * cow protection in, [[sb/8/8/11#purport|SB 8.8.11]]
 * created by Lord, [[sb/4/6/44#purport|SB 4.6.44]]
+* creator of, [[sb/5/26/17#purport|SB 5.26.17]], [[sb/5/26/23#purport|SB 5.26.23]]
 * daiva- compared with āsura-, [[cc/madhya/3/6#purport|Madhya 3.6]]
 * defined, [[sb/1/15/39#purport|SB 1.15.39]]
 * design of, spiritual, [[sb/1/7/2#purport|SB 1.7.2]]
@@ -50,9 +50,10 @@
 * disrupted in this Age, [[sb/1/1/10-11#purport|SB 1.1.10-11]]
 * divisions & purpose of, [[sb/3/12/41#purport|SB 3.12.41]], [[sb/3/13/11-12#purport|SB 3.13.11-12]], [[sb/3/14/18#purport|SB 3.14.18]], [[sb/3/14/20#purport|SB 3.14.20]]
 * divisions in, [[cc/adi/17/42#purport|Ādi 17.42]], [[cc/adi/17/265#purport|Ādi 17.265]], [[sb/10/8/4#purport|SB 10.8.4]]
-* divisions of, listed, [[sb/5/1/29#purport|SB 5.1.29]], [[sb/5/2/1#purport|SB 5.2.1]], [[sb/8/2/30#purport|SB 8.2.30]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/20/11#purport|SB 8.20.11]]
 * divisions of, [[sb/2/1/37#purport|SB 2.1.37]], [[sb/2/5/37#purport|SB 2.5.37]], [[sb/2/8/16#purport|SB 2.8.16]], [[sb/2/9/36#purport|SB 2.9.36]]
+* divisions of, listed, [[sb/5/1/29#purport|SB 5.1.29]], [[sb/5/2/1#purport|SB 5.2.1]], [[sb/8/2/30#purport|SB 8.2.30]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/20/11#purport|SB 8.20.11]]
 * duties & divisions in, [[sb/4/20/9#purport|SB 4.20.9]], [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/21/7#purport|SB 4.21.7]]
+* duties of, [[sb/4/29/81#purport|SB 4.29.81]]
 * duty according to, [[sb/4/29/81#purport|SB 4.29.81]]
 * education in, [[sb/2/2/5#purport|SB 2.2.5]]
 * elevation via, [[sb/5/1/14#purport|SB 5.1.14]], [[sb/5/14/2#purport|SB 5.14.2]]
@@ -63,6 +64,7 @@
 * for America, [[sb/6/7/12#purport|SB 6.7.12]], [[sb/6/7/13#purport|SB 6.7.13]]
 * for detachment gradually, [[sb/4/28/27#purport|SB 4.28.27]]
 * for human beings, [[sb/7/11/13#purport|SB 7.11.13]]
+* for renunciation, [[sb/4/25/38#purport|SB 4.25.38]]
 * for satisfying Lord, [[sb/4/20/28#purport|SB 4.20.28]], [[sb/4/21/27#purport|SB 4.21.27]], [[sb/4/21/33#purport|SB 4.21.33]]
 * garbhādhāna ceremony in, [[sb/7/11/13#purport|SB 7.11.13]]
 * goal of, [[sb/6/3/29#purport|SB 6.3.29]], [[sb/7/9/10#purport|SB 7.9.10]], [[sb/7/11/21#purport|SB 7.11.21]], [[sb/7/15/14#purport|SB 7.15.14]]
@@ -90,7 +92,8 @@
 * Kṛṣṇa consciousness movement attempts to reestablish, [[sb/5/19/19#purport|SB 5.19.19]]
 * liberation &, **[[cc/madhya/9/257#translation|Madhya 9.257]]**
 * life cycle in, [[sb/7/5/5#purport|SB 7.5.5]]
-* Lord 
+* listed, [[sb/4/29/81#purport|SB 4.29.81]]
+* Lord
 * Lord created, [[sb/7/11/18-20#purport|SB 7.11.18-20]]
 * Lord founder of, [[cc/madhya/8/57#purport|Madhya 8.57]]
 * Lord satisfied via, [[sb/4/6/44#purport|SB 4.6.44]]
@@ -104,6 +107,7 @@
 * origin of, [[sb/3/12/43#purport|SB 3.12.43]]
 * peace by, [[sb/7/8/48#purport|SB 7.8.48]], [[sb/7/11/18-20#purport|SB 7.11.18-20]], [[sb/7/11/25#purport|SB 7.11.25]]
 * perfection via, [[cc/madhya/8/57#purport|Madhya 8.57]]
+* pleased by, [[sb/5/1/14#purport|SB 5.1.14]]
 * polygamy in, [[sb/4/26/6#purport|SB 4.26.6]]
 * Priyavrata maintainer of, [[sb/5/1/29#purport|SB 5.1.29]]
 * pure devotee transcends, [[cc/madhya/25/9#purport|Madhya 25.9]]
@@ -114,7 +118,8 @@
 * renunciation in, [[sb/1/15/44#purport|SB 1.15.44]], [[sb/2/2/4#purport|SB 2.2.4]], [[sb/2/7/6#purport|SB 2.7.6]]
 * renunciation of, **[[cc/madhya/8/61–63#translation|Madhya 8.61–63]]**, **[[cc/madhya/22/93#translation|Madhya 22.93]]**, SB Intro 29
 * retirement from family in, [[sb/9/1/42#purport|SB 9.1.42]]
-* Ṛṣabhadeva 
+* Ṛṣabhadeva
+* ruled according to, [[sb/5/4/16#purport|SB 5.4.16]]
 * sacred thread initiation in, [[sb/1/2/2#purport|SB 1.2.2]]
 * sacrifices via, [[sb/9/14/47#purport|SB 9.14.47]]
 * salvation via, [[sb/4/20/15#purport|SB 4.20.15]]
@@ -126,17 +131,19 @@
 * sex life regulated by, [[sb/4/25/39#purport|SB 4.25.39]]
 * sex life restricted in, [[sb/1/11/36#purport|SB 1.11.36]]
 * sinlessness via, **[[cc/madhya/22/142#translation|Madhya 22.142]]**
-* social divisions in 
+* social divisions in
 * social orders of, listed, [[sb/5/1/14#purport|SB 5.1.14]]
 * social structure of, [[sb/4/17/9#purport|SB 4.17.9]]
 * social value of, [[sb/4/14/18#purport|SB 4.14.18]], [[sb/4/14/19#purport|SB 4.14.19]]
 * society arranged by, [[sb/9/10/50#purport|SB 9.10.50]]
 * society guided by, [[sb/10/8/6#purport|SB 10.8.6]]
 * society organized by, [[sb/7/8/48#purport|SB 7.8.48]], [[sb/7/9/10#purport|SB 7.9.10]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/11/25#purport|SB 7.11.25]], [[sb/7/14/10#purport|SB 7.14.10]], [[sb/8/20/11#purport|SB 8.20.11]]
+* sons of, &, [[sb/5/4/13#purport|SB 5.4.13]]
 * spiritual master in, [[sb/1/2/2#purport|SB 1.2.2]], [[sb/1/5/24#purport|SB 1.5.24]]
 * spiritual progress in, [[sb/9/18/40#purport|SB 9.18.40]]
 * spiritual progress via, [[sb/5/1/29#purport|SB 5.1.29]]
 * spiritual stages in, four listed, [[sb/4/28/27#purport|SB 4.28.27]], [[sb/4/29/81#purport|SB 4.29.81]]
+* strict follower of, [[sb/5/4/14#purport|SB 5.4.14]]
 * śūdras’ status &, [[cc/madhya/7/63#purport|Madhya 7.63]]
 * Tattvavādīs &, [[cc/madhya/9/277#purport|Madhya 9.277]]
 * training in, [[sb/2/1/15-16#purport|SB 2.1.15-16]]
@@ -144,6 +151,7 @@
 * Vedic scriptures prescribe, [[sb/5/1/14#purport|SB 5.1.14]]
 * Viṣṇu worshiped via, [[sb/8/16/60#purport|SB 8.16.60]]
 * viṣṇu-tattvas worshiped in, [[sb/1/2/26#purport|SB 1.2.26]]
+* worshiped via, [[sb/5/19/19#purport|SB 5.19.19]]
 * worshiping Lord by, [[sb/4/14/18-18#purport|SB 4.14.18-18]]
 
-*See also:* Brahmacārīs; [[b#Brāhmaṇas|Brāhmaṇas]]; [[g#Gṛhasthas|Gṛhasthas]]; [[k#Kṣatriyas|Kṣatriyas]]; [[s#Sannyāsa|Sannyāsa]]; [[s#Sannyāsīs|Sannyāsīs]]; [[s#Śūdras|Śūdras]]; [[v#Vaiśyas|Vaiśyas]]; [[v#Vānaprastha|Vānaprastha]]; [[v#Vedic culture|Vedic culture]]; [[s#Society|Society]]; human; Vānaprasthas; Brahmacaryas; specific varṇas & āśramas; [[s#Sanātana-dharma|Sanātana-dharma]]; specific divisions of varṇāśrama
+*See also:* Brahmacārīs; Brāhmaṇas; Gṛhasthas; Kṣatriyas; Sannyāsa; Sannyāsīs; Śūdras; Vaiśyas; Vānaprastha; Vedic culture; [Society](entries/society.md); human; Vānaprasthas; Brahmacaryas; specific varṇas & āśramas; Sanātana-dharma; specific divisions; specific divisions of varṇāśrama

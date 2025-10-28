@@ -11,4 +11,4 @@
 * of materialist, Lord removes, [[sb/8/22/24#purport|SB 8.22.24]]
 * spiritual life hindered by, [[sb/8/22/5#purport|SB 8.22.5]]
 
-*See also:* [[o#Opulence|Opulence]]; material; [[w#Wealth|Wealth]]; Opulences
+*See also:* [Opulence](entries/opulences.md); material; [Wealth](entries/wealth.md); Opulences

@@ -4,7 +4,7 @@
 * as Kali’s residence, [[sb/1/17/39#purport|SB 1.17.39]], [[sb/1/17/39#purport|SB 1.17.39]]
 * bell metal treated with mercury produces, [[sb/5/24/17#purport|SB 5.24.17]]
 * Brahmā’s township made of, [[sb/5/16/28#purport|SB 5.16.28]]
-* compared 
+* compared
 * currency standard based on, [[sb/1/17/39#purport|SB 1.17.39]]
 * demigods’ airplanes made of, [[sb/4/9/56#purport|SB 4.9.56]]
 * demons amass, [[sb/3/18/9#purport|SB 3.18.9]]
@@ -30,5 +30,7 @@
 * Sumeru Mountain made of, [[sb/5/16/7#purport|SB 5.16.7]], [[sb/5/16/27#purport|SB 5.16.27]]
 * surplus of, in Vedic times, [[sb/1/12/34#purport|SB 1.12.34]]
 * testing stone for, [[sb/4/24/49#purport|SB 4.24.49]]
+* to ghosts & witches, [[sb/5/13/3#purport|SB 5.13.3]]
+* to yellow stool, [[sb/5/14/7#purport|SB 5.14.7]], [[sb/5/14/13#purport|SB 5.14.13]]
 
-*See also:* [[m#Money|Money]]; [[o#Opulence|Opulence]]; material; [[w#Wealth|Wealth]]
+*See also:* [Money](entries/money.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); material

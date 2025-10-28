@@ -1,9 +1,21 @@
 # Śiva quoted
 
+* as cause of creation & annihilation, [[sb/5/17/24#purport|SB 5.17.24]]
+* as only worshipable person, [[sb/5/17/18#purport|SB 5.17.18]]
+* as reservoir of opulences, [[sb/5/17/18#purport|SB 5.17.18]]
+* as reservoir of transcendental qualities, [[sb/5/17/17#purport|SB 5.17.17]]
+* as Śeṣa, [[sb/5/17/21#purport|SB 5.17.21]]
+* as source of protection, [[sb/5/17/18#purport|SB 5.17.18]]
+* as supreme controller, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
+* as transcendental, [[sb/5/17/17#purport|SB 5.17.17]], [[sb/5/17/20#purport|SB 5.17.20]]
+* as unlimited, [[sb/5/17/21#purport|SB 5.17.21]]
+* demigods controlled by, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
+* devotees delivered by, [[sb/5/17/18#purport|SB 5.17.18]]
+* illusory energy of, [[sb/5/17/24#purport|SB 5.17.24]]
+* nondevotees &, [[sb/5/17/17-18#purport|SB 5.17.17-18]]
 * on Brahmā, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
 * on deluded persons, [[sb/5/17/20#purport|SB 5.17.20]]
 * on himself, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
-* on Lord 
 * on Lord, [[sb/8/12/4#purport|SB 8.12.4]], [[sb/8/12/43#purport|SB 8.12.43]]
 * on milk-ocean poison, [[sb/8/7/37#purport|SB 8.7.37]]
 * on worshiping Viṣṇu, [[sb/8/5/49#purport|SB 8.5.49]], [[sb/8/16/60#purport|SB 8.16.60]], [[sb/8/20/11#purport|SB 8.20.11]]

@@ -15,4 +15,6 @@
 * purifying power of, [[sb/7/7/36#purport|SB 7.7.36]], [[sb/7/10/70#purport|SB 7.10.70]]
 * value of knowing, [[sb/7/15/45#purport|SB 7.15.45]]
 
-*See:* Kṛṣṇa; pastimes of; [[s#Supreme Lord|Supreme Lord]]
+*See also:* Hearing about Supreme Lord
+
+*See:* Kṛṣṇa; pastimes of; Supreme Lord

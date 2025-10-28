@@ -5,6 +5,6 @@
 * oneness seen by, [[sb/4/7/38#purport|SB 4.7.38]]
 * pray to Viṣṇu, [[sb/4/7/38#purport|SB 4.7.38]], [[sb/4/7/39#purport|SB 4.7.39]]
 
-*See also:* Devotees; [[s#Sages|Sages]]; [[t#Transcendentalists|Transcendentalists]]; [[y#Yogīs|Yogīs]]; mystic
+*See also:* Devotees; Sages; Transcendentalists; Yogīs; mystic
 
-*See:* Devotees; Mystics yogī; Sages; [[t#Transcendentalists|Transcendentalists]]; [[y#Yogīs|Yogīs]]; [[s#Sages|Sages]]; [[w#Witches|Witches]]; mystical
+*See:* Devotees; Mystics yogī; Sages; Transcendentalists; Yogīs; Witches; mystical

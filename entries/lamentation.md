@@ -45,4 +45,4 @@
 * unnecessary in this world, [[sb/6/15/2#purport|SB 6.15.2]], [[sb/6/15/4#purport|SB 6.15.4]], [[sb/6/15/5#purport|SB 6.15.5]]
 * Yamarāja condemns, [[sb/7/2/37-37#purport|SB 7.2.37-37]], [[sb/7/2/44-44#purport|SB 7.2.44-44]]
 
-*See also:* [[s#Suffering|Suffering]]
+*See also:* [Suffering](entries/sufferings.md)

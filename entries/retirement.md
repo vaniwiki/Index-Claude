@@ -11,6 +11,6 @@
 * of Uttānapāda, [[sb/4/9/67-67#purport|SB 4.9.67-67]]
 * value of, [[sb/3/7/34#purport|SB 3.7.34]]
 
-*See also:* [[d#Detachment|Detachment]]; [[s#Sannyāsīs|Sannyāsīs]]; Vānaprasthas; [[r#Renunciation|Renunciation]]; [[s#Sannyāsa|Sannyāsa]]; [[v#Vānaprastha|Vānaprastha]]
+*See also:* [Detachment](entries/detachment.md); Sannyāsīs; Vānaprasthas; [Renunciation](entries/renunciation.md); Sannyāsa; Vānaprastha
 
-*See:* [[r#Renunciation|Renunciation]]; [[s#Sannyāsa|Sannyāsa]]; [[v#Vānaprastha|Vānaprastha]]
+*See:* [Renunciation](entries/renunciation.md); Sannyāsa; Vānaprastha

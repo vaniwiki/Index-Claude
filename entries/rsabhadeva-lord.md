@@ -16,11 +16,12 @@
 * as independent, [[sb/5/4/14#purport|SB 5.4.14]]
 * as Indra’s superior, [[sb/5/5/25#purport|SB 5.5.25]]
 * as Lord’s incarnation, [[sb/5/12/1#purport|SB 5.12.1]]
-* as master 
+* as master
 * as omniscient, [[sb/5/4/8#purport|SB 5.4.8]]
 * as original bhagavān, [[sb/5/4/3#purport|SB 5.4.3]]
 * as prābhava incarnation, [[sb/5/26/40-#purport|SB 5.26.40-]]sup.note
 * as self-sufficient, [[sb/5/6/19#purport|SB 5.6.19]]
+* as spiritual, [[sb/5/4/14#purport|SB 5.4.14]], [[sb/5/5/19#purport|SB 5.5.19]], [[sb/5/5/30#purport|SB 5.5.30]], [[sb/5/5/34#purport|SB 5.5.34]], [[sb/5/6/7#purport|SB 5.6.7]], [[sb/5/26/40-#purport|SB 5.26.40-]]sup.note
 * as Supersoul, [[sb/5/5/26#purport|SB 5.5.26]]
 * as supreme controller, [[sb/5/4/14#purport|SB 5.4.14]]
 * as Supreme Lord, [[sb/5/5/6#purport|SB 5.5.6]], [[sb/5/5/10-13#purport|SB 5.5.10-13]], [[sb/5/5/19#purport|SB 5.5.19]],
@@ -33,7 +34,7 @@
 * Bharata enthroned by, [[sb/5/5/28#purport|SB 5.5.28]]
 * bliss by, [[sb/5/5/35#purport|SB 5.5.35]]
 * bodily conception of life transcended by, [[sb/5/5/30#purport|SB 5.5.30]]
-* body of 
+* body of
 * brahmacārī life accepted by, [[sb/5/4/8#purport|SB 5.4.8]]
 * brāhmaṇas entrusted with, [[sb/5/4/5#purport|SB 5.4.5]]
 * brāhmaṇas’ instructions followed by, [[sb/5/4/16#purport|SB 5.4.16]]
@@ -42,12 +43,15 @@
 * citizens &, [[sb/5/4/18#purport|SB 5.4.18]]
 * compared to elephant, [[sb/5/5/30#purport|SB 5.5.30]]
 * conditioned soul imitated by, [[sb/5/4/14#purport|SB 5.4.14]], [[sb/5/6/7#purport|SB 5.6.7]]
+* description of, [[sb/5/5/31#purport|SB 5.5.31]]
+* desired for, [[sb/5/4/1#purport|SB 5.4.1]]
 * devotional service found in heart of, [[sb/5/5/19#purport|SB 5.5.19]]
 * devotional service via hearing and chanting pastimes of, [[sb/5/6/16#purport|SB 5.6.16]]
 * ecstatic symptoms by, [[sb/5/5/35#purport|SB 5.5.35]]
 * example set by, [[sb/5/4/8#purport|SB 5.4.8]], [[sb/5/5/28#purport|SB 5.5.28]]
 * eyes of, compared to lotus flower, [[sb/5/5/31#purport|SB 5.5.31]]
 * family life renounced by, [[sb/5/5/28#purport|SB 5.5.28]]
+* given to, [[sb/5/4/5#purport|SB 5.4.5]]
 * gurukula attended by, [[sb/5/4/8#purport|SB 5.4.8]]
 * happiness bestowed by, [[sb/5/5/25#purport|SB 5.5.25]]
 * householder life accepted by, [[sb/5/4/8#purport|SB 5.4.8]]
@@ -62,23 +66,35 @@
 * material attachment &, [[sb/5/4/14#purport|SB 5.4.14]]
 * material miseries &, [[sb/5/4/14#purport|SB 5.4.14]]
 * mystic power &, [[sb/5/5/35#purport|SB 5.5.35]], [[sb/5/6/15#purport|SB 5.6.15]]
-* Nābhi &. See: Nābhi, Ṛṣabhadeva & ... 
+* Nābhi &. See: Nābhi, Ṛṣabhadeva & ...
+* of brāhmaṇas, [[sb/5/6/16#purport|SB 5.6.16]]
+* of cows, [[sb/5/6/16#purport|SB 5.6.16]]
+* of demigods, [[sb/5/6/16#purport|SB 5.6.16]]
+* of humans, [[sb/5/6/16#purport|SB 5.6.16]]
+* of liberation, [[sb/5/5/35#purport|SB 5.5.35]]
+* of mystic power, [[sb/5/4/3#purport|SB 5.4.3]]
+* of Vedic knowledge, [[sb/5/6/16#purport|SB 5.6.16]]
+* on lust, [[sb/8/12/22#purport|SB 8.12.22]]
+* on sense gratification, [[sb/8/19/21#purport|SB 8.19.21]]
 * parents of, [[sb/8/13/20#purport|SB 8.13.20]]
+* people of all times benefit from, [[sb/5/6/16#purport|SB 5.6.16]]
 * popularity of, [[sb/5/4/1#purport|SB 5.4.1]]
 * purpose for descent of, [[sb/5/6/12#purport|SB 5.6.12]]
 * python behavior by, [[sb/5/5/32#purport|SB 5.5.32]]
 * qualities of, [[sb/5/4/2#purport|SB 5.4.2]], [[sb/5/5/19#purport|SB 5.5.19]]
-* quoted. See: Ṛṣabhadeva quoted 
+* quoted. See: Ṛṣabhadeva quoted
 * rain brought by, [[sb/5/4/3#purport|SB 5.4.3]]
-* rulership 
+* rulership
 * sacrifices performed by, [[sb/5/4/17#purport|SB 5.4.17]]
 * sannyāsīs learn from instructions of, [[sb/5/5/28#purport|SB 5.5.28]]
+* sannyāsīs learn from, [[sb/5/5/28#purport|SB 5.5.28]]
 * scriptures adhered to by, [[sb/5/4/8#purport|SB 5.4.8]]
 * sinful activities vanquished by activities of, [[sb/5/6/16#purport|SB 5.6.16]]
 * sons of, [[sb/5/4/19#purport|SB 5.4.19]], [[sb/5/5/20#purport|SB 5.5.20]], [[sb/5/5/28#purport|SB 5.5.28]]
 * spiritual master accepted by, [[sb/5/4/8#purport|SB 5.4.8]]
 * spiritual potency of, [[sb/5/4/3#purport|SB 5.4.3]]
 * spiritual qualities in heart of, [[sb/5/5/20#purport|SB 5.5.20]]
+* spiritual world attained via following, [[sb/5/6/12#purport|SB 5.6.12]]
 * stool & urine of, [[sb/5/5/33#purport|SB 5.5.33]], [[sb/5/6/10#purport|SB 5.6.10]], [[sb/5/26/40#purport|SB 5.26.40]]s.n
 * Sumati follows path of, [[sb/5/15/1#purport|SB 5.15.1]]
 * symptoms of Lord manifested by, [[sb/5/4/1-2#purport|SB 5.4.1-2]]
@@ -89,3 +105,5 @@
 * women attracted by, [[sb/5/5/31#purport|SB 5.5.31]]
 * world departed by, [[sb/5/6/8#purport|SB 5.6.8]]
 * yogīs compared with, [[sb/5/6/15#purport|SB 5.6.15]]
+
+*See also:* Bharata Mahārāja

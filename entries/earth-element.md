@@ -1,6 +1,6 @@
 # Earth element
 
-[[sb/4/31/15#purport|SB 4.31.15]]
+[[sb/4/31/15#purport|SB 4.31.15]], [[sb/6/9/21#purport|SB 6.9.21]], [[sb/6/10/11#purport|SB 6.10.11]]
 
 * as bodily constituent, [[sb/7/2/42#purport|SB 7.2.42]], [[sb/7/12/25#purport|SB 7.12.25]]
 * as created from aroma, [[sb/2/2/28#purport|SB 2.2.28]]
@@ -10,9 +10,8 @@
 * Kṛṣṇa accused of eating, [[sb/10/8/32-36#purport|SB 10.8.32-36]]
 * origin of, [[sb/7/2/37#purport|SB 7.2.37]]
 * qualities of, [[sb/3/26/46-46#purport|SB 3.26.46-46]], [[sb/3/26/49#purport|SB 3.26.49]]
-*  [[sb/6/9/21#purport|SB 6.9.21]], [[sb/6/10/11#purport|SB 6.10.11]]
 * sense perceptions included in, [[sb/7/7/22#purport|SB 7.7.22]]
 
-*See also:* [[e#Elements|Elements]]; [[e#Evolution|Evolution]]
+*See also:* Elements; [Evolution](entries/evolution.md)
 
-*See:* [[e#Elements|Elements]]; material
+*See:* Elements; material

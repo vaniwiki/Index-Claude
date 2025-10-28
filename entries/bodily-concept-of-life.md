@@ -1,26 +1,26 @@
 # Bodily concept of life
 
-[[sb/1/8/47#purport|SB 1.8.47]]
+[[bg/1/29|Bg. 1.29]], [[bg/2/1|Bg. 2.1]], [[bg/2/26–27|Bg. 2.26–27]], [[bg/3/40|Bg. 3.40]], [[bg/13/1|Bg. 13.1]], [[bg/13/8|Bg. 13.8]] (8), [[sb/1/8/47#purport|SB 1.8.47]], [[sb/3/25/10#purport|SB 3.25.10]], [[sb/3/25/16#purport|SB 3.25.16]], [[sb/3/26/2#purport|SB 3.26.2]], [[sb/3/26/5#purport|SB 3.26.5]], [[sb/3/26/8#purport|SB 3.26.8]], [[sb/3/26/14#purport|SB 3.26.14]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/27/8-9#purport|SB 3.27.8-9]], [[sb/3/27/13#purport|SB 3.27.13]], [[sb/3/27/17#purport|SB 3.27.17]], [[sb/3/28/37-39#purport|SB 3.28.37-39]], [[sb/3/30/3-5#purport|SB 3.30.3-5]], [[sb/3/31/20#purport|SB 3.31.20]], [[sb/3/31/30#purport|SB 3.31.30]], [[sb/4/25/9-10#purport|SB 4.25.9-10]], [[sb/4/25/11#purport|SB 4.25.11]], [[sb/4/25/14#purport|SB 4.25.14]], [[sb/4/25/26#purport|SB 4.25.26]], [[sb/4/25/33#purport|SB 4.25.33]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/10#purport|SB 4.27.10]], [[sb/4/28/17#purport|SB 4.28.17]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/55-55#purport|SB 4.28.55-55]], [[sb/4/28/58-58#purport|SB 4.28.58-58]], [[sb/4/28/60-61#purport|SB 4.28.60-61]], [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/29/70#purport|SB 4.29.70]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/78#purport|SB 4.29.78]], [[sb/4/29/85#purport|SB 4.29.85]]
 
 * ”dead” body of one in, [[sb/2/7/38#purport|SB 2.7.38]]
+* ”dirty” heart causes, [[sb/2/1/22#purport|SB 2.1.22]]
 * anger in, [[sb/8/19/13#purport|SB 8.19.13]]
 * animals in, [[sb/4/11/10#purport|SB 4.11.10]]
-* as ”I & mine,” [[sb/2/9/2-3#purport|SB 2.9.2-3]], [[sb/2/9/2-3#purport|SB 2.9.2-3]]
+* as ”I & mine,”, [[sb/2/9/2-3#purport|SB 2.9.2-3]], [[sb/2/9/2-3#purport|SB 2.9.2-3]]
 * as animalistic, [[sb/8/3/17#purport|SB 8.3.17]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/16/19#purport|SB 8.16.19]]
 * as animallike, [[sb/4/29/1#purport|SB 4.29.1]]a-2a
 * as basis of suffering, [[sb/1/7/5#purport|SB 1.7.5]]
 * as contamination, [[sb/4/4/27#purport|SB 4.4.27]]
 * as doom, [[sb/7/5/5#purport|SB 7.5.5]], [[sb/7/9/19#purport|SB 7.9.19]]
-* as ignorance, [[sb/1/5/27#purport|SB 1.5.27]], [[sb/1/15/31#purport|SB 1.15.31]], [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/4/22#purport|SB 10.4.22]], [[sb/10/4/26-26#purport|SB 10.4.26-26]], [[sb/7/6/4#purport|SB 7.6.4]], [[sb/7/7/21#purport|SB 7.7.21]]
+* as ignorance, [[sb/1/5/27#purport|SB 1.5.27]], [[sb/1/15/31#purport|SB 1.15.31]], [[sb/7/6/4#purport|SB 7.6.4]], [[sb/7/7/21#purport|SB 7.7.21]], [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/4/22#purport|SB 10.4.22]], [[sb/10/4/26-26#purport|SB 10.4.26-26]]
 * as illusion, [[sb/4/7/44#purport|SB 4.7.44]], [[sb/4/12/16#purport|SB 4.12.16]], [[sb/7/7/19-20#purport|SB 7.7.19-20]], [[sb/7/7/19-20#purport|SB 7.7.19-20]], [[sb/7/7/21#purport|SB 7.7.21]]
 * as illusory, [[sb/4/20/5#purport|SB 4.20.5]], [[sb/7/12/10#purport|SB 7.12.10]]
 * as root of despondency, [[sb/1/5/5#purport|SB 1.5.5]]
 * as temporary, [[sb/2/1/15#purport|SB 2.1.15]]
 * atheists in, [[sb/3/20/18#purport|SB 3.20.18]]
 * attachment to, [[sb/10/4/20#purport|SB 10.4.20]]
-*  [[bg/1/29|Bg. 1.29]], [[bg/2/1|Bg. 2.1]], [[bg/2/26–27|Bg. 2.26–27]], [[bg/3/40|Bg. 3.40]], [[bg/13/1|Bg. 13.1]], [[bg/13/8|Bg. 13.8]] (8), [[sb/3/25/10#purport|SB 3.25.10]], [[sb/3/25/16#purport|SB 3.25.16]], [[sb/3/26/2#purport|SB 3.26.2]], [[sb/3/26/5#purport|SB 3.26.5]], [[sb/3/26/8#purport|SB 3.26.8]], [[sb/3/26/14#purport|SB 3.26.14]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/27/8-9#purport|SB 3.27.8-9]], [[sb/3/27/13#purport|SB 3.27.13]], [[sb/3/27/17#purport|SB 3.27.17]], [[sb/3/28/37-39#purport|SB 3.28.37-39]], [[sb/3/30/3-5#purport|SB 3.30.3-5]], [[sb/3/31/20#purport|SB 3.31.20]], [[sb/3/31/30#purport|SB 3.31.30]], [[sb/4/25/9-10#purport|SB 4.25.9-10]], [[sb/4/25/11#purport|SB 4.25.11]], [[sb/4/25/14#purport|SB 4.25.14]], [[sb/4/25/26#purport|SB 4.25.26]], [[sb/4/25/33#purport|SB 4.25.33]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/10#purport|SB 4.27.10]], [[sb/4/28/17#purport|SB 4.28.17]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/55-55#purport|SB 4.28.55-55]], [[sb/4/28/58-58#purport|SB 4.28.58-58]], [[sb/4/28/60-61#purport|SB 4.28.60-61]], [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/29/70#purport|SB 4.29.70]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/78#purport|SB 4.29.78]], [[sb/4/29/85#purport|SB 4.29.85]]
 * birth & death via, [[sb/4/21/32#purport|SB 4.21.32]]
-* bondage in 
+* bondage in
 * Brahmā and Śiva &, [[sb/10/9/21#purport|SB 10.9.21]]
 * civiliātion in, [[sb/4/22/31#purport|SB 4.22.31]]
 * civilization in, [[sb/3/24/36#purport|SB 3.24.36]]
@@ -50,6 +50,7 @@
 * in contemporary society, [[sb/2/3/1#purport|SB 2.3.1]]
 * in Dakṣa & followers, [[sb/4/2/21#purport|SB 4.2.21]]
 * in Dakṣa, [[sb/4/3/16#purport|SB 4.3.16]]
+* in exploitive society, [[sb/2/2/37#purport|SB 2.2.37]]
 * in followers of Vedas, [[sb/4/2/22#purport|SB 4.2.22]]
 * in Satī, [[sb/4/3/9#purport|SB 4.3.9]], [[sb/4/3/11#purport|SB 4.3.11]]
 * in Vedas, [[sb/4/2/22#purport|SB 4.2.22]]
@@ -64,6 +65,9 @@
 * lust causes, [[bg/3/40|Bg. 3.40]]
 * materialists in, [[sb/9/19/5-6#purport|SB 9.19.5-6]]
 * merged in Rudra, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
+* misused intelligence causes, [[sb/2/4/20#purport|SB 2.4.20]]
+* modes of nature cause, [[sb/2/5/18#purport|SB 2.5.18]]
+* mystic allurements as, [[sb/2/1/39#purport|SB 2.1.39]]
 * mystic meditation for one in, [[sb/2/1/23#purport|SB 2.1.23]]
 * offenses to great souls by, [[sb/4/4/13-13#purport|SB 4.4.13-13]]
 * overlording in, [[sb/1/1/2#purport|SB 1.1.2]]
@@ -73,6 +77,7 @@
 * reactions to, [[bg/5/15|Bg. 5.15]]
 * relationships in, break, [[sb/4/4/8#purport|SB 4.4.8]]
 * scientists in, [[sb/8/5/23#purport|SB 8.5.23]]
+* self-centered ego causes, [[sb/2/5/24#purport|SB 2.5.24]]
 * self-realiātion hindered by, [[sb/4/23/12#purport|SB 4.23.12]]
 * self-realisation destroys, [[sb/1/3/33#purport|SB 1.3.33]]
 * sinful activities via, [[sb/10/2/22#purport|SB 10.2.22]]
@@ -89,7 +94,7 @@
 * vision according to, [[sb/4/11/29#purport|SB 4.11.29]]
 * worship in, [[sb/8/24/30-30#purport|SB 8.24.30-30]]
 * yoga type for, [[sb/2/10/10#purport|SB 2.10.10]]
-* yogīs in, [[sb/4/20/12#purport|SB 4.20.12]], [[sb/4/9/12#purport|SB 4.9.12]]
+* yogīs in, [[sb/4/9/12#purport|SB 4.9.12]], [[sb/4/20/12#purport|SB 4.20.12]]
 * Yudhiṣṭhira shucked, [[sb/1/15/41#purport|SB 1.15.41]]
 
-*See also:* [[a#Attachment|Attachment]]; material; [[d#Desires|Desires]]; Duality; [[e#Ego|Ego]]; false; [[i#Illusion|Illusion]]; [[m#Māyā|Māyā]]; [[b#Body|Body]]; [[f#False ego|False ego]]; ; [[b#Bondage|Bondage]]; [[m#Materialism|Materialism]]; [[m#Materialists|Materialists]]; [[i#”I-&-mine” conception|”I-&-mine” conception]]; [[i#Ignorance|Ignorance]]
+*See also:* [Attachment](entries/attachment.md); [Body](entries/body.md); material; Desires; False ego; [Illusion](entries/illusion.md); Māyā; ; Duality; [Ego](entries/ego.md); false; [Bondage](entries/bondage.md); [Materialism](entries/materialism.md); Materialists; [Ignorance](entries/ignorance.md); ”I-&-mine” conception

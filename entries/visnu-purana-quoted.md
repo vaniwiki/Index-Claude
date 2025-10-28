@@ -1,6 +1,6 @@
 # Viṣṇu Purāṇa quoted
 
-[[cc/adi/4/60#purport|Ādi 4.60]], [[cc/adi/4/62#purport|Ādi 4.62]], **[[cc/adi/4/63#translation|Ādi 4.63]]**, [[cc/adi/5/41#purport|Ādi 5.41]], **[[cc/adi/7/119#translation|Ādi 7.119]]**, [[cc/adi/7/120#purport|Ādi 7.120]], **[[cc/madhya/13/77#translation|Madhya 13.77]]**, **[[cc/madhya/20/110#translation|Madhya 20.110]]**, **[[cc/madhya/20/112–15#translation|Madhya 20.112–15]]**, **[[cc/madhya/23/117–18#translation|Madhya 23.117–18]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], **[[cc/madhya/6/154–57#translation|Madhya 6.154–57]]**, **[[cc/madhya/8/153#translation|Madhya 8.153]]**, [[cc/madhya/8/156#purport|Madhya 8.156]]
+**[[cc/madhya/13/77#translation|Madhya 13.77]]**, **[[cc/madhya/23/117–18#translation|Madhya 23.117–18]]**, **[[cc/adi/7/119#translation|Ādi 7.119]]**, [[cc/adi/7/120#purport|Ādi 7.120]], **[[cc/madhya/6/154–57#translation|Madhya 6.154–57]]**, **[[cc/madhya/20/110#translation|Madhya 20.110]]**, **[[cc/madhya/20/112–15#translation|Madhya 20.112–15]]**, [[cc/adi/4/60#purport|Ādi 4.60]], **[[cc/adi/4/63#translation|Ādi 4.63]]**, [[cc/madhya/8/156#purport|Madhya 8.156]], [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/4/62#purport|Ādi 4.62]], **[[cc/madhya/8/153#translation|Madhya 8.153]]**, [[cc/madhya/24/94#purport|Madhya 24.94]]
 
 * number of, [[cc/madhya/19/138#purport|Madhya 19.138]]
 * on Absolute Truth, **[[cc/madhya/24/72#translation|Madhya 24.72]]**

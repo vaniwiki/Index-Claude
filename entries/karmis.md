@@ -1,8 +1,7 @@
 # Karmī(s)
 
-[[sb/4/8/61#purport|SB 4.8.61]]
+[[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/7/9#purport|SB 1.7.9]], [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/25/7#purport|SB 4.25.7]], [[sb/4/25/38#purport|SB 4.25.38]], [[sb/4/26/26#purport|SB 4.26.26]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/29/28#purport|SB 4.29.28]], )
 
-*  See: Materialist(s) )
 * anxiety in, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
 * as envious, [[sb/4/19/35#purport|SB 4.19.35]]
 * as fruitive ritualists, [[sb/4/12/11#purport|SB 4.12.11]]
@@ -36,9 +35,8 @@
 * material elevation sought by, [[sb/5/11/3#purport|SB 5.11.3]]
 * peacefulness not attained by, [[sb/5/5/35#purport|SB 5.5.35]]
 * satisfaction of, [[sb/5/1/1#purport|SB 5.1.1]]
-*  [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/7/9#purport|SB 1.7.9]], [[sb/4/25/7#purport|SB 4.25.7]], [[sb/4/25/38#purport|SB 4.25.38]], [[sb/4/26/26#purport|SB 4.26.26]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/29/28#purport|SB 4.29.28]]
 * taught by suffering, [[sb/4/27/29#purport|SB 4.27.29]]
 * Viṣṇu & demigods as considered by, [[sb/4/24/28#purport|SB 4.24.28]]
 * worship Lord, [[sb/4/24/62#purport|SB 4.24.62]]
 
-*See also:* Fruitives worker; [[m#Materialists|Materialists]]; [[f#Fruitive workers|Fruitive workers]]; [[n#Nondevotees|Nondevotees]]; Soul; conditioned
+*See also:* Fruitive workers; Fruitives worker; Materialists; Nondevotees; Soul; conditioned

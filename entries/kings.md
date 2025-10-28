@@ -1,19 +1,21 @@
 # King(s)
 
+* advisors of, [[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/10/15#purport|SB 5.10.15]], [[sb/5/12/7#purport|SB 5.12.7]]
 * Ambarīṣa as, [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/22#purport|SB 9.4.22]], [[sb/9/4/26#purport|SB 9.4.26]], [[sb/9/5/26#purport|SB 9.5.26]]
 * as equally disposed, [[sb/8/23/8#purport|SB 8.23.8]]
 * as high birth, [[sb/7/13/40#purport|SB 7.13.40]]
 * as human being number one, [[sb/1/18/41-42#purport|SB 1.18.41-42]]
 * as kṣatriyas, [[sb/4/20/26#purport|SB 4.20.26]]
-* as Lord’s representative, [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/18/41#purport|SB 1.18.41]], [[sb/1/18/43#purport|SB 1.18.43]], [[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/3/18#purport|SB 3.3.18]], [[sb/4/13/23#purport|SB 4.13.23]], [[sb/4/14/18#purport|SB 4.14.18]], [[sb/4/16/20#purport|SB 4.16.20]], [[sb/5/12/7#purport|SB 5.12.7]], [[sb/5/15/7#purport|SB 5.15.7]], [[sb/9/9/30#purport|SB 9.9.30]]
+* as Lord’s representative, [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/18/41#purport|SB 1.18.41]], [[sb/1/18/43#purport|SB 1.18.43]], [[sb/3/3/18#purport|SB 3.3.18]], [[sb/3/21/51#purport|SB 3.21.51]], [[sb/4/13/23#purport|SB 4.13.23]], [[sb/4/14/18#purport|SB 4.14.18]], [[sb/4/16/20#purport|SB 4.16.20]], [[sb/5/12/7#purport|SB 5.12.7]], [[sb/5/15/7#purport|SB 5.15.7]], [[sb/9/9/30#purport|SB 9.9.30]]
 * as Lord’s respresentative, [[sb/4/21/22#purport|SB 4.21.22]], [[sb/4/21/49#purport|SB 4.21.49]], [[sb/4/24/19#purport|SB 4.24.19]]
 * as rājarṣi, [[sb/9/10/50#purport|SB 9.10.50]]
 * as saintly sages, [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/12/41#purport|SB 4.12.41]], [[sb/4/14/4#purport|SB 4.14.4]]
 * association with, dangerous, [[sb/1/19/13#purport|SB 1.19.13]]
 * authorities followed by, [[sb/1/19/12#purport|SB 1.19.12]]
 * bad, shares citizenry’s sinful reactions, [[sb/4/20/14-14#purport|SB 4.20.14-14]], [[sb/4/20/21#purport|SB 4.20.21]], [[sb/4/21/24#purport|SB 4.21.24]]
+* Bali as, [[sb/8/22/16#purport|SB 8.22.16]], [[sb/8/22/31#purport|SB 8.22.31]]
 * brahmacarya training for, [[sb/7/6/10#purport|SB 7.6.10]]
-* brāhmaṇas 
+* brāhmaṇas
 * brāhmaṇas above, [[sb/4/13/22#purport|SB 4.13.22]], [[sb/4/17/9#purport|SB 4.17.9]], [[sb/4/21/12#purport|SB 4.21.12]], [[sb/4/21/43#purport|SB 4.21.43]]
 * brāhmaṇas direct, [[sb/1/3/14#purport|SB 1.3.14]], [[sb/1/3/20#purport|SB 1.3.20]]
 * capital punishment by, [[sb/1/7/37#purport|SB 1.7.37]], [[sb/1/7/37#purport|SB 1.7.37]]
@@ -55,8 +57,8 @@
 * Jaḍa Bharata’s path not followed by, [[sb/5/14/42#purport|SB 5.14.42]]
 * Kali dressed as, [[sb/1/16/4-5#purport|SB 1.16.4-5]]
 * Kārtavīryārjuna as, [[sb/9/23/24#purport|SB 9.23.24]], [[sb/9/23/25#purport|SB 9.23.25]]
-* killing by, rules for, [[sb/1/7/36#purport|SB 1.7.36]]
 * killing by, [[sb/3/21/50#purport|SB 3.21.50]], [[sb/4/11/5#purport|SB 4.11.5]], [[sb/4/17/26#purport|SB 4.17.26]]
+* killing by, rules for, [[sb/1/7/36#purport|SB 1.7.36]]
 * killing practiced by, [[sb/4/22/13#purport|SB 4.22.13]]
 * kingdom of, [[sb/2/9/33#purport|SB 2.9.33]]
 * Kṛṣṇa as King of, [[sb/3/1/12#purport|SB 3.1.12]]
@@ -73,16 +75,15 @@
 * mystic yoga practiced by, [[sb/4/14/4#purport|SB 4.14.4]]
 * nobility of, vanishing, [[sb/6/16/38#purport|SB 6.16.38]]
 * of Āryāvarta, [[sb/9/6/5#purport|SB 9.6.5]]
-* of elephants. See: Airāvata; Gajendra 
-* of heaven 
-* of heaven, [[sb/9/2/14#purport|SB 9.2.14]]
-* of heaven. See: Indra , 
-* of heavenly planets. See: Indra 
+* of elephants. See: Airāvata; Gajendra
+* of heaven. See: Indra, [[sb/9/2/14#purport|SB 9.2.14]]
+* of heavenly planets. See: Indra
+* offended by, [[sb/5/13/23#purport|SB 5.13.23]]
 * on higher planets, [[sb/8/10/6#purport|SB 8.10.6]]
 * opulences of, [[sb/4/14/4#purport|SB 4.14.4]]
 * pious & impious, [[sb/1/8/32#purport|SB 1.8.32]]
-* pious, compared with impious, [[sb/4/20/14-14#purport|SB 4.20.14-14]]
 * pious, [[sb/4/14/17-17#purport|SB 4.14.17-17]], [[sb/4/14/18#purport|SB 4.14.18]]
+* pious, compared with impious, [[sb/4/20/14-14#purport|SB 4.20.14-14]]
 * power of, source of, [[sb/2/6/6#purport|SB 2.6.6]]
 * Prahlāda as, [[sb/7/10/11-11#purport|SB 7.10.11-11]], [[sb/7/10/20#purport|SB 7.10.20]], [[sb/7/10/24#purport|SB 7.10.24]], [[sb/7/10/33-33#purport|SB 7.10.33-33]]
 * prison visited by, analogy of, [[sb/1/2/28-29#purport|SB 1.2.28-29]]
@@ -126,6 +127,7 @@
 * true & false, [[sb/1/13/18#purport|SB 1.13.18]]
 * under Jarāsandha freed, [[sb/1/15/9#purport|SB 1.15.9]]
 * Vaiṣṇavas above, [[sb/4/21/12#purport|SB 4.21.12]], [[sb/4/21/43#purport|SB 4.21.43]]
+* Vāmana &, [[sb/8/18/14-15#purport|SB 8.18.14-15]]
 * Vedic, compared with modern politicians, [[sb/5/1/22#purport|SB 5.1.22]]
 * Vedic, compared with modern, [[sb/1/16/1#purport|SB 1.16.1]], [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/17/13#purport|SB 1.17.13]]
 * Vikukṣi as, [[sb/9/6/11#purport|SB 9.6.11]]
@@ -134,6 +136,6 @@
 * wives & children of, [[sb/9/18/29#purport|SB 9.18.29]]
 * Yayāti as, [[sb/9/18/3#purport|SB 9.18.3]], [[sb/9/18/4#purport|SB 9.18.4]]
 
-*See also:* [[g#Government|Government]]; [[k#Kṣatriyas|Kṣatriyas]]; specific kings; Political leaders; Governments; leaders of; [[l#leaders|leaders]]; [[p#Politicians|Politicians]]; Government leaders; [[l#Leaders|Leaders]]; [[g#government|government]]; [[m#Monarchy|Monarchy]]
+*See also:* [Government](entries/governments.md); Kṣatriyas; Political leaders; specific kings; Governments; Government leaders; leaders of; leaders; Politicians; Leaders; [government](entries/governments.md); [Monarchy](entries/monarchy.md)
 
-*See:* Governments; [[k#Kṣatriyas|Kṣatriyas]]; specific kings
+*See:* Governments; Kṣatriyas; specific kings

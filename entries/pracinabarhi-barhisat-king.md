@@ -12,6 +12,7 @@
 * compared to deer, [[sb/4/29/53-55#purport|SB 4.29.53-55]]
 * compared with Purañjana, [[sb/4/25/9-29/85#purport|SB 4.25.9-29.85]]
 * entangled in fruitive work, [[sb/4/25/1-5#purport|SB 4.25.1-5]]
+* kingdom left to, [[sb/4/29/81-81#purport|SB 4.29.81-81]]
 * liberation of, [[sb/4/29/82-82#purport|SB 4.29.82-82]]
 * Nārada chastises, [[sb/4/29/49#purport|SB 4.29.49]]
 * Nārada instructs, [[sb/4/25/4#purport|SB 4.25.4]], [[sb/4/25/7-28/65#purport|SB 4.25.7-28.65]], [[sb/4/29/2-55#purport|SB 4.29.2-55]], [[sb/4/29/60-79#purport|SB 4.29.60-79]], [[sb/4/29/1#purport|SB 4.29.1]]a-2b, [[sb/4/30/1#purport|SB 4.30.1]]
@@ -22,9 +23,11 @@
 * reluctant to accept Nārada’s instructions, [[sb/4/29/52#purport|SB 4.29.52]]
 * renunciation by, [[sb/4/29/81-81#purport|SB 4.29.81-81]]
 * sacrifices by, [[sb/4/24/9#purport|SB 4.24.9]], [[sb/4/24/10#purport|SB 4.24.10]]
+* Śiva worshiped by, [[sb/4/25/1#purport|SB 4.25.1]]
 * sons of, [[sb/4/29/52#purport|SB 4.29.52]], [[sb/4/30/2#purport|SB 4.30.2]]
-* sons of. See: Pracetās 
 * spiritual master of, [[sb/4/29/52#purport|SB 4.29.52]]
 * story of, as allegory, [[sb/4/29/1-1#purport|SB 4.29.1-1]]
 * story of, benedictions for hearing, [[sb/4/29/83-85#purport|SB 4.29.83-85]]
 * teachers of, [[sb/4/29/56-57#purport|SB 4.29.56-57]]
+
+*See also:* Pracetās

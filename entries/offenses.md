@@ -2,7 +2,7 @@
 
 * ”mad elephant” offense, [[sb/4/26/24#purport|SB 4.26.24]]
 * against devotees, [[sb/2/7/4#purport|SB 2.7.4]]
-* Arjuna &,  11.41, [[bg/11/44|Bg. 11.44]], [[bg/11/45|Bg. 11.45]]
+* Arjuna &, 11.41, [[bg/11/44|Bg. 11.44]], [[bg/11/45|Bg. 11.45]]
 * as impediment to devotional service, [[sb/5/1/5#purport|SB 5.1.5]]
 * avoidance of, [[sb/4/11/34#purport|SB 4.11.34]]
 * bad effects of, [[sb/7/8/3-4#purport|SB 7.8.3-4]]
@@ -31,9 +31,9 @@
 * heart hardened via, [[sb/2/3/24#purport|SB 2.3.24]]
 * immunity from, [[sb/2/8/7#purport|SB 2.8.7]]
 * in chanting Lord’s name, [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/24/30#purport|SB 4.24.30]]
-* in chanting. See: Chanting holy name(s) of Lord, offenses ... 
-* in Deity worship, advice for avoiding, [[sb/9/6/8#purport|SB 9.6.8]]
+* in chanting. See: Chanting holy name(s) of Lord, offenses ...
 * in Deity worship, [[sb/4/7/17#purport|SB 4.7.17]], [[sb/4/13/28#purport|SB 4.13.28]]
+* in Deity worship, advice for avoiding, [[sb/9/6/8#purport|SB 9.6.8]]
 * in devotional service, [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/24/59#purport|SB 4.24.59]]
 * in spiritual world possible, [[sb/3/16/2#purport|SB 3.16.2]]
 * in Vṛndāvana, [[sb/9/19/19#purport|SB 9.19.19]]
@@ -47,7 +47,9 @@
 * of Dakṣa, [[sb/4/30/48#purport|SB 4.30.48]]
 * of demons to real religion, [[bg/16/18|Bg. 16.18]]
 * of deriding Kṛṣṇa, [[bg/9/11–12|Bg. 9.11–12]]
-* of familiarity with Kṛṣṇa 
+* of familiarity with Kṛṣṇa
+  * Arjuna begs forgiveness for, [[bg/11/41|Bg. 11.41]], [[bg/11/44|Bg. 11.44]]
+  * Arjuna fears, [[bg/11/45|Bg. 11.45]]
 * of faultfinding, [[bg/16/1|Bg. 16.1]] (15)
 * of Kārtavīryārjuna to Paraśurāma, [[sb/9/15/23#purport|SB 9.15.23]], [[sb/9/15/24#purport|SB 9.15.24]], [[sb/9/15/27-28#purport|SB 9.15.27-28]]
 * of Saubhari Muni to Garuḍa, [[sb/9/6/49#purport|SB 9.6.49]]
@@ -55,8 +57,8 @@
 * penalty for, [[sb/7/4/28#purport|SB 7.4.28]]
 * punished by Lord, [[sb/4/31/21-21#purport|SB 4.31.21-21]]
 * punishment by Kālī for, [[sb/5/9/19#purport|SB 5.9.19]]
-* punishment for, as good, [[sb/4/6/4#purport|SB 4.6.4]]
 * punishment for, [[sb/3/15/36#purport|SB 3.15.36]]
+* punishment for, as good, [[sb/4/6/4#purport|SB 4.6.4]]
 * pure devotee’s chanting free of, [[sb/1/18/19#purport|SB 1.18.19]]
 * ten listed, [[sb/3/15/25#purport|SB 3.15.25]]
 * to Ambarīṣa Mahārāja, [[sb/4/31/21#purport|SB 4.31.21]]
@@ -69,14 +71,22 @@
 * to demigods, [[sb/6/17/9#purport|SB 6.17.9]]
 * to devotees (Vaiṣṇavas), [[sb/4/9/23#purport|SB 4.9.23]], [[sb/4/14/32#purport|SB 4.14.32]], [[sb/4/19/37#purport|SB 4.19.37]]
 * to devotees, [[bg/10/11|Bg. 10.11]], [[sb/3/9/12#purport|SB 3.9.12]], [[sb/3/15/35#purport|SB 3.15.35]], [[sb/3/15/39#purport|SB 3.15.39]], [[sb/4/20/18#purport|SB 4.20.18]], [[sb/4/21/37-37#purport|SB 4.21.37-37]], [[sb/4/31/21-21#purport|SB 4.31.21-21]], [[sb/6/17/15#purport|SB 6.17.15]], [[sb/9/4/62#purport|SB 9.4.62]], [[sb/9/4/68-69#purport|SB 9.4.68-69]], [[sb/9/4/71#purport|SB 9.4.71]], [[sb/9/6/49#purport|SB 9.6.49]], [[sb/9/9/6#purport|SB 9.9.6]], [[sb/9/11/23#purport|SB 9.11.23]]
+  * by Kurus, [[bg/1/32|Bg. 1.32]]
+  * Kṛṣṇa doesn’t excuse, [[bg/1/32|Bg. 1.32]]
+  * Kṛṣṇa forbids, [[bg/9/30|Bg. 9.30]]
 * to devotees, effect of, [[sb/4/2/19#purport|SB 4.2.19]], [[sb/4/4/13-13#purport|SB 4.4.13-13]]
-* to devotees. See: Devotees, offenses to 
 * to Draupadī, [[bg/11/49|Bg. 11.49]], [[sb/2/5/17#purport|SB 2.5.17]]
 * to great souls, [[sb/4/4/13-13#purport|SB 4.4.13-13]]
 * to holy name, [[sb/2/1/11#purport|SB 2.1.11]], [[sb/2/4/15#purport|SB 2.4.15]]
-* to Kṛṣṇa 
+* to Kṛṣṇa
+  * *See also:* Kṛṣṇa; derision of
+  * Arjuna fears, [[bg/11/45|Bg. 11.45]]
+  * Arjuna prays for forgiveness for, [[bg/11/41|Bg. 11.41]], [[bg/11/44|Bg. 11.44]]
+  * of envy, [[bg/18/67|Bg. 18.67]]
+  * of thinking demigods equal to Him, [[bg/10/42|Bg. 10.42]]
+  * reactions for, [[bg/9/12|Bg. 9.12]]
 * to Lord by impersonalists, [[sb/4/20/27#purport|SB 4.20.27]]
-* to Lord, [[sb/3/4/34#purport|SB 3.4.34]], [[sb/3/5/45#purport|SB 3.5.45]], [[sb/4/14/32#purport|SB 4.14.32]], [[sb/4/14/33#purport|SB 4.14.33]], [[sb/4/19/37#purport|SB 4.19.37]], [[sb/4/20/27#purport|SB 4.20.27]], [[sb/4/30/36#purport|SB 4.30.36]], SB Intro 36, [[sb/1/15/10#purport|SB 1.15.10]]
+* to Lord, SB Intro 36, [[sb/1/15/10#purport|SB 1.15.10]], [[sb/3/4/34#purport|SB 3.4.34]], [[sb/3/5/45#purport|SB 3.5.45]], [[sb/4/14/32#purport|SB 4.14.32]], [[sb/4/14/33#purport|SB 4.14.33]], [[sb/4/19/37#purport|SB 4.19.37]], [[sb/4/20/27#purport|SB 4.20.27]], [[sb/4/30/36#purport|SB 4.30.36]]
 * to pure devotee, [[sb/2/2/30#purport|SB 2.2.30]], [[sb/3/3/24#purport|SB 3.3.24]]
 * to pure devotees, [[sb/4/31/21#purport|SB 4.31.21]], [[sb/7/8/3-4#purport|SB 7.8.3-4]]
 * to real religion, [[bg/16/18|Bg. 16.18]]
@@ -90,4 +100,4 @@
 * via thinking Lord mundane, [[sb/4/8/57#purport|SB 4.8.57]]
 * worst kind of, [[sb/2/1/12#purport|SB 2.1.12]]
 
-*See also:* [[f#Falldown|Falldown]]; Sins
+*See also:* [Blasphemy](entries/blasphemy.md); [Falldown](entries/falldown.md); Sins

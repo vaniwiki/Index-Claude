@@ -1,11 +1,10 @@
 # Regulative principles
 
-[[cc/adi/4/26#purport|Ādi 4.26]], **[[cc/antya/10/6#translation|Antya 10.6]]**, [[cc/antya/13/37#purport|Antya 13.37]], [[cc/antya/2/120#purport|Antya 2.120]], [[cc/antya/4/70#purport|Antya 4.70]], **[[cc/madhya/11/112#translation|Madhya 11.112]]**, [[cc/madhya/15/106#purport|Madhya 15.106]], **[[cc/madhya/15/110#translation|Madhya 15.110]]**, [[cc/madhya/19/152#purport|Madhya 19.152]], [[cc/madhya/19/156#purport|Madhya 19.156]], [[cc/madhya/19/157#purport|Madhya 19.157]], [[cc/madhya/19/159#purport|Madhya 19.159]], **[[cc/madhya/22/26#translation|Madhya 22.26]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], [[cc/madhya/8/255#purport|Madhya 8.255]], **[[cc/madhya/9/266#translation|Madhya 9.266]]**
+[[bg/18/78|Bg. 18.78]] (4), **[[cc/madhya/15/110#translation|Madhya 15.110]]**, [[cc/madhya/19/152#purport|Madhya 19.152]], [[cc/madhya/15/106#purport|Madhya 15.106]], [[cc/madhya/8/255#purport|Madhya 8.255]], **[[cc/madhya/9/266#translation|Madhya 9.266]]**, [[cc/madhya/19/156#purport|Madhya 19.156]], [[cc/madhya/19/157#purport|Madhya 19.157]], [[cc/madhya/19/159#purport|Madhya 19.159]], [[cc/madhya/24/94#purport|Madhya 24.94]], [[cc/antya/2/120#purport|Antya 2.120]], [[cc/antya/4/70#purport|Antya 4.70]], [[cc/adi/4/26#purport|Ādi 4.26]], **[[cc/madhya/22/26#translation|Madhya 22.26]]**, **[[cc/madhya/11/112#translation|Madhya 11.112]]**, **[[cc/antya/10/6#translation|Antya 10.6]]**, [[cc/antya/13/37#purport|Antya 13.37]], [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/29/4#purport|SB 4.29.4]], [[sb/4/29/61#purport|SB 4.29.61]]
 
 * ācārya recommends following, [[cc/antya/13/133#purport|Antya 13.133]]
-* as “principles of freedom,” 2.64
+* as “principles of freedom,”, 2.64
 * Bengali devotees’ arrival in Purī &, **[[cc/madhya/11/105–18#translation|Madhya 11.105–18]]**
-*  [[bg/18/78|Bg. 18.78]] (4), [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/29/4#purport|SB 4.29.4]], [[sb/4/29/61#purport|SB 4.29.61]]
 * by Haridāsa Ṭhākura, [[sb/5/9/4#purport|SB 5.9.4]]
 * by Mādhavendra Purī, [[sb/5/9/4#purport|SB 5.9.4]]
 * chanting Lord’s name &, [[cc/adi/7/76#purport|Ādi 7.76]], [[cc/adi/7/83#purport|Ādi 7.83]]
@@ -54,6 +53,6 @@
 * Vṛndāvana residents &, [[cc/adi/5/232#purport|Ādi 5.232]]
 * worship to Lord as, [[sb/4/2/35#purport|SB 4.2.35]]
 
-*See also:* [[s#Scriptures|Scriptures]]; regulations of; [[d#Devotional service to Lord|Devotional service to Lord]]; [[r#Religion|Religion]]; [[v#Vedic injunctions|Vedic injunctions]]; [[r#Religious principles|Religious principles]]
+*See also:* [Religion](entries/religions.md); Vedic injunctions; Devotional service to Lord; Religious principles; Scriptures; regulations of
 
-*See:* [[r#Religious principles|Religious principles]]
+*See:* Religious principles

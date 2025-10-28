@@ -126,9 +126,9 @@
 
 ### [Uddhava](entries/uddhava.md)
 
-**[[cc/adi/13/41#translation|Ādi 13.41]]**, [[cc/adi/17/250#purport|Ādi 17.250]], **[[cc/adi/4/163#translation|Ādi 4.163]]**...
+**[[cc/adi/4/163#translation|Ādi 4.163]]**...
 
-* as faithful, [[sb/3/4/28#purport|SB 3.4.28]]
+* as faithful,, [[sb/3/4/28#purport|SB 3.4.28]]
 
 *→ See all 52 references in* [Uddhava](entries/uddhava.md)
 
@@ -279,7 +279,7 @@
 ### Ugraśravā
 
 
-*See:* [[s#Sūta Gosvāmī|Sūta Gosvāmī]]
+*See:* Sūta Gosvāmī
 
 ---
 
@@ -287,10 +287,7 @@
 
 ### [Ujjvala-nīlamaṇi](entries/ujjvala-nilamani.md)
 
-[[cc/adi/10/84#purport|Ādi 10.84]], [[cc/adi/10/85#purport|Ādi 10.85]], **[[cc/adi/17/293#translation|Ādi 17.293]]**...
-
-
-*→ See all 29 references in* [Ujjvala-nīlamaṇi](entries/ujjvala-nilamani.md)
+**[[cc/adi/4/70#translation|Ādi 4.70]]**
 
 ---
 
@@ -321,9 +318,9 @@
 
 ### [Umā](entries/uma.md)
 
-[[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/8/7/33#purport|SB 8.7.33]]...
+[[sb/2/3/2-7#purport|SB 2.3.2-7]]...
 
-* as Śiva’s wife, [[sb/8/12/1-2#purport|SB 8.12.1-2]], [[sb/8/12/22#purport|SB 8.12.22]]
+* as Śiva’s wife,, [[sb/8/12/1-2#purport|SB 8.12.1-2]], [[sb/8/12/22#purport|SB 8.12.22]]
 
 *→ See all 7 references in* [Umā](entries/uma.md)
 
@@ -361,7 +358,7 @@
 
 ### [Understanding](entries/understanding.md)
 
-* in goodness mode, [[bg/18/30|Bg. 18.30]]
+* in goodness mode,, [[bg/18/30|Bg. 18.30]]
 
 *→ See all 6 references in* [Understanding](entries/understanding.md)
 
@@ -370,7 +367,7 @@
 ### Unhappiness
 
 
-*See:* [[s#Suffering|Suffering]]
+*See:* [Suffering](entries/sufferings.md)
 
 ---
 
@@ -379,7 +376,7 @@
 * acceptance of, as Lord’s mercy, [[sb/4/8/29#purport|SB 4.8.29]]
 * material vs. spiritual, [[sb/4/3/15#purport|SB 4.3.15]]
 
-*See also:* [[s#Suffering|Suffering]]
+*See also:* [Suffering](entries/sufferings.md)
 
 ---
 
@@ -390,10 +387,9 @@
 
 ---
 
-### United Nations
+### [United Nations](entries/united-nations.md)
 
-[[cc/madhya/25/193#purport|Madhya 25.193]], [[sb/3/1/20#purport|SB 3.1.20]], [[sb/4/18/3#purport|SB 4.18.3]], [[sb/4/30/8#purport|SB 4.30.8]], [[sb/5/18/27#purport|SB 5.18.27]], [[sb/8/1/10#purport|SB 8.1.10]]
-
+[[cc/madhya/25/193#purport|Madhya 25.193]]
 
 ---
 
@@ -426,30 +422,32 @@
 
 *  [[sb/6/8/32-33#purport|SB 6.8.32-33]], [[sb/6/8/32-33#purport|SB 6.8.32-33]]
 
-*See also:* [[o#Oneness|Oneness]]
+*See also:* [Oneness](entries/oneness.md)
 
 ---
 
 ### Unity, 7
 
 
-*See also:* [[p#Peace|Peace]]
+*See also:* [Peace](entries/peace.md)
 
 ---
 
 ### [Universal form of Lord](entries/universal-form-of-lord.md)
 
-[[sb/3/32/26#purport|SB 3.32.26]], [[sb/4/6/44#purport|SB 4.6.44]], [[sb/5/18/31#purport|SB 5.18.31]]...
+[[bg/9/11|Bg. 9.11]] (5)...
 
-* appearance of bodily parts of, [[sb/3/26/54-61#purport|SB 3.26.54-61]]
+* appearance of bodily parts of,, [[sb/3/26/54-61#purport|SB 3.26.54-61]]
 
-*→ See all 59 references in* [Universal form of Lord](entries/universal-form-of-lord.md)
+*→ See all 89 references in* [Universal form of Lord](entries/universal-form-of-lord.md)
 
 ---
 
 ### [Universal form of Supreme Lord](entries/universal-form-of-supreme-lord.md)
 
-* abdomen of, [[sb/8/7/28#purport|SB 8.7.28]]
+[[sb/1/3/3#purport|SB 1.3.3]], [[sb/1/3/30-32#purport|SB 1.3.30-32]], [[sb/1/7/52#purport|SB 1.7.52]]...
+
+* abdomen of,, [[sb/8/7/28#purport|SB 8.7.28]]
 
 *→ See all 106 references in* [Universal form of Supreme Lord](entries/universal-form-of-supreme-lord.md)
 
@@ -457,7 +455,7 @@
 
 ### [Universal forms creation](entries/universal-forms-creation.md)
 
-* of abdomen, [[sb/2/10/29#purport|SB 2.10.29]]
+* of abdomen,, [[sb/2/10/29#purport|SB 2.10.29]]
 
 *→ See all 40 references in* [Universal forms creation](entries/universal-forms-creation.md)
 
@@ -472,17 +470,17 @@
 ### Universe
 
 
-*See:* [[c#Creation|Creation]]; the; [[m#Material world|Material world]]
+*See:* [Creation](entries/creation.md); the; Material world
 
 ---
 
 ### [Universe(s)](entries/universes.md)
 
-**[[cc/adi/5/119#translation|Ādi 5.119]]**, **[[cc/madhya/21/84–85#translation|Madhya 21.84–85]]**, **[[cc/madhya/22/8#translation|Madhya 22.8]]**...
+**[[cc/madhya/22/8#translation|Madhya 22.8]]**, **[[cc/madhya/20/278–82#translation|Madhya 20.278–82]]**...
 
-* ”dawn” of, [[sb/2/5/21#purport|SB 2.5.21]]
+* ”dawn” of,, [[sb/2/5/21#purport|SB 2.5.21]]
 
-*→ See all 358 references in* [Universe(s)](entries/universes.md)
+*→ See all 413 references in* [Universe(s)](entries/universes.md)
 
 ---
 
@@ -516,7 +514,7 @@
 ### Untruthfulness
 
 
-*See:* [[f#Falsity|Falsity]]; Liars
+*See:* Falsity; Liars
 
 ---
 
@@ -550,10 +548,9 @@
 
 ---
 
-### Upadeśāmṛta
+### [Upadeśāmṛta](entries/upadesamrta.md)
 
-[[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/7/18–19#purport|Ādi 7.18–19]], [[cc/madhya/12/195#purport|Madhya 12.195]], [[cc/madhya/15/111#purport|Madhya 15.111]], [[cc/madhya/16/72#purport|Madhya 16.72]], [[cc/madhya/19/102#purport|Madhya 19.102]], [[cc/madhya/19/157#purport|Madhya 19.157]], [[cc/madhya/24/330#purport|Madhya 24.330]], [[cc/madhya/3/6#purport|Madhya 3.6]]
-
+[[cc/adi/2/117#purport|Ādi 2.117]]
 
 ---
 
@@ -690,11 +687,11 @@
 
 ### [Upaniṣad(s)](entries/upanisads.md)
 
-[[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/2/19#purport|Ādi 2.19]], [[cc/adi/2/37#purport|Ādi 2.37]]...
+[[bg/4/8|Bg. 4.8]], [[bg/4/28|Bg. 4.28]], [[bg/7/3|Bg. 7.3]], [[bg/7/24|Bg. 7.24]] (1), [[bg/11/48|Bg. 11.48]]...
 
-* *Gītopaniṣad *as, 2 
+* *Gītopaniṣad *as, 2
 
-*→ See all 53 references in* [Upaniṣad(s)](entries/upanisads.md)
+*→ See all 56 references in* [Upaniṣad(s)](entries/upanisads.md)
 
 ---
 
@@ -961,7 +958,7 @@
 [[sb/1/7/10#purport|SB 1.7.10]]
 
 
-*See:* [[v#Vāmanadeva|Vāmanadeva]]
+*See:* Vāmanadeva
 
 ---
 
@@ -1007,20 +1004,13 @@
 
 ---
 
-### [Urvaśī](entries/urvasi.md)
+### [Urvaśīs](entries/urvasis.md)
 
-[[cc/adi/1/59#purport|Ādi 1.59]], [[sb/1/12/21#purport|SB 1.12.21]], [[sb/6/18/6#purport|SB 6.18.6]]...
+[[cc/adi/1/59#purport|Ādi 1.59]]...
 
-* beauty of, [[sb/9/14/23#purport|SB 9.14.23]]
+* beauty of,, [[sb/9/14/23#purport|SB 9.14.23]]
 
-*→ See all 11 references in* [Urvaśī](entries/urvasi.md)
-
----
-
-### Urvaśīs
-
-[[sb/2/3/2-7#purport|SB 2.3.2-7]]
-
+*→ See all 14 references in* [Urvaśīs](entries/urvasis.md)
 
 ---
 
@@ -1135,9 +1125,9 @@
 
 ### [Utkala](entries/utkala.md)
 
-[[cc/adi/1/19#purport|Ādi 1.19]], [[cc/madhya/18/134#purport|Madhya 18.134]], [[sb/5/15/14-15#purport|SB 5.15.14-15]]...
+[[cc/adi/1/19#purport|Ādi 1.19]]...
 
-* Dhruva’s kingdom didn’t interest, [[sb/4/13/6#purport|SB 4.13.6]]
+* Dhruva’s kingdom didn’t interest,, [[sb/4/13/6#purport|SB 4.13.6]]
 
 *→ See all 11 references in* [Utkala](entries/utkala.md)
 
@@ -1197,10 +1187,9 @@
 
 ---
 
-### Uttama-adhikārī
+### [Uttama-adhikārī](entries/uttama-adhikari.md)
 
-[[cc/adi/7/51#purport|Ādi 7.51]], **[[cc/madhya/16/74#translation|Madhya 16.74]]**, [[cc/madhya/20/328#purport|Madhya 20.328]], **[[cc/madhya/22/65–66#translation|Madhya 22.65–66]]**, [[cc/madhya/22/71#purport|Madhya 22.71]], **[[cc/madhya/22/72#translation|Madhya 22.72]]**
-
+[[cc/adi/7/51#purport|Ādi 7.51]]
 
 ---
 
@@ -1283,19 +1272,19 @@
 
 ### [Uttānapāda, King](entries/uttanapada-king.md)
 
-[[sb/4/9/19#purport|SB 4.9.19]]...
+[[sb/3/12/56#purport|SB 3.12.56]], [[sb/3/14/6#purport|SB 3.14.6]]...
 
-* addressed by Nārada, [[sb/4/8/64#purport|SB 4.8.64]], [[sb/4/8/68-69#purport|SB 4.8.68-69]]
+* addressed by Nārada,, [[sb/4/8/64#purport|SB 4.8.64]], [[sb/4/8/68-69#purport|SB 4.8.68-69]]
 
-*→ See all 23 references in* [Uttānapāda, King](entries/uttanapada-king.md)
+*→ See all 26 references in* [Uttānapāda, King](entries/uttanapada-king.md)
 
 ---
 
 ### [Uttarā](entries/uttara.md)
 
-[[sb/2/4/1#purport|SB 2.4.1]], [[sb/3/3/17#purport|SB 3.3.17]], [[sb/9/22/33#purport|SB 9.22.33]]...
+[[sb/2/4/1#purport|SB 2.4.1]]...
 
-* Arjuna music teacher of, [[sb/1/12/21#purport|SB 1.12.21]]
+* Arjuna music teacher of,, [[sb/1/12/21#purport|SB 1.12.21]]
 
 *→ See all 10 references in* [Uttarā](entries/uttara.md)
 

@@ -1,9 +1,9 @@
 # Kṣatriya(s)
 
-[[cc/adi/10/50#purport|Ādi 10.50]], [[cc/adi/13/118#purport|Ādi 13.118]], [[cc/adi/13/82#purport|Ādi 13.82]], [[cc/adi/14/58#purport|Ādi 14.58]], [[cc/adi/17/213#purport|Ādi 17.213]], [[cc/adi/17/253#purport|Ādi 17.253]], [[cc/adi/9/46#purport|Ādi 9.46]], [[cc/antya/13/34#purport|Antya 13.34]], [[bg/2/29–30|Bg. 2.29–30]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/madhya/8/36#purport|Madhya 8.36]], [[cc/madhya/8/58#purport|Madhya 8.58]], [[cc/madhya/8/61#purport|Madhya 8.61]]
+[[bg/2/29–30|Bg. 2.29–30]], [[cc/adi/9/46#purport|Ādi 9.46]], [[cc/adi/10/50#purport|Ādi 10.50]], [[cc/adi/13/82#purport|Ādi 13.82]], [[cc/adi/13/118#purport|Ādi 13.118]], [[cc/adi/14/58#purport|Ādi 14.58]], [[cc/adi/17/213#purport|Ādi 17.213]], [[cc/adi/17/253#purport|Ādi 17.253]], [[cc/madhya/8/36#purport|Madhya 8.36]], [[cc/madhya/8/58#purport|Madhya 8.58]], [[cc/madhya/8/61#purport|Madhya 8.61]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/antya/13/34#purport|Antya 13.34]], [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/26/4#purport|SB 4.26.4]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/29/81#purport|SB 4.29.81]]
 
 * *sannyāsa *&, [[bg/2/31|Bg. 2.31]]
-* *sūrya-vaṁśa,* 4.1 (5)
+* *sūrya-vaṁśa,*, 4.1 (5)
 * Americans not, [[sb/4/8/36#purport|SB 4.8.36]]
 * animal food forbidden to, in śrāddha ceremony, [[sb/7/15/7#purport|SB 7.15.7]]
 * animals killed by, [[bg/2/31|Bg. 2.31]]
@@ -27,7 +27,7 @@
 * blasphemy if heard by, [[sb/4/4/17#purport|SB 4.4.17]]
 * boys trained as, [[sb/4/8/36#purport|SB 4.8.36]]
 * brāhmaṇa’s relationship to, [[sb/3/21/56#purport|SB 3.21.56]], [[sb/3/22/3-4#purport|SB 3.22.3-4]], [[sb/3/22/4#purport|SB 3.22.4]]
-* brāhmaṇas 
+* brāhmaṇas
 * brāhmaṇas advise, [[sb/4/22/46#purport|SB 4.22.46]]
 * brāhmaṇas born from, [[sb/9/20/1#purport|SB 9.20.1]]
 * brāhmaṇas guide, [[sb/4/14/17#purport|SB 4.14.17]], [[sb/9/15/15#purport|SB 9.15.15]]
@@ -45,6 +45,7 @@
 * Dhārṣṭas, became brāhmaṇas, [[sb/9/2/17#purport|SB 9.2.17]]
 * Dhruva as, [[sb/4/8/26#purport|SB 4.8.26]], [[sb/4/11/11#purport|SB 4.11.11]], [[sb/4/12/43#purport|SB 4.12.43]]
 * diplomacy sometimes required of, [[bg/18/47|Bg. 18.47]]
+* directors of, [[sb/1/3/20#purport|SB 1.3.20]]
 * discussed by Nārada, [[sb/4/8/26#purport|SB 4.8.26]]
 * disqualification for, [[sb/7/6/5#purport|SB 7.6.5]]
 * drinking interests, [[sb/9/2/28#purport|SB 9.2.28]]
@@ -88,6 +89,7 @@
 * jewels gathered by, [[sb/4/19/9#purport|SB 4.19.9]]
 * kidnap-marriage by, [[sb/3/22/16#purport|SB 3.22.16]]
 * killing by, [[bg/18/47|Bg. 18.47]], [[sb/3/21/50#purport|SB 3.21.50]], [[sb/4/11/7#purport|SB 4.11.7]]
+  * training for, [[bg/2/31|Bg. 2.31]]
 * kings as, [[sb/4/20/26#purport|SB 4.20.26]]
 * Kṛṣṇa’s role as, [[bg/3/22–23|Bg. 3.22–23]]
 * lionlike, [[sb/4/16/23#purport|SB 4.16.23]]
@@ -102,6 +104,7 @@
 * mercy by, [[bg/16/1|Bg. 16.1]] (16)
 * money &, [[sb/5/26/36#purport|SB 5.26.36]]
 * next life for, [[bg/1/31|Bg. 1.31]], [[bg/2/37|Bg. 2.37]]
+* not to be offended by, [[sb/1/7/48#purport|SB 1.7.48]]
 * occupation for, [[bg/1/31|Bg. 1.31]], [[bg/18/47–48|Bg. 18.47–48]]
 * of Kuru army, [[bg/1/8–10|Bg. 1.8–10]], [[bg/1/25–26|Bg. 1.25–26]]
 * of Pāṇḍava army, [[bg/1/3–5|Bg. 1.3–5]], [[bg/1/10|Bg. 1.10]], [[bg/1/14–19|Bg. 1.14–19]]
@@ -116,6 +119,9 @@
 * present-day, [[sb/3/22/16#purport|SB 3.22.16]]
 * pride in, [[sb/4/8/26#purport|SB 4.8.26]]
 * principles for, [[bg/1/31|Bg. 1.31]], [[bg/2/3|Bg. 2.3]], [[bg/2/26|Bg. 2.26]]
+  * accepting challenge, [[bg/1/37–38|Bg. 1.37–38]]
+  * in fighting with an unarmed or unwilling foe, [[bg/1/45|Bg. 1.45]]
+* protected by, [[sb/1/12/19#purport|SB 1.12.19]]
 * protected people, [[sb/4/17/9#purport|SB 4.17.9]]
 * protection by, [[sb/1/12/20#purport|SB 1.12.20]], [[sb/1/14/41#purport|SB 1.14.41]], [[sb/1/18/33#purport|SB 1.18.33]]
 * Pṛthu as, [[sb/4/21/52-52#purport|SB 4.21.52-52]]
@@ -125,13 +131,12 @@
 * qualifications for, two given, [[sb/4/8/26#purport|SB 4.8.26]]
 * qualifications of, [[sb/8/19/4#purport|SB 8.19.4]]
 * qualities of work of, [[bg/18/43|Bg. 18.43]]
-* qualities of, [[bg/2/1|Bg. 2.1]], [[bg/2/31|Bg. 2.31]], [[sb/10/12/43#purport|SB 10.12.43]], [[sb/9/11/5#purport|SB 9.11.5]], [[sb/9/15/10#purport|SB 9.15.10]], [[sb/9/15/40#purport|SB 9.15.40]], [[sb/9/16/28#purport|SB 9.16.28]], [[sb/9/18/32#purport|SB 9.18.32]]
+* qualities of, [[bg/2/1|Bg. 2.1]], [[bg/2/31|Bg. 2.31]], [[sb/9/11/5#purport|SB 9.11.5]], [[sb/9/15/10#purport|SB 9.15.10]], [[sb/9/15/40#purport|SB 9.15.40]], [[sb/9/16/28#purport|SB 9.16.28]], [[sb/9/18/32#purport|SB 9.18.32]], [[sb/10/12/43#purport|SB 10.12.43]]
 * quality & duty of, [[sb/3/1/8#purport|SB 3.1.8]], [[sb/3/6/31-32#purport|SB 3.6.31-32]]
 * Rāma as, [[sb/9/11/5#purport|SB 9.11.5]]
 * revenue for, [[sb/7/11/14#purport|SB 7.11.14]]
 * Ṛṣabhadeva’s sons born as, [[sb/5/4/13#purport|SB 5.4.13]]
 * rules of killing for, [[sb/1/7/36#purport|SB 1.7.36]]
-*  [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/26/4#purport|SB 4.26.4]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/29/81#purport|SB 4.29.81]]
 * scarcity of, in Kali-yuga, [[sb/7/2/11#purport|SB 7.2.11]]
 * sexual duty of, [[sb/9/18/32#purport|SB 9.18.32]]
 * sinful activities by, [[sb/4/22/13#purport|SB 4.22.13]]
@@ -140,6 +145,7 @@
 * sporting spirit of, [[sb/4/10/9#purport|SB 4.10.9]]
 * strength required for, [[bg/16/1|Bg. 16.1]] (16)
 * success in life for, [[sb/6/3/13-13#purport|SB 6.3.13-13]]
+* superior to, [[sb/1/8/7#purport|SB 1.8.7]]
 * symptoms of, [[sb/7/11/22#purport|SB 7.11.22]]
 * tiger-fighting by, [[bg/2/31|Bg. 2.31]]
 * training of, [[sb/10/11/37#purport|SB 10.11.37]]
@@ -155,7 +161,7 @@
 * viṣṇu-tattva(s) worshiped by, [[sb/1/2/26#purport|SB 1.2.26]]
 * Viśvāmitra used to be, [[sb/9/7/7#purport|SB 9.7.7]]
 * Vivasvān as father of, [[bg/4/1|Bg. 4.1]] (5)
-* working as *brāhmaṇas,* 3.35 3.35
+* working as *brāhmaṇas,*, 3.35
 * Yayāti as, [[sb/9/18/5#purport|SB 9.18.5]]
 
-*See also:* [[p#Politicians|Politicians]]; [[v#Varṇāśrama-dharma system|Varṇāśrama-dharma system]]; specifics kṣatriya; [[g#Government|Government]]; Kings; Political leaders; Governments; leaders of; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; specific kṣatriyas; [[l#leaders|leaders]]; Governments leader
+*See also:* [Government](entries/governments.md); Kings; Political leaders; Governments; leaders of; Varṇāśrama-dharma; specific kṣatriyas; leaders; Governments leader; Politicians; specifics kṣatriya; Varṇāśrama-dharma system

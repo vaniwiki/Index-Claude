@@ -1,6 +1,6 @@
-# Scientist(s), modern
+# Scientists, modern
 
-[[cc/adi/14/1#purport|Ādi 14.1]], [[cc/adi/16/81#purport|Ādi 16.81]], [[cc/adi/17/106#purport|Ādi 17.106]], [[cc/adi/5/71#purport|Ādi 5.71]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/24/230#purport|Madhya 24.230]], [[cc/madhya/6/109#purport|Madhya 6.109]], [[cc/madhya/8/139#purport|Madhya 8.139]]
+[[cc/adi/5/71#purport|Ādi 5.71]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/6/109#purport|Madhya 6.109]], [[cc/adi/14/1#purport|Ādi 14.1]], [[cc/adi/16/81#purport|Ādi 16.81]], [[cc/adi/17/106#purport|Ādi 17.106]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/24/230#purport|Madhya 24.230]]
 
 * as cheaters, [[sb/5/14/26#purport|SB 5.14.26]]
 * as narādhamas, [[sb/5/14/27#purport|SB 5.14.27]]

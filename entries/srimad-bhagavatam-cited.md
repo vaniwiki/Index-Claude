@@ -1,15 +1,24 @@
 # Śrīmad-Bhāgavatam cited
 
-[[cc/adi/13/100#purport|Ādi 13.100]], [[cc/adi/13/86#purport|Ādi 13.86]], [[cc/adi/17/141#purport|Ādi 17.141]], [[cc/adi/17/212#purport|Ādi 17.212]], [[cc/adi/17/76#purport|Ādi 17.76]], **[[cc/adi/2/9#translation|Ādi 2.9]]**, [[cc/antya/11/105#purport|Antya 11.105]], [[cc/antya/4/70#purport|Antya 4.70]], [[cc/antya/5/122#purport|Antya 5.122]], [[cc/madhya/1/34#purport|Madhya 1.34]], [[cc/madhya/1/55#purport|Madhya 1.55]], [[cc/madhya/11/50#purport|Madhya 11.50]], [[cc/madhya/13/18#purport|Madhya 13.18]], [[cc/madhya/15/107#purport|Madhya 15.107]], [[cc/madhya/20/339#purport|Madhya 20.339]], [[cc/madhya/4/125#purport|Madhya 4.125]], [[cc/madhya/4/133#purport|Madhya 4.133]], [[cc/madhya/4/137#purport|Madhya 4.137]], [[cc/madhya/6/241#purport|Madhya 6.241]], [[cc/madhya/8/245#purport|Madhya 8.245]]
+[[cc/antya/5/122#purport|Antya 5.122]], [[cc/adi/17/212#purport|Ādi 17.212]], [[cc/madhya/1/34#purport|Madhya 1.34]], [[cc/madhya/4/125#purport|Madhya 4.125]], [[cc/madhya/6/241#purport|Madhya 6.241]], [[cc/madhya/8/245#purport|Madhya 8.245]], [[cc/madhya/11/50#purport|Madhya 11.50]], [[cc/madhya/15/107#purport|Madhya 15.107]], [[cc/antya/4/70#purport|Antya 4.70]], [[cc/antya/11/105#purport|Antya 11.105]], [[cc/adi/17/141#purport|Ādi 17.141]], [[cc/madhya/20/339#purport|Madhya 20.339]], [[cc/madhya/1/55#purport|Madhya 1.55]], **[[cc/adi/2/9#translation|Ādi 2.9]]**, [[cc/adi/13/86#purport|Ādi 13.86]], [[cc/adi/13/100#purport|Ādi 13.100]], [[cc/madhya/4/137#purport|Madhya 4.137]], [[cc/madhya/4/133#purport|Madhya 4.133]], [[cc/adi/17/76#purport|Ādi 17.76]], [[cc/madhya/13/18#purport|Madhya 13.18]]
 
-* aaŚrīmad-Bhāgavatam quoted 
+* aaŚrīmad-Bhāgavatam quoted
+* as actor, [[sb/5/18/26#purport|SB 5.18.26]]
 * as ātmārāmas, [[sb/4/20/29#purport|SB 4.20.29]]
+* as cause of Brahman & Paramātmā, [[sb/5/12/11#purport|SB 5.12.11]]
+* as permanent asset, [[sb/5/14/43#purport|SB 5.14.43]]
+* as transcendental, [[sb/5/1/23#purport|SB 5.1.23]], [[sb/5/1/11#purport|SB 5.1.11]]
+* at death, [[sb/5/14/45#purport|SB 5.14.45]]
 * attainment of, [[cc/madhya/4/186#purport|Madhya 4.186]]
 * cleansing, [[cc/madhya/12/135#purport|Madhya 12.135]]
+* dearness of, to Lord, [[sb/5/18/23#purport|SB 5.18.23]]
+* disturbances in, [[sb/5/26/27#purport|SB 5.26.27]]
 * elevation of, [[cc/madhya/23/105#purport|Madhya 23.105]]
-* on tattva-vit, 3.28 3.28
+* family exploitation in, [[sb/5/14/14#purport|SB 5.14.14]]
+* government heads in, [[sb/5/12/7#purport|SB 5.12.7]]
+* liberated souls engage in, [[sb/5/5/14#purport|SB 5.5.14]]
+* on Absolute Truth, SB Intro 2, [[sb/3/24/39#purport|SB 3.24.39]], [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/24/60#purport|SB 4.24.60]]
 * on Absolute Truth, different aspects of, [[sb/5/12/11#purport|SB 5.12.11]]
-* on Absolute Truth, [[sb/3/24/39#purport|SB 3.24.39]], [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/24/60#purport|SB 4.24.60]], SB Intro 2
 * on Absolute’s substance & categories, [[sb/1/1/2#purport|SB 1.1.2]]
 * on Ajāmila, [[sb/1/16/22#purport|SB 1.16.22]]
 * on astrology, [[sb/1/12/12#purport|SB 1.12.12]]
@@ -39,12 +48,11 @@
 * on devotee, [[cc/madhya/19/150#purport|Madhya 19.150]]
 * on devotee’s qualities, [[bg/2/55|Bg. 2.55]]
 * on devotee’s vision, [[cc/madhya/12/194#purport|Madhya 12.194]]
-* on devotee(s) 
+* on devotee(s)
 * on devotees & material world, [[sb/3/21/20#purport|SB 3.21.20]]
 * on devotees’ association, [[bg/17/26|Bg. 17.26]]
 * on devotees’ prayer, [[cc/adi/6/42#purport|Ādi 6.42]]
 * on devotional perfection, **[[cc/madhya/24/172#translation|Madhya 24.172]]**
-* on devotional service 
 * on devotional service, [[cc/adi/7/141#purport|Ādi 7.141]], [[cc/adi/8/20#purport|Ādi 8.20]], [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/25/43#purport|SB 3.25.43]], [[sb/4/12/13#purport|SB 4.12.13]]
 * on Dhṛtarāṣṭra’s death, [[sb/6/10/11#purport|SB 6.10.11]]
 * on disciple’s qualification, [[cc/madhya/24/330#purport|Madhya 24.330]]
@@ -72,7 +80,6 @@
 * on internal potency of Lord, [[sb/1/1/1#purport|SB 1.1.1]]
 * on jñāna & vijñāna, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
 * on jñānīs’ liberation, [[cc/madhya/19/148#purport|Madhya 19.148]]
-* on Kali-yuga 
 * on Kali-yuga marriage, [[sb/3/21/15#purport|SB 3.21.15]], [[sb/3/24/15#purport|SB 3.24.15]]
 * on Kali-yuga men, [[sb/4/19/24-25#purport|SB 4.19.24-25]]
 * on Kali-yuga, **[[cc/adi/3/50#translation|Ādi 3.50]]**, [[cc/adi/7/76#purport|Ādi 7.76]]
@@ -88,13 +95,13 @@
 * on Kṛṣṇa’s householder life, [[bg/3/23|Bg. 3.23]]
 * on Kumbhīpāka, [[cc/adi/17/307#purport|Ādi 17.307]]
 * on Kūrma Purāṇa, [[cc/madhya/9/200#purport|Madhya 9.200]]
-* on liberation & *nirvāṇa,* 6.20
+* on liberation & *nirvāṇa,*, 6.20
 * on life beyond Earth, [[sb/8/11/25#purport|SB 8.11.25]]
 * on life’s goal, [[cc/adi/7/146#purport|Ādi 7.146]], [[sb/5/13/19#purport|SB 5.13.19]]
 * on life’s necessities, [[sb/7/14/11#purport|SB 7.14.11]]
 * on living entities everywhere, [[sb/10/13/61#purport|SB 10.13.61]]
 * on living entity & body, [[sb/4/24/73#purport|SB 4.24.73]]
-* on Lord 
+* on Lord
 * on Lord & material energy, [[sb/3/26/4#purport|SB 3.26.4]]
 * on Lord in heart, [[sb/10/3/7-8#purport|SB 10.3.7-8]]
 * on Lord’s all-pervading knowledge, SB Intro 2
@@ -126,9 +133,9 @@
 * on pleasing Lord, [[sb/4/6/53#purport|SB 4.6.53]]
 * on Prahlāda, [[sb/1/12/25#purport|SB 1.12.25]], [[sb/1/15/16#purport|SB 1.15.16]]
 * on praise & criticism, [[cc/antya/8/79#purport|Antya 8.79]]
-* on pure devotee, Lord, & liberation, [[sb/4/12/9#purport|SB 4.12.9]]
 * on pure devotee, [[cc/madhya/11/58#purport|Madhya 11.58]]
-* on pure devotees’ pleasure, N105 
+* on pure devotee, Lord, & liberation, [[sb/4/12/9#purport|SB 4.12.9]]
+* on pure devotees’ pleasure, N105
 * on pure goodness, [[sb/3/19/30#purport|SB 3.19.30]]
 * on purification of lowborn, [[cc/antya/3/221#purport|Antya 3.221]]
 * on purification via hearing & chanting about Lord, [[sb/5/18/11#purport|SB 5.18.11]]
@@ -158,6 +165,7 @@
 * on superior’s responsibility to subordinate, [[sb/3/23/51#purport|SB 3.23.51]]
 * on Supersoul, form of, [[sb/5/7/7#purport|SB 5.7.7]]
 * on Supreme Lord, [[sb/3/24/33#purport|SB 3.24.33]]
+* on tattva-vit, 3.28
 * on training during childhood, [[sb/5/4/17#purport|SB 5.4.17]]
 * on transmigration to moon, [[bg/8/25|Bg. 8.25]]
 * on universe as Lord, [[sb/5/16/3#purport|SB 5.16.3]]
@@ -173,9 +181,15 @@
 * on worshiping Lord, [[sb/4/23/32#purport|SB 4.23.32]]
 * on yogīs, [[sb/5/2/5#purport|SB 5.2.5]]
 * phases of, [[cc/adi/7/138#purport|Ādi 7.138]], [[cc/madhya/6/139#purport|Madhya 6.139]]
-* Se also: Śrīmad-Bhāgavatam quoted 
-* Śrīmad-Bhāgavatam quoted , , , 
+* predictions about, [[sb/5/6/12#purport|SB 5.6.12]]
+* qualities of, [[sb/5/13/24#purport|SB 5.13.24]]
+* sacrifice for, [[sb/5/7/5#purport|SB 5.7.5]]
+* Se also: Śrīmad-Bhāgavatam quoted
+* shelter given by, [[sb/5/1/19#purport|SB 5.1.19]]
+* Śrīmad-Bhāgavatam quoted
+* symptoms of persons in, [[sb/5/16/20-21#purport|SB 5.16.20-21]]
+* taxation in, [[sb/5/13/6#purport|SB 5.13.6]]
 * travel by, [[cc/adi/5/22#purport|Ādi 5.22]]
-* worship of, [[cc/adi/5/226#purport|Ādi 5.226]], [[cc/madhya/3/203#purport|Madhya 3.203]]
+* worship of, [[cc/madhya/3/203#purport|Madhya 3.203]], [[cc/adi/5/226#purport|Ādi 5.226]]
 
-*See also:* [[s#Śrīmad-Bhāgavatam quoted|Śrīmad-Bhāgavatam quoted]]
+*See also:* Śrīmad-Bhāgavatam quoted

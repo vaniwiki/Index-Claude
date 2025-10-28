@@ -1,17 +1,25 @@
-# Airplane(s)
+# Airplanes
 
+* Dhruva boarded, [[sb/4/12/30-30#purport|SB 4.12.30-30]]
+* Dhruva circumambulated, [[sb/4/12/29#purport|SB 4.12.29]]
+* Dhruva saw, [[sb/4/12/19#purport|SB 4.12.19]]
 * five thousand years ago, [[sb/7/8/33#purport|SB 7.8.33]]
+* in ancient times, [[sb/3/22/17#purport|SB 3.22.17]]
 * in Dhruva’s day, [[sb/4/9/56#purport|SB 4.9.56]]
 * in higher planets, [[sb/2/2/26#purport|SB 2.2.26]]
 * in Indra’s city, [[sb/8/15/16#purport|SB 8.15.16]], [[sb/8/15/20#purport|SB 8.15.20]]
+* Lord sent, [[sb/4/12/27#purport|SB 4.12.27]]
 * Maya Dānava gifted demons with, [[sb/7/10/54-55#purport|SB 7.10.54-55]]
 * modern, [[sb/4/9/56#purport|SB 4.9.56]], [[sb/4/12/30#purport|SB 4.12.30]]
+* Nanda & Sunanda piloted, [[sb/4/12/35#purport|SB 4.12.35]]
 * of Bali, [[sb/8/10/16-18#purport|SB 8.10.16-18]]
+* of Brahmā, [[sb/3/24/20#purport|SB 3.24.20]]
 * of demigods, [[sb/4/3/7#purport|SB 4.3.7]], [[sb/4/3/12#purport|SB 4.3.12]], [[sb/4/6/27-27#purport|SB 4.6.27-27]]
 * of Kardama Muni, [[sb/4/12/30#purport|SB 4.12.30]], [[sb/4/18/19#purport|SB 4.18.19]]
 * persons on, as unit energies, [[sb/4/8/80#purport|SB 4.8.80]]
 * Pṛthu & Arci carried to Vaikuṇṭha in, [[sb/4/23/26#purport|SB 4.23.26]]
 * Śiva vanquished demons’, [[sb/7/10/67#purport|SB 7.10.67]], [[sb/7/10/69#purport|SB 7.10.69]]
 * space travel via, [[sb/4/21/13#purport|SB 4.21.13]], [[sb/8/23/26-27#purport|SB 8.23.26-27]]
-* spiritual 
 * spiritual, [[sb/2/9/13#purport|SB 2.9.13]], [[sb/2/9/13#purport|SB 2.9.13]]
+
+*See also:* Space travel

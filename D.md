@@ -23,7 +23,7 @@
 
 ### [Dadhīci (Dadhyañca)](entries/dadhici-dadhyanca.md)
 
-* agrees to sacrifice his body, [[sb/6/10/7#purport|SB 6.10.7]]
+* agrees to sacrifice his body,, [[sb/6/10/7#purport|SB 6.10.7]]
 
 *→ See all 7 references in* [Dadhīci (Dadhyañca)](entries/dadhici-dadhyanca.md)
 
@@ -50,12 +50,12 @@
 
 ---
 
-### Daitya(s)
+### [Daityas](entries/daityas.md)
 
-[[sb/2/6/30#purport|SB 2.6.30]], [[sb/5/24/8#purport|SB 5.24.8]]
+[[sb/2/6/30#purport|SB 2.6.30]]...
 
 
-*See:* [[d#Demons|Demons]]
+*→ See all 6 references in* [Daityas](entries/daityas.md)
 
 ---
 
@@ -69,7 +69,7 @@
 ### Daiva
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]
+*See:* Supreme Lord
 
 ---
 
@@ -99,7 +99,7 @@
 [[cc/adi/10/50#purport|Ādi 10.50]], [[cc/adi/12/73#purport|Ādi 12.73]], [[cc/madhya/3/6#purport|Madhya 3.6]], [[sb/5/1/24#purport|SB 5.1.24]]
 
 
-*See also:* [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* Varṇāśrama-dharma
 
 ---
 
@@ -133,11 +133,11 @@
 
 ### [Dakṣa](entries/daksa.md)
 
-[[cc/adi/4/66#purport|Ādi 4.66]], [[sb/3/21/5#purport|SB 3.21.5]], [[sb/9/23/3-4#purport|SB 9.23.3-4]]...
+[[cc/adi/4/66#purport|Ādi 4.66]]...
 
-* accused by Satī, [[sb/4/4/11-23#purport|SB 4.4.11-23]]
+* accused by Satī,, [[sb/4/4/11-23#purport|SB 4.4.11-23]]
 
-*→ See all 116 references in* [Dakṣa](entries/daksa.md)
+*→ See all 168 references in* [Dakṣa](entries/daksa.md)
 
 ---
 
@@ -171,7 +171,7 @@
 ### Dākṣāyaṇī
 
 
-*See:* [[s#Satī|Satī]]
+*See:* Satī
 
 ---
 
@@ -301,10 +301,7 @@
 
 ### [Dāmodara Paṇḍita](entries/damodara-pandita.md)
 
-**[[cc/adi/10/124–27#translation|Ādi 10.124–27]]**, **[[cc/adi/10/31–32#translation|Ādi 10.31–32]]**, [[cc/adi/10/84#purport|Ādi 10.84]]...
-
-
-*→ See all 30 references in* [Dāmodara Paṇḍita](entries/damodara-pandita.md)
+**[[cc/adi/10/31–32#translation|Ādi 10.31–32]]**
 
 ---
 
@@ -519,7 +516,7 @@
 
 ### [Danger](entries/danger.md)
 
-* greatest, [[sb/4/24/75#purport|SB 4.24.75]]
+* greatest,, [[sb/4/24/75#purport|SB 4.24.75]]
 
 *→ See all 6 references in* [Danger](entries/danger.md)
 
@@ -553,14 +550,13 @@
 
 ---
 
-### Dantavakra
+### [Dantavakra](entries/dantavakra.md)
 
-[[sb/10/12/33#purport|SB 10.12.33]], [[sb/3/23/55#purport|SB 3.23.55]], [[sb/3/3/11#purport|SB 3.3.11]], [[sb/4/5/21-21#purport|SB 4.5.21-21]]
+[[sb/3/3/11#purport|SB 3.3.11]]...
 
-* Hiraṇyakaśipu as, [[sb/7/10/35#purport|SB 7.10.35]]
-* liberation of, [[sb/7/1/20#purport|SB 7.1.20]], [[sb/7/10/38-40#purport|SB 7.10.38-40]]
-* not ordinary demon, [[sb/7/1/33#purport|SB 7.1.33]]
-*  [[sb/9/10/28#purport|SB 9.10.28]], [[sb/9/24/37#purport|SB 9.24.37]]
+* Hiraṇyakaśipu as,, [[sb/7/10/35#purport|SB 7.10.35]]
+
+*→ See all 8 references in* [Dantavakra](entries/dantavakra.md)
 
 ---
 
@@ -586,12 +582,11 @@
 
 ---
 
-### Daridra-nārāyaṇa
+### [Daridra-nārāyaṇa](entries/daridra-narayana.md)
 
-[[cc/adi/7/103#purport|Ādi 7.103]], [[cc/antya/3/136#purport|Antya 3.136]], [[cc/madhya/9/155#purport|Madhya 9.155]], [[sb/10/5/15-16#purport|SB 10.5.15-16]], [[sb/4/30/36#purport|SB 4.30.36]]
+[[cc/adi/7/103#purport|Ādi 7.103]]...
 
-* defined, [[sb/3/7/9#purport|SB 3.7.9]], [[sb/5/12/5-6#purport|SB 5.12.5-6]]
-*  [[sb/3/15/25#purport|SB 3.15.25]], [[sb/3/16/11#purport|SB 3.16.11]], [[sb/5/5/26#purport|SB 5.5.26]], [[sb/5/18/26#purport|SB 5.18.26]], [[sb/5/18/27#purport|SB 5.18.27]]
+* defined,, [[sb/3/7/9#purport|SB 3.7.9]], [[sb/5/12/5-6#purport|SB 5.12.5-6]]
 
 ---
 
@@ -625,7 +620,7 @@
 
 * universe covered by, at demons’ birth, [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/17/6#purport|SB 3.17.6]]
 
-*See also:* [[i#Ignorance|Ignorance]]
+*See also:* [Ignorance](entries/ignorance.md)
 
 ---
 
@@ -640,14 +635,14 @@
 [[sb/4/11/2#purport|SB 4.11.2]]
 
 
-*See also:* [[i#Ignorance|Ignorance]]
+*See also:* [Ignorance](entries/ignorance.md)
 
 ---
 
 ### Darkness, mode of
 
 
-*See:* [[i#Ignorance|Ignorance]]; mode of
+*See:* [Ignorance](entries/ignorance.md); mode of
 
 ---
 
@@ -765,9 +760,9 @@
 
 ### [Daśaratha, Mahārāja](entries/dasaratha-maharaja.md)
 
-[[sb/4/23/19#purport|SB 4.23.19]], [[sb/9/23/7-10#purport|SB 9.23.7-10]]...
+[[sb/1/7/44#purport|SB 1.7.44]], [[sb/1/12/19#purport|SB 1.12.19]]...
 
-* Rāma exiled by, [[sb/9/10/8#purport|SB 9.10.8]]
+* Rāma exiled by,, [[sb/9/10/8#purport|SB 9.10.8]]
 
 *→ See all 7 references in* [Daśaratha, Mahārāja](entries/dasaratha-maharaja.md)
 
@@ -852,7 +847,7 @@
 
 * defined, [[sb/9/11/5#purport|SB 9.11.5]]
 
-*See also:* [[c#Charity|Charity]]
+*See also:* [Charity](entries/charity.md)
 
 ---
 
@@ -880,12 +875,11 @@
 
 ---
 
-### Dattātreya, Lord
+### [Dattātreya, Lord](entries/dattatreya-lord.md)
 
-[[cc/adi/2/10#purport|Ādi 2.10]], [[cc/adi/2/97#purport|Ādi 2.97]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/18/115#purport|Madhya 18.115]], [[cc/madhya/20/244#purport|Madhya 20.244]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/8/3/12#purport|SB 8.3.12]]
+[[cc/adi/2/10#purport|Ādi 2.10]]...
 
-* as mystic yoga teacher, [[sb/8/14/8#purport|SB 8.14.8]]
-*  [[sb/6/8/16#purport|SB 6.8.16]], [[sb/6/15/12-15#purport|SB 6.15.12-15]], [[sb/9/14/3#purport|SB 9.14.3]], [[sb/9/15/17-19#purport|SB 9.15.17-19]], [[sb/9/23/24#purport|SB 9.23.24]]
+* as mystic yoga teacher,, [[sb/8/14/8#purport|SB 8.14.8]]
 
 ---
 
@@ -984,7 +978,7 @@
 
 * demigods born from, [[sb/3/20/22#purport|SB 3.20.22]]
 
-*See also:* [[m#Morning|Morning]]; [[n#Night|Night]]; [[t#Twilight|Twilight]]
+*See also:* Morning; Night; Twilight
 
 ---
 
@@ -1024,16 +1018,6 @@
 
 ---
 
-### [Death](entries/death.md)
-
-[[cc/adi/16/21#purport|Ādi 16.21]], [[cc/adi/16/23#purport|Ādi 16.23]]...
-
-* yoga practice at, [[bg/8/10|Bg. 8.10]]
-
-*→ See all 261 references in* [Death](entries/death.md)
-
----
-
 ### Death (descendant of Brahmā)
 
 [[sb/4/8/4#purport|SB 4.8.4]]
@@ -1049,9 +1033,11 @@
 
 ### [Death(s)](entries/deaths.md)
 
-* animal, compared with human, [[sb/1/9/43#purport|SB 1.9.43]]
+[[cc/adi/16/21#purport|Ādi 16.21]]...
 
-*→ See all 32 references in* [Death(s)](entries/deaths.md)
+* & family life, attachment to,, [[sb/5/9/6#purport|SB 5.9.6]]
+
+*→ See all 324 references in* [Death(s)](entries/deaths.md)
 
 ---
 
@@ -1113,12 +1099,11 @@
 
 ---
 
-### Deer
+### [Deer](entries/deer.md)
 
-* Bharata 
-* Bharata as, [[sb/4/12/43#purport|SB 4.12.43]]
-* in Kailāsa, [[sb/4/6/19-21#purport|SB 4.6.19-21]]
-* smṛti-śāstra quoted on, [[sb/5/8/23#purport|SB 5.8.23]]
+* accepts body of,, [[sb/5/8/26-27#purport|SB 5.8.26-27]]
+
+*→ See all 8 references in* [Deer](entries/deer.md)
 
 ---
 
@@ -1223,7 +1208,7 @@
 ### Deities of material nature
 
 
-*See:* [[d#Demigods|Demigods]]
+*See:* Demigods
 
 ---
 
@@ -1239,7 +1224,7 @@
 [[sb/4/22/54#purport|SB 4.22.54]]
 
 
-*See also:* [[d#Demigods|Demigods]]
+*See also:* Demigods
 
 ---
 
@@ -1251,7 +1236,7 @@
 
 ### [Deity form of Lord](entries/deity-form-of-lord.md)
 
-* as nondifferent from Lord, [[sb/5/17/14#purport|SB 5.17.14]]
+* as nondifferent from Lord,, [[sb/5/17/14#purport|SB 5.17.14]]
 
 *→ See all 7 references in* [Deity form of Lord](entries/deity-form-of-lord.md)
 
@@ -1261,17 +1246,17 @@
 
 [[sb/8/23/10#purport|SB 8.23.10]]...
 
-* as actually Lord, [[sb/4/8/54#purport|SB 4.8.54]]
+* as actually Lord,, [[sb/4/8/54#purport|SB 4.8.54]]
 
-*→ See all 25 references in* [Deity form of Supreme Lord](entries/deity-form-of-supreme-lord.md)
+*→ See all 28 references in* [Deity form of Supreme Lord](entries/deity-form-of-supreme-lord.md)
 
 ---
 
 ### [Deity form(s) of Lord](entries/deity-forms-of-lord.md)
 
-[[cc/adi/1/47#purport|Ādi 1.47]], [[cc/adi/1/47#purport|Ādi 1.47]], [[cc/adi/1/47#purport|Ādi 1.47]]...
+**[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**...
 
-* abhiṣeka &, [[cc/adi/17/11#purport|Ādi 17.11]]
+* abhiṣeka &,, [[cc/adi/17/11#purport|Ādi 17.11]]
 
 *→ See all 185 references in* [Deity form(s) of Lord](entries/deity-forms-of-lord.md)
 
@@ -1279,11 +1264,11 @@
 
 ### [Deity form(s) of Supreme Lord](entries/deity-forms-of-supreme-lord.md)
 
-[[sb/3/4/29#purport|SB 3.4.29]], [[sb/9/19/19#purport|SB 9.19.19]]...
+[[bg/11/54|Bg. 11.54]] (1)...
 
-* as beyond wood & stone, [[sb/3/16/6#purport|SB 3.16.6]]
+* as beyond wood & stone,, [[sb/3/16/6#purport|SB 3.16.6]]
 
-*→ See all 30 references in* [Deity form(s) of Supreme Lord](entries/deity-forms-of-supreme-lord.md)
+*→ See all 39 references in* [Deity form(s) of Supreme Lord](entries/deity-forms-of-supreme-lord.md)
 
 ---
 
@@ -1297,7 +1282,9 @@
 
 ### [Deity worship](entries/deity-worship.md)
 
-* ācāryas authorize, [[sb/1/11/24#purport|SB 1.11.24]]
+[[bg/12/5|Bg. 12.5]] (1–3), [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (10), [[bg/14/27|Bg. 14.27]]...
+
+* ācāryas authorize,, [[sb/1/11/24#purport|SB 1.11.24]]
 
 *→ See all 89 references in* [Deity worship](entries/deity-worship.md)
 
@@ -1307,7 +1294,7 @@
 
 [[sb/3/9/17#purport|SB 3.9.17]]...
 
-* as Caitanya, [[sb/7/15/11#purport|SB 7.15.11]]
+* as Caitanya,, [[sb/7/15/11#purport|SB 7.15.11]]
 
 *→ See all 32 references in* [Deity worship to Lord](entries/deity-worship-to-lord.md)
 
@@ -1315,7 +1302,9 @@
 
 ### [Deity worship to Supreme Lord](entries/deity-worship-to-supreme-lord.md)
 
-* abhiṣeka ceremony in, [[sb/8/8/15#purport|SB 8.8.15]]
+[[sb/4/28/34#purport|SB 4.28.34]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/30/28#purport|SB 4.30.28]]...
+
+* abhiṣeka ceremony in,, [[sb/8/8/15#purport|SB 8.8.15]]
 
 *→ See all 26 references in* [Deity worship to Supreme Lord](entries/deity-worship-to-supreme-lord.md)
 
@@ -1344,35 +1333,37 @@
 
 ### [Demigod worship](entries/demigod-worship.md)
 
-* according to modes of nature, [[bg/3/12|Bg. 3.12]]
+[[bg/9/16|Bg. 9.16]], [[bg/9/20|Bg. 9.20]], [[bg/17/28|Bg. 17.28]]...
 
-*→ See all 24 references in* [Demigod worship](entries/demigod-worship.md)
+* according to modes of nature,, [[bg/3/12|Bg. 3.12]]
+
+*→ See all 36 references in* [Demigod worship](entries/demigod-worship.md)
 
 ---
 
 ### [Demigod(s)](entries/demigods.md)
 
-[[cc/adi/10/10#purport|Ādi 10.10]], **[[cc/adi/14/48–49#translation|Ādi 14.48–49]]**, [[cc/adi/14/50#purport|Ādi 14.50]]...
+**[[cc/adi/4/51#translation|Ādi 4.51]]**...
 
-* absent in Vaikuṇṭha, [[sb/3/25/38#purport|SB 3.25.38]]
+* & Arci surpassed,, [[sb/4/23/26#purport|SB 4.23.26]], [[sb/4/23/27#purport|SB 4.23.27]]
 
-*→ See all 647 references in* [Demigod(s)](entries/demigods.md)
+*→ See all 757 references in* [Demigod(s)](entries/demigods.md)
 
 ---
 
 ### [Demigod(s) quoted](entries/demigods-quoted.md)
 
-* on Bhārata-varṣa 
+* benedictions offered by,, [[sb/5/19/26#purport|SB 5.19.26]]
 
-*→ See all 10 references in* [Demigod(s) quoted](entries/demigods-quoted.md)
+*→ See all 17 references in* [Demigod(s) quoted](entries/demigods-quoted.md)
 
 ---
 
 ### [Democracy](entries/democracy.md)
 
-[[sb/1/8/32#purport|SB 1.8.32]], [[sb/2/7/9#purport|SB 2.7.9]], [[sb/3/6/31#purport|SB 3.6.31]]...
+[[sb/1/8/32#purport|SB 1.8.32]]...
 
-* administrators in, [[sb/4/14/1#purport|SB 4.14.1]]
+* administrators in,, [[sb/4/14/1#purport|SB 4.14.1]]
 
 *→ See all 16 references in* [Democracy](entries/democracy.md)
 
@@ -1388,17 +1379,17 @@
 ### Demon-demigod battle
 
 
-*See:* [[b#Battle between demigods & demons|Battle between demigods & demons]]
+*See:* Battle between demigods & demons
 
 ---
 
 ### [Demon(s)](entries/demons.md)
 
-**[[cc/adi/8/12#translation|Ādi 8.12]]**...
+[[bg/4/2–3|Bg. 4.2–3]], [[bg/16/4–22|Bg. 16.4–22]], [[bg/16/24|Bg. 16.24]], [[bg/17/5|Bg. 17.5]]...
 
-* ”chance” theory by, [[sb/8/6/38#purport|SB 8.6.38]], [[sb/8/6/39#purport|SB 8.6.39]]
+* ”chance” theory by,, [[sb/8/6/38#purport|SB 8.6.38]], [[sb/8/6/39#purport|SB 8.6.39]]
 
-*→ See all 333 references in* [Demon(s)](entries/demons.md)
+*→ See all 401 references in* [Demon(s)](entries/demons.md)
 
 ---
 
@@ -1470,19 +1461,9 @@
 
 [[sb/2/6/1#purport|SB 2.6.1]]...
 
-* bondage to, [[sb/4/22/30#purport|SB 4.22.30]]
+* bondage to,, [[sb/4/22/30#purport|SB 4.22.30]]
 
 *→ See all 7 references in* [Designations, material](entries/designations-material.md)
-
----
-
-### [Desire](entries/desire.md)
-
-**[[cc/madhya/24/196–99#translation|Madhya 24.196–99]]**, **[[cc/madhya/24/96–97#translation|Madhya 24.96–97]]**...
-
-* bad association &, **[[cc/madhya/22/35#translation|Madhya 22.35]]**
-
-*→ See all 17 references in* [Desire](entries/desire.md)
 
 ---
 
@@ -1493,29 +1474,31 @@
 
 ---
 
-### [Desire tree(s)](entries/desire-trees.md)
+### [Desire trees](entries/desire-trees.md)
 
-[[sb/4/30/32#purport|SB 4.30.32]], [[sb/4/6/28#purport|SB 4.6.28]]...
+[[bg/2|Bg. 2]], [[bg/8/21|Bg. 8.21]]...
 
-*  [[bg/2|Bg. 2]], [[bg/8/21|Bg. 8.21]]
+* in Lord’s abode,, [[sb/1/11/26#purport|SB 1.11.26]]
 
-*→ See all 7 references in* [Desire tree(s)](entries/desire-trees.md)
+*→ See all 7 references in* [Desire trees](entries/desire-trees.md)
 
 ---
 
 ### [Desire(s)](entries/desires.md)
 
-* anger follows, [[sb/3/15/31#purport|SB 3.15.31]]
+**[[cc/madhya/24/96–97#translation|Madhya 24.96–97]]**...
 
-*→ See all 102 references in* [Desire(s)](entries/desires.md)
+* absent in devotional service,, [[sb/4/8/61#purport|SB 4.8.61]], [[sb/6/15/4#purport|SB 6.15.4]]
+
+*→ See all 201 references in* [Desire(s)](entries/desires.md)
 
 ---
 
 ### [Desire(s), material](entries/desires-material.md)
 
-* *sannyāsī *&, [[bg/16/1|Bg. 16.1]] (5)
+* *sannyāsī *&,, [[bg/16/1|Bg. 16.1]] (5)
 
-*→ See all 99 references in* [Desire(s), material](entries/desires-material.md)
+*→ See all 113 references in* [Desire(s), material](entries/desires-material.md)
 
 ---
 
@@ -1525,7 +1508,7 @@
 
 * defined, [[bg/2/71|Bg. 2.71]]
 
-*See also:* [[d#Detachment|Detachment]]
+*See also:* [Detachment](entries/detachment.md)
 
 ---
 
@@ -1553,7 +1536,7 @@
 
 [[sb/9/9/33#purport|SB 9.9.33]]...
 
-* & Bharata’s material enjoyment, [[sb/5/7/8#purport|SB 5.7.8]]
+* & Bharata’s material enjoyment,, [[sb/5/7/8#purport|SB 5.7.8]]
 
 *→ See all 23 references in* [Destiny](entries/destiny.md)
 
@@ -1574,17 +1557,17 @@
 
 ### [Detachment](entries/detachment.md)
 
-* *vairāgya *as, [[bg/6/35|Bg. 6.35]]
+* *vairāgya *as,, [[bg/6/35|Bg. 6.35]]
 
-*→ See all 158 references in* [Detachment](entries/detachment.md)
+*→ See all 222 references in* [Detachment](entries/detachment.md)
 
 ---
 
 ### [Determination](entries/determination.md)
 
-**[[cc/madhya/11/48–52#translation|Madhya 11.48–52]]**...
+[[bg/16/1|Bg. 16.1]], [[bg/18/33–35|Bg. 18.33–35]], [[bg/18/43|Bg. 18.43]]...
 
-*  [[bg/16/1|Bg. 16.1]], [[bg/18/33–35|Bg. 18.33–35]], [[bg/18/43|Bg. 18.43]]
+* in devotional service,, [[sb/4/8/69#purport|SB 4.8.69]], [[sb/4/8/72#purport|SB 4.8.72]]
 
 *→ See all 8 references in* [Determination](entries/determination.md)
 
@@ -1643,7 +1626,7 @@
 
 [[sb/1/2/16#purport|SB 1.2.16]]...
 
-* defined, [[sb/10/1/56#purport|SB 10.1.56]], [[sb/7/8/31#purport|SB 7.8.31]], [[sb/8/12/5#purport|SB 8.12.5]]
+* defined,, [[sb/7/8/31#purport|SB 7.8.31]], [[sb/8/12/5#purport|SB 8.12.5]]
 
 *→ See all 16 references in* [Deva(s)](entries/devas.md)
 
@@ -1653,7 +1636,7 @@
 
 *  [[sb/5/1/11#purport|SB 5.1.11]], [[sb/5/3/17#purport|SB 5.3.17]]
 
-*See also:* [[d#Demigods|Demigods]]
+*See also:* Demigods
 
 ---
 
@@ -1756,11 +1739,11 @@
 
 ### [Devahūti](entries/devahuti.md)
 
-[[cc/adi/1/60#purport|Ādi 1.60]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/antya/4/70#purport|Antya 4.70]]...
+[[cc/adi/1/60#purport|Ādi 1.60]]...
 
-* appearance of, via Kardama’s yogic power, [[sb/3/23/34-35#purport|SB 3.23.34-35]]
+* advises, to bathe in Lake Bindu-sarovara,, [[sb/3/23/23#purport|SB 3.23.23]]
 
-*→ See all 56 references in* [Devahūti](entries/devahuti.md)
+*→ See all 79 references in* [Devahūti](entries/devahuti.md)
 
 ---
 
@@ -1806,11 +1789,11 @@
 
 ### [Devakī](entries/devaki.md)
 
-[[cc/madhya/15/241#purport|Madhya 15.241]], **[[cc/madhya/19/190#translation|Madhya 19.190]]**, **[[cc/madhya/19/196–97#translation|Madhya 19.196–97]]**...
+[[bg/7/24|Bg. 7.24]] (2), [[bg/10/8|Bg. 10.8]]...
 
-* ”miscarriage” of, Kaṁsa & associates lamented, [[sb/10/2/15#purport|SB 10.2.15]]
+* ”born” of,, [[sb/10/1/58#purport|SB 10.1.58]], [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/3/7-8#purport|SB 10.3.7-8]], [[sb/10/3/7-8#purport|SB 10.3.7-8]], [[sb/10/3/11#purport|SB 10.3.11]], [[sb/10/4/7#purport|SB 10.4.7]]
 
-*→ See all 43 references in* [Devakī](entries/devaki.md)
+*→ See all 56 references in* [Devakī](entries/devaki.md)
 
 ---
 
@@ -1858,9 +1841,9 @@
 
 ### [Devala](entries/devala.md)
 
-[[cc/madhya/22/140#purport|Madhya 22.140]], [[sb/4/14/14#purport|SB 4.14.14]], [[sb/8/24/53#purport|SB 8.24.53]]...
+[[bg/5|Bg. 5]], [[bg/7/15|Bg. 7.15]] (2), [[bg/18/62|Bg. 18.62]]...
 
-* as authority, [[sb/1/15/44#purport|SB 1.15.44]]
+* as authority,, [[sb/1/15/44#purport|SB 1.15.44]]
 
 *→ See all 10 references in* [Devala](entries/devala.md)
 
@@ -1903,10 +1886,9 @@
 
 ---
 
-### Devānanda Paṇḍita
+### [Devānanda Paṇḍita](entries/devananda-pandita.md)
 
-**[[cc/adi/10/77#translation|Ādi 10.77]]**, **[[cc/adi/11/46#translation|Ādi 11.46]]**, [[cc/madhya/1/151#purport|Madhya 1.151]], **[[cc/madhya/1/153#translation|Madhya 1.153]]**, [[cc/madhya/16/205#purport|Madhya 16.205]], [[cc/madhya/16/207#purport|Madhya 16.207]]
-
+**[[cc/adi/10/77#translation|Ādi 10.77]]**
 
 ---
 
@@ -1966,7 +1948,7 @@
 ### Devarṣi Nārada
 
 
-*See:* [[n#Nārada Muni|Nārada Muni]]
+*See:* Nārada Muni
 
 ---
 
@@ -2004,19 +1986,11 @@
 
 ---
 
-### Devatā
+### [Devatā(s)](entries/devatas.md)
 
-* defined, [[sb/8/1/29#purport|SB 8.1.29]]
+* defined,, [[sb/8/1/29#purport|SB 8.1.29]], [[sb/1/15/34#purport|SB 1.15.34]]
 
-*See also:* [[d#Demigods|Demigods]]
-
----
-
-### Devatā(s)
-
-* defined, [[sb/1/15/34#purport|SB 1.15.34]], [[sb/7/8/42#purport|SB 7.8.42]]
-
-*See also:* [[d#Demigods|Demigods]]
+*→ See all 6 references in* [Devatā(s)](entries/devatas.md)
 
 ---
 
@@ -2085,9 +2059,9 @@
 
 ### [Devayānī](entries/devayani.md)
 
-[[sb/1/12/24#purport|SB 1.12.24]], [[sb/5/1/34#purport|SB 5.1.34]]...
+[[sb/1/12/24#purport|SB 1.12.24]]...
 
-* as Śukrācārya’s daughter, [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/24#purport|SB 9.18.24]], [[sb/9/18/25#purport|SB 9.18.25]], [[sb/9/18/27#purport|SB 9.18.27]]
+* as Śukrācārya’s daughter,, [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/24#purport|SB 9.18.24]], [[sb/9/18/25#purport|SB 9.18.25]], [[sb/9/18/27#purport|SB 9.18.27]]
 
 *→ See all 9 references in* [Devayānī](entries/devayani.md)
 
@@ -2133,9 +2107,9 @@
 
 ### [Devotee(s) of Lord](entries/devotees-of-lord.md)
 
-**[[cc/adi/1/59#translation|Ādi 1.59]]**, [[cc/adi/15/9#purport|Ādi 15.9]], [[cc/adi/5/30#purport|Ādi 5.30]]...
+**[[cc/madhya/22/45–46#translation|Madhya 22.45–46]]**...
 
-*  [[cc/adi/7/102#purport|Ādi 7.102]] (2 purport
+* Advaita incarnation of,, **[[cc/adi/7/13#translation|Ādi 7.13]]**, **[[cc/adi/17/98#translation|Ādi 17.98]]**
 
 *→ See all 322 references in* [Devotee(s) of Lord](entries/devotees-of-lord.md)
 
@@ -2143,9 +2117,9 @@
 
 ### [Devotee(s) of Supreme Lord](entries/devotees-of-supreme-lord.md)
 
-* “ordinary” activities of, 10 
+* ”cheats,”, 22.2
 
-*→ See all 1661 references in* [Devotee(s) of Supreme Lord](entries/devotees-of-supreme-lord.md)
+*→ See all 2183 references in* [Devotee(s) of Supreme Lord](entries/devotees-of-supreme-lord.md)
 
 ---
 
@@ -2158,9 +2132,9 @@
 
 ### [Devotional service to Lord](entries/devotional-service-to-lord.md)
 
-[[cc/adi/1/35#purport|Ādi 1.35]], **[[cc/adi/1/60#translation|Ādi 1.60]]**, [[cc/adi/13/30#purport|Ādi 13.30]]...
+[[cc/madhya/22/109#purport|Madhya 22.109]]...
 
-* Absolute Truth realized via, [[cc/adi/7/102#purport|Ādi 7.102]], **[[cc/madhya/24/79#translation|Madhya 24.79]]**
+* Absolute Truth realized via,, [[cc/adi/7/102#purport|Ādi 7.102]], **[[cc/madhya/24/79#translation|Madhya 24.79]]**
 
 *→ See all 479 references in* [Devotional service to Lord](entries/devotional-service-to-lord.md)
 
@@ -2168,9 +2142,9 @@
 
 ### [Devotional service to Supreme Lord](entries/devotional-service-to-supreme-lord.md)
 
-* ”creeper” of, protecting, SB Intro 39
+* ”creeper” of,, [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/22/23#purport|SB 4.22.23]]
 
-*→ See all 1371 references in* [Devotional service to Supreme Lord](entries/devotional-service-to-supreme-lord.md)
+*→ See all 1637 references in* [Devotional service to Supreme Lord](entries/devotional-service-to-supreme-lord.md)
 
 ---
 
@@ -2309,9 +2283,9 @@
 
 ### [Dhanvantari, Lord](entries/dhanvantari-lord.md)
 
-[[cc/adi/2/97#purport|Ādi 2.97]], [[cc/madhya/20/244#purport|Madhya 20.244]], [[sb/2/7/21#purport|SB 2.7.21]]...
+[[cc/adi/2/97#purport|Ādi 2.97]]...
 
-* as medical scientist, [[sb/8/8/34#purport|SB 8.8.34]]
+* as medical scientist,, [[sb/8/8/34#purport|SB 8.8.34]]
 
 *→ See all 11 references in* [Dhanvantari, Lord](entries/dhanvantari-lord.md)
 
@@ -2363,7 +2337,7 @@
 
 [[bg/16–18|Bg. 16–18]]...
 
-* as nescience, [[sb/2/6/21#purport|SB 2.6.21]]
+* as nescience,, [[sb/2/6/21#purport|SB 2.6.21]]
 
 *→ See all 33 references in* [Dharma](entries/dharma.md)
 
@@ -2399,7 +2373,9 @@
 
 ### [Dharma bull (religion personified)](entries/dharma-bull-religion-personified.md)
 
-* as philosopher, [[sb/1/17/21#purport|SB 1.17.21]]
+[[sb/1/16/18#purport|SB 1.16.18]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/1/16/25#purport|SB 1.16.25]]...
+
+* as philosopher,, [[sb/1/17/21#purport|SB 1.17.21]]
 
 *→ See all 7 references in* [Dharma bull (religion personified)](entries/dharma-bull-religion-personified.md)
 
@@ -2410,7 +2386,7 @@
 [[cc/madhya/11/99#purport|Madhya 11.99]], [[sb/10/4/20#purport|SB 10.4.20]]
 
 
-*See also:* [[r#Religion|Religion]]
+*See also:* [Religion](entries/religions.md)
 
 ---
 
@@ -2439,7 +2415,7 @@
 
 * defined, [[sb/8/17/8#purport|SB 8.17.8]]
 
-*See also:* [[h#Holy places|Holy places]]
+*See also:* Holy places
 
 ---
 
@@ -2516,7 +2492,7 @@
 * Dhruva honored by, [[sb/5/23/1#purport|SB 5.23.1]]
 * planet of, on Śiśumāra’s tail, [[sb/5/23/5#purport|SB 5.23.5]]
 
-*See:* [[y#Yamarāja|Yamarāja]]
+*See:* Yamarāja
 
 ---
 
@@ -2536,9 +2512,9 @@
 
 ### [Dharmarāja](entries/dharmaraja.md)
 
-[[sb/1/7/49#purport|SB 1.7.49]], [[sb/5/18/1#purport|SB 5.18.1]]...
+[[sb/1/7/49#purport|SB 1.7.49]]...
 
-* Kuntī with, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* Kuntī with,, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
 
 *→ See all 8 references in* [Dharmarāja](entries/dharmaraja.md)
 
@@ -2721,11 +2697,9 @@
 
 ---
 
-### Dhīra defined
+### [Dhīra defined](entries/dhira-defined.md)
 
-[[sb/10/8/5#purport|SB 10.8.5]], [[sb/3/5/42#purport|SB 3.5.42]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/7/15/23#purport|SB 7.15.23]], [[sb/8/5/29#purport|SB 8.5.29]]
-
-*  [[sb/5/2/7#purport|SB 5.2.7]], [[sb/5/17/20#purport|SB 5.17.20]]
+[[sb/3/5/42#purport|SB 3.5.42]]
 
 ---
 
@@ -2847,11 +2821,11 @@
 
 ### [Dhṛtarāṣṭra](entries/dhrtarastra.md)
 
-[[cc/madhya/6/135#purport|Madhya 6.135]], [[sb/1/19/9-10#purport|SB 1.19.9-10]], [[sb/7/10/49#purport|SB 7.10.49]]...
+[[bg/1/1–2|Bg. 1.1–2]], [[bg/1/16–53|Bg. 1.16–53]], [[bg/1/36|Bg. 1.36]], [[bg/2/9|Bg. 2.9]], [[bg/11/12|Bg. 11.12]]...
 
-* as ascetic, [[sb/1/9/48#purport|SB 1.9.48]]
+* as ascetic,, [[sb/1/9/48#purport|SB 1.9.48]]
 
-*→ See all 40 references in* [Dhṛtarāṣṭra](entries/dhrtarastra.md)
+*→ See all 47 references in* [Dhṛtarāṣṭra](entries/dhrtarastra.md)
 
 ---
 
@@ -2871,7 +2845,9 @@
 
 ### [Dhṛtarāṣṭra, King](entries/dhrtarastra-king.md)
 
-* blindness of, [[sb/3/1/6#purport|SB 3.1.6]]
+[[sb/4/23/19#purport|SB 4.23.19]], [[sb/4/31/30#purport|SB 4.31.30]]...
+
+* blindness of,, [[sb/3/1/6#purport|SB 3.1.6]]
 
 *→ See all 6 references in* [Dhṛtarāṣṭra, King](entries/dhrtarastra-king.md)
 
@@ -2928,21 +2904,21 @@
 
 ### [Dhruva Mahārāja](entries/dhruva-maharaja.md)
 
-[[cc/adi/11/24#purport|Ādi 11.24]], **[[cc/adi/12/80#translation|Ādi 12.80]]**, [[bg/18/71|Bg. 18.71]]...
+[[bg/18/71|Bg. 18.71]]...
 
-* acted according to Nārada, [[sb/4/8/71#purport|SB 4.8.71]]
+* ”conquered” by,, [[sb/4/12/42#purport|SB 4.12.42]]
 
-*→ See all 152 references in* [Dhruva Mahārāja](entries/dhruva-maharaja.md)
+*→ See all 209 references in* [Dhruva Mahārāja](entries/dhruva-maharaja.md)
 
 ---
 
 ### [Dhruvaloka](entries/dhruvaloka.md)
 
-[[cc/adi/5/22#purport|Ādi 5.22]], [[bg/18/71|Bg. 18.71]], [[sb/2/2/22#purport|SB 2.2.22]]...
+[[bg/18/71|Bg. 18.71]]...
 
-* as polestar, [[sb/4/9/5#purport|SB 4.9.5]], [[sb/4/9/20-21#purport|SB 4.9.20-21]], [[sb/4/9/25#purport|SB 4.9.25]], [[sb/4/12/39#purport|SB 4.12.39]]
+* as polestar,, [[sb/4/9/5#purport|SB 4.9.5]], [[sb/4/9/20-21#purport|SB 4.9.20-21]], [[sb/4/9/25#purport|SB 4.9.25]], [[sb/4/12/39#purport|SB 4.12.39]]
 
-*→ See all 22 references in* [Dhruvaloka](entries/dhruvaloka.md)
+*→ See all 24 references in* [Dhruvaloka](entries/dhruvaloka.md)
 
 ---
 
@@ -3213,13 +3189,13 @@
 
 ---
 
-### Diplomacy
+### [Diplomacy](entries/diplomacy.md)
 
-[[bg/18/47|Bg. 18.47]], [[sb/10/1/53#purport|SB 10.1.53]], [[sb/3/30/9#purport|SB 3.30.9]]
+[[bg/18/47|Bg. 18.47]]...
 
-* in palace life, [[sb/3/1/15#purport|SB 3.1.15]]
+* in palace life,, [[sb/3/1/15#purport|SB 3.1.15]]
 
-*See also:* [[p#Politics|Politics]]; [[p#Politicians|Politicians]]
+*→ See all 7 references in* [Diplomacy](entries/diplomacy.md)
 
 ---
 
@@ -3299,13 +3275,13 @@
 
 *  [[sb/3/22/7#purport|SB 3.22.7]], [[sb/3/23/7#purport|SB 3.23.7]], [[sb/3/23/52#purport|SB 3.23.52]], [[sb/3/24/13#purport|SB 3.24.13]], [[sb/4/12/32#purport|SB 4.12.32]], [[sb/4/12/33#purport|SB 4.12.33]], [[sb/4/12/40#purport|SB 4.12.40]], [[sb/4/13/24#purport|SB 4.13.24]], [[sb/4/21/31#purport|SB 4.21.31]], [[sb/4/24/15#purport|SB 4.24.15]], [[sb/4/24/32#purport|SB 4.24.32]]
 
-*See also:* [[b#Brahmacārī|Brahmacārī]]; Devotees
+*See also:* Brahmacārī; Devotees
 
 ---
 
 ### [Disciple succession(s)](entries/disciple-successions.md)
 
-* brāhmaṇas, kṣatriyas, & vaiśyas together in, [[sb/9/1/38-39#purport|SB 9.1.38-39]]
+* brāhmaṇas, kṣatriyas, & vaiśyas together in,, [[sb/9/1/38-39#purport|SB 9.1.38-39]]
 
 *→ See all 19 references in* [Disciple succession(s)](entries/disciple-successions.md)
 
@@ -3313,33 +3289,27 @@
 
 ### [Disciple(s)](entries/disciples.md)
 
-*  [[bg/2/41|Bg. 2.41]], [[bg/4/34|Bg. 4.34]], [[bg/18/75|Bg. 18.75]]
+[[bg/2/41|Bg. 2.41]], [[bg/4/34|Bg. 4.34]], [[bg/18/75|Bg. 18.75]]...
+
+* bogus compared with bona fide,, [[sb/8/17/1#purport|SB 8.17.1]]
 
 *→ See all 30 references in* [Disciple(s)](entries/disciples.md)
 
 ---
 
-### [Disciplic succession](entries/disciplic-succession.md)
-
-[[cc/madhya/22/131#purport|Madhya 22.131]], [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/9/289#purport|Madhya 9.289]]...
-
-* Antya–4), [[cc/madhya/9/289#purport|Madhya 9.289]]
-
-*→ See all 49 references in* [Disciplic succession](entries/disciplic-succession.md)
-
----
-
 ### [Disciplic succession(s)](entries/disciplic-successions.md)
 
-* “mystery of,” 18.75
+[[cc/madhya/22/131#purport|Madhya 22.131]]...
 
-*→ See all 87 references in* [Disciplic succession(s)](entries/disciplic-successions.md)
+* “mystery of,”, 18.75
+
+*→ See all 137 references in* [Disciplic succession(s)](entries/disciplic-successions.md)
 
 ---
 
 ### [Disciplic succession(s) (paramparā)](entries/disciplic-successions-parampara.md)
 
-* authority of, as perfect, [[sb/2/8/25#purport|SB 2.8.25]]
+* authority of, as perfect,, [[sb/2/8/25#purport|SB 2.8.25]]
 
 *→ See all 16 references in* [Disciplic succession(s) (paramparā)](entries/disciplic-successions-parampara.md)
 
@@ -3354,7 +3324,9 @@
 
 ### [Disease](entries/disease.md)
 
-* as nature’s law, [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/7/39#purport|SB 7.7.39]]
+[[bg/1/40|Bg. 1.40]], [[bg/13/8|Bg. 13.8]] (9), [[bg/1/21–22|Bg. 1.21–22]]...
+
+* as nature’s law,, [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/7/39#purport|SB 7.7.39]]
 
 *→ See all 29 references in* [Disease](entries/disease.md)
 
@@ -3378,7 +3350,7 @@
 * from eating wrong, [[sb/10/10/16#purport|SB 10.10.16]]
 * material, Vaiṣṇavas cure, [[sb/10/10/19#purport|SB 10.10.19]]
 
-*See also:* [[h#Health|Health]]; [[m#Medicine|Medicine]]
+*See also:* Health; Medicine
 
 ---
 
@@ -3413,7 +3385,7 @@
 ### Dissolution
 
 
-*See:* [[a#Annihilation|Annihilation]]
+*See:* Annihilation
 
 ---
 
@@ -3441,7 +3413,7 @@
 
 ### [Distress](entries/distress.md)
 
-* acceptance of, as Lord’s mercy, [[sb/4/8/29-29#purport|SB 4.8.29-29]]
+* acceptance of, as Lord’s mercy,, [[sb/4/8/29-29#purport|SB 4.8.29-29]]
 
 *→ See all 20 references in* [Distress](entries/distress.md)
 
@@ -3459,13 +3431,13 @@
 [[sb/3/14/17#purport|SB 3.14.17]]
 
 
-*See also:* [[m#Miseries|Miseries]]
+*See also:* Miseries
 
 ---
 
 ### [Disturbance(s)](entries/disturbances.md)
 
-* authority solves, [[sb/3/17/1#purport|SB 3.17.1]]
+* authority solves,, [[sb/3/17/1#purport|SB 3.17.1]]
 
 *→ See all 6 references in* [Disturbance(s)](entries/disturbances.md)
 
@@ -3473,11 +3445,11 @@
 
 ### [Diti](entries/diti.md)
 
-[[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/24/88#purport|Madhya 24.88]], [[sb/5/24/30#purport|SB 5.24.30]]...
+[[cc/madhya/17/142#purport|Madhya 17.142]]...
 
-* as sexually agitated, [[sb/3/14/8-16#purport|SB 3.14.8-16]], [[sb/3/14/30-31#purport|SB 3.14.30-31]]
+* as sexually agitated,, [[sb/3/14/8-16#purport|SB 3.14.8-16]], [[sb/3/14/30-31#purport|SB 3.14.30-31]]
 
-*→ See all 27 references in* [Diti](entries/diti.md)
+*→ See all 28 references in* [Diti](entries/diti.md)
 
 ---
 
@@ -3521,9 +3493,9 @@
 
 ### [Divorce](entries/divorce.md)
 
-[[sb/4/4/3#purport|SB 4.4.3]], [[sb/5/13/8#purport|SB 5.13.8]]...
+[[sb/3/21/15#purport|SB 3.21.15]], [[sb/3/24/15#purport|SB 3.24.15]]...
 
-* as low-class, [[sb/9/20/15#purport|SB 9.20.15]]
+* as low-class,, [[sb/9/20/15#purport|SB 9.20.15]]
 
 *→ See all 8 references in* [Divorce](entries/divorce.md)
 
@@ -3625,13 +3597,13 @@
 
 ---
 
-### [Dog(s)](entries/dogs.md)
+### [Dogs](entries/dogs.md)
 
 [[sb/3/14/43#purport|SB 3.14.43]]...
 
-* as untouchable, [[sb/7/14/11#purport|SB 7.14.11]]
+* as untouchable,, [[sb/7/14/11#purport|SB 7.14.11]]
 
-*→ See all 8 references in* [Dog(s)](entries/dogs.md)
+*→ See all 8 references in* [Dogs](entries/dogs.md)
 
 ---
 
@@ -3670,10 +3642,9 @@
 
 ---
 
-### Dola-yātrā
+### [Dola-yātrā](entries/dola-yatra.md)
 
-**[[cc/antya/1/215–16#translation|Antya 1.215–16]]**, **[[cc/antya/4/114#translation|Antya 4.114]]**, **[[cc/antya/4/207#translation|Antya 4.207]]**, **[[cc/madhya/16/9#translation|Madhya 16.9]]**, **[[cc/madhya/7/5#translation|Madhya 7.5]]**, [[sb/2/3/15#purport|SB 2.3.15]]
-
+**[[cc/madhya/7/5#translation|Madhya 7.5]]**
 
 ---
 
@@ -3714,15 +3685,6 @@
 
 ---
 
-### Doubt
-
-* freedom from, [[sb/3/24/18#purport|SB 3.24.18]]
-* proper & improper, [[sb/3/26/30-30#purport|SB 3.26.30-30]]
-
-*See also:* [[i#Ignorance|Ignorance]]
-
----
-
 ### Doubt, devotee free of
 
 [[sb/9/9/42#purport|SB 9.9.42]]
@@ -3730,12 +3692,11 @@
 
 ---
 
-### Doubt(s)
+### [Doubt(s)](entries/doubts.md)
 
-* & delusion, freedom from, [[bg/10/4|Bg. 10.4]]
-* Arjuna’s, [[bg/8/2|Bg. 8.2]]
+* & delusion, freedom from,, [[bg/10/4|Bg. 10.4]]
 
-*See also:* [[a#Arjuna|Arjuna]]; questions by
+*→ See all 6 references in* [Doubt(s)](entries/doubts.md)
 
 ---
 
@@ -3748,7 +3709,7 @@
 ### Downfall
 
 
-*See:* [[f#Falldown|Falldown]]
+*See:* [Falldown](entries/falldown.md)
 
 ---
 
@@ -3781,10 +3742,9 @@
 
 ---
 
-### Drama
+### [Drama](entries/drama.md)
 
-**[[cc/adi/10/13#translation|Ādi 10.13]]**, [[cc/adi/10/17#purport|Ādi 10.17]], [[cc/adi/10/40#purport|Ādi 10.40]], [[cc/adi/10/74#purport|Ādi 10.74]], **[[cc/adi/17/241–42#translation|Ādi 17.241–42]]**, [[cc/madhya/8/57#purport|Madhya 8.57]]
-
+**[[cc/adi/10/13#translation|Ādi 10.13]]**
 
 ---
 
@@ -3816,7 +3776,7 @@
 ### Drauṇi
 
 
-*See:* [[a#Aśvatthāmā|Aśvatthāmā]]
+*See:* Aśvatthāmā
 
 ---
 
@@ -3831,11 +3791,11 @@
 
 ### [Draupadī](entries/draupadi.md)
 
-[[cc/adi/6/74#purport|Ādi 6.74]], [[cc/adi/6/75#purport|Ādi 6.75]], [[sb/4/28/29#purport|SB 4.28.29]]...
+[[bg/1/11|Bg. 1.11]], [[bg/11/49|Bg. 11.49]]...
 
-* argues for Aśvatthāmā’s life, [[sb/1/7/43-48#purport|SB 1.7.43-48]]
+* argues for Aśvatthāmā’s life,, [[sb/1/7/43-48#purport|SB 1.7.43-48]]
 
-*→ See all 29 references in* [Draupadī](entries/draupadi.md)
+*→ See all 31 references in* [Draupadī](entries/draupadi.md)
 
 ---
 
@@ -3880,12 +3840,6 @@
 
 ---
 
-### Draviṇa
-
-*  [[sb/4/22/54#purport|SB 4.22.54]], [[sb/4/24/2#purport|SB 4.24.2]]
-
----
-
 ### Draviṇa Mountain
 
 [[sb/5/20/15#purport|SB 5.20.15]]
@@ -3904,6 +3858,7 @@
 
 [[sb/5/20/22#purport|SB 5.20.22]]
 
+*  [[sb/4/22/54#purport|SB 4.22.54]], [[sb/4/24/2#purport|SB 4.24.2]]
 
 ---
 
@@ -3956,21 +3911,13 @@
 
 ---
 
-### Dream
-
-* body & soul during, [[sb/4/12/18#purport|SB 4.12.18]]
-* living entity’s independence compared to, [[sb/4/12/4#purport|SB 4.12.4]]
-* material life compared to, [[sb/1/8/25#purport|SB 1.8.25]]
-* material world compared to, [[sb/4/9/33#purport|SB 4.9.33]], [[sb/4/12/15-15#purport|SB 4.12.15-15]]
-* world as, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
-
----
-
 ### [Dream(s)](entries/dreams.md)
 
-* as example of misidentity, [[sb/6/1/49#purport|SB 6.1.49]]
+[[sb/9/18/49#purport|SB 9.18.49]], [[sb/9/21/17#purport|SB 9.21.17]]...
 
-*→ See all 31 references in* [Dream(s)](entries/dreams.md)
+* as example of misidentity,, [[sb/6/1/49#purport|SB 6.1.49]]
+
+*→ See all 36 references in* [Dream(s)](entries/dreams.md)
 
 ---
 
@@ -3983,7 +3930,9 @@
 
 ### [Dreaming](entries/dreaming.md)
 
-* activities in, [[sb/7/7/25#purport|SB 7.7.25]]
+[[bg/6/16|Bg. 6.16]], [[bg/18/35|Bg. 18.35]]...
+
+* activities in,, [[sb/7/7/25#purport|SB 7.7.25]]
 
 *→ See all 13 references in* [Dreaming](entries/dreaming.md)
 
@@ -3991,7 +3940,7 @@
 
 ### [Dress](entries/dress.md)
 
-* body compared to, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/9/1/33#purport|SB 9.1.33]]
+* body compared to,, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/9/1/33#purport|SB 9.1.33]]
 
 *→ See all 16 references in* [Dress](entries/dress.md)
 
@@ -4016,14 +3965,14 @@
 * of soma-rasa by Indra, [[sb/9/2/28#purport|SB 9.2.28]]
 * of water, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
 
-*See:* [[i#Intoxication|Intoxication]]; [[w#Wine|Wine]]
+*See:* [Intoxication](entries/intoxication.md); [Wine](entries/wine.md)
 
 ---
 
 ### Drinking & drugs
 
 
-*See:* [[i#Intoxication|Intoxication]]
+*See:* [Intoxication](entries/intoxication.md)
 
 ---
 
@@ -4057,9 +4006,9 @@
 
 ### [Droṇācārya](entries/dronacarya.md)
 
-[[cc/madhya/5/45#purport|Madhya 5.45]]...
+[[bg/1/3|Bg. 1.3]], [[bg/1/8|Bg. 1.8]], [[bg/1/11–1/12|Bg. 1.11–1.12]], [[bg/1/25|Bg. 1.25]], [[bg/1/26|Bg. 1.26]], [[bg/2/4|Bg. 2.4]], [[bg/2/5|Bg. 2.5]], [[bg/2/13|Bg. 2.13]], [[bg/18/78|Bg. 18.78]] (1)...
 
-* Arjuna &, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]],16.5
+* Arjuna &,, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]],16.5
 
 *→ See all 20 references in* [Droṇācārya](entries/dronacarya.md)
 
@@ -4152,7 +4101,7 @@
 
 [[bg/7/27|Bg. 7.27]]...
 
-* Arjuna urged to transcend, [[bg/2/45|Bg. 2.45]]
+* Arjuna urged to transcend,, [[bg/2/45|Bg. 2.45]]
 
 *→ See all 6 references in* [Dualities](entries/dualities.md)
 
@@ -4167,7 +4116,7 @@
 
 ### [Duality, material](entries/duality-material.md)
 
-* as futile, [[sb/7/13/42#purport|SB 7.13.42]]
+* as futile,, [[sb/7/13/42#purport|SB 7.13.42]]
 
 *→ See all 33 references in* [Duality, material](entries/duality-material.md)
 
@@ -4178,14 +4127,14 @@
 [[sb/4/9/45#purport|SB 4.9.45]]
 
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; [[g#Good & bad|Good & bad]]; [[i#”I-&-mine” conception|”I-&-mine” conception]]
+*See also:* Bodily concept of life; Good & bad; ”I-&-mine” conception
 
 ---
 
 ### Duck demon
 
 
-*See:* [[b#Bakāsura|Bakāsura]]
+*See:* Bakāsura
 
 ---
 
@@ -4215,7 +4164,7 @@
 [[sb/3/24/36#purport|SB 3.24.36]]
 
 
-*See also:* [[s#Suffering|Suffering]]
+*See also:* [Suffering](entries/sufferings.md)
 
 ---
 
@@ -4311,7 +4260,7 @@
 
 [[sb/4/30/2#purport|SB 4.30.2]]...
 
-* cheats worshipers, [[sb/3/23/57#purport|SB 3.23.57]]
+* cheats worshipers,, [[sb/3/23/57#purport|SB 3.23.57]]
 
 *→ See all 11 references in* [Durgā (Kālī), goddess](entries/durga-kali-goddess.md)
 
@@ -4319,7 +4268,7 @@
 
 ### [Durgā (Māyādevī), Goddess](entries/durga-mayadevi-goddess.md)
 
-* as Lord’s potency, N110 
+* as Lord’s potency, N110
 
 *→ See all 6 references in* [Durgā (Māyādevī), Goddess](entries/durga-mayadevi-goddess.md)
 
@@ -4354,9 +4303,9 @@
 
 ### [Durgā, Goddess](entries/durga-goddess.md)
 
-[[cc/adi/7/157#purport|Ādi 7.157]], [[cc/antya/3/150#purport|Antya 3.150]], [[cc/antya/9/68#purport|Antya 9.68]]...
+[[cc/madhya/23/116#purport|Madhya 23.116]]...
 
-* animal slaughter &, [[sb/5/26/25#purport|SB 5.26.25]]
+* animal slaughter &,, [[sb/5/26/25#purport|SB 5.26.25]]
 
 *→ See all 56 references in* [Durgā, Goddess](entries/durga-goddess.md)
 
@@ -4504,11 +4453,11 @@
 
 ### [Durvāsā Muni](entries/durvasa-muni.md)
 
-[[cc/adi/1/62#purport|Ādi 1.62]], [[cc/adi/10/108#purport|Ādi 10.108]], [[cc/adi/9/44#purport|Ādi 9.44]]...
+[[bg/2/60|Bg. 2.60]], [[bg/2/61|Bg. 2.61]]...
 
-* Ambarīṣa 
+* Ambarīṣa
 
-*→ See all 47 references in* [Durvāsā Muni](entries/durvasa-muni.md)
+*→ See all 57 references in* [Durvāsā Muni](entries/durvasa-muni.md)
 
 ---
 
@@ -4551,9 +4500,9 @@
 
 ### [Duryodhana](entries/duryodhana.md)
 
-[[cc/adi/8/19#purport|Ādi 8.19]], [[cc/madhya/15/269#purport|Madhya 15.269]], [[sb/1/7/13-14#purport|SB 1.7.13-14]]...
+[[bg/1/2–1/3|Bg. 1.2–1.3]], [[bg/1/12|Bg. 1.12]], [[bg/1/26|Bg. 1.26]], [[bg/2/35|Bg. 2.35]]...
 
-* “evil-minded,” 1.23
+* “evil-minded,”, 1.23
 
 *→ See all 39 references in* [Duryodhana](entries/duryodhana.md)
 
@@ -4570,14 +4519,6 @@
 
 [[sb/5/15/14-15#purport|SB 5.15.14-15]], [[sb/9/10/9#purport|SB 9.10.9]]
 
-
----
-
-### Duṣkṛtī
-
-* defined, [[sb/8/2/33#purport|SB 8.2.33]]
-
-*See also:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]
 
 ---
 
@@ -4606,9 +4547,9 @@
 
 ### Duṣkṛtīs
 
-* defined, [[sb/7/9/15#purport|SB 7.9.15]]
+* defined, [[sb/7/9/15#purport|SB 7.9.15]], [[sb/8/2/33#purport|SB 8.2.33]]
 
-*See also:* [[d#Demons|Demons]]
+*See also:* Atheists; Demons
 
 ---
 
@@ -4672,9 +4613,9 @@
 
 [[sb/3/29/15-15#purport|SB 3.29.15-15]]...
 
-* Deity worship to accompany, [[sb/3/29/25-25#purport|SB 3.29.25-25]]
+* & criticiīng others,, [[sb/4/4/19#purport|SB 4.4.19]]
 
-*→ See all 22 references in* [Duties](entries/duties.md)
+*→ See all 241 references in* [Duties](entries/duties.md)
 
 ---
 
@@ -4685,21 +4626,13 @@
 
 ---
 
-### [Duty](entries/duty.md)
-
-* & criticiīng others, [[sb/4/4/19#purport|SB 4.4.19]]
-
-*→ See all 192 references in* [Duty](entries/duty.md)
-
----
-
 ### [Duty (duties)](entries/duty-duties.md)
 
 [[bg/2/31–32|Bg. 2.31–32]]...
 
-* *yajña *born of, [[bg/3/14|Bg. 3.14]]
+* *yajña *born of,, [[bg/3/14|Bg. 3.14]]
 
-*→ See all 71 references in* [Duty (duties)](entries/duty-duties.md)
+*→ See all 79 references in* [Duty (duties)](entries/duty-duties.md)
 
 ---
 
@@ -4728,9 +4661,9 @@
 
 ### [Dvādaśī](entries/dvadasi.md)
 
-* Ambarīṣa’s decision to break fast on, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
+* Ambarīṣa’s decision to break fast on,, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
 
-*→ See all 6 references in* [Dvādaśī](entries/dvadasi.md)
+*→ See all 9 references in* [Dvādaśī](entries/dvadasi.md)
 
 ---
 
@@ -4806,9 +4739,9 @@
 
 ### [Dvāpara-yuga](entries/dvapara-yuga.md)
 
-**[[cc/adi/3/10#translation|Ādi 3.10]]**, **[[cc/adi/3/38–39#translation|Ādi 3.38–39]]**, [[cc/adi/7/74#purport|Ādi 7.74]]...
+[[bg/4/1|Bg. 4.1]] (5), [[bg/4/7|Bg. 4.7]], [[bg/8/17|Bg. 8.17]]...
 
-* as half-religious, [[sb/8/14/4#purport|SB 8.14.4]]
+* as half-religious,, [[sb/8/14/4#purport|SB 8.14.4]]
 
 *→ See all 25 references in* [Dvāpara-yuga](entries/dvapara-yuga.md)
 
@@ -4849,11 +4782,11 @@
 
 ### [Dvārakā](entries/dvaraka.md)
 
-**[[cc/antya/1/67#translation|Antya 1.67]]**, [[cc/antya/1/71#purport|Antya 1.71]], **[[cc/antya/19/108#translation|Antya 19.108]]**...
+**[[cc/antya/1/67#translation|Antya 1.67]]**...
 
-* after Kurukṣetra war, [[sb/1/14/1#purport|SB 1.14.1]]
+* after Kurukṣetra war,, [[sb/1/14/1#purport|SB 1.14.1]]
 
-*→ See all 55 references in* [Dvārakā](entries/dvaraka.md)
+*→ See all 64 references in* [Dvārakā](entries/dvaraka.md)
 
 ---
 
@@ -4947,7 +4880,7 @@
 * defined, [[sb/1/8/22#purport|SB 1.8.22]], [[sb/1/18/18-19#purport|SB 1.18.18-19]], [[sb/1/19/32#purport|SB 1.19.32]]
 * Śrīmad-Bhāgavatam refutes, [[sb/1/18/19#purport|SB 1.18.19]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; unqualified
+*See also:* Brāhmaṇas; unqualified
 
 ---
 
@@ -4990,7 +4923,7 @@
 
 [[sb/1/2/2#purport|SB 1.2.2]]...
 
-* defined, [[sb/7/11/13#purport|SB 7.11.13]]
+* defined,, [[sb/7/11/13#purport|SB 7.11.13]]
 
 *→ See all 9 references in* [Dvija(s)](entries/dvijas.md)
 
@@ -5028,7 +4961,7 @@
 
 * defined, [[sb/8/19/19#purport|SB 8.19.19]]
 
-*See also:* [[p#Planets|Planets]]
+*See also:* Planets
 
 ---
 
@@ -5092,13 +5025,11 @@
 
 ## Dy
 
-### Dynasties
+### [Dynasties](entries/dynasties.md)
 
-* descended from Yayāti, [[sb/1/12/24#purport|SB 1.12.24]]
-* from sun, [[sb/10/1/1#purport|SB 10.1.1]]
-* Yadu. See: Yadu dynasty 
+* Bhṛgu,, [[sb/9/18/12-14#purport|SB 9.18.12-14]]
 
-*See also:* specific dynasties
+*→ See all 31 references in* [Dynasties](entries/dynasties.md)
 
 ---
 
@@ -5108,14 +5039,6 @@
 
 
 *See also:* specific dynasties
-
----
-
-### [Dynasty](entries/dynasty.md)
-
-* Bhṛgu, [[sb/9/18/12-14#purport|SB 9.18.12-14]]
-
-*→ See all 27 references in* [Dynasty](entries/dynasty.md)
 
 ---
 

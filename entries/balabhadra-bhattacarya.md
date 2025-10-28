@@ -1,6 +1,6 @@
 # Balabhadra Bhaṭṭācārya
 
-**[[cc/adi/10/146#translation|Ādi 10.146]]**, **[[cc/antya/3/73#translation|Antya 3.73]]**, **[[cc/antya/4/210#translation|Antya 4.210]]**, **[[cc/madhya/1/236#translation|Madhya 1.236]]**, **[[cc/madhya/1/238#translation|Madhya 1.238]]**, **[[cc/madhya/1/240#translation|Madhya 1.240]]**, **[[cc/madhya/18/139–47#translation|Madhya 18.139–47]]**, **[[cc/madhya/25/223–25#translation|Madhya 25.223–25]]**
+**[[cc/adi/10/146#translation|Ādi 10.146]]**, **[[cc/madhya/1/236#translation|Madhya 1.236]]**, **[[cc/madhya/1/238#translation|Madhya 1.238]]**, **[[cc/madhya/1/240#translation|Madhya 1.240]]**, **[[cc/madhya/25/223–25#translation|Madhya 25.223–25]]**, **[[cc/antya/3/73#translation|Antya 3.73]]**, **[[cc/antya/4/210#translation|Antya 4.210]]**, **[[cc/madhya/18/139–47#translation|Madhya 18.139–47]]**
 
 * animals feared by, **[[cc/madhya/17/27#translation|Madhya 17.27]]**
 * animals’ chanting &, **[[cc/madhya/17/33#translation|Madhya 17.33]]**, **[[cc/madhya/17/41#translation|Madhya 17.41]]**

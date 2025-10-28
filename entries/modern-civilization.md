@@ -1,6 +1,6 @@
 # Modern civilization
 
-[[cc/adi/17/253#purport|Ādi 17.253]], [[cc/madhya/20/99#purport|Madhya 20.99]], [[cc/madhya/24/251#purport|Madhya 24.251]]
+[[cc/madhya/24/251#purport|Madhya 24.251]], [[cc/madhya/20/99#purport|Madhya 20.99]], [[cc/adi/17/253#purport|Ādi 17.253]]
 
 * benefits to poor &, [[cc/adi/17/104#purport|Ādi 17.104]]
 * birth ceremonies &, [[cc/adi/13/110#purport|Ādi 13.110]]

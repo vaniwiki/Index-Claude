@@ -18,14 +18,17 @@
 * at present day, [[sb/4/27/8#purport|SB 4.27.8]]
 * Bhīṣma refused, [[sb/9/22/20#purport|SB 9.22.20]]
 * bodies shared in, [[sb/4/4/3#purport|SB 4.4.3]]
+* Brahmā advised, [[sb/4/2/16#purport|SB 4.2.16]]
 * brahmacārīs reject, [[sb/7/12/7#purport|SB 7.12.7]]
 * by agreement, [[sb/9/20/15#purport|SB 9.20.15]]
 * by astrology, [[sb/9/18/23#purport|SB 9.18.23]]
 * by kṣatriyas, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
 * by select competition, [[sb/9/20/15#purport|SB 9.20.15]]
 * cheating in, [[sb/5/14/37#purport|SB 5.14.37]]
+* compared with modern, [[sb/3/21/15#purport|SB 3.21.15]], [[sb/9/3/10#purport|SB 9.3.10]], [[sb/9/3/20#purport|SB 9.3.20]], [[sb/9/3/21#purport|SB 9.3.21]]
 * cooperation in, result of, [[sb/3/14/17-19#purport|SB 3.14.17-19]]
 * cousins in, [[sb/1/16/2#purport|SB 1.16.2]]
+* Dakṣa regrets, [[sb/4/2/14-16#purport|SB 4.2.14-16]]
 * danger in, [[sb/6/18/40#purport|SB 6.18.40]]
 * decorated wives attend, [[sb/4/3/4#purport|SB 4.3.4]]
 * different kinds of, [[sb/3/22/15-16#purport|SB 3.22.15-16]]
@@ -55,7 +58,7 @@
 * in India, [[sb/4/30/16#purport|SB 4.30.16]]
 * in Kali-yuga, [[sb/1/16/21#purport|SB 1.16.21]], [[sb/3/21/15#purport|SB 3.21.15]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/24/15#purport|SB 3.24.15]]
 * in society compulsory, [[sb/1/17/38#purport|SB 1.17.38]]
-* in Vedic culture, [[sb/10/1/31-32#purport|SB 10.1.31-32]], [[sb/3/21/27-28#purport|SB 3.21.27-28]], [[sb/3/22/13#purport|SB 3.22.13]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/23#purport|SB 3.22.23]], [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/3/7#purport|SB 3.3.7]], [[sb/4/13/39#purport|SB 4.13.39]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/9/18/5#purport|SB 9.18.5]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/23#purport|SB 9.18.23]]
+* in Vedic culture, [[sb/3/3/7#purport|SB 3.3.7]], [[sb/3/21/27-28#purport|SB 3.21.27-28]], [[sb/3/22/13#purport|SB 3.22.13]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/23#purport|SB 3.22.23]], [[sb/3/24/15#purport|SB 3.24.15]], [[sb/4/13/39#purport|SB 4.13.39]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/9/18/5#purport|SB 9.18.5]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/23#purport|SB 9.18.23]], [[sb/10/1/31-32#purport|SB 10.1.31-32]]
 * intercaste, [[sb/3/21/28#purport|SB 3.21.28]]
 * Kṛṣṇa conscious, [[sb/7/11/28-28#purport|SB 7.11.28-28]], [[sb/7/11/29-29#purport|SB 7.11.29-29]]
 * Kṛṣṇa in, [[sb/1/14/31#purport|SB 1.14.31]]
@@ -80,7 +83,7 @@
 * of Rukmiṇī, [[sb/3/3/3#purport|SB 3.3.3]]
 * of Satyavatī & Ṛcīka, [[sb/9/15/7#purport|SB 9.15.7]]
 * of Sītā & Rāma, [[sb/9/10/11#purport|SB 9.10.11]]
-* of Śiva & Satī 
+* of Śiva & Satī
 * of Vaidarbhī, [[sb/4/28/29#purport|SB 4.28.29]]
 * of Vasudeva & Devakī, [[sb/10/1/29-33#purport|SB 10.1.29-33]]
 * of Yajña & Dakṣiṇā, [[sb/4/1/6#purport|SB 4.1.6]]
@@ -113,8 +116,8 @@
 * unhappiness in, [[sb/3/24/15#purport|SB 3.24.15]]
 * Vāmana’s glorification blesses, [[sb/8/23/31#purport|SB 8.23.31]]
 * Vedic system for, [[sb/4/27/8#purport|SB 4.27.8]], [[sb/4/27/25#purport|SB 4.27.25]], [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/30/16#purport|SB 4.30.16]]
-* Vedic, compared with modern, [[sb/7/13/26#purport|SB 7.13.26]]
 * Vedic, [[sb/6/14/26#purport|SB 6.14.26]], [[sb/6/14/56#purport|SB 6.14.56]]
+* Vedic, compared with modern, [[sb/7/13/26#purport|SB 7.13.26]]
 * via astrology, [[sb/3/24/15#purport|SB 3.24.15]]
 * wife faithful in, [[sb/3/1/40#purport|SB 3.1.40]]
 * wife’s charm in, [[sb/7/6/11-13#purport|SB 7.6.11-13]]
@@ -127,4 +130,4 @@
 * women instructed on, [[sb/1/13/30#purport|SB 1.13.30]]
 * worship of Śiva prior to, SB Intro 8
 
-*See also:* [[f#Family life|Family life]]; [[c#Children|Children]]; Fathers; [[g#Gṛhasthas|Gṛhasthas]]; Husbands; Mothers; [[p#Parents|Parents]]; [[s#Sex life|Sex life]]; [[w#Wife|Wife]]; [[g#Gṛhastha āśrama|Gṛhastha āśrama]]
+*See also:* [Children](entries/children.md); Family life; Fathers; Gṛhasthas; Husbands; Mothers; Parents; Sex life; [Wife](entries/wife.md); Gṛhastha āśrama

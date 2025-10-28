@@ -1,6 +1,6 @@
 # Māyāvādī sannyāsīs at Vārāṇasī
 
-**[[cc/adi/7/154#translation|Ādi 7.154]]**, **[[cc/madhya/25/5–22#translation|Madhya 25.5–22]]**
+**[[cc/madhya/25/5–22#translation|Madhya 25.5–22]]**, **[[cc/adi/7/154#translation|Ādi 7.154]]**
 
 * as daridra-nārāyaṇa, [[cc/adi/7/103#purport|Ādi 7.103]]
 * Caitanya accepted as Nārāyaṇa by, **[[cc/adi/7/103–4#translation|Ādi 7.103–4]]**
@@ -25,4 +25,4 @@
 * Śaṅkarācārya’s commentaries &, [[cc/adi/7/101#purport|Ādi 7.101]]
 * Vedāntī title &, [[cc/adi/7/64#purport|Ādi 7.64]]
 
-*See also:* [[p#Prakāśānanda Sarasvatī|Prakāśānanda Sarasvatī]]
+*See also:* Prakāśānanda Sarasvatī

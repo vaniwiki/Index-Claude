@@ -7,6 +7,6 @@
 * of Yaśodā for Kṛṣṇa, [[sb/2/7/27#purport|SB 2.7.27]], [[sb/2/7/30#purport|SB 2.7.30]]
 * real object of, [[sb/3/9/42#purport|SB 3.9.42]]
 
-*See also:* [[a#Attachment|Attachment]]; [[e#Emotions|Emotions]]; [[l#Love|Love]]
+*See also:* [Attachment](entries/attachment.md); Emotions; [Love](entries/love.md)
 
-*See:* [[a#Attachment|Attachment]]; [[l#Love|Love]]; [[l#Lust|Lust]]
+*See:* [Attachment](entries/attachment.md); [Love](entries/love.md); [Lust](entries/lust.md)

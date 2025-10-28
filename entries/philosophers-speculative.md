@@ -1,6 +1,6 @@
 # Philosopher(s), speculative
 
-* ”Ph.D.,” [[sb/3/6/10#purport|SB 3.6.10]]
+* ”Ph.D.,”, [[sb/3/6/10#purport|SB 3.6.10]]
 * as godless, [[sb/3/5/3#purport|SB 3.5.3]]
 * Bhāgavatam misinterpreted by, [[sb/3/4/20#purport|SB 3.4.20]]
 * Brahmā’s example to, [[sb/3/8/17-18#purport|SB 3.8.17-18]], [[sb/3/8/22#purport|SB 3.8.22]]
@@ -13,4 +13,4 @@
 * on hankering platform, [[sb/3/2/15#purport|SB 3.2.15]]
 * should surrender to God, [[sb/3/13/45#purport|SB 3.13.45]]
 
-*See also:* [[i#Impersonalists|Impersonalists]]; [[j#Jñānīs|Jñānīs]]; [[k#Knowledge|Knowledge]]; speculative; [[m#Monists|Monists]]; Scientists; material
+*See also:* Impersonalists; Jñānīs; [Knowledge](entries/knowledge.md); speculative; Monists; Scientists; material

@@ -1,5 +1,7 @@
 # Remembering Supreme Lord
 
+[[sb/1/2/14-15#purport|SB 1.2.14-15]], [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/3/42#purport|SB 1.3.42]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/7/10#purport|SB 1.7.10]], [[sb/4/4/27#purport|SB 4.4.27]], [[sb/4/6/33#purport|SB 4.6.33]]
+
 * as devotional process, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * as essential, [[sb/1/18/2#purport|SB 1.18.2]]
 * as life’s perfection, [[sb/1/18/4#purport|SB 1.18.4]]
@@ -14,7 +16,6 @@
 * Parīkṣit perfected, [[sb/1/12/30#purport|SB 1.12.30]]
 * pilgrimage for, [[sb/3/1/45#purport|SB 3.1.45]]
 * samādhi via, [[sb/1/9/39#purport|SB 1.9.39]]
-*  [[sb/1/2/14-15#purport|SB 1.2.14-15]], [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/3/42#purport|SB 1.3.42]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/7/10#purport|SB 1.7.10]], [[sb/4/4/27#purport|SB 4.4.27]], [[sb/4/6/33#purport|SB 4.6.33]]
 * tall temples for, [[sb/3/1/23#purport|SB 3.1.23]]
 * Uddhava enlivened via, [[sb/3/2/3-5#purport|SB 3.2.3-5]]
 * via devotional service, [[sb/8/3/1#purport|SB 8.3.1]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]

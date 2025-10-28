@@ -1,7 +1,8 @@
 # Yudhiṣṭhira Mahārāja
 
-[[cc/adi/1/63#purport|Ādi 1.63]], [[cc/adi/2/21#purport|Ādi 2.21]], **[[cc/adi/8/19#translation|Ādi 8.19]]**, [[bg/1/1|Bg. 1.1]], [[cc/madhya/1/197#purport|Madhya 1.197]], [[cc/madhya/10/12#purport|Madhya 10.12]], [[cc/madhya/15/269#purport|Madhya 15.269]], [[cc/madhya/17/186#purport|Madhya 17.186]], [[cc/madhya/20/57#purport|Madhya 20.57]], [[cc/madhya/22/53#purport|Madhya 22.53]], [[cc/madhya/25/57#purport|Madhya 25.57]], [[cc/madhya/5/45#purport|Madhya 5.45]], [[sb/1/7/49#purport|SB 1.7.49]], [[sb/10/5/7#purport|SB 10.5.7]], [[sb/2/5/10#purport|SB 2.5.10]], [[sb/4/16/27#purport|SB 4.16.27]], [[sb/6/14/10#purport|SB 6.14.10]], [[sb/8/4/15#purport|SB 8.4.15]]
+[[bg/1/1|Bg. 1.1]], [[cc/adi/1/63#purport|Ādi 1.63]], [[cc/adi/2/21#purport|Ādi 2.21]], **[[cc/adi/8/19#translation|Ādi 8.19]]**, [[cc/madhya/1/197#purport|Madhya 1.197]], [[cc/madhya/5/45#purport|Madhya 5.45]], [[cc/madhya/10/12#purport|Madhya 10.12]], [[cc/madhya/15/269#purport|Madhya 15.269]], [[cc/madhya/17/186#purport|Madhya 17.186]], [[cc/madhya/20/57#purport|Madhya 20.57]], [[cc/madhya/22/53#purport|Madhya 22.53]], [[cc/madhya/25/57#purport|Madhya 25.57]], [[sb/1/7/49#purport|SB 1.7.49]], [[sb/2/5/10#purport|SB 2.5.10]], [[sb/3/21/2#purport|SB 3.21.2]], [[sb/3/21/30#purport|SB 3.21.30]], [[sb/4/16/27#purport|SB 4.16.27]], [[sb/6/14/10#purport|SB 6.14.10]], [[sb/8/4/15#purport|SB 8.4.15]], [[sb/9/22/27-28#purport|SB 9.22.27-28]], [[sb/9/22/29#purport|SB 9.22.29]], [[sb/10/5/7#purport|SB 10.5.7]]
 
+* ”conquered” by, [[sb/1/8/45#purport|SB 1.8.45]]
 * ancestry of, [[sb/1/12/18#purport|SB 1.12.18]], [[sb/1/12/26#purport|SB 1.12.26]]
 * Arjuna assisted, [[bg/1/15|Bg. 1.15]]
 * Arjuna questioned by, [[sb/1/14/25-34#purport|SB 1.14.25-34]], [[sb/1/14/39-44#purport|SB 1.14.39-44]]
@@ -18,6 +19,7 @@
 * as pure devotee, [[sb/1/12/4#purport|SB 1.12.4]], [[sb/1/12/4#purport|SB 1.12.4]], [[sb/1/12/6#purport|SB 1.12.6]], [[sb/1/15/44#purport|SB 1.15.44]]
 * as religious, [[sb/1/9/15#purport|SB 1.9.15]], [[sb/1/10/1#purport|SB 1.10.1]], [[sb/3/1/36#purport|SB 3.1.36]]
 * as righteous king, [[bg/10/27|Bg. 10.27]]
+* as solace for, [[sb/1/13/16#purport|SB 1.13.16]]
 * as world emperor, [[sb/1/10/3#purport|SB 1.10.3]], [[sb/3/1/20#purport|SB 3.1.20]]
 * at death, [[sb/1/15/41#purport|SB 1.15.41]]
 * austerity by, [[sb/1/15/43#purport|SB 1.15.43]]
@@ -26,15 +28,20 @@
 * charity by, [[sb/1/12/14#purport|SB 1.12.14]], [[sb/9/11/5#purport|SB 9.11.5]]
 * compassion of, [[sb/1/13/33#purport|SB 1.13.33]], [[sb/1/13/39#purport|SB 1.13.39]]
 * conchshell blown by, [[bg/1/16–19|Bg. 1.16–19]]
+* couldn’t convince, [[sb/1/8/46#purport|SB 1.8.46]]
 * daily duties of, [[sb/1/13/31#purport|SB 1.13.31]]
 * deluded, [[sb/1/8/47#purport|SB 1.8.47]]
 * demigods visited, [[sb/1/13/14#purport|SB 1.13.14]]
 * Dhṛtarāṣṭra & Gāndhārī consoled by, [[sb/1/9/48#purport|SB 1.9.48]]
 * Dhṛtarāṣṭra cheated, [[sb/3/1/8#purport|SB 3.1.8]]
+* enthroned by, [[sb/1/15/38-39#purport|SB 1.15.38-39]]
 * equanimity of, [[sb/1/12/23#purport|SB 1.12.23]], [[sb/1/12/23#purport|SB 1.12.23]]
+* escorted by army of, [[sb/1/10/32#purport|SB 1.10.32]]
+* established reign of, [[sb/1/14/1#purport|SB 1.14.1]], [[sb/1/15/15#purport|SB 1.15.15]]
 * fame of, [[sb/1/12/5#purport|SB 1.12.5]]
 * fear in, [[sb/1/12/34#purport|SB 1.12.34]]
 * forefather of, [[sb/7/8/26#purport|SB 7.8.26]]
+* glorified, [[sb/1/8/32#purport|SB 1.8.32]]
 * good fortune of, [[sb/7/10/48-48#purport|SB 7.10.48-48]], [[sb/7/15/75#purport|SB 7.15.75]]
 * government of, [[sb/9/13/12#purport|SB 9.13.12]]
 * higher planets visited by, [[sb/4/21/13#purport|SB 4.21.13]]
@@ -52,7 +59,7 @@
 * Kuvera compared with, [[sb/1/9/3#purport|SB 1.9.3]]
 * lamentation of, [[sb/1/8/46-52#purport|SB 1.8.46-52]]
 * liberation of, [[sb/1/15/40-44#purport|SB 1.15.40-44]]
-* Lord 
+* Lord
 * Lord’s disappearance suspected by, [[sb/1/14/2-4#purport|SB 1.14.2-4]], [[sb/1/14/8#purport|SB 1.14.8]], [[sb/1/14/21#purport|SB 1.14.21]], [[sb/1/14/44#purport|SB 1.14.44]]
 * Lord’s mercy obliged, [[sb/1/12/16#purport|SB 1.12.16]]
 * meditation by, [[sb/1/15/41-42#purport|SB 1.15.41-42]], [[sb/1/15/44#purport|SB 1.15.44]]
@@ -63,22 +70,22 @@
 * opulence of, [[sb/1/12/6#purport|SB 1.12.6]]
 * opulence used by, [[sb/7/10/1#purport|SB 7.10.1]]
 * parents of, [[sb/1/13/4#purport|SB 1.13.4]]
-* Parīkṣit 
+* Parīkṣit
+* pleased by, [[sb/1/12/34#purport|SB 1.12.34]]
 * prosperity under, [[sb/1/10/4-6#purport|SB 1.10.4-6]], [[sb/1/10/4-6#purport|SB 1.10.4-6]], [[sb/1/12/34#purport|SB 1.12.34]]
 * protection by, [[sb/1/15/39#purport|SB 1.15.39]]
 * purification of, [[sb/1/15/40-41#purport|SB 1.15.40-41]], [[sb/1/15/43-44#purport|SB 1.15.43-44]]
 * qualification of, [[sb/1/12/4-6#purport|SB 1.12.4-6]]
 * qualities of, [[bg/18/78|Bg. 18.78]] (1)
-* quoted. See: Yudhiṣṭhira Mahārāja quoted , 
+* quoted. See: Yudhiṣṭhira Mahārāja quoted
 * Rājasūya sacrifice by, [[sb/7/14/35#purport|SB 7.14.35]], [[sb/7/14/42#purport|SB 7.14.42]]
-* Rājasūya-yajña by, [[sb/1/9/41#purport|SB 1.9.41]]
-* rājasūya-yajña by, [[sb/4/21/14#purport|SB 4.21.14]]
+* Rājasūya-yajña by, [[sb/1/9/41#purport|SB 1.9.41]], [[sb/4/21/14#purport|SB 4.21.14]]
 * Rāma compared to, [[sb/1/15/40#purport|SB 1.15.40]]
+* recovered kingdom of, [[sb/1/8/5#purport|SB 1.8.5]], [[sb/1/10/2#purport|SB 1.10.2]]
 * reign of, [[sb/4/20/14#purport|SB 4.20.14]]
 * renunciation by, [[sb/1/15/32#purport|SB 1.15.32]], [[sb/1/15/37-41#purport|SB 1.15.37-41]], [[sb/1/15/43-44#purport|SB 1.15.43-44]]
 * retirement preparations by, [[sb/1/15/32#purport|SB 1.15.32]], [[sb/1/15/37-40#purport|SB 1.15.37-40]]
 * ruled out of duty, [[sb/1/10/1#purport|SB 1.10.1]]
-*  [[sb/3/21/2#purport|SB 3.21.2]], [[sb/3/21/30#purport|SB 3.21.30]], [[sb/9/22/27-28#purport|SB 9.22.27-28]], [[sb/9/22/29#purport|SB 9.22.29]]
 * sense gratification rejected by, [[sb/7/10/1#purport|SB 7.10.1]]
 * Śukadeva praises, [[sb/7/11/1#purport|SB 7.11.1]]
 * tolerance of, [[sb/3/1/11#purport|SB 3.1.11]]
@@ -87,4 +94,4 @@
 * Vyāsadeva &, [[sb/1/8/46#purport|SB 1.8.46]], [[sb/1/8/46#purport|SB 1.8.46]]
 * wife of, [[sb/3/1/7#purport|SB 3.1.7]], [[sb/3/1/43#purport|SB 3.1.43]]
 
-*See also:* [[p#Pāṇḍavas|Pāṇḍavas]]
+*See also:* Pāṇḍavas

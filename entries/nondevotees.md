@@ -1,9 +1,10 @@
-# Nondevotee(s)
+# Nondevotees
 
-**[[cc/adi/11/53#translation|Ādi 11.53]]**
+[[bg/1/28|Bg. 1.28]], [[bg/2/7|Bg. 2.7]], **[[cc/adi/11/53#translation|Ādi 11.53]]**
 
 * afraid at death, [[sb/9/13/9#purport|SB 9.13.9]]
 * anger against, [[sb/10/13/2#purport|SB 10.13.2]]
+* as death to, N107
 * as degraded, [[sb/1/18/8#purport|SB 1.18.8]]
 * as failures, [[sb/8/9/29#purport|SB 8.9.29]]
 * as harmful, [[sb/1/2/19#purport|SB 1.2.19]]
@@ -11,18 +12,19 @@
 * as sinners, [[sb/7/11/28#purport|SB 7.11.28]]
 * as son, [[sb/3/1/13#purport|SB 3.1.13]]
 * associating with, [[sb/3/1/13#purport|SB 3.1.13]], [[sb/4/4/26#purport|SB 4.4.26]]
-*  [[bg/1/28|Bg. 1.28]], [[bg/2/7|Bg. 2.7]]
+* bewilders, [[sb/1/9/38#purport|SB 1.9.38]]
 * Bhagavad-gītā cited on, [[sb/4/18/6#purport|SB 4.18.6]]
 * birth & death suffered by, [[sb/4/24/41#purport|SB 4.24.41]]
 * civiliātion of, condemned, [[sb/6/16/42#purport|SB 6.16.42]], [[sb/6/16/43#purport|SB 6.16.43]]
 * compared to rat in cat’s mouth, [[sb/4/12/30#purport|SB 4.12.30]]
+* compared with, [[sb/7/3/24#purport|SB 7.3.24]], [[sb/7/5/14#purport|SB 7.5.14]], [[sb/7/5/38#purport|SB 7.5.38]], [[sb/7/7/34#purport|SB 7.7.34]], [[sb/7/8/5#purport|SB 7.8.5]], [[sb/7/8/53#purport|SB 7.8.53]], [[sb/7/9/46#purport|SB 7.9.46]], [[sb/7/11/28#purport|SB 7.11.28]], [[sb/7/13/22#purport|SB 7.13.22]]
 * condemned, [[sb/10/10/2-3#purport|SB 10.10.2-3]]
 * creator denied by, [[sb/8/3/27#purport|SB 8.3.27]]
 * dangerous to society, [[sb/9/4/70#purport|SB 9.4.70]]
 * death of, [[sb/4/12/30#purport|SB 4.12.30]]
 * destiny of, [[sb/3/9/12#purport|SB 3.9.12]]
-* devotee compared with, [[sb/10/2/24#purport|SB 10.2.24]], [[sb/10/2/28#purport|SB 10.2.28]], [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/3/44#purport|SB 10.3.44]], [[sb/10/10/18#purport|SB 10.10.18]], [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/45#purport|SB 9.4.45]], [[sb/9/4/69#purport|SB 9.4.69]]
-* devotees 
+* devotee compared with, [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/45#purport|SB 9.4.45]], [[sb/9/4/69#purport|SB 9.4.69]], [[sb/10/2/24#purport|SB 10.2.24]], [[sb/10/2/28#purport|SB 10.2.28]], [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/3/44#purport|SB 10.3.44]], [[sb/10/10/18#purport|SB 10.10.18]]
+* devotees
 * devotees compared with, [[sb/1/11/19#purport|SB 1.11.19]], [[sb/4/22/23#purport|SB 4.22.23]], [[sb/4/22/39#purport|SB 4.22.39]], [[sb/4/24/59#purport|SB 4.24.59]], [[sb/4/24/68#purport|SB 4.24.68]], [[sb/8/8/38#purport|SB 8.8.38]], [[sb/8/23/8#purport|SB 8.23.8]]
 * devotees contrasted to, [[sb/4/9/7#purport|SB 4.9.7]], [[sb/4/12/30#purport|SB 4.12.30]], [[sb/4/13/1#purport|SB 4.13.1]], [[sb/4/15/23#purport|SB 4.15.23]]
 * devotees preach to, [[sb/1/13/38#purport|SB 1.13.38]]
@@ -35,12 +37,13 @@
 * fear death, [[sb/4/24/68#purport|SB 4.24.68]]
 * fear in, [[sb/6/9/37#purport|SB 6.9.37]]
 * good qualities lacking in, [[sb/7/2/24#purport|SB 7.2.24]], [[sb/7/5/5#purport|SB 7.5.5]]
-* goodness absent in, [[sb/10/10/13#purport|SB 10.10.13]], [[sb/7/11/8-12#purport|SB 7.11.8-12]]
+* goodness absent in, [[sb/7/11/8-12#purport|SB 7.11.8-12]], [[sb/10/10/13#purport|SB 10.10.13]]
 * hearing from, condemned, [[sb/3/19/33#purport|SB 3.19.33]]
 * hearing from, forbidden, [[sb/10/2/37#purport|SB 10.2.37]]
 * in ignorance, [[sb/7/15/47#purport|SB 7.15.47]]
 * in Lord’s external energy, [[sb/4/9/7#purport|SB 4.9.7]]
 * in ocean of nescience, [[sb/4/22/40-40#purport|SB 4.22.40-40]]
+* judge of, [[sb/1/9/32#purport|SB 1.9.32]]
 * karma ignored by, [[sb/7/9/41#purport|SB 7.9.41]]
 * Kṛṣṇa as misunderstood by, SB Intro 4-5
 * Kṛṣṇa as perceived by, [[sb/6/9/36-36#purport|SB 6.9.36-36]]
@@ -49,7 +52,7 @@
 * Kṛṣṇa’s advent benefits, [[sb/10/2/36#purport|SB 10.2.36]]
 * lamentable position of, [[sb/4/23/28#purport|SB 4.23.28]]
 * liberation not achieved by, [[sb/10/2/32#purport|SB 10.2.32]]
-* Lord , 
+* Lord
 * Lord destroys, [[sb/8/20/7#purport|SB 8.20.7]]
 * Lord disfavors, [[sb/8/3/28#purport|SB 8.3.28]]
 * Lord’s form &, [[sb/2/1/22#purport|SB 2.1.22]]
@@ -61,16 +64,18 @@
 * material opulence bad for, [[sb/9/4/15-16#purport|SB 9.4.15-16]]
 * māyā harasses, [[sb/3/20/27#purport|SB 3.20.27]]
 * nature’s laws control, [[sb/10/4/43#purport|SB 10.4.43]]
+* not known by, [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/44#purport|SB 10.3.44]], [[sb/10/3/45#purport|SB 10.3.45]]
 * philosophical confusion among, [[sb/6/4/31-31#purport|SB 6.4.31-31]]
 * punishable by Yamarāja, [[sb/6/3/29-29#purport|SB 6.3.29-29]]
 * qualities of, as material, [[sb/9/4/21#purport|SB 9.4.21]]
 * religion falsely shown by, [[sb/6/3/26#purport|SB 6.3.26]]
 * sense gratification pursued by, [[sb/8/8/38#purport|SB 8.8.38]]
-* suffering of, due to sin, [[sb/6/1/15#purport|SB 6.1.15]]
 * suffering of, [[sb/8/23/8#purport|SB 8.23.8]]
+* suffering of, due to sin, [[sb/6/1/15#purport|SB 6.1.15]]
 * Śukadeva exposes, [[sb/2/2/18#purport|SB 2.2.18]]
 * surrender shunned by, [[sb/7/11/28#purport|SB 7.11.28]]
+* to avoid, [[sb/7/5/37#purport|SB 7.5.37]]
 * Vedic rituals futile for, [[sb/7/15/29#purport|SB 7.15.29]]
 * world full of, [[sb/4/13/10#purport|SB 4.13.10]]
 
-*See also:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]; [[i#Impersonalists|Impersonalists]]; [[m#Materialists|Materialists]]; specific nondevotees; [[k#Karmīs|Karmīs]]; Philosophers; speculative; [[j#Jñānīs|Jñānīs]]; [[y#Yogīs|Yogīs]]
+*See also:* Atheists; Demons; Impersonalists; Karmīs; Materialists; Philosophers; speculative; specific nondevotees; Jñānīs; Yogīs

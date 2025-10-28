@@ -1,8 +1,8 @@
 # Hearing
 
 * about devotees, [[sb/3/19/34#purport|SB 3.19.34]], [[sb/4/23/33#purport|SB 4.23.33]], [[sb/4/23/39#purport|SB 4.23.39]], [[sb/4/24/16#purport|SB 4.24.16]]
-* about Kṛṣṇa. See: Hearing about Lord; Hearing & chanting about Lord 
-* about Lord. See: Hearing about Supreme Lord 
+* about Kṛṣṇa. See: Hearing about Lord; Hearing & chanting about Lord
+* about Lord. See: Hearing about Supreme Lord
 * about Pṛthu’s pastimes, [[sb/4/23/31-39#purport|SB 4.23.31-39]], [[sb/4/23/39#purport|SB 4.23.39]]
 * as primary devotional function, [[sb/2/2/36#purport|SB 2.2.36]]
 * beneficial or degrading, [[sb/2/1/2#purport|SB 2.1.2]], [[sb/2/2/36#purport|SB 2.2.36]]
@@ -29,4 +29,4 @@
 * value of, [[sb/3/6/17#purport|SB 3.6.17]]
 * worthwhile subject for, [[sb/3/13/48#purport|SB 3.13.48]], [[sb/3/13/50#purport|SB 3.13.50]]
 
-*See also:* [[s#Sound|Sound]]; transcendental; [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]
+*See also:* [Sound](entries/sound.md); transcendental; Hearing about Supreme Lord

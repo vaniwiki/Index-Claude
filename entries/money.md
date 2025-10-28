@@ -9,6 +9,7 @@
 * attachment to, [[sb/7/6/10#purport|SB 7.6.10]], [[sb/7/6/14-15#purport|SB 7.6.14-15]]
 * author prudent with, [[sb/7/13/34#purport|SB 7.13.34]]
 * big industry &, [[sb/4/20/21#purport|SB 4.20.21]]
+* blinded by, [[sb/7/6/14#purport|SB 7.6.14]]
 * brāhmaṇas’ use of??, [[sb/5/26/36#purport|SB 5.26.36]]
 * by magic wand, material life compared to, [[sb/1/15/21#purport|SB 1.15.21]]
 * ceremonies require, [[sb/8/23/31#purport|SB 8.23.31]]
@@ -19,6 +20,7 @@
 * devotee utilizes, [[sb/9/9/44#purport|SB 9.9.44]]
 * distribution of, impractical, [[sb/4/9/24#purport|SB 4.9.24]]
 * enjoyment of stolen, [[sb/5/14/24#purport|SB 5.14.24]]
+* enslaved by, [[sb/7/13/32#purport|SB 7.13.32]], [[sb/7/13/33#purport|SB 7.13.33]], [[sb/7/14/8#purport|SB 7.14.8]]
 * extravagance with, sinful, [[sb/8/19/17#purport|SB 8.19.17]]
 * family members plunder, [[sb/5/14/3#purport|SB 5.14.3]]
 * family’s share of, [[sb/8/19/37#purport|SB 8.19.37]]
@@ -41,7 +43,7 @@
 * Lord alone can protect, [[sb/7/2/40#purport|SB 7.2.40]]
 * low-class men misuse, [[sb/7/14/11#purport|SB 7.14.11]]
 * material compared with spiritual uses of, [[sb/8/19/41#purport|SB 8.19.41]]
-* materialist 
+* materialist
 * materialists pursue, [[sb/4/22/23-23#purport|SB 4.22.23-23]]
 * māyā misuses, [[sb/7/14/16#purport|SB 7.14.16]]
 * millionaire’s eagerness for, compared to devotee’s eagerness for service, [[sb/9/5/27#purport|SB 9.5.27]]
@@ -63,6 +65,6 @@
 * surplus, to Kṛṣṇa, [[sb/7/14/8#purport|SB 7.14.8]]
 * vaiśyas’ means of aquiring, [[sb/5/26/36#purport|SB 5.26.36]]
 
-*See also:* [[e#Economic development|Economic development]]; [[g#Gold|Gold]]; [[o#Opulence|Opulence]]; [[w#Wealth|Wealth]]; Opulences; material
+*See also:* [Gold](entries/gold.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); Opulences; material; Economic development
 
-*See:* [[w#Wealth|Wealth]]
+*See:* [Wealth](entries/wealth.md)

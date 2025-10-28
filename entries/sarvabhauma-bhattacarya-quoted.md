@@ -1,6 +1,6 @@
 # Sārvabhauma Bhaṭṭācārya quoted
 
-**[[cc/madhya/10/15–16#translation|Madhya 10.15–16]]**, **[[cc/madhya/10/8–13#translation|Madhya 10.8–13]]**, **[[cc/madhya/11/103#translation|Madhya 11.103]]**, **[[cc/madhya/11/115–16#translation|Madhya 11.115–16]]**
+**[[cc/madhya/10/8–13#translation|Madhya 10.8–13]]**, **[[cc/madhya/10/15–16#translation|Madhya 10.15–16]]**, **[[cc/madhya/11/103#translation|Madhya 11.103]]**, **[[cc/madhya/11/115–16#translation|Madhya 11.115–16]]**
 
 * on atonement, **[[cc/madhya/15/261–64#translation|Madhya 15.261–64]]**
 * on Bengal devotees, **[[cc/madhya/11/110#translation|Madhya 11.110]]**

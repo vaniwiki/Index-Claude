@@ -1,6 +1,6 @@
 # Impersonalism/Impersonalists
 
-[[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/19/164#purport|Madhya 19.164]], [[cc/madhya/24/124#purport|Madhya 24.124]], **[[cc/madhya/24/141#translation|Madhya 24.141]]**, **[[cc/madhya/25/32#translation|Madhya 25.32]]**, [[cc/madhya/9/360#purport|Madhya 9.360]]
+[[cc/madhya/24/124#purport|Madhya 24.124]], [[cc/madhya/9/360#purport|Madhya 9.360]], **[[cc/madhya/24/141#translation|Madhya 24.141]]**, **[[cc/madhya/25/32#translation|Madhya 25.32]]**, [[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/19/164#purport|Madhya 19.164]]
 
 * as demons, [[cc/madhya/17/104#purport|Madhya 17.104]]
 * Brahmānanda Bhāratī &, **[[cc/madhya/10/175–78#translation|Madhya 10.175–78]]**
@@ -37,4 +37,4 @@
 * Viṣṇu worship by, [[cc/madhya/8/60#purport|Madhya 8.60]]
 * yoga system &, [[cc/madhya/20/135#purport|Madhya 20.135]]
 
-*See also:* [[m#Māyāvāda philosophy|Māyāvāda philosophy]]; [[m#Māyāvādīs|Māyāvādīs]]; [[s#Śaṅkarācārya|Śaṅkarācārya]]
+*See also:* Māyāvāda philosophy; Māyāvādīs; Śaṅkarācārya

@@ -1,14 +1,26 @@
 # Transmigration of soul(s)
 
-[[bg/2/13|Bg. 2.13]], [[sb/1/13/44#purport|SB 1.13.44]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/3/25/7#purport|SB 3.25.7]]
+[[cc/adi/12/70#purport|Ādi 12.70]], [[cc/adi/16/23#purport|Ādi 16.23]], [[cc/madhya/3/181#purport|Madhya 3.181]], [[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/19/140#purport|Madhya 19.140]], [[cc/madhya/22/142#purport|Madhya 22.142]], [[cc/madhya/24/104#purport|Madhya 24.104]], [[cc/antya/5/114#purport|Antya 5.114]], [[bg/2/13|Bg. 2.13]], [[sb/1/13/44#purport|SB 1.13.44]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/3/25/7#purport|SB 3.25.7]], [[sb/4/27/14#purport|SB 4.27.14]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/34#purport|SB 4.30.34]]
 
 * ”intermediate” period in, [[sb/2/1/15#purport|SB 2.1.15]]
-* yoga continued during, [[bg/6/41–45|Bg. 6.41–45]]
 * *yogī* controls, [[bg/12/6|Bg. 12.6]] (3)
-* according to 
+* according to
+  * karma, 15.8
+  * association with modes of nature, [[bg/13/22|Bg. 13.22]]
+  * consciousness, [[bg/15/8|Bg. 15.8]]
+  * contact with matter, [[bg/15/16|Bg. 15.16]]
+  * desire, [[bg/8/6|Bg. 8.6]], [[bg/13/22|Bg. 13.22]]
+  * living entity’s independence, [[bg/15/8|Bg. 15.8]]
+  * Lord’s control, [[bg/16/19|Bg. 16.19]]
+  * modes of nature, [[bg/14/14–15|Bg. 14.14–15]], [[bg/14/18|Bg. 14.18]]
+  * nature’s influence, [[bg/13/22|Bg. 13.22]]
+  * Supersoul, [[bg/18/61|Bg. 18.61]]
+  * thoughts at death, [[bg/8/6|Bg. 8.6]]
+  * time of passing, [[bg/8/23–26|Bg. 8.23–26]]
 * advance preparation for, [[sb/2/1/15-16#purport|SB 2.1.15-16]]
 * as beginningless, [[sb/3/31/44#purport|SB 3.31.44]]
 * as birth-death cycle, [[bg/9/21|Bg. 9.21]]
+  * *See also:* Birth-death cycle
 * as cycle, [[sb/3/25/38#purport|SB 3.25.38]]
 * as evolution of soul, [[sb/4/25/9#purport|SB 4.25.9]], [[sb/4/29/4-4#purport|SB 4.29.4-4]], [[sb/4/29/1#purport|SB 4.29.1]]a-2a
 * as forced, [[sb/4/8/57#purport|SB 4.8.57]]
@@ -24,14 +36,19 @@
 * by Bharata Mahārāja, [[bg/6/43|Bg. 6.43]], [[bg/8/6|Bg. 8.6]]
 * by demoniac persons, [[sb/5/14/27#purport|SB 5.14.27]]
 * by desire, [[sb/6/1/31#purport|SB 6.1.31]], [[sb/6/1/54-54#purport|SB 6.1.54-54]]
-* cause(s) of 
+* cause(s) of, [[sb/3/26/38#purport|SB 3.26.38]]
+  * *See also:* Transmigration of souls; according to . . .
+  * forgetfulness about Lord as, [[bg/2/22|Bg. 2.22]]
 * causes & influences of, [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/18-20#purport|SB 4.29.18-20]]
 * causes for, [[sb/2/8/14#purport|SB 2.8.14]]
-* causes of, [[sb/3/26/38#purport|SB 3.26.38]]
 * changes via, [[sb/7/7/18#purport|SB 7.7.18]]
 * chanting Kṛṣṇa’s name surpasses, SB Intro 40, [[sb/1/1/14#purport|SB 1.1.14]]
-* compared 
-* compared to 
+* compared
+  * to changing clothes, 10, [[bg/2/22|Bg. 2.22]], [[bg/13/22|Bg. 13.22]]
+  * to ferris-wheel ride, [[bg/9/21|Bg. 9.21]]
+  * to growing, [[bg/2/13|Bg. 2.13]], [[bg/2/22|Bg. 2.22]]
+  * to wandering from branch to branch, [[bg/15/1|Bg. 15.1]]
+* compared to
 * compared to animal’s changing owners, [[sb/6/16/7#purport|SB 6.16.7]]
 * compared to caterpillar’s movements, [[sb/4/29/76-77#purport|SB 4.29.76-77]]
 * compared to dreaming, [[sb/3/33/26#purport|SB 3.33.26]]
@@ -41,7 +58,8 @@
 * conditions attending, [[sb/6/1/47#purport|SB 6.1.47]]
 * consciousness carried in, [[sb/4/7/9#purport|SB 4.7.9]]
 * continuity of, [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/29/65-65#purport|SB 4.29.65-65]], [[sb/4/29/66#purport|SB 4.29.66]]
-* controlled by authorities, 23 
+* continuous in spite of, [[sb/4/29/64#purport|SB 4.29.64]]
+* controlled by authorities, 23
 * cycle of, [[sb/4/26/8-8#purport|SB 4.26.8-8]]
 * defined, [[sb/2/1/15#purport|SB 2.1.15]], [[sb/4/29/75#purport|SB 4.29.75]]
 * demons’ degradation in, [[sb/1/2/16#purport|SB 1.2.16]]
@@ -56,12 +74,16 @@
 * devotional service stops, [[sb/3/21/18#purport|SB 3.21.18]]
 * directed by Lord as Supersoul, [[sb/3/31/1-1#purport|SB 3.31.1-1]]
 * downward, [[bg/8/3|Bg. 8.3]], [[bg/14/15|Bg. 14.15]], [[sb/3/30/19#purport|SB 3.30.19]]
+* dreaming, [[sb/10/1/41#purport|SB 10.1.41]], N100-101
 * dreams influenced by past lives of, [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/29/67-67#purport|SB 4.29.67-67]]
-* end of 
+* end of
+  * *See also:* Godhead; returning to; Liberation
+  * via return to Lord’s abode, [[bg/8/15|Bg. 8.15]]
 * ended by devotee’s association, [[sb/4/25/6#purport|SB 4.25.6]]
 * entanglement of, [[sb/4/28/53#purport|SB 4.28.53]]
 * escape from, [[sb/6/16/39-39#purport|SB 6.16.39-39]]
 * evolutionary process of, [[bg/14/15|Bg. 14.15]]
+* fire, [[sb/10/1/51#purport|SB 10.1.51]], N102
 * foods eaten in, [[sb/4/7/24#purport|SB 4.7.24]]
 * for conditioned souls, [[sb/1/12/19#purport|SB 1.12.19]]
 * for devotees of Lord, [[sb/4/7/9#purport|SB 4.7.9]]
@@ -70,14 +92,17 @@
 * for unsuccessful transcendentalists, [[sb/1/2/29#purport|SB 1.2.29]], [[sb/1/5/19#purport|SB 1.5.19]]
 * for unsuccessful yogī, [[sb/4/28/28#purport|SB 4.28.28]]
 * forgetfulness via, [[bg/7/26|Bg. 7.26]], [[bg/15/15|Bg. 15.15]], [[bg/18/61|Bg. 18.61]]
-* freedom from 
 * freedom from, [[sb/1/15/41#purport|SB 1.15.41]], [[sb/7/6/1#purport|SB 7.6.1]], [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/7/7/40#purport|SB 7.7.40]]
+  * *See also:* Godhead; returning to; Liberation
+  * via devotional service, [[bg/5/2|Bg. 5.2]], [[bg/13/22|Bg. 13.22]]
+  * via self-realization, [[bg/5/19|Bg. 5.19]]
 * freedom from, via Kṛṣṇa, [[sb/6/1/1-1#purport|SB 6.1.1-1]], [[sb/6/1/40#purport|SB 6.1.40]], [[sb/6/5/13-13#purport|SB 6.5.13-13]]
-* freedom from. See: Liberation , 
 * from hell to humanity, [[sb/3/31/1#purport|SB 3.31.1]]
 * from higher planets, [[bg/8/16|Bg. 8.16]], [[bg/9/21|Bg. 9.21]]
 * from killer to victim, [[bg/14/16|Bg. 14.16]]
 * from mode of goodness, [[bg/14/6|Bg. 14.6]]
+* fruitive reactions as, [[sb/3/31/43-43#purport|SB 3.31.43-43]]
+* guaranteed process for, [[sb/4/29/85#purport|SB 4.29.85]]
 * ignorance about, [[sb/4/28/10#purport|SB 4.28.10]], [[sb/4/28/21#purport|SB 4.28.21]], [[sb/4/29/6#purport|SB 4.29.6]], [[sb/4/29/59#purport|SB 4.29.59]], [[sb/4/29/60#purport|SB 4.29.60]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/30/48#purport|SB 4.30.48]]
 * ignorance causes, [[sb/4/27/9#purport|SB 4.27.9]]
 * ignorance continues, [[bg/2/51|Bg. 2.51]]
@@ -98,11 +123,14 @@
 * knowledge about, [[sb/4/29/6#purport|SB 4.29.6]]
 * knowledge of, conquers lamentation, [[sb/7/15/23#purport|SB 7.15.23]]
 * knowledge of, necessary, [[sb/3/29/3#purport|SB 3.29.3]]
-* Kṛṣṇa consciousness 
+* Kṛṣṇa consciousness
 * leaders ignorant of, [[sb/2/1/15-16#purport|SB 2.1.15-16]]
-* liberation from. See: Liberation 
+* liberation from. See: Liberation
 * life in this body demonstrates, [[sb/4/28/10#purport|SB 4.28.10]]
-* Lord 
+* Lord
+  * directs, [[bg/18/61|Bg. 18.61]]
+  * explains, [[bg/2/13–27|Bg. 2.13–27]]
+  * immune to, [[bg/4/5|Bg. 4.5]], [[bg/4/6|Bg. 4.6]]
 * Lord as director of, [[sb/6/12/12-12#purport|SB 6.12.12-12]]
 * Lord explains, [[sb/4/29/75#purport|SB 4.29.75]]
 * Lord supervises, [[sb/7/9/21#purport|SB 7.9.21]]
@@ -113,6 +141,7 @@
 * mind cause of, [[sb/5/11/5#purport|SB 5.11.5]], [[sb/5/11/7#purport|SB 5.11.7]]
 * mind remembers, [[sb/4/29/64#purport|SB 4.29.64]]
 * miseries accompany, [[sb/3/31/6#purport|SB 3.31.6]]
+* modes of nature as, [[sb/3/25/40#purport|SB 3.25.40]], [[sb/3/27/3#purport|SB 3.27.3]], [[sb/3/28/43#purport|SB 3.28.43]]
 * modes of nature determine, [[sb/3/25/40#purport|SB 3.25.40]], [[sb/3/27/3#purport|SB 3.27.3]], [[sb/3/28/43#purport|SB 3.28.43]]
 * need to understand, [[sb/7/7/21#purport|SB 7.7.21]]
 * of *yogī, *unsuccessful, [[bg/6/41–43|Bg. 6.41–43]]
@@ -131,7 +160,6 @@
 * proof of, [[sb/4/21/15#purport|SB 4.21.15]]
 * rectum &, [[sb/4/25/53#purport|SB 4.25.53]]
 * remembrance of, in womb, [[sb/3/31/9#purport|SB 3.31.9]]
-*  [[sb/4/27/14#purport|SB 4.27.14]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/34#purport|SB 4.30.34]]
 * self-realized not bewildered by, [[bg/2/13|Bg. 2.13]]
 * sense gratification continues, [[bg/5/2|Bg. 5.2]]
 * sex desire causes, [[sb/9/18/39#purport|SB 9.18.39]]
@@ -139,6 +167,7 @@
 * soul’s existence proven via, [[sb/1/3/32#purport|SB 1.3.32]]
 * species arranged for, [[bg/16/19|Bg. 16.19]]
 * spiritual progress continues in spite of, [[bg/6/40|Bg. 6.40]], [[bg/6/42–45|Bg. 6.42–45]]
+* stops, [[sb/4/29/69#purport|SB 4.29.69]]
 * subtle body &, [[bg/15/8|Bg. 15.8]]
 * subtle body determines, [[sb/3/26/34#purport|SB 3.26.34]]
 * suffering continued by, [[bg/2/8|Bg. 2.8]]
@@ -165,6 +194,9 @@
 * to higher or lower planets, [[sb/4/30/18#purport|SB 4.30.18]]
 * to higher planets & back, [[sb/3/32/3-3#purport|SB 3.32.3-3]], [[sb/3/32/20-20#purport|SB 3.32.20-20]]
 * to higher planets, [[bg/6/41|Bg. 6.41]]
+  * demons attempt, [[bg/16/16|Bg. 16.16]]
+  * via demigod worship, [[bg/9/25|Bg. 9.25]]
+  * via hearing *Gītā *properly, [[bg/18/71|Bg. 18.71]]
 * to human form of life, [[bg/2/40|Bg. 2.40]], [[bg/14/15|Bg. 14.15]]
 * to human life, [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/28/28#purport|SB 4.28.28]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/1#purport|SB 4.29.1]]a-2a
 * to lower species, [[sb/2/1/16#purport|SB 2.1.16]]
@@ -185,6 +217,7 @@
 * via father’s semen, [[sb/3/16/35#purport|SB 3.16.35]]
 * via forgetting identity, [[sb/4/22/47#purport|SB 4.22.47]]
 * via fruitive activities, [[sb/4/25/5#purport|SB 4.25.5]], [[sb/4/29/36-37#purport|SB 4.29.36-37]]
+* via hearing Nārada’s Purañjana allegory, [[sb/4/29/85#purport|SB 4.29.85]]
 * via ignorance, [[sb/4/29/71#purport|SB 4.29.71]], [[sb/7/7/27#purport|SB 7.7.27]], [[sb/7/7/47#purport|SB 7.7.47]]
 * via kāma, [[sb/4/29/58-78#purport|SB 4.29.58-78]]
 * via karma, [[sb/1/13/44#purport|SB 1.13.44]], [[sb/4/8/2#purport|SB 4.8.2]], [[sb/4/8/57#purport|SB 4.8.57]]
@@ -203,5 +236,6 @@
 * via yoga process, [[sb/4/4/24#purport|SB 4.4.24]], [[sb/4/4/25#purport|SB 4.4.25]]
 * work determines, [[sb/3/5/19#purport|SB 3.5.19]]
 * Yamarāja supervises, [[sb/7/11/7#purport|SB 7.11.7]]
+* yoga continued during, [[bg/6/41–45|Bg. 6.41–45]]
 
-*See also:* [[b#Birth-death cycle|Birth-death cycle]]; Birth & death; repeated; [[d#Death|Death]]; [[e#Evolution|Evolution]]; [[l#Liberation|Liberation]]
+*See also:* [Evolution](entries/evolution.md); [Liberation](entries/liberation.md); Birth & death; repeated; [Death](entries/deaths.md); Birth-death cycle

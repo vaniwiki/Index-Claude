@@ -1,10 +1,9 @@
 # Space travel
 
-[[cc/madhya/8/139#purport|Madhya 8.139]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/3/33/15#purport|SB 3.33.15]]
+[[bg/19|Bg. 19]], [[bg/20|Bg. 20]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/3/33/15#purport|SB 3.33.15]]
 
 * airplane &, [[sb/8/23/26-27#purport|SB 8.23.26-27]]
 * as waste of time, [[sb/4/29/48#purport|SB 4.29.48]]
-*  [[bg/19|Bg. 19]], [[bg/20|Bg. 20]]
 * by Brahmā, [[sb/3/24/20#purport|SB 3.24.20]]
 * by conditioned souls, [[sb/1/11/35#purport|SB 1.11.35]]
 * by demigods, [[sb/1/16/3#purport|SB 1.16.3]], [[sb/4/22/48#purport|SB 4.22.48]]

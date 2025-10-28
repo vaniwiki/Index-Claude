@@ -15,4 +15,4 @@
 * Marīci cited as authority on, [[sb/1/6/31#purport|SB 1.6.31]]
 * other planets attained via, [[sb/1/5/18#purport|SB 1.5.18]]
 
-*See also:* [[d#Duty|Duty]]; occupational
+*See also:* [Duty](entries/duties.md); occupational

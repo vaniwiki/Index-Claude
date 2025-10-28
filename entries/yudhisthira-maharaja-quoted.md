@@ -1,5 +1,6 @@
 # Yudhiṣṭhira Mahārāja quoted
 
+* mercy of, [[sb/1/14/9#purport|SB 1.14.9]]
 * on Arjuna, [[sb/1/14/6-7#purport|SB 1.14.6-7]]
 * on Dantavakra & Śiśupāla, [[sb/7/1/19-20#purport|SB 7.1.19-20]]
 * on Hiraṇyakaśipu & Prahlāda, [[sb/7/1/48#purport|SB 7.1.48]]
@@ -13,3 +14,4 @@
 * on Śiśupāla, [[sb/7/1/16-17#purport|SB 7.1.16-17]]
 * on spiritual world’s inhabitants, [[sb/7/1/34-35#purport|SB 7.1.34-35]]
 * on Vidura, [[sb/1/13/8-11#purport|SB 1.13.8-11]]
+* protecting Yadus, [[sb/1/14/35-36#purport|SB 1.14.35-36]]

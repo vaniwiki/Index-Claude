@@ -1,6 +1,6 @@
 # Vāmana, Lord
 
-[[cc/adi/12/35#purport|Ādi 12.35]], [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/5/129#translation|Ādi 5.129]]**, [[cc/antya/19/107#purport|Antya 19.107]], [[cc/antya/9/10#purport|Antya 9.10]], [[bg/8/22|Bg. 8.22]], **[[cc/madhya/20/197#translation|Madhya 20.197]]**, **[[cc/madhya/20/200#translation|Madhya 20.200]]**, **[[cc/madhya/20/220#translation|Madhya 20.220]]**, **[[cc/madhya/20/230#translation|Madhya 20.230]]**, [[cc/madhya/20/244#purport|Madhya 20.244]], **[[cc/madhya/20/298–99#translation|Madhya 20.298–99]]**, **[[cc/madhya/24/20–21#translation|Madhya 24.20–21]]**, [[sb/10/7/7#purport|SB 10.7.7]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/6/6/38-39#purport|SB 6.6.38-39]]
+[[bg/8/22|Bg. 8.22]], [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/5/129#translation|Ādi 5.129]]**, [[cc/adi/12/35#purport|Ādi 12.35]], **[[cc/madhya/20/197#translation|Madhya 20.197]]**, **[[cc/madhya/20/200#translation|Madhya 20.200]]**, **[[cc/madhya/20/220#translation|Madhya 20.220]]**, **[[cc/madhya/20/230#translation|Madhya 20.230]]**, [[cc/madhya/20/244#purport|Madhya 20.244]], **[[cc/madhya/20/298–99#translation|Madhya 20.298–99]]**, **[[cc/madhya/24/20–21#translation|Madhya 24.20–21]]**, [[cc/antya/9/10#purport|Antya 9.10]], [[cc/antya/19/107#purport|Antya 19.107]], [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/2/26#purport|SB 1.2.26]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/19#purport|SB 1.3.19]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/6/6/38-39#purport|SB 6.6.38-39]], [[sb/10/7/7#purport|SB 10.7.7]]
 
 * as brahmacārī, [[sb/8/18/12#purport|SB 8.18.12]], [[sb/8/18/13#purport|SB 8.18.13]], [[sb/8/18/15#purport|SB 8.18.15]], [[sb/8/18/18#purport|SB 8.18.18]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/19/30#purport|SB 8.19.30]], [[sb/8/19/32#purport|SB 8.19.32]], [[sb/8/19/34#purport|SB 8.19.34]], [[sb/8/20/12#purport|SB 8.20.12]], [[sb/8/21/11#purport|SB 8.21.11]]
 * as brāhmaṇa, [[sb/8/18/12#purport|SB 8.18.12]], [[sb/8/18/13#purport|SB 8.18.13]], [[sb/8/18/24-25#purport|SB 8.18.24-25]], [[sb/8/18/29#purport|SB 8.18.29]], [[sb/8/20/12#purport|SB 8.20.12]], [[sb/8/21/10#purport|SB 8.21.10]]
@@ -10,14 +10,14 @@
 * as Nārāyaṇa, [[sb/8/18/12#purport|SB 8.18.12]]
 * as Urukrama, [[sb/8/21/4#purport|SB 8.21.4]]
 * as Viṣṇu, [[sb/1/12/25#purport|SB 1.12.25]], [[sb/8/21/10-13#purport|SB 8.21.10-13]]
-* Bali 
-* Bali Mahārāja &. See: Bali Mahārāja, Vāmana & ... 
+* Bali
+* Bali Mahārāja &. See: Bali Mahārāja, Vāmana & ...
 * Bali’s charity to, [[sb/2/7/17#purport|SB 2.7.17]], [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/7/27#purport|SB 2.7.27]]
 * beauty of, [[sb/8/18/18#purport|SB 8.18.18]], [[sb/8/18/26#purport|SB 8.18.26]]
 * begged land from Bali, [[sb/8/19/16#purport|SB 8.19.16]], [[sb/8/19/17#purport|SB 8.19.17]], [[sb/8/19/19#purport|SB 8.19.19]], [[sb/8/19/27#purport|SB 8.19.27]], [[sb/8/20/12#purport|SB 8.20.12]], [[sb/8/21/9#purport|SB 8.21.9]], [[sb/8/23/19#purport|SB 8.23.19]]
 * birth ceremony for, [[sb/8/18/13#purport|SB 8.18.13]]
 * body of, covered sky, [[sb/8/20/32-33#purport|SB 8.20.32-33]]
-* Brahmā 
+* Brahmā
 * Brahmā honored, [[sb/8/23/20-21#purport|SB 8.23.20-21]], [[sb/8/23/22-23#purport|SB 8.23.22-23]], [[sb/8/23/26-27#purport|SB 8.23.26-27]]
 * brahmacārīs advised by, [[sb/8/19/2#purport|SB 8.19.2]]
 * Brahmaloka outshone by, [[sb/8/21/1#purport|SB 8.21.1]]
@@ -25,6 +25,7 @@
 * demigods favored by, [[sb/8/19/30#purport|SB 8.19.30]], [[sb/8/21/10#purport|SB 8.21.10]]
 * demigods honored, [[sb/8/23/20-21#purport|SB 8.23.20-21]], [[sb/8/23/22-23#purport|SB 8.23.22-23]], [[sb/8/23/26-27#purport|SB 8.23.26-27]]
 * demons angry at, [[sb/8/21/9-14#purport|SB 8.21.9-14]]
+* donated possessions to, [[sb/5/24/18#purport|SB 5.24.18]]
 * dress of, [[sb/8/18/24-25#purport|SB 8.18.24-25]]
 * Earth stepped on by, [[sb/8/18/20-20#purport|SB 8.18.20-20]]
 * effulgence of, [[sb/8/18/18#purport|SB 8.18.18]], [[sb/8/18/21#purport|SB 8.18.21]], [[sb/8/18/22#purport|SB 8.18.22]], [[sb/8/18/24-25#purport|SB 8.18.24-25]]
@@ -36,21 +37,25 @@
 * Indra transported, to heavenly planet, [[sb/8/23/24#purport|SB 8.23.24]]
 * Jāmbavān honored, [[sb/8/21/8#purport|SB 8.21.8]]
 * Kṛṣṇalike, [[sb/8/21/5#purport|SB 8.21.5]]
+* outshone by, [[sb/8/21/1#purport|SB 8.21.1]]
 * paraphernalia carried by, [[sb/8/18/23#purport|SB 8.18.23]]
 * parents of, [[sb/1/9/8#purport|SB 1.9.8]], [[sb/8/13/6#purport|SB 8.13.6]], [[sb/8/19/30#purport|SB 8.19.30]]
 * planetary deities worshiped, [[sb/8/21/5#purport|SB 8.21.5]], [[sb/8/21/6-7#purport|SB 8.21.6-7]]
 * power of, [[sb/6/9/40#purport|SB 6.9.40]]
+* prayed to, [[sb/8/21/2-3#purport|SB 8.21.2-3]]
 * protection by, [[sb/6/8/13#purport|SB 6.8.13]]
 * prowess of, [[sb/2/7/40#purport|SB 2.7.40]]
 * quoted on Hiraṇyakaśipu & Viṣṇu, [[sb/8/19/10#purport|SB 8.19.10]]
 * Rāvaṇa &, [[sb/5/24/27#purport|SB 5.24.27]]
 * sacred thread ceremony for, [[sb/8/18/13#purport|SB 8.18.13]], [[sb/8/18/14-15#purport|SB 8.18.14-15]], [[sb/8/18/16#purport|SB 8.18.16]]
 * sannyāsīs advised by, [[sb/8/19/2#purport|SB 8.19.2]]
-*  [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/2/26#purport|SB 1.2.26]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/19#purport|SB 1.3.19]], [[sb/1/3/28#purport|SB 1.3.28]]
 * second step of, pierced universe, [[sb/8/20/34#purport|SB 8.20.34]]
 * Śukrācārya detected purpose of, [[sb/8/19/29-35#purport|SB 8.19.29-35]]
+* tricked by, [[sb/5/1/35#purport|SB 5.1.35]]
 * Trivikrama name of, [[sb/5/17/1#purport|SB 5.17.1]]
 * universal form shown by, [[sb/8/21/5#purport|SB 8.21.5]]
 * universe encompassed by, [[sb/8/20/21#purport|SB 8.20.21]], [[sb/8/21/30#purport|SB 8.21.30]], [[sb/8/21/31#purport|SB 8.21.31]], [[sb/8/22/2#purport|SB 8.22.2]]
 * universe pierced by, [[sb/5/17/1#purport|SB 5.17.1]]
 * Urukrama name of, [[sb/5/1/35#purport|SB 5.1.35]]
+* washed feet of, [[sb/8/21/4#purport|SB 8.21.4]]
+* worshiped, [[sb/8/21/2-3#purport|SB 8.21.2-3]], [[sb/8/21/5#purport|SB 8.21.5]]

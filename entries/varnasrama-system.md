@@ -10,4 +10,4 @@
 * renounced orders in, [[sb/3/33/12#purport|SB 3.33.12]]
 * social orders in, [[sb/3/32/36#purport|SB 3.32.36]]
 
-*See also:* Āryan civilization; Brahmacārīs; [[b#Brāhmaṇas|Brāhmaṇas]]; [[g#Gṛhasthas|Gṛhasthas]]; [[k#Kṣatriyas|Kṣatriyas]]; [[s#Sannyāsīs|Sannyāsīs]]; [[s#Śūdras|Śūdras]]; [[v#Vaiśyas|Vaiśyas]]; Vānaprasthas
+*See also:* Āryan civilization; Brahmacārīs; Brāhmaṇas; Gṛhasthas; Kṣatriyas; Sannyāsīs; Śūdras; Vaiśyas; Vānaprasthas

@@ -1,6 +1,6 @@
 # Old age
 
-[[sb/3/2/3#purport|SB 3.2.3]]
+[[bg/13/8|Bg. 13.8]] (9), [[sb/3/2/3#purport|SB 3.2.3]], [[sb/4/27/15#purport|SB 4.27.15]], [[sb/4/27/17#purport|SB 4.27.17]], [[sb/4/29/2#purport|SB 4.29.2]], [[sb/4/29/22#purport|SB 4.29.22]]
 
 * anxiety in, [[sb/7/6/7#purport|SB 7.6.7]]
 * as dangerous, [[sb/4/28/1-2#purport|SB 4.28.1-2]]
@@ -12,7 +12,6 @@
 * as suffering, [[sb/1/13/19#purport|SB 1.13.19]]
 * as Time’s daughter, [[sb/4/27/19-30#purport|SB 4.27.19-30]]
 * attachment to sense gratification at, [[sb/4/28/6-7#purport|SB 4.28.6-7]]
-*  [[bg/13/8|Bg. 13.8]] (9), [[sb/4/27/15#purport|SB 4.27.15]], [[sb/4/27/17#purport|SB 4.27.17]], [[sb/4/29/2#purport|SB 4.29.2]], [[sb/4/29/22#purport|SB 4.29.22]]
 * cause of, & protection from, [[sb/4/29/22#purport|SB 4.29.22]]
 * confusion at, [[sb/4/28/9#purport|SB 4.28.9]]
 * Cyavana Muni in, [[sb/9/3/10#purport|SB 9.3.10]], [[sb/9/3/14#purport|SB 9.3.14]]
@@ -34,4 +33,4 @@
 * value of, [[sb/4/27/27-28#purport|SB 4.27.27-28]], [[sb/4/27/29#purport|SB 4.27.29]]
 * Yayāti exchanged, [[sb/9/18/42-45#purport|SB 9.18.42-45]], [[sb/9/19/21#purport|SB 9.19.21]]
 
-*See also:* [[a#Age (time of life)|Age (time of life)]]; [[l#Life|Life]]; span of; [[t#Time|Time]]
+*See also:* Age (time of life); [Life](entries/life.md); span of; [Time](entries/time.md)

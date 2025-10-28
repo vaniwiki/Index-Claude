@@ -1,5 +1,7 @@
 # Supersoul (Paramātmā)
 
+[[sb/6/16/18-19#purport|SB 6.16.18-19]], [[sb/6/16/25#purport|SB 6.16.25]], [[sb/6/16/51#purport|SB 6.16.51]], [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/55#purport|SB 6.16.55]], [[sb/6/17/33#purport|SB 6.17.33]], [[sb/6/19/13#purport|SB 6.19.13]]
+
 * ”unification” of, with soul, [[sb/4/8/82#purport|SB 4.8.82]]
 * affection exchanged with, [[sb/2/7/47#purport|SB 2.7.47]]
 * affectionate nature of, [[sb/2/2/6#purport|SB 2.2.6]]
@@ -30,6 +32,7 @@
 * Dattātreya incarnation of, [[sb/4/1/15-15#purport|SB 4.1.15-15]]
 * dependence on, [[sb/2/2/35#purport|SB 2.2.35]]
 * dependent on Bhagavān, [[sb/2/6/7#purport|SB 2.6.7]]
+* dependent on, [[sb/4/11/11#purport|SB 4.11.11]]
 * description of, [[sb/2/2/8-11#purport|SB 2.2.8-11]]
 * directs Brahmā & Śiva, [[sb/4/1/2#purport|SB 4.1.2]], [[sb/4/1/22#purport|SB 4.1.22]]
 * directs everyone, [[sb/4/7/52#purport|SB 4.7.52]]
@@ -62,17 +65,17 @@
 * realiātion of, [[sb/6/4/27-28#purport|SB 6.4.27-28]], [[sb/6/9/33#purport|SB 6.9.33]]
 * realization of, [[sb/2/2/35#purport|SB 2.2.35]]
 * remembrance from, [[sb/2/10/30#purport|SB 2.10.30]]
-*  [[sb/6/16/18-19#purport|SB 6.16.18-19]], [[sb/6/16/25#purport|SB 6.16.25]], [[sb/6/16/51#purport|SB 6.16.51]], [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/55#purport|SB 6.16.55]], [[sb/6/17/33#purport|SB 6.17.33]], [[sb/6/19/13#purport|SB 6.19.13]]
 * sends spiritual master, [[sb/4/8/25#purport|SB 4.8.25]]
+* serves, [[sb/4/9/5#purport|SB 4.9.5]]
 * situation of, [[sb/6/1/31#purport|SB 6.1.31]], [[sb/6/3/16#purport|SB 6.3.16]], [[sb/6/4/24-24#purport|SB 6.4.24-24]]
 * Śiva meditates on, [[sb/4/3/21#purport|SB 4.3.21]]
 * Śiva’s respects to, [[sb/4/3/22#purport|SB 4.3.22]], [[sb/4/3/23#purport|SB 4.3.23]]
 * size of, [[sb/2/2/8#purport|SB 2.2.8]], [[sb/2/6/13-16#purport|SB 2.6.13-16]]
-* soul 
+* soul
 * soul vs., [[sb/8/1/10#purport|SB 8.1.10]]
 * unseen by those who think they are God, [[sb/6/9/25#purport|SB 6.9.25]]
 * Viṣṇu as, [[sb/4/7/50#purport|SB 4.7.50]], [[sb/8/16/9#purport|SB 8.16.9]]
 * worshiped by demigods, [[sb/6/9/20#purport|SB 6.9.20]]
 * Yamarāja’s orders from, [[sb/6/1/48#purport|SB 6.1.48]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; Viṣṇu
+*See also:* Supreme Lord; Viṣṇu

@@ -1,6 +1,6 @@
 # Guṇḍicā temple
 
-**[[cc/antya/1/62#translation|Antya 1.62]]**, **[[cc/antya/10/103#translation|Antya 10.103]]**, **[[cc/antya/12/61#translation|Antya 12.61]]**, **[[cc/antya/6/243#translation|Antya 6.243]]**, **[[cc/madhya/1/145#translation|Madhya 1.145]]**, **[[cc/madhya/1/48#translation|Madhya 1.48]]**, **[[cc/madhya/12/73–135#translation|Madhya 12.73–135]]**, **[[cc/madhya/14/104–5#translation|Madhya 14.104–5]]**, **[[cc/madhya/14/119–20#translation|Madhya 14.119–20]]**, **[[cc/madhya/16/48#translation|Madhya 16.48]]**, **[[cc/madhya/25/251#translation|Madhya 25.251]]**
+**[[cc/madhya/1/48#translation|Madhya 1.48]]**, **[[cc/madhya/1/145#translation|Madhya 1.145]]**, **[[cc/madhya/25/251#translation|Madhya 25.251]]**, **[[cc/antya/1/62#translation|Antya 1.62]]**, **[[cc/madhya/12/73–135#translation|Madhya 12.73–135]]**, **[[cc/madhya/16/48#translation|Madhya 16.48]]**, **[[cc/antya/6/243#translation|Antya 6.243]]**, **[[cc/antya/10/103#translation|Antya 10.103]]**, **[[cc/antya/12/61#translation|Antya 12.61]]**, **[[cc/madhya/14/104–5#translation|Madhya 14.104–5]]**, **[[cc/madhya/14/119–20#translation|Madhya 14.119–20]]**
 
 * cleansing of, **[[cc/madhya/1/133#translation|Madhya 1.133]]**, **[[cc/madhya/1/143#translation|Madhya 1.143]]**
 * compared to Caitanya’s heart, **[[cc/madhya/12/1#translation|Madhya 12.1]]**

@@ -19,4 +19,4 @@
 * Vivasvān in, [[sb/8/14/5#purport|SB 8.14.5]]
 * Vyāsa in, [[sb/8/24/48#purport|SB 8.24.48]]
 
-*See also:* [[d#Disciples|Disciples]]; Spirituals master
+*See also:* Disciples; Spirituals master

@@ -1,6 +1,6 @@
 # Jagannātha dāsa Bābājī
 
-**[[cc/antya/10/154–56#translation|Antya 10.154–56]]**, **[[cc/antya/16/105–9#translation|Antya 16.105–9]]**, **[[cc/antya/16/108–14#translation|Antya 16.108–14]]**, **[[cc/antya/16/85#translation|Antya 16.85]]**, **[[cc/antya/16/89–102#translation|Antya 16.89–102]]**, [[bg/31|Bg. 31]], **[[cc/madhya/11/60–62#translation|Madhya 11.60–62]]**, [[cc/madhya/12/204#purport|Madhya 12.204]], **[[cc/madhya/13/118#translation|Madhya 13.118]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**, **[[cc/madhya/13/192#translation|Madhya 13.192]]**, **[[cc/madhya/13/193–96#translation|Madhya 13.193–96]]**, **[[cc/madhya/14/104–5#translation|Madhya 14.104–5]]**, [[cc/madhya/14/107#purport|Madhya 14.107]], [[cc/madhya/14/133#purport|Madhya 14.133]], [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/2/53–54#translation|Madhya 2.53–54]]**, **[[cc/madhya/6/16#translation|Madhya 6.16]]**, **[[cc/madhya/6/26#translation|Madhya 6.26]]**, **[[cc/madhya/6/3–4#translation|Madhya 6.3–4]]**
+[[bg/31|Bg. 31]], [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/11/60–62#translation|Madhya 11.60–62]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**, **[[cc/madhya/13/192#translation|Madhya 13.192]]**, **[[cc/madhya/2/53–54#translation|Madhya 2.53–54]]**, **[[cc/madhya/6/3–4#translation|Madhya 6.3–4]]**, **[[cc/madhya/6/16#translation|Madhya 6.16]]**, **[[cc/madhya/6/26#translation|Madhya 6.26]]**, **[[cc/antya/16/85#translation|Antya 16.85]]**, [[cc/madhya/14/107#purport|Madhya 14.107]], [[cc/madhya/14/133#purport|Madhya 14.133]], **[[cc/madhya/14/104–5#translation|Madhya 14.104–5]]**, **[[cc/madhya/13/118#translation|Madhya 13.118]]**, **[[cc/madhya/13/193–96#translation|Madhya 13.193–96]]**, **[[cc/antya/10/154–56#translation|Antya 10.154–56]]**, **[[cc/antya/16/89–102#translation|Antya 16.89–102]]**, **[[cc/antya/16/105–9#translation|Antya 16.105–9]]**, **[[cc/antya/16/108–14#translation|Antya 16.108–14]]**, [[cc/madhya/12/204#purport|Madhya 12.204]]
 
 * “illness” by, [[cc/madhya/13/8#purport|Madhya 13.8]]
 * access to, **[[cc/antya/5/152#translation|Antya 5.152]]**
@@ -30,7 +30,7 @@
 * goddess of fortune &, **[[cc/madhya/13/23–24#translation|Madhya 13.23–24]]**, **[[cc/madhya/14/121–27#translation|Madhya 14.121–27]]**
 * Gopīnātha Paṭṭanāyaka &, **[[cc/antya/9/65#translation|Antya 9.65]]**, **[[cc/antya/9/79#translation|Antya 9.79]]**
 * invitations to Caitanya &, [[cc/antya/2/87#purport|Antya 2.87]]
-* Jagannātha Deity 2.20.215 translation, [[cc/madhya/20/217#purport|Madhya 20.217]]
+* Jagannātha Deity, 2.20.215 translation, [[cc/madhya/20/217#purport|Madhya 20.217]]
 * Janārdana &, **[[cc/madhya/10/41#translation|Madhya 10.41]]**
 * Kṛṣṇa identical with, **[[cc/antya/5/148#translation|Antya 5.148]]**
 * liberation from, **[[cc/antya/5/152#translation|Antya 5.152]]**
@@ -59,4 +59,4 @@
 * sickness by, [[cc/madhya/1/122#purport|Madhya 1.122]]
 * tulasī garland of, **[[cc/antya/13/123–24#translation|Antya 13.123–24]]**
 
-*See also:* [[r#Ratha-yātrā festival|Ratha-yātrā festival]]
+*See also:* Ratha-yātrā festival

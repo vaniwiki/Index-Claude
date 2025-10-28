@@ -1,6 +1,6 @@
 # Tapana Miśra
 
-**[[cc/antya/13/89#translation|Antya 13.89]]**, **[[cc/madhya/19/248#translation|Madhya 19.248]]**, **[[cc/madhya/20/67–68#translation|Madhya 20.67–68]]**, **[[cc/madhya/20/73–74#translation|Madhya 20.73–74]]**, **[[cc/madhya/20/73–78#translation|Madhya 20.73–78]]**, **[[cc/madhya/25/12–13#translation|Madhya 25.12–13]]**
+**[[cc/madhya/25/12–13#translation|Madhya 25.12–13]]**, **[[cc/madhya/19/248#translation|Madhya 19.248]]**, **[[cc/madhya/20/73–74#translation|Madhya 20.73–74]]**, **[[cc/antya/13/89#translation|Antya 13.89]]**, **[[cc/madhya/20/67–68#translation|Madhya 20.67–68]]**, **[[cc/madhya/20/73–78#translation|Madhya 20.73–78]]**
 
 * Balabhadra &, **[[cc/madhya/17/88–89#translation|Madhya 17.88–89]]**
 * blasphemy of Caitanya &, **[[cc/adi/7/49–53#translation|Ādi 7.49–53]]**, [[cc/adi/7/56#purport|Ādi 7.56]]

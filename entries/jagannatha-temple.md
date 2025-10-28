@@ -1,6 +1,6 @@
 # Jagannātha temple
 
-**[[cc/antya/4/127#translation|Antya 4.127]]**, **[[cc/madhya/10/29–31#translation|Madhya 10.29–31]]**, **[[cc/madhya/11/195#translation|Madhya 11.195]]**, **[[cc/madhya/2/8#translation|Madhya 2.8]]**, **[[cc/madhya/25/231–33#translation|Madhya 25.231–33]]**, **[[cc/madhya/5/144–46#translation|Madhya 5.144–46]]**
+**[[cc/madhya/10/29–31#translation|Madhya 10.29–31]]**, **[[cc/madhya/2/8#translation|Madhya 2.8]]**, **[[cc/madhya/5/144–46#translation|Madhya 5.144–46]]**, **[[cc/madhya/25/231–33#translation|Madhya 25.231–33]]**, **[[cc/madhya/11/195#translation|Madhya 11.195]]**, **[[cc/antya/4/127#translation|Antya 4.127]]**
 
 * by Caitanya & associates, **[[cc/madhya/11/213–14#translation|Madhya 11.213–14]]**
 * Caitanya’s associates arrive at, **[[cc/madhya/6/14–15#translation|Madhya 6.14–15]]**

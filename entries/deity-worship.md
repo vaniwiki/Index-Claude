@@ -1,5 +1,7 @@
 # Deity worship
 
+[[bg/12/5|Bg. 12.5]] (1–3), [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (10), [[bg/14/27|Bg. 14.27]], [[sb/1/5/7#purport|SB 1.5.7]], [[sb/1/6/21#purport|SB 1.6.21]]
+
 * ācāryas authorize, [[sb/1/11/24#purport|SB 1.11.24]]
 * according to time & place, [[sb/4/8/54-54#purport|SB 4.8.54-54]], [[sb/4/8/56#purport|SB 4.8.56]]
 * activities in, [[sb/9/4/26#purport|SB 9.4.26]]
@@ -20,7 +22,6 @@
 * atheists & impersonalists reject, [[sb/3/25/35#purport|SB 3.25.35]]
 * attachment to Kṛṣṇa via, [[sb/9/9/42#purport|SB 9.9.42]]
 * authority followed in, [[sb/4/8/55#purport|SB 4.8.55]]
-*  [[bg/12/5|Bg. 12.5]] (1–3), [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (10), [[bg/14/27|Bg. 14.27]], [[sb/1/5/7#purport|SB 1.5.7]], [[sb/1/6/21#purport|SB 1.6.21]]
 * Bhāgavata-sandarbha &, [[cc/madhya/1/43#purport|Madhya 1.43]]
 * Brahman realization &, **[[cc/madhya/24/112#translation|Madhya 24.112]]**
 * by Ambarīṣa, [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/31-32#purport|SB 9.4.31-32]]
@@ -61,8 +62,8 @@
 * necessity of, [[cc/madhya/19/152#purport|Madhya 19.152]]
 * not fruitive, [[bg/17/11|Bg. 17.11]]
 * obeisances in, [[bg/9/34|Bg. 9.34]]
-* offenses in, advice for avoiding, [[sb/9/6/8#purport|SB 9.6.8]]
 * offenses in, **[[cc/madhya/24/336–37#translation|Madhya 24.336–37]]**, [[cc/antya/12/37#purport|Antya 12.37]], [[sb/4/7/17#purport|SB 4.7.17]]
+* offenses in, advice for avoiding, [[sb/9/6/8#purport|SB 9.6.8]]
 * offering food &, [[cc/madhya/4/124#purport|Madhya 4.124]]
 * paraphernalia for, [[sb/4/8/58#purport|SB 4.8.58]]
 * philosophy & logic behind, [[bg/9/11|Bg. 9.11]] (7–8), [[bg/12/5|Bg. 12.5]] (1–3)
@@ -85,4 +86,4 @@
 * with motive for liberation, [[bg/7/29|Bg. 7.29]]
 * with prescribed duties, [[sb/3/29/25-25#purport|SB 3.29.25-25]]
 
-*See also:* Deities form of Lord; [[w#Worship|Worship]]; to Lord
+*See also:* [Worship](entries/worship.md); to Lord; Deities form of Lord

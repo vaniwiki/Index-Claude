@@ -1,6 +1,6 @@
 # Self-realiātion
 
-[[sb/4/10/1#purport|SB 4.10.1]]
+[[sb/4/10/1#purport|SB 4.10.1]], [[sb/4/27/4-4#purport|SB 4.27.4-4]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/31/13#purport|SB 4.31.13]]
 
 * advancement symptoms in, [[sb/7/13/18#purport|SB 7.13.18]]
 * allegories for, [[sb/4/28/65#purport|SB 4.28.65]]
@@ -11,7 +11,7 @@
 * austerity for, [[sb/7/8/43#purport|SB 7.8.43]]
 * avadhūta stage, [[sb/4/29/11#purport|SB 4.29.11]]
 * basis for, according to Vedas, [[sb/7/2/37#purport|SB 7.2.37]]
-* best process for. See: Devotional service 
+* best process for. See: Devotional service
 * bodily concept hinders, [[sb/4/23/12#purport|SB 4.23.12]]
 * bodily concept via lack of, [[sb/10/4/22#purport|SB 10.4.22]], [[sb/10/4/26#purport|SB 10.4.26]]
 * brahma-bhūta stage, [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/30/20#purport|SB 4.30.20]]
@@ -47,7 +47,6 @@
 * preaching shows perfection of, [[sb/4/29/1#purport|SB 4.29.1]]b
 * process of, [[sb/7/7/23-24#purport|SB 7.7.23-24]], [[sb/7/7/24#purport|SB 7.7.24]]
 * saintly persons teach, [[sb/4/22/47-47#purport|SB 4.22.47-47]]
-*  [[sb/4/27/4-4#purport|SB 4.27.4-4]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/31/13#purport|SB 4.31.13]]
 * sense gratification compared with, [[sb/4/22/32-34#purport|SB 4.22.32-34]], [[sb/9/18/2#purport|SB 9.18.2]]
 * sex attachment ruins, [[sb/4/27/4#purport|SB 4.27.4]]
 * Śiva gives, [[sb/4/4/14#purport|SB 4.4.14]]
@@ -62,4 +61,4 @@
 * via sannyāsī, [[sb/7/13/5#purport|SB 7.13.5]]
 * via spiritual master, [[sb/7/7/23#purport|SB 7.7.23]], [[sb/7/7/40#purport|SB 7.7.40]]
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]; Devotional service; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[k#Knowledge|Knowledge]]; [[s#Spiritual life|Spiritual life]]; [[g#God consciousness|God consciousness]]; [[m#Meditation|Meditation]]; [[y#Yoga|Yoga]]; [[g#God realization|God realization]]; [[p#Purification|Purification]]; [[g#God realiātion|God realiātion]]
+*See also:* Absolute Truth; Devotional service; Kṛṣṇa consciousness; [Knowledge](entries/knowledge.md); Spiritual life; God consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yogas.md); God realization; [Purification](entries/purification.md); God realiātion

@@ -1,6 +1,6 @@
 # Durgā, Goddess
 
-[[cc/adi/7/157#purport|Ādi 7.157]], [[cc/antya/3/150#purport|Antya 3.150]], [[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/17/95#purport|Madhya 17.95]], [[cc/madhya/18/109#purport|Madhya 18.109]], [[cc/madhya/23/116#purport|Madhya 23.116]], [[cc/madhya/24/330#purport|Madhya 24.330]], [[cc/madhya/8/83#purport|Madhya 8.83]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[sb/8/5/49#purport|SB 8.5.49]]
+[[cc/madhya/23/116#purport|Madhya 23.116]], [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/madhya/8/83#purport|Madhya 8.83]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/17/95#purport|Madhya 17.95]], [[cc/madhya/18/109#purport|Madhya 18.109]], [[cc/madhya/24/330#purport|Madhya 24.330]], [[cc/antya/3/150#purport|Antya 3.150]], [[cc/antya/9/68#purport|Antya 9.68]], [[sb/4/7/59-59#purport|SB 4.7.59-59]], [[sb/4/15/17#purport|SB 4.15.17]], [[sb/8/5/49#purport|SB 8.5.49]]
 
 * animal slaughter &, [[sb/5/26/25#purport|SB 5.26.25]]
 * as co-creator, [[sb/8/12/40#purport|SB 8.12.40]]
@@ -36,7 +36,6 @@
 * Parvatī as, [[sb/7/10/6#purport|SB 7.10.6]]
 * Rāmeśvara temple &, [[cc/madhya/9/199#purport|Madhya 9.199]]
 * Rāvaṇa &, [[sb/5/18/22#purport|SB 5.18.22]]
-*  [[sb/4/7/59-59#purport|SB 4.7.59-59]], [[sb/4/15/17#purport|SB 4.15.17]]
 * Sītā &, **[[cc/madhya/9/204#translation|Madhya 9.204]]**
 * Śiva-liṅga &, [[cc/madhya/20/273#purport|Madhya 20.273]]
 * Śrīvāsa Ṭhākura &, **[[cc/adi/17/37–38#translation|Ādi 17.37–38]]**, **[[cc/adi/17/52#translation|Ādi 17.52]]**
@@ -45,4 +44,4 @@
 * worship of, [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/adi/7/151#purport|Ādi 7.151]]
 * Yakṣas’ wives maidservants of, [[sb/5/16/18#purport|SB 5.16.18]]
 
-*See also:* Kālī; [[m#Māyā|Māyā]]; [[p#Pārvatī|Pārvatī]]; [[s#Satī|Satī]]
+*See also:* Kālī; Māyā; Pārvatī; Satī

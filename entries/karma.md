@@ -1,15 +1,14 @@
 # Karma
 
-[[sb/2/2/7#purport|SB 2.2.7]]
+[[sb/2/2/7#purport|SB 2.2.7]], [[sb/4/29/61-61#purport|SB 4.29.61-61]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/4/29/73#purport|SB 4.29.73]]
 
-* akarma &, [[bg/4/16–18|Bg. 4.16–18]], [[bg/4/19|Bg. 4.19]]
-* vikarma &, [[bg/4/17|Bg. 4.17]], [[bg/4/19|Bg. 4.19]]
 * advantages from, [[bg/16/16|Bg. 16.16]]
-* as *Gītā’s *subject, 7, 8, 10 
+* akarma &, [[bg/4/16–18|Bg. 4.16–18]], [[bg/4/19|Bg. 4.19]]
+* as *Gītā’s *subject, 7, 8, 10
 * as action for material body, [[bg/8/3|Bg. 8.3]]
 * as destiny law, [[sb/8/7/44#purport|SB 8.7.44]]
 * as false cause, [[sb/6/12/12#purport|SB 6.12.12]]
-* as noneternal, 8, 9 
+* as noneternal, 8, 9
 * atheists under, [[sb/8/9/28#purport|SB 8.9.28]]
 * birth according to, [[bg/2/18|Bg. 2.18]], [[bg/2/27|Bg. 2.27]], [[bg/8/3|Bg. 8.3]], [[bg/13/5|Bg. 13.5]], [[bg/14/3|Bg. 14.3]], [[bg/15/8|Bg. 15.8]], [[sb/4/24/73#purport|SB 4.24.73]], [[sb/4/28/10#purport|SB 4.28.10]], [[sb/4/29/76-77#purport|SB 4.29.76-77]]
 * birth after birth, [[sb/4/8/2#purport|SB 4.8.2]]
@@ -24,13 +23,13 @@
 * bondage of, [[bg/2/50|Bg. 2.50]]
 * bondage to, [[sb/4/21/27#purport|SB 4.21.27]], [[sb/7/6/16#purport|SB 7.6.16]], [[sb/9/10/23#purport|SB 9.10.23]]
 * bondage via, [[sb/4/6/53#purport|SB 4.6.53]]
-* change of, via knowledge, 9 
+* change of, via knowledge, 9
 * Citraketu accepts results of, [[sb/6/17/24#purport|SB 6.17.24]]
 * compared to electric fan, [[sb/3/28/38#purport|SB 3.28.38]]
 * conditioned souls under, [[sb/1/13/46#purport|SB 1.13.46]]
 * controlled by Lord, [[sb/6/12/8#purport|SB 6.12.8]], [[sb/6/14/55#purport|SB 6.14.55]]
+* defined, [[sb/1/13/2#purport|SB 1.13.2]], [[sb/1/13/43#purport|SB 1.13.43]], [[sb/3/1/4#purport|SB 3.1.4]], [[sb/4/29/58-58#purport|SB 4.29.58-58]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/5/1/13#purport|SB 5.1.13]], [[sb/5/1/14#purport|SB 5.1.14]], [[sb/5/3/15#purport|SB 5.3.15]], [[sb/5/14/45#purport|SB 5.14.45]], [[sb/6/16/51#purport|SB 6.16.51]], [[sb/10/13/53-53#purport|SB 10.13.53-53]]
 * defined, 7, 8, 9, [[bg/8/3|Bg. 8.3]]
-* defined, [[sb/1/13/2#purport|SB 1.13.2]], [[sb/1/13/43#purport|SB 1.13.43]], [[sb/10/13/53-53#purport|SB 10.13.53-53]], [[sb/3/1/4#purport|SB 3.1.4]], [[sb/4/29/58-58#purport|SB 4.29.58-58]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/5/1/13#purport|SB 5.1.13]], [[sb/5/1/14#purport|SB 5.1.14]], [[sb/5/3/15#purport|SB 5.3.15]], [[sb/5/14/45#purport|SB 5.14.45]], [[sb/6/16/51#purport|SB 6.16.51]]
 * depends on service to Lord, [[sb/1/5/35#purport|SB 1.5.35]]
 * detailed, [[sb/4/29/58-78#purport|SB 4.29.58-78]]
 * devotee free of, [[sb/9/2/14#purport|SB 9.2.14]], [[sb/9/5/27#purport|SB 9.5.27]]
@@ -47,18 +46,18 @@
 * duality due to, [[sb/3/5/38#purport|SB 3.5.38]]
 * for killing, [[bg/14/16|Bg. 14.16]]
 * forces living beings, [[sb/4/8/57#purport|SB 4.8.57]]
-* freedom from, 29, [[bg/2/47|Bg. 2.47]], [[bg/3/31|Bg. 3.31]], [[bg/4/14|Bg. 4.14]]
 * freedom from, [[sb/1/9/23#purport|SB 1.9.23]], [[sb/6/17/17#purport|SB 6.17.17]]
+* freedom from, 29, [[bg/2/47|Bg. 2.47]], [[bg/3/31|Bg. 3.31]], [[bg/4/14|Bg. 4.14]]
 * from pious activities, [[bg/2/8|Bg. 2.8]]
 * fructification of reactions of, [[bg/9/2|Bg. 9.2]] (4)
-* happiness & suffering due to, 8 
+* happiness & suffering due to, 8
 * ignorance about, [[sb/4/29/58-60#purport|SB 4.29.58-60]]
 * Indra subjected to, [[sb/9/2/14#purport|SB 9.2.14]]
 * intelligence according to, [[sb/3/20/17#purport|SB 3.20.17]]
 * jñāna superior to, [[sb/6/1/12#purport|SB 6.1.12]]
 * karma-yoga as, plus bhakti, [[sb/1/2/15#purport|SB 1.2.15]]
 * karma-yoga compared with, [[sb/3/1/4#purport|SB 3.1.4]]
-* laws of, 9, 23 
+* laws of, 9, 23
 * liberation from, [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/2/21#purport|SB 1.2.21]], [[sb/1/2/21#purport|SB 1.2.21]], [[sb/1/3/8#purport|SB 1.3.8]]
 * life according to, [[sb/10/13/58#purport|SB 10.13.58]]
 * life as, [[sb/7/9/16#purport|SB 7.9.16]]
@@ -80,21 +79,22 @@
 * Parīkṣit’s question on, [[sb/2/8/14#purport|SB 2.8.14]], [[sb/2/8/14#purport|SB 2.8.14]]
 * position in life determined via, [[sb/4/29/32#purport|SB 4.29.32]]
 * prosperity due to, [[sb/3/27/8#purport|SB 3.27.8]]
-* reactions due to, 9 
+* reactions due to, 9
+  * *See also:* Sinfuls reaction
 * religious or irreligious acts create, [[sb/6/1/45#purport|SB 6.1.45]]
 * ritualistic ceremonies as, [[sb/4/19/32#purport|SB 4.19.32]]
-*  [[sb/4/29/61-61#purport|SB 4.29.61-61]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/4/29/73#purport|SB 4.29.73]]
 * sense gratification creates, [[sb/4/24/78#purport|SB 4.24.78]]
 * separates everyone in time, [[sb/10/5/25#purport|SB 10.5.25]]
-* time &, 8 
+* time &, 8
 * transmigration of soul via, [[sb/1/13/44#purport|SB 1.13.44]]
 * ugra-karma, [[sb/4/29/28#purport|SB 4.29.28]]
 * Vedas meant to understand, [[sb/5/14/45#purport|SB 5.14.45]]
 * via bad association, [[sb/4/14/11#purport|SB 4.14.11]]
+* vikarma &, [[bg/4/17|Bg. 4.17]], [[bg/4/19|Bg. 4.19]]
 * wandering of living entities via, [[sb/6/1/2#purport|SB 6.1.2]]
 * yajñārtha-, [[sb/3/22/29-30#purport|SB 3.22.29-30]]
 * yoga above, [[sb/7/7/28#purport|SB 7.7.28]]
 
-*See also:* Action; [[b#Birth-death cycle|Birth-death cycle]]; Fruitive; [[a#Activities|Activities]]; material; [[c#Cause & effect|Cause & effect]]; [[d#Destiny|Destiny]]; [[p#Providence|Providence]]; [[f#Fruitive activities|Fruitive activities]]; [[b#Bondage|Bondage]]; [[f#Fate|Fate]]; [[f#Fruitive activity|Fruitive activity]]; [[s#Supreme Lord|Supreme Lord]]; will of; [[k#Karma-yoga|Karma-yoga]]; [[p#Pious activities|Pious activities]]; [[s#Sinful activity|Sinful activity]]; [[w#Work|Work]]
+*See also:* [Destiny](entries/destiny.md); [Karma-yoga](entries/karma-yoga.md); Action; Birth-death cycle; Fruitive; Activities; [Bondage](entries/bondage.md); Fate; Fruitive activity; Supreme Lord; will of; material; Fruitive activities; Cause & effect; [Providence](entries/providence.md); Pious activities; Sinful activity; [Work](entries/work.md)
 
 *See:* Laws of God

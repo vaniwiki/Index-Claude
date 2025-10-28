@@ -12,7 +12,7 @@
 * by Lord, [[sb/4/11/19#purport|SB 4.11.19]], [[sb/4/17/30#purport|SB 4.17.30]]
 * by providence of envious, [[sb/4/6/47#purport|SB 4.6.47]]
 * by saintly persons, [[sb/4/14/31#purport|SB 4.14.31]], [[sb/4/14/40#purport|SB 4.14.40]]
-* by* kṣatriya, * 2.31, [[bg/18/47|Bg. 18.47]]
+* by* kṣatriya, *, 2.31, [[bg/18/47|Bg. 18.47]]
 * devotees avoid, [[sb/4/6/47#purport|SB 4.6.47]]
 * eternality of soul doesn’t excuse, [[bg/16/1|Bg. 16.1]] (13)
 * in war, [[bg/1/45|Bg. 1.45]]
@@ -20,37 +20,35 @@
 * kings practice, [[sb/4/22/13#purport|SB 4.22.13]]
 * living entities’ transmigration interrupted by, [[sb/5/10/2#purport|SB 5.10.2]]
 * Lord’s, of demons, [[bg/16/20|Bg. 16.20]]
-* *See:* [[m#Murder|Murder]] 
 * necessary & unnecessary, [[sb/4/11/7#purport|SB 4.11.7]], [[sb/4/11/11#purport|SB 4.11.11]]
 * necessary sometimes, [[bg/2/21|Bg. 2.21]]
-* *See:* [[a#Animal slaughter|Animal slaughter]] 
-* of animals. See: Animal slaughter , , 
-* of animals. See: Animal(s), sacrifice of; Animal slaughter; Hunting; Meat-eating 
+* of animals. See: Animal(s), sacrifice of; Animal slaughter; Hunting; Meat-eating
 * of birds by hunter, [[sb/7/2/50-56#purport|SB 7.2.50-56]]
 * of blasphemers, [[sb/4/4/17-17#purport|SB 4.4.17-17]]
+* of brāhmaṇa, [[sb/9/9/30#purport|SB 9.9.30]], [[sb/9/9/31#purport|SB 9.9.31]]
 * of brāhmaṇa, absolution for, [[sb/3/19/37-37#purport|SB 3.19.37-37]]
 * of brāhmaṇa, penalty for, [[sb/7/5/27#purport|SB 7.5.27]]
-* of brāhmaṇa, [[sb/9/9/30#purport|SB 9.9.30]], [[sb/9/9/31#purport|SB 9.9.31]]
 * of child in womb, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/7/2/55#purport|SB 7.2.55]]
 * of children, [[sb/10/3/22#purport|SB 10.3.22]]
 * of demons by Kṛṣṇa, [[sb/10/1/64#purport|SB 10.1.64]], [[sb/10/3/20#purport|SB 10.3.20]], [[sb/10/3/21-21#purport|SB 10.3.21-21]], [[sb/10/3/29#purport|SB 10.3.29]], [[sb/10/6/7-7#purport|SB 10.6.7-7]], [[sb/10/7/37#purport|SB 10.7.37]], [[sb/10/8/17#purport|SB 10.8.17]], [[sb/10/10/36#purport|SB 10.10.36]], [[sb/10/11/45#purport|SB 10.11.45]], [[sb/10/11/56#purport|SB 10.11.56]], [[sb/10/13/15#purport|SB 10.13.15]]
 * of demons by Lord, [[bg/16/20|Bg. 16.20]]
+* of demons, [[sb/4/6/46#purport|SB 4.6.46]]
 * of elders forbidden, [[bg/1/39|Bg. 1.39]]
 * of fake incarnation, [[sb/4/15/10#purport|SB 4.15.10]]
 * of Hiraṇyakaśipu assured by Lord, [[sb/7/4/28#purport|SB 7.4.28]]
 * of Hiraṇyākṣa, [[sb/7/2/1#purport|SB 7.2.1]], [[sb/7/2/6#purport|SB 7.2.6]]
 * of human & animals compared, [[sb/9/9/28#purport|SB 9.9.28]]
-* *See:* [[m#Murder|Murder]]; [[w#War|War]] 
+* of Prahlāda by Hiraṇyakaśipu, [[sb/7/5/34-38#purport|SB 7.5.34-38]]
 * of soul impossible, [[bg/2/17–21|Bg. 2.17–21]], [[bg/2/23–24|Bg. 2.23–24]]
 * of Suyajña, [[sb/7/2/28#purport|SB 7.2.28]]
+* of Viṣṇu by Hiraṇyakaśipu, [[sb/7/2/7-8#purport|SB 7.2.7-8]], [[sb/7/2/7-11#purport|SB 7.2.7-11]]
 * perfect men refrain from, [[sb/6/16/43#purport|SB 6.16.43]]
-* plan for 
-* *See:* [[p#Punishment|Punishment]]; [[s#Sinful reactions|Sinful reactions]] 
+* plan for
 * religious principles on, [[sb/4/17/18#purport|SB 4.17.18]], [[sb/4/17/19#purport|SB 4.17.19]]
 * sinful acts of, [[sb/9/9/31#purport|SB 9.9.31]]
 * Vedic injunction about, [[sb/10/1/37#purport|SB 10.1.37]], [[sb/10/2/21#purport|SB 10.2.21]]
 * Vedic injunctions for permitting, [[sb/5/9/17#purport|SB 5.9.17]]
 
-*See also:* [[a#Animal slaughter|Animal slaughter]]; [[m#Murder|Murder]]; [[w#War|War]]; [[d#Death|Death]]
+*See also:* [Death](entries/deaths.md); [War](entries/wars.md); Animal slaughter; [Murder](entries/murder.md)
 
-*See:* [[a#Animal slaughter|Animal slaughter]]; Animals; sacrifice of; [[m#Murder|Murder]]
+*See:* [Murder](entries/murder.md); [War](entries/wars.md); [Punishment](entries/punishment.md); Sinful reactions; Animal slaughter; Animals; sacrifice of

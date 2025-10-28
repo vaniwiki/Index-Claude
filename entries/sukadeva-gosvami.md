@@ -1,9 +1,9 @@
 # Śukadeva Gosvāmī
 
-**[[cc/antya/14/46#translation|Antya 14.46]]**, **[[cc/antya/19/70#translation|Antya 19.70]]**, **[[cc/antya/7/31#translation|Antya 7.31]]**, [[cc/madhya/15/270#purport|Madhya 15.270]], **[[cc/madhya/20/162#translation|Madhya 20.162]]**, **[[cc/madhya/20/270#translation|Madhya 20.270]]**, **[[cc/madhya/24/116–17#translation|Madhya 24.116–17]]**, **[[cc/madhya/24/313#translation|Madhya 24.313]]**, **[[cc/madhya/24/46–48#translation|Madhya 24.46–48]]**, **[[cc/madhya/25/145#translation|Madhya 25.145]]**, **[[cc/madhya/25/151#translation|Madhya 25.151]]**, **[[cc/madhya/25/157#translation|Madhya 25.157]]**, **[[cc/madhya/8/227#translation|Madhya 8.227]]**, [[cc/madhya/8/265#purport|Madhya 8.265]], **[[cc/madhya/8/75#translation|Madhya 8.75]]**, [[sb/3/25/3#purport|SB 3.25.3]]
+**[[cc/antya/7/31#translation|Antya 7.31]]**, **[[cc/antya/14/46#translation|Antya 14.46]]**, **[[cc/madhya/24/46–48#translation|Madhya 24.46–48]]**, **[[cc/madhya/24/116–17#translation|Madhya 24.116–17]]**, [[cc/madhya/8/265#purport|Madhya 8.265]], **[[cc/madhya/8/75#translation|Madhya 8.75]]**, **[[cc/madhya/20/162#translation|Madhya 20.162]]**, **[[cc/madhya/8/227#translation|Madhya 8.227]]**, [[cc/madhya/15/270#purport|Madhya 15.270]], **[[cc/madhya/20/270#translation|Madhya 20.270]]**, **[[cc/antya/19/70#translation|Antya 19.70]]**, **[[cc/madhya/24/313#translation|Madhya 24.313]]**, **[[cc/madhya/25/145#translation|Madhya 25.145]]**, **[[cc/madhya/25/151#translation|Madhya 25.151]]**, **[[cc/madhya/25/157#translation|Madhya 25.157]]**, [[sb/3/25/3#purport|SB 3.25.3]]
 
 * & ātmārāma verse explanation, **[[cc/madhya/6/198#translation|Madhya 6.198]]**
-* as ”madman,” [[sb/1/4/6#purport|SB 1.4.6]], [[sb/1/4/6#purport|SB 1.4.6]]
+* as ”madman,”, [[sb/1/4/6#purport|SB 1.4.6]], [[sb/1/4/6#purport|SB 1.4.6]]
 * as alert against illusion, [[sb/1/4/4#purport|SB 1.4.4]]
 * as ātmārāma, [[sb/1/7/9#purport|SB 1.7.9]]
 * as authority, [[sb/2/8/25#purport|SB 2.8.25]], [[sb/5/16/10#purport|SB 5.16.10]]
@@ -18,7 +18,7 @@
 * as Kṛṣṇa’s direct servant, [[sb/9/4/63#purport|SB 9.4.63]]
 * as liberated from birth, [[sb/1/2/2#purport|SB 1.2.2]], [[sb/1/7/11#purport|SB 1.7.11]]
 * as liberated monist, [[sb/1/4/4-5#purport|SB 1.4.4-5]]
-* as Lord’s messenger, IV2 
+* as Lord’s messenger, IV2
 * as mahājana, [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/1/9/19#purport|SB 1.9.19]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/8/2/6#purport|SB 8.2.6]]
 * as moonlike, [[sb/1/19/30#purport|SB 1.19.30]]
 * as muni, [[sb/4/24/59#purport|SB 4.24.59]]
@@ -33,12 +33,14 @@
 * as topmost sage, [[sb/2/1/8#purport|SB 2.1.8]]
 * as transcendental to varṇāśrama, [[sb/1/2/2#purport|SB 1.2.2]]
 * as Vyāsadeva’s son, [[sb/1/4/4#purport|SB 1.4.4]], [[sb/1/9/7#purport|SB 1.9.7]]
+* assimilated by, [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/7/11#purport|SB 1.7.11]]
 * assured Parīkṣit about Gokula’s safety, [[sb/10/6/3#purport|SB 10.6.3]]
 * attracted to Bhāgavatam, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/7/11#purport|SB 1.7.11]], [[sb/1/7/11#purport|SB 1.7.11]]
 * attracted to Lord, [[sb/1/7/10-11#purport|SB 1.7.10-11]]
 * beauty of, [[sb/1/19/26-28#purport|SB 1.19.26-28]]
 * birth of, [[sb/9/21/25#purport|SB 9.21.25]]
 * birth undesired by, [[sb/3/31/20#purport|SB 3.31.20]]
+* bowed to, [[sb/1/19/29#purport|SB 1.19.29]], [[sb/1/19/31#purport|SB 1.19.31]]
 * Brahman realiātion of, [[sb/1/7/11#purport|SB 1.7.11]]
 * brahminical qualification &, [[cc/madhya/23/105#purport|Madhya 23.105]]
 * brahminism included in, [[sb/1/2/2#purport|SB 1.2.2]]
@@ -53,6 +55,7 @@
 * cited on pauruṣaṁ dhāma, [[sb/10/2/17#purport|SB 10.2.17]]
 * compared to parrot, [[sb/1/1/3#purport|SB 1.1.3]]
 * Deities attract, [[sb/3/25/36#purport|SB 3.25.36]]
+* delivered, [[sb/1/3/42#purport|SB 1.3.42]]
 * devotees of Lord represent, [[sb/1/2/12#purport|SB 1.2.12]]
 * devotional process by, **[[cc/madhya/22/136#translation|Madhya 22.136]]**
 * disciplic succession &, [[cc/adi/6/40#purport|Ādi 6.40]]
@@ -67,6 +70,7 @@
 * in disciplic succession, [[sb/2/8/25#purport|SB 2.8.25]]
 * innocence of, [[sb/1/4/5#purport|SB 1.4.5]]
 * inquiries on, by Śaunaka, [[sb/1/4/4-8#purport|SB 1.4.4-8]]
+* instructed by, [[sb/1/13/10#purport|SB 1.13.10]], [[sb/1/18/3#purport|SB 1.18.3]]
 * invites Parīkṣit’s inquiries, [[sb/6/18/78#purport|SB 6.18.78]]
 * knowledge pursuit by, [[cc/madhya/24/94#purport|Madhya 24.94]]
 * Kṛṣṇa’s pastimes &, [[cc/madhya/6/190#purport|Madhya 6.190]], **[[cc/madhya/21/110#translation|Madhya 21.110]]**
@@ -80,7 +84,9 @@
 * milk sustained, [[sb/1/17/3#purport|SB 1.17.3]]
 * narration by, [[sb/4/31/26-28#purport|SB 4.31.26-28]], [[sb/4/31/30-31#purport|SB 4.31.30-31]]
 * native land of, [[sb/1/16/12#purport|SB 1.16.12]]
-* Parīkṣit 
+* on materialists, [[sb/4/22/23#purport|SB 4.22.23]]
+* on purification via devotee’s association, [[sb/4/30/41#purport|SB 4.30.41]]
+* Parīkṣit
 * Parīkṣit encouraged by, [[sb/5/6/18#purport|SB 5.6.18]]
 * Parīkṣit praised, [[sb/9/1/1-5#purport|SB 9.1.1-5]]
 * Parīkṣit questions, [[sb/2/8/1#purport|SB 2.8.1]]
@@ -89,8 +95,7 @@
 * praises Parīkṣit Mahārāja, [[sb/6/18/22#purport|SB 6.18.22]]
 * prays to Lord, [[sb/2/4/12-25#purport|SB 2.4.12-25]]
 * qualification of, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/7#purport|SB 1.4.7]]
-* quoted. See: specific subject matter 
-* quoted. See: Śukadeva Gosvāmī quoted 
+* quoted. See: Śukadeva Gosvāmī quoted
 * rāsa dance &, **[[cc/antya/14/44#translation|Antya 14.44]]**
 * sacred thread neglected by, [[sb/1/2/2#purport|SB 1.2.2]], [[sb/1/2/2#purport|SB 1.2.2]]
 * sages honor, [[sb/1/19/28-30#purport|SB 1.19.28-30]]
@@ -98,11 +103,13 @@
 * servant of, devotion of, [[sb/9/4/63#purport|SB 9.4.63]]
 * servitude mood &, **[[cc/adi/6/47#translation|Ādi 6.47]]**
 * speeches of, like nectar, [[sb/2/8/26#purport|SB 2.8.26]]
-* Śrīmad-Bhāgavatam 
+* spoken by, [[sb/1/19/8#purport|SB 1.19.8]]
+* Śrīmad-Bhāgavatam
 * Śrīmad-Bhāgavatam &, **[[cc/madhya/24/17#translation|Madhya 24.17]]**, **[[cc/madhya/24/47–48#translation|Madhya 24.47–48]]**
 * Śrīmad-Bhāgavatam spoken by, [[sb/4/20/24#purport|SB 4.20.24]], [[sb/7/11/4#purport|SB 7.11.4]]
 * Śrīmad-Bhāgavatam studied by, [[sb/2/1/8#purport|SB 2.1.8]]
 * tested Parīkṣit’s intelligence, [[sb/6/1/7#purport|SB 6.1.7]], [[sb/6/1/10#purport|SB 6.1.10]]
+* via, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/3/41-42#purport|SB 1.3.41-42]]
 * Vyāsa taught Bhāgavatam to, [[sb/9/22/21-24#purport|SB 9.22.21-24]]
 * Vyāsadeva instructed, [[sb/7/11/4#purport|SB 7.11.4]]
 * warns against mundane scholars, [[sb/9/10/3#purport|SB 9.10.3]]

@@ -1,6 +1,6 @@
 # Blasphemy
 
-[[cc/adi/10/158#purport|Ādi 10.158]], [[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/17/260#purport|Ādi 17.260]], **[[cc/adi/7/115#translation|Ādi 7.115]]**, **[[cc/adi/7/50–52#translation|Ādi 7.50–52]]**, [[cc/adi/8/24#purport|Ādi 8.24]], [[bg/16/18|Bg. 16.18]], **[[cc/madhya/22/120#translation|Madhya 22.120]]**, [[cc/madhya/24/336#purport|Madhya 24.336]], **[[cc/madhya/24/338#translation|Madhya 24.338]]**, [[sb/6/17/9#purport|SB 6.17.9]]
+[[bg/16/18|Bg. 16.18]], **[[cc/adi/7/115#translation|Ādi 7.115]]**, **[[cc/adi/7/50–52#translation|Ādi 7.50–52]]**, [[cc/adi/8/24#purport|Ādi 8.24]], [[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/10/158#purport|Ādi 10.158]], [[cc/adi/17/260#purport|Ādi 17.260]], **[[cc/madhya/22/120#translation|Madhya 22.120]]**, [[cc/madhya/24/336#purport|Madhya 24.336]], **[[cc/madhya/24/338#translation|Madhya 24.338]]**, [[sb/6/17/9#purport|SB 6.17.9]]
 
 * anger at, [[sb/4/4/10#purport|SB 4.4.10]]
 * as intolerable, [[sb/7/9/1#purport|SB 7.9.1]]
@@ -21,4 +21,4 @@
 * redemption from, [[sb/7/1/26#purport|SB 7.1.26]]
 * toward Kṛṣṇa, [[sb/3/2/10#purport|SB 3.2.10]]
 
-*See also:* [[o#Offenses|Offenses]]
+*See also:* Offenses

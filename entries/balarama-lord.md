@@ -1,19 +1,24 @@
 # Balarāma, Lord
 
-**[[cc/adi/13/78#translation|Ādi 13.78]]**, [[cc/adi/14/3#purport|Ādi 14.3]], **[[cc/adi/17/295#translation|Ādi 17.295]]**, [[cc/adi/17/301#purport|Ādi 17.301]], **[[cc/adi/17/318#translation|Ādi 17.318]]**, [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/5/152#translation|Ādi 5.152]]**, **[[cc/adi/5/154#translation|Ādi 5.154]]**, **[[cc/adi/5/4–5#translation|Ādi 5.4–5]]**, [[cc/adi/5/41#purport|Ādi 5.41]], **[[cc/adi/5/74#translation|Ādi 5.74]]**, **[[cc/adi/6/105–6#translation|Ādi 6.105–6]]**, **[[cc/adi/6/76–78#translation|Ādi 6.76–78]]**, [[cc/antya/14/53#purport|Antya 14.53]], **[[cc/antya/14/86#translation|Antya 14.86]]**, **[[cc/antya/6/87#translation|Antya 6.87]]**, **[[cc/madhya/1/28#translation|Madhya 1.28]]**, [[cc/madhya/1/43#purport|Madhya 1.43]], [[cc/madhya/1/44#purport|Madhya 1.44]], **[[cc/madhya/13/88#translation|Madhya 13.88]]**, **[[cc/madhya/20/174#translation|Madhya 20.174]]**, **[[cc/madhya/20/174#translation|Madhya 20.174]]**, **[[cc/madhya/20/187#translation|Madhya 20.187]]**, **[[cc/madhya/20/262#translation|Madhya 20.262]]**, [[cc/madhya/24/177#purport|Madhya 24.177]], **[[cc/madhya/24/206–7#translation|Madhya 24.206–7]]**, [[cc/madhya/5/28#purport|Madhya 5.28]]
+[[bg/9/11|Bg. 9.11]], [[bg/10/37|Bg. 10.37]], [[cc/antya/14/53#purport|Antya 14.53]], **[[cc/madhya/20/262#translation|Madhya 20.262]]**, **[[cc/madhya/20/174#translation|Madhya 20.174]]**, **[[cc/madhya/20/187#translation|Madhya 20.187]]**, **[[cc/adi/5/152#translation|Ādi 5.152]]**, **[[cc/adi/6/76–78#translation|Ādi 6.76–78]]**, **[[cc/adi/6/105–6#translation|Ādi 6.105–6]]**, [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/5/4–5#translation|Ādi 5.4–5]]**, **[[cc/adi/5/154#translation|Ādi 5.154]]**, [[cc/madhya/1/43#purport|Madhya 1.43]], **[[cc/madhya/20/174#translation|Madhya 20.174]]**, [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/5/28#purport|Madhya 5.28]], [[cc/madhya/24/177#purport|Madhya 24.177]], **[[cc/madhya/24/206–7#translation|Madhya 24.206–7]]**, **[[cc/antya/6/87#translation|Antya 6.87]]**, **[[cc/antya/14/86#translation|Antya 14.86]]**, **[[cc/adi/13/78#translation|Ādi 13.78]]**, [[cc/adi/14/3#purport|Ādi 14.3]], **[[cc/adi/17/295#translation|Ādi 17.295]]**, [[cc/adi/17/301#purport|Ādi 17.301]], **[[cc/adi/17/318#translation|Ādi 17.318]]**, **[[cc/madhya/1/28#translation|Madhya 1.28]]**, **[[cc/madhya/13/88#translation|Madhya 13.88]]**, [[cc/adi/5/41#purport|Ādi 5.41]], **[[cc/adi/5/74#translation|Ādi 5.74]]**, [[sb/3/1/26#purport|SB 3.1.26]], [[sb/3/1/27#purport|SB 3.1.27]], [[sb/9/24/53-55#purport|SB 9.24.53-55]], [[sb/9/24/60#purport|SB 9.24.60]]
 
 * “Hare Rāma” &, [[cc/adi/5/132#purport|Ādi 5.132]], [[cc/madhya/9/155#purport|Madhya 9.155]]
+* & Yaśodā called, for lunch, [[sb/10/11/12-17#purport|SB 10.11.12-17]], [[sb/10/11/17#purport|SB 10.11.17]], [[sb/10/11/19#purport|SB 10.11.19]], [[sb/10/11/20#purport|SB 10.11.20]]
+* above, [[sb/10/13/53#purport|SB 10.13.53]]
+* accused by, of eating dirt, [[sb/10/8/32#purport|SB 10.8.32]], [[sb/10/8/34#purport|SB 10.8.34]]
 * Akrūra &, [[cc/madhya/18/135#purport|Madhya 18.135]]
+* alerted, about calf demon, [[sb/10/11/42#purport|SB 10.11.42]]
 * Ananta Śeṣa and, [[cc/adi/5/10#purport|Ādi 5.10]]
 * Arjuna angered, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
 * as Ananta, [[sb/1/14/35-36#purport|SB 1.14.35-36]]
 * as basis of quadruple expansions, [[sb/1/3/23#purport|SB 1.3.23]]
+* as brother of, [[sb/10/1/24#purport|SB 10.1.24]], [[sb/10/2/9#purport|SB 10.2.9]], [[sb/10/5/20#purport|SB 10.5.20]]
 * as Duryodhana’s friend, [[sb/1/12/21#purport|SB 1.12.21]]
 * as expansion of Godhead, [[sb/1/2/22-23#purport|SB 1.2.22-23]], [[sb/1/3/23#purport|SB 1.3.23]]
 * as incarnation of God, [[sb/1/1/20#purport|SB 1.1.20]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/3/28#purport|SB 1.3.28]]
-* as independent, N109 
+* as independent, N109
 * as Kṛṣṇa’s brother, [[sb/1/17/43-44#purport|SB 1.17.43-44]], [[sb/10/1/24#purport|SB 10.1.24]], [[sb/10/2/9#purport|SB 10.2.9]], [[sb/10/5/20#purport|SB 10.5.20]]
-* as Kṛṣṇa’s expansion, [[cc/adi/1/68#purport|Ādi 1.68]], **[[cc/adi/1/78#translation|Ādi 1.78]]**, [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/14/28-29#purport|SB 1.14.28-29]], [[sb/10/1/2-2#purport|SB 10.1.2-2]], N102, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/41#purport|SB 10.2.41]], [[sb/7/10/42#purport|SB 7.10.42]]
+* as Kṛṣṇa’s expansion, [[cc/adi/1/68#purport|Ādi 1.68]], **[[cc/adi/1/78#translation|Ādi 1.78]]**, [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/14/28-29#purport|SB 1.14.28-29]], [[sb/7/10/42#purport|SB 7.10.42]], [[sb/10/1/2-2#purport|SB 10.1.2-2]], N102, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/41#purport|SB 10.2.41]]
 * as Kṛṣṇa’s helper, [[sb/10/8/27#purport|SB 10.8.27]]
 * as līlā-avatāra, [[cc/madhya/20/244#purport|Madhya 20.244]]
 * as Nityānanda, [[sb/1/14/28-29#purport|SB 1.14.28-29]]
@@ -26,7 +31,6 @@
 * as vaibhava-prakāśa expansion, [[cc/adi/2/97#purport|Ādi 2.97]]
 * as vilāsa expansion, [[cc/adi/1/68#purport|Ādi 1.68]], **[[cc/adi/1/78#translation|Ādi 1.78]]**
 * at Kṛṣṇa-Balarāma temple in Vṛndāvana, [[cc/madhya/16/281#purport|Madhya 16.281]]
-*  [[bg/9/11|Bg. 9.11]], [[bg/10/37|Bg. 10.37]], [[sb/3/1/26#purport|SB 3.1.26]], [[sb/3/1/27#purport|SB 3.1.27]], [[sb/9/24/53-55#purport|SB 9.24.53-55]], [[sb/9/24/60#purport|SB 9.24.60]]
 * Brahmā bewildered on birthday of, [[sb/10/13/40#purport|SB 10.13.40]]
 * Caitanya’s ecstasy of, **[[cc/adi/17/115-19#translation|Ādi 17.115-19]]**
 * calves tended by, [[sb/10/11/37-41#purport|SB 10.11.37-41]], [[sb/10/11/45#purport|SB 10.11.45]], [[sb/10/11/46#purport|SB 10.11.46]]
@@ -44,18 +48,20 @@
 * historical accounts on, [[sb/1/11/16-17#purport|SB 1.11.16-17]]
 * imitated animals, [[sb/10/11/39-40#purport|SB 10.11.39-40]]
 * in Devakī’s womb, [[sb/10/2/8-8#purport|SB 10.2.8-8]]
+* inseparable from, [[sb/10/11/34-34#purport|SB 10.11.34-34]]
 * intimacy possible with, [[sb/1/2/22#purport|SB 1.2.22]]
 * Kauravas, [[cc/madhya/20/306#purport|Madhya 20.306]]
 * Khelā-tīrtha &, [[cc/madhya/18/66#purport|Madhya 18.66]]
 * king’s daughter given in charity to, [[sb/9/3/33#purport|SB 9.3.33]], [[sb/9/3/36#purport|SB 9.3.36]]
-* Kṛṣṇa 
+* Kṛṣṇa
 * Kṛṣṇa compared with, [[cc/adi/17/16#purport|Ādi 17.16]], **[[cc/adi/5/5#translation|Ādi 5.5]]**
 * Kṛṣṇa served by, **[[cc/adi/5/8–11#translation|Ādi 5.8–11]]**, **[[cc/adi/5/137#translation|Ādi 5.137]]**
 * Kṛṣṇa’s expansion pastime revealed to, [[sb/10/13/28#purport|SB 10.13.28]], [[sb/10/13/35-38#purport|SB 10.13.35-38]], [[sb/10/13/39-39#purport|SB 10.13.39-39]]
 * Kṛṣṇa’s pastimes with, **[[cc/adi/5/136#translation|Ādi 5.136]]**, **[[cc/adi/5/138–41#translation|Ādi 5.138–41]]**
 * lunching with Kṛṣṇa & cowherd boys, [[sb/10/13/10#purport|SB 10.13.10]]
-* mercy of, as necessity, [[sb/7/15/45#purport|SB 7.15.45]]
+* lunching with, [[sb/10/13/10#purport|SB 10.13.10]]
 * mercy of, [[sb/1/14/28-29#purport|SB 1.14.28-29]]
+* mercy of, as necessity, [[sb/7/15/45#purport|SB 7.15.45]]
 * mischief done by, [[sb/10/8/30#purport|SB 10.8.30]]
 * mother of, [[sb/10/1/8#purport|SB 10.1.8]], [[sb/10/5/17#purport|SB 10.5.17]], [[sb/10/5/27#purport|SB 10.5.27]]
 * name of, meaning of, [[sb/1/11/16-17#purport|SB 1.11.16-17]]
@@ -75,13 +81,14 @@
 * quoted on Kṛṣṇa, **[[cc/adi/5/141#translation|Ādi 5.141]]**, **[[cc/madhya/20/306#translation|Madhya 20.306]]**
 * Raghunātha Vaidya &, [[cc/adi/10/125-26#purport|Ādi 10.125-26]]
 * realization about, [[sb/6/9/33#purport|SB 6.9.33]]
-* Rohiṇī 
+* Rohiṇī
 * Romaharṣaṇa &, **[[cc/adi/5/170#translation|Ādi 5.170]]**, [[cc/adi/5/171#purport|Ādi 5.171]]
 * Śacīdevī &, **[[cc/adi/17/17#translation|Ādi 17.17]]**
 * Saṅkarṣaṇa &, **[[cc/adi/5/8#translation|Ādi 5.8]]**, [[cc/adi/5/40#purport|Ādi 5.40]]
 * sister of, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
 * spiritual world &, [[cc/adi/5/18#purport|Ādi 5.18]]
-* sustains universe, N109 
+* suckled, [[sb/10/8/23-23#purport|SB 10.8.23-23]]
+* sustains universe, N109
 * Vanamālī Paṇḍita &, [[cc/adi/10/73#purport|Ādi 10.73]]
 * Vasudeva & Devakī &, **[[cc/madhya/19/197#translation|Madhya 19.197]]**
 * Viśvarūpa incarnation of, **[[cc/adi/13/74#translation|Ādi 13.74]]**

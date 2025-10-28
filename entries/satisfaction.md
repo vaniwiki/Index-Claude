@@ -30,6 +30,6 @@
 * via serving brāhmaṇas & devotees, [[sb/4/21/40#purport|SB 4.21.40]]
 * via serving Lord, [[sb/4/4/28#purport|SB 4.4.28]]
 
-*See also:* [[d#Detachment|Detachment]]; [[b#Bliss|Bliss]]; transcendental; [[h#Happiness|Happiness]]; [[e#Enjoyment|Enjoyment]]; [[p#Peace|Peace]]
+*See also:* [Bliss](entries/bliss.md); [Happiness](entries/happiness.md); transcendental; [Detachment](entries/detachment.md); [Enjoyment](entries/enjoyment.md); [Peace](entries/peace.md)
 
-*See:* [[h#Happiness|Happiness]]; [[p#Peace|Peace]]
+*See:* [Happiness](entries/happiness.md); [Peace](entries/peace.md)

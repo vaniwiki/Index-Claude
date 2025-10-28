@@ -10,4 +10,4 @@
 * origin of, [[sb/2/6/33#purport|SB 2.6.33]]
 * senses & elements created by, [[sb/2/5/25-29#purport|SB 2.5.25-29]]
 
-*See also:* [[k#Karma|Karma]]
+*See also:* [Karma](entries/karma.md)

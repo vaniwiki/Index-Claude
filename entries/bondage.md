@@ -1,5 +1,7 @@
 # Bondage
 
+[[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/78-78#purport|SB 4.29.78-78]], [[sb/4/29/82#purport|SB 4.29.82]]
+
 * cause of, [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/9/1#purport|SB 2.9.1]], [[sb/2/9/23#purport|SB 2.9.23]], [[sb/2/9/36#purport|SB 2.9.36]]
 * five causes of, [[sb/3/10/17#purport|SB 3.10.17]]
 * for all but devotees, [[sb/3/9/10#purport|SB 3.9.10]]
@@ -14,7 +16,6 @@
 * material happiness causes, [[sb/9/19/4#purport|SB 9.19.4]], [[sb/9/19/20-20#purport|SB 9.19.20-20]]
 * modern literature increases, [[sb/2/7/15#purport|SB 2.7.15]]
 * original cause of, [[sb/3/5/51#purport|SB 3.5.51]]
-*  [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/78-78#purport|SB 4.29.78-78]], [[sb/4/29/82#purport|SB 4.29.82]]
 * sex attraction as, [[sb/2/7/6#purport|SB 2.7.6]]
 * to birth & death, [[sb/9/11/17#purport|SB 9.11.17]], [[sb/9/11/23#purport|SB 9.11.23]], [[sb/9/16/23#purport|SB 9.16.23]]
 * to bodily designations, [[sb/4/22/30#purport|SB 4.22.30]]
@@ -28,4 +29,4 @@
 * via fruitive mentality, [[sb/3/8/12#purport|SB 3.8.12]]
 * via sex attraction, [[sb/3/12/28#purport|SB 3.12.28]]
 
-*See also:* [[b#Birth-death cycle|Birth-death cycle]]; [[k#Karma|Karma]]; [[m#Māyā|Māyā]]; [[m#Modes of nature|Modes of nature]]; [[s#Suffering|Suffering]]; Transmigrations of soul; [[b#Bodily conception of life|Bodily conception of life]]; [[l#Life|Life]]; material; [[m#Miseries|Miseries]]
+*See also:* [Life](entries/life.md); material; Birth-death cycle; [Karma](entries/karma.md); Māyā; Modes of nature; [Suffering](entries/sufferings.md); Transmigrations of soul; Bodily conception of life; Miseries

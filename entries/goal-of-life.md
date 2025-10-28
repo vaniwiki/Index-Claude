@@ -1,10 +1,12 @@
 # Goal of life
 
+[[bg/3/7|Bg. 3.7]], [[bg/3/12|Bg. 3.12]], [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/1/9/39#purport|SB 1.9.39]], [[sb/1/9/44#purport|SB 1.9.44]], [[sb/1/13/2#purport|SB 1.13.2]], [[sb/1/15/45#purport|SB 1.15.45]], [[sb/1/18/13#purport|SB 1.18.13]], [[sb/7/7/28#purport|SB 7.7.28]], [[sb/7/7/47#purport|SB 7.7.47]], [[sb/7/7/54-54#purport|SB 7.7.54-54]], [[sb/7/8/2#purport|SB 7.8.2]], [[sb/7/10/6#purport|SB 7.10.6]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/7/15/9#purport|SB 7.15.9]], [[sb/7/15/14#purport|SB 7.15.14]], [[sb/7/15/65#purport|SB 7.15.65]], [[sb/7/15/67#purport|SB 7.15.67]], [[sb/8/2/33#purport|SB 8.2.33]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/6/13#purport|SB 8.6.13]], [[sb/8/16/5#purport|SB 8.16.5]], [[sb/8/16/60#purport|SB 8.16.60]], [[sb/10/8/6#purport|SB 10.8.6]], [[sb/10/8/45#purport|SB 10.8.45]], [[sb/10/8/49-49#purport|SB 10.8.49-49]]
+
 * as back to Godhead, [[sb/2/10/4#purport|SB 2.10.4]]
 * as contacting Lord, [[sb/2/2/14#purport|SB 2.2.14]]
 * as detachment from sex life, [[sb/2/6/20#purport|SB 2.6.20]]
 * as eternity, bliss & knowledge, [[sb/2/1/12#purport|SB 2.1.12]]
-* as freedom from ”I & mine,” [[sb/3/5/44#purport|SB 3.5.44]]
+* as freedom from ”I & mine,”, [[sb/3/5/44#purport|SB 3.5.44]]
 * as love for Lord, [[sb/3/23/8#purport|SB 3.23.8]]
 * as loving exchange with Lord, [[sb/2/7/47#purport|SB 2.7.47]]
 * as spiritual values, [[sb/2/3/18-19#purport|SB 2.3.18-19]]*
@@ -13,7 +15,6 @@
 * attained via guru, [[sb/8/24/53#purport|SB 8.24.53]]
 * beyond bodily necessities, [[sb/3/4/25#purport|SB 3.4.25]]
 * beyond demigod worshipers, [[sb/2/3/11#purport|SB 2.3.11]]
-*  [[bg/3/7|Bg. 3.7]], [[bg/3/12|Bg. 3.12]], [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/1/9/39#purport|SB 1.9.39]], [[sb/1/9/44#purport|SB 1.9.44]], [[sb/1/13/2#purport|SB 1.13.2]], [[sb/1/15/45#purport|SB 1.15.45]], [[sb/1/18/13#purport|SB 1.18.13]], [[sb/10/8/6#purport|SB 10.8.6]], [[sb/10/8/45#purport|SB 10.8.45]], [[sb/10/8/49-49#purport|SB 10.8.49-49]], [[sb/7/7/28#purport|SB 7.7.28]], [[sb/7/7/47#purport|SB 7.7.47]], [[sb/7/7/54-54#purport|SB 7.7.54-54]], [[sb/7/8/2#purport|SB 7.8.2]], [[sb/7/10/6#purport|SB 7.10.6]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/7/15/9#purport|SB 7.15.9]], [[sb/7/15/14#purport|SB 7.15.14]], [[sb/7/15/65#purport|SB 7.15.65]], [[sb/7/15/67#purport|SB 7.15.67]], [[sb/8/2/33#purport|SB 8.2.33]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/6/13#purport|SB 8.6.13]], [[sb/8/16/5#purport|SB 8.16.5]], [[sb/8/16/60#purport|SB 8.16.60]]
 * creation facilitates, [[sb/3/5/24#purport|SB 3.5.24]], [[sb/3/5/28-29#purport|SB 3.5.28-29]]
 * devotional service as, [[sb/2/7/48#purport|SB 2.7.48]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/4/20/9#purport|SB 4.20.9]], [[sb/4/20/29#purport|SB 4.20.29]], [[sb/4/23/27#purport|SB 4.23.27]], [[sb/4/24/54-54#purport|SB 4.24.54-54]]
 * fulfillment of, [[sb/8/24/5#purport|SB 8.24.5]]
@@ -40,7 +41,7 @@
 * spiritual, compared with artificial, [[sb/2/6/26#purport|SB 2.6.26]]
 * Supersoul as, [[sb/2/2/6#purport|SB 2.2.6]]
 * thinking of Lord as, [[sb/4/12/17#purport|SB 4.12.17]]
-* universal, Kṛṣṇa as, 30 
+* universal, Kṛṣṇa as, 30
 * Vaikuṇṭha as, [[sb/4/12/43#purport|SB 4.12.43]]
 * via duty, [[sb/2/1/36#purport|SB 2.1.36]], [[sb/2/10/25#purport|SB 2.10.25]]
 * via going back to Godhead, [[sb/3/24/47#purport|SB 3.24.47]]
@@ -50,4 +51,4 @@
 * via satisfying Lord, [[sb/2/5/30#purport|SB 2.5.30]]
 * via Śrīmad-Bhāgavatam, [[sb/2/10/5#purport|SB 2.10.5]]
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]; Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; [[p#Perfection|Perfection]]; [[s#Success|Success]]
+*See also:* [Perfection](entries/perfections.md); [Success](entries/success.md); Absolute Truth; Kṛṣṇa; Supreme Lord

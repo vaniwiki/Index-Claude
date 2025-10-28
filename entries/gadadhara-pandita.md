@@ -1,6 +1,6 @@
 # Gadādhara Paṇḍita
 
-[[cc/adi/12/58#purport|Ādi 12.58]], [[cc/antya/10/153#purport|Antya 10.153]], **[[cc/antya/7/144–46#translation|Antya 7.144–46]]**, **[[cc/antya/7/155–64#translation|Antya 7.155–64]]**, **[[cc/antya/7/171#translation|Antya 7.171]]**, [[cc/madhya/1/96#purport|Madhya 1.96]], **[[cc/madhya/10/82#translation|Madhya 10.82]]**, **[[cc/madhya/11/84#translation|Madhya 11.84]]**, **[[cc/madhya/25/228#translation|Madhya 25.228]]**, **[[cc/madhya/25/235#translation|Madhya 25.235]]**, **[[cc/madhya/25/237#translation|Madhya 25.237]]**
+[[cc/madhya/1/96#purport|Madhya 1.96]], **[[cc/madhya/10/82#translation|Madhya 10.82]]**, **[[cc/madhya/11/84#translation|Madhya 11.84]]**, **[[cc/madhya/25/228#translation|Madhya 25.228]]**, **[[cc/madhya/25/237#translation|Madhya 25.237]]**, [[cc/adi/12/58#purport|Ādi 12.58]], [[cc/antya/10/153#purport|Antya 10.153]], **[[cc/madhya/25/235#translation|Madhya 25.235]]**, **[[cc/antya/7/144–46#translation|Antya 7.144–46]]**, **[[cc/antya/7/155–64#translation|Antya 7.155–64]]**, **[[cc/antya/7/171#translation|Antya 7.171]]**
 
 * Acyutānanda &, [[cc/adi/12/17#purport|Ādi 12.17]]
 * Ananta Ācārya &, [[cc/adi/8/54#purport|Ādi 8.54]], **[[cc/adi/8/59#translation|Ādi 8.59]]**

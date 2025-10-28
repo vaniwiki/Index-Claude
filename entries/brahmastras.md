@@ -6,6 +6,8 @@
 * as science of throwing, [[sb/1/7/20#purport|SB 1.7.20]], [[sb/1/7/27#purport|SB 1.7.27]]
 * Aśvatthāmā discharged, [[sb/1/8/11-16#purport|SB 1.8.11-16]], [[sb/1/8/11-16#purport|SB 1.8.11-16]], [[sb/1/12/1#purport|SB 1.12.1]], [[sb/1/12/1#purport|SB 1.12.1]]
 * atomic weapons compared with, [[sb/1/8/12-13#purport|SB 1.8.12-13]], [[sb/1/10/32#purport|SB 1.10.32]]
+* attacked by, [[sb/1/8/11-12#purport|SB 1.8.11-12]], [[sb/1/8/11#purport|SB 1.8.11]], [[sb/1/12/7#purport|SB 1.12.7]], [[sb/1/12/16-17#purport|SB 1.12.16-17]]
 * Lord foiled, [[sb/1/8/15#purport|SB 1.8.15]], [[sb/1/8/15#purport|SB 1.8.15]]
-* Pāṇḍavas 
-* Parīkṣit 
+* Pāṇḍavas
+* Parīkṣit
+* saved from, [[sb/1/8/17#purport|SB 1.8.17]], [[sb/1/8/14#purport|SB 1.8.14]], [[sb/1/8/14#purport|SB 1.8.14]], [[sb/1/8/24#purport|SB 1.8.24]]

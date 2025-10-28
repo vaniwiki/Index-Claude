@@ -1,6 +1,6 @@
 # Compassion
 
-**[[cc/adi/3/98#translation|Ādi 3.98]]**, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/38#purport|Ādi 7.38]], [[cc/adi/7/92#purport|Ādi 7.92]], [[bg/16/1|Bg. 16.1]], **[[cc/madhya/15/162–63#translation|Madhya 15.162–63]]**, [[cc/madhya/9/49#purport|Madhya 9.49]]
+[[bg/16/1|Bg. 16.1]], **[[cc/adi/3/98#translation|Ādi 3.98]]**, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/38#purport|Ādi 7.38]], [[cc/adi/7/92#purport|Ādi 7.92]], [[cc/madhya/9/49#purport|Madhya 9.49]], **[[cc/madhya/15/162–63#translation|Madhya 15.162–63]]**
 
 * actual meaning of, [[sb/5/8/7#purport|SB 5.8.7]], [[sb/5/8/10#purport|SB 5.8.10]]
 * Arjuna’s, [[bg/1/28|Bg. 1.28]], [[bg/1/32–35|Bg. 1.32–35]], [[bg/1/45|Bg. 1.45]], [[bg/2/1–2|Bg. 2.1–2]], [[bg/2/36|Bg. 2.36]]

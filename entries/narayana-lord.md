@@ -1,9 +1,9 @@
 # Nārāyaṇa, Lord
 
-[[cc/adi/14/19#purport|Ādi 14.19]], **[[cc/adi/2/56#translation|Ādi 2.56]]**, **[[cc/adi/2/56–58#translation|Ādi 2.56–58]]**, **[[cc/adi/2/9/147#translation|Ādi 2.9.147]]**, **[[cc/adi/3/69–70#translation|Ādi 3.69–70]]**, **[[cc/madhya/8/145#translation|Madhya 8.145]]**, **[[cc/madhya/9/115–17#translation|Madhya 9.115–17]]**, **[[cc/madhya/9/144#translation|Madhya 9.144]]**, **[[cc/madhya/9/146–50#translation|Madhya 9.146–50]]**, **[[cc/madhya/9/153#translation|Madhya 9.153]]**, [[sb/4/26/17#purport|SB 4.26.17]], [[sb/7/13/3#purport|SB 7.13.3]]
+[[bg/2/2|Bg. 2.2]] (3), [[bg/14/26|Bg. 14.26]], [[bg/18/65|Bg. 18.65]], [[cc/adi/14/19#purport|Ādi 14.19]], **[[cc/adi/2/9/147#translation|Ādi 2.9.147]]**, **[[cc/adi/2/56#translation|Ādi 2.56]]**, **[[cc/adi/2/56–58#translation|Ādi 2.56–58]]**, **[[cc/adi/3/69–70#translation|Ādi 3.69–70]]**, **[[cc/madhya/8/145#translation|Madhya 8.145]]**, **[[cc/madhya/9/115–17#translation|Madhya 9.115–17]]**, **[[cc/madhya/9/144#translation|Madhya 9.144]]**, **[[cc/madhya/9/146–50#translation|Madhya 9.146–50]]**, **[[cc/madhya/9/153#translation|Madhya 9.153]]**, [[sb/4/26/17#purport|SB 4.26.17]], [[sb/7/13/3#purport|SB 7.13.3]], [[sb/10/1/2#purport|SB 10.1.2]], [[sb/10/5/15-16#purport|SB 10.5.15-16]]
 
 * ”parents” of, [[sb/7/11/6#purport|SB 7.11.6]]
-* ”poor,” [[sb/9/21/6#purport|SB 9.21.6]]
+* ”poor,”, [[sb/9/21/6#purport|SB 9.21.6]]
 * Advaita plenary portion of, **[[cc/adi/6/22#translation|Ādi 6.22]]**
 * Ajāmila saved by name of, [[sb/8/3/1#purport|SB 8.3.1]], [[sb/8/3/8-9#purport|SB 8.3.8-9]], [[sb/8/5/48#purport|SB 8.5.48]]
 * Ajāmila’s chanting name of, [[sb/6/1/25-30#purport|SB 6.1.25-30]], [[sb/6/1/34-36#purport|SB 6.1.34-36]], [[sb/6/2/8-8#purport|SB 6.2.8-8]], [[sb/6/2/49#purport|SB 6.2.49]]?, [[sb/6/3/10#purport|SB 6.3.10]]
@@ -52,6 +52,7 @@
 * as viṣṇu-tattva, [[sb/1/2/23#purport|SB 1.2.23]], [[sb/1/2/26#purport|SB 1.2.26]]
 * as well-wisher, [[sb/7/6/27#purport|SB 7.6.27]]
 * as yoga’s goal, [[sb/3/15/45#purport|SB 3.15.45]]
+* as, [[sb/1/7/52#purport|SB 1.7.52]], [[sb/1/14/8#purport|SB 1.14.8]], [[sb/1/15/47-48#purport|SB 1.15.47-48]]
 * at Badarikāśrama, [[sb/7/11/6#purport|SB 7.11.6]]
 * austerities by, [[sb/7/11/6#purport|SB 7.11.6]]
 * austerity taught by, [[sb/2/7/6#purport|SB 2.7.6]], [[sb/2/7/6#purport|SB 2.7.6]]
@@ -61,7 +62,6 @@
 * beyond Creation, [[sb/9/10/11#purport|SB 9.10.11]]
 * beyond creative energy, [[sb/2/5/21#purport|SB 2.5.21]]
 * beyond material knowledge, [[sb/4/7/31#purport|SB 4.7.31]]
-*  [[bg/2/2|Bg. 2.2]] (3), [[bg/14/26|Bg. 14.26]], [[bg/18/65|Bg. 18.65]], [[sb/10/1/2#purport|SB 10.1.2]], [[sb/10/5/15-16#purport|SB 10.5.15-16]]
 * Bharata worships, [[sb/5/7/13#purport|SB 5.7.13]]
 * Bhīṣma worshiped, [[sb/1/9/24#purport|SB 1.9.24]]
 * bodily effulgence of, [[sb/4/7/19#purport|SB 4.7.19]], [[sb/4/7/23#purport|SB 4.7.23]]
@@ -71,6 +71,7 @@
 * chanting name of, [[sb/6/13/8-9#purport|SB 6.13.8-9]]
 * compared to potter, [[cc/adi/5/51#purport|Ādi 5.51]]
 * compared to sunrise, [[sb/4/7/20#purport|SB 4.7.20]]
+* compared with, [[sb/1/8/16#purport|SB 1.8.16]]
 * consort of, [[sb/9/4/60#purport|SB 9.4.60]]
 * creation caused by, [[sb/4/24/63#purport|SB 4.24.63]]
 * demigods under, [[sb/10/13/56#purport|SB 10.13.56]]
@@ -86,7 +87,10 @@
 * expansion by Kṛṣṇa &, **[[cc/madhya/20/192#translation|Madhya 20.192]]**
 * face & smile of, [[sb/4/7/21#purport|SB 4.7.21]]
 * festivals &, [[cc/adi/14/18#purport|Ādi 14.18]]
-* form(s) of 
+* form(s) of
+  * Arjuna asks to see, [[bg/11/45–46|Bg. 11.45–46]]
+  * described, [[bg/11/45|Bg. 11.45]]
+  * for spiritual planets, [[bg/11/45|Bg. 11.45]]
 * Gajendra rescued by, [[sb/8/3/32#purport|SB 8.3.32]]
 * glancing potency of, [[sb/2/1/39#purport|SB 2.1.39]]
 * goddess of fortune &, **[[cc/madhya/9/142#translation|Madhya 9.142]]**, **[[cc/antya/20/60#translation|Antya 20.60]]**
@@ -97,12 +101,12 @@
 * in eight-armed form, [[sb/4/7/20#purport|SB 4.7.20]]
 * in heart of all, [[sb/7/14/18#purport|SB 7.14.18]]
 * in Vaikuṇtha, [[sb/6/1/34-36#purport|SB 6.1.34-36]]
-* Kṛṣṇa 
+* Kṛṣṇa
 * Kṛṣṇa &, **[[cc/adi/2/35–46#translation|Ādi 2.35–46]]**, **[[cc/adi/2/48#translation|Ādi 2.48]]**
 * Kṛṣṇa as basis of, [[sb/4/8/47#purport|SB 4.8.47]]
 * Kṛṣṇa as origin of, [[bg/10/8|Bg. 10.8]]
 * Kṛṣṇa as, [[sb/4/8/47#purport|SB 4.8.47]], [[sb/7/13/22#purport|SB 7.13.22]]
-* Kṛṣṇa compared with, **[[cc/adi/2/28–29#translation|Ādi 2.28–29]]**, [[sb/10/8/19#purport|SB 10.8.19]], [[sb/10/11/5-5#purport|SB 10.11.5-5]], [[sb/10/11/57#purport|SB 10.11.57]], [[sb/10/13/53#purport|SB 10.13.53]], [[sb/3/2/12#purport|SB 3.2.12]]
+* Kṛṣṇa compared with, **[[cc/adi/2/28–29#translation|Ādi 2.28–29]]**, [[sb/3/2/12#purport|SB 3.2.12]], [[sb/10/8/19#purport|SB 10.8.19]], [[sb/10/11/5-5#purport|SB 10.11.5-5]], [[sb/10/11/57#purport|SB 10.11.57]], [[sb/10/13/53#purport|SB 10.13.53]]
 * Kṛṣṇa origin of, [[sb/6/1/19#purport|SB 6.1.19]]
 * Kṛṣṇa source of, [[cc/adi/2/5#purport|Ādi 2.5]], [[cc/adi/5/132#purport|Ādi 5.132]]
 * Kṛṣṇa superior to, **[[cc/madhya/23/84–85#translation|Madhya 23.84–85]]**
@@ -151,7 +155,7 @@
 * serving, with wealth, [[sb/1/5/32#purport|SB 1.5.32]]
 * sins are relieved by pleasing, [[sb/6/13/7#purport|SB 6.13.7]], [[sb/6/13/8-9#purport|SB 6.13.8-9]]
 * symbols decorating, [[sb/3/15/27#purport|SB 3.15.27]]
-* symbols of, **[[cc/adi/5/27–28#translation|Ādi 5.27–28]]**, [[bg/11/45|Bg. 11.45]]
+* symbols of, [[bg/11/45|Bg. 11.45]], **[[cc/adi/5/27–28#translation|Ādi 5.27–28]]**
 * transcendental nature of, [[cc/madhya/25/118#purport|Madhya 25.118]]
 * universe maintained by, [[sb/5/7/14#purport|SB 5.7.14]]
 * Vaikuṇṭha planets &, [[cc/adi/4/30#purport|Ādi 4.30]], **[[cc/adi/5/26#translation|Ādi 5.26]]**
@@ -164,4 +168,4 @@
 * worshiped by demigods, [[sb/6/9/20-27#purport|SB 6.9.20-27]]
 * Yamarāja asks pardon from, [[sb/6/3/30#purport|SB 6.3.30]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; as Nārāyaṇa; [[a#Absolute Truth|Absolute Truth]]; Kṛṣṇa; [[s#Supersoul|Supersoul]]; Viṣṇu
+*See also:* Absolute Truth; Kṛṣṇa; [Supersoul](entries/supersoul.md); Supreme Lord; Goddess of fortune; Viṣṇu; as Nārāyaṇa

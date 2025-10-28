@@ -3,12 +3,12 @@
 [[sb/3/32/28#purport|SB 3.32.28]]
 
 * ”percentages” of, in beings, [[sb/4/1/15#purport|SB 4.1.15]]
-* nirmama, 3.30 3.30
-* about Kṛṣṇa. See: Kṛṣṇa consciousness , 
+* about Kṛṣṇa. See: Kṛṣṇa consciousness
 * animal’s, [[bg/2/20|Bg. 2.20]], [[bg/3/38|Bg. 3.38]], [[bg/15/8|Bg. 15.8]], [[bg/18/22|Bg. 18.22]]
 * apart from brain, [[sb/4/7/5#purport|SB 4.7.5]]
 * as alert to duty, [[sb/2/1/13#purport|SB 2.1.13]]
 * as eternal, [[sb/3/5/11#purport|SB 3.5.11]], [[sb/3/6/36#purport|SB 3.6.36]], [[sb/3/7/5#purport|SB 3.7.5]], [[sb/3/7/13#purport|SB 3.7.13]]
+* as kaivalya, [[sb/4/3/23#purport|SB 4.3.23]]
 * as living symptom, [[bg/13/6|Bg. 13.6]]
 * as soul’s symptom, [[sb/3/26/3#purport|SB 3.26.3]], [[sb/3/26/14#purport|SB 3.26.14]]
 * as spiritual & eternal, [[bg/10/22|Bg. 10.22]]
@@ -21,11 +21,11 @@
 * by plants, [[bg/3/38|Bg. 3.38]]
 * clear, worship to Vāsudeva for, [[sb/3/26/21#purport|SB 3.26.21]]
 * compared to candle power, [[sb/4/1/15#purport|SB 4.1.15]]
-* compared to light, 10, [[bg/2/20|Bg. 2.20]]
 * compared to light, [[sb/4/1/15#purport|SB 4.1.15]]
+* compared to light, 10, [[bg/2/20|Bg. 2.20]]
 * compared to water, [[sb/3/26/22#purport|SB 3.26.22]]
 * contamination of, [[bg/3/38–40|Bg. 3.38–40]], [[bg/15/9|Bg. 15.9]]
-* defined, 11 
+* defined, 11
 * fixed, [[bg/2/59|Bg. 2.59]]
 * from soul, [[bg/2/20|Bg. 2.20]], [[bg/2/25|Bg. 2.25]], [[bg/13/34|Bg. 13.34]]
 * from spirit, [[sb/3/26/3#purport|SB 3.26.3]]
@@ -36,23 +36,26 @@
 * illusory states of, [[sb/7/13/5#purport|SB 7.13.5]], [[sb/7/15/62#purport|SB 7.15.62]]
 * in body from soul, [[bg/2/17|Bg. 2.17]], [[bg/13/34–35|Bg. 13.34–35]]
 * in false ego, [[sb/4/29/70#purport|SB 4.29.70]]
-* in Lord & living beings, [[sb/4/1/15#purport|SB 4.1.15]], SB Intro 1-2
+* in Lord & living beings, SB Intro 1-2, [[sb/4/1/15#purport|SB 4.1.15]]
 * independent of body, [[sb/4/7/5#purport|SB 4.7.5]], [[sb/4/7/9#purport|SB 4.7.9]]
 * individual & unchanging, [[sb/4/7/5#purport|SB 4.7.5]], [[sb/4/7/9#purport|SB 4.7.9]]
 * individual, compared with supreme consciousness, [[bg/13/34|Bg. 13.34]]
 * individual, compared with supreme, [[sb/3/5/45#purport|SB 3.5.45]], [[sb/3/6/7#purport|SB 3.6.7]]
+* Kṛṣṇa consciousness as, [[sb/4/3/23-23#purport|SB 4.3.23-23]]
 * Kṛṣṇa represented by, [[bg/10/22|Bg. 10.22]]
 * limitations of, [[bg/2/17|Bg. 2.17]]
+* Lord revealed to, [[sb/4/3/23-23#purport|SB 4.3.23-23]]
 * Lord’s compared with living entity’s, 10, [[bg/2/20|Bg. 2.20]], [[bg/13/34|Bg. 13.34]]
 * Lord’s, as all-pervading, [[sb/3/26/3#purport|SB 3.26.3]]
 * material & spiritual, [[sb/1/6/4#purport|SB 1.6.4]]
 * material, & spiritual, [[sb/10/1/41#purport|SB 10.1.41]], [[sb/10/10/4#purport|SB 10.10.4]]
 * material, giving up, [[sb/4/8/44#purport|SB 4.8.44]]
 * material, material life caused by, [[sb/3/26/7#purport|SB 3.26.7]]
-* material, two divisions of, 11 
+* material, two divisions of, 11
 * materialistic theory of, [[sb/3/26/3#purport|SB 3.26.3]]
 * mode-of-passion understandings of, [[bg/18/21|Bg. 18.21]]
 * modes influence, [[sb/4/29/74#purport|SB 4.29.74]]
+* nirmama, 3.30
 * of Brahmā, [[sb/3/15/4#purport|SB 3.15.4]]
 * of devotee in rebirth, [[sb/4/7/9#purport|SB 4.7.9]]
 * of soul & Supersoul, [[sb/3/32/29#purport|SB 3.32.29]], [[sb/4/24/40#purport|SB 4.24.40]]
@@ -60,14 +63,15 @@
 * of tree, [[sb/10/10/20-22#purport|SB 10.10.20-22]]
 * original nature of, [[bg/15/9|Bg. 15.9]]
 * perception of, in degrees, [[bg/3/38|Bg. 3.38]]
-* pure , 
+* pure, [[sb/3/26/14#purport|SB 3.26.14]], [[sb/3/26/22#purport|SB 3.26.22]]
+  * *See also:* Pure devotees; Kṛṣṇa consciousness
+  * as transcendental, [[bg/2/55–61|Bg. 2.55–61]], [[bg/2/64–66|Bg. 2.64–66]], [[bg/2/68–72|Bg. 2.68–72]], [[bg/3/17|Bg. 3.17]]
+  * lust covers, [[bg/3/39|Bg. 3.39]]
 * pure condition of, [[sb/3/9/33#purport|SB 3.9.33]]
 * pure, compared with illusory, [[sb/3/7/10#purport|SB 3.7.10]]
-* pure, [[sb/3/26/14#purport|SB 3.26.14]], [[sb/3/26/22#purport|SB 3.26.22]]
 * purification of, [[sb/3/26/61#purport|SB 3.26.61]]
 * shadow of, [[sb/3/5/27#purport|SB 3.5.27]]
 * spiritual, compared with material, [[sb/3/26/6#purport|SB 3.26.6]]
-* *See:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]] 
 * stages of contamination of, [[bg/2/62–63|Bg. 2.62–63]]
 * stages of, [[sb/3/27/10#purport|SB 3.27.10]]
 * states of, three listed, [[sb/7/7/25-25#purport|SB 7.7.25-25]], [[sb/7/7/26#purport|SB 7.7.26]], [[sb/7/7/28#purport|SB 7.7.28]], [[sb/7/9/32#purport|SB 7.9.32]]
@@ -76,4 +80,6 @@
 * three states of, [[sb/1/18/26#purport|SB 1.18.26]]
 * yogīs pursue, [[sb/3/5/45#purport|SB 3.5.45]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[l#Living entities|Living entities]]; [[e#Ego|Ego]]; false; [[i#Illusion|Illusion]]; [[s#Souls|Souls]]; [[k#Knowledge|Knowledge]]; spiritual
+*See also:* [Ego](entries/ego.md); false; [Illusion](entries/illusion.md); Kṛṣṇa consciousness; Souls; [Knowledge](entries/knowledge.md); spiritual; Living entities
+
+*See:* Kṛṣṇa consciousness

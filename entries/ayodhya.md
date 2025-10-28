@@ -1,6 +1,6 @@
 # Ayodhyā
 
-**[[cc/antya/3/81#translation|Antya 3.81]]**, **[[cc/madhya/25/201#translation|Madhya 25.201]]**, [[sb/2/7/23#purport|SB 2.7.23]]
+**[[cc/madhya/25/201#translation|Madhya 25.201]]**, **[[cc/antya/3/81#translation|Antya 3.81]]**, [[sb/2/7/23#purport|SB 2.7.23]]
 
 * as Rāmacandra’s residence on Earth, [[sb/5/19/2#purport|SB 5.19.2]]
 * children in, restored to life, [[sb/9/8/17#purport|SB 9.8.17]], [[sb/9/8/18#purport|SB 9.8.18]]

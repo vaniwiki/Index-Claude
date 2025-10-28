@@ -1,15 +1,14 @@
 # Celibacy
 
-**[[cc/adi/2/17#translation|Ādi 2.17]]**, [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/4/8/1#purport|SB 4.8.1]]
+[[bg/8/11|Bg. 8.11]], [[bg/17/14–15|Bg. 17.14–15]], **[[cc/adi/2/17#translation|Ādi 2.17]]**, [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/4/8/1#purport|SB 4.8.1]]
 
 * advantage of, [[sb/4/27/21#purport|SB 4.27.21]]
 * as austerity of body, [[bg/17/14|Bg. 17.14]]
 * as Vedic contraception, [[sb/4/27/6#purport|SB 4.27.6]]
 * benefits of, [[sb/5/1/26#purport|SB 5.1.26]]
-*  [[bg/8/11|Bg. 8.11]], [[bg/17/14–15|Bg. 17.14–15]]
 * by Priyavrata’s sons, [[sb/5/1/26#purport|SB 5.1.26]]
 * difficulty of, [[bg/8/11|Bg. 8.11]]
-* for *brahmacārī,* 6.13 (1)
+* for *brahmacārī,*, 6.13 (1)
 * for perfection, [[bg/8/11|Bg. 8.11]]
 * for self-improvement, [[sb/2/1/16#purport|SB 2.1.16]]
 * importance of, [[sb/2/6/20#purport|SB 2.6.20]]
@@ -26,4 +25,4 @@
 * value of, [[sb/3/26/57#purport|SB 3.26.57]]
 * yoga requires, [[sb/3/28/4-5#purport|SB 3.28.4-5]]
 
-*See also:* [[b#Brahmacārī āśrama|Brahmacārī āśrama]]; [[s#Sannyāsa āśrama|Sannyāsa āśrama]]; Brahmacārīs; [[s#Sannyāsīs|Sannyāsīs]]; [[b#Brahmacarya|Brahmacarya]]; [[b#Brahmacarya system|Brahmacarya system]]; [[r#Renunciation|Renunciation]]; [[s#Sannyāsa|Sannyāsa]]; [[s#Sex life|Sex life]]; [[v#Varṇāśrama system|Varṇāśrama system]]
+*See also:* [Brahmacarya](entries/brahmacarya.md); [Renunciation](entries/renunciation.md); Brahmacārī āśrama; Sannyāsa āśrama; Brahmacārīs; Sannyāsīs; Brahmacarya system; Sannyāsa; Sex life; Varṇāśrama system

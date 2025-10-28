@@ -1,7 +1,9 @@
 # Prahlāda Mahārāja
 
-[[cc/adi/10/113#purport|Ādi 10.113]], **[[cc/adi/10/45#translation|Ādi 10.45]]**, [[cc/adi/17/257#purport|Ādi 17.257]], [[cc/adi/17/71#purport|Ādi 17.71]], [[cc/adi/2/22#purport|Ādi 2.22]], [[cc/adi/6/42#purport|Ādi 6.42]], [[cc/adi/7/142#purport|Ādi 7.142]], [[cc/adi/7/92#purport|Ādi 7.92]], [[cc/adi/7/99#purport|Ādi 7.99]], [[cc/adi/8/17#purport|Ādi 8.17]], [[cc/antya/3/213#purport|Antya 3.213]], **[[cc/antya/3/263#translation|Antya 3.263]]**, [[cc/antya/9/10#purport|Antya 9.10]], [[bg/4/8|Bg. 4.8]], [[cc/madhya/1/198#purport|Madhya 1.198]], [[cc/madhya/11/58#purport|Madhya 11.58]], [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/14/18#purport|Madhya 14.18]], **[[cc/madhya/15/165#translation|Madhya 15.165]]**, [[cc/madhya/15/261#purport|Madhya 15.261]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/20/59#purport|Madhya 20.59]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, [[cc/madhya/22/53#purport|Madhya 22.53]], [[cc/madhya/22/76#purport|Madhya 22.76]], **[[cc/madhya/23/8#translation|Madhya 23.8]]**, [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/madhya/5/76#purport|Madhya 5.76]], [[cc/madhya/8/245#purport|Madhya 8.245]], [[cc/madhya/8/246#purport|Madhya 8.246]], **[[cc/madhya/8/5#translation|Madhya 8.5]]**, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/3/28/18#purport|SB 3.28.18]]
+[[bg/4/8|Bg. 4.8]], [[cc/adi/2/22#purport|Ādi 2.22]], [[cc/adi/6/42#purport|Ādi 6.42]], [[cc/adi/7/92#purport|Ādi 7.92]], [[cc/adi/7/99#purport|Ādi 7.99]], [[cc/adi/7/142#purport|Ādi 7.142]], [[cc/adi/8/17#purport|Ādi 8.17]], **[[cc/adi/10/45#translation|Ādi 10.45]]**, [[cc/adi/10/113#purport|Ādi 10.113]], [[cc/adi/17/71#purport|Ādi 17.71]], [[cc/adi/17/257#purport|Ādi 17.257]], [[cc/madhya/1/198#purport|Madhya 1.198]], [[cc/madhya/5/76#purport|Madhya 5.76]], **[[cc/madhya/8/5#translation|Madhya 8.5]]**, [[cc/madhya/8/245#purport|Madhya 8.245]], [[cc/madhya/8/246#purport|Madhya 8.246]], [[cc/madhya/11/58#purport|Madhya 11.58]], [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/14/18#purport|Madhya 14.18]], **[[cc/madhya/15/165#translation|Madhya 15.165]]**, [[cc/madhya/15/261#purport|Madhya 15.261]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/20/59#purport|Madhya 20.59]], [[cc/madhya/22/53#purport|Madhya 22.53]], [[cc/madhya/22/76#purport|Madhya 22.76]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, **[[cc/madhya/23/8#translation|Madhya 23.8]]**, [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/antya/3/213#purport|Antya 3.213]], **[[cc/antya/3/263#translation|Antya 3.263]]**, [[cc/antya/9/10#purport|Antya 9.10]], [[sb/1/3/11#purport|SB 1.3.11]], [[sb/1/7/40#purport|SB 1.7.40]], [[sb/2/1/36#purport|SB 2.1.36]], [[sb/2/4/4#purport|SB 2.4.4]], [[sb/3/28/18#purport|SB 3.28.18]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/6/8/34#purport|SB 6.8.34]], [[sb/6/18/10#purport|SB 6.18.10]], [[sb/6/18/12-13#purport|SB 6.18.12-13]], [[sb/6/18/16#purport|SB 6.18.16]], [[sb/10/7/31#purport|SB 10.7.31]]
 
+* ”enemy,”, [[sb/7/5/38#purport|SB 7.5.38]]
+* advents for, [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/10/48#purport|SB 7.10.48]]
 * as authority, [[sb/7/9/10#purport|SB 7.9.10]], [[sb/7/10/21#purport|SB 7.10.21]]
 * as Bali’s grandfather, [[sb/8/19/2#purport|SB 8.19.2]], [[sb/8/20/3#purport|SB 8.20.3]], [[sb/8/20/11#purport|SB 8.20.11]], [[sb/8/22/8#purport|SB 8.22.8]], [[sb/8/22/10#purport|SB 8.22.10]], [[sb/8/23/5#purport|SB 8.23.5]]
 * as conditioned soul’s savior, [[sb/7/8/5#purport|SB 7.8.5]]
@@ -14,7 +16,7 @@
 * as gṛhastha, [[sb/7/13/46#purport|SB 7.13.46]]
 * as guru, [[sb/8/19/2#purport|SB 8.19.2]]
 * as happy & unhappy, [[sb/7/9/43#purport|SB 7.9.43]]
-* as Hiraṇyakaśipu’s 
+* as Hiraṇyakaśipu’s
 * as king, [[sb/7/10/11-11#purport|SB 7.10.11-11]], [[sb/7/10/20#purport|SB 7.10.20]], [[sb/7/10/24#purport|SB 7.10.24]], [[sb/7/10/33-33#purport|SB 7.10.33-33]]
 * as Kṛṣṇa conscious authority, [[bg/4/16|Bg. 4.16]]
 * as liberated soul, [[sb/7/10/13#purport|SB 7.10.13]]
@@ -36,6 +38,7 @@
 * Bali garlanded by, [[sb/8/15/6#purport|SB 8.15.6]]
 * beauty of, [[sb/8/22/13#purport|SB 8.22.13]]
 * benediction prayed for by, [[sb/5/18/9#purport|SB 5.18.9]]
+* best son, [[sb/7/4/30#purport|SB 7.4.30]]
 * bodily necessities of, [[sb/7/4/38#purport|SB 7.4.38]]
 * body of, [[sb/7/9/26#purport|SB 7.9.26]]
 * born among demons, [[sb/7/7/1#purport|SB 7.7.1]], [[sb/7/8/40#purport|SB 7.8.40]], [[sb/7/9/6#purport|SB 7.9.6]], [[sb/7/9/12#purport|SB 7.9.12]], [[sb/7/9/26-26#purport|SB 7.9.26-26]], [[sb/7/10/2-2#purport|SB 7.10.2-2]], [[sb/7/10/11#purport|SB 7.10.11]]
@@ -45,20 +48,24 @@
 * cited on Deity worship, [[sb/1/12/30#purport|SB 1.12.30]]
 * cited on household life, [[sb/9/19/12#purport|SB 9.19.12]]
 * cited on Lord’s advent in Kali-yuga, [[sb/3/24/26#purport|SB 3.24.26]]
-* cited. See: Prahlāda Mahārāja cited , 
+* cited. See: Prahlāda Mahārāja cited
 * classmates converted by, [[sb/7/8/1#purport|SB 7.8.1]], [[sb/7/8/2#purport|SB 7.8.2]]
 * classmates instructed by, [[sb/7/6/24#purport|SB 7.6.24]], [[sb/7/7/1#purport|SB 7.7.1]], [[sb/7/7/17-55#purport|SB 7.7.17-55]]
 * compared to dog’s curved tail, [[sb/7/5/46-46#purport|SB 7.5.46-46]]
 * compassion felt by, [[sb/5/2/7#purport|SB 5.2.7]]
 * compassion of, [[sb/6/1/6#purport|SB 6.1.6]], [[sb/7/9/41#purport|SB 7.9.41]], [[sb/7/9/42#purport|SB 7.9.42]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/7/9/44#purport|SB 7.9.44]], [[sb/7/10/15-17#purport|SB 7.10.15-17]]
+* condemned, [[sb/7/8/5#purport|SB 7.8.5]]
+* dear to, [[sb/5/18/7#purport|SB 5.18.7]]
 * demigods cite, as great devotee, [[sb/7/4/35#purport|SB 7.4.35]]
 * demon’s drinks by mercy of, [[sb/4/18/16#purport|SB 4.18.16]]
+* descends to protect, [[sb/5/18/7#purport|SB 5.18.7]]
 * devotional service chosen by, [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/24-24#purport|SB 7.9.24-24]], [[sb/7/9/42#purport|SB 7.9.42]]
 * dress of, [[sb/8/22/13#purport|SB 8.22.13]]
 * ecstatic symptoms of, [[sb/7/4/39-41#purport|SB 7.4.39-41]], [[sb/7/9/6#purport|SB 7.9.6]]
 * family ties abandoned by, [[sb/7/5/35#purport|SB 7.5.35]], [[sb/7/5/36#purport|SB 7.5.36]]
 * father of, saved by Lord, [[sb/1/19/35#purport|SB 1.19.35]]
 * father rejected by, [[sb/5/5/18#purport|SB 5.5.18]]
+* favored, [[sb/7/9/5#purport|SB 7.9.5]], [[sb/7/9/26#purport|SB 7.9.26]]
 * following, recommended, [[sb/7/9/24#purport|SB 7.9.24]], [[sb/7/9/25#purport|SB 7.9.25]], [[sb/7/10/42#purport|SB 7.10.42]], [[sb/7/10/48#purport|SB 7.10.48]]
 * free from fruitive activities, [[sb/8/23/10#purport|SB 8.23.10]]
 * from Daitya family, [[bg/10/30|Bg. 10.30]]
@@ -68,7 +75,7 @@
 * guru, seminal, rejected by, [[sb/7/5/31#purport|SB 7.5.31]]
 * has spiritual body, [[sb/1/6/28#purport|SB 1.6.28]]
 * heavenly denizens glorify, [[sb/7/10/13#purport|SB 7.10.13]]
-* Hiraṇyakaśipu 
+* Hiraṇyakaśipu
 * Hiraṇyakaśipu &, [[sb/4/21/47-47#purport|SB 4.21.47-47]], [[sb/4/24/65#purport|SB 4.24.65]], [[sb/4/24/67#purport|SB 4.24.67]], [[sb/5/18/7#purport|SB 5.18.7]], [[sb/5/18/9#purport|SB 5.18.9]]
 * Hiraṇyakaśipu envied, [[sb/9/4/69#purport|SB 9.4.69]]
 * Hiraṇyakaśipu harassed, [[sb/8/22/8#purport|SB 8.22.8]]
@@ -97,29 +104,43 @@
 * materialism rejected by, [[sb/7/9/24-24#purport|SB 7.9.24-24]], [[sb/7/9/55#purport|SB 7.9.55]], [[sb/7/10/1#purport|SB 7.10.1]], [[sb/7/10/2-2#purport|SB 7.10.2-2]]
 * meditation of, undisturbed, [[sb/7/5/39-41#purport|SB 7.5.39-41]]
 * mission of, [[sb/7/8/5#purport|SB 7.8.5]]
+* mistreated, [[sb/7/8/3-4#purport|SB 7.8.3-4]], [[sb/7/8/3-4#purport|SB 7.8.3-4]]
+* misunderstood, [[sb/7/8/12#purport|SB 7.8.12]]
 * modes of nature transcended by, [[sb/7/5/51#purport|SB 7.5.51]]
 * moonlike, [[sb/8/19/4#purport|SB 8.19.4]], [[sb/8/22/12#purport|SB 8.22.12]]
-* mother of. See: Kayādhu 
+* mother of. See: Kayādhu
 * name, meaning of, [[sb/7/5/18#purport|SB 7.5.18]]
 * Nārada compared to, [[sb/7/10/13#purport|SB 7.10.13]]
 * Nārada instructed, [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/7/7/1#purport|SB 7.7.1]], [[sb/7/7/15#purport|SB 7.7.15]], [[sb/7/7/16#purport|SB 7.7.16]], [[sb/7/7/17#purport|SB 7.7.17]], [[sb/7/8/1#purport|SB 7.8.1]], [[sb/7/9/28-28#purport|SB 7.9.28-28]]
-* Nṛsiṁhadeva , 
-* Nṛsiṁhadeva &, N107, [[sb/10/3/21#purport|SB 10.3.21]]
+* not frightening to, [[sb/7/9/15#purport|SB 7.9.15]]
+* Nṛsiṁhadeva
 * Nṛsiṁhadeva &, [[sb/3/20/43#purport|SB 3.20.43]], [[sb/4/21/47#purport|SB 4.21.47]], [[sb/4/22/42#purport|SB 4.22.42]], [[sb/4/24/65#purport|SB 4.24.65]], [[sb/9/11/6#purport|SB 9.11.6]]
+* Nṛsiṁhadeva &, N107, [[sb/10/3/21#purport|SB 10.3.21]]
 * Nṛsiṁhadeva saved, [[sb/2/7/14#purport|SB 2.7.14]]
+* offended, [[sb/7/4/28#purport|SB 7.4.28]]
+* offers benedictions to, [[sb/5/24/25#purport|SB 5.24.25]]
+* on family life, [[sb/9/19/2#purport|SB 9.19.2]]
+* on parents & children, [[sb/10/8/42#purport|SB 10.8.42]]
+* on protection & Lord’s sanction, [[sb/10/2/26#purport|SB 10.2.26]]
+* on pure devotee’s concern for materialists, [[sb/9/4/66#purport|SB 9.4.66]]
 * opulence used by, [[sb/7/10/1#purport|SB 7.10.1]], [[sb/7/10/11-11#purport|SB 7.10.11-11]]
 * opulences achieved by, [[sb/5/18/22#purport|SB 5.18.22]]
+* pacified by, [[sb/7/9/51#purport|SB 7.9.51]]
+* perplexed by power of, [[sb/7/8/6#purport|SB 7.8.6]]
+* planned to kill, [[sb/7/5/34-35#purport|SB 7.5.34-35]]
 * playing didn’t interest, [[sb/7/4/37#purport|SB 7.4.37]]
 * prayed to demigods, [[sb/7/10/32#purport|SB 7.10.32]]
 * prayed to Nṛsiṁhadeva, [[sb/1/19/20#purport|SB 1.19.20]], [[sb/7/9/8#purport|SB 7.9.8]], [[sb/7/9/50#purport|SB 7.9.50]], [[sb/7/10/7#purport|SB 7.10.7]], [[sb/7/10/15-17#purport|SB 7.10.15-17]]
 * preached perfect religion, [[sb/6/16/43#purport|SB 6.16.43]]
 * preaching potency of, [[sb/7/8/1#purport|SB 7.8.1]], [[sb/7/8/2#purport|SB 7.8.2]], [[sb/7/8/11#purport|SB 7.8.11]]
 * pure devotees sought by, [[sb/7/9/24#purport|SB 7.9.24]], [[sb/7/9/42#purport|SB 7.9.42]]
+* purified, [[sb/7/9/6#purport|SB 7.9.6]]
 * purifies others, [[sb/7/4/42#purport|SB 7.4.42]]
 * qualities of, [[sb/7/4/31-33#purport|SB 7.4.31-33]]
 * quoted on family life, [[sb/6/5/6-8#purport|SB 6.5.6-8]]
-* quoted. See: Prahlāda Mahārāja quoted , 
+* quoted. See: Prahlāda Mahārāja quoted
 * Rākṣasas strike, [[sb/7/5/39-40#purport|SB 7.5.39-40]]
+* rejected advice of, [[sb/7/8/11#purport|SB 7.8.11]]
 * religion, etc., instructed to, [[sb/7/5/52-53#purport|SB 7.5.52-53]], [[sb/7/5/56-57#purport|SB 7.5.56-57]]
 * residences of, [[sb/7/4/34#purport|SB 7.4.34]]
 * risks taken for Kṛṣṇa’s sake by, [[bg/11/55|Bg. 11.55]] (5)
@@ -129,7 +150,7 @@
 * saint puzzled, [[sb/7/13/16-17#purport|SB 7.13.16-17]], [[sb/7/13/19#purport|SB 7.13.19]]
 * saint worshiped by, [[sb/7/13/15#purport|SB 7.13.15]], [[sb/7/13/46#purport|SB 7.13.46]]
 * saved from danger, [[sb/7/5/43-47#purport|SB 7.5.43-47]]
-*  [[sb/1/3/11#purport|SB 1.3.11]], [[sb/1/7/40#purport|SB 1.7.40]], [[sb/2/1/36#purport|SB 2.1.36]], [[sb/2/4/4#purport|SB 2.4.4]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/6/8/34#purport|SB 6.8.34]], [[sb/6/18/10#purport|SB 6.18.10]], [[sb/6/18/12-13#purport|SB 6.18.12-13]], [[sb/6/18/16#purport|SB 6.18.16]]
+* savior, [[sb/7/8/5#purport|SB 7.8.5]], [[sb/7/8/11#purport|SB 7.8.11]], [[sb/7/10/18#purport|SB 7.10.18]]
 * Śiva adores, [[sb/7/11/1#purport|SB 7.11.1]]
 * spiritual masters of, [[sb/7/5/22#purport|SB 7.5.22]]
 * spiritual realization via following, [[sb/5/24/26#purport|SB 5.24.26]]
@@ -137,12 +158,14 @@
 * spiritual vision of, [[sb/7/13/21#purport|SB 7.13.21]]
 * surrender advised by, [[sb/4/25/27#purport|SB 4.25.27]]
 * surrender to Supreme Lord by, [[bg/7/15|Bg. 7.15]] (2)
-* teachers of, ”chastise,” [[sb/7/5/16-16#purport|SB 7.5.16-16]], [[sb/7/5/17-18#purport|SB 7.5.17-18]]
+* teachers of, ”chastise,”, [[sb/7/5/16-16#purport|SB 7.5.16-16]], [[sb/7/5/17-18#purport|SB 7.5.17-18]]
 * teaches by example, [[sb/7/10/21-21#purport|SB 7.10.21-21]], [[sb/7/10/23#purport|SB 7.10.23]], [[sb/7/10/42#purport|SB 7.10.42]]
+* threw from lap, [[sb/7/5/33#purport|SB 7.5.33]]
 * tied up, [[sb/7/5/50#purport|SB 7.5.50]]
 * tolerant of father, [[bg/13/8|Bg. 13.8]] (4)
 * tortured by Hiraṇyakaśipu, [[sb/7/1/42-43#purport|SB 7.1.42-43]]
 * wisdom of, [[sb/7/5/4#purport|SB 7.5.4]]
+* worshiped by, [[sb/7/4/36#purport|SB 7.4.36]]
 * yogīs excelled by, [[sb/7/8/5#purport|SB 7.8.5]]
 
-*See also:* [[p#Prahlāda Mahārāja cited|Prahlāda Mahārāja cited]]; [[p#Prahlāda Mahārāja quoted|Prahlāda Mahārāja quoted]]
+*See also:* Prahlāda Mahārāja cited; Prahlāda Mahārāja quoted

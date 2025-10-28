@@ -5,6 +5,6 @@
 * as controller of all, SB Intro 1
 * as highest aspect of Absolute, [[sb/1/3/39#purport|SB 1.3.39]], [[sb/1/5/8#purport|SB 1.5.8]]
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*See also:* Kṛṣṇa; Supreme Lord
 
-*See:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; personal feature of
+*See:* Kṛṣṇa; Supreme Lord; personal feature of

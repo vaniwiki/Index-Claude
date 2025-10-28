@@ -1,6 +1,6 @@
 # Fruitive work (workers)
 
-[[cc/antya/10/100#purport|Antya 10.100]], [[cc/antya/4/194#purport|Antya 4.194]], [[cc/antya/5/121#purport|Antya 5.121]], [[cc/antya/6/200#purport|Antya 6.200]], [[cc/madhya/15/106#purport|Madhya 15.106]], **[[cc/madhya/19/167#translation|Madhya 19.167]]**, [[cc/madhya/19/17#purport|Madhya 19.17]], **[[cc/madhya/22/17–19#translation|Madhya 22.17–19]]**, [[cc/madhya/6/162#purport|Madhya 6.162]], [[cc/madhya/8/65#purport|Madhya 8.65]], **[[cc/madhya/9/266#translation|Madhya 9.266]]**
+[[cc/madhya/6/162#purport|Madhya 6.162]], [[cc/antya/4/194#purport|Antya 4.194]], [[cc/madhya/8/65#purport|Madhya 8.65]], [[cc/madhya/19/17#purport|Madhya 19.17]], **[[cc/madhya/9/266#translation|Madhya 9.266]]**, [[cc/madhya/15/106#purport|Madhya 15.106]], **[[cc/madhya/19/167#translation|Madhya 19.167]]**, **[[cc/madhya/22/17–19#translation|Madhya 22.17–19]]**, [[cc/antya/6/200#purport|Antya 6.200]], [[cc/antya/10/100#purport|Antya 10.100]], [[cc/antya/5/121#purport|Antya 5.121]]
 
 * bodily conception &, **[[cc/madhya/24/214#translation|Madhya 24.214]]**, [[cc/antya/4/173#purport|Antya 4.173]]
 * compared to wasps & drones, **[[cc/madhya/20/132#translation|Madhya 20.132]]**, [[cc/madhya/20/135#purport|Madhya 20.135]]

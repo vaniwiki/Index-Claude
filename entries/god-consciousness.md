@@ -14,6 +14,6 @@
 * saintly persons preach, [[sb/4/14/9#purport|SB 4.14.9]]
 * varṇāśrama system promotes, [[sb/9/10/50#purport|SB 9.10.50]]
 
-*See also:* [[g#God realiātion|God realiātion]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See also:* God realiātion; Kṛṣṇa consciousness
 
-*See:* God-realization; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; Devotional service; [[k#Knowledge|Knowledge]]; spiritual; [[g#God realization|God realization]]
+*See:* Devotional service; [Knowledge](entries/knowledge.md); spiritual; Kṛṣṇa consciousness; God realization; God-realization

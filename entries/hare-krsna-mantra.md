@@ -1,6 +1,6 @@
 # Hare Kṛṣṇa mantra
 
-[[cc/adi/7/168#purport|Ādi 7.168]], [[cc/adi/7/4#purport|Ādi 7.4]], [[cc/adi/7/76#purport|Ādi 7.76]], **[[cc/adi/7/83#translation|Ādi 7.83]]**, [[cc/adi/8/4#purport|Ādi 8.4]], [[cc/adi/9/34#purport|Ādi 9.34]], **[[cc/madhya/8/256#translation|Madhya 8.256]]**
+[[cc/adi/7/4#purport|Ādi 7.4]], [[cc/adi/7/76#purport|Ādi 7.76]], **[[cc/adi/7/83#translation|Ādi 7.83]]**, [[cc/adi/7/168#purport|Ādi 7.168]], [[cc/adi/8/4#purport|Ādi 8.4]], [[cc/adi/9/34#purport|Ādi 9.34]], **[[cc/madhya/8/256#translation|Madhya 8.256]]**, [[sb/5/1/6#purport|SB 5.1.6]], [[sb/5/18/11#purport|SB 5.18.11]]
 
 * absolute nature of, [[sb/4/12/21#purport|SB 4.12.21]]
 * addresses Lord’s spiritual energy, [[sb/4/9/6#purport|SB 4.9.6]]
@@ -16,8 +16,7 @@
 * Caitanya recommends, [[sb/10/1/64#purport|SB 10.1.64]]
 * chanted congregationally, [[sb/9/1/17#purport|SB 9.1.17]]
 * chanting of, [[sb/10/1/42#purport|SB 10.1.42]], [[sb/10/2/20#purport|SB 10.2.20]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/3/22#purport|SB 10.3.22]], [[sb/10/3/34-35#purport|SB 10.3.34-35]], [[sb/10/3/37-38#purport|SB 10.3.37-38]]
-* chanting. See: Chanting holy name(s) of Lord 
-* chanting. See: Chanting holy name(s) of Lord; Saṅkīrtana 
+* chanting. See: Chanting holy name(s) of Lord
 * cleans heart, [[sb/9/8/22#purport|SB 9.8.22]]
 * danger dispelled via, [[sb/10/6/3#purport|SB 10.6.3]]
 * defined, [[sb/9/14/48#purport|SB 9.14.48]]
@@ -61,12 +60,11 @@
 * ritualistic injunctions don’t apply to, [[sb/7/15/31#purport|SB 7.15.31]]
 * salvation via, [[sb/4/9/67#purport|SB 4.9.67]]
 * śāstras recommend, [[sb/8/1/13#purport|SB 8.1.13]]
-*  [[sb/5/1/6#purport|SB 5.1.6]], [[sb/5/18/11#purport|SB 5.18.11]]
 * self-realiātion via, [[sb/8/19/21#purport|SB 8.19.21]]
 * sin prevented via, [[sb/9/16/23#purport|SB 9.16.23]]
 * superexcellence of, [[sb/9/1/17#purport|SB 9.1.17]]
 * value of hearing, [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 
-*See also:* Chantings holy name of Lord; [[g#Glorification about Lord|Glorification about Lord]]; [[s#Saṅkīrtana|Saṅkīrtana]]; [[c#Chanting holy names of Lord|Chanting holy names of Lord]]; Chanting holy names; [[s#Supreme Lord|Supreme Lord]]; names of; [[c#Chanting|Chanting]]; Hare Kṛṣṇa; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]
+*See also:* [Chanting](entries/chanting.md); Hare Kṛṣṇa; Saṅkīrtana-yajña; Chanting holy names of Lord; Chanting holy names; Supreme Lord; names of; Chantings holy name of Lord; Glorification about Lord; Saṅkīrtana
 
-*See:* [[c#Chanting Hare Kṛṣṇa|Chanting Hare Kṛṣṇa]]; Devotional service; of chanting Hare Kṛṣṇa
+*See:* Chanting Hare Kṛṣṇa; Devotional service; of chanting Hare Kṛṣṇa

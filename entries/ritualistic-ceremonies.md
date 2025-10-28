@@ -4,9 +4,10 @@
 
 * animal-killing &, [[sb/10/1/4#purport|SB 10.1.4]]
 * animal-killing in, [[sb/7/15/48-49#purport|SB 7.15.48-49]]
+* as inadequate, [[sb/4/7/14#purport|SB 4.7.14]]
 * as karma, [[sb/4/19/32#purport|SB 4.19.32]]
 * at birth, [[sb/9/20/37#purport|SB 9.20.37]]
-* at Kṛṣṇa’s ”birth,” 5.1-16
+* at Kṛṣṇa’s ”birth,”, 5.1-16
 * brāhmaṇas and devotees &, [[sb/4/21/24#purport|SB 4.21.24]]
 * brāhmaṇas at, [[sb/8/9/14-15#purport|SB 8.9.14-15]]
 * brāhmaṇas perform, [[sb/7/3/30#purport|SB 7.3.30]]
@@ -22,7 +23,7 @@
 * cow products for, [[sb/8/8/11#purport|SB 8.8.11]]
 * decorations for, [[sb/4/9/54#purport|SB 4.9.54]]
 * demigods perform, [[sb/7/8/42#purport|SB 7.8.42]]
-* devotees 
+* devotees
 * devotees &, [[sb/3/20/43#purport|SB 3.20.43]]
 * devotees don’t need, [[sb/4/19/32#purport|SB 4.19.32]]
 * devotional service transcends, [[sb/7/6/26-26#purport|SB 7.6.26-26]]
@@ -60,9 +61,12 @@
 * moon calculated in, [[sb/7/14/19#purport|SB 7.14.19]], [[sb/7/14/20-23#purport|SB 7.14.20-23]]
 * name-giving, [[sb/10/1/57#purport|SB 10.1.57]]
 * nature & purpose of, [[sb/6/3/19#purport|SB 6.3.19]]
-* not real religion, [[sb/6/3/19#purport|SB 6.3.19]]
+* not real religion, [[sb/4/8/41#purport|SB 4.8.41]], [[sb/6/3/19#purport|SB 6.3.19]]
 * payo-vrata, [[sb/8/17/1#purport|SB 8.17.1]], [[sb/8/17/2-3#purport|SB 8.17.2-3]], [[sb/8/17/18#purport|SB 8.17.18]]
 * perfection not attained by, [[sb/6/3/33#purport|SB 6.3.33]]
+* performers of, as animalistic, [[sb/4/7/14#purport|SB 4.7.14]]
+* performers of, don’t know Lord, [[sb/4/7/27-27#purport|SB 4.7.27-27]]
+* performers of, punishment for, [[sb/4/7/14#purport|SB 4.7.14]]
 * Prahlāda performed, [[sb/7/10/24#purport|SB 7.10.24]]
 * profitless, [[sb/6/3/32-33#purport|SB 6.3.32-33]]
 * purification for, [[sb/8/9/14-15#purport|SB 8.9.14-15]]
@@ -71,17 +75,18 @@
 * requirements for, [[sb/8/16/9#purport|SB 8.16.9]]
 * sacred places for, [[sb/7/14/27-28#purport|SB 7.14.27-28]], [[sb/7/14/30-33#purport|SB 7.14.30-33]]
 * saṅkīrtana required at, [[sb/7/14/26#purport|SB 7.14.26]]
+* shun, [[sb/7/10/12#purport|SB 7.10.12]]
 * śrāddha, [[sb/7/8/44-44#purport|SB 7.8.44-44]], [[sb/7/10/22-22#purport|SB 7.10.22-22]], [[sb/7/14/20-23#purport|SB 7.14.20-23]], [[sb/7/14/20-23#purport|SB 7.14.20-23]], [[sb/7/15/4#purport|SB 7.15.4]], [[sb/8/23/31#purport|SB 8.23.31]]
-* śrāddha. See: Śrāddha ceremony 
 * stars calculated in, [[sb/7/14/20-23#purport|SB 7.14.20-23]]
 * sun calculated in, [[sb/7/14/20-23#purport|SB 7.14.20-23]]
+* surpass, [[sb/7/10/23#purport|SB 7.10.23]]
 * svayaṁvara, [[sb/8/8/19#purport|SB 8.8.19]]
 * time & place important to, [[sb/7/15/4#purport|SB 7.15.4]]
 * types of, three listed, [[sb/8/23/31#purport|SB 8.23.31]]
 * unintelligent prefer to chanting, [[sb/6/3/25-25#purport|SB 6.3.25-25]]
 * Vāmana’s glorification blesses, [[sb/8/23/31#purport|SB 8.23.31]]
 * Vasudeva mentally performed, at Kṛṣṇa’s advent, [[sb/10/3/11#purport|SB 10.3.11]]
-* Vedic 
+* Vedic
 * Vena scorned, [[sb/7/4/9-12#purport|SB 7.4.9-12]]
 * Viṣṇu personification of, [[sb/7/2/11#purport|SB 7.2.11]]
 * viṣṇu-ārādhana, [[sb/8/16/53#purport|SB 8.16.53]]
@@ -89,6 +94,6 @@
 * wise men surpass, [[sb/7/15/9#purport|SB 7.15.9]]
 * Yajñeśvara object of, [[sb/6/8/15#purport|SB 6.8.15]]
 
-*See also:* [[s#Sacrifices|Sacrifices]]; specific ceremonies; [[w#Worship|Worship]]; specific sacrifices & rituals
+*See also:* Payo-vrata sacrifice; Sacrifices; [Worship](entries/worship.md); specific sacrifices & rituals; specific ceremonies
 
-*See:* [[s#Sacrifices|Sacrifices]]; specific ceremonies; Vedics injunction
+*See:* Sacrifices; specific ceremonies; Vedics injunction

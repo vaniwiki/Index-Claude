@@ -1,5 +1,7 @@
 # Oneness
 
+
+
 * affection for Lord like, [[sb/2/7/47#purport|SB 2.7.47]]
 * as partial knowledge, [[sb/2/6/21#purport|SB 2.6.21]]
 * as sense gratification, [[sb/4/8/61#purport|SB 4.8.61]]
@@ -19,8 +21,8 @@
 * of Lord & all, [[sb/4/7/38#purport|SB 4.7.38]], [[sb/4/7/45#purport|SB 4.7.45]], [[sb/4/7/50-50#purport|SB 4.7.50-50]], [[sb/4/7/51-54#purport|SB 4.7.51-54]], [[sb/4/11/18#purport|SB 4.11.18]], [[sb/4/17/29#purport|SB 4.17.29]]
 * of Lord & living entity, [[sb/2/8/7#purport|SB 2.8.7]], [[sb/2/9/3#purport|SB 2.9.3]], [[sb/2/9/25#purport|SB 2.9.25]], [[sb/2/10/13#purport|SB 2.10.13]]
 * of merging with Lord, [[sb/4/8/61#purport|SB 4.8.61]]
-* of soul & Supersoul, Māyāvāda idea of, [[sb/4/8/82#purport|SB 4.8.82]]
 * of soul & Supersoul, [[sb/2/1/39#purport|SB 2.1.39]]
+* of soul & Supersoul, Māyāvāda idea of, [[sb/4/8/82#purport|SB 4.8.82]]
 * perfect concept of, [[sb/4/22/27#purport|SB 4.22.27]]
 * perfection of, [[sb/4/12/22#purport|SB 4.12.22]]
 * personal & impersonal concepts of, [[sb/4/22/37#purport|SB 4.22.37]]
@@ -28,6 +30,6 @@
 * spiritual vision of, [[sb/4/22/28#purport|SB 4.22.28]]
 * true & false, [[sb/4/12/4#purport|SB 4.12.4]]
 
-*See also:* [[b#Brahman|Brahman]]; merging with; [[l#Liberation|Liberation]]; [[m#Merging with Supreme|Merging with Supreme]]; [[i#Impersonalists|Impersonalists]]; [[m#Monists|Monists]]; [[i#Impersonalism|Impersonalism]]; [[m#Māyāvādīs|Māyāvādīs]]
+*See also:* [Brahman](entries/brahman.md); Impersonalists; [Liberation](entries/liberation.md); Monists; merging with; Merging with Supreme; [Impersonalism](entries/impersonalism.md); Māyāvādīs
 
-*See:* [[b#Brahman|Brahman]]; [[i#Impersonalism|Impersonalism]]; [[l#Liberation|Liberation]]; [[m#Merging with Supreme|Merging with Supreme]]; [[m#Monism|Monism]]; [[i#Impersonalists|Impersonalists]]
+*See:* [Brahman](entries/brahman.md); [Impersonalism](entries/impersonalism.md); [Liberation](entries/liberation.md); Merging with Supreme; [Monism](entries/monism.md); Impersonalists

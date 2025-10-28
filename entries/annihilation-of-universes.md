@@ -1,6 +1,6 @@
 # Annihilation of universe(s)
 
-[[sb/1/10/21-22#purport|SB 1.10.21-22]]
+[[bg/13|Bg. 13]], [[bg/7/6|Bg. 7.6]], [[bg/8/16|Bg. 8.16]], [[bg/8/20|Bg. 8.20]], [[bg/9/7–8|Bg. 9.7–8]], [[bg/9/18|Bg. 9.18]], [[bg/10/32|Bg. 10.32]], [[bg/10/33|Bg. 10.33]], [[bg/11/32|Bg. 11.32]], [[sb/1/10/21-22#purport|SB 1.10.21-22]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/3/8/11#purport|SB 3.8.11]], [[sb/3/11/16#purport|SB 3.11.16]], [[sb/3/11/29-31#purport|SB 3.11.29-31]], [[sb/3/13/31#purport|SB 3.13.31]]
 
 * after Manus, [[sb/1/3/15#purport|SB 1.3.15]]
 * as darkness, [[sb/8/3/5#purport|SB 8.3.5]]
@@ -8,7 +8,6 @@
 * at end of Brahmā’s day, [[sb/1/6/29#purport|SB 1.6.29]]
 * at Manu’s finish, [[sb/8/24/37#purport|SB 8.24.37]]
 * at sleep of Brahmā, [[sb/4/7/42#purport|SB 4.7.42]]
-*  [[bg/13|Bg. 13]], [[bg/7/6|Bg. 7.6]], [[bg/8/16|Bg. 8.16]], [[bg/8/20|Bg. 8.20]], [[bg/9/7–8|Bg. 9.7–8]], [[bg/9/18|Bg. 9.18]], [[bg/10/32|Bg. 10.32]], [[bg/10/33|Bg. 10.33]], [[bg/11/32|Bg. 11.32]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/3/8/11#purport|SB 3.8.11]], [[sb/3/11/16#purport|SB 3.11.16]], [[sb/3/11/29-31#purport|SB 3.11.29-31]], [[sb/3/13/31#purport|SB 3.13.31]]
 * Brahmā’s destination at, [[sb/6/1/1#purport|SB 6.1.1]]
 * by Rudra, [[sb/2/10/43#purport|SB 2.10.43]]
 * by Śiva, [[sb/7/8/41#purport|SB 7.8.41]], [[sb/8/7/21#purport|SB 8.7.21]], [[sb/8/7/32#purport|SB 8.7.32]]

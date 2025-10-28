@@ -1,5 +1,6 @@
 # Creation, the
 
+* & living entities enter, [[sb/4/24/64#purport|SB 4.24.64]]
 * as Lord’s desire, [[sb/3/5/24#purport|SB 3.5.24]]
 * as Lord’s dream, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
 * as Lord’s pastime, [[sb/7/1/11-11#purport|SB 7.1.11-11]]
@@ -8,15 +9,18 @@
 * as variegated, [[sb/8/2/6#purport|SB 8.2.6]]
 * atheist’s ignorance about, [[sb/6/1/4-5#purport|SB 6.1.4-5]]
 * beauty of, source of, [[sb/2/10/49-50#purport|SB 2.10.49-50]]
+* beyond, [[sb/7/9/32#purport|SB 7.9.32]]
 * Brahmā at dawn of, [[sb/7/9/34#purport|SB 7.9.34]], [[sb/7/9/35-35#purport|SB 7.9.35-35]]
 * by Brahmā, [[sb/7/3/22#purport|SB 7.3.22]], [[sb/7/3/28#purport|SB 7.3.28]]
 * by external & internal potencies, [[sb/3/7/2#purport|SB 3.7.2]]
 * cause & effect in, [[sb/4/23/17#purport|SB 4.23.17]]
-* cause of, [[sb/3/6/1#purport|SB 3.6.1]], [[sb/3/6/2#purport|SB 3.6.2]], [[sb/9/5/5#purport|SB 9.5.5]]
+* cause of, [[sb/3/6/1#purport|SB 3.6.1]], [[sb/3/6/2#purport|SB 3.6.2]], [[sb/5/11/13-14#purport|SB 5.11.13-14]], [[sb/9/5/5#purport|SB 9.5.5]]
 * compared to a dream, [[sb/6/15/5#purport|SB 6.15.5]]
 * compared to clouds, [[sb/2/10/43#purport|SB 2.10.43]]
 * compared to imaginary town, [[sb/9/9/47#purport|SB 9.9.47]]
 * compared with spiritual world, [[sb/8/23/29#purport|SB 8.23.29]]
+* controller of, [[sb/5/14/45#purport|SB 5.14.45]]
+* creates & controls, [[sb/7/8/8#purport|SB 7.8.8]], [[sb/7/8/41#purport|SB 7.8.41]], [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/34#purport|SB 7.9.34]]
 * curiosity about, [[sb/1/1/1#purport|SB 1.1.1]]
 * deities controlling, [[sb/3/5/43#purport|SB 3.5.43]]
 * demigods bewildered by, [[sb/8/12/10#purport|SB 8.12.10]]
@@ -36,7 +40,7 @@
 * history of, described by Lord, [[sb/6/4/30#purport|SB 6.4.30]]
 * inquiry about, [[sb/3/8/18#purport|SB 3.8.18]]
 * life pervades, [[sb/8/11/25#purport|SB 8.11.25]]
-* Lord , , 
+* Lord
 * Lord as cause of, [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/12/11#purport|SB 6.12.11]]
 * Lord before & after, [[sb/6/4/47-47#purport|SB 6.4.47-47]]
 * Lord controls, [[sb/9/10/22#purport|SB 9.10.22]]
@@ -48,16 +52,18 @@
 * Lord transcendental to, [[sb/9/1/8-8#purport|SB 9.1.8-8]], [[sb/9/10/11#purport|SB 9.10.11]]
 * Lord’s existence beyond, [[sb/6/4/29-29#purport|SB 6.4.29-29]]
 * lords of, [[sb/4/24/68#purport|SB 4.24.68]]
+* maintainer of, [[sb/5/18/28#purport|SB 5.18.28]]
 * Manus in, [[sb/3/11/23-27#purport|SB 3.11.23-27]]
-* material & spiritual divisions of, N110 
+* material & spiritual divisions of, N110
 * material world one-fourth of, [[sb/5/16/4#purport|SB 5.16.4]]
 * nonmanifest state of, [[sb/2/10/13#purport|SB 2.10.13]]
-* on Lord’s ”heart,” [[sb/3/5/6#purport|SB 3.5.6]]
+* on Lord’s ”heart,”, [[sb/3/5/6#purport|SB 3.5.6]]
 * oneness & variety in, [[sb/7/9/31-31#purport|SB 7.9.31-31]]
 * Parīkṣit inquires on, [[sb/6/4/1-2#purport|SB 6.4.1-2]]
+* pervades, [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/7/24#purport|SB 7.7.24]]
 * processes in, three listed, [[sb/7/8/41#purport|SB 7.8.41]]
-* purpose of, not known by materialists, [[sb/7/2/10#purport|SB 7.2.10]]
 * purpose of, [[sb/2/7/22#purport|SB 2.7.22]], [[sb/2/7/39#purport|SB 2.7.39]], [[sb/2/9/19-20#purport|SB 2.9.19-20]], [[sb/2/9/39#purport|SB 2.9.39]], [[sb/2/10/4#purport|SB 2.10.4]], [[sb/2/10/6#purport|SB 2.10.6]], [[sb/2/10/43#purport|SB 2.10.43]], [[sb/3/5/24#purport|SB 3.5.24]], [[sb/3/5/28#purport|SB 3.5.28]], [[sb/3/5/51#purport|SB 3.5.51]], [[sb/3/6/3#purport|SB 3.6.3]], [[sb/3/12/22#purport|SB 3.12.22]], [[sb/3/13/12#purport|SB 3.13.12]], [[sb/3/15/33#purport|SB 3.15.33]], [[sb/4/22/55#purport|SB 4.22.55]], [[sb/6/4/44#purport|SB 6.4.44]]
+* purpose of, not known by materialists, [[sb/7/2/10#purport|SB 7.2.10]]
 * Rākṣasas misunderstand, [[sb/9/10/22#purport|SB 9.10.22]]
 * remote & efficient causes of, [[sb/2/10/45#purport|SB 2.10.45]]
 * rests on Lord’s lotus feet, [[sb/8/5/32#purport|SB 8.5.32]]
@@ -65,12 +71,13 @@
 * size of, [[sb/2/9/10#purport|SB 2.9.10]]
 * stages of, three given, [[sb/2/7/39#purport|SB 2.7.39]], [[sb/2/7/39#purport|SB 2.7.39]]
 * theories of, two listed, [[sb/8/6/38#purport|SB 8.6.38]]
+* transcendental to, [[sb/4/22/38-38#purport|SB 4.22.38-38]], [[sb/4/22/51#purport|SB 4.22.51]], [[sb/4/24/63#purport|SB 4.24.63]]
 * universal form of, [[sb/3/6/1-34#purport|SB 3.6.1-34]]
 * varieties in, by plan, [[sb/2/8/15#purport|SB 2.8.15]]
 * variety in, [[sb/4/24/21#purport|SB 4.24.21]], [[sb/4/24/23#purport|SB 4.24.23]]
 * Viṣṇu forms for, [[sb/6/9/33#purport|SB 6.9.33]]
 * Viṣṇus create, [[sb/4/20/37#purport|SB 4.20.37]]
 
-*See also:* [[c#Creation (act of)|Creation (act of)]]; [[e#Earth planet|Earth planet]]; Heavenlies planet; [[m#Material world|Material world]]; [[m#Material nature|Material nature]]; [[p#Planets|Planets]]; Universes; material; [[m#Mahat-tattva|Mahat-tattva]]; [[s#Spiritual world|Spiritual world]]; [[u#Universe|Universe]]
+*See also:* [Mahat-tattva](entries/mahat-tattva.md); Material world; Material nature; Universes; Creation (act of); Earth planet; Heavenlies planet; Planets; material; Spiritual world; Universe
 
-*See:* [[m#Material world|Material world]]; [[u#Universe|Universe]]; material
+*See:* Material world; Universe; material

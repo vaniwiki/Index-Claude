@@ -1,10 +1,9 @@
 # Holy place(s)
 
-**[[cc/madhya/10/11–13#translation|Madhya 10.11–13]]**, **[[cc/madhya/11/112#translation|Madhya 11.112]]**, **[[cc/madhya/20/57#translation|Madhya 20.57]]**, **[[cc/madhya/22/101#translation|Madhya 22.101]]**, **[[cc/madhya/23/103#translation|Madhya 23.103]]**, [[cc/madhya/23/104#purport|Madhya 23.104]], **[[cc/madhya/8/72#translation|Madhya 8.72]]**, **[[cc/madhya/9/3–7#translation|Madhya 9.3–7]]**, [[sb/1/10/27#purport|SB 1.10.27]]
+[[bg/1/1|Bg. 1.1]], [[bg/2/61|Bg. 2.61]], [[bg/3/40|Bg. 3.40]], [[bg/6/12|Bg. 6.12]], [[bg/8/14|Bg. 8.14]], [[bg/17/20|Bg. 17.20]], **[[cc/madhya/8/72#translation|Madhya 8.72]]**, **[[cc/madhya/9/3–7#translation|Madhya 9.3–7]]**, **[[cc/madhya/10/11–13#translation|Madhya 10.11–13]]**, **[[cc/madhya/11/112#translation|Madhya 11.112]]**, **[[cc/madhya/20/57#translation|Madhya 20.57]]**, **[[cc/madhya/22/101#translation|Madhya 22.101]]**, **[[cc/madhya/23/103#translation|Madhya 23.103]]**, [[cc/madhya/23/104#purport|Madhya 23.104]], [[sb/1/10/27#purport|SB 1.10.27]]
 
 * Ambarīṣa visited, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 * attraction to, [[sb/2/7/24#purport|SB 2.7.24]]
-*  [[bg/1/1|Bg. 1.1]], [[bg/2/61|Bg. 2.61]], [[bg/3/40|Bg. 3.40]], [[bg/6/12|Bg. 6.12]], [[bg/8/14|Bg. 8.14]], [[bg/17/20|Bg. 17.20]]
 * brāhmaṇas as, [[sb/7/14/27-28#purport|SB 7.14.27-28]]
 * Caitanya recommends, [[sb/2/9/31#purport|SB 2.9.31]]
 * devotee as, [[sb/7/14/27-28#purport|SB 7.14.27-28]]
@@ -29,4 +28,4 @@
 
 *See also:* names of specific holy places; specific holy places
 
-*See:* [[d#Dvārakā|Dvārakā]]; [[i#India|India]]; [[p#Pilgrimage places|Pilgrimage places]]; [[v#Vṛndāvana|Vṛndāvana]]; specific holy places
+*See:* Dvārakā; [India](entries/india.md); Pilgrimage places; Vṛndāvana; specific holy places

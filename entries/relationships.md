@@ -1,24 +1,40 @@
 # Relationship(s)
 
+* ”forgetfulness” in, [[sb/1/15/17#purport|SB 1.15.17]]
 * as based on material bodies, [[sb/6/16/4-8#purport|SB 6.16.4-8]]
-* bodily 
+* as contamination, [[sb/4/4/27#purport|SB 4.4.27]]
+* as ignorance, [[sb/7/7/45#purport|SB 7.7.45]]
+* as illusory, [[sb/1/9/19#purport|SB 1.9.19]]
+* bodily
 * bodily, compared with spiritual, [[sb/3/16/6#purport|SB 3.16.6]]
 * broken easily, [[sb/4/4/8#purport|SB 4.4.8]]
+* compared with spiritual, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/11/35#purport|SB 1.11.35]]
+* for Arjuna, [[sb/1/15/4-5#purport|SB 1.15.4-5]], [[sb/1/15/4-5#purport|SB 1.15.4-5]], [[sb/1/15/14#purport|SB 1.15.14]], [[sb/1/15/18-19#purport|SB 1.15.18-19]], [[sb/1/15/28#purport|SB 1.15.28]], [[sb/1/15/30#purport|SB 1.15.30]]
+* for pure devotees, [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/19#purport|SB 1.15.19]]
+* formal, compared with intimate, [[sb/1/15/19#purport|SB 1.15.19]]
 * illusory, [[sb/8/16/19#purport|SB 8.16.19]]
-* material , 
+* in friendship, [[sb/1/15/4-5#purport|SB 1.15.4-5]], [[sb/1/15/14#purport|SB 1.15.14]], [[sb/1/15/18-20#purport|SB 1.15.18-20]], [[sb/1/15/28#purport|SB 1.15.28]], [[sb/1/15/30#purport|SB 1.15.30]]
+* in separation, [[sb/1/15/1-6#purport|SB 1.15.1-6]], [[sb/1/15/13#purport|SB 1.15.13]], [[sb/1/15/20#purport|SB 1.15.20]], [[sb/1/15/28#purport|SB 1.15.28]]
+* material
 * material, as temporary, [[sb/2/1/15#purport|SB 2.1.15]]
 * material, compared with spiritual, [[sb/10/6/39-40#purport|SB 10.6.39-40]]
 * mayic (illusory), [[sb/9/19/27-28#purport|SB 9.19.27-28]], [[sb/9/19/27-28#purport|SB 9.19.27-28]]
 * of brahmacārī to spiritual master, [[sb/7/12/1-6#purport|SB 7.12.1-6]]
+* of brāhmaṇas & kṣatriyas, [[sb/3/21/56#purport|SB 3.21.56]], [[sb/3/22/3#purport|SB 3.22.3]], [[sb/3/22/4-4#purport|SB 3.22.4-4]]
+* of disciple & spiritual master, [[sb/3/22/7#purport|SB 3.22.7]], [[sb/3/23/7#purport|SB 3.23.7]], [[sb/3/23/52#purport|SB 3.23.52]], [[sb/3/24/13#purport|SB 3.24.13]]
 * of husband & wife, [[sb/9/19/10#purport|SB 9.19.10]], [[sb/9/19/12#purport|SB 9.19.12]]
+* of kings & sages, [[sb/3/21/56#purport|SB 3.21.56]]
 * of Kṛṣṇa & Vṛndāvana’s residents, [[sb/9/24/65-66#purport|SB 9.24.65-66]]
 * of Pāṇḍavas to Kṛṣṇa, [[sb/7/10/49#purport|SB 7.10.49]], [[sb/7/15/75#purport|SB 7.15.75]], [[sb/7/15/76#purport|SB 7.15.76]]
 * sannyāsī renounces material, [[sb/7/13/1#purport|SB 7.13.1]]
+* spiritual compared with, [[sb/7/7/39#purport|SB 7.7.39]], [[sb/7/7/45#purport|SB 7.7.45]]
+* to God. See: Love, for Lord
+* transcending of, [[sb/4/4/27#purport|SB 4.4.27]]
+* types of, [[sb/1/14/34#purport|SB 1.14.34]], [[sb/1/15/17#purport|SB 1.15.17]], [[sb/1/19/5#purport|SB 1.19.5]]
 * via modes of nature, [[sb/6/16/5#purport|SB 6.16.5]]
 * via Supersoul, [[sb/1/8/42#purport|SB 1.8.42]]
 * with Kṛṣṇa, [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/7/25#purport|SB 1.7.25]]
-* with Kṛṣṇa. See: Rasa(s) , 
 * with Lord, as eternal, [[sb/1/11/7#purport|SB 1.11.7]]
 * with wild women, [[sb/8/9/10#purport|SB 8.9.10]]
 
-*See also:* [[a#Attachment|Attachment]]; material; Devotional service; [[f#Family life|Family life]]; [[b#Body|Body]]; [[s#Supreme Lord|Supreme Lord]]; relationships with
+*See also:* [Attachment](entries/attachment.md); material; Devotional service; Family life; [Body](entries/body.md); Rasas; Supreme Lord; relationships with

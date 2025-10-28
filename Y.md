@@ -36,11 +36,11 @@
 
 ### [Yadu dynasty](entries/yadu-dynasty.md)
 
-**[[cc/madhya/15/240#translation|Madhya 15.240]]**, **[[cc/madhya/20/394#translation|Madhya 20.394]]**, **[[cc/madhya/23/117–18#translation|Madhya 23.117–18]]**...
+[[cc/madhya/8/246#purport|Madhya 8.246]]...
 
-* annihilation of, [[sb/1/13/50#purport|SB 1.13.50]], [[sb/1/15/22-26#purport|SB 1.15.22-26]], [[sb/1/15/33-34#purport|SB 1.15.33-34]]
+* advented in,, [[sb/10/1/1#purport|SB 10.1.1]]
 
-*→ See all 33 references in* [Yadu dynasty](entries/yadu-dynasty.md)
+*→ See all 35 references in* [Yadu dynasty](entries/yadu-dynasty.md)
 
 ---
 
@@ -74,10 +74,9 @@
 
 ---
 
-### Yadunandana Ācārya
+### [Yadunandana Ācārya](entries/yadunandana-acarya.md)
 
-**[[cc/adi/10/119#translation|Ādi 10.119]]**, [[cc/adi/10/41#purport|Ādi 10.41]], [[cc/adi/10/91#purport|Ādi 10.91]], **[[cc/adi/12/56–57#translation|Ādi 12.56–57]]**, [[cc/antya/3/165#purport|Antya 3.165]], **[[cc/antya/6/159–69#translation|Antya 6.159–69]]**, **[[cc/antya/6/176–77#translation|Antya 6.176–77]]**, **[[cc/antya/6/263#translation|Antya 6.263]]**, [[cc/madhya/16/217#purport|Madhya 16.217]]
-
+[[cc/adi/10/41#purport|Ādi 10.41]]
 
 ---
 
@@ -158,19 +157,11 @@
 
 ---
 
-### [Yajña](entries/yajna.md)
-
-* dravyamaya-, 4.28
-
-*→ See all 15 references in* [Yajña](entries/yajna.md)
-
----
-
 ### Yajña defined
 
 *  [[sb/3/18/20#purport|SB 3.18.20]], [[sb/3/22/29-30#purport|SB 3.22.29-30]]
 
-*See also:* [[s#Sacrifices|Sacrifices]]
+*See also:* Sacrifices
 
 ---
 
@@ -196,9 +187,9 @@
 
 ### [Yajña, Lord](entries/yajna-lord.md)
 
-[[cc/adi/2/97#purport|Ādi 2.97]], [[cc/madhya/20/244#purport|Madhya 20.244]]...
+[[cc/adi/2/97#purport|Ādi 2.97]]...
 
-* as Ākūti’s son, [[sb/8/1/5#purport|SB 8.1.5]], [[sb/8/1/6#purport|SB 8.1.6]]
+* as Ākūti’s son,, [[sb/8/1/5#purport|SB 8.1.5]], [[sb/8/1/6#purport|SB 8.1.6]]
 
 *→ See all 15 references in* [Yajña, Lord](entries/yajna-lord.md)
 
@@ -211,15 +202,13 @@
 
 ---
 
-### Yajña(s)
+### [Yajña(s)](entries/yajnas.md)
 
-[[sb/4/27/1#purport|SB 4.27.1]]
+[[sb/4/27/1#purport|SB 4.27.1]]...
 
-* defined, [[sb/8/1/14#purport|SB 8.1.14]]
+* *pañca-mahā-yajña,*, 3.12
 
-*See also:* Ritualistic ceremony; [[s#Sacrifice|Sacrifice]]; [[s#Sacrifices|Sacrifices]]
-
-*See:* [[s#Sacrifices|Sacrifices]]
+*→ See all 20 references in* [Yajña(s)](entries/yajnas.md)
 
 ---
 
@@ -298,15 +287,13 @@
 * payment for, [[sb/9/4/22#purport|SB 9.4.22]]
 * ritualistic sacrifices require, [[sb/9/4/22#purport|SB 9.4.22]]
 
-*See also:* [[p#Priests|Priests]]
+*See also:* Priests
 
 ---
 
-### Yajur Veda
+### [Yajur Veda](entries/yajur-veda.md)
 
-[[cc/adi/7/128#purport|Ādi 7.128]], [[cc/antya/9/10#purport|Antya 9.10]], [[cc/madhya/19/17#purport|Madhya 19.17]], [[cc/madhya/20/353#purport|Madhya 20.353]], [[cc/madhya/6/137#purport|Madhya 6.137]], [[cc/madhya/9/244#purport|Madhya 9.244]]
-
-*  [[bg/9/17|Bg. 9.17]], [[bg/13/5|Bg. 13.5]], [[sb/1/3/21#purport|SB 1.3.21]], [[sb/1/4/19#purport|SB 1.4.19]], [[sb/1/4/21#purport|SB 1.4.21]]
+[[bg/9/17|Bg. 9.17]], [[bg/13/5|Bg. 13.5]]
 
 ---
 
@@ -318,9 +305,9 @@
 
 ### [Yakṣa(s)](entries/yaksas.md)
 
-[[sb/4/4/4#purport|SB 4.4.4]], [[sb/9/3/35#purport|SB 9.3.35]]...
+[[bg/9/25|Bg. 9.25]], [[bg/17/28|Bg. 17.28]]...
 
-* abode of, [[sb/5/24/6#purport|SB 5.24.6]]
+* abode of,, [[sb/5/24/6#purport|SB 5.24.6]]
 
 *→ See all 26 references in* [Yakṣa(s)](entries/yaksas.md)
 
@@ -329,20 +316,13 @@
 ### Yakṣeśvara
 
 
-*See:* [[k#Kuvera|Kuvera]]
+*See:* [Kuvera](entries/kuvera.md)
 
 ---
 
 ### Yam defined
 
 [[sb/3/19/28#purport|SB 3.19.28]]
-
-
----
-
-### Yama
-
-[[cc/madhya/21/58#purport|Madhya 21.58]], [[sb/1/3/12#purport|SB 1.3.12]]
 
 
 ---
@@ -383,9 +363,9 @@
 
 ### [Yamadūtas](entries/yamadutas.md)
 
-[[bg/18/25|Bg. 18.25]], [[sb/3/30/19-20#purport|SB 3.30.19-20]], [[sb/5/26/6#purport|SB 5.26.6]]...
+[[bg/18/25|Bg. 18.25]]...
 
-* Ajāmila described by, [[sb/6/1/56-68#purport|SB 6.1.56-68]]
+* Ajāmila described by,, [[sb/6/1/56-68#purport|SB 6.1.56-68]]
 
 *→ See all 20 references in* [Yamadūtas](entries/yamadutas.md)
 
@@ -400,9 +380,9 @@
 
 ### [Yamarāja](entries/yamaraja.md)
 
-**[[cc/adi/12/70–72#translation|Ādi 12.70–72]]**, [[cc/adi/17/307#purport|Ādi 17.307]], [[cc/adi/17/64#purport|Ādi 17.64]]...
+**[[cc/adi/3/79#translation|Ādi 3.79]]**...
 
-* as Kṛṣṇa conscious authority, [[bg/4/16|Bg. 4.16]]
+* as Kṛṣṇa conscious authority,, [[bg/4/16|Bg. 4.16]]
 
 *→ See all 14 references in* [Yamarāja](entries/yamaraja.md)
 
@@ -410,17 +390,17 @@
 
 ### [Yamarāja Lord](entries/yamaraja-lord.md)
 
-[[sb/4/15/15#purport|SB 4.15.15]]...
+[[sb/1/7/49#purport|SB 1.7.49]], [[sb/1/9/19#purport|SB 1.9.19]], [[sb/1/12/20#purport|SB 1.12.20]]...
 
-* Ajāmila punishable by, [[sb/6/1/67-68#purport|SB 6.1.67-68]]
+* Ajāmila punishable by,, [[sb/6/1/67-68#purport|SB 6.1.67-68]]
 
-*→ See all 80 references in* [Yamarāja Lord](entries/yamaraja-lord.md)
+*→ See all 84 references in* [Yamarāja Lord](entries/yamaraja-lord.md)
 
 ---
 
 ### Yāmas
 
-[[sb/8/1/18#purport|SB 8.1.18]]
+[[cc/madhya/21/58#purport|Madhya 21.58]], [[sb/1/3/12#purport|SB 1.3.12]], [[sb/8/1/18#purport|SB 8.1.18]]
 
 
 ---
@@ -450,9 +430,9 @@
 
 ### [Yamunā River](entries/yamuna-river.md)
 
-**[[cc/antya/16/146#translation|Antya 16.146]]**, **[[cc/antya/16/148#translation|Antya 16.148]]**, **[[cc/antya/18/81#translation|Antya 18.81]]**...
+[[bg/6/11|Bg. 6.11]]...
 
-* Ambarīṣa bathed in, [[sb/9/4/30#purport|SB 9.4.30]]
+* Ambarīṣa bathed in,, [[sb/9/4/30#purport|SB 9.4.30]]
 
 *→ See all 64 references in* [Yamunā River](entries/yamuna-river.md)
 
@@ -474,11 +454,11 @@
 
 ### [Yāmunācārya](entries/yamunacarya.md)
 
-[[cc/adi/3/87#purport|Ādi 3.87]], [[cc/adi/3/89#purport|Ādi 3.89]], [[cc/antya/3/92#purport|Antya 3.92]]...
+[[cc/adi/3/87#purport|Ādi 3.87]]...
 
-* cited on detachment via Kṛṣṇa consciousness, [[bg/2/62|Bg. 2.62]]
+* cited on detachment via Kṛṣṇa consciousness,, [[bg/2/62|Bg. 2.62]]
 
-*→ See all 16 references in* [Yāmunācārya](entries/yamunacarya.md)
+*→ See all 19 references in* [Yāmunācārya](entries/yamunacarya.md)
 
 ---
 
@@ -525,21 +505,19 @@
 
 ### [Yaśodā](entries/yasoda.md)
 
-[[cc/adi/13/86#purport|Ādi 13.86]], **[[cc/adi/14/3#translation|Ādi 14.3]]**, [[cc/adi/14/90#purport|Ādi 14.90]]...
+[[bg/6/47|Bg. 6.47]]...
 
-* Kṛṣṇa as son of, [[bg/1/15|Bg. 1.15]]
-
-*→ See all 31 references in* [Yaśodā](entries/yasoda.md)
+* Kṛṣṇa as son of,, [[bg/1/15|Bg. 1.15]]
 
 ---
 
 ### [Yaśodā, Mother](entries/yasoda-mother.md)
 
-[[sb/1/1/20#purport|SB 1.1.20]], [[sb/4/12/42#purport|SB 4.12.42]], [[sb/6/17/15#purport|SB 6.17.15]]...
+[[sb/1/1/20#purport|SB 1.1.20]]...
 
-* as nitya-siddha, [[sb/10/9/20#purport|SB 10.9.20]]
+* angry at,, [[sb/10/9/5#purport|SB 10.9.5]], [[sb/10/9/6#purport|SB 10.9.6]]
 
-*→ See all 45 references in* [Yaśodā, Mother](entries/yasoda-mother.md)
+*→ See all 59 references in* [Yaśodā, Mother](entries/yasoda-mother.md)
 
 ---
 
@@ -661,11 +639,11 @@
 * Kālakanyā’s proposal to, [[sb/4/27/24-26#purport|SB 4.27.24-26]]
 *  [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/29/22#purport|SB 4.29.22]], [[sb/4/29/23-25#purport|SB 4.29.23-25]]
 
-*See also:* [[y#Yamarāja|Yamarāja]]
+*See also:* Yamarāja
 
 ---
 
-### Yavana(s)
+### yavanas
 
 [[sb/1/16/20#purport|SB 1.16.20]], [[sb/2/4/18#purport|SB 2.4.18]]
 
@@ -683,7 +661,7 @@
 ### Yavaneśvara
 
 
-*See:* [[y#Yavana-rāja|Yavana-rāja]]
+*See:* Yavana-rāja
 
 ---
 
@@ -726,11 +704,11 @@
 
 ### [Yayāti, King](entries/yayati-king.md)
 
-[[cc/madhya/16/150#purport|Madhya 16.150]], [[sb/6/6/32#purport|SB 6.6.32]]...
+[[cc/madhya/16/150#purport|Madhya 16.150]]...
 
-* as Nahuṣa’s son, [[sb/9/18/1#purport|SB 9.18.1]]
+* as Nahuṣa’s son,, [[sb/9/18/1#purport|SB 9.18.1]]
 
-*→ See all 19 references in* [Yayāti, King](entries/yayati-king.md)
+*→ See all 21 references in* [Yayāti, King](entries/yayati-king.md)
 
 ---
 
@@ -751,16 +729,6 @@
 ---
 
 ## Yo
-
-### [Yoga](entries/yoga.md)
-
-**[[cc/antya/8/67–68#translation|Antya 8.67–68]]**, [[cc/madhya/22/145#purport|Madhya 22.145]], [[cc/madhya/22/146#purport|Madhya 22.146]]...
-
-* *aṣṭāṅga-,* 6.47, [[bg/9/2|Bg. 9.2]] (11)
-
-*→ See all 267 references in* [Yoga](entries/yoga.md)
-
----
 
 ### Yoga (son of Dharma)
 
@@ -788,6 +756,8 @@
 * Arjuna &, 7 
 * knowledge about Lord covered by, [[bg/10/17|Bg. 10.17]]
 * Kṛṣṇa covered by, [[bg/7/25|Bg. 7.25]], [[bg/10/17|Bg. 10.17]], [[bg/11/52|Bg. 11.52]]
+* on proper meditation, [[bg/2/61|Bg. 2.61]]
+* on soul & sense enjoyment, [[bg/4/27|Bg. 4.27]]
 
 ---
 
@@ -841,14 +811,6 @@
 
 ---
 
-### Yoga-siddhi
-
-* defined, [[sb/7/9/7#purport|SB 7.9.7]]
-
-*See also:* [[m#Mystic power|Mystic power]]
-
----
-
 ### Yoga-siddhi defined
 
 [[sb/3/11/17#purport|SB 3.11.17]]
@@ -858,6 +820,9 @@
 
 ### Yoga-siddhis
 
+* defined, [[sb/7/9/7#purport|SB 7.9.7]]
+
+*See also:* Mystic power
 
 *See:* Mystics power
 
@@ -885,19 +850,21 @@
 
 ### [Yoga(s)](entries/yogas.md)
 
-* as meditation on Aniruddha, [[sb/3/26/28#purport|SB 3.26.28]]
+[[cc/madhya/22/145#purport|Madhya 22.145]]...
 
-*→ See all 38 references in* [Yoga(s)](entries/yogas.md)
+* *aṣṭāṅga-,*, 6.47, [[bg/9/2|Bg. 9.2]] (11)
+
+*→ See all 405 references in* [Yoga(s)](entries/yogas.md)
 
 ---
 
 ### [Yogamāyā](entries/yogamaya.md)
 
-[[cc/adi/13/61#purport|Ādi 13.61]], [[cc/adi/13/86#purport|Ādi 13.86]], **[[cc/adi/17/242#translation|Ādi 17.242]]**...
+**[[cc/adi/4/29#translation|Ādi 4.29]]**...
 
-* arranged Aghāsura’s advent, [[sb/10/12/13#purport|SB 10.12.13]]
+* arranged Aghāsura’s advent,, [[sb/10/12/13#purport|SB 10.12.13]]
 
-*→ See all 50 references in* [Yogamāyā](entries/yogamaya.md)
+*→ See all 57 references in* [Yogamāyā](entries/yogamaya.md)
 
 ---
 
@@ -925,7 +892,7 @@
 [[sb/4/16/2#purport|SB 4.16.2]]
 
 
-*See also:* [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; spiritual
+*See also:* Energies of Supreme Lord; spiritual
 
 ---
 
@@ -943,10 +910,9 @@
 
 ---
 
-### Yogendras
+### [Yogendras](entries/yogendras.md)
 
-**[[cc/madhya/19/189#translation|Madhya 19.189]]**, [[cc/madhya/20/119#purport|Madhya 20.119]], [[cc/madhya/20/338#purport|Madhya 20.338]], [[cc/madhya/20/347#purport|Madhya 20.347]], [[cc/madhya/22/141#purport|Madhya 22.141]], [[cc/madhya/22/73#purport|Madhya 22.73]], **[[cc/madhya/24/118–20#translation|Madhya 24.118–20]]**, [[cc/madhya/24/124#purport|Madhya 24.124]], [[sb/2/1/6#purport|SB 2.1.6]]
-
+**[[cc/madhya/19/189#translation|Madhya 19.189]]**
 
 ---
 
@@ -977,17 +943,17 @@
 
 *  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
 
-*See:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; Supreme Lord
 
 ---
 
 ### [Yogī(s)](entries/yogis.md)
 
-[[cc/adi/5/22#purport|Ādi 5.22]], [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/madhya/19/149#translation|Madhya 19.149]]**...
+[[cc/adi/5/22#purport|Ādi 5.22]]...
 
-* ”fallen,” [[sb/2/6/20#purport|SB 2.6.20]]
+* ”fallen,”, [[sb/2/6/20#purport|SB 2.6.20]]
 
-*→ See all 216 references in* [Yogī(s)](entries/yogis.md)
+*→ See all 259 references in* [Yogī(s)](entries/yogis.md)
 
 ---
 
@@ -1051,7 +1017,7 @@
 
 [[cc/madhya/5/113#purport|Madhya 5.113]]...
 
-* acceptance of proposal by, **[[cc/madhya/5/77–78#translation|Madhya 5.77–78]]**
+* acceptance of proposal by,, **[[cc/madhya/5/77–78#translation|Madhya 5.77–78]]**
 
 *→ See all 16 references in* [Young brāhmaṇa](entries/young-brahmana.md)
 
@@ -1068,7 +1034,7 @@
 ### Youthfulness restored
 
 
-*See:* [[r#Rejuvenation|Rejuvenation]]
+*See:* Rejuvenation
 
 ---
 
@@ -1097,19 +1063,19 @@
 
 ### [Yudhiṣṭhira Mahārāja](entries/yudhisthira-maharaja.md)
 
-[[cc/adi/1/63#purport|Ādi 1.63]], [[cc/adi/2/21#purport|Ādi 2.21]], **[[cc/adi/8/19#translation|Ādi 8.19]]**...
+[[bg/1/1|Bg. 1.1]]...
 
-* ancestry of, [[sb/1/12/18#purport|SB 1.12.18]], [[sb/1/12/26#purport|SB 1.12.26]]
+* ”conquered” by,, [[sb/1/8/45#purport|SB 1.8.45]]
 
-*→ See all 109 references in* [Yudhiṣṭhira Mahārāja](entries/yudhisthira-maharaja.md)
+*→ See all 118 references in* [Yudhiṣṭhira Mahārāja](entries/yudhisthira-maharaja.md)
 
 ---
 
 ### [Yudhiṣṭhira Mahārāja quoted](entries/yudhisthira-maharaja-quoted.md)
 
-* on Arjuna, [[sb/1/14/6-7#purport|SB 1.14.6-7]]
+* mercy of,, [[sb/1/14/9#purport|SB 1.14.9]]
 
-*→ See all 14 references in* [Yudhiṣṭhira Mahārāja quoted](entries/yudhisthira-maharaja-quoted.md)
+*→ See all 16 references in* [Yudhiṣṭhira Mahārāja quoted](entries/yudhisthira-maharaja-quoted.md)
 
 ---
 
@@ -1126,14 +1092,13 @@
 
 *  [[sb/3/20/1#purport|SB 3.20.1]], [[sb/3/22/35#purport|SB 3.22.35]], [[sb/3/24/26#purport|SB 3.24.26]]
 
-*See also:* [[d#Dvāpara-yuga|Dvāpara-yuga]]; [[k#Kali-yuga|Kali-yuga]]; [[s#Satya-yuga|Satya-yuga]]; [[t#Tretā-yuga|Tretā-yuga]]
+*See also:* Dvāpara-yuga; [Kali-yuga](entries/kali-yuga.md); [Satya-yuga](entries/satya-yuga.md); Tretā-yuga
 
 ---
 
-### Yuga-avatāras
+### [Yuga-avatāras](entries/yuga-avataras.md)
 
-[[cc/adi/12/86#purport|Ādi 12.86]], [[cc/madhya/1/41#purport|Madhya 1.41]], [[cc/madhya/20/185#purport|Madhya 20.185]], **[[cc/madhya/20/246#translation|Madhya 20.246]]**, **[[cc/madhya/20/329–42#translation|Madhya 20.329–42]]**, **[[cc/madhya/20/348#translation|Madhya 20.348]]**, **[[cc/madhya/6/100–1#translation|Madhya 6.100–1]]**, [[sb/1/2/22#purport|SB 1.2.22]]
-
+[[cc/madhya/1/41#purport|Madhya 1.41]]
 
 ---
 
@@ -1151,9 +1116,9 @@
 
 [[sb/2/10/46#purport|SB 2.10.46]]...
 
-* cycle of, [[bg/8/17|Bg. 8.17]]
+* cycle of,, [[bg/8/17|Bg. 8.17]]
 
-*→ See all 25 references in* [Yuga(s)](entries/yugas.md)
+*→ See all 26 references in* [Yuga(s)](entries/yugas.md)
 
 ---
 
@@ -1176,7 +1141,7 @@
 [[sb/3/11/19#purport|SB 3.11.19]]
 
 
-*See also:* [[d#Dvāpara-yuga|Dvāpara-yuga]]; [[k#Kali-yuga|Kali-yuga]]; [[s#Satya-yuga|Satya-yuga]]; [[t#Tretā-yuga|Tretā-yuga]]
+*See also:* Dvāpara-yuga; [Kali-yuga](entries/kali-yuga.md); [Satya-yuga](entries/satya-yuga.md); Tretā-yuga
 
 ---
 
@@ -1186,7 +1151,7 @@
 * government leaders in, [[sb/4/14/17#purport|SB 4.14.17]]
 * life spans in, [[sb/4/9/62#purport|SB 4.9.62]]
 
-*See also:* [[d#Dvāpara-yuga|Dvāpara-yuga]]; [[k#Kali-yuga|Kali-yuga]]; [[s#Satya-yuga|Satya-yuga]]; [[t#Tretā-yuga|Tretā-yuga]]
+*See also:* Dvāpara-yuga; [Kali-yuga](entries/kali-yuga.md); [Satya-yuga](entries/satya-yuga.md); Tretā-yuga
 
 ---
 
@@ -1227,7 +1192,9 @@
 
 ### [Yuvanāśva](entries/yuvanasva.md)
 
-* baby born of, [[sb/9/6/30#purport|SB 9.6.30]], [[sb/9/6/32#purport|SB 9.6.32]]
+[[sb/9/6/20#purport|SB 9.6.20]], [[sb/9/6/21#purport|SB 9.6.21]], [[sb/9/7/1#purport|SB 9.7.1]]...
+
+* baby born of,, [[sb/9/6/30#purport|SB 9.6.30]], [[sb/9/6/32#purport|SB 9.6.32]]
 
 *→ See all 9 references in* [Yuvanāśva](entries/yuvanasva.md)
 

@@ -2,19 +2,27 @@
 
 [[sb/1/7/9#purport|SB 1.7.9]], [[sb/3/9/1#purport|SB 3.9.1]]
 
+* as impossible, [[sb/4/4/28#purport|SB 4.4.28]]
+* as misery, [[sb/6/17/20#purport|SB 6.17.20]]
 * at Lord’s lotus feet, [[sb/4/22/39#purport|SB 4.22.39]]
 * attachment to, [[sb/9/4/65#purport|SB 9.4.65]]
 * burden of love as, [[sb/3/3/14#purport|SB 3.3.14]]
 * by hearing Lord’s pastimes, [[sb/4/7/35-35#purport|SB 4.7.35-35]]
 * by Lord’s grace, [[sb/4/8/21#purport|SB 4.8.21]]
+* compared with self-realization, [[sb/2/1/3#purport|SB 2.1.3]]
+* detachment from, [[sb/1/10/11-12#purport|SB 1.10.11-12]]
+* devotees shun, [[sb/1/8/27#purport|SB 1.8.27]], [[sb/6/18/74-74#purport|SB 6.18.74-74]]
 * diminishes results of piety, [[sb/4/8/33#purport|SB 4.8.33]]
 * for devotees of Lord, [[sb/4/4/27#purport|SB 4.4.27]]
 * for transcendentalists, [[sb/2/1/7#purport|SB 2.1.7]]
 * from Lord’s lotus feet, [[sb/4/4/27#purport|SB 4.4.27]]
 * from sex life, [[sb/2/6/8#purport|SB 2.6.8]]
-* highest, “Kṛṣṇa” means, 18 
+* highest, “Kṛṣṇa” means, 18
+* ignorance in, [[sb/4/2/22#purport|SB 4.2.22]]
+* illusory nature of, [[sb/6/17/18-20#purport|SB 6.17.18-20]], [[sb/6/17/29-30#purport|SB 6.17.29-30]]
 * illusory, in abominable life, [[sb/4/7/44#purport|SB 4.7.44]]
 * illusory, misleads us, [[sb/4/7/44-44#purport|SB 4.7.44-44]]
+* impossible, [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-23#purport|SB 6.15.21-23]]
 * in God & living entities, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
 * in goodness, [[sb/3/21/13#purport|SB 3.21.13]]
 * in husband & wife, [[sb/4/1/6#purport|SB 4.1.6]]
@@ -26,7 +34,7 @@
 * literature giving, [[sb/3/5/7#purport|SB 3.5.7]]
 * Lord as source of, [[sb/2/10/6#purport|SB 2.10.6]]
 * Lord source of, [[sb/9/10/11#purport|SB 9.10.11]]
-* material , , , 
+* material
 * need to transcend, [[sb/4/8/33#purport|SB 4.8.33]]
 * of devotees & impersonalists compared, [[sb/3/5/47#purport|SB 3.5.47]]
 * of devotees, [[sb/6/9/39#purport|SB 6.9.39]]
@@ -35,8 +43,12 @@
 * on heavenly planets, [[bg/2/42|Bg. 2.42]]
 * preaching Kṛṣṇa consciousness as, [[sb/2/8/6#purport|SB 2.8.6]]
 * selfish or selfless, [[sb/2/4/17#purport|SB 2.4.17]]
-* spiritual. See: Kṛṣṇa consciousness 
+* sex as main, [[sb/1/8/35#purport|SB 1.8.35]]
+* soul beyond, [[sb/4/8/28#purport|SB 4.8.28]]
+* spiritual life stopped by, [[sb/6/16/26#purport|SB 6.16.26]]
+* spiritual. See: Kṛṣṇa consciousness
 * temporary, rejected by devotees, [[sb/3/15/48#purport|SB 3.15.48]]
+* transcended by devotees, [[sb/2/9/36#purport|SB 2.9.36]]
 * true, compared with false, [[sb/1/14/34#purport|SB 1.14.34]]
 * under supernatural control, [[sb/3/3/23#purport|SB 3.3.23]]
 * Vedic means for attaining material, [[bg/2/42|Bg. 2.42]]
@@ -48,8 +60,11 @@
 * via hearing Lord’s pastimes, [[sb/3/19/33-33#purport|SB 3.19.33-33]]
 * via loving Kṛṣṇa, [[sb/3/1/24#purport|SB 3.1.24]], [[sb/3/2/28#purport|SB 3.2.28]]
 * via right treatment of others, [[sb/4/8/34#purport|SB 4.8.34]]
+* via Vedas, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
 * via visiting Vṛndāvana, [[sb/3/2/27#purport|SB 3.2.27]]
+* wife induces, [[sb/6/18/40#purport|SB 6.18.40]]
+* women &, [[sb/4/3/9#purport|SB 4.3.9]]
 
-*See also:* [[h#Happiness|Happiness]]; [[s#Sense gratification|Sense gratification]]; [[b#Bliss|Bliss]]; transcendental; [[e#Ecstasy|Ecstasy]]; [[e#Enjoyment|Enjoyment]]; material; [[p#Peace|Peace]]
+*See also:* [Bliss](entries/bliss.md); [Ecstasy](entries/ecstasy.md); [Enjoyment](entries/enjoyment.md); [Happiness](entries/happiness.md); Sense gratification; transcendental; material; [Peace](entries/peace.md); of conditioned soul
 
-*See:* [[b#Bliss|Bliss]]; [[e#Enjoyment|Enjoyment]]; material; [[h#Happiness|Happiness]]
+*See:* [Bliss](entries/bliss.md); [Enjoyment](entries/enjoyment.md); material; [Happiness](entries/happiness.md)

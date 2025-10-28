@@ -6,7 +6,6 @@
 * ”I” concept in, [[sb/2/9/33#purport|SB 2.9.33]]
 * *brahma-bhūta *stage of, [[bg/5/24|Bg. 5.24]], [[bg/18/51–54|Bg. 18.51–54]]
 * *samādhi *in, [[bg/2/44|Bg. 2.44]]
-* Vedas meant for, [[bg/2/46|Bg. 2.46]]
 * accepting importance of, [[bg/13/8|Bg. 13.8]]
 * advantages of, [[bg/18/51–54|Bg. 18.51–54]]
 * alertness in, [[sb/1/4/4#purport|SB 1.4.4]]
@@ -27,13 +26,11 @@
 * authorized process for, [[sb/3/15/45#purport|SB 3.15.45]]
 * benefits of, [[bg/6/20|Bg. 6.20]]
 * best process for, [[sb/2/1/39#purport|SB 2.1.39]]
-* *See:* Devotional service 
 * beyond pretensions, [[sb/2/4/19#purport|SB 2.4.19]]
 * Bhagavad-gītā quoted on, **[[cc/madhya/8/65#translation|Madhya 8.65]]**
 * Bhāgavata’s association for, [[sb/1/2/18#purport|SB 1.2.18]]
 * bogus & bona fide methods of, [[sb/1/12/3#purport|SB 1.12.3]]
 * brahma-bhūta stage of, [[sb/3/22/36#purport|SB 3.22.36]]
-* *See:* [[g#God realization|God realization]]; Brahman realization & . . . 
 * by goodness, [[sb/3/5/11#purport|SB 3.5.11]]
 * chanting & hearing for, [[sb/1/1/21#purport|SB 1.1.21]]
 * chanting Lord’s name as highest, [[bg/2/46|Bg. 2.46]]
@@ -51,7 +48,7 @@
 * detachment & knowledge in, [[sb/1/2/7#purport|SB 1.2.7]]
 * detachment &, [[bg/2/1|Bg. 2.1]], [[bg/16/22|Bg. 16.22]], [[bg/18/51–54|Bg. 18.51–54]]
 * detachment via, [[sb/3/26/2#purport|SB 3.26.2]]
-* devotional service &,  3.3, [[bg/13/8|Bg. 13.8]] (13–14), [[bg/16/22|Bg. 16.22]]
+* devotional service &, 3.3, [[bg/13/8|Bg. 13.8]] (13–14), [[bg/16/22|Bg. 16.22]]
 * devotional service follows, [[sb/3/25/18#purport|SB 3.25.18]], [[sb/3/28/44#purport|SB 3.28.44]]
 * difficult in this age, [[sb/1/1/10-11#purport|SB 1.1.10-11]], [[sb/1/1/21-22#purport|SB 1.1.21-22]]
 * direct & indirect, [[bg/3/3|Bg. 3.3]], [[bg/12/20|Bg. 12.20]]
@@ -60,12 +57,16 @@
 * ego &, [[bg/13/8|Bg. 13.8]] (13)
 * equanimity in, [[bg/5/18–20|Bg. 5.18–20]]
 * evolution toward, [[sb/2/2/28-30#purport|SB 2.2.28-30]]
-* falldown from 
+* falldown from
+  * Arjuna’s questions about, [[bg/6/37–38|Bg. 6.37–38]]
+  * causes of, [[bg/6/37|Bg. 6.37]]
+  * happiness lost by, [[bg/6/38|Bg. 6.38]]
+  * results of, [[bg/6/37–45|Bg. 6.37–45]]
 * family life &, [[sb/1/13/26#purport|SB 1.13.26]]
 * fears about, [[bg/4/10|Bg. 4.10]]
 * first stage of, as Brahman stage, [[bg/14/27|Bg. 14.27]]
 * for human life, [[sb/1/13/23#purport|SB 1.13.23]], [[sb/1/13/47#purport|SB 1.13.47]]
-* for Parīkṣit, IV2 
+* for Parīkṣit, IV2
 * for responsible people, [[sb/2/9/36#purport|SB 2.9.36]]
 * goal of, [[sb/1/13/55#purport|SB 1.13.55]]
 * God-realization follows, [[sb/2/4/16#purport|SB 2.4.16]], [[sb/2/6/35#purport|SB 2.6.35]]
@@ -96,10 +97,13 @@
 * jaḍa-yoga for, [[sb/2/7/10#purport|SB 2.7.10]]
 * jñāna-mārga &, [[cc/adi/1/91#purport|Ādi 1.91]]
 * kinds of, two, [[bg/3/3|Bg. 3.3]]
-* knowledge 
+* knowledge
+  * &, 6.8
+  * in, [[bg/5/16–18|Bg. 5.16–18]], [[bg/6/8|Bg. 6.8]]
+  * via, [[bg/15/11|Bg. 15.11]]
 * knowledge & detachment in, [[sb/3/5/42#purport|SB 3.5.42]]
+* Kṛṣṇa consciousness &, 6.27, [[bg/6/30|Bg. 6.30]], [[bg/6/37|Bg. 6.37]]
 * Kṛṣṇa consciousness as, [[sb/3/27/10#purport|SB 3.27.10]]
-* Kṛṣṇa consciousness &,  6.27, [[bg/6/30|Bg. 6.30]], [[bg/6/37|Bg. 6.37]]
 * life arranged for, [[sb/3/12/2#purport|SB 3.12.2]]
 * life failure without, [[sb/2/9/36#purport|SB 2.9.36]]
 * Lord as seen in, [[sb/1/3/33#purport|SB 1.3.33]]
@@ -157,6 +161,7 @@
 * spiritual master needed for, [[sb/2/8/24#purport|SB 2.8.24]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/3/7/39#purport|SB 3.7.39]]
 * Śrīmad-Bhāgavatam for, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/7/8#purport|SB 1.7.8]]
 * stages of, [[bg/13/1|Bg. 13.1]], [[sb/1/13/28#purport|SB 1.13.28]]
+  * progression through, [[bg/7/19|Bg. 7.19]], [[bg/14/27|Bg. 14.27]]
 * steadiness in, [[bg/6/18–20|Bg. 6.18–20]]
 * submission &, [[cc/adi/1/55#purport|Ādi 1.55]]
 * Supersoul seen in, [[bg/6/29|Bg. 6.29]]
@@ -170,6 +175,7 @@
 * transmigration known in, [[sb/6/15/3#purport|SB 6.15.3]]
 * types of attempts for, [[bg/13/25|Bg. 13.25]]
 * Vedānta-sūtra as meant for, [[sb/1/7/8#purport|SB 1.7.8]]
+* Vedas meant for, [[bg/2/46|Bg. 2.46]]
 * via bhakti-yoga, as best, [[bg/13/8|Bg. 13.8]] (13)
 * via buddhi-yoga, [[sb/3/6/9#purport|SB 3.6.9]]
 * via chanting Hare Kṛṣṇa, [[sb/3/24/35#purport|SB 3.24.35]]
@@ -198,4 +204,6 @@
 * worship to Caitanya-Nitāi &, **[[cc/adi/1/103#translation|Ādi 1.103]]**
 * yoga-mārga &, [[cc/adi/1/91#purport|Ādi 1.91]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[l#Liberation|Liberation]]; Devotional service; [[k#Knowledge|Knowledge]]; spiritual; [[m#Meditation|Meditation]]; [[r#Realiātion about Lord|Realiātion about Lord]]; [[s#Spiritual life|Spiritual life]]; [[y#Yoga|Yoga]]
+*See also:* Devotional service; [Knowledge](entries/knowledge.md); Kṛṣṇa consciousness; [Liberation](entries/liberation.md); spiritual; [Meditation](entries/meditation.md); Realiātion about Lord; Spiritual life; [Yoga](entries/yogas.md)
+
+*See:* Devotional service; God realization; Brahman realization & . . .

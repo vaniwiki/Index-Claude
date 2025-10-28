@@ -1,5 +1,12 @@
 # Jaḍa Bharata quoted
 
+* as living entities’ greatest enemy, [[sb/5/11/17#purport|SB 5.11.17]]
+* conquering of, [[sb/5/11/17#purport|SB 5.11.17]]
+* fields of function for, [[sb/5/11/9#purport|SB 5.11.9]]
+* history of, [[sb/5/12/14-15#purport|SB 5.12.14-15]]
+* knowledge possessed by, [[sb/5/10/13#purport|SB 5.10.13]]
+* material body &, [[sb/5/10/9#purport|SB 5.10.9]], [[sb/5/10/10#purport|SB 5.10.10]]
+* material life via, [[sb/5/11/4-8#purport|SB 5.11.4-8]], [[sb/5/11/16#purport|SB 5.11.16]]
 * on Absolute Truth, realization of, [[sb/5/12/12#purport|SB 5.12.12]]
 * on conditioned soul’s suffering in material world, [[sb/5/13/1-19#purport|SB 5.13.1-19]]
 * on cosmic manifestation, [[sb/5/12/9-10#purport|SB 5.12.9-10]]
@@ -7,7 +14,7 @@
 * on false ego, [[sb/5/11/9#purport|SB 5.11.9]], [[sb/5/11/10#purport|SB 5.11.10]]
 * on family life, suffering from, [[sb/5/13/2#purport|SB 5.13.2]], [[sb/5/13/4#purport|SB 5.13.4]], [[sb/5/13/6#purport|SB 5.13.6]], [[sb/5/13/8#purport|SB 5.13.8]], [[sb/5/13/14#purport|SB 5.13.14]]
 * on happiness, material, [[sb/5/11/3#purport|SB 5.11.3]]
-* on himself 
+* on himself
 * on knowledge, three realizations of spiritual, [[sb/5/12/11#purport|SB 5.12.11]]
 * on liberated soul, [[sb/5/11/12#purport|SB 5.11.12]]
 * on Lord, [[sb/5/11/13-14#purport|SB 5.11.13-14]]
@@ -21,7 +28,7 @@
 * on material nature, living entities forced by, [[sb/5/10/12#purport|SB 5.10.12]]
 * on materialists, spiritual advancement by, [[sb/5/11/2#purport|SB 5.11.2]]
 * on matter, as temporary, [[sb/5/10/11#purport|SB 5.10.11]]
-* on mind 
+* on mind
 * on money, accumulation of, [[sb/5/13/12#purport|SB 5.13.12]]
 * on palanquin carriers, [[sb/5/6/5-6#purport|SB 5.6.5-6]], [[sb/5/6/7#purport|SB 5.6.7]]
 * on political & social heroes, [[sb/5/13/15#purport|SB 5.13.15]]
@@ -33,3 +40,4 @@
 * on spiritual platform, failure to attain, [[sb/5/13/17#purport|SB 5.13.17]]
 * on ultimate truth, [[sb/5/12/11#purport|SB 5.12.11]]
 * on Vedas, knowledge from, [[sb/5/11/3#purport|SB 5.11.3]]
+* statement of, [[sb/5/10/9-13#purport|SB 5.10.9-13]]

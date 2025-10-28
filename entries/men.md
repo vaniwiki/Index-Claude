@@ -4,4 +4,4 @@
 
 *See also:* Humans being; specific men
 
-*See:* Humans being; specific men; [[p#Persons|Persons]]; [[m#Man|Man]]
+*See:* [Man](entries/man.md); Humans being; Persons; specific men

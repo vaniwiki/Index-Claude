@@ -1,15 +1,13 @@
 # Bhagavad-gītā
 
-[[cc/adi/7/127#purport|Ādi 7.127]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/7/130#purport|Ādi 7.130]], [[cc/adi/7/144#purport|Ādi 7.144]], [[cc/antya/1/211#purport|Antya 1.211]], [[cc/madhya/22/131#purport|Madhya 22.131]], [[cc/madhya/23/117–18#purport|Madhya 23.117–18]], [[cc/madhya/24/323#purport|Madhya 24.323]], [[cc/madhya/6/132#purport|Madhya 6.132]], [[cc/madhya/6/137#purport|Madhya 6.137]], [[cc/madhya/6/87#purport|Madhya 6.87]], [[cc/madhya/9/102#purport|Madhya 9.102]]
+[[cc/adi/7/127#purport|Ādi 7.127]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/7/130#purport|Ādi 7.130]], [[cc/adi/7/144#purport|Ādi 7.144]], [[cc/madhya/6/87#purport|Madhya 6.87]], [[cc/madhya/6/132#purport|Madhya 6.132]], [[cc/madhya/6/137#purport|Madhya 6.137]], [[cc/madhya/23/117–18#purport|Madhya 23.117–18]], [[cc/antya/1/211#purport|Antya 1.211]], [[cc/madhya/9/102#purport|Madhya 9.102]], [[cc/madhya/22/131#purport|Madhya 22.131]], [[cc/madhya/24/323#purport|Madhya 24.323]]
 
-* “conclusion of,” 9.3
-* “last word in,” 4.38
+* “conclusion of,”, 9.3
+* “last word in,”, 4.38
 * “specific standard” of, [[bg/1/1|Bg. 1.1]]
-* “sum & substance” of, 28 
+* “sum & substance” of, 28
 * *Gītā-māhātmya *summarizes, [[bg/1/1|Bg. 1.1]]
-* yoga in, [[bg/2/72|Bg. 2.72]], [[bg/3/1–2|Bg. 3.1–2]]
-* yoga of, 3 
-* aaBhagavad-gītā cited; Bhagavad-gītā quoted 
+* aaBhagavad-gītā cited; Bhagavad-gītā quoted
 * absolute nature of, [[sb/3/5/13#purport|SB 3.5.13]]
 * ācāryas approve, [[sb/2/9/22#purport|SB 2.9.22]]
 * accepted by ācāryas, [[sb/4/2/31#purport|SB 4.2.31]]
@@ -21,16 +19,16 @@
 * Arjuna heard, [[sb/3/2/20#purport|SB 3.2.20]]
 * Arjuna hears, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/12/19#purport|SB 1.12.19]]
 * Arjuna medium for, [[sb/1/18/24-25#purport|SB 1.18.24-25]]
-* Arjuna qualified to hear, 3–7 
+* Arjuna qualified to hear, 3–7
 * Āryans follow, [[sb/6/16/43#purport|SB 6.16.43]]
-* as ”first book of spiritual values,” [[sb/1/4/25#purport|SB 1.4.25]]
+* as ”first book of spiritual values,”, [[sb/1/4/25#purport|SB 1.4.25]]
 * as ”ship” for crossing Kali-yuga, [[sb/1/1/22#purport|SB 1.1.22]]
-* as *apauruṣeya,* 4.1 (5)
+* as *apauruṣeya,*, 4.1 (5)
 * as apauruṣeya, [[sb/4/2/31#purport|SB 4.2.31]]
 * as auspicious, [[sb/8/1/32#purport|SB 8.1.32]]
 * as basis for preaching, [[sb/1/1/21#purport|SB 1.1.21]]
 * as best scriptural authority, [[bg/4/40|Bg. 4.40]]
-* as complete & perfect, 13 
+* as complete & perfect, 13
 * as contacting Lord, [[sb/2/2/15#purport|SB 2.2.15]]
 * as cream of Vedas, [[sb/6/7/14#purport|SB 6.7.14]]
 * as cure for godlessness, [[sb/2/4/17#purport|SB 2.4.17]]
@@ -63,7 +61,7 @@
 * as religion, [[sb/1/8/4#purport|SB 1.8.4]]
 * as science of devotional service, [[sb/2/7/19#purport|SB 2.7.19]]
 * as smṛti-prasthāna, [[cc/adi/7/117#purport|Ādi 7.117]]
-* as solution to man’s problems, 6 
+* as solution to man’s problems, 6
 * as sound incarnation of Lord, [[sb/1/9/43#purport|SB 1.9.43]]
 * as source of knowledge, [[cc/adi/7/106#purport|Ādi 7.106]]
 * as Śrīmad-Bhāgavatam’s introduction, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/10/22#purport|SB 1.10.22]]
@@ -71,26 +69,56 @@
 * as teachings, [[sb/1/9/17#purport|SB 1.9.17]]
 * as transcendental, [[bg/2/12|Bg. 2.12]], [[bg/18/76|Bg. 18.76]], [[sb/1/16/6#purport|SB 1.16.6]]
 * as universal scripture, 30, [[bg/1/1|Bg. 1.1]]
-* as Vedas’ essence, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/10/1/41#purport|SB 10.1.41]], [[sb/8/14/8#purport|SB 8.14.8]]
+* as Vedas’ essence, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/8/14/8#purport|SB 8.14.8]], [[sb/10/1/41#purport|SB 10.1.41]]
 * as Vedic literature, [[bg/2/45|Bg. 2.45]], [[bg/4/1|Bg. 4.1]] (5)
 * atheists misuse, [[sb/3/2/22#purport|SB 3.2.22]]
 * audience meant for, [[bg/4/2|Bg. 4.2]]
 * authorities on, six listed, [[sb/2/3/11#purport|SB 2.3.11]]
 * authority of, [[bg/4/1–5|Bg. 4.1–5]]
 * Battlefield of Kurukṣetra witnessed, [[sb/1/15/27#purport|SB 1.15.27]]
+* because of influence of modes, [[sb/7/1/9#purport|SB 7.1.9]]
 * benefits of, [[bg/8/28|Bg. 8.28]], [[bg/11/55|Bg. 11.55]] (1)
-* Bhagavad-gītā cited; Bhagavad-gītā quoted , , , , 
+* Bhagavad-gītā cited; Bhagavad-gītā quoted
 * Bhāgavatam as postgraduate study of, [[sb/2/1/29#purport|SB 2.1.29]], [[sb/2/8/27#purport|SB 2.8.27]]
 * bhakti-yoga in, [[sb/1/12/19#purport|SB 1.12.19]]
 * bogus commentary on, [[bg/2/7|Bg. 2.7]]
 * broadcasting, loudly, [[sb/2/3/20#purport|SB 2.3.20]]
+* by modern man, [[sb/7/1/32#purport|SB 7.1.32]]
+* by politician, etc., [[sb/7/5/30#purport|SB 7.5.30]]
+* by sense enjoyers, [[sb/7/5/30#purport|SB 7.5.30]]
 * Caitanya as teacher of, SB Intro 4
 * Caitanya propagates, [[sb/8/14/8#purport|SB 8.14.8]]
 * Caitanya’s order &, **[[cc/madhya/7/128#translation|Madhya 7.128]]**
 * central point of, [[bg/5/17|Bg. 5.17]]
-* chapter(s) of 
+* chapter(s) of
+  * divisions of, [[bg/8/28|Bg. 8.28]]
+  * Eighteenth, [[bg/18/1|Bg. 18.1]], [[bg/18/78|Bg. 18.78]] (4)
+  * Eighth, [[bg/8/1|Bg. 8.1]]
+  * Eleventh, [[bg/11/55|Bg. 11.55]] (6)
+  * Fifteenth, [[bg/15/20|Bg. 15.20]]
+  * Fifth, [[bg/5/29|Bg. 5.29]]
+  * Fourth, [[bg/4/42|Bg. 4.42]]
+  * Ninth, [[bg/9/2|Bg. 9.2]] (1)
+  * organization of, [[bg/8/28|Bg. 8.28]], [[bg/9/1|Bg. 9.1]]
+  * Second through Fifth, [[bg/5/1|Bg. 5.1]]
+  * Second, [[bg/2/1|Bg. 2.1]], [[bg/2/72|Bg. 2.72]], [[bg/3/1|Bg. 3.1]], [[bg/3/2–3|Bg. 3.2–3]]
+  * Seventeenth, [[bg/17/28|Bg. 17.28]]
+  * Seventh & Eighth, [[bg/9/34|Bg. 9.34]]
+  * Seventh, [[bg/7/30|Bg. 7.30]]
+  * Seventh, Ninth, & Tenth, [[bg/10/1|Bg. 10.1]]
+  * Tenth, [[bg/10/42|Bg. 10.42]]
+  * Third, [[bg/3/2|Bg. 3.2]], [[bg/3/43|Bg. 3.43]]
+  * Thirteenth, [[bg/13/19|Bg. 13.19]], [[bg/13/35|Bg. 13.35]]
+  * topics of, [[bg/8/28|Bg. 8.28]],9.1, [[bg/14/1|Bg. 14.1]], [[bg/18/1|Bg. 18.1]]
+  * Twelfth, [[bg/12/20|Bg. 12.20]]
 * commentary on, [[bg/3/14|Bg. 3.14]], [[bg/3/31|Bg. 3.31]], [[bg/4/2–4|Bg. 4.2–4]], [[bg/7/3|Bg. 7.3]], [[bg/8/16|Bg. 8.16]], [[bg/9/1|Bg. 9.1]], [[bg/10/8|Bg. 10.8]], [[bg/10/15|Bg. 10.15]], [[bg/11/51|Bg. 11.51]], [[bg/11/54|Bg. 11.54]] (1), [[bg/12/1|Bg. 12.1]], [[bg/16/1|Bg. 16.1]] (14), [[bg/18/67|Bg. 18.67]], [[bg/18/78|Bg. 18.78]] (3–4)
-* compared 
+  * bogus, [[bg/2/7|Bg. 2.7]]
+* compared
+  * to bottle of honey, [[bg/2/12|Bg. 2.12]]
+  * to cow, 30
+  * to Ganges water, 29
+  * to medicine, 2–3
+  * to sun, [[bg/11/51|Bg. 11.51]]
 * compared to Ganges River, [[sb/3/32/28#purport|SB 3.32.28]]
 * compared to sugar candy, [[sb/1/5/11#purport|SB 1.5.11]]
 * conclusion of, SB Intro 4
@@ -106,6 +134,7 @@
 * disqualifications for hearing, [[bg/18/67|Bg. 18.67]]
 * divisions of, named, [[sb/4/30/16#purport|SB 4.30.16]]
 * divisions of, topics of, [[bg/13/2|Bg. 13.2]], [[bg/18/1|Bg. 18.1]]
+  * *See also: Bhagavad-gītā, *chapter(s) of
 * duties &, [[sb/6/16/43#purport|SB 6.16.43]]
 * duty to read, [[sb/10/1/67#purport|SB 10.1.67]]
 * duty to study, [[sb/4/16/3#purport|SB 4.16.3]]
@@ -132,12 +161,25 @@
 * for leaders of world, [[sb/6/15/6#purport|SB 6.15.6]]
 * for perfect society, [[sb/6/16/43#purport|SB 6.16.43]]
 * from *Mahābhārata,* 25, [[bg/2/45|Bg. 2.45]]
+* from Lord, [[sb/4/30/10#purport|SB 4.30.10]]
 * funds for preaching, [[sb/7/14/8#purport|SB 7.14.8]]
-* goal of. *See: Bhagavad-gītā, *purpose of 
+* goal of. *See: Bhagavad-gītā, *purpose of
 * God known via, [[sb/4/11/23#purport|SB 4.11.23]]
 * government leaders to understand, [[bg/4/1|Bg. 4.1]] (1)
 * Hare Kṛṣṇa movement teaches, [[sb/8/14/5#purport|SB 8.14.5]]
-* hearing 
+* hearing
+  * by elevated persons, [[bg/4/7|Bg. 4.7]]
+  * disqualifications for, [[bg/18/67|Bg. 18.67]], [[bg/18/71|Bg. 18.71]]
+  * from bona fide spiritual master, [[bg/16/1|Bg. 16.1]] (14)
+  * from devotees, [[bg/8/28|Bg. 8.28]]
+  * importance & advantages of, 28–30, [[bg/4/42|Bg. 4.42]], [[bg/18/76|Bg. 18.76]]
+  * in association of devotees, [[bg/8/28|Bg. 8.28]]
+  * liberation via, 29
+  * prescription for, 3–6
+  * process for, [[bg/1/1|Bg. 1.1]]
+  * qualifications for, 3–7, 14, [[bg/18/71|Bg. 18.71]]
+  * recommended, [[bg/12/9|Bg. 12.9]]
+  * scrutinizingly, [[bg/1/1|Bg. 1.1]]
 * hearing from, [[sb/9/24/62#purport|SB 9.24.62]]
 * hearing of, [[sb/4/22/25#purport|SB 4.22.25]], [[sb/4/23/34#purport|SB 4.23.34]]
 * hero of, [[sb/1/12/21#purport|SB 1.12.21]]
@@ -158,11 +200,14 @@
 * interpretation of, [[bg/1/1|Bg. 1.1]], [[bg/2/7|Bg. 2.7]], [[bg/4/1–3|Bg. 4.1–3]], [[bg/7/15|Bg. 7.15]] (13), [[bg/10/8|Bg. 10.8]]
 * interpretations of, [[sb/2/2/27#purport|SB 2.2.27]]
 * jagad-guru teaches, [[sb/8/16/20#purport|SB 8.16.20]]
-* karmic relief via, 9 
+* karmic relief via, 9
 * kings meant to hear, [[bg/4/2|Bg. 4.2]]
 * knowledge from, [[bg/2/29|Bg. 2.29]], [[bg/3/3|Bg. 3.3]], [[bg/3/41|Bg. 3.41]], [[bg/4/42|Bg. 4.42]], [[bg/11/48|Bg. 11.48]], [[bg/13/1|Bg. 13.1]], [[bg/15/10|Bg. 15.10]], [[sb/3/26/33#purport|SB 3.26.33]]
+  * *See also: specific type of knowledge*
 * knowledge in, distribution of, [[sb/10/2/19#purport|SB 10.2.19]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * shown to be supreme in, [[bg/15/19|Bg. 15.19]]
+  * speaker of, 3, 4, 11, 29, 30, [[bg/1/1|Bg. 1.1]], [[bg/2/1|Bg. 2.1]], [[bg/2/20|Bg. 2.20]], [[bg/4/1|Bg. 4.1]] (3,5), [[bg/4/42|Bg. 4.42]], [[bg/10/15|Bg. 10.15]]
 * Kṛṣṇa consciousness based on, [[sb/4/21/27#purport|SB 4.21.27]]
 * Kṛṣṇa consciousness movement &, [[cc/madhya/22/118#purport|Madhya 22.118]]
 * Kṛṣṇa consciousness via, [[bg/10/11|Bg. 10.11]]
@@ -171,11 +216,11 @@
 * Kṛṣṇa presented via, 4, [[sb/1/5/36#purport|SB 1.5.36]]
 * Kṛṣṇa speaker of, [[sb/1/9/49#purport|SB 1.9.49]]
 * last instruction of, [[sb/1/13/42#purport|SB 1.13.42]]
-* liberation via hearing, 29 
+* liberation via hearing, 29
 * liberation via, [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/15/27#purport|SB 1.15.27]], [[sb/8/24/51#purport|SB 8.24.51]]
 * living entities understood according to, [[bg/2/55|Bg. 2.55]]
 * Lord known via, [[bg/10/2|Bg. 10.2]]
-* Lord spoke, [[sb/10/3/45#purport|SB 10.3.45]], [[sb/3/20/5#purport|SB 3.20.5]]
+* Lord spoke, [[sb/3/20/5#purport|SB 3.20.5]], [[sb/10/3/45#purport|SB 10.3.45]]
 * Lord teaches via, [[cc/adi/1/47#purport|Ādi 1.47]]
 * Lord’s directions given in, [[sb/7/2/41#purport|SB 7.2.41]]
 * Madhvācārya’s commentary on, [[cc/madhya/9/245#purport|Madhya 9.245]]
@@ -183,9 +228,9 @@
 * materialists cannot understand, [[bg/4/5|Bg. 4.5]]
 * materialists dismiss, [[sb/10/13/61#purport|SB 10.13.61]]
 * Māyāvādīs &, [[cc/adi/7/128#purport|Ādi 7.128]]
-* meditation on Kṛṣṇa taught by, 26–27 
+* meditation on Kṛṣṇa taught by, 26–27
 * misinterpretation of, [[cc/adi/7/108#purport|Ādi 7.108]], [[cc/adi/7/110#purport|Ādi 7.110]], [[sb/3/5/13#purport|SB 3.5.13]], [[sb/4/3/21#purport|SB 4.3.21]]
-* misinterpreted 
+* misinterpreted
 * misinterpreted by nondevotees, [[sb/2/8/27-28#purport|SB 2.8.27-28]], [[sb/2/9/36#purport|SB 2.9.36]]
 * misinterpreted by scholars, SB Intro 4-5
 * misunderstood by foolish, [[sb/4/30/10#purport|SB 4.30.10]]
@@ -194,12 +239,12 @@
 * mystery of, [[cc/adi/1/52#purport|Ādi 1.52]], [[sb/2/9/31#purport|SB 2.9.31]]
 * need for, in this age, [[sb/1/5/36#purport|SB 1.5.36]]
 * nondevotees misunderstand, [[sb/10/2/36#purport|SB 10.2.36]]
-* object of. *See: Bhagavad-gītā, *purpose of 
+* object of. *See: Bhagavad-gītā, *purpose of
 * on devotional service exclusively, [[bg/18/1|Bg. 18.1]]
 * original recitation of, [[bg/4/1|Bg. 4.1]], [[bg/4/1|Bg. 4.1]] (4–5), [[bg/4/5|Bg. 4.5]]
 * pastimes in, purpose of, [[sb/2/10/10#purport|SB 2.10.10]]
 * peace formula in, [[sb/9/4/21#purport|SB 9.4.21]]
-* perfection’s process explained in, 27–28 
+* perfection’s process explained in, 27–28
 * personalism in, [[cc/adi/2/22#purport|Ādi 2.22]]
 * philosophical basis of, [[sb/1/15/27#purport|SB 1.15.27]]
 * philosophy of, [[sb/4/24/17#purport|SB 4.24.17]]
@@ -210,11 +255,11 @@
 * preaching of, [[bg/18/68|Bg. 18.68]], [[bg/18/69|Bg. 18.69]], [[bg/18/71|Bg. 18.71]]
 * professional recitation of, [[sb/1/2/12#purport|SB 1.2.12]]
 * proper understanding of, [[bg/4/42|Bg. 4.42]]
-* purification via following, 15 
+* purification via following, 15
 * purification via reading, [[sb/5/18/11#purport|SB 5.18.11]]
 * purification via, [[sb/1/15/29#purport|SB 1.15.29]]
-* purpose of, 6, 11, 15, [[bg/2/1|Bg. 2.1]], [[bg/3/30|Bg. 3.30]], [[bg/4/17|Bg. 4.17]], [[bg/11/55|Bg. 11.55]] (1), [[bg/13/8|Bg. 13.8]] (7), [[bg/18/1|Bg. 18.1]], [[bg/18/67|Bg. 18.67]]
 * purpose of, [[sb/1/9/36#purport|SB 1.9.36]], [[sb/9/24/58#purport|SB 9.24.58]]
+* purpose of, 6, 11, 15, [[bg/2/1|Bg. 2.1]], [[bg/3/30|Bg. 3.30]], [[bg/4/17|Bg. 4.17]], [[bg/11/55|Bg. 11.55]] (1), [[bg/13/8|Bg. 13.8]] (7), [[bg/18/1|Bg. 18.1]], [[bg/18/67|Bg. 18.67]]
 * recitation of, bogus & bona fide, [[sb/10/1/4#purport|SB 10.1.4]]
 * religion understood via, [[bg/4/7|Bg. 4.7]]
 * Śaṅkara’s commentary on, [[sb/3/4/20#purport|SB 3.4.20]]
@@ -222,29 +267,31 @@
 * Śaṅkarācārya cited on, [[sb/2/9/33#purport|SB 2.9.33]]
 * Śaṅkarācārya’s commentary on, [[bg/7/3|Bg. 7.3]]
 * science of, [[bg/2/8|Bg. 2.8]], [[bg/4/1|Bg. 4.1]], [[bg/4/3|Bg. 4.3]], [[bg/6/8|Bg. 6.8]]
-* secret of, 27 
+  * “loss” of, [[bg/4/2|Bg. 4.2]]
+* secret of, 27
 * self-realization via, [[sb/2/7/3#purport|SB 2.7.3]]
 * short summary of, [[bg/13/1|Bg. 13.1]]
 * societal divisions in, [[sb/6/16/43#purport|SB 6.16.43]]
 * society benefits by, [[sb/8/24/5#purport|SB 8.24.5]]
 * society benefits via, [[sb/4/22/42#purport|SB 4.22.42]]
 * soul’s identity taught in, [[sb/2/1/15#purport|SB 2.1.15]]
-* speaker of, 3–4, 10, 29, 30, [[bg/1/1|Bg. 1.1]], [[bg/2/1|Bg. 2.1]], [[bg/2/20|Bg. 2.20]], [[bg/4/1|Bg. 4.1]] (3–5), [[bg/4/42|Bg. 4.42]], [[bg/10/15|Bg. 10.15]]
 * speaker of, [[sb/1/9/49#purport|SB 1.9.49]], [[sb/8/24/48#purport|SB 8.24.48]]
-* speculation about. *See: Bhagavad-gītā, *interpretation of 
-* spirit of, 2–3 
+* speaker of, 3–4, 10, 29, 30, [[bg/1/1|Bg. 1.1]], [[bg/2/1|Bg. 2.1]], [[bg/2/20|Bg. 2.20]], [[bg/4/1|Bg. 4.1]] (3–5), [[bg/4/42|Bg. 4.42]], [[bg/10/15|Bg. 10.15]]
+* speculation about. *See: Bhagavad-gītā, *interpretation of
+* spirit of, 2–3
 * spiritual education in, [[sb/8/16/19#purport|SB 8.16.19]]
 * spiritual life via, [[sb/8/24/51#purport|SB 8.24.51]]
 * spiritual master follows, [[sb/10/2/37#purport|SB 10.2.37]]
-* spoken at Kurukṣetra, 3 
-* spoken to Arjuna, 3–7, 14 
+* spoken at Kurukṣetra, 3
+* spoken to Arjuna, 3–7, 14
 * Śrīmad-Bhāgavatam compared to, [[sb/7/11/4#purport|SB 7.11.4]]
 * Śrīmad-Bhāgavatam postgraduate study to, [[sb/1/10/22#purport|SB 1.10.22]]
-* Śrīmad-Bhāgavatam supplements, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/10/8/49#purport|SB 10.8.49]], [[sb/2/1/29#purport|SB 2.1.29]], [[sb/3/4/20#purport|SB 3.4.20]]
+* Śrīmad-Bhāgavatam supplements, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/2/1/29#purport|SB 2.1.29]], [[sb/3/4/20#purport|SB 3.4.20]], [[sb/10/8/49#purport|SB 10.8.49]]
 * subjects & sections of, 7–9, [[bg/2/72|Bg. 2.72]], [[bg/18/78|Bg. 18.78]] (3–6)
-* summarized in *Gītā-māhātmya,* 1.1
+* summarized in *Gītā-māhātmya,*, 1.1
 * summarized in four verses, [[sb/2/9/37#purport|SB 2.9.37]]
 * summary of, [[bg/18/78|Bg. 18.78]]
+  * in Second Chapter & Eighteenth Chapter, [[bg/18/1|Bg. 18.1]]
 * surrender as last word of, [[sb/3/15/45#purport|SB 3.15.45]]
 * surrender to Lord as lesson of, [[bg/4/7|Bg. 4.7]]
 * surrender to Lord taught by, [[cc/adi/4/41#purport|Ādi 4.41]]
@@ -254,18 +301,20 @@
 * transcendental nature of, [[sb/1/1/19#purport|SB 1.1.19]], [[sb/1/6/25#purport|SB 1.6.25]]
 * transcendental, [[sb/2/9/8#purport|SB 2.9.8]]
 * Uddhava supplements, [[sb/3/4/32#purport|SB 3.4.32]]
-* understanding, [[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/7/48#purport|Ādi 7.48]], [[bg/1/1|Bg. 1.1]], [[bg/2/7|Bg. 2.7]], [[bg/2/12|Bg. 2.12]], [[bg/3/2|Bg. 3.2]], [[sb/4/28/64#purport|SB 4.28.64]]
+* understanding, [[bg/1/1|Bg. 1.1]], [[bg/2/7|Bg. 2.7]], [[bg/2/12|Bg. 2.12]], [[bg/3/2|Bg. 3.2]], [[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/7/48#purport|Ādi 7.48]], [[sb/4/28/64#purport|SB 4.28.64]]
 * understanding, secret for, [[sb/2/9/31#purport|SB 2.9.31]]
 * Vaivasvata Manu in, [[sb/3/21/3#purport|SB 3.21.3]]
 * value of hearing from, [[sb/3/25/2#purport|SB 3.25.2]]
 * value of knowing, [[sb/7/7/21#purport|SB 7.7.21]]
 * value of, [[sb/8/5/23#purport|SB 8.5.23]]
-* various editions of, xiii, 2 
+* various editions of, xiii, 2
 * Vedas revealed in, [[sb/8/24/61#purport|SB 8.24.61]]
 * via disciplic succession, [[sb/1/12/19#purport|SB 1.12.19]]
 * via guru, [[sb/8/24/53#purport|SB 8.24.53]]
 * Vivasvān heard, from Kṛṣṇa, [[bg/4/1|Bg. 4.1]], [[bg/4/4|Bg. 4.4]], [[bg/4/5|Bg. 4.5]]
 * written by Caitanya, [[cc/adi/11/26#purport|Ādi 11.26]]
 * yoga described in, [[cc/adi/4/21–22#purport|Ādi 4.21–22]]
+* yoga in, [[bg/2/72|Bg. 2.72]], [[bg/3/1–2|Bg. 3.1–2]]
+* yoga of, 3
 
-*See also:* [[b#Bhagavad-gītā cited|Bhagavad-gītā cited]]; [[b#Bhagavad-gītā quoted|Bhagavad-gītā quoted]]
+*See also:* Bhagavad-gītā cited; Bhagavad-gītā quoted

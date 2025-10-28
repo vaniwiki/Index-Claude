@@ -1,9 +1,9 @@
 # Materialism
 
 * ”independence” in, [[sb/1/8/37#purport|SB 1.8.37]]
-* anxiety from, 6 
+* anxiety from, 6
 * artificial amenities of, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/30#purport|SB 2.5.30]]
-* as asat, 6 
+* as asat, 6
 * as bar to serving Lord, SB Intro 39
 * as body consciousness, [[sb/7/10/2#purport|SB 7.10.2]]
 * as challenge to Lord’s rule, [[sb/1/3/22#purport|SB 1.3.22]]
@@ -11,7 +11,7 @@
 * as dream, [[sb/6/16/53-54#purport|SB 6.16.53-54]]
 * as encouraged by Vedic literature, [[sb/1/5/15#purport|SB 1.5.15]]
 * as forgetfulness, [[sb/2/6/21#purport|SB 2.6.21]]
-* as nonexistence, 6 
+* as nonexistence, 6
 * as phantasmagoria, [[sb/2/2/3-4#purport|SB 2.2.3-4]]
 * as sinful, [[sb/1/8/51#purport|SB 1.8.51]]
 * as subhuman, [[sb/6/7/13#purport|SB 6.7.13]]
@@ -25,6 +25,7 @@
 * compared with spiritual life, [[bg/1/32|Bg. 1.32]]
 * conditioned soul’s two diseases of, [[sb/3/27/23#purport|SB 3.27.23]]
 * conversion of, to serving Lord, [[sb/1/5/36#purport|SB 1.5.36]]
+* cure for, [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/7/7#purport|SB 1.7.7]]
 * demigod worship as, [[sb/1/2/27#purport|SB 1.2.27]], [[sb/1/2/27#purport|SB 1.2.27]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/29/51#purport|SB 4.29.51]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/38#purport|SB 4.30.38]]
 * devotees never involved in, [[sb/6/16/29#purport|SB 6.16.29]]
 * devotees shun, [[sb/8/22/11#purport|SB 8.22.11]]
@@ -33,19 +34,20 @@
 * false direction of, [[sb/1/2/27#purport|SB 1.2.27]]
 * family’s destruction results in, [[bg/1/37–40|Bg. 1.37–40]]
 * for ”dead” persons, [[sb/2/1/4#purport|SB 2.1.4]]
+* for purpose of, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/9#purport|SB 1.2.9]], [[sb/1/5/15#purport|SB 1.5.15]]
 * freedom from, [[sb/6/5/20#purport|SB 6.5.20]]
 * happiness illusory in, [[sb/4/25/12#purport|SB 4.25.12]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/27/27#purport|SB 4.27.27]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/34#purport|SB 4.29.34]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/2#purport|SB 4.29.2]]b, [[sb/4/30/23#purport|SB 4.30.23]]
-* *See:* [[i#Illusion|Illusion]] 
-* illusion of. See: Illusion , 
+* illusion of. See: Illusion
 * illusion via, [[bg/2/2|Bg. 2.2]] (6)
 * in America, [[sb/6/7/12#purport|SB 6.7.12]]
 * in followers of Vedas, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
 * in ignorance & passion, [[sb/3/5/11#purport|SB 3.5.11]]
 * in Kali-yuga, [[sb/8/20/2#purport|SB 8.20.2]]
 * in present age, [[sb/1/1/10#purport|SB 1.1.10]], [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/5/11#purport|SB 1.5.11]]
-* literature in, 25 
+* literature in, 25
 * miseries of, four given, [[sb/2/1/2#purport|SB 2.1.2]]
 * modern disgust with, [[sb/6/16/26#purport|SB 6.16.26]]
+* neglected for, [[sb/1/1/2#purport|SB 1.1.2]]
 * nutshell description of, [[sb/2/1/3#purport|SB 2.1.3]]
 * of Dakṣa, [[sb/4/3/16#purport|SB 4.3.16]]
 * perplexities of, [[bg/2/7|Bg. 2.7]]
@@ -55,14 +57,15 @@
 * principles of, four listed, [[sb/7/5/18#purport|SB 7.5.18]]
 * quarrel result of, [[sb/1/5/11#purport|SB 1.5.11]]
 * rejection of, taught by spiritual master, [[sb/6/5/21#purport|SB 6.5.21]]
-* religion 
+* rejects, [[sb/1/1/2#purport|SB 1.1.2]]
+* religion
 * religion today as, [[sb/4/29/56#purport|SB 4.29.56]]
 * śāstras against, [[sb/6/5/20#purport|SB 6.5.20]]
 * senses seek, [[bg/2/62|Bg. 2.62]]
 * sex basis of, [[sb/7/10/2#purport|SB 7.10.2]]
 * Śiva initiates, [[sb/2/5/23#purport|SB 2.5.23]]
 * spiritual advancement blocked via, [[sb/1/8/26#purport|SB 1.8.26]], [[sb/1/8/26-27#purport|SB 1.8.26-27]]
-* Śrīmad-Bhāgavatam 
+* Śrīmad-Bhāgavatam
 * symptoms of, three, [[sb/1/7/7#purport|SB 1.7.7]]
 * transformation of, [[sb/2/3/12#purport|SB 2.3.12]]
 * Vedic literature in relation to, [[sb/1/5/15#purport|SB 1.5.15]]
@@ -72,4 +75,6 @@
 * wife induces, [[sb/6/18/30#purport|SB 6.18.30]], [[sb/6/18/40#purport|SB 6.18.40]]
 * women &, [[sb/6/18/41#purport|SB 6.18.41]]
 
-*See also:* [[a#Attachment|Attachment]]; [[f#Fruitive activity|Fruitive activity]]; [[s#Sense gratification|Sense gratification]]; material; [[b#Bodily concept of life|Bodily concept of life]]; [[l#Life|Life]]; [[m#Materialists|Materialists]]; [[m#Material life|Material life]]; [[m#Material world|Material world]]; [[b#Bondage|Bondage]]; [[d#Desires|Desires]]; [[e#Enjoyment|Enjoyment]]
+*See also:* [Attachment](entries/attachment.md); Bodily concept of life; Sense gratification; Fruitive activity; Material life; material; [Bondage](entries/bondage.md); Desires; [Life](entries/life.md); Materialists; Material world; [Enjoyment](entries/enjoyment.md)
+
+*See:* [Illusion](entries/illusion.md)

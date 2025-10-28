@@ -1,6 +1,6 @@
 # Saṅkarṣaṇa, Lord
 
-[[cc/adi/13/61#purport|Ādi 13.61]], **[[cc/adi/13/75–76#translation|Ādi 13.75–76]]**, **[[cc/adi/13/78#translation|Ādi 13.78]]**, **[[cc/adi/5/48#translation|Ādi 5.48]]**, **[[cc/adi/5/55–56#translation|Ādi 5.55–56]]**, **[[cc/adi/5/74#translation|Ādi 5.74]]**, **[[cc/madhya/20/255#translation|Madhya 20.255]]**, **[[cc/madhya/20/265#translation|Madhya 20.265]]**, [[cc/madhya/20/307#purport|Madhya 20.307]], [[sb/3/8/7#purport|SB 3.8.7]]
+**[[cc/adi/5/74#translation|Ādi 5.74]]**, **[[cc/adi/13/75–76#translation|Ādi 13.75–76]]**, **[[cc/adi/13/78#translation|Ādi 13.78]]**, **[[cc/madhya/20/255#translation|Madhya 20.255]]**, **[[cc/adi/5/55–56#translation|Ādi 5.55–56]]**, **[[cc/madhya/20/265#translation|Madhya 20.265]]**, [[cc/madhya/20/307#purport|Madhya 20.307]], **[[cc/adi/5/48#translation|Ādi 5.48]]**, [[cc/adi/13/61#purport|Ādi 13.61]], [[sb/1/2/22-23#purport|SB 1.2.22-23]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/1/9/18#purport|SB 1.9.18]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/8/7#purport|SB 3.8.7]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/26/25#purport|SB 3.26.25]], [[sb/4/17/27#purport|SB 4.17.27]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/4/24/35#purport|SB 4.24.35]], [[sb/4/24/36-36#purport|SB 4.24.36-36]], [[sb/4/24/61#purport|SB 4.24.61]], [[sb/9/24/53-55#purport|SB 9.24.53-55]], [[sb/9/24/60#purport|SB 9.24.60]]
 
 * Ananta &, [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/5/120#purport|Ādi 5.120]]
 * as Ananta (Śeṣa), [[sb/10/2/4-5#purport|SB 10.2.4-5]], [[sb/10/2/8#purport|SB 10.2.8]]
@@ -10,7 +10,7 @@
 * as expansion of Nārāyaṇa, [[sb/6/16/37#purport|SB 6.16.37]]
 * as Kṛṣṇa expansions, [[sb/7/10/42#purport|SB 7.10.42]]
 * as Kṛṣṇa’s expansion, [[sb/1/14/8#purport|SB 1.14.8]], [[sb/1/14/30#purport|SB 1.14.30]], [[sb/5/7/9#purport|SB 5.7.9]], [[sb/5/11/13-14#purport|SB 5.11.13-14]]
-* as Nārāyaṇa’s expansion, [[sb/10/1/2#purport|SB 10.1.2]], [[sb/5/17/14#purport|SB 5.17.14]]
+* as Nārāyaṇa’s expansion, [[sb/5/17/14#purport|SB 5.17.14]], [[sb/10/1/2#purport|SB 10.1.2]]
 * as original cause of creation, [[sb/5/18/23#purport|SB 5.18.23]]
 * as personal expansion, **[[cc/madhya/20/244#translation|Madhya 20.244]]**
 * as transcendental, [[sb/5/17/16#purport|SB 5.17.16]]
@@ -46,7 +46,6 @@
 * Pradyumna &, [[cc/adi/5/41#purport|Ādi 5.41]] (3 purport
 * residence of, [[cc/adi/5/40#purport|Ādi 5.40]]
 * Śaṅkarācārya &, [[cc/adi/5/41#purport|Ādi 5.41]] (8 purport
-*  [[sb/1/2/22-23#purport|SB 1.2.22-23]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/5/37#purport|SB 1.5.37]], [[sb/1/9/18#purport|SB 1.9.18]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/26/25#purport|SB 3.26.25]], [[sb/4/17/27#purport|SB 4.17.27]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/4/24/35#purport|SB 4.24.35]], [[sb/4/24/36-36#purport|SB 4.24.36-36]], [[sb/4/24/61#purport|SB 4.24.61]], [[sb/9/24/53-55#purport|SB 9.24.53-55]], [[sb/9/24/60#purport|SB 9.24.60]]
 * servitude sentiment by, **[[cc/adi/6/89#translation|Ādi 6.89]]**, **[[cc/adi/6/105–6#translation|Ādi 6.105–6]]**
 * shelter of, [[sb/6/15/28#purport|SB 6.15.28]]
 * Śiva &, [[cc/adi/6/79#purport|Ādi 6.79]]
@@ -62,4 +61,4 @@
 * Vṛtrāsura fixed mind on, [[sb/6/11/21#purport|SB 6.11.21]]
 * worship of, [[sb/3/26/21#purport|SB 3.26.21]]
 
-*See also:* [[a#Ananta|Ananta]]; Balarāma; [[c#Catur-vyūha|Catur-vyūha]]; [[s#Supreme Lord|Supreme Lord]]
+*See also:* Ananta; Balarāma; Catur-vyūha; Supreme Lord

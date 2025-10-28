@@ -1,5 +1,7 @@
 # Scripture(s)
 
+
+
 * ”contradiction” in, [[sb/3/2/16#purport|SB 3.2.16]]
 * *Bhagavad-gītā *best among, [[bg/4/40|Bg. 4.40]]
 * acceptance of, [[sb/2/6/39#purport|SB 2.6.39]]
@@ -8,6 +10,8 @@
 * as authority on Kṛṣṇa, [[sb/3/28/13#purport|SB 3.28.13]]
 * as authority on yoga, [[sb/3/25/14#purport|SB 3.25.14]]
 * as authority, [[bg/13/5|Bg. 13.5]]
+  * for leaders & teachers, [[bg/3/21|Bg. 3.21]]
+  * on duty, [[bg/16/23–24|Bg. 16.23–24]]
 * as basis for government, [[sb/6/2/3#purport|SB 6.2.3]]
 * as father, [[sb/6/5/20#purport|SB 6.5.20]]
 * as God’s laws, [[sb/3/3/13#purport|SB 3.3.13]]
@@ -45,7 +49,7 @@
 * incarnations predicted in, [[bg/4/7|Bg. 4.7]]
 * knowledge about Lord via, [[bg/8/9|Bg. 8.9]]
 * knowledge from, [[sb/4/29/13-13#purport|SB 4.29.13-13]]
-* Kṛṣṇa accepted as Lord by, 3 
+* Kṛṣṇa accepted as Lord by, 3
 * Kṛṣṇa’s supremacy supported by, [[bg/10/7|Bg. 10.7]], [[bg/10/8|Bg. 10.8]]
 * leaders & teachers must follow, [[bg/3/21|Bg. 3.21]]
 * Lord cites, [[bg/18/5|Bg. 18.5]], [[bg/18/13|Bg. 18.13]]
@@ -63,6 +67,20 @@
 * piety taught in, [[sb/3/25/26#purport|SB 3.25.26]]
 * purpose of, [[sb/2/2/14#purport|SB 2.2.14]], [[sb/2/5/15#purport|SB 2.5.15]], [[sb/2/10/4#purport|SB 2.10.4]], [[sb/2/10/6#purport|SB 2.10.6]]
 * regulations of, [[bg/16/23–24|Bg. 16.23–24]], [[sb/4/26/6#purport|SB 4.26.6]]
+  * *See also:* Regulative principles
+  * demons don’t follow, [[bg/16/7|Bg. 16.7]]
+  * destroyed by irresponsible work, [[bg/18/25|Bg. 18.25]]
+  * disregard of, in ignorance mode, [[bg/18/28|Bg. 18.28]]
+  * followers of, [[bg/6/40|Bg. 6.40]]
+  * following, necessity of, [[bg/16/22|Bg. 16.22]], [[bg/16/23–24|Bg. 16.23–24]], [[bg/17/5|Bg. 17.5]]
+  * for fasting, [[bg/17/5|Bg. 17.5]]
+  * for sacrifice, charity, & penance, [[bg/17/24|Bg. 17.24]]
+  * neglect of, [[bg/16/23–24|Bg. 16.23–24]], [[bg/17/1–2|Bg. 17.1–2]], [[bg/17/5|Bg. 17.5]]
+  * obedience to, required, [[bg/17/14|Bg. 17.14]], [[bg/18/30|Bg. 18.30]]
+  * political fasts &, [[bg/17/5|Bg. 17.5]]
+  * sacrifice outside of, [[bg/17/13|Bg. 17.13]]
+  * violated knowingly, [[bg/16/23|Bg. 16.23]]
+  * work judged according to, [[bg/18/15|Bg. 18.15]]
 * required, [[sb/4/26/12#purport|SB 4.26.12]]
 * seeing via, [[sb/2/6/29#purport|SB 2.6.29]]
 * sex life according to, [[sb/3/14/30#purport|SB 3.14.30]]
@@ -74,6 +92,6 @@
 * vary in nature, [[sb/1/1/11#purport|SB 1.1.11]]
 * yogīs must read, [[sb/3/28/4-4#purport|SB 3.28.4-4]]
 
-*See also:* [[b#Bhagavad-gītā|Bhagavad-gītā]]; [[b#Brahma-saṁhitā|Brahma-saṁhitā]]; [[p#Purāṇas|Purāṇas]]; [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]]; [[v#Vedic literature|Vedic literature]]; specific scriptures; [[v#Vedas|Vedas]]; specific Vedic literatures
+*See also:* Bhagavad-gītā; Brahma-saṁhitā; Purāṇas; Śrīmad-Bhāgavatam; Vedic literature; specific scriptures; Vedas; specific Vedic literatures; regulations of
 
-*See:* [[v#Vedic literatures|Vedic literatures]]; specific scriptures
+*See:* Vedic literatures; specific scriptures

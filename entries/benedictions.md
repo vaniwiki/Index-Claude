@@ -1,9 +1,13 @@
-# Benediction(s)
+# Benedictions
 
-*  [[bg/2/33|Bg. 2.33]], [[bg/18/73|Bg. 18.73]]
+[[bg/2/33|Bg. 2.33]], [[bg/18/73|Bg. 18.73]]
+
+* as best, [[sb/4/30/33#purport|SB 4.30.33]]
+* as beyond expectation, [[sb/4/8/40#purport|SB 4.8.40]]
 * by demigods, [[sb/4/8/23#purport|SB 4.8.23]], [[sb/4/12/9#purport|SB 4.12.9]], [[sb/4/19/40#purport|SB 4.19.40]]
 * by Lord, [[sb/4/24/42-42#purport|SB 4.24.42-42]]
 * by Śiva quickly bestowed, [[sb/9/9/8#purport|SB 9.9.8]]
+* compared with demigods’, [[sb/4/8/23#purport|SB 4.8.23]]
 * devotee’s desire for, as honest, [[sb/4/8/36#purport|SB 4.8.36]]
 * devotional service excels material, [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/12/8#purport|SB 4.12.8]]
 * Dhruva asks, from Nārada, [[sb/4/8/37#purport|SB 4.8.37]], [[sb/4/8/38#purport|SB 4.8.38]]
@@ -11,18 +15,18 @@
 * Dhruva desired, [[sb/4/30/31#purport|SB 4.30.31]]
 * easy from Śiva, [[sb/4/7/6#purport|SB 4.7.6]]
 * for devotee, [[sb/9/18/43#purport|SB 9.18.43]]
-* for hearing *Bhagavad-gītā, * 18.71
+* for hearing *Bhagavad-gītā, *, 18.71
 * for hearing causes of devastation, [[sb/4/8/5#purport|SB 4.8.5]]
 * for hearing of Dakṣa’s yajña, [[sb/4/7/61#purport|SB 4.7.61]]
 * for hearing of Kardama’s descendants, [[sb/4/1/46-47#purport|SB 4.1.46-47]]
 * for hearing Śrīmad-Bhāgavatam, [[sb/4/29/83-85#purport|SB 4.29.83-85]], [[sb/4/31/31#purport|SB 4.31.31]]
+* for Pracetās, [[sb/4/30/2-3#purport|SB 4.30.2-3]], [[sb/4/30/8#purport|SB 4.30.8]], [[sb/4/30/17-18#purport|SB 4.30.17-18]], [[sb/4/30/38-38#purport|SB 4.30.38-38]]
 * for preaching *Bhagavad-gītā *philosophy, [[bg/18/68–69|Bg. 18.68–69]]
 * for understanding Kṛṣṇa’s appearance & activities, [[bg/4/9|Bg. 4.9]]
 * from brāhmaṇas to Yuvanāśva, [[sb/9/6/32#purport|SB 9.6.32]]
 * from demigods, [[sb/4/30/38#purport|SB 4.30.38]], [[sb/6/9/50#purport|SB 6.9.50]], [[sb/9/21/16#purport|SB 9.21.16]]
 * from Hare Kṛṣṇa movement to society, [[sb/9/7/7#purport|SB 9.7.7]]
 * from Jamadagni to Paraśurāma, [[sb/9/16/7#purport|SB 9.16.7]], [[sb/9/16/8#purport|SB 9.16.8]]
-* from Lord 
 * from Lord, [[sb/4/8/35#purport|SB 4.8.35]], [[sb/4/8/41#purport|SB 4.8.41]], [[sb/6/9/49-50#purport|SB 6.9.49-50]]
 * from reading this book, [[sb/6/13/22-23#purport|SB 6.13.22-23]]
 * from serpents to Purukutsa & snake-fearers, [[sb/9/7/3#purport|SB 9.7.3]]
@@ -30,23 +34,29 @@
 * from Varuṇa to Hariścandra, [[sb/9/7/9#purport|SB 9.7.9]]
 * Hare Kṛṣṇa mantra as, [[sb/4/7/6#purport|SB 4.7.6]]
 * in devotional service to Lord, [[sb/4/8/59-60#purport|SB 4.8.59-60]]
+* infallible, [[sb/9/1/18#purport|SB 9.1.18]]
 * Khaṭvāṅga uninterested in, [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/9/45#purport|SB 9.9.45]]
-* Lord sanctions, [[sb/4/8/41#purport|SB 4.8.41]]
-* of Brahmā on Kālanemi’s sons, N113 
+* Lord sanctions, [[sb/4/8/41#purport|SB 4.8.41]], [[sb/4/8/41#purport|SB 4.8.41]]
+* of Brahmā on Kālanemi’s sons, N113
 * of Caitanya in Hare Kṛṣṇa mantra, [[sb/10/3/37-38#purport|SB 10.3.37-38]]
 * of demigods on devotees, [[sb/4/24/27#purport|SB 4.24.27]]
 * of Kṛṣṇa on Vasudeva (Sutapā) & Devakī (Pṛśni), [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/10/3/39-40#purport|SB 10.3.39-40]]
 * of Śukrācārya to Yayāti, [[sb/9/18/37#purport|SB 9.18.37]]
 * of understanding transmigration, [[sb/4/29/85#purport|SB 4.29.85]]
 * on brāhmaṇa by Sanātana, [[sb/4/7/6#purport|SB 4.7.6]]
+* on devotee, [[sb/4/20/30#purport|SB 4.20.30]]
+* on Manu’s behalf, [[sb/9/1/22#purport|SB 9.1.22]]
+* on Sudyumna’s behalf, [[sb/9/1/38-39#purport|SB 9.1.38-39]]
 * Prahlāda declined, [[sb/9/11/6#purport|SB 9.11.6]]
 * Rāvaṇa misused, [[sb/4/30/38#purport|SB 4.30.38]]
 * spiritual, from Śiva, [[sb/4/7/6#purport|SB 4.7.6]]
 * story of, [[sb/4/27/12#purport|SB 4.27.12]]
 * to earth planet, [[sb/6/9/7#purport|SB 6.9.7]]
+* to Nimi, [[sb/9/13/11#purport|SB 9.13.11]]
 * to trees, [[sb/6/9/8#purport|SB 6.9.8]]
-* to Vasiṣṭha 
+* to Vasiṣṭha
 * to water, [[sb/6/9/10#purport|SB 6.9.10]]
 * to women, [[sb/6/9/9#purport|SB 6.9.9]]
 * via prayers by Śiva, [[sb/4/30/10#purport|SB 4.30.10]]
 * via remembering Pracetās, [[sb/4/30/9#purport|SB 4.30.9]], [[sb/4/30/10#purport|SB 4.30.10]]
+* worship for, [[sb/4/8/23#purport|SB 4.8.23]]

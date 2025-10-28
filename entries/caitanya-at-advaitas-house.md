@@ -1,6 +1,6 @@
 # Caitanya at Advaitas house
 
-**[[cc/madhya/1/94–95#translation|Madhya 1.94–95]]**, **[[cc/madhya/3/156#translation|Madhya 3.156]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/3/201#translation|Madhya 3.201]]**, **[[cc/madhya/3/57#translation|Madhya 3.57]]**, **[[cc/madhya/3/64–65#translation|Madhya 3.64–65]]**, **[[cc/madhya/3/65–66#translation|Madhya 3.65–66]]**, **[[cc/madhya/3/69–78#translation|Madhya 3.69–78]]**
+**[[cc/madhya/1/94–95#translation|Madhya 1.94–95]]**, **[[cc/madhya/3/57#translation|Madhya 3.57]]**, **[[cc/madhya/3/64–65#translation|Madhya 3.64–65]]**, **[[cc/madhya/3/65–66#translation|Madhya 3.65–66]]**, **[[cc/madhya/3/69–78#translation|Madhya 3.69–78]]**, **[[cc/madhya/3/156#translation|Madhya 3.156]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/3/201#translation|Madhya 3.201]]**
 
 * “Vṛndāvana” journey &, **[[cc/madhya/3/20–22#translation|Madhya 3.20–22]]**, **[[cc/madhya/3/30–33#translation|Madhya 3.30–33]]**
 * Advaita’s invitation &, **[[cc/madhya/3/38–40#translation|Madhya 3.38–40]]**

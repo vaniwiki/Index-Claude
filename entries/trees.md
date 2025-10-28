@@ -1,5 +1,8 @@
 # Tree(s)
 
+[[sb/1/11/12-13#purport|SB 1.11.12-13]]
+
+* ”of work,”, [[sb/1/5/34#purport|SB 1.5.34]], [[sb/1/5/34#purport|SB 1.5.34]]
 * as Lord’s creation, [[sb/6/4/8#purport|SB 6.4.8]]
 * as nonmoving, [[sb/10/13/51#purport|SB 10.13.51]]
 * as offspring of Kaśyapa, [[sb/6/6/28#purport|SB 6.6.28]]
@@ -13,7 +16,7 @@
 * at Uttānapāda’s reception for Dhruva, [[sb/4/9/54#purport|SB 4.9.54]]
 * banyan tree of Śiva, [[sb/4/6/31#purport|SB 4.6.31]], [[sb/4/6/32#purport|SB 4.6.32]]
 * birds in, analogy of, [[sb/4/24/64#purport|SB 4.24.64]]
-* body compared to, [[sb/10/2/27-27#purport|SB 10.2.27-27]], [[sb/8/19/39-39#purport|SB 8.19.39-39]], [[sb/8/19/40#purport|SB 8.19.40]]
+* body compared to, [[sb/8/19/39-39#purport|SB 8.19.39-39]], [[sb/8/19/40#purport|SB 8.19.40]], [[sb/10/2/27-27#purport|SB 10.2.27-27]]
 * Brahmā advised, [[sb/4/30/47-48#purport|SB 4.30.47-48]]
 * burned by Pracetās, [[sb/4/30/45-46#purport|SB 4.30.45-46]]
 * consciousness of, [[sb/10/10/20-22#purport|SB 10.10.20-22]]
@@ -27,13 +30,14 @@
 * in Indra’s city, [[sb/8/15/12#purport|SB 8.15.12]]
 * in Kailāsa, [[sb/4/6/13-18#purport|SB 4.6.13-18]]
 * in Kali-yuga, [[sb/4/19/8#purport|SB 4.19.8]]
-* in Vṛndāvana, [[sb/10/13/59#purport|SB 10.13.59]], [[sb/3/2/27#purport|SB 3.2.27]]
+* in Vṛndāvana, [[sb/3/2/27#purport|SB 3.2.27]], [[sb/10/13/59#purport|SB 10.13.59]]
 * Indra cites favor of, [[sb/6/13/5#purport|SB 6.13.5]]
 * Indra’s benediction on, [[sb/6/9/8#purport|SB 6.9.8]]
 * Indra’s sinful reactions accepted by, [[sb/6/9/6#purport|SB 6.9.6]], [[sb/6/9/8#purport|SB 6.9.8]]
 * juices for, [[sb/4/18/25#purport|SB 4.18.25]]
 * kapittha, [[sb/10/11/43#purport|SB 10.11.43]]
 * livelihood provided via, [[sb/10/13/59-59#purport|SB 10.13.59-59]]
+* Lord as compared to, [[sb/1/1/4#purport|SB 1.1.4]], [[sb/1/5/14#purport|SB 1.5.14]], [[sb/1/5/20#purport|SB 1.5.20]]
 * Nārada cursed Nalakūvara & Maṇigrīva to become, [[sb/10/10/20-22#purport|SB 10.10.20-22]], [[sb/10/10/20-22#purport|SB 10.10.20-22]]
 * on Earth & heavenly planets, [[sb/4/9/63#purport|SB 4.9.63]]
 * on higher planets, [[sb/8/2/6#purport|SB 8.2.6]]

@@ -6,6 +6,6 @@
 * of animal flesh forbidden in Kali-yuga, [[sb/9/6/7#purport|SB 9.6.7]]
 * of food to Deity, [[sb/9/6/8#purport|SB 9.6.8]]
 * of goats to Goddess Kālī, [[sb/9/6/7#purport|SB 9.6.7]]
-* to forefathers. See: Śrāddha ceremony 
+* to forefathers. See: Śrāddha ceremony
 
-*See also:* [[s#Sacrifices|Sacrifices]]
+*See also:* Sacrifices

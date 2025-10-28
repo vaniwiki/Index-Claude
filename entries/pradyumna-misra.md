@@ -1,6 +1,6 @@
 # Pradyumna Miśra
 
-**[[cc/antya/20/110#translation|Antya 20.110]]**, **[[cc/antya/5/4–10#translation|Antya 5.4–10]]**, **[[cc/antya/5/52–54#translation|Antya 5.52–54]]**, **[[cc/madhya/25/229#translation|Madhya 25.229]]**
+**[[cc/madhya/25/229#translation|Madhya 25.229]]**, **[[cc/antya/5/4–10#translation|Antya 5.4–10]]**, **[[cc/antya/5/52–54#translation|Antya 5.52–54]]**, **[[cc/antya/20/110#translation|Antya 20.110]]**
 
 * “Dāsa” title of, **[[cc/madhya/10/43#translation|Madhya 10.43]]**
 * Caitanya worshiped by, **[[cc/antya/5/68–69#translation|Antya 5.68–69]]**

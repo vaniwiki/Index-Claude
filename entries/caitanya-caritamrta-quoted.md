@@ -1,9 +1,17 @@
 # Caitanya-caritāmṛta quoted
 
-[[cc/antya/4/173#purport|Antya 4.173]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/madhya/19/114#purport|Madhya 19.114]], [[cc/madhya/19/151#purport|Madhya 19.151]], [[cc/madhya/19/155#purport|Madhya 19.155]], [[cc/madhya/19/155#purport|Madhya 19.155]], [[cc/madhya/25/9#purport|Madhya 25.9]]
+[[cc/madhya/19/114#purport|Madhya 19.114]], [[cc/madhya/25/9#purport|Madhya 25.9]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/madhya/19/155#purport|Madhya 19.155]], [[cc/madhya/19/151#purport|Madhya 19.151]], [[cc/antya/4/173#purport|Antya 4.173]], [[cc/madhya/19/155#purport|Madhya 19.155]]
 
+* as Hare Kṛṣṇa mantra, [[sb/10/2/20#purport|SB 10.2.20]]
+* as master & all others as servants, [[sb/4/27/27#purport|SB 4.27.27]], [[sb/4/30/38#purport|SB 4.30.38]]
+* as master of all, [[sb/10/9/20#purport|SB 10.9.20]], [[sb/10/13/51#purport|SB 10.13.51]], [[sb/10/13/53#purport|SB 10.13.53]]
+* as supreme controller, [[sb/4/27/27#purport|SB 4.27.27]], [[sb/4/30/38#purport|SB 4.30.38]]
+* association with, [[sb/4/25/6#purport|SB 4.25.6]], [[sb/4/25/11#purport|SB 4.25.11]], [[sb/4/28/55#purport|SB 4.28.55]]
 * birth in, [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/antya/3/51#purport|Antya 3.51]]
-* Caitanya-caritāmṛta cited , , 
+* Caitanya-caritāmṛta cited
+* complete perfection via, [[sb/4/28/39#purport|SB 4.28.39]], [[sb/4/31/14#purport|SB 4.31.14]], [[sb/4/31/18#purport|SB 4.31.18]]
+* for freedom from māyā, [[sb/4/29/29#purport|SB 4.29.29]]
+* intelligence of, [[sb/4/26/16#purport|SB 4.26.16]]
 * on advanced devotee, [[sb/9/9/44#purport|SB 9.9.44]]
 * on associating with devotees, [[sb/10/4/43#purport|SB 10.4.43]]
 * on association with devotee, [[sb/4/24/59#purport|SB 4.24.59]]
@@ -27,10 +35,10 @@
 * on devotee’s activities as inconceivable, [[sb/7/8/40#purport|SB 7.8.40]]
 * on devotee’s humility, [[sb/7/1/27#purport|SB 7.1.27]]
 * on devotee’s vision, [[sb/7/4/37#purport|SB 7.4.37]]
-* on devotees 
+* on devotees
 * on devotees, karmīs, jñānīs, & yogīs, [[sb/8/9/28#purport|SB 8.9.28]]
 * on devotees’ seeing Kṛṣṇa everywhere, [[cc/madhya/9/360#purport|Madhya 9.360]]
-* on devotional service 
+* on devotional service
 * on devotional service via spiritual master & Kṛṣṇa, [[sb/10/2/31#purport|SB 10.2.31]], [[sb/10/3/27#purport|SB 10.3.27]]
 * on devotional service via spiritual master, [[sb/7/9/21#purport|SB 7.9.21]]
 * on duality of material world, [[sb/9/13/27#purport|SB 9.13.27]]
@@ -46,13 +54,12 @@
 * on jñānīs compared with karmīs, [[sb/4/25/3#purport|SB 4.25.3]]
 * on judgment, [[cc/madhya/16/74#purport|Madhya 16.74]]
 * on knowing Kṛṣṇa, [[sb/8/17/9#purport|SB 8.17.9]]
-* on Kṛṣṇa , 
-* on Kṛṣṇa as master, others as servants, [[sb/3/28/22#purport|SB 3.28.22]], [[sb/3/29/38#purport|SB 3.29.38]]
 * on Kṛṣṇa as master, [[sb/4/7/43#purport|SB 4.7.43]]
+* on Kṛṣṇa as master, others as servants, [[sb/3/28/22#purport|SB 3.28.22]], [[sb/3/29/38#purport|SB 3.29.38]]
 * on Kṛṣṇa as sole master, [[sb/6/12/10#purport|SB 6.12.10]]
 * on Kṛṣṇa, [[cc/adi/13/5#purport|Ādi 13.5]]
 * on Kṛṣṇadāsa Kavirāja, [[sb/7/9/8#purport|SB 7.9.8]]
-* on living entity , 
+* on living entity
 * on living entity as Lord’s servant, [[sb/4/24/77#purport|SB 4.24.77]]
 * on Lord as light, nescience as darkness, [[sb/4/30/5#purport|SB 4.30.5]]
 * on Lord empowering us to glorify Him, [[sb/4/19/37#purport|SB 4.19.37]]
@@ -83,7 +90,12 @@
 * on uttama-adhikārī, [[cc/madhya/16/74#purport|Madhya 16.74]], [[cc/adi/2/117#purport|Ādi 2.117]]
 * on wandering of living entities, [[sb/6/1/2#purport|SB 6.1.2]]
 * on Westerners, [[sb/4/25/52#purport|SB 4.25.52]]
+* real progress for, [[sb/4/29/18-20#purport|SB 4.29.18-20]]
+* receiving seed of devotional service, [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/13#purport|SB 10.10.13]]
+* seed of, [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/28/55#purport|SB 4.28.55]], [[sb/4/29/46#purport|SB 4.29.46]]
 * types of, [[cc/madhya/16/72#purport|Madhya 16.72]]
 * understanding Lord &, [[cc/madhya/15/108#purport|Madhya 15.108]]
+* wandering in universe, N101
+* wandering, [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/28/55#purport|SB 4.28.55]], [[sb/4/29/46#purport|SB 4.29.46]]
 
-*See also:* [[c#Caitanya-caritāmṛta cited|Caitanya-caritāmṛta cited]]
+*See also:* Caitanya-caritāmṛta cited

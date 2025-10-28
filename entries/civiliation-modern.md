@@ -8,4 +8,4 @@
 * producing Rākṣasas (man-eaters), [[sb/10/4/15#purport|SB 10.4.15]]
 * Vedic culture compared with, [[sb/10/7/4#purport|SB 10.7.4]]
 
-*See also:* [[s#Society|Society]]; human; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* [Society](entries/society.md); human; Varṇāśrama-dharma

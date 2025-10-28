@@ -1,0 +1,28 @@
+# Prayer(s) to Kṛṣṇa
+
+* by demigods, [[sb/10/2/25-40#purport|SB 10.2.25-40]]
+* by Devakī, [[sb/10/3/23-31#purport|SB 10.3.23-31]]
+* by Nalakūvara & Maṇigrīva, [[sb/10/10/29#purport|SB 10.10.29]], [[sb/10/10/30-33#purport|SB 10.10.30-33]], [[sb/10/10/34-38#purport|SB 10.10.34-38]]
+* by Vasudeva, [[sb/10/3/12-22#purport|SB 10.3.12-22]]
+* on body & soul, [[sb/10/3/18#purport|SB 10.3.18]]
+* on body, [[sb/10/2/27#purport|SB 10.2.27]]
+* on devotees, [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/2/37#purport|SB 10.2.37]]
+* on Kaṁsa, [[sb/10/3/22#purport|SB 10.3.22]]
+* on Lord & creation, [[sb/10/3/14#purport|SB 10.3.14]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/19#purport|SB 10.3.19]]
+* on Lord & living entities, [[sb/10/2/39#purport|SB 10.2.39]]
+* on Lord as cause of all causes, [[sb/10/3/24#purport|SB 10.3.24]]
+* on Lord as cause of cosmos, [[sb/10/2/28#purport|SB 10.2.28]]
+* on Lord as death’s dispeller, [[sb/10/3/27#purport|SB 10.3.27]]
+* on Lord as protector, [[sb/10/3/21#purport|SB 10.3.21]]
+* on Lord as Supreme Person, [[sb/10/3/13#purport|SB 10.3.13]]
+* on Lord as Supreme Truth, [[sb/10/2/26#purport|SB 10.2.26]]
+* on Lord as time’s controller, [[sb/10/3/26#purport|SB 10.3.26]]
+* on Lord at cosmic annihilation, [[sb/10/3/25#purport|SB 10.3.25]]
+* on Lord’s forms, [[sb/10/3/20#purport|SB 10.3.20]]
+* on Lord’s incarnations, [[sb/10/2/29#purport|SB 10.2.29]], [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/2/40#purport|SB 10.2.40]]
+* on Lord’s lotus feet as transcendental shelter, [[sb/10/2/30#purport|SB 10.2.30]], [[sb/10/2/31#purport|SB 10.2.31]], [[sb/10/2/38#purport|SB 10.2.38]]
+* on Lord’s transcendental form, [[sb/10/3/28#purport|SB 10.3.28]], [[sb/10/3/30-31#purport|SB 10.3.30-31]]
+* on Lord’s transcendental nature, [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]]
+* on nondevotees, [[sb/10/2/32#purport|SB 10.2.32]]
+
+*See also:* [Worship](entries/worship.md)

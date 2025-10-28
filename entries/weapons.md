@@ -1,16 +1,19 @@
 # Weapon(s)
 
-* *pāśupata-astra, * 2.33
+* *pāśupata-astra, *, 2.33
 * Arjuna won, [[sb/1/15/12#purport|SB 1.15.12]]
-* atomic, [[sb/9/4/70#purport|SB 9.4.70]]
-* atomic. See: Nuclear weapon(s) 
+* atomic. See: Nuclear weapon(s), [[sb/9/4/70#purport|SB 9.4.70]]
+* bow, [[sb/8/20/30#purport|SB 8.20.30]]
 * brahmāstra, [[sb/9/22/34#purport|SB 9.22.34]]
+* club, [[sb/8/20/31#purport|SB 8.20.31]]
+* disc, [[sb/8/3/31#purport|SB 8.3.31]], [[sb/8/3/33#purport|SB 8.3.33]], [[sb/8/20/30#purport|SB 8.20.30]], [[sb/8/22/34#purport|SB 8.22.34]]
 * from Viśvajit-yajña, [[sb/8/15/7#purport|SB 8.15.7]]
 * Hare Kṛṣṇa mantra as, [[sb/4/11/1#purport|SB 4.11.1]]
 * in demigod-demon battle, [[sb/8/10/6#purport|SB 8.10.6]], [[sb/8/10/35#purport|SB 8.10.35]], [[sb/8/10/36#purport|SB 8.10.36]], [[sb/8/10/41-51#purport|SB 8.10.41-51]], [[sb/8/10/56#purport|SB 8.10.56]], [[sb/8/10/57#purport|SB 8.10.57]], [[sb/8/11/2#purport|SB 8.11.2]], [[sb/8/11/6#purport|SB 8.11.6]], [[sb/8/11/10#purport|SB 8.11.10]], [[sb/8/11/12#purport|SB 8.11.12]], [[sb/8/11/18#purport|SB 8.11.18]], [[sb/8/11/20-24#purport|SB 8.11.20-24]], [[sb/8/11/26-32#purport|SB 8.11.26-32]], [[sb/8/11/39#purport|SB 8.11.39]], [[sb/8/11/40#purport|SB 8.11.40]]
 * in Lord’s hands, [[sb/4/7/20#purport|SB 4.7.20]]
 * Kṛṣṇa’s representation among, [[bg/10/28|Bg. 10.28]]
 * nuclear, [[bg/2/23|Bg. 2.23]]
+  * of demons, [[bg/16/9|Bg. 16.9]]
 * of Bali, [[sb/8/15/8-9#purport|SB 8.15.8-9]]
 * of demons, [[sb/8/21/13#purport|SB 8.21.13]]
 * of different ages, [[bg/2/23|Bg. 2.23]]
@@ -20,7 +23,6 @@
 * of Kurus, [[bg/1/9|Bg. 1.9]]
 * of Lakṣmaṇa, [[sb/9/10/20#purport|SB 9.10.20]]
 * of Lord, [[sb/8/9/25#purport|SB 8.9.25]], [[sb/8/10/54#purport|SB 8.10.54]], [[sb/8/10/57#purport|SB 8.10.57]]
-* of Lord. See: Sudarśana cakra 
 * of material elements, [[bg/2/23|Bg. 2.23]]
 * of Paraśurāma, [[sb/9/15/28#purport|SB 9.15.28]], [[sb/9/15/29#purport|SB 9.15.29]], [[sb/9/15/31-34#purport|SB 9.15.31-34]]
 * of Pṛṣadhra, [[sb/9/2/3-7#purport|SB 9.2.3-7]]
@@ -32,8 +34,11 @@
 * of Rohita, [[sb/9/7/16#purport|SB 9.7.16]]
 * of Sudyumna for hunting, [[sb/9/1/23-24#purport|SB 9.1.23-24]]
 * of Yakṣas, [[sb/4/10/11-12#purport|SB 4.10.11-12]], [[sb/4/10/24-25#purport|SB 4.10.24-25]]
+* prayed to Lord, [[sb/8/20/31#purport|SB 8.20.31]]
 * soul invulnerable to, [[bg/2/23|Bg. 2.23]]
-* Sudarśana. See: Sudarśana cakra 
-* ultimate. See: Brahmāstra 
+* Sudarśana. See: Sudarśana cakra
+* sword, [[sb/8/20/31#purport|SB 8.20.31]]
+* two listed, [[sb/8/6/3-7#purport|SB 8.6.3-7]]
+* ultimate. See: Brahmāstra
 
-*See also:* [[w#War|War]]; [[p#Power|Power]]
+*See also:* [Power](entries/power.md); [War](entries/wars.md)

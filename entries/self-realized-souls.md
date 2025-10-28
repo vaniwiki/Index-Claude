@@ -7,6 +7,6 @@
 * serves Lord, [[sb/4/23/9#purport|SB 4.23.9]]
 * two types of, [[sb/4/24/33#purport|SB 4.24.33]]
 
-*See also:* [[a#Authorities|Authorities]]; spiritual; Devotees; Liberateds soul; Pure devotees; [[m#Mahājanas|Mahājanas]]; [[m#Mahātmās|Mahātmās]]; [[p#Paramahaṁsas|Paramahaṁsas]]; Spirituals master; Pures devotee
+*See also:* Authorities; spiritual; Devotees; Liberateds soul; Pure devotees; Mahājanas; Mahātmās; Paramahaṁsas; Spirituals master; Pures devotee
 
-*See:* Devotees; Liberateds soul; [[m#Mahātmās|Mahātmās]]; Pure devotees; Saintlies person; Spirituals master
+*See:* Devotees; Liberateds soul; Mahātmās; Pure devotees; Saintlies person; Spirituals master

@@ -1,6 +1,6 @@
 # Keśava Kāśmīrī
 
-**[[cc/adi/16/105–6#translation|Ādi 16.105–6]]**, **[[cc/adi/16/36#translation|Ādi 16.36]]**, **[[cc/adi/16/82–86#translation|Ādi 16.82–86]]**, **[[cc/adi/16/89–90#translation|Ādi 16.89–90]]**, **[[cc/adi/16/91–92#translation|Ādi 16.91–92]]**, **[[cc/adi/16/95–97#translation|Ādi 16.95–97]]**
+**[[cc/adi/16/91–92#translation|Ādi 16.91–92]]**, **[[cc/adi/16/82–86#translation|Ādi 16.82–86]]**, **[[cc/adi/16/36#translation|Ādi 16.36]]**, **[[cc/adi/16/89–90#translation|Ādi 16.89–90]]**, **[[cc/adi/16/95–97#translation|Ādi 16.95–97]]**, **[[cc/adi/16/105–6#translation|Ādi 16.105–6]]**
 
 * Caitanya approached by, **[[cc/adi/16/29–32#translation|Ādi 16.29–32]]**
 * Caitanya astonishes, **[[cc/adi/16/42–43#translation|Ādi 16.42–43]]**, **[[cc/adi/16/87–88#translation|Ādi 16.87–88]]**

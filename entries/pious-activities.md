@@ -1,8 +1,9 @@
 # Pious activities
 
-**[[cc/adi/3/79#translation|Ādi 3.79]]**, **[[cc/adi/8/17#translation|Ādi 8.17]]**, [[cc/adi/8/24#purport|Ādi 8.24]], [[cc/madhya/22/45#purport|Madhya 22.45]], [[cc/madhya/22/51#purport|Madhya 22.51]], [[cc/madhya/23/109#purport|Madhya 23.109]], [[cc/madhya/23/116#purport|Madhya 23.116]], [[cc/madhya/5/22#purport|Madhya 5.22]], **[[cc/madhya/8/70#translation|Madhya 8.70]]**, **[[cc/madhya/8/75#translation|Madhya 8.75]]**, [[cc/madhya/9/263#purport|Madhya 9.263]], [[cc/madhya/9/49#purport|Madhya 9.49]], [[sb/2/4/17#purport|SB 2.4.17]]
+**[[cc/adi/3/79#translation|Ādi 3.79]]**, **[[cc/adi/8/17#translation|Ādi 8.17]]**, [[cc/adi/8/24#purport|Ādi 8.24]], [[cc/madhya/5/22#purport|Madhya 5.22]], **[[cc/madhya/8/70#translation|Madhya 8.70]]**, **[[cc/madhya/8/75#translation|Madhya 8.75]]**, [[cc/madhya/9/49#purport|Madhya 9.49]], [[cc/madhya/9/263#purport|Madhya 9.263]], [[cc/madhya/22/45#purport|Madhya 22.45]], [[cc/madhya/22/51#purport|Madhya 22.51]], [[cc/madhya/23/109#purport|Madhya 23.109]], [[cc/madhya/23/116#purport|Madhya 23.116]], [[sb/2/4/17#purport|SB 2.4.17]]
 
 * as Lord’s front, [[sb/4/24/60#purport|SB 4.24.60]]
+* as temporary, [[sb/5/14/41#purport|SB 5.14.41]]
 * as worship to Lord for gain, [[sb/4/8/23#purport|SB 4.8.23]]
 * birth according to, [[sb/4/21/27#purport|SB 4.21.27]]
 * bondage via, [[sb/5/5/5#purport|SB 5.5.5]], [[sb/5/11/4#purport|SB 5.11.4]]
@@ -16,6 +17,7 @@
 * Dhruva exemplary in, [[sb/4/8/8#purport|SB 4.8.8]]
 * diminished via happiness, [[sb/4/8/33#purport|SB 4.8.33]]
 * elevation via, [[sb/4/22/36#purport|SB 4.22.36]]
+* enjoyed in eight earthly varṣas, [[sb/5/17/11#purport|SB 5.17.11]]
 * hearing about Lord as, [[sb/4/22/22-22#purport|SB 4.22.22-22]]
 * heavenly elevation exhausts, [[sb/4/9/10#purport|SB 4.9.10]]
 * heavenly life via, [[sb/5/17/11#purport|SB 5.17.11]], [[sb/5/26/2#purport|SB 5.26.2]], [[sb/5/26/2#purport|SB 5.26.2]]
@@ -34,11 +36,11 @@
 * of Vṛndāvana’s residents in past lives, [[sb/10/12/12#purport|SB 10.12.12]]
 * perfection via, [[sb/10/8/48#purport|SB 10.8.48]]
 * pure devotees’association via, [[sb/5/19/20#purport|SB 5.19.20]]
-* results of 
+* results of
 * results of, as temporary, [[bg/2/8|Bg. 2.8]]
 * unintentional, [[sb/4/21/27#purport|SB 4.21.27]], [[sb/4/22/7#purport|SB 4.22.7]]
 * Vedic injunctions on, [[sb/10/7/32#purport|SB 10.7.32]]
 * Vedic instruction &, [[sb/5/11/2#purport|SB 5.11.2]]
 * via hearing causes of devastation, [[sb/4/8/5#purport|SB 4.8.5]]
 
-*See also:* Philanthropic activities; [[w#Welfare work|Welfare work]]; [[p#Piety|Piety]]; [[w#Welfare activities|Welfare activities]]
+*See also:* [Piety](entries/piety.md); Philanthropic activities; Welfare work; Welfare activities

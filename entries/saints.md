@@ -1,4 +1,4 @@
-# Saint(s)
+# Saints
 
 * activities of, [[sb/7/10/50#purport|SB 7.10.50]]
 * as grave, [[sb/7/13/23#purport|SB 7.13.23]]
@@ -22,6 +22,6 @@
 * Śiva worshiped by, [[sb/8/7/20#purport|SB 8.7.20]]
 * Viṣṇu worshiped by, [[sb/8/20/11#purport|SB 8.20.11]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; Devotees; [[s#Sages|Sages]]; Spirituals master; [[t#Transcendentalists|Transcendentalists]]; [[p#Paramahaṁsas|Paramahaṁsas]]; specific saints; Saintly person
+*See also:* Brāhmaṇas; Devotees; Sages; Spirituals master; Transcendentalists; Paramahaṁsas; specific saints; Saintly person
 
 *See:* Saintlies person

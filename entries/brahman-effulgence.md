@@ -1,5 +1,7 @@
 # Brahman effulgence
 
+
+
 * as caused by Lord, [[sb/2/6/33#purport|SB 2.6.33]]
 * as concentrated in Goloka Vṛndāvana, [[sb/2/4/14#purport|SB 2.4.14]]
 * as creation’s potential energy, [[sb/2/5/11#purport|SB 2.5.11]]
@@ -20,7 +22,7 @@
 * happiness in, [[sb/7/7/37#purport|SB 7.7.37]]
 * impersonal sparks in, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/4/14#purport|SB 2.4.14]]
 * impersonalists aspire to, [[sb/3/2/24#purport|SB 3.2.24]], [[sb/3/5/46-47#purport|SB 3.5.46-47]], [[sb/8/3/12#purport|SB 8.3.12]], [[sb/8/4/13#purport|SB 8.4.13]]
-* impersonalists desire, 259 
+* impersonalists desire, 259
 * impersonalists fall from, [[sb/7/1/35#purport|SB 7.1.35]], [[sb/8/4/13#purport|SB 8.4.13]]
 * in spiritual world, [[sb/2/5/21#purport|SB 2.5.21]]
 * light of sun, moon, etc., from, [[sb/2/9/34#purport|SB 2.9.34]]
@@ -35,6 +37,6 @@
 * via spiritual suicide, [[sb/3/14/24#purport|SB 3.14.24]]
 * worshipers of, [[sb/3/9/4#purport|SB 3.9.4]]
 
-*See also:* [[b#Brahmajyoti|Brahmajyoti]]; [[b#Brahman|Brahman]]; [[l#Liberation|Liberation]]; [[b#Brahman (impersonal Absolute)|Brahman (impersonal Absolute)]]; [[b#Brahman (spirit)|Brahman (spirit)]]; [[s#Supreme Brahman|Supreme Brahman]]; [[s#Spiritual world|Spiritual world]]
+*See also:* [Brahmajyoti](entries/brahmajyoti.md); [Brahman](entries/brahman.md); [Liberation](entries/liberation.md); Brahman (impersonal Absolute); Brahman (spirit); Supreme Brahman; Spiritual world
 
-*See:* [[b#Brahman (impersonal absolute)|Brahman (impersonal absolute)]]; [[b#Brahman (impersonal Absolute)|Brahman (impersonal Absolute)]]
+*See:* Brahman (impersonal Absolute); Brahman (impersonal absolute)

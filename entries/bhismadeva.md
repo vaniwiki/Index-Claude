@@ -1,37 +1,41 @@
 # Bhīṣmadeva
 
-**[[cc/adi/2/21#translation|Ādi 2.21]]**, **[[cc/antya/11/57#translation|Antya 11.57]]**, **[[cc/antya/11/96#translation|Antya 11.96]]**, [[cc/madhya/1/197#purport|Madhya 1.197]], [[cc/madhya/10/175#purport|Madhya 10.175]], [[cc/madhya/11/99#purport|Madhya 11.99]], **[[cc/madhya/16/144–45#translation|Madhya 16.144–45]]**, [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/madhya/23/8#translation|Madhya 23.8]]**, [[sb/1/17/20#purport|SB 1.17.20]]
+[[bg/1/8|Bg. 1.8]], [[bg/1/25|Bg. 1.25]], [[bg/1/26|Bg. 1.26]], [[bg/2/4|Bg. 2.4]], [[bg/4/16|Bg. 4.16]], [[bg/18/78|Bg. 18.78]] (1), **[[cc/adi/2/21#translation|Ādi 2.21]]**, [[cc/madhya/1/197#purport|Madhya 1.197]], [[cc/madhya/10/175#purport|Madhya 10.175]], [[cc/madhya/11/99#purport|Madhya 11.99]], **[[cc/madhya/16/144–45#translation|Madhya 16.144–45]]**, [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/madhya/23/8#translation|Madhya 23.8]]**, **[[cc/antya/11/57#translation|Antya 11.57]]**, **[[cc/antya/11/96#translation|Antya 11.96]]**, [[sb/1/17/20#purport|SB 1.17.20]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/62#purport|SB 4.22.62]]
 
 * Arjuna &, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/16/5|Bg. 16.5]]
 * Arjuna excelled by, [[sb/1/14/42#purport|SB 1.14.42]]
 * arrow-bed of, [[sb/1/9/1#purport|SB 1.9.1]], [[sb/1/9/25#purport|SB 1.9.25]]
 * as authority, [[sb/1/9/16#purport|SB 1.9.16]], [[sb/1/9/19#purport|SB 1.9.19]]
 * as Kuru commander, [[sb/1/15/14-16#purport|SB 1.15.14-16]]
-* as Lord’s ”enemy,” [[sb/1/9/38#purport|SB 1.9.38]]
+* as Lord’s ”enemy,”, [[sb/1/9/38#purport|SB 1.9.38]]
 * as mahājana, [[sb/1/9/19#purport|SB 1.9.19]], [[sb/1/9/45#purport|SB 1.9.45]], [[sb/1/13/15#purport|SB 1.13.15]]
-* as Pāṇḍavas’ ”enemy,” [[sb/1/8/46#purport|SB 1.8.46]]
+* as Pāṇḍavas’ ”enemy,”, [[sb/1/8/46#purport|SB 1.8.46]]
 * as Pāṇḍavas’ well-wisher, [[sb/1/9/11#purport|SB 1.9.11]], [[sb/1/9/46#purport|SB 1.9.46]]
 * as preacher, [[sb/1/9/9#purport|SB 1.9.9]]
 * as ṛṣi, [[sb/1/9/5#purport|SB 1.9.5]]
-*  [[bg/1/8|Bg. 1.8]], [[bg/1/25|Bg. 1.25]], [[bg/1/26|Bg. 1.26]], [[bg/2/4|Bg. 2.4]], [[bg/4/16|Bg. 4.16]], [[bg/18/78|Bg. 18.78]] (1), [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/62#purport|SB 4.22.62]]
+* at deathbed of, [[sb/1/9/22#purport|SB 1.9.22]]
 * cited on Lord in heart, [[sb/10/3/7-8#purport|SB 10.3.7-8]]
-* cited. See: Bhīṣmadeva cited 
-* compared 
+* cited. See: Bhīṣmadeva cited
+* compared
+  * to lion, [[bg/1/12|Bg. 1.12]]
+  * with Bhīma, [[bg/1/10|Bg. 1.10]]
 * conchshell of, [[bg/1/12|Bg. 1.12]], [[bg/1/14|Bg. 1.14]]
 * death of, [[sb/1/9/30-44#purport|SB 1.9.30-44]], [[sb/1/9/30-44#purport|SB 1.9.30-44]]
 * demigod compared with, [[sb/1/9/4#purport|SB 1.9.4]]
 * demigods honored, [[sb/1/9/45#purport|SB 1.9.45]], [[sb/1/9/45#purport|SB 1.9.45]]
 * destiny of, [[bg/2/13|Bg. 2.13]], [[bg/2/30|Bg. 2.30]], [[bg/11/26–27|Bg. 11.26–27]], [[bg/11/34|Bg. 11.34]]
 * Dhṛtarāṣṭra reared by, [[sb/1/13/21#purport|SB 1.13.21]]
-* died via Lord’s will, N107 
+* died via Lord’s will, N107
 * Draupadī &, [[bg/11/49|Bg. 11.49]]
 * Duryodhana &, [[bg/1/10–11|Bg. 1.10–11]], [[bg/2/5|Bg. 2.5]]
+* favored, [[sb/1/9/38#purport|SB 1.9.38]], [[sb/1/9/44#purport|SB 1.9.44]]
+* glorified, [[sb/1/8/46#purport|SB 1.8.46]]
 * in chivalrous rasa, [[sb/1/9/33-34#purport|SB 1.9.33-34]]
 * in Kurukṣetra war, [[sb/10/1/5-7#purport|SB 10.1.5-7]]
 * in trance of devotion, [[sb/1/9/30-43#purport|SB 1.9.30-43]], [[sb/1/9/30-43#purport|SB 1.9.30-43]]
 * in universal form, [[bg/11/26–27|Bg. 11.26–27]]
 * Karṇa vs., [[sb/1/15/16#purport|SB 1.15.16]]
-* Kṛṣṇa 
+* Kṛṣṇa
 * Kṛṣṇa &, [[bg/7/25|Bg. 7.25]]
 * Kṛṣṇa’s Godhood accepted by, [[sb/1/9/18#purport|SB 1.9.18]]
 * Kuru dynasty led by, [[sb/1/9/32#purport|SB 1.9.32]]
@@ -44,11 +48,12 @@
 * Paraśurāma defeated by, [[sb/9/22/20#purport|SB 9.22.20]]
 * parents of, [[sb/9/22/18-19#purport|SB 9.22.18-19]]
 * prayers by, [[sb/1/9/32#purport|SB 1.9.32]]
-* quoted. See: Bhīṣmadeva quoted 
+* quoted. See: Bhīṣmadeva quoted
 * repentance by, [[sb/1/9/34#purport|SB 1.9.34]]
 * sages at deathbed of, [[sb/1/9/5#purport|SB 1.9.5]], [[sb/1/9/9#purport|SB 1.9.9]]
 * sages compared with, [[sb/1/9/25#purport|SB 1.9.25]]
 * spiritual world attained by, [[sb/1/9/44#purport|SB 1.9.44]]
+* worshiped by, [[sb/1/9/10#purport|SB 1.9.10]], [[sb/1/9/24#purport|SB 1.9.24]], [[sb/1/9/42#purport|SB 1.9.42]]
 * Yudhiṣṭhira grieved death of, [[sb/1/9/46#purport|SB 1.9.46]], [[sb/1/9/46#purport|SB 1.9.46]]
 
-*See also:* [[b#Bhīṣmadeva cited|Bhīṣmadeva cited]]; [[b#Bhīṣmadeva quoted|Bhīṣmadeva quoted]]
+*See also:* Bhīṣmadeva cited; Bhīṣmadeva quoted

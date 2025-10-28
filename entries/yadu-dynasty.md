@@ -1,7 +1,8 @@
 # Yadu dynasty
 
-**[[cc/madhya/15/240#translation|Madhya 15.240]]**, **[[cc/madhya/20/394#translation|Madhya 20.394]]**, **[[cc/madhya/23/117–18#translation|Madhya 23.117–18]]**, [[cc/madhya/8/246#purport|Madhya 8.246]], [[sb/2/4/20#purport|SB 2.4.20]], [[sb/4/30/12#purport|SB 4.30.12]]
+[[cc/madhya/8/246#purport|Madhya 8.246]], **[[cc/madhya/15/240#translation|Madhya 15.240]]**, **[[cc/madhya/20/394#translation|Madhya 20.394]]**, **[[cc/madhya/23/117–18#translation|Madhya 23.117–18]]**, [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/10/26#purport|SB 1.10.26]], [[sb/1/11/38#purport|SB 1.11.38]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/2/4/20#purport|SB 2.4.20]], [[sb/4/30/12#purport|SB 4.30.12]], [[sb/5/6/18#purport|SB 5.6.18]], [[sb/5/15/16#purport|SB 5.15.16]]
 
+* advented in, [[sb/10/1/1#purport|SB 10.1.1]]
 * annihilation of, [[sb/1/13/50#purport|SB 1.13.50]], [[sb/1/15/22-26#purport|SB 1.15.22-26]], [[sb/1/15/33-34#purport|SB 1.15.33-34]]
 * as burden of love, [[sb/3/3/14#purport|SB 3.3.14]]
 * as fearless, [[sb/1/14/38#purport|SB 1.14.38]]
@@ -11,13 +12,14 @@
 * commander of, [[sb/3/1/28#purport|SB 3.1.28]]
 * conquests of, [[sb/3/1/12#purport|SB 3.1.12]]
 * demigods appeared in, [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/62-63#purport|SB 10.1.62-63]]
+* destroyed, [[sb/10/3/46#purport|SB 10.3.46]]
 * destruction of, [[sb/4/21/37#purport|SB 4.21.37]]
 * disappearance of, [[sb/3/2/10#purport|SB 3.2.10]], [[sb/3/3/15#purport|SB 3.3.15]]
 * from moon-god, [[sb/10/1/1#purport|SB 10.1.1]]
 * Gargamuni priest of, [[sb/10/8/1#purport|SB 10.8.1]], [[sb/10/8/7#purport|SB 10.8.7]]
 * intoxication destroyed, [[sb/3/4/1-2#purport|SB 3.4.1-2]]
 * Kaṁsa’s demons persecuted, [[sb/10/2/1-2#purport|SB 10.2.1-2]], [[sb/10/2/1-2#purport|SB 10.2.1-2]], [[sb/10/2/3#purport|SB 10.2.3]]
-* Kṛṣṇa 
+* Kṛṣṇa
 * Kṛṣṇa as Lord of, [[sb/3/1/12#purport|SB 3.1.12]]
 * Kṛṣṇa misunderstood by, [[sb/3/2/8-9#purport|SB 3.2.8-9]]
 * Lord appeared in, [[sb/1/16/34#purport|SB 1.16.34]]
@@ -25,6 +27,5 @@
 * Mathurā capital of, [[sb/10/1/28#purport|SB 10.1.28]]
 * milk ocean compared to, [[sb/1/14/36#purport|SB 1.14.36]]
 * pure devotees in, [[sb/1/13/11#purport|SB 1.13.11]], [[sb/1/14/38#purport|SB 1.14.38]]
-*  [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/10/26#purport|SB 1.10.26]], [[sb/1/11/38#purport|SB 1.11.38]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/5/6/18#purport|SB 5.6.18]], [[sb/5/15/16#purport|SB 5.15.16]]
 * Sudharmā house captured by, [[sb/1/14/38#purport|SB 1.14.38]]
 * Śūrasena chief of, [[sb/10/1/27#purport|SB 10.1.27]]

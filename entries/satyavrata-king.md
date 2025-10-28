@@ -6,14 +6,24 @@
 * as Śrāddhadeva, [[sb/8/24/11#purport|SB 8.24.11]]
 * as sun-god’s son, [[sb/8/24/11#purport|SB 8.24.11]], [[sb/8/24/58#purport|SB 8.24.58]]
 * austerities by, [[sb/8/24/10#purport|SB 8.24.10]], [[sb/8/24/12#purport|SB 8.24.12]]
+* begged protection of, [[sb/8/24/14#purport|SB 8.24.14]]
 * boat boarded by, [[sb/8/24/42#purport|SB 8.24.42]]
 * devotional service by, [[sb/8/24/15#purport|SB 8.24.15]]
+* favored, [[sb/8/24/10#purport|SB 8.24.10]]
 * in Cākṣuṣa-manvantara, [[sb/8/24/58#purport|SB 8.24.58]]
-* Lord instructed 
+* instructed, [[sb/8/24/58#purport|SB 8.24.58]]
+* let loose by, [[sb/8/24/13#purport|SB 8.24.13]]
+* Lord instructed
 * Lord’s mercy on, [[sb/8/24/11#purport|SB 8.24.11]]
-* Matsya (fish incarnation) 
+* Matsya (fish incarnation)
 * meditates on Lord, [[sb/8/24/40#purport|SB 8.24.40]], [[sb/8/24/44#purport|SB 8.24.44]]
 * merciful, [[sb/8/24/14-16#purport|SB 8.24.14-16]]
 * narration about Matsya &, recommended, [[sb/8/24/59#purport|SB 8.24.59]], [[sb/8/24/60#purport|SB 8.24.60]]
+* on Absolute Truth, [[sb/8/24/55#purport|SB 8.24.55]], [[sb/8/24/56#purport|SB 8.24.56]], [[sb/8/24/61#purport|SB 8.24.61]]
+* on surviving water devastation, [[sb/8/24/33-37#purport|SB 8.24.33-37]]
 * prays to Lord, [[sb/8/24/46#purport|SB 8.24.46]], [[sb/8/24/47#purport|SB 8.24.47]], [[sb/8/24/48#purport|SB 8.24.48]], [[sb/8/24/49-53#purport|SB 8.24.49-53]]
+* protected by, [[sb/8/24/15#purport|SB 8.24.15]], [[sb/8/24/16#purport|SB 8.24.16]]
 * quoted on Lord, [[sb/8/24/46#purport|SB 8.24.46]], [[sb/8/24/47#purport|SB 8.24.47]], [[sb/8/24/48#purport|SB 8.24.48]], [[sb/8/24/49-53#purport|SB 8.24.49-53]]
+* recognized by, [[sb/8/24/27#purport|SB 8.24.27]]
+* transferred by, to wider waters, [[sb/8/24/18-23#purport|SB 8.24.18-23]]
+* unrecognized by, [[sb/8/24/15#purport|SB 8.24.15]]

@@ -9,4 +9,4 @@
 * of Lord, value of hearing, [[sb/2/10/5#purport|SB 2.10.5]]
 * of Viṣṇu temples, [[sb/3/1/23#purport|SB 3.1.23]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; pastimes of
+*See also:* Supreme Lord; pastimes of

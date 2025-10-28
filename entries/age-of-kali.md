@@ -1,4 +1,4 @@
 # Age of Kali
 
 
-*See:* [[k#Kali-yuga|Kali-yuga]]
+*See:* [Kali-yuga](entries/kali-yuga.md)

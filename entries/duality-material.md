@@ -30,4 +30,4 @@
 * transcendentalist free of, [[sb/9/8/13#purport|SB 9.8.13]]
 * world as, [[sb/7/10/13#purport|SB 7.10.13]]
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; [[m#Māyā|Māyā]]; [[m#Modes of nature|Modes of nature]]; Bodily concept; Differences; material
+*See also:* Bodily concept of life; Māyā; Modes of nature; Bodily concept; Differences; material

@@ -6,4 +6,4 @@
 * Kṛṣṇa’s representation among, [[bg/10/28–29|Bg. 10.28–29]]
 * nondevotees compared to, [[sb/3/19/33#purport|SB 3.19.33]]
 
-*See:* [[s#Snakes|Snakes]]
+*See:* Snakes

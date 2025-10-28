@@ -1,9 +1,10 @@
-# Religious principle(s)
+# Religious principles
 
-**[[cc/antya/7/105–7#translation|Antya 7.105–7]]**, **[[cc/madhya/17/184–86#translation|Madhya 17.184–86]]**
+**[[cc/madhya/17/184–86#translation|Madhya 17.184–86]]**, **[[cc/antya/7/105–7#translation|Antya 7.105–7]]**
 
 * Āgnīdhra follower of, [[sb/5/2/1#purport|SB 5.2.1]]
 * as brahma-bhūta stage, [[sb/2/9/37#purport|SB 2.9.37]]
+* as goal of, [[sb/7/11/7#purport|SB 7.11.7]]
 * as Lord’s laws, [[sb/7/11/7#purport|SB 7.11.7]]
 * as symptom of knowledge, [[sb/2/9/37#purport|SB 2.9.37]]
 * authorities on, [[sb/3/9/10#purport|SB 3.9.10]]
@@ -17,9 +18,10 @@
 * confidential conclusion of, [[sb/3/16/18#purport|SB 3.16.18]]
 * Deity form establishes, [[sb/3/1/17#purport|SB 3.1.17]]
 * devotees transcend, [[sb/7/6/25-25#purport|SB 7.6.25-25]]
-* devotional service 
+* devotional service
 * devotional service &, [[sb/2/7/3#purport|SB 2.7.3]], [[sb/2/9/37#purport|SB 2.9.37]]
 * devotional service as, [[sb/9/18/40#purport|SB 9.18.40]]
+* dictates, [[sb/7/7/30-31#purport|SB 7.7.30-31]]
 * economic development via, [[sb/4/12/14#purport|SB 4.12.14]]
 * followers of, [[sb/9/10/54#purport|SB 9.10.54]]
 * for God-centered society, [[sb/10/4/39#purport|SB 10.4.39]]
@@ -40,7 +42,7 @@
 * leaders ignore, in Kali-yuga, [[sb/9/15/15#purport|SB 9.15.15]]
 * listed, [[sb/3/12/35#purport|SB 3.12.35]], [[sb/3/12/41#purport|SB 3.12.41]], [[sb/3/16/22#purport|SB 3.16.22]]
 * listed, ten, [[sb/2/7/37#purport|SB 2.7.37]]
-* Lord 
+* Lord
 * Lord assists sincere souls in, [[sb/2/9/23#purport|SB 2.9.23]]
 * Lord protects, [[sb/3/9/19#purport|SB 3.9.19]]
 * Lord reestablishes, [[sb/9/24/56#purport|SB 9.24.56]], [[sb/9/24/57#purport|SB 9.24.57]], [[sb/9/24/58#purport|SB 9.24.58]]
@@ -60,6 +62,7 @@
 * Priyavrata upholder of, [[sb/5/1/29#purport|SB 5.1.29]]
 * procreation according to, [[sb/10/3/33#purport|SB 10.3.33]]
 * protection of, [[sb/8/24/5#purport|SB 8.24.5]]
+* protects, [[sb/7/8/53#purport|SB 7.8.53]], [[sb/7/9/38#purport|SB 7.9.38]], [[sb/7/11/5#purport|SB 7.11.5]]
 * punishment for deviating from, [[sb/5/26/15#purport|SB 5.26.15]]
 * purpose of, [[sb/3/2/2#purport|SB 3.2.2]]
 * saints reestablish, [[sb/8/14/4#purport|SB 8.14.4]]
@@ -69,10 +72,11 @@
 * Śukrācārya’s attitude on, [[sb/8/20/2-2#purport|SB 8.20.2-2]]
 * varṇāśrama-dharma as, [[sb/5/2/1#purport|SB 5.2.1]]
 * via disciplic succession, [[sb/4/19/38#purport|SB 4.19.38]]
+* via, [[sb/7/11/2#purport|SB 7.11.2]]
 * womanly attraction &, [[sb/2/7/6#purport|SB 2.7.6]]
 * Yadu followed, [[sb/9/18/40#purport|SB 9.18.40]]
 * yuga cycle decays, [[sb/8/14/4#purport|SB 8.14.4]]
 
-*See also:* Devotional service; [[v#Vedic injunctions|Vedic injunctions]]; [[r#Regulative principles|Regulative principles]]; [[r#Religion|Religion]]; [[v#Vedic injunction|Vedic injunction]]; Vedics injunction; [[r#Ritualistic ceremonies|Ritualistic ceremonies]]
+*See also:* [Religion](entries/religions.md); Devotional service; Vedic injunctions; Regulative principles; Vedic injunction; Vedics injunction; Ritualistic ceremonies
 
-*See:* [[r#Religion|Religion]]; principles
+*See:* [Religion](entries/religions.md); principles

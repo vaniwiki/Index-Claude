@@ -1,6 +1,6 @@
-# Siddha(s)
+# Siddhas
 
-[[sb/1/1/4#purport|SB 1.1.4]], [[sb/4/1/22#purport|SB 4.1.22]], [[sb/8/9/4#purport|SB 8.9.4]]
+[[sb/1/1/4#purport|SB 1.1.4]], [[sb/4/1/22#purport|SB 4.1.22]], [[sb/6/17/2-3#purport|SB 6.17.2-3]], [[sb/6/17/4-5#purport|SB 6.17.4-5]], [[sb/8/9/4#purport|SB 8.9.4]], [[sb/10/3/6#purport|SB 10.3.6]], [[sb/10/4/10-11#purport|SB 10.4.10-11]]
 
 * Ananta offered prayers by, [[sb/5/25/7#purport|SB 5.25.7]]
 * as devotees of Lord, [[sb/4/7/35#purport|SB 4.7.35]]
@@ -31,7 +31,6 @@
 * Pṛthu glorified by, [[sb/4/15/7#purport|SB 4.15.7]]
 * Pṛthu worshiped, [[sb/4/20/35-36#purport|SB 4.20.35-36]]
 * Śatadruti captivated, [[sb/4/24/12#purport|SB 4.24.12]]
-*  [[sb/10/3/6#purport|SB 10.3.6]], [[sb/10/4/10-11#purport|SB 10.4.10-11]], [[sb/6/17/2-3#purport|SB 6.17.2-3]], [[sb/6/17/4-5#purport|SB 6.17.4-5]]
 * space travel by, [[sb/3/24/8#purport|SB 3.24.8]], [[sb/4/22/2#purport|SB 4.22.2]], [[sb/4/22/48#purport|SB 4.22.48]]
 * Vāmana honored by, [[sb/8/23/26-27#purport|SB 8.23.26-27]]
 * yogic perfection in, [[sb/4/8/53#purport|SB 4.8.53]]

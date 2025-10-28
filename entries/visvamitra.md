@@ -2,7 +2,7 @@
 
 [[cc/adi/15/29#purport|Ādi 15.29]], [[cc/madhya/9/279#purport|Madhya 9.279]], [[sb/3/14/20#purport|SB 3.14.20]], [[sb/3/27/5#purport|SB 3.27.5]], [[sb/7/5/46#purport|SB 7.5.46]], [[sb/9/20/13-13#purport|SB 9.20.13-13]]
 
-* as *kṣatriya *& as *brāhmaṇa,* 3.35 3.35
+* as *kṣatriya *& as *brāhmaṇa,*, 3.35
 * as brahmarṣi, [[sb/9/15/5-6#purport|SB 9.15.5-6]]
 * as Gādhi’s son, [[sb/9/15/5-6#purport|SB 9.15.5-6]], [[sb/9/16/28#purport|SB 9.16.28]]
 * as kṣatriya turned brāhmaṇa, [[sb/9/7/7#purport|SB 9.7.7]], [[sb/9/16/28-28#purport|SB 9.16.28-28]]

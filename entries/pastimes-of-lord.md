@@ -21,4 +21,4 @@
 * Vraja displayed via, [[cc/adi/4/50#purport|Ādi 4.50]]
 * yogamāyā &, [[cc/adi/5/41#purport|Ādi 5.41]]
 
-*See:* Kṛṣṇa; pastimes of; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; pastimes of; Supreme Lord

@@ -1,5 +1,7 @@
 # Milk ocean
 
+[[sb/2/7/13#purport|SB 2.7.13]], [[sb/2/7/13#purport|SB 2.7.13]]
+
 * Airāvata from, [[sb/8/8/4#purport|SB 8.8.4]]
 * Ajita churned, [[sb/8/5/10#purport|SB 8.5.10]]
 * animals in, disturbed, [[sb/8/7/13#purport|SB 8.7.13]], [[sb/8/7/18#purport|SB 8.7.18]]
@@ -18,7 +20,6 @@
 * nectar from, [[sb/8/5/10#purport|SB 8.5.10]], [[sb/8/5/11-12#purport|SB 8.5.11-12]], [[sb/8/6/22-23#purport|SB 8.6.22-23]], [[sb/8/6/25#purport|SB 8.6.25]]
 * pārijāta flower from, [[sb/8/8/6#purport|SB 8.8.6]]
 * poison from, [[sb/8/6/25#purport|SB 8.6.25]], [[sb/8/7/18#purport|SB 8.7.18]], [[sb/8/7/43#purport|SB 8.7.43]]
-*  [[sb/2/7/13#purport|SB 2.7.13]], [[sb/2/7/13#purport|SB 2.7.13]]
 * surabhi cow from, [[sb/8/8/1#purport|SB 8.8.1]]
 * Śvetadvīpa in, [[sb/8/5/24#purport|SB 8.5.24]]
 * Trikūṭa Mountain in, [[sb/8/2/1#purport|SB 8.2.1]], [[sb/8/2/4#purport|SB 8.2.4]]

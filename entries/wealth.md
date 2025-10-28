@@ -15,6 +15,8 @@
 * as temporary, [[bg/2/8|Bg. 2.8]], [[sb/3/30/3-3#purport|SB 3.30.3-3]]
 * attachment for, [[sb/3/28/39#purport|SB 3.28.39]]
 * attachment to, [[bg/1/32|Bg. 1.32]], [[bg/14/8|Bg. 14.8]], [[sb/4/25/10#purport|SB 4.25.10]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/27/10#purport|SB 4.27.10]], [[sb/4/27/18#purport|SB 4.27.18]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/31/21#purport|SB 4.31.21]]
+  * by demons, [[bg/16/11–15|Bg. 16.11–15]], [[bg/16/16–17|Bg. 16.16–17]]
+  * in passion mode, [[bg/18/34|Bg. 18.34]]
 * attraction to, spiritual advancement &, [[sb/5/2/6#purport|SB 5.2.6]], [[sb/5/13/21#purport|SB 5.13.21]]
 * available to devotees, [[sb/3/4/15#purport|SB 3.4.15]]
 * bad effect of, [[sb/4/3/17#purport|SB 4.3.17]]
@@ -28,7 +30,8 @@
 * desire for, [[sb/2/1/20#purport|SB 2.1.20]], [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/3/9/6#purport|SB 3.9.6]]
 * detachment from thoughts of, [[bg/10/4|Bg. 10.4]] (4)
 * detachment from, [[bg/4/21–23|Bg. 4.21–23]]
-* detachment from. See: Detachment 
+  * *See also:* Detachment
+  * by devotee, [[bg/12/16|Bg. 12.16]]
 * devotees automatically achieve, [[sb/2/7/4#purport|SB 2.7.4]]
 * devotees satisfied by much or little, [[bg/1/32|Bg. 1.32]]
 * dissatisfaction in, [[sb/4/4/28#purport|SB 4.4.28]]
@@ -108,6 +111,6 @@
 * via past good deeds, [[bg/16/16|Bg. 16.16]]
 * worship for, [[bg/17/11|Bg. 17.11]]
 
-*See also:* [[e#Economic development|Economic development]]; [[g#Gold|Gold]]; [[j#Jewels|Jewels]]; [[m#Money|Money]]; [[o#Opulence|Opulence]]; Opulences; material; Treasuries; kings kept; [[p#Possessions|Possessions]]
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md); material; Possessions; Economic development; Opulences; Treasuries; kings kept; Jewels
 
-*See:* [[m#Money|Money]]; [[o#Opulence|Opulence]]; material
+*See:* [Money](entries/money.md); [Opulence](entries/opulences.md); material

@@ -3,15 +3,16 @@
 [[bg/16/1|Bg. 16.1]]
 
 * *kṣatriyas *&, [[bg/18/47|Bg. 18.47]]
-* *See:* [[a#Absolute Truth|Absolute Truth]]; Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]] 
-* Absolute. See: Absolute Truth 
+* Absolute. See: Absolute Truth
 * aspects of, three given, [[sb/6/16/51#purport|SB 6.16.51]]
 * defined, [[bg/10/4|Bg. 10.4]] (3), [[bg/16/1|Bg. 16.1]] (14)
 * highest, defined, [[sb/1/1/2#purport|SB 1.1.2]]
 * impersonal, compared with devotional conceptions of, [[sb/8/19/39#purport|SB 8.19.39]]
 * in Lord’s universal form, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * in speech, [[bg/17/15|Bg. 17.15]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * origin of, [[bg/10/4|Bg. 10.4]]
+  * represented by, [[bg/10/32|Bg. 10.32]]
 * Kṛṣṇa consciousness reveals, [[sb/4/12/16#purport|SB 4.12.16]]
 * lack of, [[bg/16/7|Bg. 16.7]]
 * merchant &, [[bg/18/47|Bg. 18.47]], [[bg/18/48|Bg. 18.48]]
@@ -26,6 +27,6 @@
 * standard of, [[bg/13/8|Bg. 13.8]] (2)
 * via spiritual master, [[sb/8/24/53#purport|SB 8.24.53]]
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]; [[k#Knowledge|Knowledge]]
+*See also:* Absolute Truth; [Knowledge](entries/knowledge.md)
 
-*See:* [[a#Absolute Truth|Absolute Truth]]; [[k#Knowledge|Knowledge]]
+*See:* Absolute Truth; [Knowledge](entries/knowledge.md); Kṛṣṇa; Supreme Lord

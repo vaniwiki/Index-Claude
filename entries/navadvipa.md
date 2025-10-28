@@ -1,6 +1,6 @@
 # Navadvīpa
 
-**[[cc/madhya/16/207#translation|Madhya 16.207]]**, [[sb/9/22/32#purport|SB 9.22.32]]
+**[[cc/madhya/16/207#translation|Madhya 16.207]]**, [[sb/5/19/24#purport|SB 5.19.24]], [[sb/5/19/25#purport|SB 5.19.25]], [[sb/9/22/32#purport|SB 9.22.32]]
 
 * Advaita’s residence at, [[cc/adi/13/111#purport|Ādi 13.111]]
 * Caitanya returns to, **[[cc/adi/16/22–23#translation|Ādi 16.22–23]]**
@@ -23,7 +23,6 @@
 * Śacīmātā &, **[[cc/madhya/3/183#translation|Madhya 3.183]]**
 * Sāraṅga Ṭhākura &, [[cc/adi/10/113#purport|Ādi 10.113]]
 * Sārvabhauma Bhaṭṭācārya &, [[cc/adi/10/130#purport|Ādi 10.130]]
-*  [[sb/5/19/24#purport|SB 5.19.24]], [[sb/5/19/25#purport|SB 5.19.25]]
 * Tapana Miśra &, **[[cc/adi/16/16#translation|Ādi 16.16]]**, **[[cc/adi/16/18#translation|Ādi 16.18]]**
 * Vārāṇasī &, **[[cc/madhya/25/167#translation|Madhya 25.167]]**
 * Vṛndāvana &, [[cc/madhya/22/132#purport|Madhya 22.132]]

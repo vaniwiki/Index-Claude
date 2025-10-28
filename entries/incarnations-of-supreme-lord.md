@@ -1,22 +1,24 @@
 # Incarnation(s) of Supreme Lord
 
+
+
 * ”material” & transcendental, [[sb/1/1/17#purport|SB 1.1.17]]
 * accepted via scripture, SB Intro 19, [[sb/1/2/16#purport|SB 1.2.16]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/7#purport|SB 1.3.7]]
 * activities of, distinguish them, [[sb/1/3/7#purport|SB 1.3.7]], [[sb/1/3/26#purport|SB 1.3.26]]
 * advents of, [[sb/4/16/2#purport|SB 4.16.2]]
 * as all-auspicious, [[sb/1/1/18#purport|SB 1.1.18]]
 * as auspicious, [[sb/4/6/43#purport|SB 4.6.43]]
-* as boar. See: Varāha 
+* as boar. See: Varāha
 * as Bṛhadbhānu, [[sb/8/13/35#purport|SB 8.13.35]]
 * as Caitanya, [[sb/8/2/33#purport|SB 8.2.33]], [[sb/8/3/6#purport|SB 8.3.6]], [[sb/8/6/15#purport|SB 8.6.15]], [[sb/8/14/6#purport|SB 8.14.6]], [[sb/8/14/8#purport|SB 8.14.8]]
+* as concealed, [[sb/5/18/35#purport|SB 5.18.35]]
 * as Dattātreya, [[sb/8/14/8#purport|SB 8.14.8]]
 * as Dharmasetu, [[sb/8/13/26#purport|SB 8.13.26]]
 * as dwarf, [[sb/8/13/6#purport|SB 8.13.6]]
 * as eternal, [[sb/1/15/35#purport|SB 1.15.35]], [[sb/8/6/8#purport|SB 8.6.8]]
 * as fish, [[sb/4/16/2#purport|SB 4.16.2]]
-* as fish. See: Matsya 
 * as free & transcendental, [[sb/4/8/57#purport|SB 4.8.57]]
-* as innumerable, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/10/8/13#purport|SB 10.8.13]], [[sb/5/18/7#purport|SB 5.18.7]], [[sb/5/26/40-#purport|SB 5.26.40-]]supp. note
+* as innumerable, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/5/18/7#purport|SB 5.18.7]], [[sb/5/26/40-#purport|SB 5.26.40-]]supp. note, [[sb/10/8/13#purport|SB 10.8.13]]
 * as king, [[sb/8/14/9#purport|SB 8.14.9]]
 * as Kṛṣṇa, [[sb/8/2/33#purport|SB 8.2.33]]
 * as limitless, [[sb/10/2/42#purport|SB 10.2.42]]
@@ -24,7 +26,7 @@
 * as Lord’s expansions, [[sb/4/17/36#purport|SB 4.17.36]]
 * as Manus, fourteen listed, [[sb/1/3/5#purport|SB 1.3.5]]
 * as Marīci, [[sb/8/1/19#purport|SB 8.1.19]], [[sb/8/14/9#purport|SB 8.14.9]]
-* as Matsya. See: Matsya 
+* as Matsya. See: Matsya
 * as Mohinī, [[sb/8/8/41-46#purport|SB 8.8.41-46]]
 * as Nara-Nārāyaṇa Ṛṣi, [[sb/8/16/34#purport|SB 8.16.34]]
 * as numberless, [[sb/8/3/12#purport|SB 8.3.12]], [[sb/8/5/46#purport|SB 8.5.46]], [[sb/8/6/8#purport|SB 8.6.8]], [[sb/8/18/12#purport|SB 8.18.12]]
@@ -34,7 +36,7 @@
 * as Siddhas, [[sb/8/14/8#purport|SB 8.14.8]]
 * as Svadhāmā, [[sb/8/13/29#purport|SB 8.13.29]]
 * as timeless, [[sb/1/15/30#purport|SB 1.15.30]]
-* as transcendental, [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/2/35#purport|SB 10.2.35]], [[sb/5/18/25#purport|SB 5.18.25]], [[sb/8/3/18#purport|SB 8.3.18]], [[sb/8/5/6#purport|SB 8.5.6]], [[sb/8/18/1#purport|SB 8.18.1]]
+* as transcendental, [[sb/5/18/25#purport|SB 5.18.25]], [[sb/8/3/18#purport|SB 8.3.18]], [[sb/8/5/6#purport|SB 8.5.6]], [[sb/8/18/1#purport|SB 8.18.1]], [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/2/35#purport|SB 10.2.35]]
 * as Vāmana, [[sb/8/13/6#purport|SB 8.13.6]]
 * as Varāha, [[sb/8/19/6#purport|SB 8.19.6]]
 * as Viṣvaksena, [[sb/8/13/23#purport|SB 8.13.23]]
@@ -45,7 +47,7 @@
 * atheists cheated by, [[sb/8/9/11#purport|SB 8.9.11]]
 * atheists enlightened by, [[sb/8/3/12#purport|SB 8.3.12]]
 * attract conditioned souls, [[sb/1/1/17#purport|SB 1.1.17]]
-* basis of 
+* basis of
 * beauty of, in various forms, [[sb/5/18/29#purport|SB 5.18.29]]
 * benefit via hearing of, [[sb/1/1/18#purport|SB 1.1.18]]
 * benefit via reciting, [[sb/1/3/29#purport|SB 1.3.29]], [[sb/1/3/29#purport|SB 1.3.29]]
@@ -57,10 +59,10 @@
 * Caitanya as, [[sb/9/16/23#purport|SB 9.16.23]]
 * cheating by pseudo, [[sb/5/14/13#purport|SB 5.14.13]], [[sb/5/14/29-30#purport|SB 5.14.29-30]]
 * chief demigods appointed by, [[sb/8/14/2#purport|SB 8.14.2]]
-* compared to 
+* compared to
 * create spiritual desire, [[sb/1/2/34#purport|SB 1.2.34]]
 * Dattātreya as, [[sb/4/1/33#purport|SB 4.1.33]], [[sb/9/23/24#purport|SB 9.23.24]]
-* Deity. See: Deity form(s) 
+* Deity. See: Deity form(s)
 * demigods accompany, [[sb/4/16/5#purport|SB 4.16.5]]
 * demigods pleased by, [[sb/1/3/22#purport|SB 1.3.22]]
 * described in order, [[sb/1/3/6-28#purport|SB 1.3.6-28]]
@@ -85,8 +87,9 @@
 * for material world’s maintenance, [[sb/9/9/7#purport|SB 9.9.7]]
 * for millenniums, [[sb/1/3/5#purport|SB 1.3.5]]
 * for time & place, [[sb/10/7/3#purport|SB 10.7.3]]
+* Garbhodakaśāyī Viṣṇu as, [[sb/1/3/5#purport|SB 1.3.5]]
 * guṇa-, [[sb/10/9/21#purport|SB 10.9.21]]
-* Hare Kṛṣṇa movement as, [[sb/10/3/21#purport|SB 10.3.21]], [[sb/9/15/15#purport|SB 9.15.15]]
+* Hare Kṛṣṇa movement as, [[sb/9/15/15#purport|SB 9.15.15]], [[sb/10/3/21#purport|SB 10.3.21]]
 * imitators of, SB Intro 19, [[sb/1/1/20#purport|SB 1.1.20]], [[sb/1/3/5#purport|SB 1.3.5]]
 * in all species, [[sb/1/3/26#purport|SB 1.3.26]]
 * in animal forms, [[sb/10/10/34-35#purport|SB 10.10.34-35]]
@@ -103,16 +106,18 @@
 * in Yadu family, [[sb/1/16/34#purport|SB 1.16.34]]
 * Indras appointed by, [[sb/8/14/2#purport|SB 8.14.2]]
 * Kalki as, [[sb/9/16/33#purport|SB 9.16.33]]
-* Kapila as. See: Kapila Muni 
+* Kapila as. See: Kapila Muni
 * kindness of, [[sb/1/3/9#purport|SB 1.3.9]]
 * Kṛṣṇa as origin of, [[sb/10/1/22#purport|SB 10.1.22]], [[sb/10/2/26#purport|SB 10.2.26]]
-* Kṛṣṇa as, [[sb/10/7/2#purport|SB 10.7.2]], [[sb/10/7/3#purport|SB 10.7.3]], [[sb/10/7/7#purport|SB 10.7.7]], [[sb/10/8/13-13#purport|SB 10.8.13-13]], [[sb/10/12/39#purport|SB 10.12.39]]
+* Kṛṣṇa as, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/10/7/2#purport|SB 10.7.2]], [[sb/10/7/3#purport|SB 10.7.3]], [[sb/10/7/7#purport|SB 10.7.7]], [[sb/10/8/13-13#purport|SB 10.8.13-13]], [[sb/10/12/39#purport|SB 10.12.39]]
 * Kṛṣṇa excels, [[sb/9/24/53-55#purport|SB 9.24.53-55]]
 * Kṛṣṇa origin of, [[sb/4/17/6-7#purport|SB 4.17.6-7]]
 * Kṛṣṇa source of, [[sb/5/18/7#purport|SB 5.18.7]], [[sb/5/19/4#purport|SB 5.19.4]]
 * Kṛṣṇa’s name as, [[sb/10/3/21#purport|SB 10.3.21]]
+* Kṣīrodakaśāyī Viṣṇu as, [[sb/1/3/2#purport|SB 1.3.2]], [[sb/1/3/5#purport|SB 1.3.5]]
 * Kumāras as, [[sb/1/3/6#purport|SB 1.3.6]]
 * liberation via knowing, [[sb/1/3/29#purport|SB 1.3.29]]
+* light bulbs, [[sb/1/3/28#purport|SB 1.3.28]]
 * līlā incarnations, six listed, [[sb/1/3/5#purport|SB 1.3.5]]
 * living entities delivered by, [[sb/5/19/8#purport|SB 5.19.8]]
 * living entities empowered as, [[sb/4/19/37#purport|SB 4.19.37]]
@@ -133,11 +138,12 @@
 * principles prompting, [[sb/9/24/56#purport|SB 9.24.56]]
 * protect world, [[sb/10/2/40#purport|SB 10.2.40]]
 * Pṛśnigarbha as, [[sb/4/9/1#purport|SB 4.9.1]]
-* purpose of, [[sb/1/2/34#purport|SB 1.2.34]] 2.34, [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/16/3#purport|SB 1.16.3]], [[sb/1/17/5#purport|SB 1.17.5]], [[sb/10/2/29#purport|SB 10.2.29]], [[sb/5/4/8#purport|SB 5.4.8]], [[sb/5/12/7#purport|SB 5.12.7]]
+* purpose of, [[sb/1/2/34#purport|SB 1.2.34]] 2.34, [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/16/3#purport|SB 1.16.3]], [[sb/1/17/5#purport|SB 1.17.5]], [[sb/5/4/8#purport|SB 5.4.8]], [[sb/5/12/7#purport|SB 5.12.7]], [[sb/10/2/29#purport|SB 10.2.29]]
 * purposes of, [[sb/8/2/33#purport|SB 8.2.33]], [[sb/8/24/2-3#purport|SB 8.24.2-3]], [[sb/8/24/5#purport|SB 8.24.5]], [[sb/8/24/29#purport|SB 8.24.29]]
 * qualitative (guṇa-avatāras), [[sb/4/7/51#purport|SB 4.7.51]]
 * qualitative, three given, [[sb/1/3/5#purport|SB 1.3.5]]
-* Rāma as. See: Rāmacandra 
+* Rāma as. See: Rāmacandra
+* rivulets, [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/26#purport|SB 1.3.26]]
 * sages appointed by, [[sb/8/14/2#purport|SB 8.14.2]]
 * Sahasraśīrṣā as, [[sb/4/9/1#purport|SB 4.9.1]]
 * śāśtras verify, [[sb/8/1/2#purport|SB 8.1.2]], [[sb/8/5/46#purport|SB 8.5.46]]
@@ -151,8 +157,8 @@
 * symptoms of, [[sb/5/4/1#purport|SB 5.4.1]], [[sb/5/4/2#purport|SB 5.4.2]]
 * transcendental status of, [[sb/1/3/7#purport|SB 1.3.7]], [[sb/1/3/30#purport|SB 1.3.30]]
 * true & false, [[sb/4/15/9-10#purport|SB 4.15.9-10]], [[sb/4/15/22-24#purport|SB 4.15.22-24]], [[sb/4/16/1#purport|SB 4.16.1]], [[sb/4/19/10#purport|SB 4.19.10]]
-* types of, four listed, [[sb/8/1/2#purport|SB 8.1.2]]
 * types of, [[sb/4/15/4#purport|SB 4.15.4]], [[sb/5/15/6#purport|SB 5.15.6]]
+* types of, four listed, [[sb/8/1/2#purport|SB 8.1.2]]
 * Vāmanadeva as, [[sb/4/6/40#purport|SB 4.6.40]]
 * Vedas as, [[sb/5/5/24#purport|SB 5.5.24]]
 * via internal potency, [[sb/4/8/57#purport|SB 4.8.57]]
@@ -160,4 +166,4 @@
 * via will of Lord, [[sb/8/5/46-46#purport|SB 8.5.46-46]]
 * Yajña as, [[sb/4/1/4-5#purport|SB 4.1.4-5]]
 
-*See also:* [[a#Avatāras|Avatāras]]; [[s#Supreme Lord|Supreme Lord]]; advents of; expansions of; Kṛṣṇa; [[m#Matsya|Matsya]]; Nṛsiṁha; Varāha; specific incarnations; specifics incarnation; forms of
+*See also:* Avatāras; Supreme Lord; advents of; expansions of; Caitanya; Kṛṣṇa; Matsya; Nṛsiṁha; Varāha; specific incarnations; Mohinī-mūrti; Śiva; specifics incarnation; forms of; Vāmana

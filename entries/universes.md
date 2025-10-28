@@ -1,21 +1,19 @@
 # Universe(s)
 
-**[[cc/adi/5/119#translation|Ādi 5.119]]**, **[[cc/madhya/21/84–85#translation|Madhya 21.84–85]]**, **[[cc/madhya/22/8#translation|Madhya 22.8]]**
+**[[cc/madhya/22/8#translation|Madhya 22.8]]**, **[[cc/adi/5/119#translation|Ādi 5.119]]**, **[[cc/madhya/21/84–85#translation|Madhya 21.84–85]]**, **[[cc/madhya/20/278–82#translation|Madhya 20.278–82]]**
 
 * ”dawn” of, [[sb/2/5/21#purport|SB 2.5.21]]
 * “void” in, [[bg/6/15|Bg. 6.15]]
-* &, **[[cc/madhya/20/278–82#translation|Madhya 20.278–82]]**
 * abode of, Kṛṣṇa as, [[bg/11/45|Bg. 11.45]]
 * administrators of, [[sb/3/5/43#purport|SB 3.5.43]]
-* ages of 
+* ages of
+  * *See also: Yugas*
+  * detailed, [[bg/8/17|Bg. 8.17]]
 * Ambarīṣa’s consideration of, [[sb/9/4/17#purport|SB 9.4.17]]
 * Ananta &, **[[cc/adi/5/119#translation|Ādi 5.119]]**
 * Ananta sustains, [[sb/5/17/21#purport|SB 5.17.21]], [[sb/5/25/9#purport|SB 5.25.9]], [[sb/5/25/12#purport|SB 5.25.12]]
 * Anantadeva holds, [[sb/6/16/48#purport|SB 6.16.48]]
-* annihilation of, [[cc/adi/5/22#purport|Ādi 5.22]], [[sb/10/3/25#purport|SB 10.3.25]], [[sb/10/3/28#purport|SB 10.3.28]], [[sb/10/3/31#purport|SB 10.3.31]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/3/8/11#purport|SB 3.8.11]], [[sb/3/11/16#purport|SB 3.11.16]], [[sb/3/11/28-31#purport|SB 3.11.28-31]], [[sb/3/13/31#purport|SB 3.13.31]]
-* *See:* Annihilations of universe 
-* annihilation of. See: Annihilation 
-* annihilation of. See: Annihilation of universe(s) , , , , 
+* annihilation of, [[cc/adi/5/22#purport|Ādi 5.22]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/3/8/11#purport|SB 3.8.11]], [[sb/3/11/16#purport|SB 3.11.16]], [[sb/3/11/28-31#purport|SB 3.11.28-31]], [[sb/3/13/31#purport|SB 3.13.31]], [[sb/10/3/25#purport|SB 10.3.25]], [[sb/10/3/28#purport|SB 10.3.28]], [[sb/10/3/31#purport|SB 10.3.31]]
 * arrangement of, [[bg/15/12|Bg. 15.12]], [[bg/15/13|Bg. 15.13]]
 * as all-in-all for fools, [[sb/1/1/17#purport|SB 1.1.17]]
 * as attractive due to Lord, [[sb/1/5/20#purport|SB 1.5.20]]
@@ -27,9 +25,10 @@
 * as dark, [[sb/1/2/3#purport|SB 1.2.3]]
 * as different from Lord, [[sb/6/16/52#purport|SB 6.16.52]]
 * as egg, [[sb/3/20/14#purport|SB 3.20.14]]
-* as energy of Lord, [[sb/4/1/56#purport|SB 4.1.56]], [[sb/4/7/51#purport|SB 4.7.51]], SB Intro 2, SB Intro 24, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/22#purport|SB 1.5.22]]
+* as energy of Lord, SB Intro 2, SB Intro 24, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/4/1/56#purport|SB 4.1.56]], [[sb/4/7/51#purport|SB 4.7.51]]
 * as expanding, [[sb/3/29/43#purport|SB 3.29.43]]
 * as fruit on ”tree” of material nature, [[sb/1/3/2#purport|SB 1.3.2]]
+* as heavy as, [[sb/10/7/18#purport|SB 10.7.18]]
 * as illusory, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/6/27#purport|SB 1.6.27]], [[sb/4/3/11#purport|SB 4.3.11]]
 * as incomprehensible, [[sb/8/5/43#purport|SB 8.5.43]]
 * as innumerable, **[[cc/madhya/21/86#translation|Madhya 21.86]]**, [[cc/madhya/21/90#purport|Madhya 21.90]], [[sb/1/3/1#purport|SB 1.3.1]]
@@ -54,17 +53,17 @@
 * Baladeva (Śeṣa) sustains, N109, [[sb/10/2/8#purport|SB 10.2.8]]
 * Bali conquered, [[sb/8/15/33#purport|SB 8.15.33]]
 * Bali Mahārāja conquered, [[sb/2/7/17#purport|SB 2.7.17]]
-* basis of, Lord as, [[sb/4/1/56#purport|SB 4.1.56]], [[sb/4/7/50#purport|SB 4.7.50]], SB Intro 2, SB Intro 24, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/30#purport|SB 1.5.30]]
 * basis of, [[sb/2/5/11#purport|SB 2.5.11]], [[sb/2/5/21#purport|SB 2.5.21]], [[sb/2/6/31#purport|SB 2.6.31]]
+* basis of, Lord as, SB Intro 2, SB Intro 24, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/20#purport|SB 1.5.20]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/30#purport|SB 1.5.30]], [[sb/4/1/56#purport|SB 4.1.56]], [[sb/4/7/50#purport|SB 4.7.50]]
 * beginning of, Lord as, [[bg/10/20|Bg. 10.20]]
-* beings in. See: Living entities 
+* beings in. See: Living entities
 * beyond comprehension, [[sb/3/6/10#purport|SB 3.6.10]]
 * Bhāgavatam heard throughout, [[sb/2/8/2#purport|SB 2.8.2]]
 * Bhāgavatam reveals, [[sb/8/2/14-19#purport|SB 8.2.14-19]]
 * Bharata ruled, [[sb/9/20/32#purport|SB 9.20.32]], [[sb/9/20/33#purport|SB 9.20.33]]
 * bodily concept pervades, [[sb/8/16/19#purport|SB 8.16.19]]
 * bondage in, cause of, [[sb/1/1/4#purport|SB 1.1.4]]
-* Brahmā 
+* Brahmā
 * Brahmā engineers, [[sb/7/3/26-27#purport|SB 7.3.26-27]]
 * Brahmā first & foremost in, [[sb/7/3/22#purport|SB 7.3.22]], [[sb/7/3/28-28#purport|SB 7.3.28-28]]
 * Brahmā re-created, [[sb/3/20/17-17#purport|SB 3.20.17-17]]
@@ -72,16 +71,17 @@
 * Brahmā’s cognizance of, [[sb/2/5/3#purport|SB 2.5.3]]
 * Brahmās &, [[cc/madhya/21/18#purport|Madhya 21.18]], **[[cc/madhya/21/58#translation|Madhya 21.58]]**
 * brain behind, [[sb/2/5/2#purport|SB 2.5.2]]
+* brains behind, [[sb/2/5/2#purport|SB 2.5.2]], [[sb/2/5/2#purport|SB 2.5.2]]
 * Caitanya’s presence sanctified, **[[cc/adi/7/163#translation|Ādi 7.163]]**
-* cause & effect in 
+* cause & effect in
+* cause of, [[sb/3/5/25#purport|SB 3.5.25]], [[sb/5/12/9#purport|SB 5.12.9]]
 * cause of, Lord as, [[sb/4/1/57#purport|SB 4.1.57]]
-* cause of, [[sb/3/5/25#purport|SB 3.5.25]]
 * center of, at Naimiṣāraṇya, [[sb/1/1/4#purport|SB 1.1.4]]
 * chance to surrender to Kṛṣṇa in, [[sb/1/3/1#purport|SB 1.3.1]]
 * change in, [[sb/2/6/18#purport|SB 2.6.18]]
 * civiliātion pervades, [[sb/7/8/33#purport|SB 7.8.33]]
-* compared 
-* compared to 
+* compared
+* compared to
 * compared to dust particles, [[cc/adi/5/71#purport|Ādi 5.71]], **[[cc/adi/5/72#translation|Ādi 5.72]]**
 * compared to mustard seed, [[cc/adi/5/22#purport|Ādi 5.22]]
 * compared to tree, [[sb/3/9/16#purport|SB 3.9.16]]
@@ -89,24 +89,25 @@
 * compared with spiritual worlds, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/6/31#purport|SB 1.6.31]]
 * competition in, [[sb/1/1/2#purport|SB 1.1.2]]
 * conditioned souls travel in, [[sb/1/11/35#purport|SB 1.11.35]]
+* conquers, [[sb/7/4/5-7#purport|SB 7.4.5-7]]
 * conserved in Lord, [[sb/4/7/42#purport|SB 4.7.42]]
 * control of, forms of Lord for, [[sb/4/30/23#purport|SB 4.30.23]]
-* controlled by Lord, 7 
 * controlled by Lord, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/7/32#purport|SB 1.7.32]]
+* controlled by Lord, 7
 * controller of, Brahmā as, [[sb/4/30/46#purport|SB 4.30.46]]
 * controllers of, three listed, [[sb/2/6/32#purport|SB 2.6.32]], [[sb/8/3/2#purport|SB 8.3.2]]
+* controls, [[sb/10/9/19#purport|SB 10.9.19]]
 * covering layers of, [[sb/3/32/9#purport|SB 3.32.9]], [[sb/6/16/37-37#purport|SB 6.16.37-37]]
 * coverings of, detailed, [[sb/3/26/52-52#purport|SB 3.26.52-52]]
 * coverings of, sevenfold, [[sb/2/1/25#purport|SB 2.1.25]], [[sb/2/2/28#purport|SB 2.2.28]]
 * created by Brahmā secondarily, [[sb/4/1/1#purport|SB 4.1.1]]
+* creates from spiritual potency, [[sb/5/7/14#purport|SB 5.7.14]]
+* creates, controls, & destroys, [[sb/9/4/56#purport|SB 9.4.56]]
 * creation & control of, [[sb/6/16/37-37#purport|SB 6.16.37-37]]
-* *See:* [[c#Creation|Creation]] 
-* creation of. See: Creation (act of) , 
-* creation of. See: Creation of universe(s) 
-* creation of. See: Creation, the 
+* creation of. See: Creation of universe(s)
 * creator & co-creator of, [[sb/2/5/11#purport|SB 2.5.11]]
 * creator & controller of, [[sb/7/7/17#purport|SB 7.7.17]], [[sb/7/7/24#purport|SB 7.7.24]], [[sb/7/9/22#purport|SB 7.9.22]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/38#purport|SB 7.9.38]]
-* creator of, [[sb/8/23/8#purport|SB 8.23.8]]
+* creator of, [[sb/5/17/22-23#purport|SB 5.17.22-23]], [[sb/8/23/8#purport|SB 8.23.8]]
 * curiosity concerning, [[sb/1/1/1#purport|SB 1.1.1]]
 * Dakṣa’s daughters generated population of, [[sb/7/15/80#purport|SB 7.15.80]]
 * darkness covered, at demons’ birth, [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/17/6#purport|SB 3.17.6]]
@@ -114,34 +115,42 @@
 * death pervades, [[sb/1/13/19#purport|SB 1.13.19]]
 * deities within, three original, [[sb/7/3/36#purport|SB 7.3.36]]
 * deliverance of, **[[cc/antya/3/77–84#translation|Antya 3.77–84]]**
-* destruction of. See: Annihilation of universe(s) 
-* *See:* [[a#Annihilation|Annihilation]] 
+* destroys, [[sb/9/4/53-54#purport|SB 9.4.53-54]]
+* destruction of. See: Annihilation of universe(s)
 * devotees preach throughout, [[sb/3/4/25#purport|SB 3.4.25]]
 * devotional creeper penetrates, [[sb/3/2/6#purport|SB 3.2.6]]
 * diameter of, [[sb/5/17/21#purport|SB 5.17.21]], [[sb/5/21/1#purport|SB 5.21.1]], [[sb/5/23/9#purport|SB 5.23.9]]
 * dimensions of, [[sb/2/5/40-41#purport|SB 2.5.40-41]]
-* directions of, demigods governing, [[sb/3/23/39#purport|SB 3.23.39]]
 * directions of, [[sb/9/16/24#purport|SB 9.16.24]]
+* directions of, demigods governing, [[sb/3/23/39#purport|SB 3.23.39]]
+* director of, [[sb/5/1/7#purport|SB 5.1.7]]
 * dissolution of, [[sb/4/9/14#purport|SB 4.9.14]], [[sb/4/9/21#purport|SB 4.9.21]], [[sb/4/9/25#purport|SB 4.9.25]], [[sb/8/10/50#purport|SB 8.10.50]]
 * distress in, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/6/36#purport|SB 2.6.36]]
 * disturbed at demons’ birth, [[sb/3/17/3-15#purport|SB 3.17.3-15]]
+* disturbed, [[sb/7/3/4-6#purport|SB 7.3.4-6]]
 * disturbers disturbed in, [[sb/1/3/36#purport|SB 1.3.36]]
 * Diti’s pregnancy darkened, [[sb/3/15/2#purport|SB 3.15.2]]
 * divisions of, [[sb/3/24/20#purport|SB 3.24.20]]
 * divisions of, three described, [[sb/1/6/31#purport|SB 1.6.31]], [[sb/1/7/31#purport|SB 1.7.31]]
+* drop of water, [[sb/5/25/9#purport|SB 5.25.9]]
 * dual purpose of, [[sb/1/3/1#purport|SB 1.3.1]]
 * duality of matter & spirit in, [[sb/1/2/11#purport|SB 1.2.11]]
 * duration of, [[bg/8/17|Bg. 8.17]], [[sb/2/6/42#purport|SB 2.6.42]], [[sb/7/3/32#purport|SB 7.3.32]]
-* elements of. See: Element(s), material 
+* elements of. See: Element(s), material
 * enjoyment in, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/3/1#purport|SB 1.3.1]]
 * entered by Lord, [[sb/3/26/50#purport|SB 3.26.50]], [[sb/3/26/53#purport|SB 3.26.53]]
+* enters as Supersoul, [[sb/5/7/14#purport|SB 5.7.14]]
 * envy in, [[sb/1/1/2#purport|SB 1.1.2]]
+* everywhere in, [[sb/10/7/35-36#purport|SB 10.7.35-36]], [[sb/10/13/61#purport|SB 10.13.61]]
 * evolution in, [[sb/4/24/29#purport|SB 4.24.29]]
 * evolution of, [[sb/2/5/22#purport|SB 2.5.22]], [[sb/2/5/25-31#purport|SB 2.5.25-31]], [[sb/2/5/25-31#purport|SB 2.5.25-31]], [[sb/3/5/33#purport|SB 3.5.33]]
 * expansions of, [[bg/11/13|Bg. 11.13]]
+* extensive influence of, [[sb/2/5/19#purport|SB 2.5.19]]
 * father of, Kṛṣṇa as, [[bg/9/17|Bg. 9.17]]
 * form of Lord as, [[bg/11/3|Bg. 11.3]], [[bg/11/7–32|Bg. 11.7–32]]
+  * *See also:* Universal form
 * forms in, as dissatisfying, [[sb/1/6/18#purport|SB 1.6.18]]
+* fort, [[sb/5/23/3#purport|SB 5.23.3]]
 * fourteen worlds of, [[cc/adi/5/98#purport|Ādi 5.98]]
 * from Lord’s breathing, [[sb/3/7/37#purport|SB 3.7.37]]
 * from Lord’s navel, [[sb/4/24/50#purport|SB 4.24.50]]
@@ -155,31 +164,40 @@
 * half-full of water, [[sb/1/3/2#purport|SB 1.3.2]]
 * happiness nonexistent in, [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/2/8#purport|SB 1.2.8]]
 * hellish planets’ location in, [[sb/5/26/1#purport|SB 5.26.1]], [[sb/5/26/5#purport|SB 5.26.5]]
-* Hiraṇyakaśipu 
+* Hiraṇyakaśipu
 * Hiraṇyakaśipu terrorized, [[sb/1/13/19#purport|SB 1.13.19]]
 * history of, [[bg/4/1|Bg. 4.1]] (5)
+  * Lord’s pastimes related in, [[bg/10/18|Bg. 10.18]]
 * history of, repeats itself, [[sb/1/6/11#purport|SB 1.6.11]]
 * history of, two concepts of, [[sb/1/3/41#purport|SB 1.3.41]]
+* illuminates, [[sb/5/7/14#purport|SB 5.7.14]], [[sb/7/8/24#purport|SB 7.8.24]]
 * in banyan analogy, [[bg/15/1|Bg. 15.1]]
 * in Causal Ocean, [[sb/1/14/36#purport|SB 1.14.36]], [[sb/3/20/15#purport|SB 3.20.15]], [[sb/4/22/40#purport|SB 4.22.40]]
-* in Kṛṣṇa’s effulgence, [[sb/10/9/10#purport|SB 10.9.10]], [[sb/4/24/28#purport|SB 4.24.28]]
+* in Kṛṣṇa’s effulgence, [[sb/4/24/28#purport|SB 4.24.28]], [[sb/10/9/10#purport|SB 10.9.10]]
 * in mahat-tattva, [[sb/1/3/1#purport|SB 1.3.1]], [[sb/1/19/5#purport|SB 1.19.5]], [[sb/2/9/10#purport|SB 2.9.10]]
 * in Pādma-kalpa at present, [[sb/2/10/47#purport|SB 2.10.47]]
 * ingredients of, [[sb/2/6/42#purport|SB 2.6.42]]
-* innumerable, [[sb/10/13/44#purport|SB 10.13.44]], [[sb/9/11/19#purport|SB 9.11.19]]
+* innumerable, [[sb/9/11/19#purport|SB 9.11.19]], [[sb/10/13/44#purport|SB 10.13.44]]
 * intelligent life in, [[sb/2/4/8#purport|SB 2.4.8]]
 * Kāraṇodakaśāyī Viṣṇu breathes, [[sb/3/20/17#purport|SB 3.20.17]]
 * Kārtavīryārjuna stormed, [[sb/9/15/17-19#purport|SB 9.15.17-19]]
-* Kṛṣṇa , 
+* Kṛṣṇa
+  * father of, [[bg/9/17|Bg. 9.17]]
+  * life of, [[bg/10/20|Bg. 10.20]]
+  * maintains, [[bg/7/10|Bg. 7.10]]
+  * origin of, [[bg/10/20|Bg. 10.20]]
+  * pervades, [[bg/11/38|Bg. 11.38]]
+  * present throughout, [[bg/9/11|Bg. 9.11]] (8)
+  * transcendental to, [[bg/11/37–38|Bg. 11.37–38]]
 * laws of Lord control, [[sb/1/7/32#purport|SB 1.7.32]]
 * liars burden, [[sb/8/20/4#purport|SB 8.20.4]]
 * liberation afforded in, [[sb/1/3/1#purport|SB 1.3.1]]
 * light of, source of, [[sb/4/12/36#purport|SB 4.12.36]]
-* living entities , 
+* living entities
 * living entities cannot see outside of, [[sb/5/21/11#purport|SB 5.21.11]]
 * living entities in, types of, [[sb/2/10/37-40#purport|SB 2.10.37-40]]
 * living entities wander, [[sb/4/21/51#purport|SB 4.21.51]]
-* Lord , , 
+* Lord
 * Lord animates, [[sb/2/5/34#purport|SB 2.5.34]]
 * Lord as Soul of, [[sb/3/6/2#purport|SB 3.6.2]], [[sb/3/6/5#purport|SB 3.6.5]], [[sb/3/6/10#purport|SB 3.6.10]]
 * Lord causes, [[sb/4/11/17#purport|SB 4.11.17]]
@@ -195,8 +213,8 @@
 * Lord’s form attracts everyone in, [[sb/1/9/33#purport|SB 1.9.33]], [[sb/1/9/33#purport|SB 1.9.33]]
 * Lord’s hair pores generate, [[sb/2/8/8#purport|SB 2.8.8]]
 * Lord’s manifested throughout, **[[cc/madhya/20/217–19#translation|Madhya 20.217–19]]**, **[[cc/madhya/20/391–97#translation|Madhya 20.391–97]]**
-* Lord’s pastimes in, devotee enters, [[sb/9/11/22#purport|SB 9.11.22]]
 * Lord’s pastimes in, [[sb/1/14/8#purport|SB 1.14.8]], [[sb/1/15/35#purport|SB 1.15.35]], [[sb/10/1/23#purport|SB 10.1.23]]
+* Lord’s pastimes in, devotee enters, [[sb/9/11/22#purport|SB 9.11.22]]
 * Lord’s presence in, [[sb/4/24/60#purport|SB 4.24.60]]
 * Lord(s) of, [[sb/4/1/30#purport|SB 4.1.30]]
 * lower region of, Purukutsa in, [[sb/9/7/2#purport|SB 9.7.2]], [[sb/9/7/3#purport|SB 9.7.3]]
@@ -204,7 +222,10 @@
 * Mahā-Viṣṇu as source of, [[sb/2/10/3#purport|SB 2.10.3]]
 * Mahā-Viṣṇu breathes out, [[sb/4/24/61#purport|SB 4.24.61]]
 * Mahā-Viṣṇu breathes, [[sb/10/1/2#purport|SB 10.1.2]], [[sb/10/3/14#purport|SB 10.3.14]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
-* maintenance of 
+* maintains, [[sb/9/23/20-21#purport|SB 9.23.20-21]]
+* maintenance of
+  * by Kṛṣṇa, [[bg/7/10|Bg. 7.10]]
+  * demigods appointed for, [[bg/4/25|Bg. 4.25]]
 * maintenance of, form of Lord for, [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/30/24#purport|SB 4.30.24]]
 * Maya Dānava’s demons ravaged, [[sb/7/10/54-55#purport|SB 7.10.54-55]]
 * māyā generates, **[[cc/adi/5/66#translation|Ādi 5.66]]**
@@ -212,30 +233,37 @@
 * misery in, [[sb/1/5/32#purport|SB 1.5.32]]
 * moon-god chief living being of, [[sb/5/22/10#purport|SB 5.22.10]]
 * multitude of, Arjuna could see, [[bg/11/13|Bg. 11.13]]
+* mustard seed, [[sb/5/17/21#purport|SB 5.17.21]], [[sb/5/25/2#purport|SB 5.25.2]]
+* mystifies, [[sb/10/13/44#purport|SB 10.13.44]]
 * named according to Brahmā(s), [[sb/1/3/6#purport|SB 1.3.6]]
 * Nārada distributes knowledge throughout, [[sb/5/25/8#purport|SB 5.25.8]]
 * Nārada inquires about, [[sb/2/5/2-6#purport|SB 2.5.2-6]]
 * Nārada’s travels in, [[sb/4/8/38#purport|SB 4.8.38]]
 * not false but temporary, SB Intro 24-25
 * number & source of, [[sb/2/1/25#purport|SB 2.1.25]]
-* number of, 23 
 * number of, **[[cc/madhya/21/15#translation|Madhya 21.15]]**
+* number of, 23
 * oceans in, [[sb/8/2/4#purport|SB 8.2.4]]
 * one sun in, [[sb/5/21/11#purport|SB 5.21.11]]
-* origin of 
+* origin of, [[sb/2/6/33#purport|SB 2.6.33]]
+  * Kṛṣṇa as, [[bg/10/20|Bg. 10.20]]
+  * Mahā-Viṣṇu as, [[bg/11/54|Bg. 11.54]] (4)
+* original person of, [[sb/5/1/10#purport|SB 5.1.10]]
 * partial creation of, [[sb/2/5/21#purport|SB 2.5.21]]
 * past-present-future awareness of, [[sb/2/5/3#purport|SB 2.5.3]]
 * patriarchs of, [[bg/10/6|Bg. 10.6]], [[bg/10/7|Bg. 10.7]]
+  * origin of, Nārāyaṇa as, [[bg/10/8|Bg. 10.8]]
 * people in, two types listed, [[sb/8/10/6#purport|SB 8.10.6]]
+* pervade, [[sb/7/14/36#purport|SB 7.14.36]]
 * pervaded by Kṛṣṇa, [[bg/11/38|Bg. 11.38]]
+* pervades, [[sb/7/12/15#purport|SB 7.12.15]], [[sb/7/13/5-5#purport|SB 7.13.5-5]], [[sb/7/14/37#purport|SB 7.14.37]]
 * pivot of, [[sb/2/2/25#purport|SB 2.2.25]], [[sb/4/29/42-44#purport|SB 4.29.42-44]]
+* plagued, [[sb/7/8/35#purport|SB 7.8.35]]
 * planetary motion in, [[sb/4/31/16#purport|SB 4.31.16]]
 * planetary systems in, [[sb/4/20/35-36#purport|SB 4.20.35-36]]
 * planets as islands in, [[sb/1/16/12#purport|SB 1.16.12]]
-* planets in, [[sb/9/14/21#purport|SB 9.14.21]]
-* planets in. See: Planet(s) 
-* *See:* [[p#Planets|Planets]] 
-* planets of. See: Planets 
+* planets in. See: Planet(s), [[sb/9/14/21#purport|SB 9.14.21]]
+* planets of. See: Planets
 * polestar of, [[bg/18/71|Bg. 18.71]]
 * politics pervades, [[sb/8/6/31#purport|SB 8.6.31]]
 * Prajāpatis populated, [[sb/3/21/5#purport|SB 3.21.5]], [[sb/3/22/20#purport|SB 3.22.20]]
@@ -256,6 +284,7 @@
 * root cause of, [[sb/3/9/16#purport|SB 3.9.16]]
 * scientists &, [[sb/8/2/6#purport|SB 8.2.6]]
 * seen in Kṛṣṇa’s mouth, [[sb/2/7/30#purport|SB 2.7.30]], [[sb/2/7/30#purport|SB 2.7.30]]
+* senses & elements created by, [[sb/2/5/25-29#purport|SB 2.5.25-29]]
 * seven oceans in, **[[cc/adi/5/10#translation|Ādi 5.10]]**, [[cc/adi/5/111#purport|Ādi 5.111]]
 * sex motivates, [[sb/1/1/1#purport|SB 1.1.1]]
 * sexual attachment predominates, [[sb/6/18/30-30#purport|SB 6.18.30-30]]
@@ -275,25 +304,34 @@
 * spiritualization of, [[sb/1/5/23#purport|SB 1.5.23]], [[sb/1/5/33#purport|SB 1.5.33]]
 * stages of, [[sb/2/5/30#purport|SB 2.5.30]], [[sb/2/5/33-34#purport|SB 2.5.33-34]]
 * star(s) in, [[bg/15/12|Bg. 15.12]]
+  * moon as, [[bg/10/21|Bg. 10.21]], [[bg/15/12|Bg. 15.12]]
 * structure of, [[sb/2/7/1#purport|SB 2.7.1]]
 * struggle for existence in, [[sb/1/2/4#purport|SB 1.2.4]]
 * Sudarśana cakra protects, [[sb/9/5/9#purport|SB 9.5.9]]
 * suffocated by Dhruva, [[sb/4/8/80-81#purport|SB 4.8.80-81]]
-* sun &. See: Sun, universe & ... 
+* sun &. See: Sun, universe & ...
 * sun in, [[bg/10/21|Bg. 10.21]], [[bg/15/12|Bg. 15.12]], [[sb/3/15/2#purport|SB 3.15.2]]
 * sun’s importance in, [[cc/adi/7/127#purport|Ādi 7.127]]
 * Supreme Brahman manifests, [[sb/10/13/55#purport|SB 10.13.55]]
+* supreme person in, [[sb/5/1/9#purport|SB 5.1.9]]
 * surrender to Kṛṣṇa in, [[sb/1/3/1#purport|SB 1.3.1]]
+* sustains, [[sb/7/13/4#purport|SB 7.13.4]]
 * Svāyambhuva Manu ruler of, [[sb/5/1/22#purport|SB 5.1.22]]
 * theory about cause of varieties in, [[sb/5/12/9#purport|SB 5.12.9]]
 * three planetary systems of, [[sb/5/20/37#purport|SB 5.20.37]]
-* time calculation in. See: Time 
+* time calculation in. See: Time
 * time controls, [[sb/1/9/14#purport|SB 1.9.14]]
 * time destroys, [[sb/8/3/5#purport|SB 8.3.5]]
 * time in, [[sb/3/11/4#purport|SB 3.11.4]]
 * time periods of, [[bg/8/17–19|Bg. 8.17–19]], [[bg/9/7|Bg. 9.7]]
+  * *See also:* Time
 * time pervades, [[sb/1/13/20#purport|SB 1.13.20]]
+* to banyan seed, [[sb/2/5/11#purport|SB 2.5.11]]
+* to electricity, [[sb/2/4/6#purport|SB 2.4.6]]
+* to football, [[sb/2/1/25#purport|SB 2.1.25]], [[sb/2/6/11#purport|SB 2.6.11]]
+* to mustard seed, [[sb/2/6/18#purport|SB 2.6.18]]
 * transformation of, [[sb/2/5/22#purport|SB 2.5.22]]
+* trapped in, [[sb/7/9/21#purport|SB 7.9.21]]
 * traveling beyond, [[sb/3/15/26#purport|SB 3.15.26]]
 * understanding of, by theory or facts, [[sb/2/5/2#purport|SB 2.5.2]]
 * universal form of Kṛṣṇa contains everything of, [[bg/11/7|Bg. 11.7]]
@@ -308,8 +346,13 @@
 * Viṣṇu expansions in, [[sb/8/3/17#purport|SB 8.3.17]]
 * Viṣṇu maintainer of, [[sb/5/17/22-23#purport|SB 5.17.22-23]]
 * Viṣṇu source of, [[sb/3/33/2-2#purport|SB 3.33.2-2]]
+* wander, N101, [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/13#purport|SB 10.10.13]]
 * water inundation of, [[sb/5/18/25#purport|SB 5.18.25]]
+* wheat grain, [[sb/5/21/2#purport|SB 5.21.2]]
+* within & without, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/9#purport|SB 10.2.9]]
 * Yaśodā saw, in Kṛṣṇa’s mouth, [[sb/10/7/35-36#purport|SB 10.7.35-36]], [[sb/10/7/37#purport|SB 10.7.37]], [[sb/10/8/37-39#purport|SB 10.8.37-39]]
 * yogīs travel in, [[sb/1/9/29#purport|SB 1.9.29]]
 
-*See also:* [[m#Material world|Material world]]; [[p#Planets|Planets]]; [[c#Creation (act of)|Creation (act of)]]; [[c#Creation|Creation]]; the; [[m#Material nature|Material nature]]; [[s#Spiritual world|Spiritual world]]; [[c#Creation (the)|Creation (the)]]; [[e#Earth planet|Earth planet]]; [[s#Stars|Stars]]; [[s#Sun|Sun]]; Heavenlies planet
+*See also:* [Creation](entries/creation.md); Material world; the; Earth planet; Material nature; Planets; Stars; [Sun](entries/suns.md); Heavenlies planet; Creation (act of); Spiritual world; Creation (the)
+
+*See:* [Creation](entries/creation.md); Annihilation; Annihilations of universe; Planets

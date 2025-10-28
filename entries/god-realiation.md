@@ -24,6 +24,6 @@
 * via surrender to Lord, [[sb/7/6/20-23#purport|SB 7.6.20-23]]
 * via Vedas, [[sb/7/9/37#purport|SB 7.9.37]]
 
-*See also:* Devotional service; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See also:* Devotional service; Kṛṣṇa consciousness
 
-*See:* [[r#Realization about Lord|Realization about Lord]]
+*See:* Realization about Lord

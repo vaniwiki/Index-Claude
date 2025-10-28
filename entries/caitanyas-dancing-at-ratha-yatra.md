@@ -1,6 +1,6 @@
 # Caitanyas dancing at Ratha-yātrā
 
-**[[cc/antya/10/105#translation|Antya 10.105]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**, **[[cc/madhya/13/191–92#translation|Madhya 13.191–92]]**, **[[cc/madhya/13/192#translation|Madhya 13.192]]**
+**[[cc/antya/10/105#translation|Antya 10.105]]**, **[[cc/madhya/13/191–92#translation|Madhya 13.191–92]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**, **[[cc/madhya/13/192#translation|Madhya 13.192]]**
 
 * Advaita &, **[[cc/madhya/13/87#translation|Madhya 13.87]]**
 * Balarāma &, **[[cc/madhya/13/100#translation|Madhya 13.100]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**

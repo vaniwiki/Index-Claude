@@ -1,12 +1,21 @@
 # Demigod(s)
 
-[[cc/adi/10/10#purport|Ādi 10.10]], **[[cc/adi/14/48–49#translation|Ādi 14.48–49]]**, [[cc/adi/14/50#purport|Ādi 14.50]], **[[cc/adi/14/50#translation|Ādi 14.50]]**, **[[cc/adi/14/62#translation|Ādi 14.62]]**, [[cc/adi/14/66#purport|Ādi 14.66]], **[[cc/adi/4/51#translation|Ādi 4.51]]**, [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/adi/9/43#purport|Ādi 9.43]], [[cc/antya/9/8#purport|Antya 9.8]], [[cc/madhya/11/31#purport|Madhya 11.31]], [[cc/madhya/18/115#purport|Madhya 18.115]], **[[cc/madhya/18/116#translation|Madhya 18.116]]**, [[cc/madhya/19/167#purport|Madhya 19.167]], **[[cc/madhya/19/168#translation|Madhya 19.168]]**, [[cc/madhya/20/173#purport|Madhya 20.173]], **[[cc/madhya/23/84–85#translation|Madhya 23.84–85]]**, [[cc/madhya/24/123–24#purport|Madhya 24.123–24]], [[cc/madhya/24/330#purport|Madhya 24.330]], **[[cc/madhya/25/148#translation|Madhya 25.148]]**, **[[cc/madhya/25/79–80#translation|Madhya 25.79–80]]**, [[cc/madhya/8/83#purport|Madhya 8.83]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/9/137#purport|Madhya 9.137]], [[sb/3/26/26#purport|SB 3.26.26]]
+**[[cc/adi/4/51#translation|Ādi 4.51]]**, **[[cc/adi/14/50#translation|Ādi 14.50]]**, [[cc/antya/9/8#purport|Antya 9.8]], [[cc/madhya/24/123–24#purport|Madhya 24.123–24]], **[[cc/madhya/25/148#translation|Madhya 25.148]]**, **[[cc/madhya/23/84–85#translation|Madhya 23.84–85]]**, **[[cc/madhya/25/79–80#translation|Madhya 25.79–80]]**, [[cc/madhya/18/115#purport|Madhya 18.115]], **[[cc/madhya/18/116#translation|Madhya 18.116]]**, [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/adi/9/43#purport|Ādi 9.43]], [[cc/adi/10/10#purport|Ādi 10.10]], **[[cc/adi/14/48–49#translation|Ādi 14.48–49]]**, [[cc/adi/14/50#purport|Ādi 14.50]], **[[cc/adi/14/62#translation|Ādi 14.62]]**, [[cc/adi/14/66#purport|Ādi 14.66]], [[cc/madhya/8/83#purport|Madhya 8.83]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/9/137#purport|Madhya 9.137]], [[cc/madhya/11/31#purport|Madhya 11.31]], [[cc/madhya/19/167#purport|Madhya 19.167]], **[[cc/madhya/19/168#translation|Madhya 19.168]]**, [[cc/madhya/20/173#purport|Madhya 20.173]], [[cc/madhya/24/330#purport|Madhya 24.330]], [[sb/3/26/26#purport|SB 3.26.26]]
 
+* & Arci surpassed, [[sb/4/23/26#purport|SB 4.23.26]], [[sb/4/23/27#purport|SB 4.23.27]]
+* & devotees cooperate with, [[sb/1/19/18#purport|SB 1.19.18]]
+* about nectar theft, [[sb/8/8/36-37#purport|SB 8.8.36-37]]
+* above, [[sb/1/15/12#purport|SB 1.15.12]], [[sb/1/17/34#purport|SB 1.17.34]], [[sb/7/10/64#purport|SB 7.10.64]], [[sb/8/3/5#purport|SB 8.3.5]], [[sb/8/3/6#purport|SB 8.3.6]], [[sb/8/3/30#purport|SB 8.3.30]], [[sb/8/5/21#purport|SB 8.5.21]], [[sb/8/5/26#purport|SB 8.5.26]], [[sb/8/5/31-31#purport|SB 8.5.31-31]], [[sb/8/5/50#purport|SB 8.5.50]], [[sb/8/16/37#purport|SB 8.16.37]], [[sb/8/24/49#purport|SB 8.24.49]], [[sb/9/11/1-1#purport|SB 9.11.1-1]]
 * absent in Vaikuṇṭha, [[sb/3/25/38#purport|SB 3.25.38]]
+* accepts post of, [[sb/1/3/12#purport|SB 1.3.12]]
+* accompanied by, [[sb/4/30/6#purport|SB 4.30.6]]
 * Aditi mother of, [[sb/8/16/1#purport|SB 8.16.1]], [[sb/8/16/15#purport|SB 8.16.15]], [[sb/8/17/12#purport|SB 8.17.12]], [[sb/8/23/4#purport|SB 8.23.4]]
 * administrative, [[bg/8/2|Bg. 8.2]], [[sb/1/11/26#purport|SB 1.11.26]]
+* advents at request of, [[sb/3/24/27#purport|SB 3.24.27]]
 * advised by Brahmā, [[sb/4/6/4-7#purport|SB 4.6.4-7]]
 * advised by Lord about Dhruva, [[sb/4/8/82#purport|SB 4.8.82]]
+* advised Kaṁsa about, [[sb/10/4/32-39#purport|SB 10.4.32-39]], [[sb/10/4/42#purport|SB 10.4.42]]
+* advised, in demon battle, [[sb/8/6/19-25#purport|SB 8.6.19-25]]
 * afraid of Dakṣa, [[sb/4/4/7#purport|SB 4.4.7]]
 * afraid of Hiraṇyakaśipu, [[sb/1/3/28#purport|SB 1.3.28]]
 * Aghāsura feared by, [[sb/10/12/13#purport|SB 10.12.13]]
@@ -21,13 +30,15 @@
 * apologize for praying for safety, [[sb/6/9/42-42#purport|SB 6.9.42-42]]
 * appeal to Lord about Dhruva, [[sb/4/8/81#purport|SB 4.8.81]]
 * appearing ”greater” than God, [[sb/4/4/16#purport|SB 4.4.16]]
+* appoints, for manvantaras, [[sb/8/14/2#purport|SB 8.14.2]]
 * approach Brahmā, [[sb/4/6/2#purport|SB 4.6.2]]
 * approach Śiva, [[sb/4/6/33-39#purport|SB 4.6.33-39]]
-* Arjuna 
+* approached by, [[sb/6/7/26#purport|SB 6.7.26]], [[sb/8/6/27-30#purport|SB 8.6.27-30]]
+* Arjuna
 * Arjuna fought, [[bg/2/33|Bg. 2.33]]
-* as ”childish,” [[sb/4/7/2#purport|SB 4.7.2]]
-* as ”deathless,” [[sb/1/17/15#purport|SB 1.17.15]]
-* as *īśvaras,* 3.24 3.24
+* as ”childish,”, [[sb/4/7/2#purport|SB 4.7.2]]
+* as ”deathless,”, [[sb/1/17/15#purport|SB 1.17.15]]
+* as *īśvaras,*, 3.24
 * as adhidaivic, [[sb/2/10/8#purport|SB 2.10.8]]
 * as agents of Lord, [[bg/3/11|Bg. 3.11]], [[bg/3/12|Bg. 3.12]], [[bg/9/23|Bg. 9.23]]
 * as assistants of Lord, [[sb/1/2/27-29#purport|SB 1.2.27-29]]
@@ -35,12 +46,13 @@
 * as controllers of nature, [[bg/3/11|Bg. 3.11]], [[bg/3/12|Bg. 3.12]], [[bg/3/24|Bg. 3.24]], [[bg/4/12|Bg. 4.12]], [[bg/4/25|Bg. 4.25]]
 * as controllers, [[sb/2/10/8#purport|SB 2.10.8]], [[sb/2/10/24#purport|SB 2.10.24]], [[sb/3/25/38#purport|SB 3.25.38]], [[sb/3/25/42-42#purport|SB 3.25.42-42]], [[sb/3/28/27#purport|SB 3.28.27]], [[sb/3/29/44#purport|SB 3.29.44]]
 * as deathless, [[sb/7/3/21#purport|SB 7.3.21]]
-* as devotees, [[sb/10/1/64#purport|SB 10.1.64]], [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/25/42#purport|SB 3.25.42]], [[sb/7/9/13#purport|SB 7.9.13]], [[sb/8/10/2#purport|SB 8.10.2]]
+* as devotees, [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/25/42#purport|SB 3.25.42]], [[sb/7/9/13#purport|SB 7.9.13]], [[sb/8/10/2#purport|SB 8.10.2]], [[sb/10/1/64#purport|SB 10.1.64]]
 * as gods under Kṛṣṇa, [[sb/4/7/43#purport|SB 4.7.43]]
 * as Hiraṇyakaśipu’s enemies, [[sb/7/2/6-6#purport|SB 7.2.6-6]]
 * as Kṛṣṇa’s agents, [[bg/3/11|Bg. 3.11]], [[bg/3/12|Bg. 3.12]], [[bg/9/23|Bg. 9.23]]
-* as living entities, not God, [[bg/4/12|Bg. 4.12]]
+* as life & soul of, [[sb/7/2/9#purport|SB 7.2.9]]
 * as living entities, [[sb/8/24/30#purport|SB 8.24.30]]
+* as living entities, not God, [[bg/4/12|Bg. 4.12]]
 * as Lord’s assistants, [[sb/2/5/15#purport|SB 2.5.15]], [[sb/2/5/15#purport|SB 2.5.15]], [[sb/4/16/5#purport|SB 4.16.5]]
 * as Lord’s devotees, [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/25/42#purport|SB 3.25.42]]
 * as Lord’s parts & parcels, [[sb/4/21/34#purport|SB 4.21.34]]
@@ -48,7 +60,7 @@
 * as Lord’s servants, [[sb/1/15/34#purport|SB 1.15.34]], [[sb/4/7/42-42#purport|SB 4.7.42-42]], [[sb/4/7/43#purport|SB 4.7.43]]
 * as manifested entities, [[sb/2/6/29#purport|SB 2.6.29]]
 * as material qualification, [[sb/7/7/51-52#purport|SB 7.7.51-52]]
-* as materialistic devotees, [[sb/10/10/20-22#purport|SB 10.10.20-22]], [[sb/3/9/12#purport|SB 3.9.12]], [[sb/8/22/5#purport|SB 8.22.5]], [[sb/8/22/20#purport|SB 8.22.20]]
+* as materialistic devotees, [[sb/3/9/12#purport|SB 3.9.12]], [[sb/8/22/5#purport|SB 8.22.5]], [[sb/8/22/20#purport|SB 8.22.20]], [[sb/10/10/20-22#purport|SB 10.10.20-22]]
 * as materialistic, [[sb/4/2/18#purport|SB 4.2.18]]
 * as materially agitated, [[sb/9/9/46#purport|SB 9.9.46]]
 * as materially attached, [[sb/7/8/42#purport|SB 7.8.42]]
@@ -61,18 +73,19 @@
 * as Prajāpatis, [[sb/4/24/9#purport|SB 4.24.9]]
 * as prison officers, [[sb/1/16/20#purport|SB 1.16.20]]
 * as progenitors, [[sb/1/3/5#purport|SB 1.3.5]]
-* as progenitors. See: Prajāpatis 
 * as respectable, [[sb/2/5/15#purport|SB 2.5.15]]
 * as sakāma devotees, [[sb/6/9/40#purport|SB 6.9.40]]
 * as satisfied via Kṛṣṇa, [[sb/2/1/29#purport|SB 2.1.29]]
 * as secondary actors, [[sb/6/16/48#purport|SB 6.16.48]]
 * as servants of Lord, [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/25/42#purport|SB 3.25.42]], [[sb/4/7/42-42#purport|SB 4.7.42-42]], [[sb/4/7/43#purport|SB 4.7.43]]
+* as shelter of, [[sb/7/2/11#purport|SB 7.2.11]]
 * as spiritually inclined, [[sb/3/17/16#purport|SB 3.17.16]], [[sb/3/17/20#purport|SB 3.17.20]]
 * as theists, [[sb/1/19/18#purport|SB 1.19.18]]
 * as topmost yogīs, [[sb/7/8/42#purport|SB 7.8.42]]
 * as transcendental, [[sb/1/13/49#purport|SB 1.13.49]]
 * as witnesses, [[sb/6/1/42#purport|SB 6.1.42]]
 * as world welfare workers, [[sb/8/5/19-20#purport|SB 8.5.19-20]]
+* asked to be priest of, [[sb/6/7/32-33#purport|SB 6.7.32-33]]
 * assisted by Khaṭvāṅga, [[sb/2/1/13#purport|SB 2.1.13]]
 * Aṣṭāvakra blessed & cursed daughters of, [[sb/1/15/20#purport|SB 1.15.20]]
 * asuras inferior to, [[sb/5/5/21-22#purport|SB 5.5.21-22]]
@@ -89,9 +102,12 @@
 * attainment of heavenly planets by, [[sb/5/19/22#purport|SB 5.19.22]]
 * attend Dakṣa’s sacrifice, [[sb/4/3/4-9#purport|SB 4.3.4-9]]
 * authority of, [[sb/3/25/42-42#purport|SB 3.25.42-42]]
-* Bali 
+* Bali
+* bathe in Kailāsa, [[sb/4/6/25#purport|SB 4.6.25]], [[sb/4/6/26#purport|SB 4.6.26]]
 * benedictions by, [[bg/3/11–12|Bg. 3.11–12]], [[bg/7/20–23|Bg. 7.20–23]]
-* benedictions from, [[sb/4/30/38#purport|SB 4.30.38]], [[sb/4/8/23#purport|SB 4.8.23]], [[sb/4/12/9#purport|SB 4.12.9]]
+* benedictions from, [[sb/4/8/23#purport|SB 4.8.23]], [[sb/4/12/9#purport|SB 4.12.9]], [[sb/4/30/38#purport|SB 4.30.38]]
+* best among, [[sb/7/10/51#purport|SB 7.10.51]]
+* bewilders, [[sb/4/22/9#purport|SB 4.22.9]]
 * bhagavān may refer to, [[sb/5/1/7#purport|SB 5.1.7]]
 * Bharadvāja named by, [[sb/9/20/37#purport|SB 9.20.37]], [[sb/9/20/38#purport|SB 9.20.38]]
 * Bharata excelled, [[sb/9/20/27#purport|SB 9.20.27]]
@@ -108,7 +124,7 @@
 * born of daytime, [[sb/3/20/22#purport|SB 3.20.22]]
 * born to Kīkaṭa, [[sb/6/6/6#purport|SB 6.6.6]]
 * born to Yamarāja, [[sb/6/6/9#purport|SB 6.6.9]]
-* Brahmā , 
+* Brahmā
 * Brahmā advised, about Lord’s advent, [[sb/10/1/21#purport|SB 10.1.21]], [[sb/10/1/22#purport|SB 10.1.22]], [[sb/10/1/23-25#purport|SB 10.1.23-25]]
 * Brahmā allayed fear of, [[sb/3/17/1-1#purport|SB 3.17.1-1]]
 * Brahmā approached by, [[sb/6/7/19-20#purport|SB 6.7.19-20]]
@@ -120,8 +136,11 @@
 * Brahmā’s request for, [[sb/4/6/53#purport|SB 4.6.53]]
 * brāhmaṇas represent, [[sb/7/14/18#purport|SB 7.14.18]]
 * Bṛhaspati advises, [[sb/8/15/30-31#purport|SB 8.15.30-31]]
+* by demons, [[sb/6/7/18-19#purport|SB 6.7.18-19]]
+* by materialists, [[sb/6/9/50#purport|SB 6.9.50]]
 * Caitanya’s advent &, **[[cc/adi/13/96#translation|Ādi 13.96]]**
 * Cākṣuṣa Manu &, [[sb/8/5/8#purport|SB 8.5.8]]
+* Cākṣuṣa Manu, [[sb/8/5/8#purport|SB 8.5.8]]
 * can’t award liberation, [[sb/1/2/23#purport|SB 1.2.23]], [[sb/1/2/26#purport|SB 1.2.26]], [[sb/1/2/28-29#purport|SB 1.2.28-29]]
 * can’t check Kṛṣṇa’s will, [[sb/4/7/47#purport|SB 4.7.47]]
 * can’t harm Lord’s devotee, [[sb/4/7/47#purport|SB 4.7.47]]
@@ -129,10 +148,17 @@
 * celestial lakes & gardens enjoyed by, [[sb/5/16/15#purport|SB 5.16.15]]
 * chanting Lord’s name &, [[cc/adi/7/76#purport|Ādi 7.76]]
 * chanting names of, [[cc/adi/17/212#purport|Ādi 17.212]]
-* chief among, [[bg/8/2|Bg. 8.2]], [[bg/10/7|Bg. 10.7]]
+* chants mantras for, [[sb/6/9/2#purport|SB 6.9.2]]
+* chastised, [[sb/7/4/9-12#purport|SB 7.4.9-12]]
+* chief among, [[bg/8/2|Bg. 8.2]], [[bg/10/7|Bg. 10.7]], [[sb/1/18/21#purport|SB 1.18.21]]
 * churned sea for nectar, [[sb/1/3/16#purport|SB 1.3.16]]
 * churning ocean, [[sb/3/28/27#purport|SB 3.28.27]]
-* compared 
+* comes to please, [[sb/1/3/22#purport|SB 1.3.22]]
+* compared
+  * to limbs of body, [[bg/3/14|Bg. 3.14]]
+  * with demons, [[bg/10/30|Bg. 10.30]], [[bg/17/1|Bg. 17.1]]
+  * with humans, [[bg/3/24|Bg. 3.24]]
+  * with Kṛṣṇa, [[bg/2/2|Bg. 2.2]] (3), [[bg/3/22|Bg. 3.22]], [[bg/4/12|Bg. 4.12]]
 * compared to government servants, [[sb/4/2/35#purport|SB 4.2.35]]
 * compared to Lord’s bodily limbs, [[sb/3/25/42#purport|SB 3.25.42]]
 * compared to Lord’s limbs, [[sb/4/12/6#purport|SB 4.12.6]]
@@ -142,7 +168,15 @@
 * compared to tax collector, [[sb/4/21/34#purport|SB 4.21.34]]
 * compared to tax collectors, [[sb/5/20/17#purport|SB 5.20.17]]
 * compared to tree leaves, [[sb/2/9/36#purport|SB 2.9.36]]
-* compared with 
+* compared with birth as, [[sb/5/13/21#purport|SB 5.13.21]]
+* compared with Viṣṇu worship, [[sb/8/5/49#purport|SB 8.5.49]]
+* compared with worship to Lord, [[sb/2/7/11#purport|SB 2.7.11]], [[sb/2/7/32#purport|SB 2.7.32]], [[sb/2/9/36#purport|SB 2.9.36]]
+* compared with, [[sb/3/18/3#purport|SB 3.18.3]], [[sb/4/30/36#purport|SB 4.30.36]], [[sb/4/30/38#purport|SB 4.30.38]], [[sb/10/10/20-22#purport|SB 10.10.20-22]]
+* condemned, [[sb/6/16/38#purport|SB 6.16.38]]
+* congratulated by, [[sb/4/21/45-45#purport|SB 4.21.45-45]]
+* conquered, [[sb/7/9/23#purport|SB 7.9.23]]
+* consoled, [[sb/8/8/37#purport|SB 8.8.37]]
+* contols, [[sb/9/4/56#purport|SB 9.4.56]], [[sb/9/4/71#purport|SB 9.4.71]]
 * controlling, examples of, [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/30/13#purport|SB 4.30.13]]
 * couldn’t satisfy Dhruva, [[sb/4/8/40#purport|SB 4.8.40]]
 * created by Kṛṣṇa, [[bg/10/2|Bg. 10.2]], [[bg/10/3|Bg. 10.3]], [[bg/10/42|Bg. 10.42]]
@@ -153,11 +187,11 @@
 * Dadhīci approached by, [[sb/6/10/2#purport|SB 6.10.2]]
 * dead body revived by, [[sb/9/13/8#purport|SB 9.13.8]]
 * debt to, [[sb/6/5/37-37#purport|SB 6.5.37-37]]
-* defeat of 
+* decorations of, [[sb/4/3/4#purport|SB 4.3.4]], 94
+* defeat of
 * defined, [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/5/43#purport|SB 3.5.43]], [[sb/6/18/19#purport|SB 6.18.19]]
 * degraded by opulence, [[sb/6/7/12#purport|SB 6.7.12]], [[sb/6/7/21#purport|SB 6.7.21]]
 * deities of, at demons’ birth, [[sb/3/17/13#purport|SB 3.17.13]]
-* demons 
 * demons & Rākṣasas worship, [[sb/7/3/17#purport|SB 7.3.17]]
 * demons attacked by, [[sb/6/11/2-3#purport|SB 6.11.2-3]]
 * demons compared with, [[sb/3/17/16#purport|SB 3.17.16]], [[sb/3/17/20#purport|SB 3.17.20]], [[sb/3/20/22-23#purport|SB 3.20.22-23]], [[sb/3/20/31#purport|SB 3.20.31]], [[sb/3/22/2#purport|SB 3.22.2]], [[sb/6/7/39#purport|SB 6.7.39]], [[sb/6/12/8#purport|SB 6.12.8]], [[sb/6/12/20#purport|SB 6.12.20]], [[sb/7/2/9#purport|SB 7.2.9]], [[sb/7/7/1-5#purport|SB 7.7.1-5]], [[sb/7/7/10#purport|SB 7.7.10]], [[sb/7/10/53-56#purport|SB 7.10.53-56]]
@@ -165,20 +199,22 @@
 * demons exploit, [[sb/3/18/22-23#purport|SB 3.18.22-23]], [[sb/3/19/1#purport|SB 3.19.1]]
 * demons overpowered, [[sb/3/16/36#purport|SB 3.16.36]]
 * demons vs., [[sb/1/13/49#purport|SB 1.13.49]], [[sb/1/15/34#purport|SB 1.15.34]], [[sb/8/5/15-16#purport|SB 8.5.15-16]], [[sb/8/5/19-20#purport|SB 8.5.19-20]], [[sb/8/5/50#purport|SB 8.5.50]], [[sb/8/6/19#purport|SB 8.6.19]], [[sb/8/6/22-23#purport|SB 8.6.22-23]], [[sb/8/6/28-32#purport|SB 8.6.28-32]], [[sb/8/6/38#purport|SB 8.6.38]], [[sb/8/7/3-3#purport|SB 8.7.3-3]], [[sb/8/7/4-5#purport|SB 8.7.4-5]], [[sb/8/7/7#purport|SB 8.7.7]], [[sb/8/7/8#purport|SB 8.7.8]], [[sb/8/9/7#purport|SB 8.9.7]], [[sb/8/9/11#purport|SB 8.9.11]], [[sb/8/9/28#purport|SB 8.9.28]], [[sb/8/10/3-12#purport|SB 8.10.3-12]], [[sb/8/10/13-15#purport|SB 8.10.13-15]], [[sb/8/10/16-18#purport|SB 8.10.16-18]], [[sb/8/10/19-53#purport|SB 8.10.19-53]], [[sb/8/11/1-48#purport|SB 8.11.1-48]], [[sb/8/15/32#purport|SB 8.15.32]], [[sb/8/16/1#purport|SB 8.16.1]], [[sb/8/16/16#purport|SB 8.16.16]], [[sb/8/17/12#purport|SB 8.17.12]], [[sb/8/17/14#purport|SB 8.17.14]], [[sb/8/17/16#purport|SB 8.17.16]], [[sb/8/22/20#purport|SB 8.22.20]], [[sb/8/23/8#purport|SB 8.23.8]], [[sb/9/6/13#purport|SB 9.6.13]], [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/14/5-7#purport|SB 9.14.5-7]], [[sb/9/20/31#purport|SB 9.20.31]]
+* demons, [[sb/4/25/29#purport|SB 4.25.29]]
 * demons’ weapons smashed by, [[sb/6/10/25-26#purport|SB 6.10.25-26]]
 * depend on Lord, SB Intro 1, SB Intro 2
 * descendants from, six kinds of, [[sb/4/1/8#purport|SB 4.1.8]]
 * desire human body, [[sb/2/3/19#purport|SB 2.3.19]]*
 * Devakī encouraged by, [[sb/10/2/39#purport|SB 10.2.39]], [[sb/10/2/41#purport|SB 10.2.41]]
+* develop qualities of, [[sb/5/18/12#purport|SB 5.18.12]]
 * devotee has qualities of, [[sb/6/1/17#purport|SB 6.1.17]]
 * devotee pleases, [[sb/4/24/27#purport|SB 4.24.27]]
 * devotee’s status compared with status of, [[sb/7/9/26-26#purport|SB 7.9.26-26]]
-* devotees 
+* devotees
 * devotees &, [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/madhya/9/360#purport|Madhya 9.360]]
 * devotees as, [[bg/11/48|Bg. 11.48]], [[sb/1/19/34#purport|SB 1.19.34]], [[sb/8/5/24#purport|SB 8.5.24]]
 * devotees beyond, [[sb/2/4/4#purport|SB 2.4.4]]
-* devotees of, compared with Kṛṣṇa’s devotees, [[sb/1/15/12#purport|SB 1.15.12]]
 * devotees of, [[sb/10/10/2-3#purport|SB 10.10.2-3]]
+* devotees of, compared with Kṛṣṇa’s devotees, [[sb/1/15/12#purport|SB 1.15.12]]
 * devotees please, [[sb/1/19/18#purport|SB 1.19.18]], [[sb/4/12/51#purport|SB 4.12.51]]
 * devotees uninterested in benediction of, [[sb/4/19/40#purport|SB 4.19.40]]
 * devotion to Kṛṣṇa &, [[cc/madhya/22/95#purport|Madhya 22.95]]
@@ -188,8 +224,9 @@
 * Dhruva honored by, [[sb/4/9/56#purport|SB 4.9.56]], [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/12/34#purport|SB 4.12.34]]
 * directions governed by, [[sb/3/23/39#purport|SB 3.23.39]]
 * discussed by Śiva, [[sb/4/7/2-5#purport|SB 4.7.2-5]]
+* disturbed, [[sb/7/3/3#purport|SB 7.3.3]], [[sb/7/3/6#purport|SB 7.3.6]], [[sb/7/3/12#purport|SB 7.3.12]], [[sb/7/3/13#purport|SB 7.3.13]]
 * Durgā, [[sb/6/6/6#purport|SB 6.6.6]]
-* during 
+* during
 * Durvāsā cursed, [[sb/8/5/15-16#purport|SB 8.5.15-16]]
 * duties & qualifications of, [[sb/3/1/45#purport|SB 3.1.45]], [[sb/3/2/32#purport|SB 3.2.32]], [[sb/3/5/38-39#purport|SB 3.5.38-39]], [[sb/3/5/51#purport|SB 3.5.51]], [[sb/3/6/11#purport|SB 3.6.11]]
 * duty of, [[sb/2/3/11#purport|SB 2.3.11]]
@@ -202,7 +239,7 @@
 * envious of brahmacārīs, [[sb/2/7/6#purport|SB 2.7.6]]
 * envy in, [[sb/4/19/2#purport|SB 4.19.2]]
 * equal Lord at no time, [[sb/1/2/26#purport|SB 1.2.26]]
-* evolution of. See: Evolution 
+* evolution of. See: Evolution
 * exalted status of, [[sb/3/5/49#purport|SB 3.5.49]]
 * fail at God realiātion, [[sb/9/9/46#purport|SB 9.9.46]]
 * faint in fear of Vṛtrāsura, [[sb/6/11/7-8#purport|SB 6.11.7-8]]
@@ -210,13 +247,18 @@
 * fallen devotee offered opulences of, [[sb/5/1/36#purport|SB 5.1.36]]
 * falling to Earth, [[sb/4/24/4#purport|SB 4.24.4]]
 * fame of, ”ruined” by Śiva, [[sb/4/2/10-10#purport|SB 4.2.10-10]]
+* favors, [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/6/31#purport|SB 8.6.31]]
 * fear in, [[sb/3/17/1#purport|SB 3.17.1]], [[sb/6/9/21#purport|SB 6.9.21]], [[sb/6/11/6-8#purport|SB 6.11.6-8]]
+* feared by, [[sb/7/8/26#purport|SB 7.8.26]]
+* fed nectar to, [[sb/8/10/2#purport|SB 8.10.2]]
+* fire-gods accept, [[sb/4/1/60-60#purport|SB 4.1.60-60]]
 * fire-gods, [[sb/4/1/60-62#purport|SB 4.1.60-62]]
 * for modes of nature, [[sb/3/26/61#purport|SB 3.26.61]]
 * for universal control, [[sb/4/30/13#purport|SB 4.30.13]], [[sb/4/30/23#purport|SB 4.30.23]]
 * forgiven by Śiva, [[sb/4/7/2#purport|SB 4.7.2]]
 * form of, transmigration to, [[bg/15/8|Bg. 15.8]]
 * forms changed by, at will, [[sb/8/15/32#purport|SB 8.15.32]]
+* frightened, [[sb/7/9/1#purport|SB 7.9.1]], [[sb/7/9/2#purport|SB 7.9.2]]
 * from Lord’s universal form, [[sb/8/5/39#purport|SB 8.5.39]]
 * function of, [[sb/8/3/30#purport|SB 8.3.30]]
 * Gajendra bypassed, [[sb/8/3/30#purport|SB 8.3.30]], [[sb/8/3/31#purport|SB 8.3.31]]
@@ -226,21 +268,25 @@
 * Gaya satisfies, [[sb/5/15/12#purport|SB 5.15.12]]
 * Gāyatrī mantra for, [[sb/8/6/15#purport|SB 8.6.15]]
 * ghastly forms of, [[sb/1/2/26#purport|SB 1.2.26]]
+* go to sacrifice, [[sb/4/3/4-7#purport|SB 4.3.4-7]]
 * goddess of fortune blessed, [[sb/8/8/28#purport|SB 8.8.28]]
 * goddess of fortune sought by, [[sb/1/18/20#purport|SB 1.18.20]]
 * goddess of fortune, [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/25/29#purport|SB 4.25.29]], [[sb/4/31/22#purport|SB 4.31.22]]
-* good qualities of, devotees have, [[bg/1/28|Bg. 1.28]],
 * good qualities of, [[sb/3/15/25#purport|SB 3.15.25]]
+* good qualities of, devotees have, [[bg/1/28|Bg. 1.28]],
 * ground never touched by, [[sb/10/13/62#purport|SB 10.13.62]]
 * ground untouched by, [[sb/4/25/29-29#purport|SB 4.25.29-29]]
 * heavenly planets dear to, [[sb/9/4/24-24#purport|SB 9.4.24-24]]
 * heavenly planets left by, [[sb/8/15/32#purport|SB 8.15.32]]
 * heavenly planets reentered by, [[sb/8/23/26-27#purport|SB 8.23.26-27]]
-* Hiraṇyakaśipu 
+* Hiraṇyakaśipu
 * Hiraṇyākṣa &, [[sb/3/17/22#purport|SB 3.17.22]], [[sb/3/17/25#purport|SB 3.17.25]]
-* human beings 
+* honored by, [[sb/7/8/35-36#purport|SB 7.8.35-36]], [[sb/7/10/68#purport|SB 7.10.68]], [[sb/8/20/19#purport|SB 8.20.19]], [[sb/8/4/1#purport|SB 8.4.1]], [[sb/8/4/2#purport|SB 8.4.2]], [[sb/8/4/13#purport|SB 8.4.13]], [[sb/8/7/12#purport|SB 8.7.12]], [[sb/8/8/27#purport|SB 8.8.27]]
+* human beings
+  * compared with, [[bg/3/24|Bg. 3.24]]
+  * cooperate with, [[bg/3/11|Bg. 3.11]]
 * human beings under, [[sb/1/15/13#purport|SB 1.15.13]], [[sb/1/17/15#purport|SB 1.17.15]], [[sb/1/19/18#purport|SB 1.19.18]]
-* human birth 
+* human birth
 * humans compared with, [[sb/8/2/5#purport|SB 8.2.5]], [[sb/8/2/8#purport|SB 8.2.8]], [[sb/8/24/30#purport|SB 8.24.30]]
 * humans contrasted to, [[sb/3/17/1#purport|SB 3.17.1]]
 * humans excelled by, [[sb/9/9/46#purport|SB 9.9.46]], [[sb/9/13/8#purport|SB 9.13.8]]
@@ -255,7 +301,7 @@
 * in Dakṣa-sāvarṇi-manvantara, [[sb/8/13/19#purport|SB 8.13.19]]
 * in Deva-sāvarṇi-manvantara, [[sb/8/13/31#purport|SB 8.13.31]]
 * in Dharma-sāvarṇi-manvantara, [[sb/8/13/25#purport|SB 8.13.25]]
-* in goodness, [[sb/1/15/12#purport|SB 1.15.12]], [[sb/3/20/22#purport|SB 3.20.22]], [[sb/3/6/28#purport|SB 3.6.28]], [[sb/7/9/8#purport|SB 7.9.8]], [[sb/8/5/31-31#purport|SB 8.5.31-31]], [[sb/8/7/11#purport|SB 8.7.11]], [[sb/8/12/10#purport|SB 8.12.10]], [[sb/9/10/14#purport|SB 9.10.14]]
+* in goodness, [[sb/1/15/12#purport|SB 1.15.12]], [[sb/3/6/28#purport|SB 3.6.28]], [[sb/3/20/22#purport|SB 3.20.22]], [[sb/7/9/8#purport|SB 7.9.8]], [[sb/8/5/31-31#purport|SB 8.5.31-31]], [[sb/8/7/11#purport|SB 8.7.11]], [[sb/8/12/10#purport|SB 8.12.10]], [[sb/9/10/14#purport|SB 9.10.14]]
 * in helplessness, approach Lord, [[sb/6/9/44#purport|SB 6.9.44]]
 * in Indra-sāvarṇi-manvantara, [[sb/8/13/34#purport|SB 8.13.34]]
 * in knowledge, [[sb/3/20/31#purport|SB 3.20.31]]
@@ -268,12 +314,14 @@
 * in modes of nature, [[sb/8/11/8#purport|SB 8.11.8]], [[sb/8/16/14#purport|SB 8.16.14]]
 * in passion mode, [[sb/9/8/21#purport|SB 9.8.21]]
 * in Rudra-sāvarṇi-manvantara, [[sb/8/13/28#purport|SB 8.13.28]]
+* in sacrifices, [[sb/4/4/9#purport|SB 4.4.9]]
 * in Sāvarṇi-manvantara, [[sb/8/13/12#purport|SB 8.13.12]]
 * in Śrāddhadeva-manvantara, [[sb/8/13/4#purport|SB 8.13.4]]
 * in universal form, [[bg/11/6|Bg. 11.6]], [[bg/11/15|Bg. 11.15]], [[bg/11/21–23|Bg. 11.21–23]]
 * in Yadu dynasty, [[sb/1/15/34#purport|SB 1.15.34]]
 * incarnations of God as, [[sb/1/3/27#purport|SB 1.3.27]]
 * included in Viṣṇu, [[sb/4/3/3#purport|SB 4.3.3]]
+* inconceivable to, [[sb/7/9/49#purport|SB 7.9.49]]
 * indebtedness to, **[[cc/madhya/22/140–41#translation|Madhya 22.140–41]]**
 * Indra chief among, [[sb/8/17/14#purport|SB 8.17.14]], [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * Indra headed, [[sb/8/11/1#purport|SB 8.11.1]]
@@ -291,8 +339,15 @@
 * kinds of, two, [[bg/8/2|Bg. 8.2]]
 * king of heaven, [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/30/13#purport|SB 4.30.13]]
 * king of, [[sb/7/7/8#purport|SB 7.7.8]]
-* Kṛṣṇa , 
-* Kṛṣṇa above, [[sb/10/1/20#purport|SB 10.1.20]], [[sb/10/1/56#purport|SB 10.1.56]], [[sb/10/2/28#purport|SB 10.2.28]], [[sb/10/3/24#purport|SB 10.3.24]], [[sb/10/8/13#purport|SB 10.8.13]], [[sb/10/9/11#purport|SB 10.9.11]], [[sb/10/9/19#purport|SB 10.9.19]], [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/53#purport|SB 10.13.53]], [[sb/10/13/56#purport|SB 10.13.56]], [[sb/7/10/5#purport|SB 7.10.5]], [[sb/7/10/26#purport|SB 7.10.26]], [[sb/7/10/44#purport|SB 7.10.44]]
+* Kṛṣṇa
+  * as origin of, [[bg/10/2|Bg. 10.2]], [[bg/10/3|Bg. 10.3]], [[bg/10/42|Bg. 10.42]]
+  * form of, desired to be seen by, [[bg/11/52|Bg. 11.52]]
+  * greater than, [[bg/11/37|Bg. 11.37]], [[bg/11/40|Bg. 11.40]]
+  * in womb worshiped by, [[bg/11/52|Bg. 11.52]]
+  * representation of, among, [[bg/10/22|Bg. 10.22]]
+  * unknown by, 5, [[bg/10/2–3|Bg. 10.2–3]], [[bg/10/14|Bg. 10.14]]
+  * worshiped by, [[bg/4/12|Bg. 4.12]]
+* Kṛṣṇa above, [[sb/7/10/5#purport|SB 7.10.5]], [[sb/7/10/26#purport|SB 7.10.26]], [[sb/7/10/44#purport|SB 7.10.44]], [[sb/10/1/20#purport|SB 10.1.20]], [[sb/10/1/56#purport|SB 10.1.56]], [[sb/10/2/28#purport|SB 10.2.28]], [[sb/10/3/24#purport|SB 10.3.24]], [[sb/10/8/13#purport|SB 10.8.13]], [[sb/10/9/11#purport|SB 10.9.11]], [[sb/10/9/19#purport|SB 10.9.19]], [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/53#purport|SB 10.13.53]], [[sb/10/13/56#purport|SB 10.13.56]]
 * Kṛṣṇa as appreciated by, [[sb/3/2/13#purport|SB 3.2.13]]
 * Kṛṣṇa attached to, [[sb/3/3/21#purport|SB 3.3.21]]
 * Kṛṣṇa entering Aghāsura dismayed, [[sb/10/12/29#purport|SB 10.12.29]]
@@ -303,16 +358,16 @@
 * Kurukṣetra &, [[bg/1/1|Bg. 1.1]]
 * Kurukṣetra Battle witnessed by, [[bg/11/36|Bg. 11.36]]
 * lament Indra being swallowed, [[sb/6/12/30#purport|SB 6.12.30]]
-* lamentation of 
+* lamentation of
 * leader of, Yajña as, [[sb/4/1/8-8#purport|SB 4.1.8-8]]
 * life span of, on moon, [[bg/8/25|Bg. 8.25]]
 * life spans of, [[sb/4/9/63#purport|SB 4.9.63]]
 * life-span of, [[sb/4/31/10#purport|SB 4.31.10]]
 * list of, ten given, [[sb/2/5/30#purport|SB 2.5.30]]
 * long lives of, [[sb/6/18/37#purport|SB 6.18.37]]
-* Lord , , , , , , 
-* Lord &. See: Supreme Lord, demigods & ... 
-* Lord above, [[sb/10/8/13#purport|SB 10.8.13]], [[sb/10/9/11#purport|SB 10.9.11]], [[sb/10/9/19#purport|SB 10.9.19]], [[sb/2/1/37#purport|SB 2.1.37]], [[sb/2/4/6#purport|SB 2.4.6]], [[sb/3/15/25#purport|SB 3.15.25]], [[sb/3/16/17-18#purport|SB 3.16.17-18]], [[sb/4/9/31#purport|SB 4.9.31]], [[sb/4/11/27-27#purport|SB 4.11.27-27]], [[sb/4/13/33#purport|SB 4.13.33]]
+* Lord, [[sb/4/30/36#purport|SB 4.30.36]], [[sb/4/30/38#purport|SB 4.30.38]]
+* Lord &. See: Supreme Lord, demigods & ...
+* Lord above, [[sb/2/1/37#purport|SB 2.1.37]], [[sb/2/4/6#purport|SB 2.4.6]], [[sb/3/15/25#purport|SB 3.15.25]], [[sb/3/16/17-18#purport|SB 3.16.17-18]], [[sb/4/9/31#purport|SB 4.9.31]], [[sb/4/11/27-27#purport|SB 4.11.27-27]], [[sb/4/13/33#purport|SB 4.13.33]], [[sb/10/8/13#purport|SB 10.8.13]], [[sb/10/9/11#purport|SB 10.9.11]], [[sb/10/9/19#purport|SB 10.9.19]]
 * Lord of, Viṣṇu as, [[sb/4/7/22#purport|SB 4.7.22]]
 * Lord superior to, [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/madhya/9/155#purport|Madhya 9.155]]
 * Lord worshiped by, **[[cc/madhya/21/33#translation|Madhya 21.33]]**
@@ -338,6 +393,7 @@
 * Mohinī enchanted, [[sb/8/9/18#purport|SB 8.9.18]]
 * Mohinī gave nectar to, [[sb/8/9/21-21#purport|SB 8.9.21-21]]
 * moon sustains, [[sb/8/5/34-34#purport|SB 8.5.34-34]]
+* most powerful, [[sb/5/1/7#purport|SB 5.1.7]]
 * must all be satisfied, [[sb/4/3/1#purport|SB 4.3.1]], [[sb/4/6/53#purport|SB 4.6.53]]
 * mystic power of, [[sb/4/24/3#purport|SB 4.24.3]]
 * names of, Lord’s name as beyond, [[sb/2/1/12#purport|SB 2.1.12]]
@@ -352,10 +408,13 @@
 * Nimi blessed by, [[sb/9/13/11#purport|SB 9.13.11]]
 * Nimi’s priests prayed to, [[sb/9/13/8-8#purport|SB 9.13.8-8]]
 * ninety million, [[sb/6/14/5#purport|SB 6.14.5]]
+* not allured by position of, [[sb/5/16/20-21#purport|SB 5.16.20-21]]
 * not God, [[bg/4/12|Bg. 4.12]]
-* Nṛsiṁhadeva 
+* not understood by, [[sb/6/3/14-15#purport|SB 6.3.14-15]], [[sb/6/9/32#purport|SB 6.9.32]]
+* Nṛsiṁhadeva
 * obeisances to, by Mādhavendra Purī, [[bg/2/52|Bg. 2.52]]
-* oblations to 
+* obeyed by, [[sb/8/23/8#purport|SB 8.23.8]]
+* oblations to
 * obligations to, [[bg/2/38|Bg. 2.38]], [[bg/3/12–13|Bg. 3.12–13]], [[sb/4/25/40#purport|SB 4.25.40]]
 * of death, [[sb/3/26/57#purport|SB 3.26.57]]
 * of directions, [[sb/3/26/55#purport|SB 3.26.55]]
@@ -372,7 +431,6 @@
 * of rivers, [[sb/3/26/59#purport|SB 3.26.59]]
 * of senses, [[sb/3/26/71#purport|SB 3.26.71]]
 * of sun, [[sb/4/31/16#purport|SB 4.31.16]]
-* *See:* [[v#Vivasvān|Vivasvān]] 
 * of touch (& herbs & drugs), [[sb/3/26/56#purport|SB 3.26.56]]
 * of trees, [[sb/4/30/47#purport|SB 4.30.47]]
 * of water, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
@@ -381,19 +439,21 @@
 * offense to holy name &, [[cc/adi/8/24#purport|Ādi 8.24]]
 * offer Śiva obeisances, [[sb/4/6/39#purport|SB 4.6.39]], [[sb/4/6/40#purport|SB 4.6.40]]
 * offer Viṣṇu obeisances, [[sb/4/7/22#purport|SB 4.7.22]]
-* opulence of, described, [[sb/7/4/8-12#purport|SB 7.4.8-12]]
+* on battlefield, [[sb/8/11/25#purport|SB 8.11.25]]
+* on charity, [[sb/6/10/6#purport|SB 6.10.6]]
+* on incarnations of Lord, [[sb/6/9/23#purport|SB 6.9.23]], [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/40#purport|SB 6.9.40]]
 * opulence of, [[sb/1/3/28#purport|SB 1.3.28]]
-* origin of, [[bg/10/2|Bg. 10.2]], [[bg/10/3|Bg. 10.3]], [[bg/10/42|Bg. 10.42]], [[bg/11/37|Bg. 11.37]], [[sb/2/5/30#purport|SB 2.5.30]], [[sb/3/5/30#purport|SB 3.5.30]]
+* opulence of, described, [[sb/7/4/8-12#purport|SB 7.4.8-12]]
+* origin of, [[bg/10/2|Bg. 10.2]], [[bg/10/3|Bg. 10.3]], [[bg/10/42|Bg. 10.42]], [[bg/11/37|Bg. 11.37]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/2/5/30#purport|SB 2.5.30]], [[sb/3/5/30#purport|SB 3.5.30]]
 * origin of, Kṛṣṇa as, [[sb/4/29/56#purport|SB 4.29.56]]
 * Pāṇḍavas as, [[sb/1/13/49#purport|SB 1.13.49]]
 * Parīkṣit praised by, [[sb/1/19/18#purport|SB 1.19.18]]
 * pāṣaṇḍīs &, [[cc/adi/17/203#purport|Ādi 17.203]], [[cc/madhya/9/11#purport|Madhya 9.11]]
 * pillar sound terrorized, [[sb/7/8/15#purport|SB 7.8.15]]
-* planets of, disdained by devotees, [[sb/6/5/38#purport|SB 6.5.38]]
 * planets of, [[sb/4/29/42-44#purport|SB 4.29.42-44]]
-* *See:* [[p#Planets|Planets]]; ofs demigod 
-* planets of. See: Heavenly planet(s) 
+* planets of, disdained by devotees, [[sb/6/5/38#purport|SB 6.5.38]]
 * pleased with Lord’s devotees, [[sb/4/7/49#purport|SB 4.7.49]]
+* pleased, [[sb/1/15/12#purport|SB 1.15.12]]
 * pleasing them, as necessary, [[sb/4/3/1#purport|SB 4.3.1]], [[sb/4/6/53#purport|SB 4.6.53]]
 * pleasure places of, [[sb/9/14/24#purport|SB 9.14.24]]
 * positions of, impermanent, [[sb/4/9/32#purport|SB 4.9.32]]
@@ -408,10 +468,11 @@
 * pray to Viṣṇu, [[sb/4/7/42#purport|SB 4.7.42]]
 * prayed at Lord’s advent, [[sb/8/18/8#purport|SB 8.18.8]]
 * prayed for Lord’s appearance, [[sb/9/10/2#purport|SB 9.10.2]]
+* prayed to by, [[sb/8/3/31#purport|SB 8.3.31]]
 * prayed to Lord, [[sb/8/3/31#purport|SB 8.3.31]], [[sb/8/4/2#purport|SB 8.4.2]]
 * prayed to Śiva, [[sb/8/7/21-31#purport|SB 8.7.21-31]], [[sb/8/7/32-35#purport|SB 8.7.32-35]]
-* prayers by 
-* prayers for Kṛṣṇa by. See: Prayers, by demigods for Kṛṣṇa 
+* prayers by
+* prayers for Kṛṣṇa by. See: Prayers, by demigods for Kṛṣṇa
 * prayers of, [[sb/3/19/1#purport|SB 3.19.1]]
 * presents for Pṛthu from, [[sb/4/15/16#purport|SB 4.15.16]], [[sb/4/15/17-19#purport|SB 4.15.17-19]]
 * priest of, [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/19/9-10#purport|SB 1.19.9-10]], [[sb/3/1/25#purport|SB 3.1.25]]
@@ -419,7 +480,9 @@
 * primal, [[bg/8/2|Bg. 8.2]]
 * protected by Kṛṣṇa, [[sb/6/10/28#purport|SB 6.10.28]]
 * protected by Lord, [[sb/4/30/24#purport|SB 4.30.24]]
-* Pṛthu 
+* protected, [[sb/1/15/13#purport|SB 1.15.13]]
+* protects, [[sb/1/13/50#purport|SB 1.13.50]], [[sb/1/15/34#purport|SB 1.15.34]], [[sb/3/18/9#purport|SB 3.18.9]]
+* Pṛthu
 * Pṛthu glorified by, [[sb/4/15/7#purport|SB 4.15.7]], [[sb/4/15/9-10#purport|SB 4.15.9-10]]
 * Pṛthu pleased, [[sb/4/19/40#purport|SB 4.19.40]]
 * Purañjaya helped, [[sb/9/6/13#purport|SB 9.6.13]], [[sb/9/6/15-16#purport|SB 9.6.15-16]]
@@ -431,29 +494,37 @@
 * qualities of, manifested in faithful, [[sb/7/5/32#purport|SB 7.5.32]]
 * questions of, to Lord, [[sb/6/9/35#purport|SB 6.9.35]]
 * quoted on Varāha, [[sb/3/19/30#purport|SB 3.19.30]]
-* quoted. See: Demigod(s) quoted 
+* quoted. See: Demigod(s) quoted
 * Rāhu in disguise among, [[sb/8/9/24#purport|SB 8.9.24]]
 * Raivata Manu &, [[sb/8/5/3#purport|SB 8.5.3]]
+* Raivata Manu, [[sb/8/5/3#purport|SB 8.5.3]]
 * Rāma glorified by, [[sb/9/10/33#purport|SB 9.10.33]]
 * Rantideva saw, [[sb/9/21/16-16#purport|SB 9.21.16-16]]
 * rāsa dance witnessed by, **[[cc/adi/1/73–74#translation|Ādi 1.73–74]]**
 * Ṛbhu, [[sb/4/4/33#purport|SB 4.4.33]]
 * react to Satī’s death, [[sb/4/4/28#purport|SB 4.4.28]], [[sb/4/4/29#purport|SB 4.4.29]]
+* reason for, [[sb/6/7/22#purport|SB 6.7.22]]
+* rebukes, [[sb/8/11/9#purport|SB 8.11.9]]
+* received by, [[sb/5/1/8#purport|SB 5.1.8]], [[sb/6/9/29-30#purport|SB 6.9.29-30]]
 * reciting puṁsavana-vrata pleases, [[sb/6/19/26-28#purport|SB 6.19.26-28]]
 * rejected, [[sb/2/3/10#purport|SB 2.3.10]]
+* relieved, [[sb/8/7/15#purport|SB 8.7.15]]
 * religion misunderstood by, [[sb/6/3/19#purport|SB 6.3.19]]
 * represent Lord, [[sb/2/9/33#purport|SB 2.9.33]]
-* residence of. See: Heavenly planets 
+* represented by, [[sb/6/4/46#purport|SB 6.4.46]]
+* residence of. See: Heavenly planets
 * residences of, [[sb/1/9/45#purport|SB 1.9.45]], [[sb/1/10/27#purport|SB 1.10.27]]
 * respect for, [[sb/4/2/35#purport|SB 4.2.35]]
 * respected by Lord’s devotees, [[sb/4/7/49#purport|SB 4.7.49]]
 * responsibility of, [[sb/4/30/13#purport|SB 4.30.13]]
 * restored by Śiva, [[sb/4/7/3-5#purport|SB 4.7.3-5]]
 * result of, [[sb/2/3/2-8#purport|SB 2.3.2-8]], [[sb/2/3/11#purport|SB 2.3.11]]
+* revived, [[sb/8/6/37#purport|SB 8.6.37]], [[sb/8/7/11#purport|SB 8.7.11]], [[sb/8/11/1#purport|SB 8.11.1]]
 * ritualistic ceremonies by, [[sb/8/9/14-15#purport|SB 8.9.14-15]], [[sb/8/9/16-17#purport|SB 8.9.16-17]]
 * rulers of, surrender to Lord, [[sb/9/4/53-54#purport|SB 9.4.53-54]]
 * ruling mankind, several named, [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 * sacrifice to, [[bg/3/11–12|Bg. 3.11–12]], [[bg/4/25|Bg. 4.25]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/1/16/20#purport|SB 1.16.20]]
+  * *See also:* Demigod worship
 * sacrifice to, by sound, [[sb/2/6/26#purport|SB 2.6.26]]
 * sacrifices for, [[sb/8/14/6#purport|SB 8.14.6]]
 * sacrifices need presence of, [[sb/4/3/1#purport|SB 4.3.1]], [[sb/4/6/53#purport|SB 4.6.53]]
@@ -464,6 +535,7 @@
 * sages among, Kṛṣṇa’s representation among, [[bg/10/26|Bg. 10.26]]
 * Śatadruti captivated, [[sb/4/24/12#purport|SB 4.24.12]]
 * satisfaction of, [[bg/3/11–12|Bg. 3.11–12]], [[bg/3/14|Bg. 3.14]], [[bg/9/23|Bg. 9.23]], **[[cc/madhya/22/63#translation|Madhya 22.63]]**
+* satisfied by, [[sb/7/2/21#purport|SB 7.2.21]]
 * satisfied via worship to Lord, [[sb/4/2/35#purport|SB 4.2.35]], [[sb/4/31/14-14#purport|SB 4.31.14-14]]
 * scattered by demons, [[sb/6/10/23#purport|SB 6.10.23]]
 * seen by Satī, [[sb/4/3/7#purport|SB 4.3.7]]
@@ -471,10 +543,11 @@
 * sense gratification &, **[[cc/madhya/8/257#translation|Madhya 8.257]]**
 * senses & sense objects sacrificed to, [[sb/7/12/26-28#purport|SB 7.12.26-28]]
 * senses representatives of, [[sb/3/25/32#purport|SB 3.25.32]]
+* sex by, [[sb/4/6/25#purport|SB 4.6.25]]
 * sex desire doesn’t dominate, [[sb/3/20/23#purport|SB 3.20.23]]
 * sex life attracts, [[sb/4/24/11-12#purport|SB 4.24.11-12]]
 * showered flowers on Kṛṣṇa, [[sb/10/11/44#purport|SB 10.11.44]], [[sb/10/11/52#purport|SB 10.11.52]], [[sb/10/12/34#purport|SB 10.12.34]]
-* Śiva 
+* Śiva
 * Śiva ”ruined” fame of, [[sb/4/2/10-10#purport|SB 4.2.10-10]]
 * Śiva best among, [[sb/8/12/38#purport|SB 8.12.38]]
 * Śiva chief among, [[sb/1/18/21#purport|SB 1.18.21]]
@@ -482,33 +555,41 @@
 * Śiva’s help sought by, [[sb/8/7/19-22#purport|SB 8.7.19-22]], [[sb/8/7/32#purport|SB 8.7.32]]
 * Śiva’s protection begged by, [[sb/7/10/56#purport|SB 7.10.56]]
 * soma drunk by, [[sb/4/18/15-16#purport|SB 4.18.15-16]]
+* source of, [[sb/3/12/48#purport|SB 3.12.48]], [[sb/6/18/33-34#purport|SB 6.18.33-34]]
 * source of, Lord as, [[sb/4/7/50#purport|SB 4.7.50]]
-* source of, [[sb/3/12/48#purport|SB 3.12.48]]
 * space travel by, [[sb/1/16/3#purport|SB 1.16.3]], [[sb/4/22/48#purport|SB 4.22.48]]
 * subdemigods (upadevas), [[sb/4/3/7#purport|SB 4.3.7]]
 * subordinate to Kṛṣṇa, [[sb/4/7/43#purport|SB 4.7.43]], [[sb/6/3/12-12#purport|SB 6.3.12-12]], [[sb/6/4/34#purport|SB 6.4.34]]
 * suffocated by Dhruva, [[sb/4/8/80-81#purport|SB 4.8.80-81]]
 * sun-god heads, [[sb/8/5/36#purport|SB 8.5.36]]
 * Śunaḥśepha rescued by, [[sb/9/16/31#purport|SB 9.16.31]], [[sb/9/16/32#purport|SB 9.16.32]]
+* superior to, [[sb/6/3/12-12#purport|SB 6.3.12-12]], [[sb/6/4/34#purport|SB 6.4.34]]
 * Supersoul of, [[sb/8/16/9#purport|SB 8.16.9]]
 * Supreme Lord mystery to, [[sb/6/3/14-15#purport|SB 6.3.14-15]]
 * Supreme Lord served by, [[cc/adi/14/50#purport|Ādi 14.50]]
 * surrender to Lord, [[sb/8/8/38#purport|SB 8.8.38]]
 * Svārociṣa Manu &, [[sb/8/1/20#purport|SB 8.1.20]]
+* Svārociṣa Manu, [[sb/8/1/20#purport|SB 8.1.20]]
 * symptoms of, [[sb/7/1/9-9#purport|SB 7.1.9-9]]
 * Tāmasa Manu &, [[sb/8/1/29#purport|SB 8.1.29]]
+* Tāmasa Manu, [[sb/8/1/29#purport|SB 8.1.29]]
 * time according to, [[sb/4/28/39#purport|SB 4.28.39]]
 * time as above, [[sb/2/2/17#purport|SB 2.2.17]]
 * time favors, [[sb/8/21/21#purport|SB 8.21.21]]
 * time measurement for, [[sb/3/11/12#purport|SB 3.11.12]], [[sb/3/11/19#purport|SB 3.11.19]]
+* to Brahmā, [[sb/3/15/2-9#purport|SB 3.15.2-9]]
+* to Lord, [[sb/3/5/39-51#purport|SB 3.5.39-51]]
+* took pārijāta from, [[sb/1/14/37#purport|SB 1.14.37]]
 * topmost, [[bg/10/7|Bg. 10.7]]
 * Triśaṅku’s fall caused by, [[sb/9/7/5-6#purport|SB 9.7.5-6]]
 * Tuṣitas, [[sb/4/1/8-8#purport|SB 4.1.8-8]]
 * under modes of nature, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
+* understand true position of, [[sb/5/4/17#purport|SB 5.4.17]]
 * universal form feared by, [[bg/11/20|Bg. 11.20]]
 * universal form reentered by, [[sb/3/26/62-70#purport|SB 3.26.62-70]]
 * universal form revealed to, [[sb/3/6/10#purport|SB 3.6.10]]
 * Uttama Manu &, [[sb/8/1/24#purport|SB 8.1.24]]
+* Uttama Manu, [[sb/8/1/24#purport|SB 8.1.24]]
 * vaidhī-bhakta &, **[[cc/madhya/22/119#translation|Madhya 22.119]]**
 * Vāmana favored, [[sb/8/19/30#purport|SB 8.19.30]], [[sb/8/21/10#purport|SB 8.21.10]]
 * Vāmana honored by, [[sb/8/23/20-21#purport|SB 8.23.20-21]], [[sb/8/23/22-23#purport|SB 8.23.22-23]], [[sb/8/23/26-27#purport|SB 8.23.26-27]]
@@ -524,13 +605,14 @@
 * Viṣṇu in role of, [[sb/4/20/22#purport|SB 4.20.22]]
 * Viṣṇu Lord of, [[sb/4/7/22#purport|SB 4.7.22]]
 * Viṣṇudūtas mistaken for, [[sb/6/1/33#purport|SB 6.1.33]]
-* Viśvarūpa 
+* Viśvarūpa
 * Vṛndāvana’s residents as, [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/62-63#purport|SB 10.1.62-63]]
 * Vṛṣṇis & Yadus as, [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/62-63#purport|SB 10.1.62-63]]
 * Vṛtrāsura rebukes, [[sb/6/11/4#purport|SB 6.11.4]]
 * Vṛtrāsura repels, [[sb/6/9/19#purport|SB 6.9.19]]
+* vs., [[sb/10/2/1-2#purport|SB 10.2.1-2]]
 * with demons in truce expedition, [[sb/8/6/32-39#purport|SB 8.6.32-39]]
-* wives of 
+* wives of
 * wives of, praised Arci, [[sb/4/23/23-26#purport|SB 4.23.23-26]]
 * women &, [[sb/3/20/31#purport|SB 3.20.31]]
 * words of, infallible, [[sb/9/1/18#purport|SB 9.1.18]]
@@ -538,15 +620,15 @@
 * worship by materialists, [[sb/2/2/7#purport|SB 2.2.7]]
 * worship goddess of fortune, [[sb/4/8/23-23#purport|SB 4.8.23-23]]
 * worship Lord, [[sb/4/14/20#purport|SB 4.14.20]], [[sb/4/16/2#purport|SB 4.16.2]]
-* worship to 
-* worship to, [[cc/adi/1/91#purport|Ādi 1.91]], [[cc/adi/5/226#purport|Ādi 5.226]], [[sb/2/6/45#purport|SB 2.6.45]], [[sb/3/19/1#purport|SB 3.19.1]], [[sb/3/26/61#purport|SB 3.26.61]], [[sb/3/32/2-2#purport|SB 3.32.2-2]], [[sb/3/32/16#purport|SB 3.32.16]], [[sb/3/2/32#purport|SB 3.2.32]], [[sb/7/2/48#purport|SB 7.2.48]], [[sb/7/3/24#purport|SB 7.3.24]], [[sb/7/4/21#purport|SB 7.4.21]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/15/14#purport|SB 7.15.14]], [[sb/9/9/8#purport|SB 9.9.8]], [[sb/9/14/48#purport|SB 9.14.48]]
-* *See:* [[d#Demigod worship|Demigod worship]] 
-* worship to. See: Worship, to demigod(s) , 
+* worship to, [[cc/adi/1/91#purport|Ādi 1.91]], [[cc/adi/5/226#purport|Ādi 5.226]], [[sb/2/6/45#purport|SB 2.6.45]], [[sb/3/2/32#purport|SB 3.2.32]], [[sb/3/19/1#purport|SB 3.19.1]], [[sb/3/26/61#purport|SB 3.26.61]], [[sb/3/32/2-2#purport|SB 3.32.2-2]], [[sb/3/32/16#purport|SB 3.32.16]], [[sb/7/2/48#purport|SB 7.2.48]], [[sb/7/3/24#purport|SB 7.3.24]], [[sb/7/4/21#purport|SB 7.4.21]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/15/14#purport|SB 7.15.14]], [[sb/9/9/8#purport|SB 9.9.8]], [[sb/9/14/48#purport|SB 9.14.48]]
 * worship toward, [[sb/10/1/56#purport|SB 10.1.56]], N101, [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/3/24#purport|SB 10.3.24]]
-* worship, [[sb/8/7/35#purport|SB 8.7.35]], [[sb/8/24/30#purport|SB 8.24.30]], [[sb/8/24/49#purport|SB 8.24.49]]
-* worship. See: Worship, to demigod(s) 
+* worship. See: Worship, to demigod(s), [[sb/5/4/17#purport|SB 5.4.17]], [[sb/8/7/35#purport|SB 8.7.35]], [[sb/8/24/30#purport|SB 8.24.30]], [[sb/8/24/49#purport|SB 8.24.49]]
+* worshiped by, [[sb/1/11/6#purport|SB 1.11.6]], [[sb/3/21/34#purport|SB 3.21.34]], [[sb/6/9/20-27#purport|SB 6.9.20-27]], [[sb/7/4/29#purport|SB 7.4.29]]
 * worshiped in mode of goodness, [[bg/17/4|Bg. 17.4]]
-* worshipers of, [[sb/1/12/20#purport|SB 1.12.20]], [[sb/3/18/22-23#purport|SB 3.18.22-23]], [[sb/3/19/1#purport|SB 3.19.1]], [[sb/3/21/14#purport|SB 3.21.14]], [[sb/4/23/28#purport|SB 4.23.28]], [[sb/4/23/33#purport|SB 4.23.33]], [[sb/4/24/30#purport|SB 4.24.30]], [[sb/4/24/41#purport|SB 4.24.41]], [[sb/4/24/62#purport|SB 4.24.62]], [[sb/4/9/10#purport|SB 4.9.10]], [[sb/4/11/21#purport|SB 4.11.21]], [[sb/4/12/10#purport|SB 4.12.10]], [[sb/4/12/51#purport|SB 4.12.51]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/9/21/16#purport|SB 9.21.16]]
+* worshiped, [[sb/4/20/35-36#purport|SB 4.20.35-36]]
+* worshipers of, [[sb/1/12/20#purport|SB 1.12.20]], [[sb/3/18/22-23#purport|SB 3.18.22-23]], [[sb/3/19/1#purport|SB 3.19.1]], [[sb/3/21/14#purport|SB 3.21.14]], [[sb/4/9/10#purport|SB 4.9.10]], [[sb/4/11/21#purport|SB 4.11.21]], [[sb/4/12/10#purport|SB 4.12.10]], [[sb/4/12/51#purport|SB 4.12.51]], [[sb/4/23/28#purport|SB 4.23.28]], [[sb/4/23/33#purport|SB 4.23.33]], [[sb/4/24/30#purport|SB 4.24.30]], [[sb/4/24/41#purport|SB 4.24.41]], [[sb/4/24/62#purport|SB 4.24.62]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/9/21/16#purport|SB 9.21.16]]
 * Yudhiṣṭhira visited by, [[sb/1/13/14#purport|SB 1.13.14]]
 
-*See also:* Devotees; specific demigods; [[i#Indra|Indra]]; [[m#Maruts|Maruts]]; specifics demigod
+*See also:* [Indra](entries/indra.md); Maruts; specific demigods; Devotees; Planets; specifics demigod
+
+*See:* Demigod worship; Planets; ofs demigod; Vivasvān

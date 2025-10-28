@@ -31,6 +31,6 @@
 * via talking about Kṛṣṇa, [[sb/4/24/71#purport|SB 4.24.71]]
 * wife (good) helps, [[sb/3/21/15#purport|SB 3.21.15]], [[sb/3/22/11#purport|SB 3.22.11]]
 
-*See also:* Devotional service; [[g#Goal of life|Goal of life]]; [[p#Perfection|Perfection]]; [[s#Success|Success]]; [[g#Godhead|Godhead]]; returning to
+*See also:* [Godhead](entries/godhead.md); returning to; Devotional service; Goal of life; [Perfection](entries/perfections.md); [Success](entries/success.md)
 
-*See:* [[k#Knowledge|Knowledge]]; spiritual; [[p#Purification|Purification]]
+*See:* [Knowledge](entries/knowledge.md); spiritual; [Purification](entries/purification.md)

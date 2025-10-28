@@ -1,6 +1,6 @@
 # Envy
 
-[[cc/adi/10/7#purport|Ādi 10.7]], [[cc/madhya/1/218#purport|Madhya 1.218]], [[cc/madhya/1/220#purport|Madhya 1.220]], [[cc/madhya/14/21#purport|Madhya 14.21]], [[cc/madhya/15/163#purport|Madhya 15.163]], [[cc/madhya/15/270#purport|Madhya 15.270]], [[cc/madhya/15/277#purport|Madhya 15.277]], **[[cc/madhya/16/189#translation|Madhya 16.189]]**, [[cc/madhya/19/150#purport|Madhya 19.150]], [[cc/madhya/19/159#purport|Madhya 19.159]], [[cc/madhya/19/17#purport|Madhya 19.17]], **[[cc/madhya/22/147#translation|Madhya 22.147]]**, **[[cc/madhya/23/106–7#translation|Madhya 23.106–7]]**, [[cc/madhya/4/147#purport|Madhya 4.147]], [[sb/3/32/40#purport|SB 3.32.40]]
+[[cc/adi/10/7#purport|Ādi 10.7]], [[cc/madhya/1/218#purport|Madhya 1.218]], [[cc/madhya/1/220#purport|Madhya 1.220]], [[cc/madhya/4/147#purport|Madhya 4.147]], [[cc/madhya/14/21#purport|Madhya 14.21]], [[cc/madhya/15/163#purport|Madhya 15.163]], [[cc/madhya/15/270#purport|Madhya 15.270]], [[cc/madhya/15/277#purport|Madhya 15.277]], **[[cc/madhya/16/189#translation|Madhya 16.189]]**, [[cc/madhya/19/17#purport|Madhya 19.17]], [[cc/madhya/19/150#purport|Madhya 19.150]], [[cc/madhya/19/159#purport|Madhya 19.159]], **[[cc/madhya/22/147#translation|Madhya 22.147]]**, **[[cc/madhya/23/106–7#translation|Madhya 23.106–7]]**, [[sb/3/32/40#purport|SB 3.32.40]]
 
 * & attachment compared to women’s breasts, [[sb/4/25/24#purport|SB 4.25.24]]
 * among devotees, [[sb/9/11/23#purport|SB 9.11.23]]
@@ -24,7 +24,7 @@
 * in beastly persons, [[sb/3/4/34#purport|SB 3.4.34]]
 * in caste brāhmaṇas, [[sb/7/9/10#purport|SB 7.9.10]]
 * in conditional life only, [[sb/3/14/46#purport|SB 3.14.46]]
-* in Dakṣa. See: Dakṣa, envy of Śiva in 
+* in Dakṣa. See: Dakṣa, envy of Śiva in
 * in demons, [[sb/7/10/30#purport|SB 7.10.30]]
 * in Duryodhana, [[sb/3/1/36#purport|SB 3.1.36]]
 * in Hiraṇyakaśipu, [[sb/7/8/11#purport|SB 7.8.11]], [[sb/7/9/14#purport|SB 7.9.14]]
@@ -71,7 +71,7 @@
 * to great souls, [[sb/4/4/13-13#purport|SB 4.4.13-13]]
 * to Kṛṣṇa, [[sb/3/2/19#purport|SB 3.2.19]], [[sb/3/4/34#purport|SB 3.4.34]], [[sb/6/4/31#purport|SB 6.4.31]]
 * to Lord or devotee, [[sb/4/4/10#purport|SB 4.4.10]]
-* to Lord. See: Atheism; Impersonalism 
+* to Lord. See: Atheism; Impersonalism
 * toward Kṛṣṇa consciousness movement, [[sb/7/9/10#purport|SB 7.9.10]]
 
-*See also:* [[a#Anger|Anger]]; [[i#Ignorance|Ignorance]]
+*See also:* [Anger](entries/anger.md); [Ignorance](entries/ignorance.md); Atheists; [Impersonalism](entries/impersonalism.md); Supreme Lord; envy to

@@ -1,6 +1,6 @@
 # Vasiṣṭha
 
-[[sb/9/4/22#purport|SB 9.4.22]]
+[[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/24/22-23#purport|SB 3.24.22-23]], [[sb/4/24/4#purport|SB 4.24.4]], [[sb/4/24/72#purport|SB 4.24.72]], [[sb/9/4/22#purport|SB 9.4.22]]
 
 * as Indra’s sacrificial priest, [[sb/9/13/1-4#purport|SB 9.13.1-4]], [[sb/9/13/5#purport|SB 9.13.5]]
 * as Manu’s spiritual master, [[sb/9/1/16#purport|SB 9.1.16]], [[sb/9/1/36#purport|SB 9.1.36]]
@@ -24,7 +24,6 @@
 * residence of, [[sb/5/17/3#purport|SB 5.17.3]]
 * sacrifice by, for Manu, [[sb/9/1/13-17#purport|SB 9.1.13-17]], [[sb/9/1/18-22#purport|SB 9.1.18-22]]
 * Saudāsa cursed by, [[sb/9/9/18#purport|SB 9.9.18]], [[sb/9/9/22#purport|SB 9.9.22]], [[sb/9/9/23-24#purport|SB 9.9.23-24]], [[sb/9/9/33#purport|SB 9.9.33]]
-*  [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/24/22-23#purport|SB 3.24.22-23]], [[sb/4/24/4#purport|SB 4.24.4]], [[sb/4/24/72#purport|SB 4.24.72]]
 * Vikukṣi’s polluted offering detected by, [[sb/9/6/8#purport|SB 9.6.8]]
 * Viśvāmitra &, [[sb/9/7/7-7#purport|SB 9.7.7-7]]
 * worshiped Śiva on Sudyumna’s behalf, [[sb/9/1/37#purport|SB 9.1.37]]

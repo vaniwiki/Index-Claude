@@ -15,10 +15,11 @@
 * as sacrificial offerings, [[sb/5/7/5#purport|SB 5.7.5]]
 * as servants, [[sb/7/11/2#purport|SB 7.11.2]]
 * as sexually fickle, [[sb/8/9/10#purport|SB 8.9.10]]
+* as wrong, [[sb/4/7/33#purport|SB 4.7.33]]
 * at Bindu-sarovara Lake, [[sb/3/21/41-44#purport|SB 3.21.41-44]]
-* atheists compared to, [[sb/10/1/17#purport|SB 10.1.17]], [[sb/2/3/19#purport|SB 2.3.19]]
-* attachment to, & next life, [[sb/5/8/12#purport|SB 5.8.12]]
+* atheists compared to, [[sb/2/3/19#purport|SB 2.3.19]], [[sb/10/1/17#purport|SB 10.1.17]]
 * attachment to, [[sb/7/6/11-13#purport|SB 7.6.11-13]]
+* attachment to, & next life, [[sb/5/8/12#purport|SB 5.8.12]]
 * birth as, [[bg/3/14|Bg. 3.14]], [[bg/8/3|Bg. 8.3]], [[bg/8/6|Bg. 8.6]], [[bg/13/21|Bg. 13.21]], [[bg/13/22|Bg. 13.22]], [[bg/14/15|Bg. 14.15]], [[bg/14/16|Bg. 14.16]], [[bg/15/8|Bg. 15.8]], [[bg/15/9|Bg. 15.9]], [[bg/16/1|Bg. 16.1]] (1), [[bg/16/19|Bg. 16.19]]−20, [[sb/3/30/29#purport|SB 3.30.29]], [[sb/4/29/14#purport|SB 4.29.14]], [[sb/4/29/29-29#purport|SB 4.29.29-29]], 39.76-77
 * birth of, spiritual birth vs., [[sb/2/7/38#purport|SB 2.7.38]]
 * bodily conception for, [[sb/8/16/19#purport|SB 8.16.19]]
@@ -26,6 +27,7 @@
 * Buddha compassionate to, [[sb/4/22/42#purport|SB 4.22.42]]
 * Caitanya enlightened, [[sb/1/6/13#purport|SB 1.6.13]]
 * care for, [[sb/10/5/26#purport|SB 10.5.26]]
+* cause of, [[sb/3/14/40#purport|SB 3.14.40]]
 * chanting Hare Kṛṣṇa renounced by, [[sb/4/20/26-26#purport|SB 4.20.26-26]]
 * chanting of Hare Kṛṣṇa benefits, [[sb/4/31/19#purport|SB 4.31.19]]
 * citizens compared to, [[sb/6/2/5-6#purport|SB 6.2.5-6]]
@@ -38,7 +40,6 @@
 * consciousness of, [[bg/2/20|Bg. 2.20]], [[bg/3/38|Bg. 3.38]], [[bg/18/22|Bg. 18.22]], [[sb/3/31/19#purport|SB 3.31.19]]
 * controlled by body, [[bg/13/21|Bg. 13.21]]
 * cowherd boys imitated, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
-* *See:* [[c#Cows|Cows]] 
 * creation of, [[bg/9/8|Bg. 9.8]]
 * dead bodies eaten by, [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/11#purport|SB 10.10.11]]
 * dead due to Śiva, [[sb/4/7/33#purport|SB 4.7.33]]
@@ -47,6 +48,7 @@
 * demigod worshipers likened to, [[sb/6/16/38#purport|SB 6.16.38]]
 * demons degraded to, [[sb/1/12/5#purport|SB 1.12.5]]
 * desert mirage traps, [[sb/2/2/6#purport|SB 2.2.6]]
+* device for, [[sb/4/5/24#purport|SB 4.5.24]]
 * devotee’s vision of, [[bg/5/18|Bg. 5.18]]
 * devotees compared with, [[sb/4/11/10#purport|SB 4.11.10]]
 * devotees kind to, [[sb/3/25/21#purport|SB 3.25.21]]
@@ -73,7 +75,7 @@
 * humans &, 15, [[bg/14/17|Bg. 14.17]]
 * humans becoming like, [[sb/4/22/36#purport|SB 4.22.36]]
 * humans compared with, [[sb/4/11/10#purport|SB 4.11.10]], [[sb/9/18/43#purport|SB 9.18.43]]
-* humans contrasted to, [[sb/10/8/5#purport|SB 10.8.5]], [[sb/2/2/4#purport|SB 2.2.4]], [[sb/2/3/18#purport|SB 2.3.18]], [[sb/2/4/17#purport|SB 2.4.17]], [[sb/3/10/26#purport|SB 3.10.26]], [[sb/3/12/35#purport|SB 3.12.35]], [[sb/3/13/50#purport|SB 3.13.50]], [[sb/4/22/31#purport|SB 4.22.31]]
+* humans contrasted to, [[sb/2/2/4#purport|SB 2.2.4]], [[sb/2/3/18#purport|SB 2.3.18]], [[sb/2/4/17#purport|SB 2.4.17]], [[sb/3/10/26#purport|SB 3.10.26]], [[sb/3/12/35#purport|SB 3.12.35]], [[sb/3/13/50#purport|SB 3.13.50]], [[sb/4/22/31#purport|SB 4.22.31]], [[sb/10/8/5#purport|SB 10.8.5]]
 * humans superior to, [[sb/5/5/21-22#purport|SB 5.5.21-22]]
 * humans under bodily conception as, [[sb/8/3/17#purport|SB 8.3.17]], [[sb/8/5/23#purport|SB 8.5.23]]
 * ignorance mode degrades one to, [[sb/3/22/36#purport|SB 3.22.36]]
@@ -92,15 +94,12 @@
 * in medical experiment, [[sb/4/13/35#purport|SB 4.13.35]]
 * in milk ocean, [[sb/8/7/13#purport|SB 8.7.13]], [[sb/8/7/18#purport|SB 8.7.18]]
 * in modes of nature, [[sb/9/8/21#purport|SB 9.8.21]]
-* in Vṛndāvana, birth as, [[sb/4/29/14#purport|SB 4.29.14]]
 * in Vṛndāvana, [[sb/10/11/39-40#purport|SB 10.11.39-40]], [[sb/10/13/60#purport|SB 10.13.60]]
+* in Vṛndāvana, birth as, [[sb/4/29/14#purport|SB 4.29.14]]
 * intelligence of, [[sb/4/29/1#purport|SB 4.29.1]]a-2a, [[sb/4/29/1#purport|SB 4.29.1]]a-2a
 * Kali-yuga as hell for, [[sb/1/16/20#purport|SB 1.16.20]]
 * Kali-yuga people compared to, [[sb/9/24/56#purport|SB 9.24.56]]
-* killing of , 
-* killing of, [[sb/3/29/15#purport|SB 3.29.15]], [[sb/9/2/3#purport|SB 9.2.3]]
-* *See:* [[a#Animal slaughter|Animal slaughter]]; [[m#Meat-eating|Meat-eating]] 
-* killing of. See: Animal slaughter , , , , 
+* killing of. See: Animal slaughter, [[sb/3/29/15#purport|SB 3.29.15]], [[sb/9/2/3#purport|SB 9.2.3]]
 * kings hunt, [[sb/4/22/13#purport|SB 4.22.13]]
 * Kṛṣṇa & Balarāma imitated, [[sb/10/11/39-40#purport|SB 10.11.39-40]]
 * Kṛṣṇa’s representations among, [[bg/10/27–31|Bg. 10.27–31]]
@@ -108,7 +107,6 @@
 * levels of, [[sb/3/29/29-30#purport|SB 3.29.29-30]]
 * liberation for, [[sb/3/25/21#purport|SB 3.25.21]]
 * life of, as pravṛtti-mārga, [[sb/4/25/39#purport|SB 4.25.39]]
-* *See:* Animals; birth as 
 * Lord in heart of, [[bg/5/18|Bg. 5.18]], [[bg/6/29|Bg. 6.29]]
 * Lord incarnates in all species of, [[sb/2/10/42#purport|SB 2.10.42]], [[sb/2/10/42#purport|SB 2.10.42]]
 * Lord incarnates in forms of, [[sb/1/8/30#purport|SB 1.8.30]], [[sb/1/13/50#purport|SB 1.13.50]]
@@ -121,6 +119,8 @@
 * meat-eater’s quota of, [[sb/9/15/25#purport|SB 9.15.25]]
 * modern men compared to, [[sb/10/2/34#purport|SB 10.2.34]], [[sb/10/7/4#purport|SB 10.7.4]], [[sb/10/8/5#purport|SB 10.8.5]]
 * nature feeds, [[sb/7/14/7#purport|SB 7.14.7]]
+* new life given at, [[sb/4/4/6#purport|SB 4.4.6]], [[sb/4/5/24#purport|SB 4.5.24]], [[sb/4/7/33#purport|SB 4.7.33]]
+* not for eating, [[sb/4/5/24#purport|SB 4.5.24]]
 * of Trikūṭa Mountain, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/2/7#purport|SB 8.2.7]], [[sb/8/2/14-24#purport|SB 8.2.14-24]]
 * ominous signs in, [[sb/1/14/12-14#purport|SB 1.14.12-14]], [[sb/1/14/19#purport|SB 1.14.19]]
 * on higher planets, [[sb/8/2/6#purport|SB 8.2.6]]
@@ -140,22 +140,20 @@
 * punishment for torturing, [[sb/5/26/32#purport|SB 5.26.32]]
 * punishment of, need for, [[sb/4/7/14#purport|SB 4.7.14]]
 * rejuvenated by mantras, [[sb/4/4/6#purport|SB 4.4.6]], [[sb/4/5/24#purport|SB 4.5.24]], [[sb/4/7/33#purport|SB 4.7.33]]
+* result of, [[sb/3/6/28#purport|SB 3.6.28]]
 * right to life for, [[sb/4/28/26#purport|SB 4.28.26]]
 * Ṛṣabhadeva imitates behavior of, [[sb/5/5/34#purport|SB 5.5.34]]
 * Ṛṣabhadeva’s presence liberates, [[sb/5/6/8#purport|SB 5.6.8]]
-* sacrifice &, 19-320???? 
+* sacrifice &, 19-320????
 * sacrifice of, [[sb/1/8/52#purport|SB 1.8.52]], [[sb/1/12/34#purport|SB 1.12.34]], [[sb/4/13/25#purport|SB 4.13.25]], [[sb/4/13/35#purport|SB 4.13.35]], [[sb/4/19/11#purport|SB 4.19.11]], [[sb/4/19/27#purport|SB 4.19.27]], [[sb/4/19/36#purport|SB 4.19.36]], [[sb/7/2/10#purport|SB 7.2.10]], [[sb/7/7/40#purport|SB 7.7.40]]
-* sacrifice of. See: Sacrifice(s), animal 
-* *See:* [[s#Sacrifice|Sacrifice]]; of animals 
-* sacrificing of. See: Sacrifice(s), of animals 
+* sacrificing of. See: Sacrifice(s), of animals
 * satisfied with their life, [[sb/3/30/4#purport|SB 3.30.4]]
 * self-realization absent in, [[sb/2/9/6#purport|SB 2.9.6]]
 * sense gratification for, [[sb/2/7/18#purport|SB 2.7.18]], [[sb/3/23/53#purport|SB 3.23.53]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/14/10#purport|SB 7.14.10]]
 * senses for, [[sb/3/29/29-30#purport|SB 3.29.29-30]]
 * senses of, [[sb/4/31/11#purport|SB 4.31.11]]
 * sex life of, [[sb/4/25/38#purport|SB 4.25.38]], [[sb/4/27/5#purport|SB 4.27.5]]
-* slaughter of, [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/12#purport|SB 10.10.12]], [[sb/10/10/14#purport|SB 10.10.14]], [[sb/9/9/28#purport|SB 9.9.28]]
-* slaughter of. See: Animal slaughter 
+* slaughter of. See: Animal slaughter, [[sb/9/9/28#purport|SB 9.9.28]], [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/12#purport|SB 10.10.12]], [[sb/10/10/14#purport|SB 10.10.14]]
 * society compared to, [[sb/9/16/28#purport|SB 9.16.28]]
 * soul in, [[sb/4/22/31#purport|SB 4.22.31]], [[sb/4/26/9#purport|SB 4.26.9]]
 * species of, number of, [[bg/14/18|Bg. 14.18]], [[sb/2/9/2#purport|SB 2.9.2]]
@@ -167,4 +165,6 @@
 * Vikukṣi killed, for śrāddha sacrifice, [[sb/9/6/7#purport|SB 9.6.7]]
 * Yamarāja undisturbed by, [[sb/7/2/55#purport|SB 7.2.55]]
 
-*See also:* [[c#Cows|Cows]]; [[s#Species of life|Species of life]]; specific animals; names of other specific animals
+*See also:* Animal slaughter; Aśvameda sacrifices; Cows; names of other specific animals; slaughter of; [Hunting](entries/hunting.md); Species of life; specific animals
+
+*See:* [Sacrifice](entries/sacrifices.md); of animals; Animal slaughter; [Meat-eating](entries/meat-eating.md); Animals; birth as; Cows

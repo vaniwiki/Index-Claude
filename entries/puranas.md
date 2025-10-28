@@ -1,6 +1,6 @@
-# Purāṇa(s)
+# Purāṇas
 
-**[[cc/madhya/20/145#translation|Madhya 20.145]]**, [[cc/madhya/20/353#purport|Madhya 20.353]], **[[cc/madhya/22/6#translation|Madhya 22.6]]**, [[sb/6/8/19#purport|SB 6.8.19]], [[sb/7/14/29#purport|SB 7.14.29]]
+[[bg/3|Bg. 3]], [[bg/7/3|Bg. 7.3]], [[bg/10/18|Bg. 10.18]], [[bg/11/48|Bg. 11.48]], **[[cc/madhya/20/145#translation|Madhya 20.145]]**, [[cc/madhya/20/353#purport|Madhya 20.353]], **[[cc/madhya/22/6#translation|Madhya 22.6]]**, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/6/8/19#purport|SB 6.8.19]], [[sb/7/14/29#purport|SB 7.14.29]]
 
 * as appropriate for all, [[sb/1/2/4#purport|SB 1.2.4]]
 * as authoritative histories, [[sb/7/2/27#purport|SB 7.2.27]]
@@ -9,17 +9,16 @@
 * as breathing of Lord, [[sb/1/4/13#purport|SB 1.4.13]]
 * as division of Vedas, SB Intro 22, [[sb/1/1/6#purport|SB 1.1.6]], [[sb/1/2/4#purport|SB 1.2.4]], [[sb/1/3/21#purport|SB 1.3.21]], [[sb/1/4/19-20#purport|SB 1.4.19-20]]
 * as evidence of devotional principles, **[[cc/madhya/24/343#translation|Madhya 24.343]]**
-* as histories, 24 
+* as histories, 24
 * as nonfiction, [[sb/10/10/34-35#purport|SB 10.10.34-35]]
 * as smṛti-prasthāna, [[cc/adi/7/117#purport|Ādi 7.117]]
 * as source of knowledge, [[cc/adi/7/106#purport|Ādi 7.106]]
 * as transcendental literature, [[sb/1/1/19#purport|SB 1.1.19]]
 * as Vedas’ supplement, **[[cc/madhya/6/147–48#translation|Madhya 6.147–48]]**, **[[cc/madhya/20/122#translation|Madhya 20.122]]**
-* author of. See: Vyāsadeva 
+* author of. See: Vyāsadeva
 * authority of, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/madhya/6/137#purport|Madhya 6.137]]
-*  [[bg/3|Bg. 3]], [[bg/7/3|Bg. 7.3]], [[bg/10/18|Bg. 10.18]], [[bg/11/48|Bg. 11.48]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/28/65#purport|SB 4.28.65]]
 * Bhagavad-gītā essence of, [[sb/1/15/27#purport|SB 1.15.27]]
-* Bhāgavata. See: Śrīmad-Bhāgavatam 
+* Bhāgavata. See: Śrīmad-Bhāgavatam
 * Caitanya confirmed as Kali-yuga incarnation in, [[sb/5/18/35#purport|SB 5.18.35]]
 * Caitanya’s identity &, **[[cc/adi/3/84#translation|Ādi 3.84]]**
 * chanting of, [[sb/1/2/4#purport|SB 1.2.4]]
@@ -37,7 +36,7 @@
 * hearing, as transcendental life, [[sb/1/7/12#purport|SB 1.7.12]]
 * historians misunderstand, [[sb/1/1/20#purport|SB 1.1.20]]
 * history in, [[sb/1/3/41#purport|SB 1.3.41]]
-* history of, 25 
+* history of, 25
 * identical with Vedas in message, [[sb/1/4/13#purport|SB 1.4.13]]
 * importance of, [[sb/6/1/20#purport|SB 6.1.20]]
 * India’s history in, [[sb/2/8/21#purport|SB 2.8.21]]
@@ -63,4 +62,4 @@
 * Vyāsa author of, [[cc/antya/9/10#purport|Antya 9.10]]
 * Vyāsa respected before reading, [[sb/1/9/6-7#purport|SB 1.9.6-7]]
 
-*See also:* names of specific Purāṇas; specific Purāṇas; Śrīmad-Bhagāvatam; Śrīmad-Bhagavatam; [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]]; specific purāṇas
+*See also:* names of specific Purāṇas; specific Purāṇas; Śrīmad-Bhagāvatam; Śrīmad-Bhagavatam; Śrīmad-Bhāgavatam; specific purāṇas

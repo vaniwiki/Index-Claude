@@ -1,44 +1,96 @@
 # Devotional service to Supreme Lord
 
-* ”creeper” of, protecting, SB Intro 39
 * ”creeper” of, [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/22/23#purport|SB 4.22.23]]
-* ”dovetailing” in 
+* ”creeper” of, protecting, SB Intro 39
+* ”dovetailing” in
 * ”flow” of, increasing, [[sb/1/5/28#purport|SB 1.5.28]]
 * ”seed” of, [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/13#purport|SB 10.10.13]]
-* buddhi-yoga as, [[bg/2/39–25|Bg. 2.39–25]], [[bg/2/49|Bg. 2.49]], [[bg/2/51|Bg. 2.51]], [[bg/10/10|Bg. 10.10]]
 * *jñāna-yoga *vs., [[bg/12/5|Bg. 12.5]] (1,4)
-* karma-yoga as, [[bg/2/51|Bg. 2.51]]
-* rasas in, [[bg/8/14|Bg. 8.14]]
 * *sāṅkhya-yoga *as, [[bg/2/39|Bg. 2.39]] (3–5)
 * *varṇāśrama’s *rituals transcended by, [[bg/8/28|Bg. 8.28]], [[bg/8/28|Bg. 8.28]] (3)
+* & knowledge of, [[sb/5/5/5#purport|SB 5.5.5]]
+* & renunciation end in, [[sb/5/13/14#purport|SB 5.13.14]]
 * ability according to, [[sb/2/5/17#purport|SB 2.5.17]]
 * absolute nature of, [[bg/2/72|Bg. 2.72]], [[bg/4/24|Bg. 4.24]]
 * Absolute realized in, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/7/4#purport|SB 1.7.4]]
 * Absolute Truth known only via, [[bg/11/52|Bg. 11.52]]
-* Absolute Truth known via, [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/13/54#purport|SB 10.13.54]], [[sb/4/22/38#purport|SB 4.22.38]]
+* Absolute Truth known via, [[sb/4/22/38#purport|SB 4.22.38]], [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/13/54#purport|SB 10.13.54]]
+* absorbed in, [[sb/5/9/4#purport|SB 5.9.4]]
 * accepting & rejecting in, [[sb/4/21/42#purport|SB 4.21.42]]
 * accidental, [[sb/3/4/9#purport|SB 3.4.9]]
 * accumulates for many births, [[sb/1/6/24#purport|SB 1.6.24]]
 * accumulative effect of, [[sb/3/9/13#purport|SB 3.9.13]]
+* achieved via, [[sb/5/19/7#purport|SB 5.19.7]]
 * activities in, nine listed, [[sb/4/29/38#purport|SB 4.29.38]]
-* activities of 
 * activities of, [[bg/4/22–28|Bg. 4.22–28]], [[bg/9/1|Bg. 9.1]]
+  * *See also:* Devotional service; processes of
 * activities of, listed, [[sb/4/8/57#purport|SB 4.8.57]]
-* activities of. See: Devotional service, processes of 
 * activities purified via, [[sb/1/8/42#purport|SB 1.8.42]]
 * activities saturated in, [[sb/3/6/3#purport|SB 3.6.3]], [[sb/3/7/13#purport|SB 3.7.13]]
 * activities spoiling, six listed, [[sb/7/13/34#purport|SB 7.13.34]]
 * advanced stages of, [[bg/8/28|Bg. 8.28]]
+  * *See also:* Pure devotional service
+  * all ends & good, attainment of, as, [[bg/2/41|Bg. 2.41]], [[bg/8/28|Bg. 8.28]], [[bg/9/3|Bg. 9.3]]
+  * Brahman, attainment of, as, [[bg/14/26|Bg. 14.26]]
+  * cure of material disease as, [[bg/4/24|Bg. 4.24]], [[bg/6/35|Bg. 6.35]]
+  * demigods, satisfaction of, as, [[bg/9/23|Bg. 9.23]]
+  * despite faults, [[bg/7/20|Bg. 7.20]], [[bg/9/30|Bg. 9.30]], [[bg/9/31|Bg. 9.31]]
+  * detachment as, [[bg/2/70|Bg. 2.70]], [[bg/3/28|Bg. 3.28]], [[bg/4/10|Bg. 4.10]], [[bg/6/13|Bg. 6.13]] (2), [[bg/6/35–36|Bg. 6.35–36]], [[bg/14/27|Bg. 14.27]], [[bg/18/55|Bg. 18.55]]
+  * enlightenment as, [[bg/9/1|Bg. 9.1]]
+  * equality (qualitatively) with Lord, attainment of, as, [[bg/14/26|Bg. 14.26]]
+  * everything, attainment of, as, [[bg/8/28|Bg. 8.28]]
+  * faith as, [[bg/4/39|Bg. 4.39]], [[bg/8/28|Bg. 8.28]]
+  * fearlessness as, [[bg/6/13|Bg. 6.13]] (2), [[bg/6/14|Bg. 6.14]]
+  * for ancestors, [[bg/1/41|Bg. 1.41]]
+  * freedom from bodily concept of life as, [[bg/14/22|Bg. 14.22]]
+  * freedom from bondage as, [[bg/2/49|Bg. 2.49]]
+  * freedom from debts & obligations as, [[bg/1/41|Bg. 1.41]], [[bg/2/38|Bg. 2.38]], [[bg/9/28|Bg. 9.28]]
+  * freedom from disturbance as, [[bg/2/70|Bg. 2.70]]
+  * freedom from reactions as, [[bg/2/21|Bg. 2.21]], [[bg/2/38|Bg. 2.38]], [[bg/2/50|Bg. 2.50]], [[bg/4/14|Bg. 4.14]], [[bg/4/18|Bg. 4.18]], [[bg/4/19–22|Bg. 4.19–22]], [[bg/4/24|Bg. 4.24]], [[bg/5/7–14|Bg. 5.7–14]], [[bg/9/2|Bg. 9.2]] (5)
+  * freedom from suffering as, [[bg/5/26|Bg. 5.26]], [[bg/9/33|Bg. 9.33]]
+  * freedom from transmigration as, [[bg/5/2|Bg. 5.2]]
+  * good qualities, attainment of, as, [[bg/10/4|Bg. 10.4]] (11–12), [[bg/13/8|Bg. 13.8]] (1)
+  * happiness as, 18–19, [[bg/2/39|Bg. 2.39]] (5), [[bg/2/70|Bg. 2.70]], [[bg/4/18|Bg. 4.18]], [[bg/6/26|Bg. 6.26]], [[bg/6/35|Bg. 6.35]], [[bg/8/28|Bg. 8.28]], [[bg/9/2|Bg. 9.2]] (9), [[bg/9/2|Bg. 9.2]] (), [[bg/9/14|Bg. 9.14]], [[bg/12/6|Bg. 12.6]] (5), [[bg/18/54|Bg. 18.54]]
+  * higher taste, attainment of, as, [[bg/6/13|Bg. 6.13]] (1)
+  * intimacy with Lord as, [[bg/1/21–22|Bg. 1.21–22]]
+  * knowledge about Kṛṣṇa as, [[bg/7/3–4|Bg. 7.3–4]], [[bg/7/24–25|Bg. 7.24–25]], [[bg/9/2|Bg. 9.2]] (11), [[bg/9/4|Bg. 9.4]], [[bg/10/2–3|Bg. 10.2–3]], [[bg/11/52–53|Bg. 11.52–53]], [[bg/11/54|Bg. 11.54]] (1), [[bg/13/16|Bg. 13.16]], [[bg/15/19|Bg. 15.19]], [[bg/18/55|Bg. 18.55]], [[bg/18/67|Bg. 18.67]]
+  * knowledge, spiritual, as, [[bg/2/25|Bg. 2.25]], [[bg/2/39|Bg. 2.39]], [[bg/4/38|Bg. 4.38]], [[bg/6/8–9|Bg. 6.8–9]], [[bg/7/1|Bg. 7.1]], [[bg/7/3–4|Bg. 7.3–4]], [[bg/9/2|Bg. 9.2]] (11), [[bg/10/10–11|Bg. 10.10–11]], [[bg/15/11|Bg. 15.11]], [[bg/15/20|Bg. 15.20]]
+  * Kṛṣṇa consciousness as, 26, 27–28, [[bg/8/5–8|Bg. 8.5–8]], [[bg/8/11–13|Bg. 8.11–13]], [[bg/8/14|Bg. 8.14]], [[bg/8/27|Bg. 8.27]], [[bg/8/28|Bg. 8.28]], [[bg/9/1|Bg. 9.1]], [[bg/12/8|Bg. 12.8]]
+  * Kṛṣṇa, attainment of, as, 22–25, 27–28, [[bg/8/5–8|Bg. 8.5–8]], [[bg/8/14–15|Bg. 8.14–15]], [[bg/8/22|Bg. 8.22]], [[bg/9/26|Bg. 9.26]], [[bg/9/34|Bg. 9.34]], [[bg/9/34|Bg. 9.34]] (5), [[bg/12/8|Bg. 12.8]], [[bg/18/65|Bg. 18.65]]
+  * Kṛṣṇa, pleasing, as, [[bg/7/17–18|Bg. 7.17–18]], [[bg/11/55|Bg. 11.55]] (6)
+  * liberation as, 22–25, 28, [[bg/2/51|Bg. 2.51]], [[bg/2/72|Bg. 2.72]], [[bg/4/35|Bg. 4.35]], [[bg/5/2|Bg. 5.2]], [[bg/5/26–28|Bg. 5.26–28]], [[bg/7/14|Bg. 7.14]], [[bg/7/29|Bg. 7.29]], [[bg/8/6|Bg. 8.6]], [[bg/8/8|Bg. 8.8]], [[bg/8/10|Bg. 8.10]], [[bg/8/13|Bg. 8.13]], [[bg/8/27|Bg. 8.27]], [[bg/10/12|Bg. 10.12]], [[bg/14/26|Bg. 14.26]], [[bg/15/1|Bg. 15.1]]
+  * liberation to Lord’s abode as, 22–25, 28, [[bg/2/39|Bg. 2.39]] (2), [[bg/2/51|Bg. 2.51]], [[bg/7/23|Bg. 7.23]], [[bg/7/24|Bg. 7.24]] (4), [[bg/7/29|Bg. 7.29]], [[bg/8/8|Bg. 8.8]], [[bg/8/10|Bg. 8.10]], [[bg/8/13|Bg. 8.13]], [[bg/8/22|Bg. 8.22]], [[bg/8/28|Bg. 8.28]], [[bg/8/28|Bg. 8.28]] (2), [[bg/9/32|Bg. 9.32]], [[bg/10/9|Bg. 10.9]], [[bg/11/55|Bg. 11.55]] (1,3,4), [[bg/18/55|Bg. 18.55]]
+  * love for God as, [[bg/4/10|Bg. 4.10]], [[bg/10/9|Bg. 10.9]], [[bg/12/9|Bg. 12.9]]
+  * modes, transcending of, as, [[bg/14/26|Bg. 14.26]]
+  * never lost, [[bg/2/40–41|Bg. 2.40–41]], [[bg/9/30|Bg. 9.30]]
+  * peace as, [[bg/2/71|Bg. 2.71]], [[bg/9/31|Bg. 9.31]]
+  * permanent, [[bg/2/40|Bg. 2.40]], [[bg/3/4|Bg. 3.4]], [[bg/3/5|Bg. 3.5]]
+  * pleasure as, 18, [[bg/7/30|Bg. 7.30]]
+  * protection as, [[bg/2/21|Bg. 2.21]], [[bg/2/40–41|Bg. 2.40–41]], [[bg/3/4|Bg. 3.4]], [[bg/7/17|Bg. 7.17]]
+  * purification as, [[bg/2/50|Bg. 2.50]], [[bg/3/9|Bg. 3.9]], [[bg/3/41|Bg. 3.41]], [[bg/4/24|Bg. 4.24]], [[bg/5/11|Bg. 5.11]], [[bg/7/1|Bg. 7.1]], [[bg/7/16|Bg. 7.16]], [[bg/7/20|Bg. 7.20]], [[bg/9/2|Bg. 9.2]] (4–6,11), [[bg/9/28|Bg. 9.28]], [[bg/9/30|Bg. 9.30]], [[bg/9/31|Bg. 9.31]], [[bg/10/11|Bg. 10.11]], [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (6), [[bg/13/22|Bg. 13.22]], [[bg/14/27|Bg. 14.27]], [[bg/15/20|Bg. 15.20]], [[bg/18/55|Bg. 18.55]], [[bg/18/66|Bg. 18.66]], [[bg/18/71|Bg. 18.71]]
+  * remembering Kṛṣṇa always as, [[bg/1/24|Bg. 1.24]]
+  * returning to Godhead as, 22–25, 28, [[bg/2/39|Bg. 2.39]] (2), [[bg/2/51|Bg. 2.51]], [[bg/8/8|Bg. 8.8]], [[bg/8/28|Bg. 8.28]], [[bg/8/28|Bg. 8.28]] (1), [[bg/10/9|Bg. 10.9]], [[bg/11/55|Bg. 11.55]], [[bg/11/55|Bg. 11.55]] (6)
+  * revival of original relationship with Lord as, 4
+  * satisfaction of everyone as, [[bg/2/41|Bg. 2.41]], [[bg/9/3|Bg. 9.3]]
+  * self-realization, attainment of, as, [[bg/3/3|Bg. 3.3]], [[bg/9/1–2|Bg. 9.1–2]] (11), [[bg/13/8|Bg. 13.8]] (13), [[bg/16/22|Bg. 16.22]]
+  * sense-control, attainment of, as, [[bg/2/68|Bg. 2.68]], [[bg/5/26|Bg. 5.26]], [[bg/8/8|Bg. 8.8]]
+  * sinlessness, attainment of, as, [[bg/15/20|Bg. 15.20]]
+  * spiritual body, attainment of, as, 27
+  * steadiness, attainment of, as, [[bg/2/70|Bg. 2.70]]
+  * vs. benefits from all other processes, [[bg/12/6|Bg. 12.6]] (4–5)
 * advanced, beyond knowledge seeking, [[sb/2/9/36#purport|SB 2.9.36]]
 * advancement in, as permanant asset, [[sb/5/1/5#purport|SB 5.1.5]], [[sb/5/1/36#purport|SB 5.1.36]], [[sb/5/1/37#purport|SB 5.1.37]], [[sb/5/12/15#purport|SB 5.12.15]], [[sb/5/14/43#purport|SB 5.14.43]]
-* advancement in. See: Advancement, spiritual 
+* advancement in. See: Advancement, spiritual
 * advantages of, [[sb/3/25/4#purport|SB 3.25.4]], [[sb/3/25/21#purport|SB 3.25.21]], [[sb/3/26/2#purport|SB 3.26.2]], [[sb/3/32/23#purport|SB 3.32.23]], [[sb/3/32/37#purport|SB 3.32.37]], [[sb/4/27/13#purport|SB 4.27.13]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/30/28-29#purport|SB 4.30.28-29]], [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/36-36#purport|SB 4.30.36-36]], [[sb/4/31/10-11#purport|SB 4.31.10-11]], [[sb/4/31/12#purport|SB 4.31.12]], [[sb/4/31/13-14#purport|SB 4.31.13-14]], [[sb/4/31/18#purport|SB 4.31.18]], [[sb/4/31/31#purport|SB 4.31.31]]
+* advises Rahūgaṇa to engage in, [[sb/5/13/20#purport|SB 5.13.20]]
 * affectionate dealings in, [[sb/3/16/7#purport|SB 3.16.7]]
 * affectionate, compared with opulent, [[sb/3/2/20#purport|SB 3.2.20]]
 * affirmed by Caitanya, SB Intro 25, SB Intro 26
 * after liberation, [[bg/9/2|Bg. 9.2]] (10–11), [[bg/18/55|Bg. 18.55]]
+* all other obligations, [[sb/3/12/5#purport|SB 3.12.5]]
 * all-pervasive, [[sb/2/9/36#purport|SB 2.9.36]]
 * Ambarīṣa in, [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/22#purport|SB 9.4.22]], [[sb/9/4/26#purport|SB 9.4.26]], [[sb/9/5/25#purport|SB 9.5.25]], [[sb/9/5/27#purport|SB 9.5.27]]
+* among devotees, [[sb/1/5/30#purport|SB 1.5.30]], [[sb/1/5/30#purport|SB 1.5.30]]
 * anger hampers, [[sb/4/11/31#purport|SB 4.11.31]]
 * animals eligible for, [[sb/2/9/36#purport|SB 2.9.36]]
 * antiseptic power of, [[sb/2/7/3#purport|SB 2.7.3]]
@@ -46,16 +98,15 @@
 * anxiety relieved via, [[sb/1/12/28#purport|SB 1.12.28]]
 * appears mundane, [[sb/3/9/34#purport|SB 3.9.34]]
 * applicable for all, [[sb/2/3/10#purport|SB 2.3.10]], [[sb/2/3/10#purport|SB 2.3.10]], [[sb/2/8/18#purport|SB 2.8.18]], [[sb/2/9/36#purport|SB 2.9.36]]
+* appreciates, [[sb/8/23/2#purport|SB 8.23.2]]
 * arcanā process in, [[sb/7/15/11#purport|SB 7.15.11]]
 * Arjuna changed via, [[sb/1/8/42#purport|SB 1.8.42]]
 * arts & science in, [[sb/1/5/22#purport|SB 1.5.22]]
 * as ”eyes” for seeing Lord, [[sb/1/3/4#purport|SB 1.3.4]]
 * as ”graduate” spiritual subject, [[sb/1/4/25#purport|SB 1.4.25]]
-* as ”infectious,” [[sb/1/5/25#purport|SB 1.5.25]]
-* as ”labor of love,” [[sb/2/2/31#purport|SB 2.2.31]]
+* as ”infectious,”, [[sb/1/5/25#purport|SB 1.5.25]]
+* as ”labor of love,”, [[sb/2/2/31#purport|SB 2.2.31]]
 * as *Bhagavad-gītā’s *point, [[bg/13/8|Bg. 13.8]] (7), [[bg/18/1|Bg. 18.1]]
-* as Vedas’ conclusion, [[bg/16/24|Bg. 16.24]]
-* as yoga, highest, 26–27 
 * as above liberation, SB Intro 35, [[sb/1/5/9#purport|SB 1.5.9]], [[sb/1/5/30#purport|SB 1.5.30]]
 * as access to Kṛṣṇa, [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/2/20#purport|SB 1.2.20]], [[sb/1/3/29#purport|SB 1.3.29]], [[sb/1/7/41#purport|SB 1.7.41]]
 * as activity of soul, [[sb/1/2/19#purport|SB 1.2.19]]
@@ -63,8 +114,8 @@
 * as approached via pantheism, [[sb/2/1/21#purport|SB 2.1.21]]
 * as associating with Lord, [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/6/22#purport|SB 1.6.22]]
 * as auspicious work, [[bg/10/3|Bg. 10.3]]
-* as auspicious, direct & easy, [[sb/2/2/33#purport|SB 2.2.33]], [[sb/2/2/33#purport|SB 2.2.33]]
 * as auspicious, [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/23/34#purport|SB 4.23.34]], [[sb/5/1/5#purport|SB 5.1.5]]
+* as auspicious, direct & easy, [[sb/2/2/33#purport|SB 2.2.33]], [[sb/2/2/33#purport|SB 2.2.33]]
 * as benediction for hearing of Kapila, [[sb/3/33/37#purport|SB 3.33.37]]
 * as best occupation, [[sb/3/25/11#purport|SB 3.25.11]], [[sb/3/32/22#purport|SB 3.32.22]]
 * as best path, [[sb/3/5/46-47#purport|SB 3.5.46-47]], [[sb/3/6/35#purport|SB 3.6.35]], [[sb/3/6/38#purport|SB 3.6.38]], [[sb/3/6/40#purport|SB 3.6.40]]
@@ -80,8 +131,9 @@
 * as chanting & dancing, [[sb/8/3/20-21#purport|SB 8.3.20-21]]
 * as constant, [[bg/8/14|Bg. 8.14]], [[bg/9/22|Bg. 9.22]], [[bg/10/9|Bg. 10.9]], [[bg/12/2|Bg. 12.2]], [[bg/13/8|Bg. 13.8]] (13)
 * as constitutional position, [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/1#purport|SB 4.29.1]]b
-* as culmination of yoga. 8.16
+* as culmination of yoga., 8.16
 * as daring, [[bg/2/55|Bg. 2.55]]
+* as desireless, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * as dictated from within & without, [[sb/3/15/45#purport|SB 3.15.45]]
 * as difficult path, [[sb/5/14/42#purport|SB 5.14.42]]
 * as difficult, [[sb/4/8/69#purport|SB 4.8.69]]
@@ -117,7 +169,11 @@
 * as hearing of Lord, [[sb/4/29/38#purport|SB 4.29.38]]
 * as hearing process, [[sb/4/28/65#purport|SB 4.28.65]]
 * as higher taste, [[bg/3/42|Bg. 3.42]], [[bg/6/4|Bg. 6.4]], [[bg/6/13|Bg. 6.13]] (1), [[sb/2/1/15#purport|SB 2.1.15]], [[sb/3/7/13#purport|SB 3.7.13]], [[sb/4/26/14#purport|SB 4.26.14]]
-* as highest 
+* as highest
+  * yoga, 6.47, [[bg/9/2|Bg. 9.2]] (11), [[bg/10/10|Bg. 10.10]], [[bg/12/5|Bg. 12.5]] (1,4)
+  * activity, [[bg/6/47|Bg. 6.47]], [[bg/8/16|Bg. 8.16]]
+  * realization, [[bg/12/1|Bg. 12.1]], [[bg/14/27|Bg. 14.27]]
+  * spiritual process, [[bg/7/30|Bg. 7.30]], [[bg/15/19|Bg. 15.19]], [[bg/18/78|Bg. 18.78]] (3)
 * as highest charity, [[sb/3/7/41#purport|SB 3.7.41]]
 * as highest duty, [[sb/1/2/8#purport|SB 1.2.8]]
 * as highest penance, [[sb/3/10/4#purport|SB 3.10.4]]
@@ -132,12 +188,11 @@
 * as karma-yoga, [[sb/3/1/4#purport|SB 3.1.4]]
 * as kingdom of God, [[bg/2/72|Bg. 2.72]]
 * as knowledge’s purpose, [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/30#purport|SB 1.5.30]]
-* as Kṛṣṇa conscious work, 27 
+* as Kṛṣṇa conscious work, 27
 * as Kṛṣṇa’s association, [[bg/12/8|Bg. 12.8]]
 * as Kṛṣṇa’s dog, [[sb/4/29/30-31#purport|SB 4.29.30-31]]
 * as liberated activity, [[bg/2/72|Bg. 2.72]], [[bg/3/9|Bg. 3.9]], [[bg/5/11|Bg. 5.11]], [[bg/5/12|Bg. 5.12]]
-* as liberation, [[sb/5/19/20#purport|SB 5.19.20]], [[sb/7/11/4#purport|SB 7.11.4]], [[sb/9/18/40#purport|SB 9.18.40]], SB Intro 27, [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/2/20#purport|SB 1.2.20]], [[sb/1/3/8#purport|SB 1.3.8]], [[sb/1/5/28#purport|SB 1.5.28]], [[sb/1/6/23#purport|SB 1.6.23]]
-* as liberation. See: Liberation 
+* as liberation, SB Intro 27, [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/2/20#purport|SB 1.2.20]], [[sb/1/3/8#purport|SB 1.3.8]], [[sb/1/5/28#purport|SB 1.5.28]], [[sb/1/6/23#purport|SB 1.6.23]], [[sb/5/19/20#purport|SB 5.19.20]], [[sb/7/11/4#purport|SB 7.11.4]], [[sb/9/18/40#purport|SB 9.18.40]]
 * as life’s goal, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/13/2#purport|SB 1.13.2]], [[sb/1/19/25#purport|SB 1.19.25]]
 * as life’s mission, [[sb/5/14/40#purport|SB 5.14.40]]
 * as life’s perfection, [[sb/10/10/42#purport|SB 10.10.42]]
@@ -147,7 +202,7 @@
 * as natural process, 18, [[bg/5/8|Bg. 5.8]], [[bg/12/5|Bg. 12.5]] (3)
 * as natural, [[sb/7/6/2#purport|SB 7.6.2]]
 * as necessity, [[sb/8/6/15#purport|SB 8.6.15]]
-* as object of *Bhagavad-gītā,* 13.8 (7)
+* as object of *Bhagavad-gītā,*, 13.8 (7)
 * as one in front of zeros, [[sb/4/3/17#purport|SB 4.3.17]]
 * as only way to Kṛṣṇa, [[bg/9/26|Bg. 9.26]]
 * as only way to Lord, [[sb/1/3/4#purport|SB 1.3.4]], [[sb/1/7/4#purport|SB 1.7.4]]
@@ -165,10 +220,10 @@
 * as pure & transcendental, [[bg/15/20|Bg. 15.20]]
 * as pure devotee’s solace, [[sb/7/9/44#purport|SB 7.9.44]]
 * as purification unto knowledge, [[sb/1/5/35#purport|SB 1.5.35]]
-* as purified activities, 10–11 
+* as purified activities, 10–11
 * as purpose of living beings, [[sb/1/5/8#purport|SB 1.5.8]], [[sb/1/5/20#purport|SB 1.5.20]]
 * as qualification for confidential knowledge, [[bg/18/67|Bg. 18.67]]
-* as qualification for devotee. 10.10–11
+* as qualification for devotee., 10.10–11
 * as rāja-guhyam, [[sb/4/31/11#purport|SB 4.31.11]]
 * as rare, [[sb/4/29/57#purport|SB 4.29.57]]
 * as reactionless, [[sb/3/27/21-21#purport|SB 3.27.21-21]]
@@ -200,12 +255,20 @@
 * as symptom of liberated soul, [[sb/5/11/12#purport|SB 5.11.12]]
 * as topmost welfare work, [[sb/3/5/17#purport|SB 3.5.17]]
 * as topmost yoga, [[sb/3/5/4#purport|SB 3.5.4]], [[sb/4/13/8-9#purport|SB 4.13.8-9]], [[sb/4/24/71#purport|SB 4.24.71]], [[sb/7/7/28#purport|SB 7.7.28]], [[sb/7/10/59#purport|SB 7.10.59]]
-* as transcendental 
-* as transcendental to birth situation, [[sb/4/30/41#purport|SB 4.30.41]], [[sb/4/31/9#purport|SB 4.31.9]], [[sb/4/31/10#purport|SB 4.31.10]]
 * as transcendental, [[sb/3/22/36#purport|SB 3.22.36]], [[sb/3/25/13-13#purport|SB 3.25.13-13]], [[sb/3/25/38-38#purport|SB 3.25.38-38]], [[sb/3/27/1-1#purport|SB 3.27.1-1]], [[sb/3/27/14#purport|SB 3.27.14]], [[sb/3/27/23#purport|SB 3.27.23]], [[sb/3/27/26-26#purport|SB 3.27.26-26]], [[sb/3/28/37-37#purport|SB 3.28.37-37]], [[sb/3/28/38#purport|SB 3.28.38]], [[sb/3/29/17#purport|SB 3.29.17]], [[sb/3/32/22-22#purport|SB 3.32.22-22]], [[sb/3/32/24-24#purport|SB 3.32.24-24]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/31/11-11#purport|SB 4.31.11-11]], [[sb/7/6/25#purport|SB 7.6.25]], [[sb/7/7/28#purport|SB 7.7.28]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/10/8#purport|SB 7.10.8]], [[sb/8/3/11#purport|SB 8.3.11]], [[sb/8/5/24#purport|SB 8.5.24]]
-* as universal work, 30 
+  * to auspicious & inauspicious activities, [[bg/10/3|Bg. 10.3]]
+  * to birth situation, [[bg/9/32|Bg. 9.32]]
+  * to fruitive activities, [[bg/2/52–53|Bg. 2.52–53]]
+  * to prescribed duties, [[bg/3/4|Bg. 3.4]]
+  * to sacrifice, [[bg/9/16|Bg. 9.16]]
+  * to sinful reactions, [[bg/2/38|Bg. 2.38]]
+  * to Vedic knowledge, [[bg/9/2|Bg. 9.2]] (8)
+  * to Vedic rituals, [[bg/2/52–53|Bg. 2.52–53]]
+* as transcendental to birth situation, [[sb/4/30/41#purport|SB 4.30.41]], [[sb/4/31/9#purport|SB 4.31.9]], [[sb/4/31/10#purport|SB 4.31.10]]
+* as universal work, 30
 * as unlimited, [[sb/2/9/36#purport|SB 2.9.36]]
 * as varṇāśrama system’s aim, [[sb/1/2/2#purport|SB 1.2.2]]
+* as Vedas’ conclusion, [[bg/16/24|Bg. 16.24]]
 * as vimukti, [[sb/4/8/61#purport|SB 4.8.61]]
 * as war on illusory energy, [[bg/9/30|Bg. 9.30]]
 * as welfare work, [[sb/7/6/24#purport|SB 7.6.24]]
@@ -213,48 +276,51 @@
 * as work’s goal, [[sb/3/23/56#purport|SB 3.23.56]]
 * as work’s purpose, [[bg/11/55|Bg. 11.55]] (2)
 * as yoga, best, [[sb/3/25/13#purport|SB 3.25.13]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/25/43#purport|SB 3.25.43]], [[sb/3/32/26-27#purport|SB 3.32.26-27]]
+* as yoga, highest, 26–27
 * as yoga’s basis, [[sb/3/32/33#purport|SB 3.32.33]]
-* as yoga’s perfection, [[sb/10/2/6#purport|SB 10.2.6]], [[sb/8/3/18#purport|SB 8.3.18]]
+* as yoga’s perfection, [[sb/1/9/23#purport|SB 1.9.23]], [[sb/8/3/18#purport|SB 8.3.18]], [[sb/10/2/6#purport|SB 10.2.6]]
 * as yogī’s perfection, [[sb/3/25/19-19#purport|SB 3.25.19-19]]
 * assisting in, [[bg/12/10|Bg. 12.10]], [[bg/12/11|Bg. 12.11]]
 * associating with devotees for, [[sb/1/2/16#purport|SB 1.2.16]], [[sb/1/2/16#purport|SB 1.2.16]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/5/5#purport|SB 1.5.5]], [[sb/1/5/28#purport|SB 1.5.28]], [[sb/1/5/34#purport|SB 1.5.34]], [[sb/1/6/16#purport|SB 1.6.16]], [[sb/1/7/5#purport|SB 1.7.5]]
 * associating with devotees in, [[sb/4/9/11-11#purport|SB 4.9.11-11]]
+* association of, via, [[sb/7/7/38#purport|SB 7.7.38]]
 * aṣṭāṅga-yoga in, [[sb/3/28/1#purport|SB 3.28.1]]
 * at brahma-bhūta stage, [[sb/1/5/9#purport|SB 1.5.9]]
-* at end of life, 22, 23–27 
 * at end of life, [[sb/4/8/32#purport|SB 4.8.32]]
+* at end of life, 22, 23–27
 * at Lord’s lotus feet, [[sb/4/6/25#purport|SB 4.6.25]]
 * at temple, [[bg/11/55|Bg. 11.55]] (2), [[bg/17/26|Bg. 17.26]]
 * attachment in divisions of, [[sb/1/7/10#purport|SB 1.7.10]]
 * attachment to comfort reduced by, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
-* attachment to, necessity of, 21–22 
+* attachment to, necessity of, 21–22
 * attained via pure devotees, [[sb/2/3/11#purport|SB 2.3.11]], [[sb/2/3/11#purport|SB 2.3.11]], [[sb/2/3/23#purport|SB 2.3.23]]
-* attainment of 
+* attainment of
 * attitude in, [[sb/3/5/46#purport|SB 3.5.46]], [[sb/3/6/33#purport|SB 3.6.33]]
+* attracted via, [[sb/4/20/22#purport|SB 4.20.22]]
 * attracts liberated souls, [[sb/1/7/10#purport|SB 1.7.10]]
-* austerities in, examples of, [[bg/12/16|Bg. 12.16]]
 * austerities in, [[sb/9/4/26#purport|SB 9.4.26]]
+* austerities in, examples of, [[bg/12/16|Bg. 12.16]]
+  * *See also:* Austerity
 * austerities valuable only in, [[sb/4/31/12#purport|SB 4.31.12]]
-* austerity in. See: Austerity 
+* austerity in. See: Austerity
 * austerity surpassed by, [[sb/7/9/49#purport|SB 7.9.49]]
 * authorities on, [[sb/1/12/25#purport|SB 1.12.25]], [[sb/7/10/21#purport|SB 7.10.21]]
 * authorities recommend, [[sb/1/15/45#purport|SB 1.15.45]]
 * basic principle of, [[sb/3/16/31#purport|SB 3.16.31]]
-* basis of 
+* basis of
 * begin right away, [[sb/4/8/32#purport|SB 4.8.32]]
 * beginning & end of, [[sb/3/19/38#purport|SB 3.19.38]]
 * beginning of, [[sb/10/9/15#purport|SB 10.9.15]], [[sb/10/9/21#purport|SB 10.9.21]]
-* begins 
+* begins
 * begins by hearing, [[sb/4/29/39-40#purport|SB 4.29.39-40]]
 * beings with tongue, [[sb/4/7/24#purport|SB 4.7.24]]
 * benefit from, [[sb/1/6/23-24#purport|SB 1.6.23-24]], [[sb/1/7/6#purport|SB 1.7.6]]
-* benefit of, [[sb/1/8/25#purport|SB 1.8.25]], [[sb/10/2/39#purport|SB 10.2.39]], [[sb/7/10/8#purport|SB 7.10.8]], [[sb/8/9/29-29#purport|SB 8.9.29-29]]
+* benefit of, [[sb/1/8/25#purport|SB 1.8.25]], [[sb/7/10/8#purport|SB 7.10.8]], [[sb/8/9/29-29#purport|SB 8.9.29-29]], [[sb/10/2/39#purport|SB 10.2.39]]
 * benefits all, [[sb/1/1/4#purport|SB 1.1.4]]
-* *See:* [[d#Devotional service to Supreme Lord|Devotional service to Supreme Lord]]; advantages of 
-* beyond , 
+* beyond
 * beyond enjoyment & renunciation, [[sb/4/4/20#purport|SB 4.4.20]]
 * Bhāgavatam invokes, [[sb/1/7/7#purport|SB 1.7.7]], [[sb/1/7/7#purport|SB 1.7.7]]
-* Bharata 
+* Bharata
 * Bhārata-varṣa offers opportunity for, [[sb/5/19/25#purport|SB 5.19.25]]
 * bhāva in, [[sb/3/27/6#purport|SB 3.27.6]]
 * bhāva stage of, [[sb/1/6/16#purport|SB 1.6.16]]
@@ -271,9 +337,10 @@
 * Brahman platform by, [[sb/4/20/8#purport|SB 4.20.8]], [[sb/4/20/10#purport|SB 4.20.10]]
 * Brahman realization inferior to, [[sb/1/5/30#purport|SB 1.5.30]]
 * brāhmaṇas engage in, [[sb/5/5/25#purport|SB 5.5.25]]
+* buddhi-yoga as, [[bg/2/39–25|Bg. 2.39–25]], [[bg/2/49|Bg. 2.49]], [[bg/2/51|Bg. 2.51]], [[bg/10/10|Bg. 10.10]]
 * business &, [[bg/11/55|Bg. 11.55]] (2)
-* by Ambarīṣa Mahārāja, [[bg/2/61|Bg. 2.61]], [[bg/6/18|Bg. 6.18]]
-* by Arjuna, 27 
+* by Ambarīṣa Mahārāja, [[bg/2/61|Bg. 2.61]], [[bg/6/18|Bg. 6.18]], [[sb/3/25/44#purport|SB 3.25.44]]
+* by Arjuna, 27
 * by attachment for Brahman, [[sb/4/22/21#purport|SB 4.22.21]]
 * by Bali, [[sb/8/15/31#purport|SB 8.15.31]]
 * by body, mind, & speech, [[sb/3/6/36#purport|SB 3.6.36]], [[sb/3/15/49#purport|SB 3.15.49]]
@@ -303,47 +370,66 @@
 * Caitanya wants, [[sb/4/20/31#purport|SB 4.20.31]]
 * candidates for, [[sb/3/7/35#purport|SB 3.7.35]]
 * caste system transcended by, SB Intro 27-28
-* categories of 
+* categories of
 * caution in developing, [[sb/2/2/30#purport|SB 2.2.30]]
 * cautions needed in, [[sb/4/24/13#purport|SB 4.24.13]]
 * changes matter to spirit, [[sb/2/3/12#purport|SB 2.3.12]]
 * chanting & hearing in, [[sb/10/6/3#purport|SB 10.6.3]], [[sb/10/6/34#purport|SB 10.6.34]]
 * chanting Lord’s name in, [[sb/4/13/8-9#purport|SB 4.13.8-9]]
 * chanting Lord’s names awakens, [[sb/5/24/20#purport|SB 5.24.20]]
-* chanting process in. See: Chanting 
-* chanting process in. See: Chanting holy name(s) of Lord 
+* chanting process in. See: Chanting holy name(s) of Lord
 * child may perform, [[sb/4/8/22#purport|SB 4.8.22]]
 * children should be trained in, [[sb/5/4/17#purport|SB 5.4.17]]
 * citizenry in, [[sb/4/21/36#purport|SB 4.21.36]]
 * class in society not considered in, [[bg/9/32|Bg. 9.32]]
 * classes in, [[sb/1/2/12#purport|SB 1.2.12]]
 * classes of men against, SB Intro 14
-* compared , , , , 
-* compared to , 
+* compared
+  * to business endeavor, [[bg/12/10|Bg. 12.10]]
+  * to curds, [[bg/4/24|Bg. 4.24]]
+  * to eating, [[bg/2/60|Bg. 2.60]], [[bg/6/35|Bg. 6.35]]
+  * to feeding stomach, [[bg/5/7|Bg. 5.7]], [[bg/9/3|Bg. 9.3]], [[bg/9/23|Bg. 9.23]]
+  * to machine’s maintenance, [[bg/4/21|Bg. 4.21]]
+  * to plant, [[bg/10/9|Bg. 10.9]]
+  * to seed, [[bg/10/9|Bg. 10.9]]
+  * to sun, [[bg/15/20|Bg. 15.20]]
+  * to superior force, [[bg/2/68|Bg. 2.68]]
+  * to watering root, [[bg/2/41|Bg. 2.41]], [[bg/5/4|Bg. 5.4]], [[bg/5/7|Bg. 5.7]], [[bg/9/23|Bg. 9.23]]
+  * with *jñāna-yoga,*, 12.5 (1)
+  * with fruitive work, [[bg/2/38|Bg. 2.38]], [[bg/2/39|Bg. 2.39]] (5), [[bg/2/40|Bg. 2.40]], [[bg/3/28–29|Bg. 3.28–29]]
+  * with impersonalism, [[bg/12/1–6|Bg. 12.1–6]], [[bg/12/20|Bg. 12.20]]
+  * with other yogas, 6.47, [[bg/8/16|Bg. 8.16]], [[bg/9/2|Bg. 9.2]] (11), [[bg/10/10|Bg. 10.10]], [[bg/12/5|Bg. 12.5]]
+* compared to
 * compared to growing seed, [[sb/3/2/6#purport|SB 3.2.6]]
 * compared to razor’s edge, [[sb/3/9/24#purport|SB 3.9.24]]
+* compared to sons of Malayadhvaja, [[sb/4/28/30#purport|SB 4.28.30]]
 * compared to sun, [[sb/9/9/6#purport|SB 9.9.6]]
-* compared with 
+* compared with, SB Intro 35, [[sb/1/5/9#purport|SB 1.5.9]], [[sb/1/5/30#purport|SB 1.5.30]], [[sb/5/14/44#purport|SB 5.14.44]]
 * compared with material activities, [[sb/5/1/36#purport|SB 5.1.36]]
+* compared with spontaneous, [[sb/3/7/14#purport|SB 3.7.14]]
 * competition in, [[sb/4/20/27#purport|SB 4.20.27]]
 * complete satisfaction in, [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/2/6#purport|SB 1.2.6]]
 * complete, compared with contaminated, [[sb/3/24/45#purport|SB 3.24.45]]
 * conceiving child in mood of, [[sb/3/16/35#purport|SB 3.16.35]]
-* confidential 
 * confidential, [[sb/3/4/19#purport|SB 3.4.19]]
 * consciousness pure in, [[sb/1/1/2#purport|SB 1.1.2]]
 * constant, [[sb/3/29/12#purport|SB 3.29.12]]
 * contact with Lord via, [[sb/5/1/11#purport|SB 5.1.11]]
 * continuation of, [[sb/2/7/49#purport|SB 2.7.49]]
+* continues, [[sb/10/1/23#purport|SB 10.1.23]]
 * continuity of, [[sb/4/29/66#purport|SB 4.29.66]]
 * control of senses in, [[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/6/35#purport|SB 1.6.35]]
+* controlled in, [[sb/1/6/35#purport|SB 1.6.35]]
+* controls, [[sb/7/9/20#purport|SB 7.9.20]]
 * conviction in, [[sb/4/22/22#purport|SB 4.22.22]]
 * conviction needed for, [[sb/2/9/18#purport|SB 2.9.18]]
 * cooperation in, [[sb/2/7/19#purport|SB 2.7.19]], [[sb/4/30/8#purport|SB 4.30.8]]
 * creeper of, [[sb/2/2/30#purport|SB 2.2.30]]
 * crossing ocean of nescience by, [[sb/4/22/40#purport|SB 4.22.40]]
 * crying in, [[sb/3/4/35#purport|SB 3.4.35]]
+* culminates in, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/1/18/16#purport|SB 1.18.16]], [[sb/1/13/59#purport|SB 1.13.59]], [[sb/1/15/27#purport|SB 1.15.27]], [[sb/1/16/23#purport|SB 1.16.23]], [[sb/1/18/16#purport|SB 1.18.16]]
 * culmination of, [[bg/6/47|Bg. 6.47]], [[bg/8/16|Bg. 8.16]]
+* curd, [[sb/1/3/8#purport|SB 1.3.8]]
 * curses overcome by, [[sb/3/16/31#purport|SB 3.16.31]]
 * daily schedule of, [[sb/3/9/21#purport|SB 3.9.21]]
 * danger dispelled by, [[sb/10/6/3#purport|SB 10.6.3]]
@@ -352,7 +438,6 @@
 * debts liquidated by, [[sb/3/22/20#purport|SB 3.22.20]]
 * defined, [[sb/1/9/44#purport|SB 1.9.44]], [[sb/1/13/56#purport|SB 1.13.56]], [[sb/2/10/6#purport|SB 2.10.6]], [[sb/4/12/6#purport|SB 4.12.6]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/7/10/8#purport|SB 7.10.8]]
 * Deity can accept, [[bg/12/5|Bg. 12.5]] (1–2)
-* *See:* Deities form of Supreme Lord 
 * Deity form in, [[sb/3/1/17#purport|SB 3.1.17]]
 * Deity worship helps, [[sb/1/11/24#purport|SB 1.11.24]]
 * Deity worship in, [[sb/1/6/21#purport|SB 1.6.21]]
@@ -363,15 +448,18 @@
 * demons cannot stop, [[sb/7/8/53#purport|SB 7.8.53]]
 * demons oppose, [[sb/3/18/5#purport|SB 3.18.5]], [[sb/4/24/41#purport|SB 4.24.41]]
 * depending upon Kṛṣṇa in, [[bg/18/57|Bg. 18.57]]
+* depends on, [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/4/32#purport|SB 1.4.32]]
 * desire absent in, [[sb/4/8/61#purport|SB 4.8.61]]
 * desire as outside of, [[sb/1/2/6#purport|SB 1.2.6]]
 * desire centered around, [[sb/3/12/26#purport|SB 3.12.26]]
 * desire changed via, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/9/23#purport|SB 1.9.23]]
+* desire for, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/3/39#purport|SB 10.3.39]], [[sb/10/13/50#purport|SB 10.13.50]]
 * desire for, as spiritual, [[sb/4/8/35#purport|SB 4.8.35]]
 * desire for, causes of, [[bg/7/16–17|Bg. 7.16–17]]
-* desire for, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/3/39#purport|SB 10.3.39]], [[sb/10/13/50#purport|SB 10.13.50]]
 * desire in, [[sb/1/6/22#purport|SB 1.6.22]]
+* desire only, [[sb/5/4/5#purport|SB 5.4.5]]
 * desire purified via, [[sb/7/10/8#purport|SB 7.10.8]], [[sb/7/10/11#purport|SB 7.10.11]]
+* desires direct, [[sb/5/19/26#purport|SB 5.19.26]]
 * desires dispelled via, [[sb/8/16/21#purport|SB 8.16.21]]
 * desires fulfilled by, [[sb/3/1/44#purport|SB 3.1.44]], [[sb/4/23/32#purport|SB 4.23.32]], [[sb/4/23/35#purport|SB 4.23.35]], [[sb/4/24/77#purport|SB 4.24.77]], [[sb/4/24/79#purport|SB 4.24.79]]
 * desires fulfilled in, [[sb/4/8/35#purport|SB 4.8.35]], [[sb/4/8/41#purport|SB 4.8.41]], [[sb/4/8/59-60#purport|SB 4.8.59-60]]
@@ -379,6 +467,8 @@
 * despite material desires, [[sb/4/8/35#purport|SB 4.8.35]]
 * destroys false ego, [[sb/1/2/21#purport|SB 1.2.21]], [[sb/1/2/21#purport|SB 1.2.21]]
 * detachment &, [[bg/2/47–51|Bg. 2.47–51]], [[bg/3/28|Bg. 3.28]], [[bg/4/10|Bg. 4.10]], [[bg/6/13|Bg. 6.13]] (1), [[bg/6/47|Bg. 6.47]], [[bg/7/1|Bg. 7.1]], [[bg/14/27|Bg. 14.27]], [[sb/2/9/23#purport|SB 2.9.23]], [[sb/2/9/37#purport|SB 2.9.37]]
+  * *See also:* Detachment
+* detachment as, [[sb/3/25/26#purport|SB 3.25.26]], [[sb/3/26/72#purport|SB 3.26.72]], [[sb/3/27/1-1#purport|SB 3.27.1-1]], [[sb/3/27/5-5#purport|SB 3.27.5-5]], [[sb/3/32/24#purport|SB 3.32.24]], [[sb/3/32/27#purport|SB 3.32.27]], [[sb/3/32/36#purport|SB 3.32.36]]
 * detachment by, [[sb/1/19/25#purport|SB 1.19.25]], [[sb/4/13/8-9#purport|SB 4.13.8-9]]
 * detachment impossible except via, [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/36-37#purport|SB 4.29.36-37]]
 * detachment proportionate to, [[sb/2/3/24#purport|SB 2.3.24]]
@@ -387,7 +477,7 @@
 * detriments to, 39, [[sb/1/2/17#purport|SB 1.2.17]]
 * development of, stages of, [[sb/1/5/34#purport|SB 1.5.34]]
 * devotee desires, [[sb/3/21/15#purport|SB 3.21.15]], [[sb/9/4/24#purport|SB 9.4.24]], [[sb/9/4/63#purport|SB 9.4.63]], [[sb/9/4/67#purport|SB 9.4.67]], [[sb/9/5/27#purport|SB 9.5.27]], [[sb/9/9/45#purport|SB 9.9.45]], [[sb/9/13/9#purport|SB 9.13.9]]
-* devotee in, [[sb/4/22/62#purport|SB 4.22.62]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/24/56#purport|SB 4.24.56]], [[sb/4/24/57#purport|SB 4.24.57]], [[sb/4/24/59-59#purport|SB 4.24.59-59]], [[sb/4/9/6-8#purport|SB 4.9.6-8]], [[sb/4/9/36-36#purport|SB 4.9.36-36]], [[sb/4/12/13#purport|SB 4.12.13]]
+* devotee in, [[sb/4/9/6-8#purport|SB 4.9.6-8]], [[sb/4/9/36-36#purport|SB 4.9.36-36]], [[sb/4/12/13#purport|SB 4.12.13]], [[sb/4/22/62#purport|SB 4.22.62]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/24/56#purport|SB 4.24.56]], [[sb/4/24/57#purport|SB 4.24.57]], [[sb/4/24/59-59#purport|SB 4.24.59-59]]
 * devotee prays for, [[sb/4/20/34#purport|SB 4.20.34]]
 * devotee satisfied with, [[sb/3/18/22-23#purport|SB 3.18.22-23]]
 * devotee’s duty in, [[sb/10/1/53#purport|SB 10.1.53]], [[sb/10/1/64#purport|SB 10.1.64]], [[sb/10/2/38#purport|SB 10.2.38]]
@@ -404,12 +494,13 @@
 * difficulty in, [[bg/7/3|Bg. 7.3]], [[bg/9/3|Bg. 9.3]]
 * direct, compared with indirect, [[bg/12/20|Bg. 12.20]]
 * direction for, sources of, [[bg/10/3|Bg. 10.3]]
+  * *See also:* Devotees; Scriptures; Spirituals master; Vedas; Vedic literature
 * disciplic succession &, [[bg/4/15–16|Bg. 4.15–16]]
 * discipline in, [[bg/3/30|Bg. 3.30]]
 * disturbance eliminated in, [[sb/1/2/17#purport|SB 1.2.17]]
 * divisions & attachment in, [[sb/1/7/10#purport|SB 1.7.10]]
-* divisions of, five described, SB Intro 39-40
 * divisions of, [[sb/3/32/37-37#purport|SB 3.32.37-37]]
+* divisions of, five described, SB Intro 39-40
 * dormant in all, [[sb/1/5/28#purport|SB 1.5.28]]
 * doubt cleared by, [[sb/1/2/21#purport|SB 1.2.21]], [[sb/1/2/21#purport|SB 1.2.21]]
 * dovetailing activities in, [[bg/3/28|Bg. 3.28]], [[bg/4/21|Bg. 4.21]], [[bg/5/11|Bg. 5.11]], [[bg/8/27|Bg. 8.27]]
@@ -436,25 +527,26 @@
 * elevation to Brahman via, [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/1/19#purport|SB 5.1.19]]
 * elevation to, [[sb/1/2/24#purport|SB 1.2.24]]
 * elevation via, [[bg/9/1|Bg. 9.1]], [[sb/4/21/52#purport|SB 4.21.52]]
+* engage in, [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/11/12#purport|SB 5.11.12]]
 * engaging everything in, [[sb/4/22/28#purport|SB 4.22.28]]
 * enlivens soul, [[sb/1/2/22#purport|SB 1.2.22]]
 * enthusiasm for, [[sb/2/8/21#purport|SB 2.8.21]]
 * enthusiasm in, [[sb/3/29/16#purport|SB 3.29.16]]
 * equal vision in, [[sb/3/27/7-7#purport|SB 3.27.7-7]], [[sb/3/29/16#purport|SB 3.29.16]], [[sb/3/29/23#purport|SB 3.29.23]], [[sb/3/29/26-27#purport|SB 3.29.26-27]] 29.34-34
 * equality (qualitative) with Lord via, [[bg/14/26|Bg. 14.26]]
+* establishes, [[sb/4/20/34#purport|SB 4.20.34]]
 * eternal nature of, [[sb/3/9/33#purport|SB 3.9.33]]
 * eternal status of, [[sb/1/6/23-24#purport|SB 1.6.23-24]]
 * everyone eligible for, [[sb/7/15/67#purport|SB 7.15.67]], [[sb/7/15/73#purport|SB 7.15.73]]
 * everything meant for, [[sb/3/21/31#purport|SB 3.21.31]]
 * everything obtained via, [[sb/3/32/22-23#purport|SB 3.32.22-23]], [[sb/3/32/26#purport|SB 3.32.26]]
 * everything to be used for, [[sb/10/10/38#purport|SB 10.10.38]]
-* examples of, [[bg/12/9|Bg. 12.9]], [[bg/14/27|Bg. 14.27]], [[sb/3/33/22#purport|SB 3.33.22]]
+* examples of, [[bg/12/9|Bg. 12.9]], [[bg/14/27|Bg. 14.27]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * faith as stage of, [[sb/1/6/16#purport|SB 1.6.16]]
 * faith in, [[bg/3/31|Bg. 3.31]], [[bg/6/24|Bg. 6.24]], [[bg/9/3|Bg. 9.3]]
 * faith via, [[bg/4/39|Bg. 4.39]], [[bg/7/30|Bg. 7.30]], [[bg/8/28|Bg. 8.28]]
 * faithfulness in, [[bg/9/2|Bg. 9.2]] (11)–9.3
 * falldown from, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/3/26/23-24#purport|SB 3.26.23-24]], [[sb/5/1/36#purport|SB 5.1.36]], [[sb/5/18/4#purport|SB 5.18.4]]
-* falldown from. See: Falldown 
 * falldown in or from, [[bg/5/7|Bg. 5.7]], [[bg/9/2|Bg. 9.2]] (10)–9.3, [[bg/9/22|Bg. 9.22]], [[bg/9/30–31|Bg. 9.30–31]], [[bg/15/20|Bg. 15.20]]
 * false ego &, [[sb/1/2/21#purport|SB 1.2.21]], [[sb/1/2/21#purport|SB 1.2.21]]
 * false ego overcome by, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
@@ -470,6 +562,8 @@
 * finish it this life, [[sb/4/8/69#purport|SB 4.8.69]], [[sb/4/8/72#purport|SB 4.8.72]]
 * first-class, [[sb/8/11/48#purport|SB 8.11.48]]
 * five activities in, [[sb/3/19/38#purport|SB 3.19.38]]
+* five, SB Intro 39-40
+* flow of river, [[sb/1/5/28#purport|SB 1.5.28]]
 * food offered in, [[sb/3/3/28#purport|SB 3.3.28]]
 * foods for, [[sb/3/27/8#purport|SB 3.27.8]], [[sb/3/29/15#purport|SB 3.29.15]]
 * for Age of Kali, [[sb/2/7/10#purport|SB 2.7.10]]
@@ -484,6 +578,8 @@
 * for Kṛṣṇa’s pleasure, [[bg/2/64|Bg. 2.64]]
 * for liberated persons, [[sb/4/8/61#purport|SB 4.8.61]]
 * for lifetime, [[bg/8/10|Bg. 8.10]]
+* for Lord’s pleasure, [[sb/2/4/17#purport|SB 2.4.17]]
+* for neophyte, [[sb/4/28/30#purport|SB 4.28.30]]
 * for pleasing Lord, [[sb/4/23/7#purport|SB 4.23.7]]
 * for real benefit, [[sb/3/9/17#purport|SB 3.9.17]]
 * for rich & poor, [[sb/2/3/21#purport|SB 2.3.21]]
@@ -511,12 +607,15 @@
 * fruitive activity dispelled by, [[sb/3/24/17#purport|SB 3.24.17]]
 * fruitive results eradicated by, [[sb/5/8/26#purport|SB 5.8.26]]
 * fruitive work changed to, [[sb/1/5/34#purport|SB 1.5.34]]
+* fulfilled via, [[sb/1/13/54#purport|SB 1.13.54]]
 * gain via, beyond expectation, [[sb/4/8/40#purport|SB 4.8.40]]
+* garden, [[sb/5/1/5#purport|SB 5.1.5]]
 * glorifying, hearing, remembering & worshiping in, [[sb/1/2/15#purport|SB 1.2.15]]
 * goal in, as premā, [[sb/1/5/37#purport|SB 1.5.37]]
-* goal of, Lord as, [[sb/4/31/13-13#purport|SB 4.31.13-13]]
 * goal of, [[sb/7/10/1#purport|SB 7.10.1]]
+* goal of, Lord as, [[sb/4/31/13-13#purport|SB 4.31.13-13]]
 * God consciousness by, [[sb/1/13/27#purport|SB 1.13.27]]
+* God realization as, [[sb/3/25/27-27#purport|SB 3.25.27-27]], [[sb/3/28/34-34#purport|SB 3.28.34-34]], [[sb/3/29/20-20#purport|SB 3.29.20-20]], [[sb/3/29/35#purport|SB 3.29.35]], [[sb/3/32/23#purport|SB 3.32.23]], [[sb/3/32/26#purport|SB 3.32.26]], [[sb/3/32/32#purport|SB 3.32.32]], [[sb/3/32/33#purport|SB 3.32.33]]
 * God realization via, [[sb/3/25/27-27#purport|SB 3.25.27-27]], [[sb/3/28/34-34#purport|SB 3.28.34-34]], [[sb/3/29/20-20#purport|SB 3.29.20-20]], [[sb/3/29/35#purport|SB 3.29.35]], [[sb/3/32/23#purport|SB 3.32.23]], [[sb/3/32/26#purport|SB 3.32.26]], [[sb/3/32/32#purport|SB 3.32.32]], [[sb/3/32/33#purport|SB 3.32.33]], [[sb/4/28/42#purport|SB 4.28.42]], [[sb/4/28/51-52#purport|SB 4.28.51-52]], [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/38#purport|SB 4.29.38]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/79#purport|SB 4.29.79]], [[sb/4/30/22#purport|SB 4.30.22]], [[sb/4/31/12-12#purport|SB 4.31.12-12]]
 * Godhead attained via, [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/9/46#purport|SB 9.9.46]]
 * Godhead via, [[sb/4/21/33#purport|SB 4.21.33]]
@@ -531,7 +630,7 @@
 * gradual elevation via, through higher planets, [[bg/8/16|Bg. 8.16]]
 * gradual process of, [[bg/4/10|Bg. 4.10]], [[bg/4/15|Bg. 4.15]], [[bg/4/24|Bg. 4.24]], [[bg/5/29|Bg. 5.29]], [[bg/10/10|Bg. 10.10]]
 * guidance for, [[sb/2/4/15#purport|SB 2.4.15]]
-* happiness as, [[sb/7/7/53#purport|SB 7.7.53]], [[sb/7/10/6#purport|SB 7.10.6]]
+* happiness as, [[sb/3/22/31#purport|SB 3.22.31]], [[sb/3/25/2#purport|SB 3.25.2]], [[sb/7/7/53#purport|SB 7.7.53]], [[sb/7/10/6#purport|SB 7.10.6]]
 * happiness from, [[sb/1/2/19#purport|SB 1.2.19]]
 * happiness in, [[sb/9/4/25#purport|SB 9.4.25]]
 * happiness perfect in, [[sb/2/7/52#purport|SB 2.7.52]]
@@ -542,8 +641,8 @@
 * hearing essential in, [[sb/2/2/36#purport|SB 2.2.36]], [[sb/2/3/21#purport|SB 2.3.21]]
 * hearing Lord’s war topics as, [[sb/3/14/5#purport|SB 3.14.5]]
 * hearing process in, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/5/28#purport|SB 1.5.28]], [[sb/1/7/5#purport|SB 1.7.5]], [[sb/1/7/7#purport|SB 1.7.7]], [[sb/10/2/37#purport|SB 10.2.37]]
-* hearing process in. See: Supreme Lord, hearing about 
 * hearing Śrīmad-Bhāgavatam as, [[sb/2/9/4#purport|SB 2.9.4]]
+* heaven-hell considerations, [[sb/3/15/49#purport|SB 3.15.49]]
 * high birth via, [[sb/5/26/25#purport|SB 5.26.25]]
 * higher stages of, SB Intro 39-40
 * highest platform of, [[sb/3/9/33#purport|SB 3.9.33]]
@@ -553,6 +652,7 @@
 * humility vital for, [[sb/7/9/12#purport|SB 7.9.12]]
 * husband & wife share in, [[sb/3/23/1#purport|SB 3.23.1]]
 * ideal in, Śiva as, [[sb/4/6/35#purport|SB 4.6.35]]
+* identical to, [[sb/3/4/21#purport|SB 3.4.21]]
 * ignorance & passion removed via, [[sb/1/5/28#purport|SB 1.5.28]]
 * ignorance dispelled via, [[sb/7/8/24#purport|SB 7.8.24]]
 * immortality by, [[sb/4/12/51#purport|SB 4.12.51]]
@@ -561,26 +661,33 @@
 * impediments to, [[sb/5/1/5#purport|SB 5.1.5]], [[sb/5/1/37#purport|SB 5.1.37]]
 * imperishable status of, [[sb/1/6/23-24#purport|SB 1.6.23-24]]
 * impersonal liberation dependent on, [[sb/4/31/12#purport|SB 4.31.12]]
+* impersonal meditation, [[sb/2/2/12#purport|SB 2.2.12]], [[sb/2/2/14#purport|SB 2.2.14]]
 * impersonalism compared with, [[sb/2/9/33#purport|SB 2.9.33]]
+* impersonalism, [[sb/1/7/11#purport|SB 1.7.11]]
 * impersonalists neglect, [[sb/8/4/13#purport|SB 8.4.13]]
 * impersonalists require, [[sb/3/32/26#purport|SB 3.32.26]]
 * impersonalists vs., [[sb/1/7/11#purport|SB 1.7.11]]
 * impetuses for, [[bg/7/16–18|Bg. 7.16–18]]
 * importance of constant engagement in, [[sb/5/8/29#purport|SB 5.8.29]]
 * importance of, [[sb/2/2/30#purport|SB 2.2.30]]
+* impossible except via, [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/36-37#purport|SB 4.29.36-37]]
 * in adverse conditions, [[sb/3/16/37#purport|SB 3.16.37]]
 * in all activities, SB Intro 28
 * in anger, [[sb/3/15/31#purport|SB 3.15.31]], [[sb/3/16/31#purport|SB 3.16.31]]
 * in association of devotees, [[bg/14/27|Bg. 14.27]]
-* in association with devotees. See: Devotees, association with 
+  * *See also:* Devotees; association with
+* in association with devotees. See: Devotees, association with
+* in authority, [[sb/1/2/12#purport|SB 1.2.12]]
 * in childhood, [[sb/3/2/2#purport|SB 3.2.2]]
 * in conditioned life, [[sb/1/2/6#purport|SB 1.2.6]]
-* *See:* Devotees; association with 
 * in family life, [[bg/13/8|Bg. 13.8]] (10), [[sb/4/27/1#purport|SB 4.27.1]], [[sb/4/30/19-19#purport|SB 4.30.19-19]]
 * in full, [[bg/9/13|Bg. 9.13]], [[bg/14/26|Bg. 14.26]], [[bg/18/58|Bg. 18.58]]
+  * *See also:* Pure devotional service
 * in goodness mode, [[sb/3/29/10-10#purport|SB 3.29.10-10]]
 * in gratitude, [[sb/2/6/23#purport|SB 2.6.23]]
+* in hearing about Lord, [[sb/1/5/28#purport|SB 1.5.28]], [[sb/1/7/5#purport|SB 1.7.5]]
 * in householder life, [[bg/6/13|Bg. 6.13]] (1)
+  * *See also:* Family life
 * in ignorance mode, [[sb/3/29/8-8#purport|SB 3.29.8-8]], [[sb/3/29/10#purport|SB 3.29.10]]
 * in internal energy of Lord, [[sb/4/3/23#purport|SB 4.3.23]]
 * in kaivalya stage, [[sb/4/3/23#purport|SB 4.3.23]]
@@ -591,7 +698,9 @@
 * in Kṛṣṇa consciousness movement, [[sb/4/9/11#purport|SB 4.9.11]], [[sb/4/12/48#purport|SB 4.12.48]]
 * in Kṛṣṇa consciousness, [[bg/18/57–58|Bg. 18.57–58]]
 * in Lord’s abodes, [[sb/10/1/28#purport|SB 10.1.28]]
+* in Lord’s omnipotence, [[sb/1/5/32#purport|SB 1.5.32]]
 * in love (bhāva), [[sb/3/25/38#purport|SB 3.25.38]], [[sb/3/27/6#purport|SB 3.27.6]], [[sb/3/28/18#purport|SB 3.28.18]], [[sb/3/28/34-34#purport|SB 3.28.34-34]], [[sb/3/28/36#purport|SB 3.28.36]]
+* in Mahābhārata & Rāmāyaṇa, [[sb/2/3/14#purport|SB 2.3.14]]
 * in material life, [[sb/1/2/6#purport|SB 1.2.6]]
 * in material world, [[bg/9/30|Bg. 9.30]], [[sb/1/12/27#purport|SB 1.12.27]]
 * in modes of nature, [[sb/3/29/10#purport|SB 3.29.10]], [[sb/3/32/37#purport|SB 3.32.37]]
@@ -601,11 +710,13 @@
 * in person, [[bg/4/11|Bg. 4.11]]
 * in pure love, [[bg/10/9|Bg. 10.9]], [[bg/11/8|Bg. 11.8]]
 * in renounced order, [[sb/3/25/22#purport|SB 3.25.22]]
+* in service attitude, [[sb/2/1/20#purport|SB 2.1.20]]
 * in solitary place, [[sb/4/28/33#purport|SB 4.28.33]], [[sb/4/29/41#purport|SB 4.29.41]]
 * in spiritual world, [[bg/2/72|Bg. 2.72]], [[bg/14/2|Bg. 14.2]], [[sb/3/15/14#purport|SB 3.15.14]], [[sb/4/28/54#purport|SB 4.28.54]]
-* in Vṛndāvana, [[sb/10/13/51#purport|SB 10.13.51]], [[sb/10/13/60#purport|SB 10.13.60]], [[sb/2/7/31#purport|SB 2.7.31]]
-* incomplete, as still valuable, [[sb/3/30/34#purport|SB 3.30.34]]
+* in Vṛndāvana, [[sb/2/7/31#purport|SB 2.7.31]], [[sb/10/13/51#purport|SB 10.13.51]], [[sb/10/13/60#purport|SB 10.13.60]]
+* in, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/5/12#purport|SB 1.5.12]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/27#purport|SB 1.5.27]], [[sb/1/5/35#purport|SB 1.5.35]]
 * incomplete, [[bg/2/40–41|Bg. 2.40–41]], [[bg/3/4|Bg. 3.4]]
+* incomplete, as still valuable, [[sb/3/30/34#purport|SB 3.30.34]]
 * increases with age, [[sb/3/2/3#purport|SB 3.2.3]]
 * independence as, [[sb/4/9/35#purport|SB 4.9.35]]
 * independence in, [[sb/3/9/33#purport|SB 3.9.33]]
@@ -627,29 +738,39 @@
 * internal potency known by, [[sb/3/1/31#purport|SB 3.1.31]]
 * intimate nature of, [[sb/1/2/6#purport|SB 1.2.6]]
 * intimate result of, [[sb/3/9/5#purport|SB 3.9.5]]
-* Jaḍa Bharata 
+* invokes love for Lord, [[sb/3/9/11#purport|SB 3.9.11]]
+* Jaḍa Bharata
 * jñāna & yoga, compared with, [[sb/2/8/5#purport|SB 2.8.5]]
 * jñāna compared with, [[sb/1/18/26#purport|SB 1.18.26]]
 * jñāna-yoga compared with, [[sb/3/7/14#purport|SB 3.7.14]]
 * karma surpassed via, [[sb/9/2/14#purport|SB 9.2.14]]
 * karma terminated by, [[sb/1/2/21#purport|SB 1.2.21]]
+* karma-yoga as, [[bg/2/51|Bg. 2.51]]
+* karma, jñāna, & yoga, [[sb/2/1/6#purport|SB 2.1.6]], [[sb/2/2/15#purport|SB 2.2.15]], [[sb/2/2/17#purport|SB 2.2.17]], [[sb/3/5/4#purport|SB 3.5.4]]
 * Kaśyapa recommended, to Aditi, [[sb/8/16/20-20#purport|SB 8.16.20-20]], [[sb/8/16/21#purport|SB 8.16.21]]
 * Khaṭvāṅga in, [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/9/44#purport|SB 9.9.44]], [[sb/9/9/48#purport|SB 9.9.48]]
 * kinds of, [[bg/3/13|Bg. 3.13]], [[bg/8/14|Bg. 8.14]], [[bg/12/2|Bg. 12.2]]
+  * five, [[bg/8/14|Bg. 8.14]]
 * kinds of, six listed, [[sb/7/9/50#purport|SB 7.9.50]]
 * king must establish, [[sb/3/13/12#purport|SB 3.13.12]]
+* kingdom of, attained via, [[sb/5/3/2#purport|SB 5.3.2]]
 * kings in, [[sb/1/4/12#purport|SB 1.4.12]]
 * knowing or unknowing, [[sb/8/24/15#purport|SB 8.24.15]]
-* knowledge , , 
+* knowledge, [[sb/2/4/10#purport|SB 2.4.10]]
 * knowledge & detachment by, [[sb/3/32/23-23#purport|SB 3.32.23-23]], [[sb/3/32/34-36#purport|SB 3.32.34-36]], [[sb/3/32/34-36#purport|SB 3.32.34-36]]
 * knowledge & detachment via, [[sb/2/7/3#purport|SB 2.7.3]]
 * knowledge & renunciation via, [[sb/2/2/12#purport|SB 2.2.12]]
 * knowledge about Kṛṣṇa results in, [[bg/10/7–8|Bg. 10.7–8]], [[bg/10/42|Bg. 10.42]], [[bg/15/18|Bg. 15.18]]
+* knowledge as, [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/25/43#purport|SB 3.25.43]], [[sb/3/27/28-29#purport|SB 3.27.28-29]], [[sb/3/32/30#purport|SB 3.32.30]], [[sb/3/32/36#purport|SB 3.32.36]]
 * knowledge basis of, [[sb/4/6/35#purport|SB 4.6.35]]
 * knowledge by, [[sb/3/4/30#purport|SB 3.4.30]], [[sb/3/5/40#purport|SB 3.5.40]], [[sb/3/5/42#purport|SB 3.5.42]]
-* *See:* [[k#Knowledge|Knowledge]] 
 * knowledge via, [[bg/15/11|Bg. 15.11]], [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/25/43-43#purport|SB 3.25.43-43]], [[sb/3/27/28-29#purport|SB 3.27.28-29]], [[sb/3/32/30-30#purport|SB 3.32.30-30]], [[sb/3/32/36#purport|SB 3.32.36]], [[sb/7/7/15#purport|SB 7.7.15]], [[sb/7/13/22#purport|SB 7.13.22]], [[sb/8/12/10#purport|SB 8.12.10]]
-* Kṛṣṇa , 
+* known by, [[sb/3/3/23#purport|SB 3.3.23]], [[sb/3/4/30#purport|SB 3.4.30]], [[sb/3/7/9#purport|SB 3.7.9]], [[sb/3/8/19#purport|SB 3.8.19]], [[sb/3/8/21-22#purport|SB 3.8.21-22]]
+* known via, [[sb/4/22/9#purport|SB 4.22.9]], [[sb/4/24/54#purport|SB 4.24.54]], [[sb/4/24/55-55#purport|SB 4.24.55-55]], [[sb/4/29/3#purport|SB 4.29.3]], [[sb/8/1/13#purport|SB 8.1.13]], [[sb/8/3/11-11#purport|SB 8.3.11-11]], [[sb/8/3/20-21#purport|SB 8.3.20-21]], [[sb/8/3/20-21#purport|SB 8.3.20-21]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/12/10#purport|SB 8.12.10]], [[sb/8/16/25#purport|SB 8.16.25]]
+* Kṛṣṇa
+  * known only via, [[bg/7/3–4|Bg. 7.3–4]], [[bg/7/24–25|Bg. 7.24–25]], [[bg/9/2|Bg. 9.2]] (11), [[bg/10/2–3|Bg. 10.2–3]], [[bg/11/52–53|Bg. 11.52–53]], [[bg/11/54|Bg. 11.54]] (1), [[bg/13/16|Bg. 13.16]], [[bg/18/55|Bg. 18.55]], [[bg/18/67|Bg. 18.67]]
+  * object of, [[bg/9/34|Bg. 9.34]]
+  * requests of us, [[bg/9/33–34|Bg. 9.33–34]]
 * Kṛṣṇa attained via, [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/2/20#purport|SB 1.2.20]], [[sb/1/7/41#purport|SB 1.7.41]]
 * Kṛṣṇa consciousness movement teaches, [[sb/4/29/65#purport|SB 4.29.65]]
 * Kṛṣṇa consciousness via, [[sb/5/11/6#purport|SB 5.11.6]], [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/9/44#purport|SB 9.9.44]], [[sb/9/9/45#purport|SB 9.9.45]]
@@ -659,24 +780,24 @@
 * Kumāras in, [[sb/9/18/40#purport|SB 9.18.40]]
 * Kuntī took shelter of, [[sb/1/15/33#purport|SB 1.15.33]]
 * learned via devotees only, [[sb/2/9/18#purport|SB 2.9.18]]
-* liberated souls 
+* liberated souls
 * liberated souls attracted to, [[sb/1/7/10#purport|SB 1.7.10]]
 * liberated souls in, [[sb/4/20/29#purport|SB 4.20.29]]
-* liberation , 
-* liberation as, [[sb/9/13/9#purport|SB 9.13.9]]
+* liberation
+* liberation as, [[sb/3/21/17#purport|SB 3.21.17]], [[sb/3/21/34#purport|SB 3.21.34]], [[sb/3/24/43#purport|SB 3.24.43]], [[sb/3/25/11#purport|SB 3.25.11]], [[sb/3/25/20#purport|SB 3.25.20]], [[sb/3/25/25-25#purport|SB 3.25.25-25]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/25/33-33#purport|SB 3.25.33-33]], [[sb/3/25/36-36#purport|SB 3.25.36-36]], [[sb/3/27/1#purport|SB 3.27.1]], [[sb/3/27/21-21#purport|SB 3.27.21-21]], [[sb/3/31/21#purport|SB 3.31.21]], [[sb/3/31/47#purport|SB 3.31.47]], [[sb/3/33/10-10#purport|SB 3.33.10-10]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/9/13/9#purport|SB 9.13.9]]
 * liberation certain from, [[sb/7/5/35#purport|SB 7.5.35]]
 * liberation surpassed by, [[sb/3/22/36#purport|SB 3.22.36]], [[sb/7/8/42#purport|SB 7.8.42]], [[sb/7/9/46#purport|SB 7.9.46]]
 * liberation surpassed via, [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/12/8#purport|SB 4.12.8]]
-* liberation via, [[sb/10/2/30#purport|SB 10.2.30]], [[sb/10/3/44#purport|SB 10.3.44]], [[sb/10/4/20#purport|SB 10.4.20]], [[sb/10/4/42#purport|SB 10.4.42]], [[sb/2/2/12#purport|SB 2.2.12]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/3/21/17#purport|SB 3.21.17]], [[sb/3/21/34#purport|SB 3.21.34]], [[sb/3/24/43#purport|SB 3.24.43]], [[sb/3/25/11#purport|SB 3.25.11]], [[sb/3/25/20#purport|SB 3.25.20]], [[sb/3/25/25-35#purport|SB 3.25.25-35]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/25/33-33#purport|SB 3.25.33-33]], [[sb/3/25/36-36#purport|SB 3.25.36-36]], [[sb/3/27/1#purport|SB 3.27.1]], [[sb/3/27/21-21#purport|SB 3.27.21-21]], [[sb/3/29/35#purport|SB 3.29.35]], [[sb/3/31/21#purport|SB 3.31.21]], [[sb/3/31/47#purport|SB 3.31.47]], [[sb/3/33/10-10#purport|SB 3.33.10-10]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/3/4/31#purport|SB 3.4.31]], [[sb/3/5/1#purport|SB 3.5.1]], [[sb/3/9/10#purport|SB 3.9.10]], [[sb/4/20/8#purport|SB 4.20.8]], [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/21/34#purport|SB 4.21.34]], [[sb/4/21/40#purport|SB 4.21.40]], [[sb/4/22/26#purport|SB 4.22.26]], [[sb/4/22/27#purport|SB 4.22.27]], [[sb/4/22/30#purport|SB 4.22.30]], [[sb/4/22/35#purport|SB 4.22.35]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/23/27-27#purport|SB 4.23.27-27]], [[sb/4/23/39#purport|SB 4.23.39]], [[sb/4/24/37#purport|SB 4.24.37]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/4/24/53#purport|SB 4.24.53]], [[sb/4/24/56#purport|SB 4.24.56]], !$V13> 25.4, [[sb/4/25/55#purport|SB 4.25.55]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/13#purport|SB 4.27.13]], [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/28/61#purport|SB 4.28.61]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/29#purport|SB 4.29.29]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/82-84#purport|SB 4.29.82-84]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/28#purport|SB 4.30.28]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/31/24#purport|SB 4.31.24]], [[sb/4/31/29-29#purport|SB 4.31.29-29]], [[sb/4/9/29#purport|SB 4.9.29]], [[sb/4/11/5#purport|SB 4.11.5]], [[sb/4/11/22#purport|SB 4.11.22]], [[sb/4/12/18#purport|SB 4.12.18]], [[sb/8/1/14#purport|SB 8.1.14]], [[sb/9/4/67#purport|SB 9.4.67]], [[sb/9/5/26#purport|SB 9.5.26]]
-* *See:* [[l#Liberation|Liberation]] 
+* liberation via, [[sb/1/8/35#purport|SB 1.8.35]], [[sb/1/8/35#purport|SB 1.8.35]], [[sb/2/2/12#purport|SB 2.2.12]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/3/4/31#purport|SB 3.4.31]], [[sb/3/5/1#purport|SB 3.5.1]], [[sb/3/9/10#purport|SB 3.9.10]], [[sb/3/21/17#purport|SB 3.21.17]], [[sb/3/21/34#purport|SB 3.21.34]], [[sb/3/24/43#purport|SB 3.24.43]], [[sb/3/25/11#purport|SB 3.25.11]], [[sb/3/25/20#purport|SB 3.25.20]], [[sb/3/25/25-35#purport|SB 3.25.25-35]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/25/33-33#purport|SB 3.25.33-33]], [[sb/3/25/36-36#purport|SB 3.25.36-36]], [[sb/3/27/1#purport|SB 3.27.1]], [[sb/3/27/21-21#purport|SB 3.27.21-21]], [[sb/3/29/35#purport|SB 3.29.35]], [[sb/3/31/21#purport|SB 3.31.21]], [[sb/3/31/47#purport|SB 3.31.47]], [[sb/3/33/10-10#purport|SB 3.33.10-10]], [[sb/3/33/22#purport|SB 3.33.22]], [[sb/4/9/29#purport|SB 4.9.29]], [[sb/4/11/5#purport|SB 4.11.5]], [[sb/4/11/22#purport|SB 4.11.22]], [[sb/4/12/18#purport|SB 4.12.18]], [[sb/4/20/8#purport|SB 4.20.8]], [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/21/34#purport|SB 4.21.34]], [[sb/4/21/40#purport|SB 4.21.40]], [[sb/4/22/26#purport|SB 4.22.26]], [[sb/4/22/27#purport|SB 4.22.27]], [[sb/4/22/30#purport|SB 4.22.30]], [[sb/4/22/35#purport|SB 4.22.35]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/23/27-27#purport|SB 4.23.27-27]], [[sb/4/23/39#purport|SB 4.23.39]], [[sb/4/24/37#purport|SB 4.24.37]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/4/24/53#purport|SB 4.24.53]], [[sb/4/24/56#purport|SB 4.24.56]], !$V13> 25.4, [[sb/4/25/55#purport|SB 4.25.55]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/13#purport|SB 4.27.13]], [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/28/61#purport|SB 4.28.61]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/29#purport|SB 4.29.29]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/82-84#purport|SB 4.29.82-84]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/28#purport|SB 4.30.28]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/31/24#purport|SB 4.31.24]], [[sb/4/31/29-29#purport|SB 4.31.29-29]], [[sb/8/1/14#purport|SB 8.1.14]], [[sb/9/4/67#purport|SB 9.4.67]], [[sb/9/5/26#purport|SB 9.5.26]], [[sb/10/2/30#purport|SB 10.2.30]], [[sb/10/3/44#purport|SB 10.3.44]], [[sb/10/4/20#purport|SB 10.4.20]], [[sb/10/4/42#purport|SB 10.4.42]]
 * life to begin with, [[sb/9/9/42#purport|SB 9.9.42]]
 * life’s goal as, [[sb/2/9/36#purport|SB 2.9.36]]
 * life’s goal attained via, [[sb/8/24/52#purport|SB 8.24.52]]
 * limitless, [[sb/3/21/31#purport|SB 3.21.31]]
+* listed, [[sb/3/25/27#purport|SB 3.25.27]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/29/10#purport|SB 3.29.10]], [[sb/3/32/36#purport|SB 3.32.36]], [[sb/4/27/24#purport|SB 4.27.24]], [[sb/4/28/30#purport|SB 4.28.30]], [[sb/4/28/31#purport|SB 4.28.31]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/38#purport|SB 4.29.38]]
 * literature’s place in, [[sb/1/5/22#purport|SB 1.5.22]]
 * living beings’ position understood via, [[sb/5/1/2#purport|SB 5.1.2]]
 * living entity in, [[sb/9/7/25-26#purport|SB 9.7.25-26]], [[sb/9/9/48#purport|SB 9.9.48]]
-* Lord , , , , 
+* Lord
 * Lord ”purchased” by, [[sb/2/9/17#purport|SB 2.9.17]]
 * Lord approached via, [[sb/3/19/35#purport|SB 3.19.35]]
 * Lord conquered via, [[sb/1/8/45#purport|SB 1.8.45]]
@@ -684,7 +805,9 @@
 * Lord identical with, [[sb/2/2/16#purport|SB 2.2.16]]
 * Lord invoked by, [[sb/2/4/15#purport|SB 2.4.15]], [[sb/2/6/35#purport|SB 2.6.35]], [[sb/2/8/5#purport|SB 2.8.5]]
 * Lord known by, [[sb/2/9/21-22#purport|SB 2.9.21-22]], [[sb/2/9/31#purport|SB 2.9.31]]
-* Lord known via, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/32#purport|SB 10.2.32]], [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36-36#purport|SB 10.2.36-36]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/31#purport|SB 10.3.31]], [[sb/10/13/54#purport|SB 10.13.54]], [[sb/3/21/33#purport|SB 3.21.33]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/3/24/43#purport|SB 3.24.43]], [[sb/3/24/47#purport|SB 3.24.47]], [[sb/3/26/1#purport|SB 3.26.1]], [[sb/4/7/31#purport|SB 4.7.31]], [[sb/4/7/40#purport|SB 4.7.40]], [[sb/4/9/13#purport|SB 4.9.13]], [[sb/9/8/22#purport|SB 9.8.22]]
+* Lord known via, [[sb/3/21/33#purport|SB 3.21.33]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/3/24/43#purport|SB 3.24.43]], [[sb/3/24/47#purport|SB 3.24.47]], [[sb/3/26/1#purport|SB 3.26.1]], [[sb/4/7/31#purport|SB 4.7.31]], [[sb/4/7/40#purport|SB 4.7.40]], [[sb/4/9/13#purport|SB 4.9.13]], [[sb/9/8/22#purport|SB 9.8.22]], [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/32#purport|SB 10.2.32]], [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36-36#purport|SB 10.2.36-36]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/31#purport|SB 10.3.31]], [[sb/10/13/54#purport|SB 10.13.54]]
+* Lord requests, [[sb/4/28/48#purport|SB 4.28.48]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/31/24#purport|SB 4.31.24]]
+* Lord revives, [[sb/1/8/35#purport|SB 1.8.35]], [[sb/1/8/35#purport|SB 1.8.35]]
 * Lord satisfied by, [[sb/4/16/3#purport|SB 4.16.3]]
 * Lord seen via, [[sb/1/8/36#purport|SB 1.8.36]], [[sb/1/11/8#purport|SB 1.11.8]], [[sb/4/7/18#purport|SB 4.7.18]], [[sb/4/9/2#purport|SB 4.9.2]]
 * Lord understood via, [[sb/1/15/31#purport|SB 1.15.31]]
@@ -695,6 +818,7 @@
 * Lord’s satisfaction in, SB Intro 11
 * love awakened via, [[sb/3/2/6#purport|SB 3.2.6]]
 * love for Lord result of, [[sb/5/24/19#purport|SB 5.24.19]]
+* love for, via, [[sb/7/7/51-52#purport|SB 7.7.51-52]]
 * love from, [[sb/2/9/35#purport|SB 2.9.35]]
 * love in, [[sb/1/5/37#purport|SB 1.5.37]], [[sb/1/6/16#purport|SB 1.6.16]], [[sb/1/7/7#purport|SB 1.7.7]]
 * love of God via, [[sb/8/20/3#purport|SB 8.20.3]]
@@ -706,9 +830,10 @@
 * mahātmās engaged in, [[sb/5/19/26#purport|SB 5.19.26]]
 * mahātmās in, [[sb/4/22/49#purport|SB 4.22.49]]
 * main importance of, [[sb/1/2/28-29#purport|SB 1.2.28-29]]
+* manufactured goods for, [[sb/2/1/37#purport|SB 2.1.37]]
 * manufactured goods in, [[sb/2/1/37#purport|SB 2.1.37]]
 * material activities stopped by, [[sb/7/13/24#purport|SB 7.13.24]]
-* material appearance may disguise, 10–11 
+* material appearance may disguise, 10–11
 * material assets &, [[sb/5/1/12#purport|SB 5.1.12]], [[sb/5/14/12#purport|SB 5.14.12]]
 * material assets used in, [[sb/4/3/17#purport|SB 4.3.17]]
 * material attachment overcome via, [[sb/5/19/15#purport|SB 5.19.15]]
@@ -725,6 +850,7 @@
 * material facilities used in, [[sb/4/28/42#purport|SB 4.28.42]], [[sb/4/29/55#purport|SB 4.29.55]], [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19-19#purport|SB 4.30.19-19]]
 * material happiness compared with, [[sb/7/7/45#purport|SB 7.7.45]]
 * material service eliminated via, [[sb/3/25/27#purport|SB 3.25.27]]
+* material service, [[sb/1/6/22#purport|SB 1.6.22]]
 * materialism destroyed by, [[sb/2/5/24#purport|SB 2.5.24]]
 * materialists averse to, [[bg/13/20|Bg. 13.20]]
 * materialists desireless of, [[sb/3/32/2#purport|SB 3.32.2]]
@@ -732,6 +858,7 @@
 * materialists in, [[sb/7/10/4-4#purport|SB 7.10.4-4]]
 * materialists neglect, [[sb/7/5/18#purport|SB 7.5.18]], [[sb/7/6/8-8#purport|SB 7.6.8-8]]
 * matter spiritualized by, [[bg/4/24|Bg. 4.24]]
+* may punish devotee for neglecting, [[sb/5/8/27#purport|SB 5.8.27]]
 * māyā as absence of, [[sb/1/5/23#purport|SB 1.5.23]]
 * māyā overcome via, [[sb/4/20/32#purport|SB 4.20.32]], [[sb/4/29/29#purport|SB 4.29.29]]
 * māyā vs., [[sb/10/13/51#purport|SB 10.13.51]]
@@ -740,7 +867,6 @@
 * means Lord, devotee, & exchange of love, [[bg/14/26|Bg. 14.26]]
 * mechanical at no time, [[sb/1/7/6#purport|SB 1.7.6]]
 * meditation in, [[bg/7/28|Bg. 7.28]], [[sb/1/6/15#purport|SB 1.6.15]], [[sb/2/9/45#purport|SB 2.9.45]], [[sb/2/9/45#purport|SB 2.9.45]]
-* meditation in. See: Meditation 
 * mental speculation useless for, [[sb/4/31/11-11#purport|SB 4.31.11-11]]
 * mentality of, [[sb/9/4/25#purport|SB 9.4.25]]
 * merging with Lord compared with, [[sb/2/6/35#purport|SB 2.6.35]]
@@ -765,78 +891,73 @@
 * modes of nature surpassed by, [[sb/3/22/36#purport|SB 3.22.36]], [[sb/4/20/8-8#purport|SB 4.20.8-8]], [[sb/8/16/20#purport|SB 8.16.20]]
 * modes of nature transcended by, [[sb/10/1/39#purport|SB 10.1.39]], [[sb/10/1/41#purport|SB 10.1.41]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/31#purport|SB 10.3.31]]
 * modes transcended by, [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/21#purport|SB 4.30.21]]
+* most confidential as, [[sb/1/5/30-31#purport|SB 1.5.30-31]]
 * motiveless, [[sb/3/8/27#purport|SB 3.8.27]]
 * motives for, four listed, [[sb/3/29/7-7#purport|SB 3.29.7-7]]
 * motives for, highest, [[bg/7/17–18|Bg. 7.17–18]]
 * mystic perfection via, [[sb/2/1/21#purport|SB 2.1.21]]
 * mystic power compared with, [[sb/7/3/37-38#purport|SB 7.3.37-38]]
 * mystic power surpassed by, [[sb/5/5/14#purport|SB 5.5.14]]
+* mystic yoga, [[sb/2/1/18#purport|SB 2.1.18]]
 * Nārada as authority on, [[sb/1/3/8#purport|SB 1.3.8]], [[sb/1/6/31#purport|SB 1.6.31]]
 * Nārada expert at, [[sb/7/11/4#purport|SB 7.11.4]]
 * Nārada-pañcarātra as directory of, [[sb/4/13/4#purport|SB 4.13.4]]
 * nature’s modes transcended via, [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/9/3#purport|SB 5.9.3]], [[sb/5/11/8#purport|SB 5.11.8]]
 * necessary for satisfaction, [[sb/1/4/31-32#purport|SB 1.4.31-32]], [[sb/1/5/8-9#purport|SB 1.5.8-9]]
 * necessity of, [[bg/3/29|Bg. 3.29]], [[bg/5/2|Bg. 5.2]], [[bg/15/20|Bg. 15.20]], [[sb/4/24/67#purport|SB 4.24.67]]
-* necessity of. See: Devotional service, advantages of 
+  * *See also:* Devotional service; advantages of
+* nectar, [[sb/5/19/27#purport|SB 5.19.27]]
 * need for, in all things, SB Intro 28
 * needed for knowing God, [[sb/2/4/10#purport|SB 2.4.10]]
 * negates material enjoyment, [[sb/1/2/7#purport|SB 1.2.7]]
 * neglected, material activity replaces, [[sb/3/25/41#purport|SB 3.25.41]]
+* neglects, [[sb/5/8/8#purport|SB 5.8.8]]
 * nine processes of, [[sb/4/22/51#purport|SB 4.22.51]], [[sb/5/18/12#purport|SB 5.18.12]]
 * nirjana-bhajana, [[sb/4/28/33#purport|SB 4.28.33]], [[sb/4/28/34#purport|SB 4.28.34]]
 * nondevotees disturb, [[sb/7/5/37#purport|SB 7.5.37]]
+* nondifferent from, [[sb/5/6/17#purport|SB 5.6.17]]
 * not material, [[bg/9/2|Bg. 9.2]] (5)
 * not risky process, [[bg/12/5|Bg. 12.5]] (3)
 * obligations absolved by, [[sb/4/24/38#purport|SB 4.24.38]]
+* obliged by, [[sb/3/8/27#purport|SB 3.8.27]]
 * occupational duty in, [[sb/4/20/9-9#purport|SB 4.20.9-9]]
-* of arcanam, 6.18, [[bg/9/27|Bg. 9.27]]
-* *See:* [[s#Surrender to Supreme Lord|Surrender to Supreme Lord]] 
-* of *kīrtana*. See: Chanting in Kṛṣṇa consciousness 
-* of *pāda-sevanam*. See: Devotional service, of worship; Supreme Lord, lotus feet of 
+* of *kīrtana*. See: Chanting in Kṛṣṇa consciousness
+* of *pāda-sevanam*. See: Devotional service, of worship; Supreme Lord, lotus feet of
 * of *prasādam-*taking, [[bg/9/2|Bg. 9.2]] (7), [[bg/9/2|Bg. 9.2]] (9)
-* of sakhyam. See: Kṛṣṇa, relationship(s) with 
-* of *smaraṇam*. See: Meditation; 
-* of *śravaṇam*. See: Hearing in Kṛṣṇa consciousness 
-* of vandanam. See: Prayers 
+* of *smaraṇam*. See: Meditation;
+  * Remembering in Kṛṣṇa consciousness
+* of *śravaṇam*. See: Hearing in Kṛṣṇa consciousness
 * of Ambarīṣa Mahārāja, [[sb/4/25/57-61#purport|SB 4.25.57-61]], [[sb/4/29/7#purport|SB 4.29.7]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/64#purport|SB 4.29.64]]
-* of arcanam. See: Deity worship 
-* of ātma-nivedanam. See: Surrender 
+* of arcanam, 6.18, [[bg/9/27|Bg. 9.27]]
+  * *See also:* Deity worship
+* of ātma-nivedanam. See: Surrender
 * of bhajanānandī vs. goṣṭhānandī, [[sb/4/30/37#purport|SB 4.30.37]]
 * of building temples, [[bg/12/16|Bg. 12.16]]
 * of chanting devotee’s name, [[sb/3/28/18#purport|SB 3.28.18]]
-* of chanting Lord’s names. See: Chanting holy name(s) of Lord 
-* *See:* [[c#Chanting in Kṛṣṇa consciousness|Chanting in Kṛṣṇa consciousness]] 
-* of chanting. See: Chanting Hare Kṛṣṇa; Chanting holy name(s) of Lord 
-* *See:* [[d#Deity worship|Deity worship]] 
-* of Deity worship. See: Deity worship , 
-* of eating *prasādam. See: Prasādam* 
-* *See:* Devotional service; of chanting 
+* of chanting Lord’s names. See: Chanting holy name(s) of Lord
+* of chanting. See: Chanting Hare Kṛṣṇa; Chanting holy name(s) of Lord
+* of Deity worship. See: Deity worship
+* of eating *prasādam. See: Prasādam*
 * of gopīs, [[sb/4/30/3#purport|SB 4.30.3]]
 * of Gosvāmīs, Six, [[sb/4/27/24#purport|SB 4.27.24]]
-* of hearing & chanting. See: Hearing & chanting about Lord 
-* *See:* [[h#Hearing in Kṛṣṇa consciousness|Hearing in Kṛṣṇa consciousness]] 
-* of hearing. See: Hearing about Lord 
-* of hearing. See: Hearing about Supreme Lord 
-* of kīrtanam. See: Chanting Hare Kṛṣṇa; Chanting holy name(s) of Lord; Preaching Kṛṣṇa consciousness 
+* of hearing & chanting. See: Hearing & chanting about Lord
+* of hearing. See: Hearing about Supreme Lord
+* of kīrtanam. See: Chanting Hare Kṛṣṇa; Chanting holy name(s) of Lord; Preaching Kṛṣṇa consciousness
 * of Lakṣmī, [[sb/3/28/23#purport|SB 3.28.23]], [[sb/3/28/25#purport|SB 3.28.25]]
-* *See:* [[m#Meditation|Meditation]]; [[r#Remembering in Kṛṣṇa consciousness|Remembering in Kṛṣṇa consciousness]] 
-* of meditation. See: Meditation 
-* of offering 
+* of meditation. See: Meditation
+* of offering
+  * food to Lord, [[bg/9/2|Bg. 9.2]] (9), [[bg/9/26–27|Bg. 9.26–27]], [[bg/12/9|Bg. 12.9]], [[bg/17/10|Bg. 17.10]], [[bg/18/7|Bg. 18.7]]
+  * obeisances to Lord, [[bg/9/34|Bg. 9.34]]
 * of pious & saintly persons, [[bg/7/28|Bg. 7.28]]
 * of Prahlāda Mahārāja, [[sb/7/4/30-42#purport|SB 7.4.30-42]]
-* *See:* [[p#Preaching Kṛṣṇa consciousness|Preaching Kṛṣṇa consciousness]] 
-* of preaching. See: Preaching Kṛṣṇa consciousness , 
-* of remembering, [[sb/4/28/15#purport|SB 4.28.15]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/31/20#purport|SB 4.31.20]]
-* *See:* [[r#Remembering in Kṛṣṇa consciousness|Remembering in Kṛṣṇa consciousness]] 
-* of remembering. See: Remembering about Supreme Lord 
-* of sakhyam. See: Kṛṣṇa, relationships with; Supreme Lord, relationships with 
-* of smaraṇam. See: Devotional service, of remembering; Meditation 
-* of smaraṇam. See: Remembrance about Lord 
-* of śravaṇam. See: Hearing about Lord 
-* of vandanam. See: Prayer(s) 
+* of preaching. See: Preaching Kṛṣṇa consciousness
+* of remembering. See: Remembering about Supreme Lord, [[sb/4/28/15#purport|SB 4.28.15]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/31/20#purport|SB 4.31.20]]
+* of sakhyam. See: Kṛṣṇa, relationship(s) with
+* of smaraṇam. See: Devotional service, of remembering; Meditation
+* of śravaṇam. See: Hearing about Lord
+* of vandanam. See: Prayers
 * of working in detachment, [[bg/18/7–11|Bg. 18.7–11]]
-* *See:* [[w#Worship|Worship]] 
-* of worship. See: Worship, to Lord , 
+* of worship. See: Worship, to Lord
 * offenses in, [[sb/4/13/28#purport|SB 4.13.28]], [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/24/59#purport|SB 4.24.59]]
 * offerings to Lord in, [[sb/4/7/49#purport|SB 4.7.49]]
 * on Brahman platform, [[sb/9/18/40#purport|SB 9.18.40]]
@@ -859,42 +980,55 @@
 * peace of mind via, [[sb/2/6/6#purport|SB 2.6.6]]
 * peacefulness via, [[sb/5/7/11#purport|SB 5.7.11]]
 * penance in, [[sb/2/9/9#purport|SB 2.9.9]], [[sb/2/9/24#purport|SB 2.9.24]]
-* perfection of, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/10/8/51#purport|SB 10.8.51]], [[sb/7/7/55#purport|SB 7.7.55]]
+* penance, [[sb/2/9/21#purport|SB 2.9.21]]
+* perceived via, [[sb/5/1/27#purport|SB 5.1.27]], [[sb/5/19/4#purport|SB 5.19.4]]
+* perfection as, [[sb/3/25/19-19#purport|SB 3.25.19-19]], [[sb/3/25/44-44#purport|SB 3.25.44-44]], [[sb/3/27/21#purport|SB 3.27.21]], [[sb/3/32/22#purport|SB 3.32.22]]
+* perfection of, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/7/7/55#purport|SB 7.7.55]], [[sb/10/8/51#purport|SB 10.8.51]]
 * perfection via, [[sb/3/21/7#purport|SB 3.21.7]], [[sb/4/12/22#purport|SB 4.12.22]], [[sb/4/20/31#purport|SB 4.20.31]], [[sb/4/23/32#purport|SB 4.23.32]], [[sb/4/24/77#purport|SB 4.24.77]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/28/42#purport|SB 4.28.42]], [[sb/4/29/38#purport|SB 4.29.38]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/29/66#purport|SB 4.29.66]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/31/9-9#purport|SB 4.31.9-9]], [[sb/8/20/3#purport|SB 8.20.3]]
 * perfectional stage of, goodness via, [[sb/3/21/13#purport|SB 3.21.13]]
 * permanent value of, [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/5/17#purport|SB 1.5.17]], [[sb/4/12/16#purport|SB 4.12.16]]
-* persons in. See: Devotee(s) 
+* persons in. See: Devotee(s)
 * philosopher’s role in, [[sb/1/5/32#purport|SB 1.5.32]]
 * philosophy’s place in, [[sb/1/5/22#purport|SB 1.5.22]]
 * piety included in, [[sb/4/31/18#purport|SB 4.31.18]]
 * pilgrimage places for, [[sb/4/8/42#purport|SB 4.8.42]]
+* pilgrimages, [[sb/3/3/26#purport|SB 3.3.26]]
 * pious & impious activities opposed to, [[sb/5/11/4#purport|SB 5.11.4]]
 * pious activities precede, [[bg/6/45|Bg. 6.45]], [[bg/7/28|Bg. 7.28]], [[sb/10/13/8#purport|SB 10.13.8]], [[sb/10/13/49#purport|SB 10.13.49]], [[sb/10/13/58#purport|SB 10.13.58]]
 * pious candidates for, [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/16/22#purport|SB 8.16.22]]
 * pious people achieve, [[sb/3/2/11#purport|SB 3.2.11]]
 * pious people take to, [[sb/4/21/27#purport|SB 4.21.27]], [[sb/4/22/7#purport|SB 4.22.7]], [[sb/4/22/22#purport|SB 4.22.22]]
+* pleased via, [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/49-49#purport|SB 4.29.49-49]], [[sb/4/30/3-3#purport|SB 4.30.3-3]], [[sb/4/30/36#purport|SB 4.30.36]]
 * pleasure from, [[sb/3/15/17#purport|SB 3.15.17]], [[sb/3/15/20#purport|SB 3.15.20]], [[sb/3/29/35#purport|SB 3.29.35]], [[sb/3/32/33#purport|SB 3.32.33]]
 * pleasure via, 18, [[bg/7/30|Bg. 7.30]]
 * poet’s role in, [[sb/1/5/32#purport|SB 1.5.32]]
 * politician’s role in, [[sb/1/5/32#purport|SB 1.5.32]]
 * possessions in, [[sb/2/4/2#purport|SB 2.4.2]], [[sb/2/7/18#purport|SB 2.7.18]]
-* power of, [[bg/3/41|Bg. 3.41]], [[sb/10/2/30#purport|SB 10.2.30]], [[sb/2/3/17#purport|SB 2.3.17]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/9/2/14#purport|SB 9.2.14]]
+* potency of, [[sb/1/12/3#purport|SB 1.12.3]]
+* power of, [[bg/3/41|Bg. 3.41]], [[sb/2/3/17#purport|SB 2.3.17]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/9/2/14#purport|SB 9.2.14]], [[sb/10/2/30#purport|SB 10.2.30]]
 * practiced in material world, [[sb/2/10/44#purport|SB 2.10.44]]
 * Prahlāda chose, [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/24-24#purport|SB 7.9.24-24]]
 * prayer for, by Caitanya, [[bg/6/1|Bg. 6.1]]
 * prayers in, [[sb/4/7/24#purport|SB 4.7.24]]
-* preachers of. See: Devotee(s), as preacher(s) 
+* prays for, [[sb/5/14/45#purport|SB 5.14.45]]
+* preachers of. See: Devotee(s), as preacher(s)
 * preaching as best, [[sb/7/6/24#purport|SB 7.6.24]]
+* preliminary & advanced, [[sb/4/28/30#purport|SB 4.28.30]]
 * prerequisite for, [[sb/7/8/9#purport|SB 7.8.9]], [[sb/7/9/6#purport|SB 7.9.6]]
 * principle guiding, [[sb/8/20/2#purport|SB 8.20.2]]
 * principles for, four given, [[sb/1/2/14#purport|SB 1.2.14]]
-* principles of, in orders of life, [[bg/8/28|Bg. 8.28]]
 * principles of, [[sb/2/9/31#purport|SB 2.9.31]], [[sb/4/21/42#purport|SB 4.21.42]]
+* principles of, in orders of life, [[bg/8/28|Bg. 8.28]]
 * Priyavrata’s sons advanced in, [[sb/5/1/27#purport|SB 5.1.27]]
 * problems absent in, [[sb/4/8/81#purport|SB 4.8.81]]
-* process of 
-* process(es) of 
+* process of
+* process(es) of
 * processes of, [[bg/7/1|Bg. 7.1]], [[bg/11/55|Bg. 11.55]] (3), [[bg/12/5|Bg. 12.5]] (3), [[bg/12/9|Bg. 12.9]], [[bg/12/12|Bg. 12.12]], [[bg/12/20|Bg. 12.20]], [[bg/18/55|Bg. 18.55]], [[sb/3/18/5#purport|SB 3.18.5]], [[sb/9/19/29#purport|SB 9.19.29]]
+  * *See also: specific processes*
+  * Ambarīṣa Mahārāja &, [[bg/2/61|Bg. 2.61]], [[bg/6/18|Bg. 6.18]]
+  * Kṛṣṇa explains, [[bg/12/2–19|Bg. 12.2–19]]
+  * nine named, [[bg/2/61|Bg. 2.61]], [[bg/9/1|Bg. 9.1]], [[bg/9/22|Bg. 9.22]], [[bg/11/55|Bg. 11.55]] (3)
+  * two, according to attachment to Kṛṣṇa, [[bg/12/9|Bg. 12.9]]
 * processes of, nine described, [[sb/7/5/23-24#purport|SB 7.5.23-24]], [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * processes of, nine listed, [[sb/2/2/36#purport|SB 2.2.36]]
 * propensities applied in, [[sb/2/10/25#purport|SB 2.10.25]]
@@ -903,12 +1037,11 @@
 * protection invoked by, [[sb/2/8/21#purport|SB 2.8.21]]
 * Pṛthu desired, [[sb/4/20/27-27#purport|SB 4.20.27-27]]
 * pure devotees desire, [[sb/8/12/6#purport|SB 8.12.6]]
+* pure devotees exemplify, [[sb/2/3/12#purport|SB 2.3.12]]
 * pure devotional service, [[sb/4/9/17#purport|SB 4.9.17]], [[sb/4/13/8-9#purport|SB 4.13.8-9]], [[sb/4/16/25#purport|SB 4.16.25]]
-* pure stage of. See: Pure devotional service 
-* pure, [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/3/53#purport|SB 10.3.53]], [[sb/10/4/20#purport|SB 10.4.20]], [[sb/3/8/26#purport|SB 3.8.26]], [[sb/4/20/16#purport|SB 4.20.16]], [[sb/4/23/10#purport|SB 4.23.10]], [[sb/4/23/12#purport|SB 4.23.12]], [[sb/7/10/4#purport|SB 7.10.4]], [[sb/7/13/24#purport|SB 7.13.24]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/8/1/14#purport|SB 8.1.14]], [[sb/8/3/20-21#purport|SB 8.3.20-21]], [[sb/8/3/29#purport|SB 8.3.29]], [[sb/8/16/21#purport|SB 8.16.21]], [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/17/2-3#purport|SB 8.17.2-3]], [[sb/8/20/3#purport|SB 8.20.3]], [[sb/9/18/51#purport|SB 9.18.51]], [[sb/9/21/16#purport|SB 9.21.16]]
-* *See:* [[p#Pure devotional service|Pure devotional service]] 
-* pure. See: Pure devotional service , , 
-* pure. See: Pure devotional service to Lord 
+* pure stage of. See: Pure devotional service
+* pure. See: Pure devotional service, [[sb/3/8/26#purport|SB 3.8.26]], [[sb/4/20/16#purport|SB 4.20.16]], [[sb/4/23/10#purport|SB 4.23.10]], [[sb/4/23/12#purport|SB 4.23.12]], [[sb/7/10/4#purport|SB 7.10.4]], [[sb/7/13/24#purport|SB 7.13.24]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/8/1/14#purport|SB 8.1.14]], [[sb/8/3/20-21#purport|SB 8.3.20-21]], [[sb/8/3/29#purport|SB 8.3.29]], [[sb/8/16/21#purport|SB 8.16.21]], [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/17/2-3#purport|SB 8.17.2-3]], [[sb/8/20/3#purport|SB 8.20.3]], [[sb/9/18/51#purport|SB 9.18.51]], [[sb/9/21/16#purport|SB 9.21.16]], [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/3/53#purport|SB 10.3.53]], [[sb/10/4/20#purport|SB 10.4.20]]
+* purification as, [[sb/3/25/16#purport|SB 3.25.16]], [[sb/3/27/21#purport|SB 3.27.21]], [[sb/3/27/23#purport|SB 3.27.23]], [[sb/3/33/6#purport|SB 3.33.6]]
 * purification by, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/10/13/53#purport|SB 10.13.53]]
 * purification power of, [[sb/3/16/6#purport|SB 3.16.6]]
 * purification via, [[sb/3/29/19-19#purport|SB 3.29.19-19]], [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/22/20#purport|SB 4.22.20]], [[sb/4/22/30#purport|SB 4.22.30]], [[sb/4/22/52#purport|SB 4.22.52]], [[sb/4/24/43#purport|SB 4.24.43]], [[sb/4/24/53#purport|SB 4.24.53]], [[sb/4/27/1#purport|SB 4.27.1]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/84-84#purport|SB 4.29.84-84]], [[sb/4/30/21#purport|SB 4.30.21]], [[sb/4/30/36#purport|SB 4.30.36]], [[sb/4/31/10#purport|SB 4.31.10]], [[sb/5/5/1#purport|SB 5.5.1]], [[sb/5/7/11#purport|SB 5.7.11]], [[sb/5/10/23#purport|SB 5.10.23]], [[sb/5/11/7#purport|SB 5.11.7]], [[sb/5/18/12#purport|SB 5.18.12]]
@@ -923,28 +1056,29 @@
 * qualities of one devoid of, [[sb/5/18/12#purport|SB 5.18.12]]
 * quick results by, [[sb/3/7/12#purport|SB 3.7.12]]
 * rāga-mārga & vidhi-mārga, [[sb/4/28/30#purport|SB 4.28.30]]
-* rasas in, [[sb/3/16/31#purport|SB 3.16.31]]
+* rasas in, [[bg/8/14|Bg. 8.14]], [[sb/3/16/31#purport|SB 3.16.31]]
 * reaction absent in, [[sb/4/1/5#purport|SB 4.1.5]]
 * reactions in, freedom from, [[sb/3/27/2#purport|SB 3.27.2]]
 * realization via, [[sb/5/1/27#purport|SB 5.1.27]]
+* recommended five, [[sb/3/25/36#purport|SB 3.25.36]], [[sb/3/32/42#purport|SB 3.32.42]]
 * recommended for all, [[sb/5/19/27#purport|SB 5.19.27]]
+* rectified via, [[sb/1/3/4#purport|SB 1.3.4]]
 * regulated, [[bg/12/9–10|Bg. 12.9–10]], [[bg/12/12|Bg. 12.12]]
 * regulations of, [[bg/9/14|Bg. 9.14]], [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (5)
-* regulative 
+  * inability to follow, [[bg/12/10|Bg. 12.10]]
 * regulative & spontaneous, [[sb/4/28/30#purport|SB 4.28.30]]
 * regulative principles for, [[sb/4/8/72#purport|SB 4.8.72]]
 * regulative principles of, [[sb/2/1/7#purport|SB 2.1.7]], [[sb/2/4/4#purport|SB 2.4.4]], [[sb/2/4/18#purport|SB 2.4.18]]
-* regulative principles of. See: Regulative principles 
 * regulative, [[sb/2/3/24#purport|SB 2.3.24]]
+* related to. See: Knowledge
 * relation with Lord revived by, [[sb/2/3/1#purport|SB 2.3.1]]
 * relationship with Lord in, [[sb/2/7/4#purport|SB 2.7.4]]
-* *See:* Kṛṣṇa; relationships with 
-* relationships with Lord in. See: Kṛṣṇa, relationship(s) with; Supreme Lord, relationship(s) with 
-* relationships with Lord in. See: Kṛṣṇa, relationships with; Supreme Lord, relationships with 
+* relationships with Lord in. See: Kṛṣṇa, relationships with; Supreme Lord, relationships with
 * relief, [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/35#purport|SB 4.29.35]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/51#purport|SB 4.29.51]], [[sb/4/29/78#purport|SB 4.29.78]], [[sb/4/30/35-35#purport|SB 4.30.35-35]]
 * religiosity compared with, [[sb/1/5/9#purport|SB 1.5.9]]
 * remembering Kṛṣṇa in, [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/5/36#purport|SB 1.5.36]]
 * remembering Kṛṣṇa via, [[sb/8/3/1#purport|SB 8.3.1]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
+* remembers past life due to, [[sb/5/8/27#purport|SB 5.8.27]], [[sb/5/8/28#purport|SB 5.8.28]], [[sb/5/8/29#purport|SB 5.8.29]]
 * remembrance process in, [[sb/4/6/33#purport|SB 4.6.33]]
 * removes fear of death, [[sb/3/11/33#purport|SB 3.11.33]]
 * renunciation &, [[bg/5/1–13|Bg. 5.1–13]], [[bg/10/3|Bg. 10.3]], [[bg/13/8|Bg. 13.8]] (7), [[bg/18/7–11|Bg. 18.7–11]]
@@ -952,6 +1086,8 @@
 * renunciation by, [[sb/10/13/53#purport|SB 10.13.53]]
 * renunciation in, [[sb/1/2/7#purport|SB 1.2.7]], [[sb/8/12/8#purport|SB 8.12.8]], [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/9/47#purport|SB 9.9.47]]
 * renunciation via, [[sb/2/4/2#purport|SB 2.4.2]], [[sb/2/4/2#purport|SB 2.4.2]], [[sb/2/7/18#purport|SB 2.7.18]], [[sb/3/25/43-43#purport|SB 3.25.43-43]], [[sb/4/21/32#purport|SB 4.21.32]]
+* requested by Lord, [[sb/4/28/48#purport|SB 4.28.48]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/31/24#purport|SB 4.31.24]]
+* requests, [[sb/4/28/48#purport|SB 4.28.48]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/75#purport|SB 4.29.75]], [[sb/4/31/24#purport|SB 4.31.24]]
 * required with every process, [[sb/3/32/36#purport|SB 3.32.36]]
 * responsibility for reactions to, as Lord’s, [[bg/18/14|Bg. 18.14]], [[bg/18/17|Bg. 18.17]]
 * restrictions in, [[sb/2/8/21#purport|SB 2.8.21]]
@@ -959,6 +1095,7 @@
 * results of, can be experienced, [[bg/9/2|Bg. 9.2]] (6)
 * resumed in next creation, [[sb/2/8/22#purport|SB 2.8.22]]
 * retirement absent in, [[sb/3/2/3#purport|SB 3.2.3]]
+* revealed via, [[sb/7/15/45#purport|SB 7.15.45]], [[sb/7/15/77#purport|SB 7.15.77]]
 * risks in, [[bg/13/8|Bg. 13.8]] (4)
 * rituals compared with, [[sb/2/8/21#purport|SB 2.8.21]]
 * Ṛṣabhadeva’s heart embodies, [[sb/5/5/19#purport|SB 5.5.19]]
@@ -971,11 +1108,15 @@
 * samādhi in, [[sb/4/4/20#purport|SB 4.4.20]]
 * sanctifying effect of, [[sb/4/6/25#purport|SB 4.6.25]]
 * Ṣaṇḍa accused of teaching about, [[sb/7/5/26#purport|SB 7.5.26]]
-* Sāṅkhya &,  2.39–25, [[bg/5/4–5|Bg. 5.4–5]]
+* sandeśa, [[sb/5/19/27#purport|SB 5.19.27]]
+* Sāṅkhya &, 2.39–25, [[bg/5/4–5|Bg. 5.4–5]]
 * Sāṅkhya as, [[sb/3/25/31#purport|SB 3.25.31]], [[sb/3/26/1#purport|SB 3.26.1]]
 * saṅkīrtana in, [[sb/2/5/15#purport|SB 2.5.15]]
 * satisfaction attained in, [[sb/4/4/28#purport|SB 4.4.28]]
 * satisfaction via, [[sb/5/7/11#purport|SB 5.7.11]]
+* satisfied by, [[sb/3/5/4#purport|SB 3.5.4]], [[sb/3/13/13#purport|SB 3.13.13]], [[sb/5/3/7#purport|SB 5.3.7]]
+* satisfied only by, [[sb/4/29/49#purport|SB 4.29.49]]
+* satisfied via, [[sb/7/7/51-52#purport|SB 7.7.51-52]], [[sb/7/9/9#purport|SB 7.9.9]]
 * satisfies everyone, [[bg/2/41|Bg. 2.41]], [[bg/9/3|Bg. 9.3]]
 * satisfying in itself, [[sb/3/4/15#purport|SB 3.4.15]]
 * satisfying Lord in, SB Intro 11
@@ -988,26 +1129,28 @@
 * seed & creeper of, [[sb/3/2/6#purport|SB 3.2.6]]
 * seed of, [[sb/2/2/30#purport|SB 2.2.30]], [[sb/3/31/43#purport|SB 3.31.43]], [[sb/4/22/23#purport|SB 4.22.23]], [[sb/4/29/46#purport|SB 4.29.46]]
 * seeing Lord via, [[sb/1/3/4#purport|SB 1.3.4]]
+* seen via, [[sb/8/6/12#purport|SB 8.6.12]]
 * self-control by, [[sb/1/18/22#purport|SB 1.18.22]]
 * self-realiātion as, [[sb/9/7/25-26#purport|SB 9.7.25-26]]
 * self-realiātion completed in, [[sb/4/20/29#purport|SB 4.20.29]]
 * self-realiātion via, [[sb/7/7/21#purport|SB 7.7.21]], [[sb/7/7/29#purport|SB 7.7.29]], [[sb/8/24/48#purport|SB 8.24.48]]
+* self-realization as, [[sb/3/25/19-19#purport|SB 3.25.19-19]], [[sb/3/26/2#purport|SB 3.26.2]], [[sb/3/28/44#purport|SB 3.28.44]]
 * self-realization followed by, [[sb/3/28/44#purport|SB 3.28.44]]
 * self-realization from, [[sb/3/27/28-29#purport|SB 3.27.28-29]]
 * self-realization via, [[bg/13/8|Bg. 13.8]] (13), [[sb/2/9/4#purport|SB 2.9.4]], [[sb/2/9/9#purport|SB 2.9.9]], [[sb/4/29/79-79#purport|SB 4.29.79-79]]
 * sense control via, [[sb/5/1/17#purport|SB 5.1.17]], [[sb/5/2/5#purport|SB 5.2.5]]
-* sense gratification absent in, [[sb/4/29/57#purport|SB 4.29.57]], [[sb/4/8/61#purport|SB 4.8.61]]
+* sense gratification absent in, [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/29/57#purport|SB 4.29.57]]
 * sense gratification compared with, [[sb/7/7/38-38#purport|SB 7.7.38-38]]
-* senses 
+* senses
 * senses & mind meant for, [[sb/3/25/32-32#purport|SB 3.25.32-32]]
 * senses controlled via, [[sb/3/27/5#purport|SB 3.27.5]], [[sb/3/31/36#purport|SB 3.31.36]], [[sb/8/17/2-3#purport|SB 8.17.2-3]]
 * senses engaged in, [[sb/3/7/13#purport|SB 3.7.13]]
-* senses in, [[sb/10/6/34#purport|SB 10.6.34]], [[sb/4/20/38#purport|SB 4.20.38]], [[sb/4/24/34#purport|SB 4.24.34]], [[sb/4/24/39#purport|SB 4.24.39]], [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/53#purport|SB 4.24.53]], [[sb/4/24/78#purport|SB 4.24.78]], [[sb/4/9/6#purport|SB 4.9.6]], [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/18-20#purport|SB 9.4.18-20]]
+* senses in, [[sb/4/9/6#purport|SB 4.9.6]], [[sb/4/20/38#purport|SB 4.20.38]], [[sb/4/24/34#purport|SB 4.24.34]], [[sb/4/24/39#purport|SB 4.24.39]], [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/53#purport|SB 4.24.53]], [[sb/4/24/78#purport|SB 4.24.78]], [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/10/6/34#purport|SB 10.6.34]]
 * senses meant for, [[sb/5/1/17#purport|SB 5.1.17]]
 * senses perfected in, [[sb/3/21/13#purport|SB 3.21.13]]
 * senses purified via, [[bg/12/9|Bg. 12.9]], [[sb/7/10/8#purport|SB 7.10.8]]
-* senses used in, 27, [[bg/2/58|Bg. 2.58]], [[bg/2/64|Bg. 2.64]], [[bg/5/8–11|Bg. 5.8–11]], [[bg/6/18|Bg. 6.18]], [[bg/6/26|Bg. 6.26]], [[bg/8/8|Bg. 8.8]], [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (7)
 * senses used in, [[sb/2/2/22#purport|SB 2.2.22]], [[sb/2/2/31#purport|SB 2.2.31]], [[sb/2/3/20#purport|SB 2.3.20]], [[sb/2/9/36#purport|SB 2.9.36]]
+* senses used in, 27, [[bg/2/58|Bg. 2.58]], [[bg/2/64|Bg. 2.64]], [[bg/5/8–11|Bg. 5.8–11]], [[bg/6/18|Bg. 6.18]], [[bg/6/26|Bg. 6.26]], [[bg/8/8|Bg. 8.8]], [[bg/12/9|Bg. 12.9]], [[bg/13/8|Bg. 13.8]] (7)
 * senses worthless without, [[sb/4/31/11-11#purport|SB 4.31.11-11]]
 * sentimental, [[sb/3/29/2#purport|SB 3.29.2]]
 * seriousness in, [[bg/15/6|Bg. 15.6]]
@@ -1023,6 +1166,7 @@
 * sinners saved by, [[sb/4/14/46#purport|SB 4.14.46]]
 * sins absolved via, [[sb/9/9/6#purport|SB 9.9.6]]
 * sins committed by one situated in, [[sb/5/19/13#purport|SB 5.19.13]]
+* situated in, [[sb/5/7/11#purport|SB 5.7.11]]
 * Śiva exemplary in, [[sb/4/6/35#purport|SB 4.6.35]]
 * smaraṇam process in, [[sb/4/6/33#purport|SB 4.6.33]]
 * society needs, [[sb/1/18/8#purport|SB 1.18.8]], [[sb/7/7/53#purport|SB 7.7.53]], [[sb/7/9/17#purport|SB 7.9.17]]
@@ -1034,7 +1178,7 @@
 * spiritual body for, [[sb/2/2/17#purport|SB 2.2.17]]
 * spiritual energies connect with Lord via, SB Intro 23
 * spiritual eyes opened by, [[sb/3/9/37#purport|SB 3.9.37]]
-* *See:* Spirituals master 
+* spiritual master bestows, [[sb/1/5/39#purport|SB 1.5.39]]
 * spiritual master guides, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 * spiritual master motivates, [[sb/4/8/40#purport|SB 4.8.40]]
 * spiritual master needed for, [[sb/2/8/7#purport|SB 2.8.7]]
@@ -1050,42 +1194,66 @@
 * spiritualiīng effect of, [[sb/4/6/25#purport|SB 4.6.25]]
 * spiritualizes all, [[sb/1/5/23#purport|SB 1.5.23]], [[sb/1/5/33#purport|SB 1.5.33]]
 * spontaneous & regulative, [[sb/4/28/30#purport|SB 4.28.30]]
-* spontaneous, [[bg/8/28|Bg. 8.28]], [[sb/2/3/11#purport|SB 2.3.11]], [[sb/3/28/34#purport|SB 3.28.34]], [[sb/3/29/12#purport|SB 3.29.12]], [[sb/3/7/14#purport|SB 3.7.14]], [[sb/5/18/21#purport|SB 5.18.21]]
+* spontaneous, [[bg/8/28|Bg. 8.28]], [[sb/2/3/11#purport|SB 2.3.11]], [[sb/3/7/14#purport|SB 3.7.14]], [[sb/3/28/34#purport|SB 3.28.34]], [[sb/3/29/12#purport|SB 3.29.12]], [[sb/5/18/21#purport|SB 5.18.21]]
 * Śrīmad-Bhāgavatam guide for, [[sb/1/12/28#purport|SB 1.12.28]]
 * stages of development of, [[sb/3/25/18-18#purport|SB 3.25.18-18]], [[sb/3/25/25-25#purport|SB 3.25.25-25]], [[sb/3/27/21-21#purport|SB 3.27.21-21]]
-* stages of, [[bg/4/10|Bg. 4.10]], [[bg/10/9|Bg. 10.9]], [[bg/18/55|Bg. 18.55]], [[sb/1/5/25#purport|SB 1.5.25]], [[sb/1/6/16#purport|SB 1.6.16]], [[sb/10/3/31#purport|SB 10.3.31]], [[sb/10/3/37-38#purport|SB 10.3.37-38]], [[sb/2/7/19#purport|SB 2.7.19]], [[sb/3/2/5#purport|SB 3.2.5]], [[sb/4/28/30#purport|SB 4.28.30]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/39-40#purport|SB 4.29.39-40]]
+* stages of, [[bg/4/10|Bg. 4.10]], [[bg/10/9|Bg. 10.9]], [[bg/18/55|Bg. 18.55]], [[sb/1/5/25#purport|SB 1.5.25]], [[sb/1/6/16#purport|SB 1.6.16]], [[sb/2/7/19#purport|SB 2.7.19]], [[sb/3/2/5#purport|SB 3.2.5]], [[sb/4/28/30#purport|SB 4.28.30]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/10/3/31#purport|SB 10.3.31]], [[sb/10/3/37-38#purport|SB 10.3.37-38]]
 * steadiness in, [[bg/6/23|Bg. 6.23]], [[bg/6/26|Bg. 6.26]], [[bg/7/1|Bg. 7.1]], [[bg/7/30|Bg. 7.30]], [[bg/8/28|Bg. 8.28]], [[bg/9/22|Bg. 9.22]], [[bg/10/1|Bg. 10.1]], [[bg/10/7–9|Bg. 10.7–9]], [[bg/18/33|Bg. 18.33]]
+* stepbrothers of, &, [[sb/5/9/8#purport|SB 5.9.8]]
+* subordinate to, [[sb/4/20/30#purport|SB 4.20.30]]
 * subtle body dissolved via, [[sb/3/25/33#purport|SB 3.25.33]]
 * success in, [[bg/6/24|Bg. 6.24]], [[sb/7/7/29#purport|SB 7.7.29]]
-* success via, [[sb/10/6/37-38#purport|SB 10.6.37-38]], [[sb/5/1/15#purport|SB 5.1.15]]
+* success via, [[sb/5/1/15#purport|SB 5.1.15]], [[sb/10/6/37-38#purport|SB 10.6.37-38]]
 * suffering cured via, [[sb/7/9/17-17#purport|SB 7.9.17-17]]
 * superexcellence of, [[sb/1/19/19#purport|SB 1.19.19]], [[sb/2/4/19#purport|SB 2.4.19]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/3/23/9#purport|SB 3.23.9]], [[sb/7/8/42#purport|SB 7.8.42]]
 * superior to religiosity, [[sb/1/5/9#purport|SB 1.5.9]]
 * superiority of, [[sb/4/31/12-12#purport|SB 4.31.12-12]], [[sb/5/5/14#purport|SB 5.5.14]]
 * supreme destination for anyone in, [[bg/9/32|Bg. 9.32]]
+* surpassed by, [[sb/5/5/14#purport|SB 5.5.14]]
 * surpasses oneness with Lord, [[sb/3/15/43#purport|SB 3.15.43]]
-* surrender as perfection of, N103 
-* surrender in, [[sb/10/7/31#purport|SB 10.7.31]]
-* *See:* [[s#Surrender|Surrender]] 
-* surrender in. See: Surrender 
+* surrender as perfection of, N103
+* surrender in. See: Surrender, [[sb/10/7/31#purport|SB 10.7.31]]
 * surrendered mood of, [[bg/5/10|Bg. 5.10]], [[bg/9/28|Bg. 9.28]]
 * surrendering oneself in, [[sb/2/7/46#purport|SB 2.7.46]]
 * sustains one’s existence, [[sb/1/2/6#purport|SB 1.2.6]]
 * symptoms of, two described, [[sb/3/32/36#purport|SB 3.32.36]]
 * taste for, [[sb/4/22/21#purport|SB 4.22.21]]
 * teacher of, Lord as, [[sb/4/30/30#purport|SB 4.30.30]]
+* teaches caution in, [[sb/5/8/29#purport|SB 5.8.29]]
+* teaches, [[sb/4/30/30#purport|SB 4.30.30]]
 * theory & practice of, [[sb/2/3/22#purport|SB 2.3.22]]
 * three stages of, [[sb/3/14/48#purport|SB 3.14.48]]
 * throughout life, [[bg/8/10|Bg. 8.10]]
 * time doesn’t affect, [[sb/4/24/56#purport|SB 4.24.56]]
 * time utilized in, [[sb/2/3/24#purport|SB 2.3.24]]
+* to arrow, [[sb/3/25/29#purport|SB 3.25.29]]
+* to creeper, [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/22/23#purport|SB 4.22.23]]
+* to curing eyes, [[sb/2/9/39#purport|SB 2.9.39]]
 * to devotees of Lord, liberation by, [[sb/3/25/20-20#purport|SB 3.25.20-20]]
+* to eating, [[sb/3/32/36#purport|SB 3.32.36]]
+* to electricity, [[sb/4/3/23#purport|SB 4.3.23]]
+* to feeding stomach, [[sb/3/29/35#purport|SB 3.29.35]], [[sb/4/31/14-14#purport|SB 4.31.14-14]]
+* to fire in stomach, [[sb/3/25/33#purport|SB 3.25.33]]
+* to fire of digestion, [[sb/4/23/11#purport|SB 4.23.11]]
+* to fire, [[sb/4/3/23#purport|SB 4.3.23]]
+* to heated iron, [[sb/4/3/23#purport|SB 4.3.23]]
 * to Kṛṣṇa’s form, [[bg/12/1|Bg. 12.1]], [[bg/12/2|Bg. 12.2]]
-* to spiritual master 
+* to main river, [[sb/3/32/37#purport|SB 3.32.37]]
+* to mango, [[sb/4/9/11#purport|SB 4.9.11]]
+* to queen, [[sb/4/23/11#purport|SB 4.23.11]]
+* to razor’s edge, [[sb/3/26/23-24#purport|SB 3.26.23-24]]
+* to river’s waves, [[sb/4/9/11-11#purport|SB 4.9.11-11]]
+* to sea’s waves, [[sb/4/22/39#purport|SB 4.22.39]]
+* to sitting on lotus flower, [[sb/2/9/9#purport|SB 2.9.9]]
 * to spiritual master, [[sb/3/29/17#purport|SB 3.29.17]]
 * to spiritual master’s instructions, [[sb/4/28/51#purport|SB 4.28.51]]
+* to sun’s illumination, [[sb/2/9/4#purport|SB 2.9.4]]
 * to Supersoul, [[bg/6/31|Bg. 6.31]]
+* to watering root of tree, [[sb/4/31/14#purport|SB 4.31.14]]
+* to watering tree root, [[sb/2/9/36#purport|SB 2.9.36]]
+* to watering tree’s root, [[sb/4/12/5#purport|SB 4.12.5]], [[sb/4/12/51#purport|SB 4.12.51]]
 * tongue’s use in, [[sb/4/7/24#purport|SB 4.7.24]]
+* touchstone, [[sb/1/6/28#purport|SB 1.6.28]]
 * trance in, [[sb/2/7/31#purport|SB 2.7.31]]
 * transcendence by, [[sb/4/11/14#purport|SB 4.11.14]], [[sb/4/20/5#purport|SB 4.20.5]], [[sb/4/20/6#purport|SB 4.20.6]], [[sb/4/20/11#purport|SB 4.20.11]], [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/14#purport|SB 4.23.14]]
 * transcendental status of, SB Intro 27, SB Intro 28, [[sb/1/2/6-7#purport|SB 1.2.6-7]]
@@ -1094,10 +1262,13 @@
 * travel &, [[sb/5/5/32#purport|SB 5.5.32]]
 * truth realized via, [[sb/8/12/8#purport|SB 8.12.8]]
 * tulasī plant in, [[sb/3/15/19#purport|SB 3.15.19]]
+* two kinds of, [[sb/4/28/47#purport|SB 4.28.47]]
+* two, SB Intro 39
 * types of, [[sb/2/9/36#purport|SB 2.9.36]]
-* *See:* [[p#Pure devotional service|Pure devotional service]] 
+* types of, listed, [[sb/1/9/43#purport|SB 1.9.43]]
 * unauthorized, [[bg/7/3|Bg. 7.3]], [[sb/1/2/12#purport|SB 1.2.12]]
 * unconditional, [[sb/7/4/42#purport|SB 7.4.42]], [[sb/7/15/47#purport|SB 7.15.47]]
+* understood via, [[sb/5/1/2#purport|SB 5.1.2]], [[sb/5/3/2#purport|SB 5.3.2]], [[sb/5/3/4-5#purport|SB 5.3.4-5]], [[sb/7/6/24#purport|SB 7.6.24]], [[sb/7/7/17#purport|SB 7.7.17]], [[sb/7/7/29#purport|SB 7.7.29]], [[sb/7/7/38#purport|SB 7.7.38]], [[sb/7/9/9#purport|SB 7.9.9]], [[sb/7/9/12#purport|SB 7.9.12]], [[sb/7/9/47#purport|SB 7.9.47]], [[sb/7/9/48#purport|SB 7.9.48]], [[sb/7/9/49#purport|SB 7.9.49]]
 * unity by, [[sb/4/30/16#purport|SB 4.30.16]]
 * unity in, [[sb/4/30/8#purport|SB 4.30.8]]
 * universal propagation of, [[sb/4/8/54#purport|SB 4.8.54]]
@@ -1107,20 +1278,29 @@
 * utility principle in, [[sb/9/4/27#purport|SB 9.4.27]]
 * utility principle of, [[sb/1/18/6#purport|SB 1.18.6]]
 * utilization in, [[sb/2/2/18#purport|SB 2.2.18]], [[sb/2/6/23#purport|SB 2.6.23]]
-* value of, [[sb/7/6/1-1#purport|SB 7.6.1-1]], [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/6/19#purport|SB 7.6.19]], [[sb/7/9/26#purport|SB 7.9.26]], [[sb/8/5/48#purport|SB 8.5.48]], [[sb/8/24/15#purport|SB 8.24.15]]
+* value of, [[sb/4/28/34#purport|SB 4.28.34]], [[sb/7/6/1-1#purport|SB 7.6.1-1]], [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/6/19#purport|SB 7.6.19]], [[sb/7/9/26#purport|SB 7.9.26]], [[sb/8/5/48#purport|SB 8.5.48]], [[sb/8/24/15#purport|SB 8.24.15]]
 * varieties of, [[bg/12/2|Bg. 12.2]]
+* varṇāśrama-dharma, [[sb/3/13/11#purport|SB 3.13.11]]
 * Vedas conclude with, [[sb/2/2/34#purport|SB 2.2.34]]
 * Vedas reveal, [[sb/4/29/36-37#purport|SB 4.29.36-37]]
 * Vedas surpassed by, [[sb/7/9/49-49#purport|SB 7.9.49-49]]
 * Vedic principles of, several given, [[sb/4/27/24#purport|SB 4.27.24]]
 * Vedic principles transcended by, [[sb/5/9/6#purport|SB 5.9.6]]
+* Vedic yajñas, [[sb/3/13/38#purport|SB 3.13.38]]
+* via austerity, [[sb/5/5/1#purport|SB 5.5.1]]
 * via authority of Lord, [[sb/4/24/78#purport|SB 4.24.78]]
 * via brāhmaṇas & devotees, [[sb/4/21/39#purport|SB 4.21.39]]
 * via Caitanya, [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/5/25#purport|SB 9.5.25]]
+* via devotee’s association, [[sb/5/5/6#purport|SB 5.5.6]], [[sb/5/19/20#purport|SB 5.19.20]]
 * via disciplic succession, [[sb/7/11/4#purport|SB 7.11.4]], [[sb/8/16/24#purport|SB 8.16.24]]
+* via goodness mode, [[sb/5/14/31#purport|SB 5.14.31]]
 * via guru & Kṛṣṇa, [[sb/7/15/43-44#purport|SB 7.15.43-44]]
+* via guru’s & Kṛṣṇa’s mercy, [[sb/5/14/39#purport|SB 5.14.39]], [[sb/5/14/41#purport|SB 5.14.41]], [[sb/5/17/11#purport|SB 5.17.11]]
+* via hearing & chanting Ṛṣabhadeva’s pastimes, [[sb/5/6/16#purport|SB 5.6.16]]
+* via hearing Bhāgavatam, [[sb/5/18/11#purport|SB 5.18.11]]
 * via Kṛṣṇa & guru, [[sb/7/7/40#purport|SB 7.7.40]]
 * via Kṛṣṇa & spiritual master, [[sb/10/10/5#purport|SB 10.10.5]]
+* via Kṛṣṇa consciousness movement, [[sb/5/14/43#purport|SB 5.14.43]]
 * via meditational worship, [[sb/4/8/58#purport|SB 4.8.58]]
 * via mind, [[sb/10/3/11#purport|SB 10.3.11]]
 * via Nārada, [[sb/10/10/38#purport|SB 10.10.38]]
@@ -1132,11 +1312,16 @@
 * via reading rāsa-līlā pastime, [[sb/1/18/31#purport|SB 1.18.31]]
 * via religious principles, [[sb/7/11/2#purport|SB 7.11.2]]
 * via sampradāyas, [[sb/1/18/21#purport|SB 1.18.21]]
-* via spiritual master & Kṛṣṇa, [[sb/10/2/31#purport|SB 10.2.31]], [[sb/3/20/4#purport|SB 3.20.4]]
-* via spiritual master, [[sb/3/5/42#purport|SB 3.5.42]], [[sb/4/24/15#purport|SB 4.24.15]], [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/30/41#purport|SB 4.30.41]], [[sb/7/7/30-31#purport|SB 7.7.30-31]], [[sb/7/7/30-31#purport|SB 7.7.30-31]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/9/28-28#purport|SB 7.9.28-28]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/6/14#purport|SB 8.6.14]]
+* via service of devotees, [[sb/1/5/23#purport|SB 1.5.23]]
+* via service to devotee, [[sb/5/5/20#purport|SB 5.5.20]], [[sb/5/18/11#purport|SB 5.18.11]]
+* via spiritual master & Kṛṣṇa, [[sb/3/20/4#purport|SB 3.20.4]], [[sb/10/2/31#purport|SB 10.2.31]]
+* via spiritual master, [[sb/3/5/42#purport|SB 3.5.42]], [[sb/4/24/15#purport|SB 4.24.15]], [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/30/41#purport|SB 4.30.41]], [[sb/5/5/6#purport|SB 5.5.6]], [[sb/7/7/30-31#purport|SB 7.7.30-31]], [[sb/7/7/30-31#purport|SB 7.7.30-31]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/9/28-28#purport|SB 7.9.28-28]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/6/14#purport|SB 8.6.14]]
 * via spiritual master’s mercy, [[sb/1/19/36#purport|SB 1.19.36]]
+* via temple worship, [[sb/1/6/21#purport|SB 1.6.21]]
+* via, [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/28/41-42#purport|SB 4.28.41-42]], [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/29/1#purport|SB 4.29.1]], [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/35#purport|SB 4.29.35]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/36-37#purport|SB 4.29.36-37]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/29/79#purport|SB 4.29.79]], [[sb/4/30/10#purport|SB 4.30.10]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/5/5/10-13#purport|SB 5.5.10-13]], [[sb/5/6/1#purport|SB 5.6.1]], [[sb/5/7/11#purport|SB 5.7.11]], [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/1/17#purport|SB 5.1.17]], [[sb/5/5/10-13#purport|SB 5.5.10-13]], [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/6/6#purport|SB 5.6.6]], [[sb/5/6/17#purport|SB 5.6.17]], [[sb/5/9/3#purport|SB 5.9.3]], [[sb/5/14/38#purport|SB 5.14.38]], [[sb/5/19/13#purport|SB 5.19.13]], [[sb/5/25/9#purport|SB 5.25.9]]
 * vidhi-mārga & rāga-mārga, [[sb/4/28/30#purport|SB 4.28.30]]
 * violence in, [[bg/2/21|Bg. 2.21]]
+* virāṭ meditation, [[sb/2/2/37#purport|SB 2.2.37]]
 * Viśvanātha Cakravartī Ṭhākura quoted on auspiciousness of, [[sb/7/5/29#purport|SB 7.5.29]]
 * Vṛndāvana epitomizes, [[sb/7/1/27#purport|SB 7.1.27]]
 * waking living entity to, [[sb/4/20/25#purport|SB 4.20.25]]
@@ -1148,27 +1333,37 @@
 * wife given up for, [[sb/7/14/12#purport|SB 7.14.12]]
 * wise men practice, [[sb/7/9/49-49#purport|SB 7.9.49-49]], [[sb/7/14/36#purport|SB 7.14.36]]
 * with body & senses, in conditioned state, [[bg/12/9|Bg. 12.9]]
-* with body, mind, & intelligence first, 27 
+* with body, mind, & intelligence first, 27
 * with desire for liberation, [[bg/7/29–30|Bg. 7.29–30]]
 * with dovetailed desires, [[sb/3/28/35#purport|SB 3.28.35]], [[sb/3/28/36#purport|SB 3.28.36]], [[sb/3/29/35#purport|SB 3.29.35]]
 * with everything used for Kṛṣṇa, [[sb/3/27/13#purport|SB 3.27.13]]
+* with impersonalism, [[sb/4/31/12#purport|SB 4.31.12]]
+* with jñāna, karma, & yoga, [[sb/4/28/32#purport|SB 4.28.32]], [[sb/4/31/12-14#purport|SB 4.31.12-14]]
+* with karma-kāṇḍa, [[sb/4/8/21-22#purport|SB 4.8.21-22]]
 * with love, [[bg/9/2|Bg. 9.2]] (9), [[bg/9/26|Bg. 9.26]], [[bg/10/10|Bg. 10.10]], [[bg/11/49|Bg. 11.49]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/30/10#purport|SB 4.30.10]], [[sb/4/30/20#purport|SB 4.30.20]], [[sb/4/30/28#purport|SB 4.30.28]]
 * with material desire, [[bg/7/16|Bg. 7.16]], [[bg/7/20|Bg. 7.20]], [[bg/7/22|Bg. 7.22]], [[bg/7/29|Bg. 7.29]], [[bg/9/2|Bg. 9.2]] (10)–9.3
 * with military discipline, [[bg/3/30|Bg. 3.30]]
 * with mind, 27, [[bg/3/42|Bg. 3.42]], [[bg/6/18|Bg. 6.18]], [[bg/6/34|Bg. 6.34]], [[bg/6/36|Bg. 6.36]]
 * with prescribed duties, [[sb/3/27/21-21#purport|SB 3.27.21-21]]
 * with purified senses, [[sb/3/25/7#purport|SB 3.25.7]]
+* with religiosity, [[sb/4/29/56-57#purport|SB 4.29.56-57]]
+* with selfish work, [[sb/4/6/53#purport|SB 4.6.53]]
 * with senses purified, [[sb/3/25/44#purport|SB 3.25.44]], [[sb/3/28/34#purport|SB 3.28.34]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/31/9#purport|SB 4.31.9]]
 * with senses, [[sb/4/30/22#purport|SB 4.30.22]]
+* with yoga process, [[sb/4/31/12-13#purport|SB 4.31.12-13]]
+* with yoga, [[sb/3/29/35#purport|SB 3.29.35]]
 * without knowing God’s name, [[sb/4/1/20#purport|SB 4.1.20]]
 * women eligible for, [[sb/7/7/16#purport|SB 7.7.16]]
 * work changed to, [[sb/1/5/34#purport|SB 1.5.34]]
 * work in, [[bg/5/1|Bg. 5.1]], [[bg/12/6|Bg. 12.6]] (2), [[sb/3/20/34#purport|SB 3.20.34]], [[sb/4/30/16#purport|SB 4.30.16]]
 * world relief by, [[sb/2/9/36#purport|SB 2.9.36]]
+* worshiped via, [[sb/4/21/34#purport|SB 4.21.34]]
 * writers’ place in, [[sb/1/5/22#purport|SB 1.5.22]]
 * yoga & jñāna depend on, [[sb/1/6/35#purport|SB 1.6.35]]
 * yoga compared with, [[sb/1/18/26#purport|SB 1.18.26]], [[sb/3/29/35#purport|SB 3.29.35]]
 * yoga culminates in, [[sb/7/9/50#purport|SB 7.9.50]]
 * yoga incomplete without, [[sb/3/24/28#purport|SB 3.24.28]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; Love for God; Devotees; [[s#Supreme Lord|Supreme Lord]]; worship of; [[w#Worship|Worship]]; to Lord; [[g#God realiātion|God realiātion]]; [[l#Love|Love]]; for Kṛṣṇa; for Lord; [[s#Spiritual life|Spiritual life]]; specific types of service
+*See also:* [Detachment](entries/detachment.md); [Liberation](entries/liberation.md); [Love](entries/love.md); for Lord; [Worship](entries/worship.md); to Lord; Kṛṣṇa consciousness; Spiritual life; [Meditation](entries/meditation.md); Chantings holy name of Lord; Hearing about Lord; Devotees; association with; Supreme Lord; worship of; Devotional service; activities of; advantages of; Falldown from spiritual life; God realiātion; Hearing about Supreme Lord; for Kṛṣṇa; Love for God; Pure devotional service; specific types of service
+
+*See:* [Knowledge](entries/knowledge.md); [Liberation](entries/liberation.md); [Meditation](entries/meditation.md); Remembering in Kṛṣṇa consciousness; [Surrender](entries/surrender.md); [Worship](entries/worship.md); Chanting in Kṛṣṇa consciousness; Deities form of Supreme Lord; Deity worship; Devotees; association with; Devotional service to Supreme Lord; advantages of; Devotional service; of chanting; Hearing in Kṛṣṇa consciousness; Kṛṣṇa; relationships with; Preaching Kṛṣṇa consciousness; Pure devotional service; Spirituals master; Surrender to Supreme Lord

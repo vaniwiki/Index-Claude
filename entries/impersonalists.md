@@ -1,5 +1,7 @@
 # Impersonalist(s)
 
+[[sb/9/11/1#purport|SB 9.11.1]], [[sb/9/11/19#purport|SB 9.11.19]]
+
 * ”I” concept of, [[sb/2/9/33#purport|SB 2.9.33]]
 * ”liberation” of, [[sb/2/2/31#purport|SB 2.2.31]], [[sb/4/11/5#purport|SB 4.11.5]]
 * ”oneness” concept of, [[sb/3/29/33#purport|SB 3.29.33]]
@@ -34,7 +36,7 @@
 * as self-centered, [[sb/2/5/24#purport|SB 2.5.24]]
 * as Śiva worshipers, [[sb/4/24/23#purport|SB 4.24.23]], [[sb/4/24/50#purport|SB 4.24.50]], [[sb/4/24/51#purport|SB 4.24.51]]
 * as sparklike, [[sb/2/2/17#purport|SB 2.2.17]]
-* as transcendentalists, 3–4, 23 
+* as transcendentalists, 3–4, 23
 * attainment of Kṛṣṇa by, [[bg/12/3|Bg. 12.3]]
 * become devotees, [[sb/4/24/33#purport|SB 4.24.33]]
 * belittle chanting Hare Kṛṣṇa, [[sb/4/20/26#purport|SB 4.20.26]]
@@ -46,7 +48,7 @@
 * brahmajyoti entered by, [[sb/8/7/31#purport|SB 8.7.31]]
 * brahmajyoti meditated on by, [[sb/1/18/16#purport|SB 1.18.16]]
 * Brahman &, [[bg/17/4|Bg. 17.4]]
-* Brahman as goal of. See: Brahman 
+* Brahman as goal of. See: Brahman
 * Brahman effulgence dissatisfied, [[sb/1/9/39#purport|SB 1.9.39]]
 * Brahman misunderstood by, [[sb/8/12/8#purport|SB 8.12.8]]
 * Brahman sought by, [[sb/7/13/27#purport|SB 7.13.27]]
@@ -54,12 +56,14 @@
 * Caitanya warned against, [[sb/7/15/6#purport|SB 7.15.6]]
 * can’t know Lord, [[sb/4/7/31#purport|SB 4.7.31]]
 * can’t understand Lord’s message, [[sb/1/5/30#purport|SB 1.5.30]]
-* cannot say ”Kṛṣṇa,” SB Intro 33-34
+* cannot say ”Kṛṣṇa,”, SB Intro 33-34
 * chanting discounted by, [[sb/6/3/24#purport|SB 6.3.24]]
 * chanting of, [[sb/4/31/12#purport|SB 4.31.12]]
 * cited on impersonal Brahman, [[sb/4/22/25#purport|SB 4.22.25]]
 * commentaries by, [[bg/5/6|Bg. 5.6]], [[bg/12/1|Bg. 12.1]]
-* compared 
+* compared
+  * with *sannyāsīs,*, 5.2, [[bg/5/6|Bg. 5.6]]
+  * with devotees, [[bg/4/18|Bg. 4.18]], [[bg/5/6–7|Bg. 5.6–7]], [[bg/7/24|Bg. 7.24]] (1–5), [[bg/9/11|Bg. 9.11]] (6–8), , [[bg/9/14–15|Bg. 9.14–15]], [[bg/12/1–7|Bg. 12.1–7]]
 * compared to fish, [[sb/2/2/31#purport|SB 2.2.31]]
 * compared to Lord’s enemies, [[sb/3/2/24#purport|SB 3.2.24]]
 * compared with devotees of Lord, [[sb/3/25/34-34#purport|SB 3.25.34-34]], [[sb/3/27/24#purport|SB 3.27.24]]
@@ -67,7 +71,7 @@
 * compared with personalists, [[sb/4/7/31#purport|SB 4.7.31]]
 * conception of, [[sb/2/7/24#purport|SB 2.7.24]], [[sb/2/9/32-33#purport|SB 2.9.32-33]], [[sb/2/10/35#purport|SB 2.10.35]]
 * consciousness misinterpreted by, [[sb/3/5/45#purport|SB 3.5.45]]
-* consider 
+* consider
 * curse regarding, [[sb/4/2/28-28#purport|SB 4.2.28-28]]
 * danger of hearing from, [[bg/2/12|Bg. 2.12]]
 * defined, [[sb/1/15/42#purport|SB 1.15.42]]
@@ -79,7 +83,7 @@
 * desires of, Lord fulfills, [[sb/2/7/49#purport|SB 2.7.49]]
 * desires oneness with God, [[sb/2/7/4#purport|SB 2.7.4]], [[sb/2/9/30#purport|SB 2.9.30]]
 * destination of, [[sb/1/9/42#purport|SB 1.9.42]], [[sb/1/9/44#purport|SB 1.9.44]]
-* devotee compared with, [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/13/39#purport|SB 10.13.39]], [[sb/10/13/57#purport|SB 10.13.57]], [[sb/4/20/10#purport|SB 4.20.10]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/24/61#purport|SB 4.24.61]]
+* devotee compared with, [[sb/4/20/10#purport|SB 4.20.10]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/24/61#purport|SB 4.24.61]], [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/13/39#purport|SB 10.13.39]], [[sb/10/13/57#purport|SB 10.13.57]]
 * devotee contrasted to, [[sb/4/12/42#purport|SB 4.12.42]]
 * devotee questioned by, [[sb/4/9/11#purport|SB 4.9.11]]
 * devotee should defeat, [[sb/4/22/62#purport|SB 4.22.62]]
@@ -89,7 +93,9 @@
 * devotional service difficult for, [[sb/3/32/15#purport|SB 3.32.15]]
 * devotional service misunderstood by, [[sb/8/3/16#purport|SB 8.3.16]], [[sb/8/4/13#purport|SB 8.4.13]]
 * devotional service required for, [[sb/3/32/26#purport|SB 3.32.26]]
+* Dhruva merged in Lord, [[sb/4/8/82#purport|SB 4.8.82]]
 * difficult path of, [[sb/2/2/33#purport|SB 2.2.33]]
+* diverse creation as false, [[sb/3/32/28#purport|SB 3.32.28]]
 * eating &, [[bg/2/63|Bg. 2.63]]
 * ego as considered by, [[sb/4/24/43#purport|SB 4.24.43]]
 * equality with Lord claimed by, [[sb/4/29/26-27#purport|SB 4.29.26-27]]
@@ -108,8 +114,8 @@
 * greatest of, [[bg/7/3|Bg. 7.3]]
 * happiness &, [[bg/6/23|Bg. 6.23]]
 * happiness of, [[sb/3/6/37#purport|SB 3.6.37]]
-* hearing from, forbidden, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/3/19/33#purport|SB 3.19.33]], [[sb/3/19/37#purport|SB 3.19.37]], [[sb/3/25/34#purport|SB 3.25.34]]
 * hearing from, [[sb/4/20/24#purport|SB 4.20.24]]
+* hearing from, forbidden, [[sb/3/19/33#purport|SB 3.19.33]], [[sb/3/19/37#purport|SB 3.19.37]], [[sb/3/25/34#purport|SB 3.25.34]], [[sb/10/2/37#purport|SB 10.2.37]]
 * ignorance of, [[bg/4/10|Bg. 4.10]], [[bg/7/3/|Bg. 7.3.]] 7.24, [[bg/9/26|Bg. 9.26]], [[bg/10/20|Bg. 10.20]], [[bg/13/23|Bg. 13.23]]
 * imaginary meditation of, [[sb/3/21/8#purport|SB 3.21.8]]
 * impersonal theory of, [[sb/4/21/27#purport|SB 4.21.27]]
@@ -128,18 +134,22 @@
 * Kumāras as, [[sb/3/15/43#purport|SB 3.15.43]], [[sb/3/15/46#purport|SB 3.15.46]], [[sb/3/15/50#purport|SB 3.15.50]]
 * labor of, [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/2/32#purport|SB 10.2.32]]
 * leader of, [[bg/4/12|Bg. 4.12]], [[bg/7/24|Bg. 7.24]] (2), [[sb/1/13/30#purport|SB 1.13.30]], [[sb/3/29/14#purport|SB 3.29.14]]
-* liberation for, as difficult, [[sb/1/2/28-29#purport|SB 1.2.28-29]]
 * liberation for, [[bg/3/19|Bg. 3.19]], [[bg/4/9|Bg. 4.9]], [[bg/6/23|Bg. 6.23]], [[bg/9/2|Bg. 9.2]] (10), [[bg/9/12|Bg. 9.12]], [[bg/18/54|Bg. 18.54]], [[sb/3/27/29#purport|SB 3.27.29]], [[sb/3/29/14#purport|SB 3.29.14]], [[sb/8/4/13#purport|SB 8.4.13]], [[sb/8/12/6#purport|SB 8.12.6]]
-* Lord 
+* liberation for, as difficult, [[sb/1/2/28-29#purport|SB 1.2.28-29]]
+* Lord
+* Lord as illusioned, [[sb/3/26/9#purport|SB 3.26.9]]
 * Lord misunderstood by, [[sb/1/11/37#purport|SB 1.11.37]], [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/19/31#purport|SB 3.19.31]], [[sb/3/19/37#purport|SB 3.19.37]], [[sb/3/20/25#purport|SB 3.20.25]], [[sb/3/21/31#purport|SB 3.21.31]], [[sb/3/24/31#purport|SB 3.24.31]], [[sb/3/32/12-15#purport|SB 3.32.12-15]], [[sb/8/20/22#purport|SB 8.20.22]], [[sb/9/11/22#purport|SB 9.11.22]]
+* Lord mundane, [[sb/4/7/31#purport|SB 4.7.31]], [[sb/4/8/57#purport|SB 4.8.57]]
 * Lord not seen by, [[sb/3/15/50#purport|SB 3.15.50]]
+* Lord woman, [[sb/4/8/47#purport|SB 4.8.47]]
 * Lord’s activities rejected by, [[sb/2/1/9#purport|SB 2.1.9]]
+* Lord’s acts unbelievable, [[sb/4/7/32#purport|SB 4.7.32]]
 * Lord’s anger confuses, [[sb/2/7/24#purport|SB 2.7.24]]
 * Lord’s body misunderstood by, [[sb/4/11/25#purport|SB 4.11.25]], [[sb/4/16/2#purport|SB 4.16.2]]
 * Lord’s effulgence sought by, [[sb/8/3/12#purport|SB 8.3.12]]
 * Lord’s features convert, [[sb/3/15/43#purport|SB 3.15.43]]
 * Lord’s form ignored by, [[sb/7/1/32#purport|SB 7.1.32]]
-* Lord’s form misunderstood by, [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/13/54#purport|SB 10.13.54]], [[sb/7/9/37#purport|SB 7.9.37]]
+* Lord’s form misunderstood by, [[sb/7/9/37#purport|SB 7.9.37]], [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/13/54#purport|SB 10.13.54]]
 * Lord’s form unknown to, [[sb/1/15/35#purport|SB 1.15.35]]
 * Lord’s kindness toward, [[sb/3/15/39#purport|SB 3.15.39]]
 * Lord’s names misunderstood by, [[sb/4/29/3#purport|SB 4.29.3]]
@@ -148,6 +158,7 @@
 * Lord’s self-worship imitated by, [[sb/9/11/1#purport|SB 9.11.1]]
 * loveless, [[sb/3/9/42#purport|SB 3.9.42]]
 * main misconception of, [[sb/2/6/39#purport|SB 2.6.39]]
+* material life as pastime, [[sb/3/26/7#purport|SB 3.26.7]], [[sb/3/26/8#purport|SB 3.26.8]]
 * material world returned to by, [[sb/5/5/5#purport|SB 5.5.5]]
 * māyā as explained by, [[sb/4/16/2#purport|SB 4.16.2]]
 * māyā as seen by, [[sb/10/13/57#purport|SB 10.13.57]]
@@ -159,6 +170,7 @@
 * merging with God desired by, [[sb/4/23/10#purport|SB 4.23.10]]
 * minimize Lord, [[sb/1/2/28-29#purport|SB 1.2.28-29]]
 * misconceive Lord as formless, [[sb/6/9/34#purport|SB 6.9.34]]
+* misinterpreted by, [[sb/3/4/13#purport|SB 3.4.13]], [[sb/3/5/23#purport|SB 3.5.23]]
 * mistake living entity for Lord (Supersoul), [[sb/3/29/34#purport|SB 3.29.34]]
 * modes of nature influence, [[sb/2/1/20#purport|SB 2.1.20]]
 * monist’s vision, [[sb/4/7/38#purport|SB 4.7.38]]
@@ -166,6 +178,8 @@
 * Nārāyaṇa offended by, [[sb/4/30/36#purport|SB 4.30.36]]
 * negation by, [[sb/7/1/11#purport|SB 7.1.11]], [[sb/7/10/8#purport|SB 7.10.8]]
 * not intelligent, [[bg/7/24|Bg. 7.24]]
+* not understood by, [[sb/4/24/50#purport|SB 4.24.50]], [[sb/4/24/60#purport|SB 4.24.60]]
+* offended by, [[sb/3/4/20#purport|SB 3.4.20]], [[sb/4/20/27#purport|SB 4.20.27]], [[sb/4/21/27#purport|SB 4.21.27]]
 * offensive but elevated, [[sb/6/14/5#purport|SB 6.14.5]]
 * offensive to Lord, [[sb/4/8/57#purport|SB 4.8.57]]
 * oṁ misunderstood by, [[sb/8/3/2#purport|SB 8.3.2]]
@@ -178,7 +192,7 @@
 * partial knowledge of, [[sb/2/6/21#purport|SB 2.6.21]]
 * personalists stronger than, [[sb/3/14/32#purport|SB 3.14.32]]
 * personalists vs., [[sb/2/2/12#purport|SB 2.2.12]], [[sb/2/4/14#purport|SB 2.4.14]], [[sb/2/5/20#purport|SB 2.5.20]], [[sb/2/6/32#purport|SB 2.6.32]], [[sb/2/6/39#purport|SB 2.6.39]]
-* philosophy of, [[bg/1/15|Bg. 1.15]], [[bg/2/7|Bg. 2.7]], [[bg/2/12|Bg. 2.12]], [[bg/3/19|Bg. 3.19]], [[bg/6/23|Bg. 6.23]], [[bg/9/11|Bg. 9.11]] (7), [[bg/9/33|Bg. 9.33]], [[bg/11/52|Bg. 11.52]], [[sb/10/13/39#purport|SB 10.13.39]], [[sb/2/6/40-41#purport|SB 2.6.40-41]], [[sb/4/24/17#purport|SB 4.24.17]], [[sb/6/16/57#purport|SB 6.16.57]], [[sb/6/17/31#purport|SB 6.17.31]], [[sb/8/16/55#purport|SB 8.16.55]], [[sb/8/19/39#purport|SB 8.19.39]]
+* philosophy of, [[bg/1/15|Bg. 1.15]], [[bg/2/7|Bg. 2.7]], [[bg/2/12|Bg. 2.12]], [[bg/3/19|Bg. 3.19]], [[bg/6/23|Bg. 6.23]], [[bg/9/11|Bg. 9.11]] (7), [[bg/9/33|Bg. 9.33]], [[bg/11/52|Bg. 11.52]], [[sb/2/6/40-41#purport|SB 2.6.40-41]], [[sb/4/24/17#purport|SB 4.24.17]], [[sb/6/16/57#purport|SB 6.16.57]], [[sb/6/17/31#purport|SB 6.17.31]], [[sb/8/16/55#purport|SB 8.16.55]], [[sb/8/19/39#purport|SB 8.19.39]], [[sb/10/13/39#purport|SB 10.13.39]]
 * philosophy of, compared with Vaiṣṇava philosophy, [[sb/5/10/21#purport|SB 5.10.21]]
 * prayers of, [[sb/3/9/39#purport|SB 3.9.39]], [[sb/6/9/47#purport|SB 6.9.47]]
 * propaganda of, [[sb/2/1/33#purport|SB 2.1.33]], [[sb/2/2/21#purport|SB 2.2.21]]
@@ -187,16 +201,16 @@
 * quoted on spirit & matter, [[sb/10/13/39#purport|SB 10.13.39]]
 * quoted on truth & untruth, [[sb/8/19/39#purport|SB 8.19.39]]
 * refuted, [[sb/6/16/52#purport|SB 6.16.52]]
+* refutes, [[sb/3/11/38#purport|SB 3.11.38]]
 * sacrifice by, [[bg/4/25|Bg. 4.25]]
 * salvation eludes, [[sb/7/1/32#purport|SB 7.1.32]], [[sb/7/1/35#purport|SB 7.1.35]]
 * Śaṅkarācārya &, [[sb/3/29/14#purport|SB 3.29.14]]
 * Śaṅkarācārya as, [[bg/4/12|Bg. 4.12]]
 * sāyujya-mukti attained by, [[sb/7/5/35#purport|SB 7.5.35]]
-*  [[sb/9/11/1#purport|SB 9.11.1]], [[sb/9/11/19#purport|SB 9.11.19]]
 * scriptures misinterpreted by, [[sb/2/5/24#purport|SB 2.5.24]]
 * scriptures misunderstood by, [[sb/3/25/34#purport|SB 3.25.34]]
 * scriptures of, [[bg/5/6|Bg. 5.6]]
-* see 
+* see
 * self-realiātion misunderstood by, [[sb/7/9/35#purport|SB 7.9.35]]
 * senseless goal of, [[sb/2/9/39#purport|SB 2.9.39]]
 * senses ”stopped” by, [[sb/3/7/13#purport|SB 3.7.13]]
@@ -204,15 +218,17 @@
 * sex life encouraged by, [[sb/1/1/1#purport|SB 1.1.1]]
 * silent, [[sb/3/24/42#purport|SB 3.24.42]]
 * Śiva worshiped by, [[sb/3/14/24#purport|SB 3.14.24]], [[sb/3/14/28#purport|SB 3.14.28]], [[sb/8/7/31#purport|SB 8.7.31]]
+* soul as inactive, [[sb/3/28/44#purport|SB 3.28.44]]
 * soul misunderstood by, [[sb/4/28/62#purport|SB 4.28.62]], [[sb/4/28/63#purport|SB 4.28.63]]
 * spiritual suicide by, [[sb/3/14/24#purport|SB 3.14.24]]
-* Śrīmad-Bhāgavatam 
+* Śrīmad-Bhāgavatam
 * Śrīmad-Bhāgavatam misinterpreted by, [[sb/2/9/36-37#purport|SB 2.9.36-37]]
 * struggle for realiātion, [[sb/3/5/46#purport|SB 3.5.46]], [[sb/3/5/47#purport|SB 3.5.47]]
 * Supersoul misunderstood by, [[sb/4/28/62#purport|SB 4.28.62]]
 * Supreme as liberation for, [[bg/3/19|Bg. 3.19]]
 * Supreme Brahman misunderstood by, [[sb/4/11/17#purport|SB 4.11.17]]
 * Supreme Lord misunderstood by, [[sb/3/20/8#purport|SB 3.20.8]]
+* themselves one with Lord, [[sb/3/29/9#purport|SB 3.29.9]]
 * theory of, refuted, [[sb/3/15/33#purport|SB 3.15.33]], [[sb/3/21/19#purport|SB 3.21.19]]
 * thought process of, [[sb/3/9/21#purport|SB 3.9.21]]
 * types of, two, [[sb/4/28/40#purport|SB 4.28.40]]
@@ -227,4 +243,4 @@
 * worship to Lord necessary for, [[sb/2/3/10#purport|SB 2.3.10]]
 * yoga polluted by, [[sb/3/21/12#purport|SB 3.21.12]]
 
-*See also:* [[b#Brahman|Brahman]]; [[b#Brahmajyoti|Brahmajyoti]]; [[i#Impersonalism|Impersonalism]]; [[a#Atheists|Atheists]]; [[j#Jñānīs|Jñānīs]]; [[m#Monists|Monists]]; Philosophers; speculative; [[m#Monism|Monism]]; [[p#Prakāśānanda Sarasvatī|Prakāśānanda Sarasvatī]]; [[s#Śaṅkara sampradāya|Śaṅkara sampradāya]]
+*See also:* [Brahman](entries/brahman.md); [Brahmajyoti](entries/brahmajyoti.md); [Impersonalism](entries/impersonalism.md); [Monism](entries/monism.md); Philosophers; speculative; Prakāśānanda Sarasvatī; Śaṅkara sampradāya; Atheists; Jñānīs; Monists

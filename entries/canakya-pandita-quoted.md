@@ -1,6 +1,7 @@
 # Cāṇakya Paṇḍita quoted
 
 * Cāṇaka-śloka, [[sb/8/20/7#purport|SB 8.20.7]]
+* necessity of, [[sb/6/14/12#purport|SB 6.14.12]]
 * on beautiful wife as enemy, [[sb/4/27/1#purport|SB 4.27.1]]
 * on brief life & worthy deeds, [[sb/9/13/3#purport|SB 9.13.3]]
 * on equality, [[sb/6/7/30#purport|SB 6.7.30]]
@@ -13,10 +14,11 @@
 * on possessions, [[sb/8/20/7#purport|SB 8.20.7]]
 * on renouncing household life, [[sb/9/4/29#purport|SB 9.4.29]]
 * on reputation, [[sb/8/20/8#purport|SB 8.20.8]]
-* on sons 
+* on sons
 * on temporary possessions, good use of, [[sb/6/9/55#purport|SB 6.9.55]]
 * on time’s value, [[sb/6/5/19#purport|SB 6.5.19]]
 * on wife of another, [[sb/8/9/4#purport|SB 8.9.4]]
 * on wife, [[sb/9/14/21#purport|SB 9.14.21]], [[sb/9/14/36#purport|SB 9.14.36]]
 * on woman & politician, [[sb/9/14/36#purport|SB 9.14.36]]
 * on women, [[sb/6/18/41#purport|SB 6.18.41]], [[sb/8/9/9#purport|SB 8.9.9]]
+* useless, [[sb/6/11/4#purport|SB 6.11.4]], [[sb/6/14/29#purport|SB 6.14.29]]

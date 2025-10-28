@@ -6,4 +6,4 @@
 * mantras counteract, [[sb/10/6/22-23#purport|SB 10.6.22-23]]
 * of beautiful women, [[sb/10/6/9#purport|SB 10.6.9]]
 
-*See also:* [[d#Disturbances|Disturbances]]
+*See also:* Disturbances

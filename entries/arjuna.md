@@ -1,35 +1,32 @@
 # Arjuna
 
-[[cc/adi/1/91#purport|Ādi 1.91]], [[cc/adi/10/134#purport|Ādi 10.134]], [[cc/adi/17/10#purport|Ādi 17.10]], [[cc/adi/7/145#purport|Ādi 7.145]], [[cc/adi/7/30#purport|Ādi 7.30]], [[cc/adi/7/48#purport|Ādi 7.48]], [[cc/adi/8/19#purport|Ādi 8.19]], [[cc/madhya/16/65#purport|Madhya 16.65]], **[[cc/madhya/19/190#translation|Madhya 19.190]]**, **[[cc/madhya/19/198–99#translation|Madhya 19.198–99]]**, [[cc/madhya/2/78#purport|Madhya 2.78]], [[cc/madhya/20/359#purport|Madhya 20.359]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, **[[cc/madhya/22/56#translation|Madhya 22.56]]**, [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/6/140#purport|Madhya 6.140]], [[cc/madhya/6/151#purport|Madhya 6.151]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/6/80#purport|Madhya 6.80]], [[cc/madhya/6/81#purport|Madhya 6.81]], **[[cc/madhya/8/146#translation|Madhya 8.146]]**, [[cc/madhya/8/43#purport|Madhya 8.43]], [[cc/madhya/9/158#purport|Madhya 9.158]], [[cc/madhya/9/279#purport|Madhya 9.279]], [[sb/3/28/18#purport|SB 3.28.18]], [[sb/7/2/34#purport|SB 7.2.34]], [[sb/8/1/12#purport|SB 8.1.12]]
+[[bg/1/4|Bg. 1.4]], [[bg/12/6|Bg. 12.6]] (2), [[cc/adi/1/91#purport|Ādi 1.91]], [[cc/adi/7/30#purport|Ādi 7.30]], [[cc/adi/7/48#purport|Ādi 7.48]], [[cc/adi/7/145#purport|Ādi 7.145]], [[cc/adi/8/19#purport|Ādi 8.19]], [[cc/adi/10/134#purport|Ādi 10.134]], [[cc/adi/17/10#purport|Ādi 17.10]], [[cc/madhya/2/78#purport|Madhya 2.78]], [[cc/madhya/4/79#purport|Madhya 4.79]], [[cc/madhya/6/80#purport|Madhya 6.80]], [[cc/madhya/6/81#purport|Madhya 6.81]], [[cc/madhya/6/140#purport|Madhya 6.140]], [[cc/madhya/6/151#purport|Madhya 6.151]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/8/43#purport|Madhya 8.43]], **[[cc/madhya/8/146#translation|Madhya 8.146]]**, [[cc/madhya/9/158#purport|Madhya 9.158]], [[cc/madhya/9/279#purport|Madhya 9.279]], [[cc/madhya/16/65#purport|Madhya 16.65]], **[[cc/madhya/19/190#translation|Madhya 19.190]]**, **[[cc/madhya/19/198–99#translation|Madhya 19.198–99]]**, [[cc/madhya/20/359#purport|Madhya 20.359]], **[[cc/madhya/22/56#translation|Madhya 22.56]]**, **[[cc/madhya/22/136#translation|Madhya 22.136]]**, [[sb/3/28/18#purport|SB 3.28.18]], [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/7/2/34#purport|SB 7.2.34]], [[sb/8/1/12#purport|SB 8.1.12]], [[sb/9/9/49#purport|SB 9.9.49]], [[sb/9/10/20#purport|SB 9.10.20]]
 
 * ”cowherdsmen” defeated, [[sb/1/15/20#purport|SB 1.15.20]]
 * “ignorance” of, [[bg/2/32|Bg. 2.32]]
-* *Bhagavad-gītā *heard by, 3–6 
-* yoga called difficult by, [[bg/6/33–34|Bg. 6.33–34]]
-* yoga for, 26 
+* *Bhagavad-gītā *heard by, 3–6
 * & Bhīṣmadeva, [[bg/16/5|Bg. 16.5]]
 * addresses Kṛṣṇa as acyuta, [[sb/4/21/12#purport|SB 4.21.12]]
 * addresses Kṛṣṇa, [[sb/1/7/22-26#purport|SB 1.7.22-26]]
 * addresses Lord as ādyam, [[sb/3/19/31#purport|SB 3.19.31]]
 * anxiety’s symptoms in, [[sb/1/14/23#purport|SB 1.14.23]], [[sb/1/14/39#purport|SB 1.14.39]], [[sb/1/14/44#purport|SB 1.14.44]]
 * arrows of, [[sb/3/2/20#purport|SB 3.2.20]]
-* as ”brāhmaṇa,” [[sb/1/15/7#purport|SB 1.15.7]]
-* as “descendant of Bharata,” 2.18, 2.30
-* as “lord of the Bharatas,” 7.11
-* as “mighty-armed,” 6.35, [[bg/10/1|Bg. 10.1]]
-* as “natural devotee,” 1.35
-* as “scion of Bharata,” 2.14, [[bg/7/27|Bg. 7.27]], [[bg/13/3|Bg. 13.3]], [[bg/18/62|Bg. 18.62]]
+* as ”brāhmaṇa,”, [[sb/1/15/7#purport|SB 1.15.7]]
+* as “descendant of Bharata,”, 2.18, 2.30
+* as “lord of the Bharatas,”, 7.11
+* as “mighty-armed,”, 6.35, [[bg/10/1|Bg. 10.1]]
+* as “natural devotee,”, 1.35
+* as “scion of Bharata,”, 2.14, [[bg/7/27|Bg. 7.27]], [[bg/13/3|Bg. 13.3]], [[bg/18/62|Bg. 18.62]]
 * as “son of Bharata,” 13,34, [[bg/14/3|Bg. 14.3]], [[bg/14/8|Bg. 14.8]], [[bg/14/9|Bg. 14.9]], [[bg/14/10|Bg. 14.10]], [[bg/15/19|Bg. 15.19]], [[bg/15/20|Bg. 15.20]], [[bg/16/1–3|Bg. 16.1–3]], [[bg/17/3|Bg. 17.3]]
-* as “son of Kuntī,” 1.16–18, [[bg/1/27|Bg. 1.27]], [[bg/2/14|Bg. 2.14]], [[bg/2/37|Bg. 2.37]], [[bg/3/9|Bg. 3.9]], [[bg/5/22|Bg. 5.22]], [[bg/6/35|Bg. 6.35]], [[bg/7/8|Bg. 7.8]], [[bg/8/6|Bg. 8.6]], [[bg/8/16|Bg. 8.16]], [[bg/9/7|Bg. 9.7]], [[bg/9/10|Bg. 9.10]], [[bg/9/23|Bg. 9.23]], [[bg/9/27|Bg. 9.27]], [[bg/9/31|Bg. 9.31]], [[bg/13/1–2|Bg. 13.1–2]], [[bg/14/4|Bg. 14.4]], [[bg/14/7|Bg. 14.7]], [[bg/16/20|Bg. 16.20]], [[bg/16/22|Bg. 16.22]], [[bg/18/48|Bg. 18.48]], [[bg/18/50|Bg. 18.50]], [[bg/18/60|Bg. 18.60]]
-* as “son of Kuru,” 6.43, [[bg/14/13|Bg. 14.13]]
-* as “son of Pāṇḍu,” 6.2, [[bg/14/22–25|Bg. 14.22–25]], [[bg/16/5|Bg. 16.5]]
-* as “son of Pṛthā,” 2.3, [[bg/2/39|Bg. 2.39]], [[bg/3/22|Bg. 3.22]], [[bg/4/11|Bg. 4.11]], [[bg/4/33|Bg. 4.33]], [[bg/6/40|Bg. 6.40]], [[bg/7/1|Bg. 7.1]], [[bg/7/10|Bg. 7.10]], [[bg/8/14|Bg. 8.14]], [[bg/9/13|Bg. 9.13]], [[bg/9/32|Bg. 9.32]], [[bg/11/5|Bg. 11.5]], [[bg/12/6–7|Bg. 12.6–7]], [[bg/16/4|Bg. 16.4]], [[bg/16/6|Bg. 16.6]], [[bg/17/26–27|Bg. 17.26–27]], [[bg/17/28|Bg. 17.28]], [[bg/18/6|Bg. 18.6]], [[bg/18/30|Bg. 18.30]], [[bg/18/31|Bg. 18.31]], [[bg/18/33|Bg. 18.33]], [[bg/18/35|Bg. 18.35]], [[bg/18/72|Bg. 18.72]]
-* as “tiger among men,” 18.4
-* as “winner of wealth,” 1.15, [[bg/12/9|Bg. 12.9]], [[bg/18/29|Bg. 18.29]]
-* as *dhanañjaya,* 1.15, [[bg/2/49|Bg. 2.49]], [[bg/7/7|Bg. 7.7]], [[bg/10/38|Bg. 10.38]]
+* as “son of Kuntī,”, 1.16–18, [[bg/1/27|Bg. 1.27]], [[bg/2/14|Bg. 2.14]], [[bg/2/37|Bg. 2.37]], [[bg/3/9|Bg. 3.9]], [[bg/5/22|Bg. 5.22]], [[bg/6/35|Bg. 6.35]], [[bg/7/8|Bg. 7.8]], [[bg/8/6|Bg. 8.6]], [[bg/8/16|Bg. 8.16]], [[bg/9/7|Bg. 9.7]], [[bg/9/10|Bg. 9.10]], [[bg/9/23|Bg. 9.23]], [[bg/9/27|Bg. 9.27]], [[bg/9/31|Bg. 9.31]], [[bg/13/1–2|Bg. 13.1–2]], [[bg/14/4|Bg. 14.4]], [[bg/14/7|Bg. 14.7]], [[bg/16/20|Bg. 16.20]], [[bg/16/22|Bg. 16.22]], [[bg/18/48|Bg. 18.48]], [[bg/18/50|Bg. 18.50]], [[bg/18/60|Bg. 18.60]]
+* as “son of Kuru,”, 6.43, [[bg/14/13|Bg. 14.13]]
+* as “son of Pāṇḍu,”, 6.2, [[bg/14/22–25|Bg. 14.22–25]], [[bg/16/5|Bg. 16.5]]
+* as “son of Pṛthā,”, 2.3, [[bg/2/39|Bg. 2.39]], [[bg/3/22|Bg. 3.22]], [[bg/4/11|Bg. 4.11]], [[bg/4/33|Bg. 4.33]], [[bg/6/40|Bg. 6.40]], [[bg/7/1|Bg. 7.1]], [[bg/7/10|Bg. 7.10]], [[bg/8/14|Bg. 8.14]], [[bg/9/13|Bg. 9.13]], [[bg/9/32|Bg. 9.32]], [[bg/11/5|Bg. 11.5]], [[bg/12/6–7|Bg. 12.6–7]], [[bg/16/4|Bg. 16.4]], [[bg/16/6|Bg. 16.6]], [[bg/17/26–27|Bg. 17.26–27]], [[bg/17/28|Bg. 17.28]], [[bg/18/6|Bg. 18.6]], [[bg/18/30|Bg. 18.30]], [[bg/18/31|Bg. 18.31]], [[bg/18/33|Bg. 18.33]], [[bg/18/35|Bg. 18.35]], [[bg/18/72|Bg. 18.72]]
+* as “tiger among men,”, 18.4
+* as “winner of wealth,”, 1.15, [[bg/12/9|Bg. 12.9]], [[bg/18/29|Bg. 18.29]]
+* as *dhanañjaya,*, 1.15, [[bg/2/49|Bg. 2.49]], [[bg/7/7|Bg. 7.7]], [[bg/10/38|Bg. 10.38]]
 * as *kṣatriya,* 26, [[bg/2/3|Bg. 2.3]], [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/2/48|Bg. 2.48]], [[bg/3/8|Bg. 3.8]], [[bg/18/47|Bg. 18.47]], [[bg/18/59|Bg. 18.59]]
-* as *mahā-bāhu, * 2.26
-* as parantapa,  2.9
+* as *mahā-bāhu, *, 2.26
 * as Āryan, [[bg/2/2|Bg. 2.2]] (6)
 * as Bhagavad-gītā’s medium, [[sb/1/18/24-25#purport|SB 1.18.24-25]]
 * as Bhārata, [[bg/2/14|Bg. 2.14]], [[bg/4/42|Bg. 4.42]]
@@ -40,23 +37,27 @@
 * as famous fighter, [[bg/2/33|Bg. 2.33]]
 * as fighter for Kṛṣṇa, [[sb/1/5/32#purport|SB 1.5.32]]
 * as free from material contamination, [[sb/1/15/28-29#purport|SB 1.15.28-29]]
-* *See:* [[a#Arjuna|Arjuna]]; Kṛṣṇa & . . . 
 * as great warrior, [[bg/2/33|Bg. 2.33]]
 * as Guḍākeśa, [[bg/2/10|Bg. 2.10]]
+  * reason known as, [[bg/1/24|Bg. 1.24]], [[bg/10/20|Bg. 10.20]]
 * as guru, [[sb/8/24/53#purport|SB 8.24.53]]
 * as householder, [[bg/3/8|Bg. 3.8]]
 * as indebted to Droṇācārya, [[sb/1/7/49#purport|SB 1.7.49]]
 * as Karṇa’s rival, [[sb/1/15/16#purport|SB 1.15.16]]
 * as Kaunteya, [[bg/2/14|Bg. 2.14]]
-* as Kṛṣṇa’s 
+* as Kṛṣṇa’s
+  * eternal devotee, [[bg/1/20|Bg. 1.20]]
+  * relative, [[bg/2/2|Bg. 2.2]] (3)
 * as Kṛṣṇa’s brother in-law, [[sb/1/15/4#purport|SB 1.15.4]]
 * as Kṛṣṇa’s disciple, [[sb/4/8/40#purport|SB 4.8.40]]
 * as Kṛṣṇa’s friend, [[sb/1/7/41#purport|SB 1.7.41]], [[sb/1/9/33-34#purport|SB 1.9.33-34]], [[sb/1/11/39#purport|SB 1.11.39]], [[sb/1/15/4-5#purport|SB 1.15.4-5]], [[sb/1/15/14#purport|SB 1.15.14]], [[sb/1/15/18-20#purport|SB 1.15.18-20]], [[sb/1/15/28#purport|SB 1.15.28]], [[sb/1/15/30-31#purport|SB 1.15.30-31]]
 * as Lord’s eternal companion, [[sb/1/14/1#purport|SB 1.14.1]]
 * as Nara of Nara-Nārāyaṇa, [[sb/4/1/59#purport|SB 4.1.59]]
 * as obedient to Lord, [[sb/2/3/10#purport|SB 2.3.10]]
-* as Parīkṣit’s grandfather, IV2 
+* as parantapa, 2.9
+* as Parīkṣit’s grandfather, IV2
 * as Pārtha, [[bg/1/25|Bg. 1.25]], 2.22, [[bg/2/32|Bg. 2.32]], [[bg/2/55|Bg. 2.55]], [[bg/3/23|Bg. 3.23]], [[bg/18/31|Bg. 18.31]]
+* as power source for, [[sb/1/15/5#purport|SB 1.15.5]], [[sb/1/15/5#purport|SB 1.15.5]], [[sb/1/15/7-8#purport|SB 1.15.7-8]], [[sb/1/15/13-14#purport|SB 1.15.13-14]], [[sb/1/15/21#purport|SB 1.15.21]]
 * as protector, [[sb/1/14/41#purport|SB 1.14.41]]
 * as Pṛthā’s son, [[bg/2/39|Bg. 2.39]]
 * as pure devotee, [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/17#purport|SB 1.15.17]]
@@ -65,7 +66,7 @@
 * as sinless, [[bg/3/3|Bg. 3.3]], [[bg/7/6|Bg. 7.6]], [[bg/15/20|Bg. 15.20]]
 * as softhearted, [[bg/1/45|Bg. 1.45]], [[bg/1/46|Bg. 1.46]]
 * as spiritual soldier, [[sb/7/13/27#purport|SB 7.13.27]]
-* as student of Kṛṣṇa, 3–4, 11, 15 
+* as student of Kṛṣṇa, 3–4, 11, 15
 * as Subhadrā’s husband, [[sb/1/13/4#purport|SB 1.13.4]], [[sb/1/16/2#purport|SB 1.16.2]]
 * as warrior, expert, [[bg/11/33|Bg. 11.33]]
 * Aśvatthāmā arrested by, [[sb/1/7/33#purport|SB 1.7.33]], [[sb/1/7/33#purport|SB 1.7.33]]
@@ -74,26 +75,35 @@
 * Aśvatthāmā spared by, [[sb/1/7/40#purport|SB 1.7.40]], [[sb/1/7/40#purport|SB 1.7.40]]
 * Aśvatthāmā’s hair cut by, [[sb/1/7/55#purport|SB 1.7.55]]
 * attachment to family exhibited by, [[bg/2/4–7|Bg. 2.4–7]], [[bg/2/9|Bg. 2.9]], [[bg/2/11|Bg. 2.11]]
+* awarded to, [[sb/1/15/7#purport|SB 1.15.7]], [[sb/1/15/16#purport|SB 1.15.16]]
 * Balarama angry at, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
-*  [[bg/1/4|Bg. 1.4]], [[bg/12/6|Bg. 12.6]] (2), [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/9/9/49#purport|SB 9.9.49]], [[sb/9/10/20#purport|SB 9.10.20]]
 * Bhagavad-gītā revealed to, [[sb/1/8/42#purport|SB 1.8.42]], [[sb/1/12/19#purport|SB 1.12.19]]
 * Bhagavad-gītā spoken to, [[sb/5/10/18#purport|SB 5.10.18]]
 * Bhīṣma above, [[sb/1/14/42#purport|SB 1.14.42]]
 * bodily distress of, [[bg/1/28–30|Bg. 1.28–30]]
-* bow of, [[sb/1/15/13#purport|SB 1.15.13]], [[sb/1/15/21#purport|SB 1.15.21]], [[sb/3/1/38#purport|SB 3.1.38]]
-* bow of,  1.29
+* bow of, 1.29, [[sb/1/15/13#purport|SB 1.15.13]], [[sb/1/15/21#purport|SB 1.15.21]], [[sb/3/1/38#purport|SB 3.1.38]]
 * brahmāstras controlled by, [[sb/1/7/29-32#purport|SB 1.7.29-32]]
+* brother in-law of, [[sb/1/15/4#purport|SB 1.15.4]]
 * chariot of, [[bg/1/14|Bg. 1.14]], [[bg/1/20–24|Bg. 1.20–24]], [[bg/1/46|Bg. 1.46]], [[bg/11/13|Bg. 11.13]]
+  * flag of, [[bg/1/20|Bg. 1.20]]
+* charioteer of, [[sb/1/9/19#purport|SB 1.9.19]], [[sb/1/9/33#purport|SB 1.9.33]], [[sb/1/9/35#purport|SB 1.9.35]], [[sb/1/9/39#purport|SB 1.9.39]], [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/17#purport|SB 1.15.17]]
 * chastised by Kṛṣṇa, [[sb/7/2/60#purport|SB 7.2.60]]
+* chastised, [[sb/1/9/26#purport|SB 1.9.26]]
 * circumambulates Lord, [[sb/1/7/29#purport|SB 1.7.29]]
 * cited on Kṛṣṇa’s supremacy, [[sb/1/15/44#purport|SB 1.15.44]]
 * cited on unwanted population, [[sb/3/17/15#purport|SB 3.17.15]]
-* compared 
+* compared
+  * to bird in tree, [[bg/2/22|Bg. 2.22]]
+  * to calf, 30
+  * to unhungry cook, [[bg/1/31|Bg. 1.31]]
+  * with Lord, [[bg/2/13|Bg. 2.13]]
 * compassion of, [[bg/1/27|Bg. 1.27]], [[bg/1/36|Bg. 1.36]], [[bg/1/45|Bg. 1.45]], [[bg/2/1|Bg. 2.1]], [[bg/2/2|Bg. 2.2]] (6), [[bg/2/36|Bg. 2.36]]
+  * doubted, [[bg/2/35|Bg. 2.35]]
 * conchshell sounded by, [[bg/1/14–15|Bg. 1.14–15]]
 * confusion of, [[bg/2/6–8|Bg. 2.6–8]], [[bg/3/2|Bg. 3.2]], [[bg/5/1|Bg. 5.1]]
+* conquered by, [[sb/1/15/8#purport|SB 1.15.8]]
 * criticized by Lord, [[bg/2/11|Bg. 2.11]]
-* demigods 
+* demigods
 * demigods &, [[bg/2/33|Bg. 2.33]]
 * descendants of, [[sb/1/12/21#purport|SB 1.12.21]]
 * detachment of, [[bg/2/6|Bg. 2.6]], [[sb/3/32/25#purport|SB 3.32.25]]
@@ -102,7 +112,7 @@
 * dilemma of, [[sb/1/7/52#purport|SB 1.7.52]]
 * divine qualities of, [[bg/16/5|Bg. 16.5]], [[bg/16/6|Bg. 16.6]]
 * doubts of, [[bg/8/1|Bg. 8.1]], [[bg/8/2|Bg. 8.2]], [[bg/18/1|Bg. 18.1]], [[bg/18/73|Bg. 18.73]]
-* Draupadī 
+* Draupadī
 * Draupadī married, [[sb/9/20/15#purport|SB 9.20.15]]
 * Droṇācārya &, [[bg/2/30|Bg. 2.30]], [[bg/11/49|Bg. 11.49]], [[bg/16/5|Bg. 16.5]]
 * Droṇācārya teacher of, [[sb/1/12/21#purport|SB 1.12.21]]
@@ -111,23 +121,34 @@
 * duty &, 25, [[bg/2/7|Bg. 2.7]], [[bg/2/15|Bg. 2.15]], [[bg/2/27|Bg. 2.27]], [[bg/2/31–33|Bg. 2.31–33]], [[bg/2/39|Bg. 2.39]] (1), [[bg/2/47–48|Bg. 2.47–48]], [[bg/3/8|Bg. 3.8]]
 * example of, 3–6, [[bg/1/1|Bg. 1.1]], [[bg/10/13|Bg. 10.13]], [[bg/10/15|Bg. 10.15]]
 * faith of, 14, [[bg/2/7|Bg. 2.7]], [[bg/4/4|Bg. 4.4]]
-* *See:* [[a#Arjuna|Arjuna]]; relatives & 
 * father of, [[bg/2/33|Bg. 2.33]], [[bg/10/37|Bg. 10.37]], [[sb/1/12/21#purport|SB 1.12.21]]
 * fears of, [[bg/2/26|Bg. 2.26]], [[bg/2/28|Bg. 2.28]], [[bg/2/30|Bg. 2.30]], [[bg/11/13|Bg. 11.13]], [[bg/11/24–25|Bg. 11.24–25]], [[bg/11/35|Bg. 11.35]], [[bg/11/45|Bg. 11.45]], [[bg/11/48|Bg. 11.48]], [[bg/18/59|Bg. 18.59]]
-* fighting by 
+* fighting by
+  * abstinence from, [[bg/5/7|Bg. 5.7]]
+  * agreed to, [[bg/2/71|Bg. 2.71]], [[bg/18/73|Bg. 18.73]]
+  * as justified, [[bg/2/21|Bg. 2.21]]
+  * detachment from results of, [[bg/2/38|Bg. 2.38]]
+  * duty of, [[bg/2/32–38|Bg. 2.32–38]]
+  * Kṛṣṇa desired, [[bg/2/71|Bg. 2.71]], [[bg/3/19|Bg. 3.19]]
+  * Kṛṣṇa encourages, [[bg/2/18|Bg. 2.18]], [[bg/2/47–48|Bg. 2.47–48]], [[bg/3/37|Bg. 3.37]], [[bg/4/42|Bg. 4.42]], [[bg/11/32|Bg. 11.32]], [[bg/11/33–34|Bg. 11.33–34]], [[bg/18/60–61|Bg. 18.60–61]]
+  * Kṛṣṇa orders, [[bg/3/30|Bg. 3.30]]
+  * Kṛṣṇa required, [[bg/2/19|Bg. 2.19]], [[bg/2/21|Bg. 2.21]], [[bg/2/27|Bg. 2.27]], [[bg/2/31–38|Bg. 2.31–38]], [[bg/2/39|Bg. 2.39]] (1), [[bg/2/47|Bg. 2.47]], [[bg/2/48|Bg. 2.48]]
+  * rejected, 15, [[bg/1/31–45|Bg. 1.31–45]], [[bg/2/4–6|Bg. 2.4–6]], [[bg/2/9|Bg. 2.9]]
+  * reputation of, [[bg/2/33|Bg. 2.33]]
 * fish target pierced by, [[sb/1/15/7#purport|SB 1.15.7]], [[sb/1/15/16#purport|SB 1.15.16]]
 * following in footsteps of, [[bg/18/65|Bg. 18.65]], [[bg/18/74|Bg. 18.74]]
 * forgetfulness displayed by, [[bg/2/20|Bg. 2.20]], [[bg/4/5|Bg. 4.5]], [[bg/18/59|Bg. 18.59]]
 * forgiving toward Kurus, [[bg/1/35–36|Bg. 1.35–36]]
 * forms of Lord shown to, [[bg/11/55|Bg. 11.55]] (6)
+* fought for by, [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/22/50#purport|SB 4.22.50]], [[sb/4/24/78#purport|SB 4.24.78]]
 * fought for Kṛṣṇa, [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/1/53#purport|SB 10.1.53]]
 * fought for Lord, [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/22/50#purport|SB 4.22.50]], [[sb/4/24/78#purport|SB 4.24.78]]
+* friend of, [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/5#purport|SB 1.15.5]], [[sb/1/15/14#purport|SB 1.15.14]], [[sb/1/15/18-20#purport|SB 1.15.18-20]], [[sb/1/15/28#purport|SB 1.15.28]], [[sb/1/15/30-31#purport|SB 1.15.30-31]]
 * friends of, [[bg/1/25|Bg. 1.25]]
 * Gāṇḍīva weapon of, [[sb/1/9/15#purport|SB 1.9.15]]
 * glorified in address by Kṛṣṇa, [[bg/2/10|Bg. 2.10]], [[bg/2/30|Bg. 2.30]], [[bg/4/31|Bg. 4.31]], [[bg/4/33|Bg. 4.33]], [[bg/7/7|Bg. 7.7]], [[bg/9/3|Bg. 9.3]], [[bg/11/6|Bg. 11.6]], [[bg/11/48|Bg. 11.48]], [[bg/13/27|Bg. 13.27]], [[bg/14/12|Bg. 14.12]], [[bg/18/36|Bg. 18.36]], [[bg/18/42|Bg. 18.42]], [[bg/18/72|Bg. 18.72]]
 * glory for, [[bg/11/33|Bg. 11.33]]
 * God realiātion by, [[sb/7/9/36#purport|SB 7.9.36]]
-* *See:* [[a#Arjuna|Arjuna]]; virtues of 
 * grandfather of, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/11/49|Bg. 11.49]]
 * happiness concerns, [[bg/1/31–36|Bg. 1.31–36]]
 * heavenly planets await, [[bg/2/37|Bg. 2.37]]
@@ -136,33 +157,69 @@
 * hesitant to fight, [[bg/4/35|Bg. 4.35]], [[bg/11/33|Bg. 11.33]], [[bg/18/47|Bg. 18.47]]
 * higher planets visited by, [[sb/4/21/13#purport|SB 4.21.13]]
 * historical accounts of, [[sb/1/12/21#purport|SB 1.12.21]], [[sb/1/12/21#purport|SB 1.12.21]]
+* honored, [[sb/1/15/12#purport|SB 1.15.12]]
+* illusioned, [[sb/1/18/24-25#purport|SB 1.18.24-25]]
 * impersonalism thought foolish by, [[bg/12/1|Bg. 12.1]]
-* in “illusion,” 1.30, [[bg/2/1|Bg. 2.1]], [[bg/2/2|Bg. 2.2]] (6), [[bg/2/3|Bg. 2.3]], [[bg/2/7|Bg. 2.7]], [[bg/2/8|Bg. 2.8]], [[bg/2/11|Bg. 2.11]], [[bg/2/13|Bg. 2.13]]
-* in ”illusion,” [[sb/1/9/36#purport|SB 1.9.36]], [[sb/1/9/36#purport|SB 1.9.36]]
+* in “illusion,”, 1.30, [[bg/2/1|Bg. 2.1]], [[bg/2/2|Bg. 2.2]] (6), [[bg/2/3|Bg. 2.3]], [[bg/2/7|Bg. 2.7]], [[bg/2/8|Bg. 2.8]], [[bg/2/11|Bg. 2.11]], [[bg/2/13|Bg. 2.13]]
+* in ”illusion,”, [[sb/1/9/36#purport|SB 1.9.36]], [[sb/1/9/36#purport|SB 1.9.36]]
 * in *yoga-māyā,* 7, [[bg/4/5|Bg. 4.5]]
 * in conditioned-soul role, [[sb/1/9/36#purport|SB 1.9.36]]
 * in disciplic succession (*paramparā*), [[bg/10/14|Bg. 10.14]], [[bg/11/8|Bg. 11.8]]
 * incarnates with Kṛṣṇa, [[bg/4/5|Bg. 4.5]]
-* Indra 
+* Indra
 * Indra &, [[bg/2/33|Bg. 2.33]]
+* instructed, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/1/15/28-30#purport|SB 1.15.28-30]]
 * Jarāsandha with, [[sb/1/18/28#purport|SB 1.18.28]]
 * Jayadratha beheaded by, [[sb/1/15/16#purport|SB 1.15.16]]
 * Karṇa &, [[bg/1/8|Bg. 1.8]]
 * Karṇa killed by, [[sb/1/14/42#purport|SB 1.14.42]], [[sb/1/15/16#purport|SB 1.15.16]]
-* *See:* [[a#Arjuna|Arjuna]]; fighting by 
 * kingdom of, [[bg/1/31|Bg. 1.31]]
-* Kṛṣṇa , 
-* Kṛṣṇa &, [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/1/53#purport|SB 10.1.53]], [[sb/10/4/3#purport|SB 10.4.3]], [[sb/3/1/4#purport|SB 3.1.4]], [[sb/3/2/20#purport|SB 3.2.20]], [[sb/3/3/10#purport|SB 3.3.10]], [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/22/7#purport|SB 3.22.7]], [[sb/3/24/32#purport|SB 3.24.32]], [[sb/3/24/37#purport|SB 3.24.37]], [[sb/9/24/66#purport|SB 9.24.66]], [[sb/9/24/67#purport|SB 9.24.67]]
+* Kṛṣṇa &, [[sb/3/1/4#purport|SB 3.1.4]], [[sb/3/2/20#purport|SB 3.2.20]], [[sb/3/3/10#purport|SB 3.3.10]], [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/22/7#purport|SB 3.22.7]], [[sb/3/24/32#purport|SB 3.24.32]], [[sb/3/24/37#purport|SB 3.24.37]], [[sb/9/24/66#purport|SB 9.24.66]], [[sb/9/24/67#purport|SB 9.24.67]], [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/1/53#purport|SB 10.1.53]], [[sb/10/4/3#purport|SB 10.4.3]]
 * Kṛṣṇa chastiser of, [[sb/5/11/1#purport|SB 5.11.1]]
 * Kṛṣṇa compared with, [[sb/8/1/11#purport|SB 8.1.11]]
-* Kṛṣṇa drove chariot of, [[sb/10/9/19#purport|SB 10.9.19]], [[sb/4/12/42#purport|SB 4.12.42]]
+* Kṛṣṇa drove chariot of, [[sb/4/12/42#purport|SB 4.12.42]], [[sb/10/9/19#purport|SB 10.9.19]]
 * Kṛṣṇa instructed, [[sb/7/10/49#purport|SB 7.10.49]], [[sb/8/1/16#purport|SB 8.1.16]], [[sb/8/24/53#purport|SB 8.24.53]]
 * Kṛṣṇa instructs, [[sb/2/2/27#purport|SB 2.2.27]], [[sb/2/4/19#purport|SB 2.4.19]], [[sb/2/5/17#purport|SB 2.5.17]], [[sb/2/5/30#purport|SB 2.5.30]], [[sb/2/7/3#purport|SB 2.7.3]]
 * Kṛṣṇa satisfied by, [[sb/3/27/23#purport|SB 3.27.23]], [[sb/3/29/15#purport|SB 3.29.15]], [[sb/3/32/5#purport|SB 3.32.5]]
 * Kṛṣṇa understood by, [[sb/7/1/9#purport|SB 7.1.9]]
 * Kṛṣṇa, [[bg/7/2|Bg. 7.2]], [[bg/9/11|Bg. 9.11]] (3)
-* Kṛṣṇa’s 
+  * accepted as Lord by, [[bg/4/3|Bg. 4.3]], [[bg/11/54|Bg. 11.54]] (8), [[bg/18/63|Bg. 18.63]]
+  * addressed by, 5, [[bg/1/28–45|Bg. 1.28–45]], [[bg/10/12–18|Bg. 10.12–18]], [[bg/18/73|Bg. 18.73]]
+  * asked to show universal form by, [[bg/11/2|Bg. 11.2]], [[bg/11/3–4|Bg. 11.3–4]]
+  * begged for forgiveness by, [[bg/11/41|Bg. 11.41]]
+  * begged for tolerance by, [[bg/11/44|Bg. 11.44]]
+  * charioteer for, [[bg/7/3|Bg. 7.3]], [[bg/18/78|Bg. 18.78]] (1)
+  * chastises, [[bg/2/11|Bg. 2.11]], [[bg/2/32|Bg. 2.32]]
+  * consciousness clarified for, [[bg/3/3|Bg. 3.3]]
+  * constant companion of, [[bg/4/5|Bg. 4.5]]
+  * encourages, [[bg/9/1|Bg. 9.1]], [[bg/16/5|Bg. 16.5]], [[bg/16/6|Bg. 16.6]]
+  * instructor of, 26–27, [[bg/1/1|Bg. 1.1]], [[bg/1/15|Bg. 1.15]], [[bg/2/14|Bg. 2.14]], [[bg/2/22|Bg. 2.22]], [[bg/4/16|Bg. 4.16]]
+  * knew mind of, [[bg/1/25|Bg. 1.25]], [[bg/11/3|Bg. 11.3]]
+  * master of, [[bg/3/1|Bg. 3.1]]
+  * offers freedom from reactions for, [[bg/2/38|Bg. 2.38]]
+  * prepares, to see universal form, [[bg/11/5–8|Bg. 11.5–8]]
+  * remembered by, [[bg/11/42|Bg. 11.42]]
+  * represented by, [[bg/10/37|Bg. 10.37]]
+  * requests surrender of, [[bg/18/62|Bg. 18.62]]
+  * served, [[bg/1/21|Bg. 1.21]]
+  * shows forms to, [[bg/11/51–54|Bg. 11.51–54]]
+  * sided with, [[bg/1/1|Bg. 1.1]], [[bg/1/14|Bg. 1.14]], [[bg/1/15|Bg. 1.15]]
+  * spiritual master of, [[bg/2/7–8|Bg. 2.7–8]], [[bg/2/9|Bg. 2.9]], [[bg/2/39|Bg. 2.39]] (2)
+  * teacher of, 3, 4, 11, 14, [[bg/2/20|Bg. 2.20]], [[bg/3/2|Bg. 3.2]]
+  * understood correctly by, [[bg/10/13–15|Bg. 10.13–15]], [[bg/10/16|Bg. 10.16]]
+  * wanted, as instrument, [[bg/11/33|Bg. 11.33]]
+* Kṛṣṇa’s
+  * control of, [[bg/1/15|Bg. 1.15]]
+  * divinity &, [[bg/10/12–14|Bg. 10.12–14]], [[bg/11/1|Bg. 11.1]], [[bg/11/3|Bg. 11.3]], [[bg/11/46|Bg. 11.46]], [[bg/11/54|Bg. 11.54]] (8)
+  * form attractive to, [[bg/12/1|Bg. 12.1]]
+  * judgment on, [[bg/2/34|Bg. 2.34]]
+  * mercy on, [[bg/11/5|Bg. 11.5]], [[bg/11/8|Bg. 11.8]]
+  * relationship with, 3–4, [[bg/1/21–22|Bg. 1.21–22]], [[bg/1/25|Bg. 1.25]], [[bg/1/26|Bg. 1.26]], [[bg/2/3|Bg. 2.3]], [[bg/2/4|Bg. 2.4]], [[bg/2/10|Bg. 2.10]], [[bg/2/22|Bg. 2.22]], [[bg/2/34|Bg. 2.34]], [[bg/4/3|Bg. 4.3]], [[bg/4/25|Bg. 4.25]], [[bg/7/2|Bg. 7.2]], [[bg/9/11|Bg. 9.11]] (3), [[bg/10/13|Bg. 10.13]], [[bg/10/15|Bg. 10.15]], [[bg/11/1|Bg. 11.1]], [[bg/11/6|Bg. 11.6]], [[bg/11/14|Bg. 11.14]], [[bg/11/36|Bg. 11.36]], [[bg/11/40|Bg. 11.40]], [[bg/11/41|Bg. 11.41]], [[bg/11/45–46|Bg. 11.45–46]], [[bg/11/54|Bg. 11.54]] (9), [[bg/18/64|Bg. 18.64]], [[bg/18/65|Bg. 18.65]]
+  * supremacy accepted by, [[bg/11/54|Bg. 11.54]] (8)
 * Kṛṣṇa’s conversa	tion with, [[bg/1/21–23|Bg. 1.21–23]], [[bg/1/25|Bg. 1.25]], [[bg/1/28–45|Bg. 1.28–45]], [[bg/2/1–9|Bg. 2.1–9]], [[bg/2/11–|Bg. 2.11–]]	11.8, [[bg/11/15–49|Bg. 11.15–49]], [[bg/11/51–18/73|Bg. 11.51–18.73]]
+  * as wonderful, [[bg/18/74–77|Bg. 18.74–77]]
+  * heard by all, [[bg/2/10|Bg. 2.10]]
+  * purpose of, 7, [[bg/3/2|Bg. 3.2]], [[bg/4/4|Bg. 4.4]], [[bg/10/16–17|Bg. 10.16–17]]
 * Kṛṣṇa’s promise to be declared by, [[sb/4/22/42#purport|SB 4.22.42]]
 * Kṛṣṇa’s universal form bewildered, [[sb/10/4/3#purport|SB 10.4.3]]
 * Kṛṣṇa’s universal form feared by, [[sb/4/24/45-46#purport|SB 4.24.45-46]]
@@ -185,37 +242,73 @@
 * not envious of Lord, [[bg/9/1|Bg. 9.1]]
 * not offensive, [[bg/5/7|Bg. 5.7]]
 * not ordinary man, [[bg/11/54|Bg. 11.54]]
-* *See:* [[a#Arjuna|Arjuna]]; prayer & obeisances by 
+* on flickering mind, [[sb/10/1/42#purport|SB 10.1.42]]
+* on Supreme Brahman, [[sb/10/1/20#purport|SB 10.1.20]]
+* pacified by, [[sb/1/7/15-17#purport|SB 1.7.15-17]]
 * pacified with examples, [[bg/10/40|Bg. 10.40]]
 * Pāṇḍu father of, [[sb/1/12/21#purport|SB 1.12.21]]
 * parents of, [[sb/1/13/4#purport|SB 1.13.4]], [[sb/9/22/27-28#purport|SB 9.22.27-28]]
 * Parīkṣit compared with, [[sb/1/12/21#purport|SB 1.12.21]]
 * Paulomas & Kālakeyas killed by, [[sb/6/6/33-36#purport|SB 6.6.33-36]]
+* pleased by, [[sb/1/15/12#purport|SB 1.15.12]]
 * pleased to see universal form of Lord, [[bg/11/35–36|Bg. 11.35–36]], [[bg/11/45|Bg. 11.45]]
 * praised by Sañjaya, [[bg/18/74–78|Bg. 18.74–78]]
 * prayer & obeisances by, 5, [[bg/10/12–18|Bg. 10.12–18]], [[bg/11/14|Bg. 11.14]], [[bg/11/25–26|Bg. 11.25–26]], [[bg/11/31|Bg. 11.31]], [[bg/11/35|Bg. 11.35]], [[bg/11/36–46|Bg. 11.36–46]], [[bg/18/73|Bg. 18.73]]
 * prescribed duty of, [[sb/3/27/21#purport|SB 3.27.21]]
+* protected by, [[sb/1/15/13#purport|SB 1.15.13]], [[sb/1/15/13#purport|SB 1.15.13]]
+* protected, [[sb/1/15/4#purport|SB 1.15.4]], [[sb/1/15/16-17#purport|SB 1.15.16-17]]
 * qualifications of, 3–7, [[bg/6/33|Bg. 6.33]], [[bg/11/5|Bg. 11.5]]
-* questions by 
+* questioned by, [[sb/4/22/18#purport|SB 4.22.18]]
+* questions by
+  * for others’ benefit, [[bg/3/2|Bg. 3.2]], [[bg/4/4|Bg. 4.4]], [[bg/10/16–17|Bg. 10.16–17]]
+  * on “equivocal instructions,”, 3.2
+  * on *prakṛti, puruṣa, *etc., [[bg/13/1|Bg. 13.1]]
+  * on *tyāga & sannyāsa,*, 18.1
+  * on Brahman, [[bg/8/1|Bg. 8.1]]
+  * on demigods, [[bg/8/1|Bg. 8.1]]
+  * on devotional service vs. impersonalism, [[bg/12/1|Bg. 12.1]]
+  * on duty, [[bg/2/7|Bg. 2.7]]
+  * on faith & worship according to modes of nature, [[bg/17/1|Bg. 17.1]]
+  * on fate of unsuccessful transcendentalist, [[bg/6/37–39|Bg. 6.37–39]]
+  * on fighting’s value, [[bg/1/32–36|Bg. 1.32–36]], [[bg/3/1|Bg. 3.1]]
+  * on fruitive work, [[bg/3/1|Bg. 3.1]], [[bg/8/1|Bg. 8.1]]
+  * on knowing Lord at time of death, [[bg/8/2|Bg. 8.2]]
+  * on knowledge, object of knowledge, etc., [[bg/13/1|Bg. 13.1]]
+  * on Kṛṣṇa’s divine opulences, [[bg/10/16–18|Bg. 10.16–18]]
+  * on Lord of sacrifice, [[bg/8/2|Bg. 8.2]]
+  * on material manifestation, [[bg/8/1|Bg. 8.1]]
+  * on nature, enjoyer, & consciousness, [[bg/13/1|Bg. 13.1]]
+  * on renunciation & renounced order, [[bg/18/1|Bg. 18.1]]
+  * on renunciation vs. work in devotion, [[bg/5/1|Bg. 5.1]]
+  * on self, [[bg/8/1|Bg. 8.1]]
+  * on sin’s cause, [[bg/3/36|Bg. 3.36]]
+  * on transcendentalist’s symptoms, [[bg/2/54|Bg. 2.54]]
+  * on transcending modes of nature, [[bg/14/21|Bg. 14.21]], [[bg/14/25|Bg. 14.25]]
+  * on Vivasvān’s hearing of *Bhagavad-gītā *from Kṛṣṇa, [[bg/4/4|Bg. 4.4]]
+  * purpose of, 7, [[bg/3/2|Bg. 3.2]], [[bg/4/4|Bg. 4.4]], [[bg/10/16–17|Bg. 10.16–17]]
 * quoted on Kṛṣṇa as Supreme Brahman, [[sb/4/16/17#purport|SB 4.16.17]]
 * quoted on Kṛṣṇa, [[sb/2/9/45#purport|SB 2.9.45]]
 * quoted on Kṛṣṇa’s identity, [[sb/7/9/36#purport|SB 7.9.36]]
 * quoted on Parabrahman, [[sb/9/19/19#purport|SB 9.19.19]]
 * quoted on restless mind, [[sb/3/25/44#purport|SB 3.25.44]]
 * quoted on universal form, [[sb/3/6/35#purport|SB 3.6.35]]
-* quoted. *See: relevant verses of *Bhagavad-gītā 
-* quoted. See: Arjuna quoted 
+* quoted. *See: relevant verses of *Bhagavad-gītā
+* quoted. See: Arjuna quoted
 * rejects yoga process, [[sb/3/15/54#purport|SB 3.15.54]]
 * relatives &, 15, [[bg/1/8|Bg. 1.8]], [[bg/1/25|Bg. 1.25]], [[bg/1/26–45|Bg. 1.26–45]], [[bg/2/3|Bg. 2.3]], [[bg/2/4–7|Bg. 2.4–7]], [[bg/2/9|Bg. 2.9]], [[bg/2/11|Bg. 2.11]], [[bg/2/14|Bg. 2.14]], [[bg/2/22|Bg. 2.22]], [[bg/2/27|Bg. 2.27]], [[bg/2/39|Bg. 2.39]] (1), [[bg/9/33|Bg. 9.33]], [[bg/13/8|Bg. 13.8]] (10)
 * reluctance of, to fight, [[bg/2/2|Bg. 2.2]] (6), [[bg/2/3|Bg. 2.3]], [[bg/2/32|Bg. 2.32]], [[bg/2/39|Bg. 2.39]] (1), [[bg/11/33|Bg. 11.33]], [[bg/13/8|Bg. 13.8]] (10)
+  * Kṛṣṇa’s judgment on, [[bg/2/33|Bg. 2.33]], [[bg/11/32–34|Bg. 11.32–34]], [[bg/11/49|Bg. 11.49]]
 * renunciation proposed by, [[bg/2/5|Bg. 2.5]], [[bg/2/6|Bg. 2.6]], [[bg/2/9|Bg. 2.9]]
 * represents living entities, [[bg/18/73|Bg. 18.73]]
 * reputation of, [[bg/2/33–36|Bg. 2.33–36]]
 * Sañjaya praises, [[bg/18/74–78|Bg. 18.74–78]]
+* satisfied by, [[sb/4/21/27#purport|SB 4.21.27]]
 * satisfied Lord, [[sb/4/21/27#purport|SB 4.21.27]]
 * satisfies Lord, [[sb/3/9/12#purport|SB 3.9.12]], [[sb/3/9/41#purport|SB 3.9.41]]
+* saved, [[sb/1/8/27#purport|SB 1.8.27]], [[sb/1/9/37#purport|SB 1.9.37]], [[sb/1/14/42#purport|SB 1.14.42]]
 * self-realization destined for, [[bg/2/9|Bg. 2.9]]
 * shown forms of Lord, [[bg/11/51–54|Bg. 11.51–54]]
+  * *See also:* Arjuna; universal form & . . .
 * sinful reactions &, [[bg/1/36–44|Bg. 1.36–44]], [[bg/2/26|Bg. 2.26]], [[bg/2/38|Bg. 2.38]]
 * Śiva &, [[bg/2/33|Bg. 2.33]]
 * Śiva challenges, [[sb/3/1/38#purport|SB 3.1.38]]
@@ -225,13 +318,16 @@
 * spiritual eyes for, [[bg/11/7–8|Bg. 11.7–8]]
 * spiritual master of, Kṛṣṇa as, [[bg/2/7–8|Bg. 2.7–8]], [[bg/2/9|Bg. 2.9]]
 * spiritualized via hearing, [[sb/3/26/32#purport|SB 3.26.32]]
-* surrender by 
+* surrender by
+  * requested by Kṛṣṇa, [[bg/3/30|Bg. 3.30]], [[bg/4/15|Bg. 4.15]], [[bg/18/64|Bg. 18.64]], [[bg/18/65–66|Bg. 18.65–66]]
+  * to Kṛṣṇa, 15, [[bg/2/7–8|Bg. 2.7–8]], [[bg/2/11|Bg. 2.11]], [[bg/2/22|Bg. 2.22]]
 * surrender of, [[sb/3/27/2#purport|SB 3.27.2]]
 * Suśarmā killed by, [[sb/1/15/16#purport|SB 1.15.16]]
 * teachers of, [[bg/1/26|Bg. 1.26]], [[bg/2/4|Bg. 2.4]], [[bg/2/22|Bg. 2.22]], [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/2/33|Bg. 2.33]], [[bg/11/49|Bg. 11.49]], [[bg/16/5|Bg. 16.5]]
 * tested by Kṛṣṇa, [[sb/1/7/40#purport|SB 1.7.40]]
 * transcendence advised to, [[sb/4/20/5#purport|SB 4.20.5]]
 * universal form of Lord &, [[bg/11/1|Bg. 11.1]], [[bg/11/3–32|Bg. 11.3–32]], [[bg/11/35–50|Bg. 11.35–50]]
+  * *See also:* Universal form of Lord; Arjuna & . . .
 * universal form seen by, [[sb/2/1/24#purport|SB 2.1.24]], [[sb/2/10/35#purport|SB 2.10.35]]
 * universal form shown to, [[sb/8/21/5#purport|SB 8.21.5]]
 * victory via presence of, [[bg/18/75|Bg. 18.75]], [[bg/18/78|Bg. 18.78]]
@@ -242,5 +338,11 @@
 * weapons of yoga & knowledge of, [[bg/4/42|Bg. 4.42]]
 * weapons of, [[sb/1/9/15#purport|SB 1.9.15]], [[sb/1/12/21#purport|SB 1.12.21]]
 * wives of, [[sb/1/12/21#purport|SB 1.12.21]]
+* yoga called difficult by, [[bg/6/33–34|Bg. 6.33–34]]
+* yoga for, 26
 * Yudhiṣṭhira &, [[bg/1/15|Bg. 1.15]]
 * Yudhiṣṭhira questioned, [[sb/1/14/25-34#purport|SB 1.14.25-34]], [[sb/1/14/39-44#purport|SB 1.14.39-44]]
+
+*See also:* Draupadī; [Subhadra](entries/subhadra.md)
+
+*See:* [Arjuna](entries/arjuna.md); fighting by; Kṛṣṇa & . . .; prayer & obeisances by; relatives &; virtues of

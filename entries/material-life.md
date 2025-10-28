@@ -1,21 +1,21 @@
 # Material life
 
-* activities of, four listed, [[sb/7/13/26#purport|SB 7.13.26]]
 * activities of, [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/21/7#purport|SB 3.21.7]]
-* as ”chewing the chewed,” 22.11
-* as ”I live, you die,” 13.60
+* activities of, four listed, [[sb/7/13/26#purport|SB 7.13.26]]
+* as ”chewing the chewed,”, 22.11
+* as ”I live, you die,”, 13.60
 * as body consciousness, [[sb/7/10/2#purport|SB 7.10.2]]
 * as crocodilelike, [[sb/8/3/17#purport|SB 8.3.17]], [[sb/8/4/13#purport|SB 8.4.13]]
 * as dead end, [[sb/7/7/39#purport|SB 7.7.39]]
 * as disappointing & disillusioning, [[sb/4/27/5#purport|SB 4.27.5]]
 * as distressful, [[sb/3/28/36#purport|SB 3.28.36]]
 * as dream, [[sb/4/29/2#purport|SB 4.29.2]]b, [[sb/7/7/27-27#purport|SB 7.7.27-27]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/14/11#purport|SB 7.14.11]], [[sb/8/1/9#purport|SB 8.1.9]], [[sb/8/5/30#purport|SB 8.5.30]]
-* as fearful, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/3/23/51#purport|SB 3.23.51]], [[sb/3/33/11#purport|SB 3.33.11]], [[sb/7/6/5#purport|SB 7.6.5]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/7/13/26#purport|SB 7.13.26]]
+* as fearful, [[sb/3/23/51#purport|SB 3.23.51]], [[sb/3/33/11#purport|SB 3.33.11]], [[sb/7/6/5#purport|SB 7.6.5]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/7/13/26#purport|SB 7.13.26]], [[sb/10/7/31#purport|SB 10.7.31]]
 * as firelike, [[sb/8/7/39#purport|SB 8.7.39]]
 * as foolishness, [[sb/7/6/14#purport|SB 7.6.14]]
 * as forgetting supreme controller, [[sb/4/11/27#purport|SB 4.11.27]]
 * as ignorance, [[sb/4/25/34#purport|SB 4.25.34]], [[sb/4/29/34#purport|SB 4.29.34]], [[sb/4/29/47-47#purport|SB 4.29.47-47]], [[sb/7/7/27-27#purport|SB 7.7.27-27]]
-* as illusion, [[sb/10/6/39-40#purport|SB 10.6.39-40]], [[sb/10/7/1-2#purport|SB 10.7.1-2]], [[sb/7/6/8#purport|SB 7.6.8]], [[sb/7/13/44#purport|SB 7.13.44]]
+* as illusion, [[sb/7/6/8#purport|SB 7.6.8]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/10/6/39-40#purport|SB 10.6.39-40]], [[sb/10/7/1-2#purport|SB 10.7.1-2]]
 * as karma, [[sb/7/9/16#purport|SB 7.9.16]]
 * as lust, [[sb/7/10/3#purport|SB 7.10.3]], [[sb/7/10/8#purport|SB 7.10.8]]
 * as male-female attraction, [[sb/8/22/9#purport|SB 8.22.9]]
@@ -27,13 +27,15 @@
 * as sex life, [[sb/3/20/8#purport|SB 3.20.8]], [[sb/3/20/23#purport|SB 3.20.23]], [[sb/8/12/35#purport|SB 8.12.35]], [[sb/8/22/9#purport|SB 8.22.9]]
 * as sinful, [[bg/3/16|Bg. 3.16]], [[sb/4/29/49#purport|SB 4.29.49]], [[sb/7/7/29#purport|SB 7.7.29]], [[sb/7/13/26#purport|SB 7.13.26]]
 * as struggle, [[bg/15/7|Bg. 15.7]], [[bg/15/7|Bg. 15.7]], [[bg/15/8|Bg. 15.8]], [[sb/7/13/24#purport|SB 7.13.24]]
+  * for existence in, compared to swimming in ocean, [[bg/4/36|Bg. 4.36]]
 * as suffering, [[sb/7/7/27-27#purport|SB 7.7.27-27]], [[sb/7/7/42#purport|SB 7.7.42]], [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/22-22#purport|SB 7.9.22-22]], [[sb/7/9/25#purport|SB 7.9.25]], [[sb/7/9/41#purport|SB 7.9.41]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/7/13/31-31#purport|SB 7.13.31-31]], [[sb/7/15/47#purport|SB 7.15.47]], [[sb/8/22/9#purport|SB 8.22.9]]
 * as waste of time, [[sb/3/30/1#purport|SB 3.30.1]], [[sb/3/30/1-3#purport|SB 3.30.1-3]]
 * as waste, [[sb/7/6/7#purport|SB 7.6.7]], [[sb/7/6/8#purport|SB 7.6.8]]
 * attachment cause of, [[bg/13/21–22|Bg. 13.21–22]]
 * attachment causes, [[sb/3/25/20-20#purport|SB 3.25.20-20]]
 * attachment to, [[bg/3/29|Bg. 3.29]]
-* attachment to. See: Attachment 
+  * *See also:* Attachment
+  * by demons, [[bg/16/11|Bg. 16.11]]
 * basis of, as sex life, [[sb/3/30/28#purport|SB 3.30.28]]
 * beginning of, [[bg/7/14|Bg. 7.14]]
 * benediction for, [[sb/4/31/31#purport|SB 4.31.31]]
@@ -45,7 +47,11 @@
 * caused via material desires, [[sb/4/25/32#purport|SB 4.25.32]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/9#purport|SB 4.27.9]], [[sb/4/28/27#purport|SB 4.28.27]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/75#purport|SB 4.29.75]]
 * cessation of, as yoga’s goal, [[bg/6/15|Bg. 6.15]]
 * comfortable via sacrifice, [[bg/3/10–12|Bg. 3.10–12]]
-* compared , , 
+* compared
+  * to disease, [[bg/4/24|Bg. 4.24]]
+  * to job, [[bg/12/9|Bg. 12.9]]
+  * with actual life, [[bg/2/72|Bg. 2.72]]
+  * with spiritual life, [[bg/2/72|Bg. 2.72]], [[bg/6/40|Bg. 6.40]], [[bg/9/1|Bg. 9.1]], [[bg/9/20–21|Bg. 9.20–21]]
 * compared to dream, [[sb/10/2/15#purport|SB 10.2.15]]
 * compared to dreaming, [[sb/4/9/33#purport|SB 4.9.33]]
 * compared with spiritual life, [[sb/10/1/13#purport|SB 10.1.13]]
@@ -53,7 +59,7 @@
 * contamination by, devotional service clears, [[bg/10/11|Bg. 10.11]]
 * conveniences of, devotees given, [[sb/4/28/51#purport|SB 4.28.51]]
 * cow-keeping example of, [[sb/3/25/13#purport|SB 3.25.13]]
-* defined, [[sb/10/10/17#purport|SB 10.10.17]], [[sb/7/13/25-25#purport|SB 7.13.25-25]]
+* defined, [[sb/7/13/25-25#purport|SB 7.13.25-25]], [[sb/10/10/17#purport|SB 10.10.17]]
 * demons promote, [[sb/3/17/16-17#purport|SB 3.17.16-17]], [[sb/3/17/20#purport|SB 3.17.20]]
 * designations in, [[bg/3/29|Bg. 3.29]]
 * devotee beyond, [[sb/10/4/27#purport|SB 10.4.27]]
@@ -69,51 +75,62 @@
 * duties in, as useless, [[sb/4/27/3#purport|SB 4.27.3]]
 * education about, modern society gives only, [[bg/9/2|Bg. 9.2]] (2)
 * ego (false) causes, [[sb/3/26/26#purport|SB 3.26.26]], [[sb/3/26/61#purport|SB 3.26.61]]
-* facilities for 
-* falldown to 
+* facilities for
+  * compared to rains, [[bg/4/14|Bg. 4.14]]
+  * Lord provides, [[bg/4/14|Bg. 4.14]]
+* falldown to
+  * freedom from, via yoga, 6.20, [[bg/6/25|Bg. 6.25]]
+  * from devotional service, [[bg/9/3|Bg. 9.3]]
 * false guru perpetuates, [[sb/8/24/51#purport|SB 8.24.51]]
 * foolishness of, [[bg/8/19|Bg. 8.19]]
+* four listed, [[sb/7/13/28#purport|SB 7.13.28]], [[sb/7/14/5#purport|SB 7.14.5]]
 * four principles of, [[sb/4/4/15#purport|SB 4.4.15]]
 * freedom from, [[sb/3/21/17#purport|SB 3.21.17]], [[sb/7/7/27#purport|SB 7.7.27]], [[sb/7/7/29-29#purport|SB 7.7.29-29]], [[sb/7/7/47#purport|SB 7.7.47]], [[sb/7/9/16#purport|SB 7.9.16]], [[sb/7/9/17-17#purport|SB 7.9.17-17]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/8/19/25#purport|SB 8.19.25]], [[sb/8/20/1#purport|SB 8.20.1]]
 * frustration of, [[sb/4/30/30#purport|SB 4.30.30]]
 * frustration with, [[bg/3/37|Bg. 3.37]]
 * futility of, [[sb/7/9/23#purport|SB 7.9.23]]
-* *See:* [[h#Happiness|Happiness]] 
-* happiness in. See: Happiness 
-* *See:* [[i#Ignorance|Ignorance]] 
-* ignorance in. See: Ignorance 
-* *See:* [[i#Illusion|Illusion]] 
-* illusion of. See: Illusion 
+* happiness in. See: Happiness
+* ignorance in. See: Ignorance
+* illusion of. See: Illusion
 * illusory, [[sb/8/22/9#purport|SB 8.22.9]]
 * impersonalists’ view of, [[sb/3/26/7-8#purport|SB 3.26.7-8]]
 * in heavenly planets, [[sb/7/7/40#purport|SB 7.7.40]]
-* *See:* [[w#Western world|Western world]] 
-* in Western countries. See: Western world 
+* in Western countries. See: Western world
 * karmic reactions for, detailed, [[sb/4/29/58-78#purport|SB 4.29.58-78]]
 * laws of, [[sb/3/17/19#purport|SB 3.17.19]]
-* *See:* [[l#Liberation|Liberation]] 
-* liberation from. See: Liberation , 
+* liberation from. See: Liberation
 * limitation on, [[sb/4/29/78#purport|SB 4.29.78]]
 * lusty desires cause, [[sb/8/19/25#purport|SB 8.19.25]]
 * material consciousness causes, [[sb/3/26/7#purport|SB 3.26.7]]
 * māyā &, [[sb/4/25/36#purport|SB 4.25.36]]
 * miseries automatic in, [[sb/4/29/32#purport|SB 4.29.32]]
 * miseries of, [[bg/7/15|Bg. 7.15]] (6), [[bg/7/29|Bg. 7.29]], [[bg/13/8|Bg. 13.8]] (9), [[sb/3/31/1-31#purport|SB 3.31.1-31]]
-* miseries of. See: Suffering 
+  * *See also:* Suffering
+  * freedom from, via transcending modes, [[bg/14/20|Bg. 14.20]]
+  * named, [[bg/13/8|Bg. 13.8]]
+  * on Brahmaloka also, [[bg/8/17|Bg. 8.17]]
+  * perception of evil of, [[bg/13/8|Bg. 13.8]]
 * modern man pursues, [[sb/4/14/20#purport|SB 4.14.20]]
 * modes of nature govern, [[sb/3/25/15#purport|SB 3.25.15]]
-* necessities for 
+* necessities for
+  * controlled by Lord, [[bg/3/28|Bg. 3.28]]
+  * demigods provide, [[bg/3/11–12|Bg. 3.11–12]], [[bg/3/14|Bg. 3.14]], [[bg/3/16|Bg. 3.16]]
+  * Lord provides, [[bg/2/70|Bg. 2.70]], [[bg/3/12|Bg. 3.12]], [[bg/3/14–15|Bg. 3.14–15]], [[bg/3/16|Bg. 3.16]], [[bg/9/29|Bg. 9.29]], [[bg/12/20|Bg. 12.20]], [[bg/18/66|Bg. 18.66]]
+  * minimizing, [[bg/6/20|Bg. 6.20]]
+  * regulations concerning, [[bg/3/34|Bg. 3.34]]
+  * sex life as one of, [[bg/3/34|Bg. 3.34]]
+  * via demigod worship, [[bg/3/11–12|Bg. 3.11–12]], [[bg/3/16|Bg. 3.16]]
+  * via sacrifice, [[bg/3/10–14|Bg. 3.10–14]], [[bg/4/31|Bg. 4.31]]
 * necessities of, for devotees, [[sb/4/30/18-18#purport|SB 4.30.18-18]], [[sb/4/30/19-19#purport|SB 4.30.19-19]]
 * necessities of, Vedas provide for, [[sb/3/25/1#purport|SB 3.25.1]]
 * opulences in, three listed, [[sb/7/9/24#purport|SB 7.9.24]]
-* person in. See: Materialist(s) 
+* person in. See: Materialist(s)
 * pessimism concerning, [[bg/13/8|Bg. 13.8]] (9)
 * philosophy of, [[sb/3/31/32#purport|SB 3.31.32]]
 * piety in, [[bg/3/16|Bg. 3.16]]
 * Pracetās awarded facilities by, [[sb/4/30/17-17#purport|SB 4.30.17-17]]
 * Prahlāda rejected, [[sb/7/9/24#purport|SB 7.9.24]], [[sb/7/10/2-2#purport|SB 7.10.2-2]]
-* *See:* [[p#Present Age|Present Age]] 
-* present-day. See: Kali-yuga 
+* present-day. See: Kali-yuga
 * pride in, [[sb/8/21/34#purport|SB 8.21.34]]
 * problems of, [[sb/7/6/5#purport|SB 7.6.5]], [[sb/7/7/37#purport|SB 7.7.37]]
 * progress in, as illusion, [[sb/4/28/12#purport|SB 4.28.12]]
@@ -129,24 +146,30 @@
 * sin seen as necessity in, [[sb/4/27/11#purport|SB 4.27.11]]
 * sinful reactions cause, [[bg/4/31|Bg. 4.31]]
 * sinful, [[sb/8/19/21#purport|SB 8.19.21]]
-* spiritual life compared with, [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/13/2#purport|SB 10.13.2]], [[sb/3/20/35#purport|SB 3.20.35]], [[sb/4/12/22#purport|SB 4.12.22]], [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/7/9/20#purport|SB 7.9.20]], [[sb/7/13/27#purport|SB 7.13.27]]
+* spiritual life compared with, [[sb/3/20/35#purport|SB 3.20.35]], [[sb/4/12/22#purport|SB 4.12.22]], [[sb/4/28/22#purport|SB 4.28.22]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/7/9/20#purport|SB 7.9.20]], [[sb/7/13/27#purport|SB 7.13.27]], [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/13/2#purport|SB 10.13.2]]
 * spiritual life vs., [[sb/8/5/23#purport|SB 8.5.23]]
 * stages of attachment to, three, [[bg/4/10|Bg. 4.10]]
 * struggle for existence in, [[sb/4/27/16#purport|SB 4.27.16]], [[sb/4/27/17#purport|SB 4.27.17]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/26-27#purport|SB 4.29.26-27]], [[sb/4/29/32#purport|SB 4.29.32]], [[sb/4/29/74#purport|SB 4.29.74]]
 * suffering caused by, [[sb/4/29/35#purport|SB 4.29.35]]
-* suffering from. See: Suffering 
-* *See:* [[m#Material life|Material life]]; miseries of; [[s#Suffering|Suffering]] 
+* suffering from. See: Suffering
+* to blind leading blind, [[sb/4/28/61#purport|SB 4.28.61]]
+* to disease, [[sb/3/20/35#purport|SB 3.20.35]]
+* to dream life, [[sb/4/29/35#purport|SB 4.29.35]]
+* to dreaming, [[sb/3/27/4-4#purport|SB 3.27.4-4]], [[sb/3/27/25-25#purport|SB 3.27.25-25]]
+* to fire, [[sb/3/27/23#purport|SB 3.27.23]]
+* to forest fire, [[sb/3/21/17#purport|SB 3.21.17]]
+* to poison, [[sb/4/26/18#purport|SB 4.26.18]]
 * transcendence of, [[sb/10/7/9#purport|SB 10.7.9]]
 * transmigration caused by, [[sb/4/29/78-78#purport|SB 4.29.78-78]]
 * transmigration of soul perpetuates, [[sb/3/21/17#purport|SB 3.21.17]]
 * truth about, [[sb/10/8/5#purport|SB 10.8.5]]
 * useless, [[sb/4/29/21#purport|SB 4.29.21]], [[sb/4/31/10#purport|SB 4.31.10]]
 * voluntarily accepted, [[sb/4/26/8#purport|SB 4.26.8]]
-* *See:* [[f#Family life|Family life]] 
-* with family. See: Family life 
+* with family. See: Family life
+* with liberated life, [[sb/3/25/16#purport|SB 3.25.16]]
 * work binding in, [[sb/4/28/20#purport|SB 4.28.20]]
 * work distressing in, [[sb/4/29/28#purport|SB 4.29.28]]
 
-*See also:* [[f#Fruitive activity|Fruitive activity]]; [[m#Materialism|Materialism]]; [[a#Attachment|Attachment]]; [[m#Materialists|Materialists]]; [[m#Material world|Material world]]; [[b#Birth-death cycle|Birth-death cycle]]; [[b#Bondage|Bondage]]; material; [[m#Māyā|Māyā]]
+*See also:* [Attachment](entries/attachment.md); Materialists; Material world; [Materialism](entries/materialism.md); Birth-death cycle; [Bondage](entries/bondage.md); material; Māyā; Fruitive activity
 
-*See:* [[l#Life|Life]]; material; [[m#Material world|Material world]]
+*See:* [Happiness](entries/happiness.md); [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Liberation](entries/liberation.md); [Life](entries/life.md); material; Material world; Family life; Material life; miseries of; [Suffering](entries/sufferings.md); Present Age; Western world

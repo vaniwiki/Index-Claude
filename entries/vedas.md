@@ -1,23 +1,22 @@
 # Veda(s)
 
-[[cc/adi/188#purport|Ādi 188]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/adi/7/131#translation|Ādi 7.131]]**, **[[cc/adi/7/131#translation|Ādi 7.131]]**, [[cc/adi/7/64#purport|Ādi 7.64]], [[cc/adi/7/64#purport|Ādi 7.64]], [[bg/10/32|Bg. 10.32]], [[cc/madhya/19/140#purport|Madhya 19.140]], [[cc/madhya/19/143#purport|Madhya 19.143]], [[cc/madhya/20/125#purport|Madhya 20.125]], **[[cc/madhya/20/137#translation|Madhya 20.137]]**, [[cc/madhya/22/100#purport|Madhya 22.100]], **[[cc/madhya/22/3#translation|Madhya 22.3]]**, **[[cc/madhya/22/52#translation|Madhya 22.52]]**, **[[cc/madhya/22/6#translation|Madhya 22.6]]**, **[[cc/madhya/25/137#translation|Madhya 25.137]]**, [[cc/madhya/25/56#purport|Madhya 25.56]], **[[cc/madhya/25/57#translation|Madhya 25.57]]**, [[cc/madhya/6/139#purport|Madhya 6.139]], [[cc/madhya/6/147#purport|Madhya 6.147]], [[cc/madhya/6/178#purport|Madhya 6.178]], [[cc/madhya/6/179#purport|Madhya 6.179]], [[cc/madhya/8/200#purport|Madhya 8.200]], **[[cc/madhya/9/133–34#translation|Madhya 9.133–34]]**, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/6/7/14#purport|SB 6.7.14]]
+[[bg/10/32|Bg. 10.32]], [[cc/madhya/20/125#purport|Madhya 20.125]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/6/147#purport|Madhya 6.147]], [[cc/madhya/6/178#purport|Madhya 6.178]], [[cc/madhya/6/179#purport|Madhya 6.179]], [[cc/madhya/8/200#purport|Madhya 8.200]], [[cc/adi/7/64#purport|Ādi 7.64]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/adi/7/131#translation|Ādi 7.131]]**, [[cc/madhya/6/139#purport|Madhya 6.139]], [[cc/madhya/22/100#purport|Madhya 22.100]], [[cc/madhya/25/56#purport|Madhya 25.56]], [[cc/adi/188#purport|Ādi 188]], [[cc/adi/7/64#purport|Ādi 7.64]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/adi/7/131#translation|Ādi 7.131]]**, **[[cc/madhya/22/3#translation|Madhya 22.3]]**, **[[cc/madhya/22/6#translation|Madhya 22.6]]**, **[[cc/madhya/9/133–34#translation|Madhya 9.133–34]]**, [[cc/madhya/19/140#purport|Madhya 19.140]], [[cc/madhya/19/143#purport|Madhya 19.143]], **[[cc/madhya/20/137#translation|Madhya 20.137]]**, **[[cc/madhya/22/52#translation|Madhya 22.52]]**, **[[cc/madhya/25/57#translation|Madhya 25.57]]**, **[[cc/madhya/25/137#translation|Madhya 25.137]]**, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/6/7/14#purport|SB 6.7.14]]
 
 * ”cow killing” in, SB Intro 10-11
 * ”paths” of, three, [[sb/1/1/2#purport|SB 1.1.2]]
 * *karma-kāṇḍa *division of, [[bg/2/43|Bg. 2.43]], [[bg/2/45|Bg. 2.45]], [[bg/2/46|Bg. 2.46]]
-* mantras of, *oṁ *in, [[bg/7/8|Bg. 7.8]]
+  * sacrifices in, [[bg/9/16|Bg. 9.16]]
 * *oṁ tat sat *in, [[bg/17/23|Bg. 17.23]]
-* *Sāma Veda, * 10.22, [[bg/10/35|Bg. 10.35]]
+* *Sāma Veda, *, 10.22, [[bg/10/35|Bg. 10.35]]
 * Absolute Truth not understood by study of, [[sb/5/12/12#purport|SB 5.12.12]]
 * Absolute Truth revealed in, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/15#purport|SB 7.12.15]]
-* activities in 
 * activities in, [[sb/4/20/30#purport|SB 4.20.30]]
 * activities in, two types listed, [[sb/7/15/47#purport|SB 7.15.47]]
-* animal sacrifice in, [[bg/4/7|Bg. 4.7]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/6/16/42#purport|SB 6.16.42]], SB Intro 10-11, [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/5/15#purport|SB 1.5.15]]
+* animal sacrifice in, [[bg/4/7|Bg. 4.7]], SB Intro 10-11, [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/5/15#purport|SB 1.5.15]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/6/16/42#purport|SB 6.16.42]]
 * animal sacrifice restricted by, [[sb/5/9/17#purport|SB 5.9.17]]
 * animal-sacrifice hymns in, [[sb/1/12/34#purport|SB 1.12.34]]
 * Arhat’s religious system opposed to, [[sb/5/6/9#purport|SB 5.6.9]]
-* as ”incomplete,” [[sb/1/4/30#purport|SB 1.4.30]]
+* as ”incomplete,”, [[sb/1/4/30#purport|SB 1.4.30]]
 * as apauruṣeya, [[sb/4/2/31#purport|SB 4.2.31]]
 * as authority, [[sb/3/24/35#purport|SB 3.24.35]], [[sb/7/13/23#purport|SB 7.13.23]], [[sb/7/13/25#purport|SB 7.13.25]], [[sb/8/5/25#purport|SB 8.5.25]]
 * as breathing of Lord, [[sb/1/4/13#purport|SB 1.4.13]]
@@ -27,16 +26,21 @@
 * as directions for work, [[bg/3/15|Bg. 3.15]]
 * as disseminated throughout world, [[sb/1/4/23#purport|SB 1.4.23]]
 * as eternal, [[sb/4/2/31#purport|SB 4.2.31]], [[sb/8/24/56#purport|SB 8.24.56]]
+* as goal of, [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/23/35#purport|SB 4.23.35]], [[sb/4/24/36#purport|SB 4.24.36]], [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/24/42#purport|SB 4.24.42]]
 * as inferior knowledge (aparā vidyā), [[cc/madhya/19/17#purport|Madhya 19.17]]
 * as laws by Lord, [[bg/18/5|Bg. 18.5]]
 * as Lord’s directions, [[sb/3/21/16#purport|SB 3.21.16]]
 * as Lord’s external body, [[sb/7/3/32#purport|SB 7.3.32]]
 * as Lord’s sound incarnation, [[sb/5/5/24#purport|SB 5.5.24]]
 * as mantras, [[sb/8/4/15#purport|SB 8.4.15]]
+* as material, [[sb/4/29/46-46#purport|SB 4.29.46-46]], [[sb/4/29/57#purport|SB 4.29.57]]
+* as materialistic, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
 * as mother, [[sb/4/2/30#purport|SB 4.2.30]]
+* as object, compiler, & knower of, [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/30/22#purport|SB 4.30.22]], [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/4/31/11#purport|SB 4.31.11]]
 * as origin of knowledge, [[sb/1/4/23#purport|SB 1.4.23]]
 * as perfect knowledge, [[sb/4/26/8#purport|SB 4.26.8]]
-* as perfect, [[sb/3/26/33#purport|SB 3.26.33]]
+* as perfect, [[sb/3/26/33#purport|SB 3.26.33]], [[sb/4/26/7#purport|SB 4.26.7]]
+* as realized via, [[sb/1/6/25#purport|SB 1.6.25]]
 * as śāstra, [[sb/6/5/20#purport|SB 6.5.20]]
 * as second mother, [[sb/3/24/15#purport|SB 3.24.15]]
 * as setu (bridge), [[sb/4/2/31#purport|SB 4.2.31]]
@@ -45,18 +49,22 @@
 * as transcendental sound, [[sb/4/21/23#purport|SB 4.21.23]], [[sb/4/24/40#purport|SB 4.24.40]]
 * as transcendental, [[sb/1/12/16#purport|SB 1.12.16]]
 * astrology in, [[sb/1/12/29#purport|SB 1.12.29]]
-* *See:* [[a#Astronomy|Astronomy]]; Vedic 
-* astronomy according to. See: Astronomy, Vedic 
+* astronomy according to. See: Astronomy, Vedic
 * astronomy in, [[sb/8/18/5#purport|SB 8.18.5]]
 * atheists reject, [[sb/4/21/27#purport|SB 4.21.27]]
+* attachment to, [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/57#purport|SB 4.29.57]]
 * author of, 25, [[bg/2/46|Bg. 2.46]]
+  * on Lord’s innumerable forms, [[bg/4/5|Bg. 4.5]]
+  * on sacrifice, [[bg/3/9|Bg. 3.9]]
+  * on soul, [[bg/2/25|Bg. 2.25]]
 * authored by Kṛṣṇa, [[sb/4/2/31#purport|SB 4.2.31]]
-* authorities on, 3, [[bg/4/1|Bg. 4.1]] (5)
 * authorities on, [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/42-44#purport|SB 4.29.42-44]]
+* authorities on, 3, [[bg/4/1|Bg. 4.1]] (5)
 * authority of, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/41#purport|Ādi 5.41]]
 * authority of, as proved by deviants, [[sb/4/2/31#purport|SB 4.2.31]]
 * authority of, as unchallengeable, SB Intro 11
 * avatāras verified by, [[sb/7/10/42#purport|SB 7.10.42]]
+* beyond, [[sb/1/8/30#purport|SB 1.8.30]], [[sb/8/12/44#purport|SB 8.12.44]]
 * Bhagavad-gītā as essence of, [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/15/27#purport|SB 1.15.27]]
 * Bhagavad-gītā essence of, [[sb/8/14/8#purport|SB 8.14.8]]
 * Bhagavad-gītā reveals, [[sb/8/24/61#purport|SB 8.24.61]]
@@ -82,13 +90,19 @@
 * cited on cow-killing, **[[cc/adi/17/160–63#translation|Ādi 17.160–63]]**
 * cited on renunciation, [[sb/1/5/15#purport|SB 1.5.15]]
 * civiliātion based on, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]]
-* compared 
+* compared
+  * to mother, [[bg/2/25|Bg. 2.25]]
+  * to reservoir, [[bg/2/46|Bg. 2.46]]
 * compared to flowers, [[sb/4/2/25#purport|SB 4.2.25]]
+* compared to government licenses, [[sb/4/26/7#purport|SB 4.26.7]]
 * compared to mother, [[sb/2/6/37#purport|SB 2.6.37]]
+* compared with Śiva’s, [[sb/4/2/31#purport|SB 4.2.31]], [[sb/4/2/32#purport|SB 4.2.32]]
+* compared with, [[sb/1/4/13#purport|SB 1.4.13]]
 * competition in, [[sb/1/1/2#purport|SB 1.1.2]]
 * compiler of, [[sb/2/2/26#purport|SB 2.2.26]], [[sb/2/4/24#purport|SB 2.4.24]], [[sb/2/4/24#purport|SB 2.4.24]]
 * conchshell & cow dung accepted by, SB Intro 21
 * corollaries of, **[[cc/madhya/22/6#translation|Madhya 22.6]]**
+* curse on, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
 * degradation of, by materialists, [[sb/1/5/15#purport|SB 1.5.15]]
 * Deity form as, [[sb/4/7/46#purport|SB 4.7.46]]
 * demigod worship &, [[cc/madhya/11/31#purport|Madhya 11.31]]
@@ -96,6 +110,8 @@
 * demigod worship in, [[bg/3/14|Bg. 3.14]], [[bg/9/25|Bg. 9.25]]
 * demigods protect, [[sb/8/1/29#purport|SB 8.1.29]]
 * demons reject, [[sb/8/6/38#purport|SB 8.6.38]]
+* design behind, [[sb/4/4/20#purport|SB 4.4.20]]
+* detachment from, [[sb/4/29/47-48#purport|SB 4.29.47-48]], [[sb/4/29/56#purport|SB 4.29.56]]
 * devotee has studied, [[sb/4/29/50#purport|SB 4.29.50]]
 * devotees accept, [[sb/8/6/38#purport|SB 8.6.38]]
 * devotees in knowledge of, [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/22/16#purport|SB 4.22.16]]
@@ -110,6 +126,7 @@
 * divisions of activities in, [[sb/4/4/20-20#purport|SB 4.4.20-20]]
 * divisions of, [[cc/madhya/9/263#purport|Madhya 9.263]], [[cc/madhya/11/31#purport|Madhya 11.31]]
 * divisions of, professors for, [[sb/1/4/21#purport|SB 1.4.21]], [[sb/1/4/21#purport|SB 1.4.21]]
+* don’t know Lord, [[sb/4/7/27-27#purport|SB 4.7.27-27]]
 * duty to follow, [[sb/10/2/14#purport|SB 10.2.14]]
 * dvijas study, [[sb/7/11/13#purport|SB 7.11.13]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * education in, from spiritual master, [[bg/8/28|Bg. 8.28]]
@@ -122,10 +139,12 @@
 * fish incarnation saved, [[sb/8/24/9-9#purport|SB 8.24.9-9]]
 * flowery language of, [[bg/2/42|Bg. 2.42]], [[bg/2/53|Bg. 2.53]]
 * flowery words of, [[sb/4/29/47#purport|SB 4.29.47]]
-* follower(s) of 
+* follower(s) of
 * foolish followers of, [[sb/4/12/41#purport|SB 4.12.41]], [[sb/4/20/30#purport|SB 4.20.30]]
 * for brāhmaṇas, [[sb/2/5/37#purport|SB 2.5.37]]
+* for gṛhasthas, [[sb/4/25/39#purport|SB 4.25.39]]
 * for liberation, [[sb/7/9/21#purport|SB 7.9.21]]
+* for sense gratification, [[sb/4/25/39#purport|SB 4.25.39]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/6-6#purport|SB 4.26.6-6]], [[sb/4/26/7#purport|SB 4.26.7]]
 * four listed, [[sb/8/3/22-24#purport|SB 8.3.22-24]], [[sb/8/21/2-3#purport|SB 8.21.2-3]], [[sb/9/14/48#purport|SB 9.14.48]]
 * four, listed, [[sb/1/16/20#purport|SB 1.16.20]]
 * four, named, [[bg/3/15|Bg. 3.15]], [[bg/11/48|Bg. 11.48]]
@@ -133,10 +152,15 @@
 * from Lord’s universal form, [[sb/8/5/39#purport|SB 8.5.39]], [[sb/8/5/41#purport|SB 8.5.41]]
 * fruitive activities recommended in, [[bg/2/42|Bg. 2.42]], [[bg/2/44–46|Bg. 2.44–46]]
 * Gāyatrī &, [[cc/madhya/8/138#purport|Madhya 8.138]]
-* goal of 
+* goal of, [[cc/madhya/6/84#purport|Madhya 6.84]], [[cc/madhya/6/139#purport|Madhya 6.139]], [[sb/1/8/18#purport|SB 1.8.18]], [[sb/1/9/47#purport|SB 1.9.47]], [[sb/1/10/24#purport|SB 1.10.24]], SB Intro 25, [[sb/1/2/5#purport|SB 1.2.5]], [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/5/24#purport|SB 1.5.24]]
 * goal of, Kṛṣṇa as, [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/30/22#purport|SB 4.30.22]], [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/4/31/11#purport|SB 4.31.11]]
-* goal of, [[cc/madhya/6/84#purport|Madhya 6.84]], [[cc/madhya/6/139#purport|Madhya 6.139]], [[sb/1/8/18#purport|SB 1.8.18]], [[sb/1/9/47#purport|SB 1.9.47]], [[sb/1/10/24#purport|SB 1.10.24]]
 * goal(s) of, [[bg/2/52|Bg. 2.52]], [[bg/3/10|Bg. 3.10]]
+  * detailed, [[bg/15/15|Bg. 15.15]]
+  * devotional service as, [[bg/16/24|Bg. 16.24]], [[bg/18/1|Bg. 18.1]]
+  * knowing Kṛṣṇa as, [[bg/17/28|Bg. 17.28]]
+  * Kṛṣṇa as, [[bg/2/46|Bg. 2.46]], [[bg/3/26|Bg. 3.26]], [[bg/9/17|Bg. 9.17]], [[bg/9/20|Bg. 9.20]], [[bg/15/1|Bg. 15.1]], [[bg/15/15|Bg. 15.15]]
+  * self-realization as, [[bg/2/46|Bg. 2.46]]
+  * spiritual world as, [[bg/15/1|Bg. 15.1]]
 * God realiātion via, [[sb/7/9/37#purport|SB 7.9.37]]
 * going to Godhead via, [[sb/4/18/6#purport|SB 4.18.6]]
 * goodness needed for knowing, [[sb/1/4/24#purport|SB 1.4.24]]
@@ -145,17 +169,16 @@
 * hearing of, from spiritual master, [[bg/16/1|Bg. 16.1]] (14)
 * heavenly planets attained via instruction from, [[sb/5/11/2#purport|SB 5.11.2]]
 * Hiraṇyakaśipu knows, [[sb/7/2/21#purport|SB 7.2.21]]
-* history of, 25 
+* history of, 25
 * history of, as untraceable, [[sb/4/2/31#purport|SB 4.2.31]]
 * human civilization guided by, [[sb/4/28/3#purport|SB 4.28.3]]
-* hymns of. See: Mantras 
+* hymns of. See: Mantras
 * ignorance personified steals, [[sb/5/18/6#purport|SB 5.18.6]]
 * illusion vanquished by, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/1/17/24#purport|SB 1.17.24]], [[sb/1/19/23#purport|SB 1.19.23]]
 * impersonal idea in, SB Intro 12, SB Intro 23
 * in Lord’s universal form, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * infallible knowledge in, [[sb/4/21/27#purport|SB 4.21.27]]
 * injunctions in, two types listed, [[sb/1/17/38#purport|SB 1.17.38]]
-* *See:* [[v#Vedic regulations|Vedic regulations]] 
 * irreligiosity regulated in, [[sb/1/17/38#purport|SB 1.17.38]]
 * Jaḍa Bharata instructed in study of, [[sb/5/9/6#purport|SB 5.9.6]]
 * Jaḍa Bharata’s stepbrothers knowledgeable in, [[sb/5/9/8#purport|SB 5.9.8]]
@@ -164,14 +187,23 @@
 * karma-kāṇḍa section of, [[cc/madhya/5/24#purport|Madhya 5.24]]
 * karma, jñāna, & yoga understood via, [[sb/5/14/45#purport|SB 5.14.45]]
 * knowledge about, [[bg/8/11|Bg. 8.11]]
+  * knowing Kṛṣṇa as same as, [[bg/11/54|Bg. 11.54]] (5)
 * knowledge from, [[bg/2/25|Bg. 2.25]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/29/13#purport|SB 4.29.13]], [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/29/55#purport|SB 4.29.55]]
-* knowledge in, material & spiritual, [[sb/1/1/3#purport|SB 1.1.3]]
+  * about Lord, [[bg/15/15|Bg. 15.15]]
+  * for happiness, [[bg/4/31|Bg. 4.31]]
 * knowledge in, [[sb/1/12/29#purport|SB 1.12.29]], [[sb/4/18/3#purport|SB 4.18.3]]
+* knowledge in, material & spiritual, [[sb/1/1/3#purport|SB 1.1.3]]
 * known via Lord & spiritual master, [[sb/4/9/5#purport|SB 4.9.5]]
-* Kṛṣṇa , 
+* known via, [[sb/8/17/26#purport|SB 8.17.26]]
+* Kṛṣṇa
+  * as goal, purpose, & knower of, [[bg/15/15|Bg. 15.15]]
+  * as, [[bg/9/17|Bg. 9.17]]
+  * glorified by, [[bg/15/18|Bg. 15.18]]
+  * known from, [[bg/15/18|Bg. 15.18]]
 * Kṛṣṇa &, [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/41#purport|Ādi 7.41]]
 * Kṛṣṇa consciousness attained through, [[sb/7/5/32#purport|SB 7.5.32]]
-* Kṛṣṇa goal of, [[sb/10/8/45#purport|SB 10.8.45]], [[sb/10/9/21#purport|SB 10.9.21]], [[sb/7/11/7#purport|SB 7.11.7]]
+* Kṛṣṇa critical of, [[sb/4/7/27#purport|SB 4.7.27]]
+* Kṛṣṇa goal of, [[sb/7/11/7#purport|SB 7.11.7]], [[sb/10/8/45#purport|SB 10.8.45]], [[sb/10/9/21#purport|SB 10.9.21]]
 * Kṛṣṇa revealed via, [[sb/8/3/15#purport|SB 8.3.15]]
 * Kṛṣṇa’s representation among, [[bg/10/22|Bg. 10.22]]
 * liberation available in, [[sb/1/2/4#purport|SB 1.2.4]]
@@ -179,35 +211,50 @@
 * liberation via, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]]
 * listed, [[sb/6/8/19#purport|SB 6.8.19]]
 * living entities require knowledge from, [[bg/15/15|Bg. 15.15]]
-* Lord , 
-* Lord ”learned,” [[sb/3/3/2#purport|SB 3.3.2]]
+* Lord
+* Lord ”learned,”, [[sb/3/3/2#purport|SB 3.3.2]]
 * Lord as beyond, [[sb/4/7/40#purport|SB 4.7.40]]
+* Lord as, SB Intro 25, [[sb/1/2/5#purport|SB 1.2.5]], [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/5/24#purport|SB 1.5.24]], [[sb/4/7/46#purport|SB 4.7.46]]
 * Lord described as personal in, [[cc/adi/7/112#purport|Ādi 7.112]]
 * Lord goal of, [[sb/9/14/48#purport|SB 9.14.48]], [[sb/9/24/66#purport|SB 9.24.66]]
 * Lord identical with, [[sb/3/1/33#purport|SB 3.1.33]]
 * Lord known beyond, [[sb/3/4/32#purport|SB 3.4.32]]
 * Lord speaker of, [[cc/madhya/7/66#purport|Madhya 7.66]]
 * Lord’s devotees beyond, [[sb/4/4/20#purport|SB 4.4.20]]
-* Mahābhārata 
+* Mahābhārata
 * mantra portion of, [[cc/adi/7/106#purport|Ādi 7.106]]
 * mantras in chanting of, [[sb/1/4/13#purport|SB 1.4.13]]
+* mantras of, *oṁ *in, [[bg/7/8|Bg. 7.8]]
 * material enjoyment provided in, [[sb/3/21/21#purport|SB 3.21.21]]
 * material happiness via, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
 * material knowledge in, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/29/55#purport|SB 4.29.55]]
 * materialists follow, for material benefit, [[sb/5/11/2#purport|SB 5.11.2]]
 * materialists reject, [[sb/4/26/8#purport|SB 4.26.8]]
+* materialists take advantage of, [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/47-48#purport|SB 4.29.47-48]]
 * Matsya protects, [[sb/5/18/25#purport|SB 5.18.25]]
 * misinterpretation of, SB Intro 20-21, SB Intro 24-25, [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/4/1#purport|SB 1.4.1]]
 * modes deal with mainly, [[sb/4/26/8#purport|SB 4.26.8]]
 * modes of nature as subject of, [[sb/4/20/5#purport|SB 4.20.5]], [[sb/7/15/43-44#purport|SB 7.15.43-44]]
-* named 
+* more important than, [[sb/1/4/28-29#purport|SB 1.4.28-29]]
+* named
+  * fifth, [[bg/2/45|Bg. 2.45]]
+  * four, [[bg/9/17|Bg. 9.17]]
+  * three, [[bg/9/17|Bg. 9.17]], [[bg/9/20|Bg. 9.20]]
+* necessity of following, [[sb/4/26/8#purport|SB 4.26.8]]
 * nondevotional processes in, [[cc/madhya/22/19#purport|Madhya 22.19]]
 * object of, [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/41#purport|Ādi 7.41]]
 * objective of, [[sb/5/11/2#purport|SB 5.11.2]]
 * occupation types in, two, [[sb/1/2/6#purport|SB 1.2.6]]
 * oṁ begins, [[sb/8/3/2#purport|SB 8.3.2]]
+* on animal-killing, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/6-6#purport|SB 4.26.6-6]]
+* on brahmacārī education, [[sb/4/28/3#purport|SB 4.28.3]]
+* on inheritance, [[sb/4/26/16#purport|SB 4.26.16]]
+* on marriage, [[sb/4/27/8#purport|SB 4.27.8]], [[sb/4/27/25#purport|SB 4.27.25]], [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/30/16#purport|SB 4.30.16]]
+* on service to spiritual master, [[sb/4/28/65#purport|SB 4.28.65]]
 * on varṇāśrama system, [[sb/6/3/13-13#purport|SB 6.3.13-13]]
 * origin of, [[bg/3/15|Bg. 3.15]], [[bg/4/7|Bg. 4.7]]
+  * Lord’s breathing as, [[bg/3/15|Bg. 3.15]]
+* part of, [[sb/1/4/19#purport|SB 1.4.19]], [[sb/1/4/20#purport|SB 1.4.20]], [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/4/19-20#purport|SB 1.4.19-20]]
 * parts of, [[bg/2/45|Bg. 2.45]]
 * paths given in, four named, [[sb/3/32/18#purport|SB 3.32.18]]
 * personified by spiritual master, [[sb/6/7/30#purport|SB 6.7.30]]
@@ -215,29 +262,47 @@
 * praṇava oṁkāra in, SB Intro 24-25
 * prayers by Vedas personified, [[sb/4/7/41#purport|SB 4.7.41]]
 * principles of, as real religion, [[bg/4/7|Bg. 4.7]]
+* protects, [[sb/1/12/16#purport|SB 1.12.16]]
 * punishment for deviating from path of, [[sb/5/26/15#purport|SB 5.26.15]]
-* Purāṇas 
+* Purāṇas
 * purpose of, [[bg/2/46|Bg. 2.46]], [[bg/4/7|Bg. 4.7]], [[bg/15/15|Bg. 15.15]], [[sb/1/8/36#purport|SB 1.8.36]], [[sb/1/10/22#purport|SB 1.10.22]], [[sb/3/22/2#purport|SB 3.22.2]], [[sb/3/29/31-31#purport|SB 3.29.31-31]], [[sb/5/15/1#purport|SB 5.15.1]], [[sb/5/18/18#purport|SB 5.18.18]], [[sb/6/3/19#purport|SB 6.3.19]], [[sb/6/3/25#purport|SB 6.3.25]], [[sb/7/6/1#purport|SB 7.6.1]], [[sb/7/9/21#purport|SB 7.9.21]]
+  * *smṛti *explains, [[bg/15/18|Bg. 15.18]]
+  * on Cāturmāsya, [[bg/2/43|Bg. 2.43]]
+  * on God as one, [[bg/4/12|Bg. 4.12]]
+  * on killing, [[bg/2/19|Bg. 2.19]]
+  * on Lord & living entity as knowers of body, [[bg/13/3|Bg. 13.3]]
+  * on Lord as cause of all causes, [[bg/4/14|Bg. 4.14]]
+  * on Lord, [[bg/3/10|Bg. 3.10]]
+  * on sacrifice & purification, [[bg/3/11|Bg. 3.11]]
+  * on Supreme Lord, forms of, as Himself, [[bg/4/9|Bg. 4.9]]
 * purpose of, to know real home, [[sb/4/29/48-48#purport|SB 4.29.48-48]]
 * qualification for knowing, [[sb/4/1/3#purport|SB 4.1.3]], [[sb/4/2/13#purport|SB 4.2.13]]
 * qualification for studying, [[sb/1/2/2#purport|SB 1.2.2]]
-* quotations from. See: Vedas quoted, Vedas cited 
+* quotations from. See: Vedas quoted, Vedas cited
 * quoted on understanding Vedic knowledge via guru, [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/adi/12/8#purport|Ādi 12.8]]
 * rascals misinterpret, [[sb/8/4/15#purport|SB 8.4.15]]
-* regulation(s) of 
+* regulation(s) of
 * regulations of, for penance & austerity, [[bg/10/4|Bg. 10.4]] (8)
 * rejected by animalistic persons, [[sb/4/2/31#purport|SB 4.2.31]]
 * rejection of, [[sb/1/10/20#purport|SB 1.10.20]]
 * relationship with Kṛṣṇa via, [[sb/10/8/45#purport|SB 10.8.45]]
 * religion comes from, [[sb/6/1/40-40#purport|SB 6.1.40-40]]
 * religion known via, [[bg/4/7|Bg. 4.7]]
-* ritual(s) in 
-* rituals of 
+* reveals, [[sb/8/24/61#purport|SB 8.24.61]]
+* ritual(s) in
+* rituals of
+  * *śabda-brahma,*, 6.44
+  * Kṛṣṇa as, [[bg/9/16|Bg. 9.16]]
+  * transcended via chanting Hare Kṛṣṇa, [[bg/6/44|Bg. 6.44]]
 * rituals of, as inadequate, [[sb/4/7/14#purport|SB 4.7.14]]
 * sacrifices in, relieve sin, [[sb/1/8/51-52#purport|SB 1.8.51-52]]
-* sacrifices in. See: Sacrifice 
+* sacrifices in. See: Sacrifice
 * sacrifices prescribed by, [[bg/2/43|Bg. 2.43]], [[bg/3/12|Bg. 3.12]], [[bg/3/14|Bg. 3.14]], [[bg/4/31–32|Bg. 4.31–32]]
+  * *See also:* Sacrifices
+  * Kṛṣṇa consciousness transcendental to, [[bg/3/15|Bg. 3.15]]
+  * Kṛṣṇa consciousness via, [[bg/3/16|Bg. 3.16]]
 * sacrifices recommended in, [[sb/4/21/34#purport|SB 4.21.34]]
+* saved, [[sb/8/24/9#purport|SB 8.24.9]], [[sb/8/24/10#purport|SB 8.24.10]], [[sb/8/24/57#purport|SB 8.24.57]], [[sb/8/24/61-61#purport|SB 8.24.61-61]]
 * self-realization as goal of, [[bg/2/46|Bg. 2.46]]
 * sense gratification &, [[bg/3/15|Bg. 3.15]]
 * sense gratification in, [[sb/1/1/2#purport|SB 1.1.2]]
@@ -247,15 +312,22 @@
 * Śiva as beyond, [[sb/4/4/19#purport|SB 4.4.19]], [[sb/4/4/20#purport|SB 4.4.20]]
 * society as divided by, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]]
 * society needs, [[sb/8/1/29#purport|SB 8.1.29]]
-* spiritual master 
+* spiritual master
+  * for learning, [[bg/8/28|Bg. 8.28]]
+  * presents, truthfully, [[bg/16/1|Bg. 16.1]] (14)
 * spiritual master must know, [[sb/1/1/6#purport|SB 1.1.6]], [[sb/1/2/2#purport|SB 1.2.2]]
 * spiritual master recommended in, [[sb/8/3/25#purport|SB 8.3.25]]
 * spiritual master teaches, [[cc/adi/1/46#purport|Ādi 1.46]]
 * Śrīmad-Bhāgavatam compared with, [[sb/1/1/2-3#purport|SB 1.1.2-3]]
 * students of, [[bg/9/20|Bg. 9.20]]
 * studied for elevation to higher planets, [[bg/9/20–21|Bg. 9.20–21]]
+* study of, [[bg/16/1|Bg. 16.1]], **[[cc/adi/17/76#translation|Ādi 17.76]]**, **[[cc/madhya/11/104#translation|Madhya 11.104]]**
+  * devotional service gives same results as, [[bg/8/28|Bg. 8.28]]
+  * for *brahmacārīs,*, 16.1 (10)
+  * Lord’s universal form not made visible via, [[bg/11/48|Bg. 11.48]]
+  * not sufficient for knowing Kṛṣṇa, [[bg/11/53|Bg. 11.53]]
+  * sacrifice of, [[bg/4/28|Bg. 4.28]]
 * study of, & protection from māyā, [[sb/5/18/4#purport|SB 5.18.4]]
-* study of, **[[cc/adi/17/76#translation|Ādi 17.76]]**, **[[cc/madhya/11/104#translation|Madhya 11.104]]**, [[bg/16/1|Bg. 16.1]]
 * subject matter of, as threefold, SB Intro 25, [[sb/1/5/24#purport|SB 1.5.24]]
 * subjects in, material, [[sb/7/6/26#purport|SB 7.6.26]]
 * śūdras can’t understand, [[sb/4/2/13#purport|SB 4.2.13]], [[sb/4/12/48#purport|SB 4.12.48]]
@@ -264,14 +336,19 @@
 * supplementary, two listed, [[sb/8/21/2-3#purport|SB 8.21.2-3]]
 * supremacy of, as proved by deviants, [[sb/4/2/31#purport|SB 4.2.31]]
 * transcended by bhakti, [[sb/6/2/25#purport|SB 6.2.25]]
+* transcendence as, [[sb/4/4/20#purport|SB 4.4.20]]
 * transcendentalists beyond, [[sb/4/4/19#purport|SB 4.4.19]], [[sb/4/4/20-20#purport|SB 4.4.20-20]]
 * transcendentalists surpass, [[sb/8/3/16#purport|SB 8.3.16]]
+* two kinds of, [[sb/4/4/20#purport|SB 4.4.20]]
 * understanding, **[[cc/madhya/6/147–48#translation|Madhya 6.147–48]]**
+* value & necessity of, [[sb/4/26/6-8#purport|SB 4.26.6-8]]
 * vānaprasthas study, [[sb/7/12/23#purport|SB 7.12.23]]
 * veda-vāda-ratas misconstrue, [[sb/8/24/61#purport|SB 8.24.61]]
-* Vedas quoted 
+* Vedas quoted
 * via Lord & spiritual master, [[sb/4/24/52#purport|SB 4.24.52]]
 * worship of Kṛṣṇa equals, [[sb/4/7/46#purport|SB 4.7.46]]
 * Yajur Veda, [[sb/4/1/5#purport|SB 4.1.5]]
 
-*See also:* individual Vedic literatures; [[s#Śāstras|Śāstras]]; Śruti-mantras; [[v#Vedic literature|Vedic literature]]; specific Vedic literatures; [[s#Scriptures|Scriptures]]; [[v#Vedic injunctions|Vedic injunctions]]; [[v#Vedic knowledge|Vedic knowledge]]; [[v#Vedic literatures|Vedic literatures]]
+*See also:* individual Vedic literatures; Śāstras; specific Vedic literatures; Śruti-mantras; Vedic literature; Scriptures; Vedic injunctions; Vedic knowledge; Vedic literatures
+
+*See:* Astronomy; Vedic; Vedic regulations

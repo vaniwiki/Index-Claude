@@ -1,10 +1,9 @@
 # Intoxication
 
-[[cc/madhya/7/128#purport|Madhya 7.128]]
+[[bg/3/24|Bg. 3.24]], [[bg/4/10|Bg. 4.10]], [[bg/4/26|Bg. 4.26]], [[bg/14/8|Bg. 14.8]], [[bg/14/17|Bg. 14.17]], [[bg/17/22|Bg. 17.22]], [[cc/madhya/7/128#purport|Madhya 7.128]], [[sb/1/1/6#purport|SB 1.1.6]], [[sb/1/8/26#purport|SB 1.8.26]], [[sb/3/20/53#purport|SB 3.20.53]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/27#purport|SB 4.28.27]], [[sb/6/1/22#purport|SB 6.1.22]], [[sb/6/1/58-60#purport|SB 6.1.58-60]], [[sb/8/11/5#purport|SB 8.11.5]], [[sb/8/19/41#purport|SB 8.19.41]], [[sb/9/9/16-17#purport|SB 9.9.16-17]], [[sb/9/20/24-26#purport|SB 9.20.24-26]]
 
 * ”yogīs” advocate, [[sb/3/15/45#purport|SB 3.15.45]]
 * as sinful, [[sb/5/4/5#purport|SB 5.4.5]], [[sb/7/11/28#purport|SB 7.11.28]], [[sb/7/14/3-4#purport|SB 7.14.3-4]]
-*  [[bg/3/24|Bg. 3.24]], [[bg/4/10|Bg. 4.10]], [[bg/4/26|Bg. 4.26]], [[bg/14/8|Bg. 14.8]], [[bg/14/17|Bg. 14.17]], [[bg/17/22|Bg. 17.22]], [[sb/1/1/6#purport|SB 1.1.6]], [[sb/1/8/26#purport|SB 1.8.26]], [[sb/3/20/53#purport|SB 3.20.53]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/27#purport|SB 4.28.27]], [[sb/6/1/22#purport|SB 6.1.22]], [[sb/6/1/58-60#purport|SB 6.1.58-60]], [[sb/8/11/5#purport|SB 8.11.5]], [[sb/8/19/41#purport|SB 8.19.41]], [[sb/9/9/16-17#purport|SB 9.9.16-17]], [[sb/9/20/24-26#purport|SB 9.20.24-26]]
 * by demigods, [[sb/1/15/34#purport|SB 1.15.34]]
 * by followers of Śiva, [[sb/4/2/28#purport|SB 4.2.28]], [[sb/4/2/29#purport|SB 4.2.29]], [[sb/4/2/31#purport|SB 4.2.31]], [[sb/4/6/36#purport|SB 4.6.36]]
 * by Hiraṇyakaśipu, [[sb/7/4/13#purport|SB 7.4.13]]
@@ -19,7 +18,7 @@
 * in Kali-yuga, [[sb/1/16/10#purport|SB 1.16.10]]
 * in Śiva worship, [[sb/4/2/29#purport|SB 4.2.29]]
 * Kṛṣṇa consciousness movement forbids, [[sb/7/9/40#purport|SB 7.9.40]], [[sb/7/13/8#purport|SB 7.13.8]]
-* of ”sannyāsīs,” [[sb/4/19/22#purport|SB 4.19.22]]
+* of ”sannyāsīs,”, [[sb/4/19/22#purport|SB 4.19.22]]
 * of demigods & demons contrasted, [[sb/4/18/16#purport|SB 4.18.16]]
 * of elephant king, [[sb/8/2/23-24#purport|SB 8.2.23-24]]
 * of Indra, [[sb/9/2/28#purport|SB 9.2.28]]

@@ -1,8 +1,7 @@
 # Aniruddha, Lord
 
-**[[cc/adi/1/8#translation|Ādi 1.8]]**, [[cc/adi/10/17#purport|Ādi 10.17]], [[cc/adi/2/56#purport|Ādi 2.56]], [[cc/adi/5/40#purport|Ādi 5.40]], **[[cc/madhya/20/188#translation|Madhya 20.188]]**, **[[cc/madhya/20/206#translation|Madhya 20.206]]**, [[sb/3/1/34#purport|SB 3.1.34]], [[sb/4/15/4#purport|SB 4.15.4]]
+**[[cc/adi/1/8#translation|Ādi 1.8]]**, [[cc/adi/2/56#purport|Ādi 2.56]], [[cc/adi/5/40#purport|Ādi 5.40]], [[cc/adi/5/41#purport|Ādi 5.41]] (3 purport, [[cc/adi/10/17#purport|Ādi 10.17]], **[[cc/madhya/20/206#translation|Madhya 20.206]]**, **[[cc/madhya/20/188#translation|Madhya 20.188]]**, [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/1/34#purport|SB 3.1.34]], [[sb/4/15/4#purport|SB 4.15.4]], [[sb/4/24/36-36#purport|SB 4.24.36-36]], [[sb/4/24/37#purport|SB 4.24.37]], [[sb/4/24/38#purport|SB 4.24.38]]
 
-*  [[cc/adi/5/41#purport|Ādi 5.41]] (3 purport, [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/4/24/36-36#purport|SB 4.24.36-36]], [[sb/4/24/37#purport|SB 4.24.37]], [[sb/4/24/38#purport|SB 4.24.38]]
 * Airāvatī-pura residence of, [[sb/5/17/14#purport|SB 5.17.14]]
 * as Kṛṣṇa’s expansion, [[sb/5/11/13-14#purport|SB 5.11.13-14]]
 * as Lord of mind, [[sb/3/26/28#purport|SB 3.26.28]], [[sb/3/26/31#purport|SB 3.26.31]]
@@ -20,4 +19,4 @@
 * Śatrughna incarnation of, [[sb/5/19/2#purport|SB 5.19.2]]
 * worship of, [[sb/3/26/21#purport|SB 3.26.21]], [[sb/3/26/28#purport|SB 3.26.28]], [[sb/3/26/31#purport|SB 3.26.31]]
 
-*See also:* [[c#Caturvyūha|Caturvyūha]]
+*See also:* Caturvyūha

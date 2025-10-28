@@ -5,10 +5,10 @@
 * as Lord’s energies, [[sb/4/24/62-62#purport|SB 4.24.62-62]]
 * as universal covering, [[sb/3/26/52-52#purport|SB 3.26.52-52]]
 * as yonir mahad brahma, [[sb/3/26/11#purport|SB 3.26.11]]
-* causes of. See: Evolution 
+* causes of. See: Evolution
 * classes of, named, [[sb/3/26/11#purport|SB 3.26.11]], [[sb/3/26/18#purport|SB 3.26.18]]
 * creation of, [[sb/4/23/16#purport|SB 4.23.16]], [[sb/4/23/17#purport|SB 4.23.17]]
-* earth. See: Earth element 
+* earth. See: Earth element
 * evolution of, [[sb/3/32/29#purport|SB 3.32.29]], [[sb/4/29/74#purport|SB 4.29.74]]
 * five listed, [[sb/3/20/13#purport|SB 3.20.13]]
 * from mahat-tattva, [[sb/4/28/55#purport|SB 4.28.55]]
@@ -26,4 +26,4 @@
 * senses characteristic of, [[sb/3/26/47-48#purport|SB 3.26.47-48]]
 * soul covered by, [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/26#purport|SB 4.22.26]]
 
-*See also:* Energy; illusory (material); [[m#Material nature|Material nature]]; specific elements; material
+*See also:* Energy; illusory (material); Material nature; specific elements; material

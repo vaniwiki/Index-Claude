@@ -1,6 +1,6 @@
 # Rākṣasa(s)
 
-[[sb/8/18/9-10#purport|SB 8.18.9-10]]
+[[sb/6/8/24-25#purport|SB 6.8.24-25]], [[sb/6/10/19-22#purport|SB 6.10.19-22]], [[sb/8/18/9-10#purport|SB 8.18.9-10]]
 
 * abode of, [[sb/5/24/5#purport|SB 5.24.5]]
 * act abominably, [[sb/9/10/22#purport|SB 9.10.22]]
@@ -21,9 +21,8 @@
 * Śatrughna killed, [[sb/9/11/13-14#purport|SB 9.11.13-14]]
 * Saudāsa as, [[sb/9/9/25#purport|SB 9.9.25]], [[sb/9/9/26-27#purport|SB 9.9.26-27]], [[sb/9/9/33#purport|SB 9.9.33]]
 * Saudāsa killed, [[sb/9/9/20-21#purport|SB 9.9.20-21]]
-*  [[sb/6/8/24-25#purport|SB 6.8.24-25]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
 * society destroyed by, [[sb/7/3/13#purport|SB 7.3.13]]
 * Sūrya worshiped by, [[sb/5/21/18#purport|SB 5.21.18]]
 * Svāyambhuva Manu chased by, [[sb/8/1/17#purport|SB 8.1.17]]
 
-*See also:* [[d#Demons|Demons]]; specific Rākṣasas
+*See also:* Demons; specific Rākṣasas

@@ -13,4 +13,4 @@
 * of spiritual master, [[sb/9/19/17#purport|SB 9.19.17]]
 * only one, [[sb/9/10/54#purport|SB 9.10.54]]
 
-*See also:* [[m#Marriage|Marriage]]; [[w#Women|Women]]; wives of specific persons
+*See also:* [Marriage](entries/marriage.md); [Women](entries/women.md); wives of specific persons

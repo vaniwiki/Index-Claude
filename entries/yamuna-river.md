@@ -1,6 +1,6 @@
 # Yamunā River
 
-**[[cc/antya/16/146#translation|Antya 16.146]]**, **[[cc/antya/16/148#translation|Antya 16.148]]**, **[[cc/antya/18/81#translation|Antya 18.81]]**, **[[cc/antya/2/147#translation|Antya 2.147]]**, **[[cc/antya/2/161#translation|Antya 2.161]]**, **[[cc/antya/2/164#translation|Antya 2.164]]**, **[[cc/antya/2/166#translation|Antya 2.166]]**, [[cc/antya/4/98#purport|Antya 4.98]], **[[cc/antya/6/90#translation|Antya 6.90]]**, [[bg/6/11|Bg. 6.11]], [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/17/154#translation|Madhya 17.154]]**, **[[cc/madhya/18/222#translation|Madhya 18.222]]**, **[[cc/madhya/19/60#translation|Madhya 19.60]]**, [[cc/madhya/19/61#purport|Madhya 19.61]], **[[cc/madhya/19/78–83#translation|Madhya 19.78–83]]**, **[[cc/madhya/24/230#translation|Madhya 24.230]]**, **[[cc/madhya/3/25–28#translation|Madhya 3.25–28]]**, **[[cc/madhya/3/34–37#translation|Madhya 3.34–37]]**, **[[cc/madhya/8/11#translation|Madhya 8.11]]**
+[[bg/6/11|Bg. 6.11]], [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/24/230#translation|Madhya 24.230]]**, [[cc/antya/4/98#purport|Antya 4.98]], **[[cc/antya/6/90#translation|Antya 6.90]]**, **[[cc/antya/16/146#translation|Antya 16.146]]**, **[[cc/antya/16/148#translation|Antya 16.148]]**, **[[cc/madhya/3/34–37#translation|Madhya 3.34–37]]**, **[[cc/madhya/3/25–28#translation|Madhya 3.25–28]]**, **[[cc/madhya/8/11#translation|Madhya 8.11]]**, **[[cc/madhya/17/154#translation|Madhya 17.154]]**, **[[cc/madhya/19/78–83#translation|Madhya 19.78–83]]**, **[[cc/madhya/18/222#translation|Madhya 18.222]]**, **[[cc/madhya/19/60#translation|Madhya 19.60]]**, [[cc/madhya/19/61#purport|Madhya 19.61]], **[[cc/antya/2/147#translation|Antya 2.147]]**, **[[cc/antya/2/161#translation|Antya 2.161]]**, **[[cc/antya/2/164#translation|Antya 2.164]]**, **[[cc/antya/2/166#translation|Antya 2.166]]**, **[[cc/antya/18/81#translation|Antya 18.81]]**, [[sb/2/7/28#purport|SB 2.7.28]], [[sb/2/7/31#purport|SB 2.7.31]], [[sb/4/21/11#purport|SB 4.21.11]], [[sb/4/21/13#purport|SB 4.21.13]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/5/8/31#purport|SB 5.8.31]], [[sb/5/17/9#purport|SB 5.17.9]], [[sb/5/19/17-18#purport|SB 5.19.17-18]], [[sb/6/5/27-28#purport|SB 6.5.27-28]], [[sb/6/10/16#purport|SB 6.10.16]], [[sb/10/11/36#purport|SB 10.11.36]], [[sb/10/11/41#purport|SB 10.11.41]], [[sb/10/11/45#purport|SB 10.11.45]]
 
 * Ambarīṣa bathed in, [[sb/9/4/30#purport|SB 9.4.30]]
 * as transcendental, [[sb/1/19/5#purport|SB 1.19.5]]
@@ -28,11 +28,10 @@
 * pilgrimage sites on, [[sb/4/8/42-42#purport|SB 4.8.42-42]]
 * pure devotee’s potency compared with, [[sb/1/13/10#purport|SB 1.13.10]]
 * purification via bathing in, [[sb/8/9/14-15#purport|SB 8.9.14-15]]
-* quoted on Balarāma, N109 
+* quoted on Balarāma, N109
 * Ratha-yātrā &, **[[cc/madhya/13/25#translation|Madhya 13.25]]**
 * śānta-rasa &, [[cc/madhya/8/294#purport|Madhya 8.294]]
 * Saubhari Ṛṣi in, [[sb/9/6/39-40#purport|SB 9.6.39-40]]
-*  [[sb/10/11/36#purport|SB 10.11.36]], [[sb/10/11/41#purport|SB 10.11.41]], [[sb/10/11/45#purport|SB 10.11.45]], [[sb/2/7/28#purport|SB 2.7.28]], [[sb/2/7/31#purport|SB 2.7.31]], [[sb/4/21/11#purport|SB 4.21.11]], [[sb/4/21/13#purport|SB 4.21.13]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/5/8/31#purport|SB 5.8.31]], [[sb/5/17/9#purport|SB 5.17.9]], [[sb/5/19/17-18#purport|SB 5.19.17-18]], [[sb/6/5/27-28#purport|SB 6.5.27-28]], [[sb/6/10/16#purport|SB 6.10.16]]
 * scenery along, [[sb/3/2/27#purport|SB 3.2.27]]
 * served goddess of fortune, [[sb/8/8/10#purport|SB 8.8.10]]
 * twenty four, [[cc/madhya/17/190#purport|Madhya 17.190]]

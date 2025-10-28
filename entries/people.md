@@ -10,6 +10,6 @@
 * perfect, know past, present, & future, [[sb/9/4/57-59#purport|SB 9.4.57-59]]
 * purified, compared with demigods, [[sb/9/1/18#purport|SB 9.1.18]]
 
-*See also:* [[c#Citizens|Citizens]]; Humans being; [[l#Living entities|Living entities]]; [[s#Souls|Souls]]; specific persons
+*See also:* Citizens; Humans being; Living entities; Souls; specific persons
 
-*See:* Humans being; [[l#Living entities|Living entities]]
+*See:* Humans being; Living entities

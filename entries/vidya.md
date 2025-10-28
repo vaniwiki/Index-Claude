@@ -2,6 +2,6 @@
 
 * Lord understood through, [[sb/6/16/51#purport|SB 6.16.51]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
-*See:* [[k#Knowledge|Knowledge]]; transcendental
+*See:* [Knowledge](entries/knowledge.md); transcendental

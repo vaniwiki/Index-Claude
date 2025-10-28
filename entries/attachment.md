@@ -1,38 +1,39 @@
 # Attachment
 
 * all work with, [[bg/6/1|Bg. 6.1]]
+* Ambarīṣa gave up, [[sb/9/4/27#purport|SB 9.4.27]], [[sb/9/5/26-26#purport|SB 9.5.26-26]]
 * as falldown, [[bg/15/20|Bg. 15.20]]
 * attachment to Kṛṣṇa compared with material, [[bg/5/12|Bg. 5.12]], [[bg/6/35|Bg. 6.35]]
 * austerities and penances &, [[bg/17/6|Bg. 17.6]]
 * aversion &, [[bg/2/47|Bg. 2.47]], [[bg/2/64|Bg. 2.64]], [[bg/3/34|Bg. 3.34]], [[bg/10/4|Bg. 10.4]] (7)
 * between woman & man, [[bg/17/7|Bg. 17.7]]
 * bewilderment from, [[bg/1/31|Bg. 1.31]]
-* by *sannyāsīs,* 6.1
+* by *sannyāsīs,*, 6.1
 * charity with, [[bg/17/21|Bg. 17.21]]
 * defined, [[bg/2/56|Bg. 2.56]]
 * degradation via, [[bg/6/5|Bg. 6.5]]
 * detachment compared with, [[bg/2/56|Bg. 2.56]]
+* devotees should avoid, [[sb/9/4/27#purport|SB 9.4.27]]
 * devotional service hindered by, [[bg/2/44|Bg. 2.44]]
-* false ego &, 3.40 3.40
+* false ego &, 3.40
 * foolishness of, [[bg/4/12|Bg. 4.12]], [[bg/7/15|Bg. 7.15]] (5–6)
 * for women, [[sb/4/8/65#purport|SB 4.8.65]]
-* *See:* [[d#Detachment|Detachment]]; [[l#Liberation|Liberation]]; [[r#Renunciation|Renunciation]] 
 * from mode of passion, [[bg/14/12|Bg. 14.12]]
-* *See:* [[i#Illusion|Illusion]] 
 * in spiritual life, [[bg/6/40|Bg. 6.40]]
-* Kṛṣṇa consciousness &,  2.56
-* *See:* [[l#Liberation|Liberation]] 
-* lust &, 18, 21 
+* Kṛṣṇa consciousness &, 2.56
+* lust &, 18, 21
 * material, [[sb/3/2/11#purport|SB 3.2.11]], [[sb/9/9/44#purport|SB 9.9.44]], [[sb/9/9/47-47#purport|SB 9.9.47-47]], [[sb/9/12/3-4#purport|SB 9.12.3-4]]
 * mind disturbed by, [[bg/1/30|Bg. 1.30]]
 * nondevotees affected by, [[bg/1/28|Bg. 1.28]]
-* of *mūḍha,* 7.15 (5–6)
-* of *yogīs,* 8.14
+* of *mūḍha,*, 7.15 (5–6)
+* of *yogīs,*, 8.14
 * of demons, [[bg/16/11–16|Bg. 16.11–16]]
 * of devotee to brahminical culture, [[sb/9/9/43#purport|SB 9.9.43]]
 * of father to children, [[sb/9/18/27#purport|SB 9.18.27]]
+* of Hariścandra to son, [[sb/9/7/15#purport|SB 9.7.15]]
 * of Kṛṣṇa for devotees, [[sb/3/3/21#purport|SB 3.3.21]]
 * of man to woman, [[sb/9/10/11#purport|SB 9.10.11]], [[sb/9/14/42#purport|SB 9.14.42]]
+* pure devotees forsake, [[sb/9/4/65#purport|SB 9.4.65]]
 * stages of, [[bg/2/62|Bg. 2.62]], [[bg/4/10|Bg. 4.10]]
 * surrender blocked by, [[bg/15/5|Bg. 15.5]]
 * test of, on Haridāsa Ṭhākura, [[bg/2/62|Bg. 2.62]]
@@ -40,11 +41,12 @@
 * to avoiding duty, [[bg/2/47|Bg. 2.47]]
 * to bodily concept, [[sb/10/4/20#purport|SB 10.4.20]]
 * to body, 21, [[bg/2/25–30|Bg. 2.25–30]], [[bg/3/29|Bg. 3.29]]
+  * *See also:* Bodily concept of life
 * to demigod worship, [[bg/9/20|Bg. 9.20]]
 * to designations, 21, [[bg/3/29|Bg. 3.29]], [[bg/7/13|Bg. 7.13]]
 * to devotees, [[sb/10/7/1-2#purport|SB 10.7.1-2]]
+* to family & friends condemned, [[sb/9/4/65#purport|SB 9.4.65]]
 * to family life, [[sb/9/19/2#purport|SB 9.19.2]], [[sb/9/19/11-12#purport|SB 9.19.11-12]]
-* *See:* [[f#Family life|Family life]]; attachment to 
 * to fruitive work, [[bg/3/25–26|Bg. 3.25–26]], [[bg/5/12|Bg. 5.12]], [[bg/7/15|Bg. 7.15]] (5–6), [[bg/14/7|Bg. 14.7]], [[bg/18/27|Bg. 18.27]]
 * to fruits of work, [[bg/3/9|Bg. 3.9]], [[bg/5/12|Bg. 5.12]], [[bg/6/40|Bg. 6.40]], [[bg/7/15|Bg. 7.15]] (5–6), [[bg/18/34|Bg. 18.34]]
 * to gambling, [[bg/16/10|Bg. 16.10]]
@@ -58,7 +60,11 @@
 * to knowledge, material, [[bg/6/8|Bg. 6.8]]
 * to Kṛṣṇa, [[sb/9/9/42#purport|SB 9.9.42]]
 * to lording it over, [[bg/3/8|Bg. 3.8]], [[bg/13/21|Bg. 13.21]]−22, [[bg/15/5|Bg. 15.5]], [[bg/16/13|Bg. 16.13]], [[bg/18/35|Bg. 18.35]]
-* to material 
+* to material
+  * activities, [[bg/3/29|Bg. 3.29]], [[bg/16/12|Bg. 16.12]]
+  * body, [[bg/3/29|Bg. 3.29]]
+  * designations, 21, [[bg/3/29|Bg. 3.29]], [[bg/7/13|Bg. 7.13]]
+  * subjects, [[bg/2/29|Bg. 2.29]]
 * to material enjoyment, [[sb/10/3/40#purport|SB 10.3.40]]
 * to meat-eating, 15, [[bg/3/8|Bg. 3.8]], [[bg/16/1|Bg. 16.1]] (13), [[bg/16/10|Bg. 16.10]]
 * to mode of goodness, [[bg/14/6|Bg. 14.6]]
@@ -68,7 +74,7 @@
 * to regulated sense gratification, [[bg/3/34|Bg. 3.34]]
 * to renouncing work, [[bg/3/4–9|Bg. 3.4–9]]
 * to residence, [[bg/14/12|Bg. 14.12]]
-* to sense gratification, [[bg/2/29|Bg. 2.29]], [[bg/3/8|Bg. 3.8]], [[bg/3/12|Bg. 3.12]], [[bg/3/34|Bg. 3.34]], [[bg/14/7|Bg. 14.7]], [[bg/14/12|Bg. 14.12]], [[bg/16/16|Bg. 16.16]], [[bg/18/31–32|Bg. 18.31–32]], [[sb/10/8/4#purport|SB 10.8.4]], [[sb/9/18/39#purport|SB 9.18.39]], [[sb/9/19/16-16#purport|SB 9.19.16-16]], [[sb/9/19/18#purport|SB 9.19.18]]
+* to sense gratification, [[bg/2/29|Bg. 2.29]], [[bg/3/8|Bg. 3.8]], [[bg/3/12|Bg. 3.12]], [[bg/3/34|Bg. 3.34]], [[bg/14/7|Bg. 14.7]], [[bg/14/12|Bg. 14.12]], [[bg/16/16|Bg. 16.16]], [[bg/18/31–32|Bg. 18.31–32]], [[sb/9/18/39#purport|SB 9.18.39]], [[sb/9/19/16-16#purport|SB 9.19.16-16]], [[sb/9/19/18#purport|SB 9.19.18]], [[sb/10/8/4#purport|SB 10.8.4]]
 * to sex life, [[bg/2/60|Bg. 2.60]], [[bg/3/34|Bg. 3.34]], [[bg/7/15|Bg. 7.15]] (5), [[bg/10/28|Bg. 10.28]], [[bg/16/10|Bg. 16.10]]
 * to sleep, [[bg/1/24|Bg. 1.24]], [[bg/6/16|Bg. 6.16]], [[bg/14/8|Bg. 14.8]], [[bg/18/35|Bg. 18.35]]
 * to the temporary, [[bg/4/12|Bg. 4.12]], [[bg/7/13|Bg. 7.13]]
@@ -80,4 +86,6 @@
 * work in, [[bg/18/27|Bg. 18.27]]
 * worsening of, [[bg/15/20|Bg. 15.20]]
 
-*See also:* [[d#Desire|Desire]]; material; [[d#Detachment|Detachment]]; [[s#Sense gratification|Sense gratification]]; [[a#Affection|Affection]]; [[b#Bondage|Bondage]]; [[d#Desires|Desires]]; [[f#Fruitive activity|Fruitive activity]]; [[a#Association|Association]]; Bodily concept; [[b#Bodily concept of life|Bodily concept of life]]
+*See also:* [Affection](entries/affection.md); [Bondage](entries/bondage.md); Desires; Fruitive activity; [Association](entries/association.md); Bodily concept; [Desire](entries/desires.md); material; [Detachment](entries/detachment.md); Sense gratification; Bodily concept of life
+
+*See:* [Detachment](entries/detachment.md); [Liberation](entries/liberation.md); [Renunciation](entries/renunciation.md); [Illusion](entries/illusion.md); Family life; attachment to

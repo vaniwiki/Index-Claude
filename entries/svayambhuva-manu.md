@@ -1,6 +1,6 @@
 # Svāyambhuva Manu
 
-[[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/20/328#purport|Madhya 20.328]], [[sb/2/7/2#purport|SB 2.7.2]]
+[[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/20/328#purport|Madhya 20.328]], [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/12#purport|SB 1.3.12]], [[sb/2/7/2#purport|SB 2.7.2]], [[sb/3/33/13#purport|SB 3.33.13]], [[sb/3/33/19#purport|SB 3.33.19]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/61#purport|SB 4.22.61]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/67#purport|SB 4.24.67]], [[sb/8/24/10#purport|SB 8.24.10]], [[sb/8/24/37#purport|SB 8.24.37]], [[sb/8/24/57#purport|SB 8.24.57]]
 
 * as affectionate to Devahūti, [[sb/3/22/8-8#purport|SB 3.22.8-8]], [[sb/3/22/24-25#purport|SB 3.22.24-25]]
 * as Devahūti’s father, [[sb/3/22/9#purport|SB 3.22.9]], [[sb/3/22/18#purport|SB 3.22.18]]
@@ -24,14 +24,16 @@
 * Devahūti given to Kardama by, [[sb/3/22/22-24#purport|SB 3.22.22-24]]
 * Dhruva advised by, [[sb/4/11/7-34#purport|SB 4.11.7-34]]
 * Dhruva as descendant of, [[sb/4/9/19#purport|SB 4.9.19]], [[sb/4/11/28#purport|SB 4.11.28]]
+* follows orders of, [[sb/5/1/5#purport|SB 5.1.5]]
 * gave daughter for son, [[sb/4/1/2#purport|SB 4.1.2]]
 * genealogical succession from, [[sb/3/13/8#purport|SB 3.13.8]]
 * gets son of Ruci (Yajña), [[sb/4/1/5#purport|SB 4.1.5]]
+* given universal duties by, [[sb/5/1/12#purport|SB 5.1.12]]
 * glories of, [[sb/3/13/3#purport|SB 3.13.3]]
 * in Brahmāvarta, [[sb/3/21/25#purport|SB 3.21.25]]
 * in calf form, [[sb/4/18/12#purport|SB 4.18.12]]
 * in trance, [[sb/8/1/17#purport|SB 8.1.17]]
-* Kardama &. See: Kardama, Svāyambhuva Manu & ... 
+* Kardama &. See: Kardama, Svāyambhuva Manu & ...
 * knew Lord would appear, [[sb/4/1/2#purport|SB 4.1.2]]
 * Kṛṣṇa conscious life of, [[sb/3/22/33-33#purport|SB 3.22.33-33]], [[sb/3/22/34-36#purport|SB 3.22.34-36]]
 * law of, cited on punishment, [[sb/4/8/6#purport|SB 4.8.6]]
@@ -39,15 +41,15 @@
 * Lord worshiped by, [[sb/3/22/31-31#purport|SB 3.22.31-31]]
 * modern politicians compared with, [[sb/5/1/22#purport|SB 5.1.22]]
 * Nārada delivered family of, [[sb/6/5/35#purport|SB 6.5.35]]
-* Priyavrata 
+* Priyavrata
 * progeny of, [[sb/3/21/1-1#purport|SB 3.21.1-1]]
+* questions order of, [[sb/5/1/6#purport|SB 5.1.6]]
 * quoted on Brahmā & brāhmaṇas, [[sb/3/22/2#purport|SB 3.22.2]]
 * quoted on Supreme Being, [[sb/8/1/9#purport|SB 8.1.9]]
 * Rākṣasas chase, [[sb/8/1/17#purport|SB 8.1.17]]
 * relief from material desires achieved by, [[sb/5/1/22#purport|SB 5.1.22]]
 * returned to Barhiṣmatī, [[sb/3/22/28#purport|SB 3.22.28]], [[sb/3/22/32#purport|SB 3.22.32]]
 * sages’ residences pleased, [[sb/3/22/26-27#purport|SB 3.22.26-27]], [[sb/3/22/26-27#purport|SB 3.22.26-27]]
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/12#purport|SB 1.3.12]], [[sb/3/33/13#purport|SB 3.33.13]], [[sb/3/33/19#purport|SB 3.33.19]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/22/61#purport|SB 4.22.61]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/67#purport|SB 4.24.67]], [[sb/8/24/10#purport|SB 8.24.10]], [[sb/8/24/37#purport|SB 8.24.37]], [[sb/8/24/57#purport|SB 8.24.57]]
 * son of Brahmā, [[sb/4/8/6#purport|SB 4.8.6]]
 * sons of, [[sb/3/21/2#purport|SB 3.21.2]], [[sb/4/31/26#purport|SB 4.31.26]]
 * traveled with wife & daughter, [[sb/3/21/36#purport|SB 3.21.36]]

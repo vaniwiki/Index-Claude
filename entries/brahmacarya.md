@@ -1,9 +1,8 @@
 # Brahmacarya
 
-[[sb/2/7/6#purport|SB 2.7.6]]
+[[bg/6/13|Bg. 6.13]] (1), [[bg/8/11|Bg. 8.11]], [[bg/8/28|Bg. 8.28]], [[sb/2/7/6#purport|SB 2.7.6]]
 
 * āśrama choices beyond, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
-*  [[bg/6/13|Bg. 6.13]] (1), [[bg/8/11|Bg. 8.11]], [[bg/8/28|Bg. 8.28]]
 * celibacy vow in, [[sb/2/6/20#purport|SB 2.6.20]]
 * defined, [[sb/7/12/7#purport|SB 7.12.7]]
 * for children, [[sb/7/6/1-1#purport|SB 7.6.1-1]], [[sb/7/6/8-9#purport|SB 7.6.8-9]]

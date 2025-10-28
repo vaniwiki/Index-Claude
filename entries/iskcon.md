@@ -10,6 +10,6 @@
 * renunciation in, [[bg/18/11|Bg. 18.11]]
 * Vṛndāvana center of, [[sb/4/29/14#purport|SB 4.29.14]]
 
-*See also:* [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See also:* Kṛṣṇa consciousness; Kṛṣṇa consciousness movement
 
-*See:* [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]
+*See:* Kṛṣṇa consciousness movement

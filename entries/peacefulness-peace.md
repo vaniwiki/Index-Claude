@@ -6,13 +6,16 @@
 * chance for, [[bg/14/17|Bg. 14.17]]
 * devotees &, [[bg/11/49|Bg. 11.49]]
 * formula for, [[bg/5/29|Bg. 5.29]]
-* happiness via, 155–56 
-* Kṛṣṇa consciousness 
+* happiness via, 155–56
+* Kṛṣṇa consciousness
+  * necessary for, [[bg/2/66|Bg. 2.66]]
+  * only guarantee of, [[bg/2/8|Bg. 2.8]]
 * Kṛṣṇa offers, to Duryodhana, [[bg/11/47|Bg. 11.47]]
 * of self-realization, [[bg/18/51|Bg. 18.51]]
 * sense gratification &, [[bg/2/70|Bg. 2.70]]
 * via desirelessness, [[bg/2/70–71|Bg. 2.70–71]]
 * via detachment, [[bg/2/70–71|Bg. 2.70–71]], [[bg/18/51|Bg. 18.51]]
+  * & sense control alone, [[bg/2/70–71|Bg. 2.70–71]]
 * via devotional service, [[bg/9/31|Bg. 9.31]]
 * via knowing Lord, [[bg/15/17|Bg. 15.17]]
 * via knowledge & sense control, [[bg/4/39|Bg. 4.39]]

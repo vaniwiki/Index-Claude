@@ -1,6 +1,6 @@
 # Charity
 
-[[bg/16/1|Bg. 16.1]], [[sb/1/2/7#purport|SB 1.2.7]]
+[[bg/16/1|Bg. 16.1]], [[sb/1/2/7#purport|SB 1.2.7]], [[sb/3/25/10#purport|SB 3.25.10]], [[sb/3/25/27#purport|SB 3.25.27]], [[sb/3/32/34-36#purport|SB 3.32.34-36]], [[sb/4/27/1#purport|SB 4.27.1]], [[sb/4/31/14#purport|SB 4.31.14]]
 
 * Ambarīṣa gave cows in, [[sb/9/4/33-35#purport|SB 9.4.33-35]]
 * as dependent on devotional service, [[sb/2/4/17#purport|SB 2.4.17]]
@@ -33,7 +33,7 @@
 * by kings, [[sb/1/16/3#purport|SB 1.16.3]]
 * by kṣatriyas, [[sb/1/14/40#purport|SB 1.14.40]]
 * by Marutta, [[sb/1/12/33#purport|SB 1.12.33]]
-* by Nanda 
+* by Nanda
 * by Śrīvāsa, **[[cc/adi/13/102#translation|Ādi 13.102]]**
 * by Yudhiṣṭhira, [[sb/1/12/14#purport|SB 1.12.14]]
 * Caitanya’s advent &, **[[cc/adi/13/108–9#translation|Ādi 13.108–9]]**, **[[cc/adi/13/100–104#translation|Ādi 13.100–104]]**
@@ -44,6 +44,7 @@
 * daridra-nārāyaṇa &, [[cc/antya/3/136#purport|Antya 3.136]]
 * defined, [[bg/10/4|Bg. 10.4]] (9), [[bg/16/1|Bg. 16.1]] (7)
 * discrimination in, [[bg/8/28|Bg. 8.28]], [[bg/10/4|Bg. 10.4]] (9), [[bg/11/48|Bg. 11.48]], [[bg/11/54|Bg. 11.54]] (1), [[bg/17/20–22|Bg. 17.20–22]], [[bg/18/5|Bg. 18.5]]
+* distributed, at Kṛṣṇa’s ”birth” festival, [[sb/10/5/3#purport|SB 10.5.3]], [[sb/10/5/15-16#purport|SB 10.5.15-16]]
 * faithless, [[bg/17/28|Bg. 17.28]]
 * for economic gain, [[sb/4/22/36#purport|SB 4.22.36]]
 * for heavenly elevation, [[sb/1/15/12#purport|SB 1.15.12]]
@@ -82,7 +83,7 @@
 * of kṣatriyas to brāhmaṇas, [[sb/8/19/4#purport|SB 8.19.4]]
 * of Rāma returned by brāhmaṇas, [[sb/9/11/5-5#purport|SB 9.11.5-5]]
 * of Śaryāti to Cyavana, [[sb/9/3/9#purport|SB 9.3.9]]
-* of Virocana to ”brāhmaṇa,” 19.14
+* of Virocana to ”brāhmaṇa,”, 19.14
 * origin of, Kṛṣṇa as, [[bg/10/4|Bg. 10.4]]
 * penalty for violation of, [[sb/8/21/32#purport|SB 8.21.32]], [[sb/8/21/34-34#purport|SB 8.21.34-34]]
 * possessions for, [[sb/8/20/10#purport|SB 8.20.10]]
@@ -94,10 +95,10 @@
 * renunciation of, [[bg/18/3|Bg. 18.3]], [[bg/18/4–7|Bg. 18.4–7]]
 * restrictions for accepting, [[cc/adi/12/50#purport|Ādi 12.50]]
 * sannyāsī’s quota of, [[sb/8/19/17#purport|SB 8.19.17]]
-*  [[sb/3/25/10#purport|SB 3.25.10]], [[sb/3/25/27#purport|SB 3.25.27]], [[sb/3/32/34-36#purport|SB 3.32.34-36]], [[sb/4/27/1#purport|SB 4.27.1]], [[sb/4/31/14#purport|SB 4.31.14]]
 * Śukrācārya quoted on, [[sb/8/19/36#purport|SB 8.19.36]], [[sb/8/19/41#purport|SB 8.19.41]]
-* to *brāhmaṇas,* 10.4 (9), [[bg/11/48|Bg. 11.48]]
-* to *sannyāsīs,* 10.4 (9)
+* to *brāhmaṇas,*, 10.4 (9), [[bg/11/48|Bg. 11.48]]
+* to *sannyāsīs,*, 10.4 (9)
+* to brāhmaṇas for Kṛṣṇa’s welfare, [[sb/10/7/13-15#purport|SB 10.7.13-15]], [[sb/10/7/16#purport|SB 10.7.16]]
 * to brāhmaṇas, [[sb/1/12/14#purport|SB 1.12.14]], [[sb/1/13/31#purport|SB 1.13.31]], [[sb/1/15/16#purport|SB 1.15.16]], [[sb/3/3/26-28#purport|SB 3.3.26-28]], [[sb/6/5/36#purport|SB 6.5.36]], [[sb/7/11/16#purport|SB 7.11.16]], [[sb/7/14/10#purport|SB 7.14.10]], [[sb/7/14/38#purport|SB 7.14.38]], [[sb/7/15/2#purport|SB 7.15.2]]
 * to devotees, [[cc/antya/3/139#purport|Antya 3.139]], [[sb/7/15/2#purport|SB 7.15.2]]
 * to Jagannātha Miśra, **[[cc/adi/13/82#translation|Ādi 13.82]]**
@@ -111,11 +112,11 @@
 * value of giving, [[sb/8/20/10#purport|SB 8.20.10]]
 * wealth for, [[sb/8/20/9#purport|SB 8.20.9]]
 * wife not offered in, [[sb/4/22/44#purport|SB 4.22.44]]
-* with *oṁ, * 17.24
-* with sat,  17.26–28
-* with tat,  17.25
+* with *oṁ, *, 17.24
 * with attachment to results, [[bg/17/21|Bg. 17.21]]
 * with detachment, [[bg/17/20|Bg. 17.20]], [[bg/17/25|Bg. 17.25]]
+* with sat, 17.26–28
+* with tat, 17.25
 * Yudhiṣṭhira gave, [[sb/9/11/5#purport|SB 9.11.5]]
 
-*See also:* [[p#Philanthropy|Philanthropy]]; [[s#Sacrifice|Sacrifice]]; [[w#Welfare work|Welfare work]]; [[w#Welfare activity|Welfare activity]]
+*See also:* [Sacrifice](entries/sacrifices.md); Welfare work; Philanthropy; Welfare activity

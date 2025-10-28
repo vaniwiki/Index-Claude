@@ -1,6 +1,6 @@
 # Gandharva(s)
 
-**[[cc/adi/10/20#translation|Ādi 10.20]]**, **[[cc/antya/1/164#translation|Antya 1.164]]**, [[cc/antya/9/8#purport|Antya 9.8]], **[[cc/madhya/15/269#translation|Madhya 15.269]]**, [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/7/4/5-7#purport|SB 7.4.5-7]], [[sb/8/2/5#purport|SB 8.2.5]]
+**[[cc/adi/10/20#translation|Ādi 10.20]]**, **[[cc/madhya/15/269#translation|Madhya 15.269]]**, **[[cc/antya/1/164#translation|Antya 1.164]]**, [[cc/antya/9/8#purport|Antya 9.8]], [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/2/1/36#purport|SB 2.1.36]], [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/3/33/19#purport|SB 3.33.19]], [[sb/3/33/34#purport|SB 3.33.34]], [[sb/4/1/22#purport|SB 4.1.22]], [[sb/4/1/54-55#purport|SB 4.1.54-55]], [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/24/12#purport|SB 4.24.12]], [[sb/4/24/24-25#purport|SB 4.24.24-25]], [[sb/4/27/13-16#purport|SB 4.27.13-16]], [[sb/4/29/21#purport|SB 4.29.21]], [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/7/4/5-7#purport|SB 7.4.5-7]], [[sb/8/2/5#purport|SB 8.2.5]], [[sb/10/3/6#purport|SB 10.3.6]], [[sb/10/4/10-11#purport|SB 10.4.10-11]], [[sb/10/12/34#purport|SB 10.12.34]]
 
 * Ananta offered prayers by, [[sb/5/25/7#purport|SB 5.25.7]]
 * as fallible, [[sb/8/8/19#purport|SB 8.8.19]]
@@ -17,6 +17,7 @@
 * chief of, [[sb/8/11/41#purport|SB 8.11.41]]
 * crocodile as, [[sb/8/4/1#purport|SB 8.4.1]], [[sb/8/4/3-4#purport|SB 8.4.3-4]]
 * Devahūti attracted, [[sb/3/22/18#purport|SB 3.22.18]]
+* Devahūti bewildered, [[sb/3/22/17#purport|SB 3.22.17]], [[sb/3/22/18#purport|SB 3.22.18]]
 * discuss demigods, [[sb/4/7/43#purport|SB 4.7.43]]
 * ghosts inferior to, [[sb/5/5/21-22#purport|SB 5.5.21-22]]
 * girls & Devahūti, [[sb/3/23/37#purport|SB 3.23.37]], [[sb/3/23/38#purport|SB 3.23.38]]
@@ -33,7 +34,7 @@
 * Lord honored by, [[sb/8/4/2#purport|SB 8.4.2]], [[sb/8/4/13#purport|SB 8.4.13]]
 * Lord’s advent honored by, [[sb/8/18/8#purport|SB 8.18.8]]
 * marriage, [[sb/3/22/15#purport|SB 3.22.15]]
-* moonlight form seized by, [[sb/3/20/39#purport|SB 3.20.39]]
+* moonlight form seized by, [[sb/3/20/39#purport|SB 3.20.39]], [[sb/3/20/39#purport|SB 3.20.39]]
 * music milked by, [[sb/4/18/17#purport|SB 4.18.17]]
 * musical expertise by, [[sb/5/1/8#purport|SB 5.1.8]]
 * mystic perfection enjoyed by, [[sb/5/16/13-14#purport|SB 5.16.13-14]]
@@ -46,9 +47,8 @@
 * Purūravā &, [[sb/9/14/30#purport|SB 9.14.30]], [[sb/9/14/42#purport|SB 9.14.42]], [[sb/9/14/49#purport|SB 9.14.49]]
 * Rāmacandra’s glories chanted by, [[sb/5/19/2#purport|SB 5.19.2]]
 * saṅkīrtana by, [[sb/7/15/71#purport|SB 7.15.71]]
-*  [[sb/10/3/6#purport|SB 10.3.6]], [[sb/10/4/10-11#purport|SB 10.4.10-11]], [[sb/10/12/34#purport|SB 10.12.34]], [[sb/2/1/36#purport|SB 2.1.36]], [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/3/33/19#purport|SB 3.33.19]], [[sb/3/33/34#purport|SB 3.33.34]], [[sb/4/1/22#purport|SB 4.1.22]], [[sb/4/1/54-55#purport|SB 4.1.54-55]], [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/24/12#purport|SB 4.24.12]], [[sb/4/24/24-25#purport|SB 4.24.24-25]], [[sb/4/27/13-16#purport|SB 4.27.13-16]], [[sb/4/29/21#purport|SB 4.29.21]]
 * Siddhas superior to, [[sb/5/5/21-22#purport|SB 5.5.21-22]]
 * Sūrya worshiped by, [[sb/5/21/18#purport|SB 5.21.18]]
 * Urvaśī’s lambs stolen by, [[sb/9/14/27-30#purport|SB 9.14.27-30]]
-* Viśvāvasu 
+* Viśvāvasu
 * worship Paraśurāma, [[sb/9/16/26#purport|SB 9.16.26]]

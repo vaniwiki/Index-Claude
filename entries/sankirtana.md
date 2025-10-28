@@ -1,6 +1,6 @@
 # Saṅkīrtana
 
-**[[cc/adi/10/10#translation|Ādi 10.10]]**, **[[cc/adi/12/21#translation|Ādi 12.21]]**, **[[cc/adi/13/13#translation|Ādi 13.13]]**, **[[cc/adi/13/35#translation|Ādi 13.35]]**, **[[cc/adi/13/38#translation|Ādi 13.38]]**, **[[cc/adi/17/128#translation|Ādi 17.128]]**, **[[cc/adi/17/129#translation|Ādi 17.129]]**, **[[cc/adi/17/34–35#translation|Ādi 17.34–35]]**, **[[cc/adi/17/79–88#translation|Ādi 17.79–88]]**, **[[cc/adi/3/52#translation|Ādi 3.52]]**, **[[cc/adi/3/81#translation|Ādi 3.81]]**, **[[cc/madhya/1/167#translation|Madhya 1.167]]**, **[[cc/madhya/1/247#translation|Madhya 1.247]]**, **[[cc/madhya/1/251#translation|Madhya 1.251]]**, **[[cc/madhya/1/94#translation|Madhya 1.94]]**, **[[cc/madhya/11/213–38#translation|Madhya 11.213–38]]**, **[[cc/madhya/11/241#translation|Madhya 11.241]]**, **[[cc/madhya/14/70–72#translation|Madhya 14.70–72]]**, **[[cc/madhya/25/232#translation|Madhya 25.232]]**, **[[cc/madhya/25/63–64#translation|Madhya 25.63–64]]**, **[[cc/madhya/3/118#translation|Madhya 3.118]]**, **[[cc/madhya/3/156#translation|Madhya 3.156]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/3/201#translation|Madhya 3.201]]**, **[[cc/madhya/7/95–97#translation|Madhya 7.95–97]]**, **[[cc/madhya/9/70#translation|Madhya 9.70]]**
+**[[cc/madhya/3/118#translation|Madhya 3.118]]**, **[[cc/madhya/3/156#translation|Madhya 3.156]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/3/201#translation|Madhya 3.201]]**, **[[cc/madhya/1/94#translation|Madhya 1.94]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**, **[[cc/madhya/11/213–38#translation|Madhya 11.213–38]]**, **[[cc/madhya/11/241#translation|Madhya 11.241]]**, **[[cc/madhya/25/63–64#translation|Madhya 25.63–64]]**, **[[cc/adi/12/21#translation|Ādi 12.21]]**, **[[cc/adi/13/13#translation|Ādi 13.13]]**, **[[cc/adi/13/35#translation|Ādi 13.35]]**, **[[cc/adi/13/38#translation|Ādi 13.38]]**, **[[cc/madhya/1/247#translation|Madhya 1.247]]**, **[[cc/madhya/1/251#translation|Madhya 1.251]]**, **[[cc/madhya/25/232#translation|Madhya 25.232]]**, **[[cc/adi/17/79–88#translation|Ādi 17.79–88]]**, **[[cc/madhya/1/167#translation|Madhya 1.167]]**, **[[cc/madhya/7/95–97#translation|Madhya 7.95–97]]**, **[[cc/adi/10/10#translation|Ādi 10.10]]**, **[[cc/adi/17/34–35#translation|Ādi 17.34–35]]**, **[[cc/madhya/9/70#translation|Madhya 9.70]]**, **[[cc/adi/3/52#translation|Ādi 3.52]]**, **[[cc/adi/3/81#translation|Ādi 3.81]]**, **[[cc/adi/17/128#translation|Ādi 17.128]]**, **[[cc/adi/17/129#translation|Ādi 17.129]]**, **[[cc/madhya/14/70–72#translation|Madhya 14.70–72]]**
 
 * “Haraye namaḥ” &, **[[cc/adi/17/122#translation|Ādi 17.122]]**
 * artificial, [[cc/madhya/11/102#purport|Madhya 11.102]]
@@ -22,7 +22,9 @@
 * by ISKCON members, [[cc/madhya/11/96#purport|Madhya 11.96]], [[cc/madhya/11/97#purport|Madhya 11.97]]
 * by pure devotees, [[cc/madhya/11/95#purport|Madhya 11.95]]
 * by Tukārāma, [[cc/madhya/9/282#purport|Madhya 9.282]]
-* Caitanya 
+* Caitanya
+  * introduced, [[bg/3/12|Bg. 3.12]]
+  * recommended, [[bg/3/10|Bg. 3.10]]
 * Caitanya pleased via, [[sb/8/14/6#purport|SB 8.14.6]]
 * Caitanya started, [[sb/7/9/38#purport|SB 7.9.38]], [[sb/7/14/39#purport|SB 7.14.39]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/14/4#purport|SB 8.14.4]]
 * Caitanya worshiped via, **[[cc/madhya/11/99#translation|Madhya 11.99]]**, [[cc/madhya/14/16#purport|Madhya 14.16]]
@@ -61,6 +63,6 @@
 * Vedic rituals require, [[sb/7/14/26#purport|SB 7.14.26]]
 * worship by, [[sb/8/5/27#purport|SB 8.5.27]]
 
-*See also:* [[c#Chanting in Kṛṣṇa consciousness|Chanting in Kṛṣṇa consciousness]]; Chantings holy name of Lord; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]; [[p#Preaching Kṛṣṇa consciousness|Preaching Kṛṣṇa consciousness]]; Chanting holy names; [[p#Preachers|Preachers]]; [[g#Glorification about Supreme Lord|Glorification about Supreme Lord]]
+*See also:* Chanting holy names; Hare Kṛṣṇa mantra; Preachers; Glorification about Supreme Lord; Chanting in Kṛṣṇa consciousness; Chantings holy name of Lord; Kṛṣṇa consciousness movement; Preaching Kṛṣṇa consciousness
 
-*See:* Chantings holy name of Lord; [[g#Glorification about Lord|Glorification about Lord]]; [[p#Preaching|Preaching]]
+*See:* Chantings holy name of Lord; Glorification about Lord; [Preaching](entries/preaching.md)

@@ -10,4 +10,4 @@
 * soul beyond, [[sb/4/8/28#purport|SB 4.8.28]]
 * women expand, [[sb/4/3/9#purport|SB 4.3.9]]
 
-*See also:* [[h#Happiness|Happiness]]
+*See also:* [Happiness](entries/happiness.md)

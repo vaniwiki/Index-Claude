@@ -4,16 +4,19 @@
 
 * ”oneness & difference” concept in, [[sb/1/1/2#purport|SB 1.1.2]]
 * *ānanda-maya *phase of, [[bg/13/5|Bg. 13.5]]
-* anna-maya phase of, [[bg/13/5|Bg. 13.5]]
 * *brahma-bhūta *stage, [[bg/18/54|Bg. 18.54]], [[bg/18/63|Bg. 18.63]]
 * *jñāna-maya*, [[bg/13/5|Bg. 13.5]]
 * *prāṇa-maya *phase of, [[bg/13/5|Bg. 13.5]]
-* *sac-cid-ānanda-vigraha *&, 13 
+  * prerequisites for, [[bg/2/29|Bg. 2.29]]
+  * *See:* Devotional service; Yoga
+  * via remembering Lord, [[bg/10/12|Bg. 10.12]]
+  * via renunciation, [[bg/12/3|Bg. 12.3]]
+* *sac-cid-ānanda-vigraha *&, 13
 * *vijñāna-maya *phase of, [[bg/13/5|Bg. 13.5]]
 * above material modes, [[sb/1/2/20#purport|SB 1.2.20]]
 * all may have, 28, [[bg/9/32|Bg. 9.32]], [[bg/10/17|Bg. 10.17]]
-* *See:* [[g#God realization|God realization]]; stages of 
 * animal-killing block to, [[sb/1/3/24#purport|SB 1.3.24]]
+* anna-maya phase of, [[bg/13/5|Bg. 13.5]]
 * as perfection of knowledge, [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]]
 * as Supersoul, [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/42#purport|SB 4.28.42]]
 * atmosphere required for, [[sb/1/7/2#purport|SB 1.7.2]]
@@ -28,6 +31,7 @@
 * chanting Hare Kṛṣṇa for, SB Intro 5, SB Intro 6
 * classes of, three, [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/2/11#purport|SB 1.2.11]]
 * compared to seeing sun, [[sb/4/29/79#purport|SB 4.29.79]]
+* compared, [[sb/4/30/30-31#purport|SB 4.30.30-31]], [[sb/4/31/3#purport|SB 4.31.3]]
 * complete, compared with partial, [[bg/4/11|Bg. 4.11]]
 * death at, for atheists, [[sb/4/28/22#purport|SB 4.28.22]]
 * demigods fail at, [[sb/9/9/46#purport|SB 9.9.46]]
@@ -39,25 +43,25 @@
 * disciplic succession access to, [[sb/6/3/20-21#purport|SB 6.3.20-21]]
 * divisions of society for, [[sb/1/3/13#purport|SB 1.3.13]]
 * equanimity in, [[bg/18/54|Bg. 18.54]]
-* facility for, 13 
-* *See:* [[g#God realization|God realization]]; stages of 
+* facility for, 13
 * for devotee, [[sb/4/31/20#purport|SB 4.31.20]]
 * for materialists, [[sb/1/5/16#purport|SB 1.5.16]], [[sb/1/5/16#purport|SB 1.5.16]]
 * happiness from, [[bg/18/54|Bg. 18.54]]
 * happiness result of, [[sb/6/4/41#purport|SB 6.4.41]]
 * hearing process for, SB Intro 7, SB Intro 29, SB Intro 30, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/32#purport|SB 1.2.32]], [[sb/1/5/34#purport|SB 1.5.34]], [[sb/1/6/25#purport|SB 1.6.25]]
 * highest, [[bg/7/24|Bg. 7.24]] (1–2), [[bg/7/26|Bg. 7.26]], [[bg/13/8|Bg. 13.8]] (14), [[bg/14/27|Bg. 14.27]], [[bg/18/78|Bg. 18.78]] (4)
+  * *See also:* God realization; Bhagavān stage of; Kṛṣṇa consciousness
 * human life for, [[sb/1/11/7#purport|SB 1.11.7]]
 * humility necessary in, [[bg/13/8|Bg. 13.8]] (15), [[bg/15/5|Bg. 15.5]]
 * imperfect, two kinds of, [[sb/1/2/12#purport|SB 1.2.12]]
 * impersonal stage of 13, [[bg/4/11|Bg. 4.11]], [[bg/4/13|Bg. 4.13]], [[bg/7/1|Bg. 7.1]], [[bg/7/3|Bg. 7.3]], [[bg/7/8|Bg. 7.8]], [[bg/7/13|Bg. 7.13]], [[bg/10/2|Bg. 10.2]], [[bg/12/5|Bg. 12.5]] (1–4), [[bg/18/54|Bg. 18.54]]
+  * *See also:* Impersonalism
 * in forests, [[sb/1/6/21#purport|SB 1.6.21]]
 * Indians should propagate, [[sb/1/1/21#purport|SB 1.1.21]]
-* *See:* [[g#God realization|God realization]]; stages of 
 * Kṛṣṇa consciousness as, [[bg/2/52|Bg. 2.52]], [[bg/7/26|Bg. 7.26]]
 * Kṛṣṇa object of, [[bg/4/11|Bg. 4.11]]
 * Kṛṣṇa realization as, [[bg/15/15|Bg. 15.15]]
-* levels of 
+* levels of
 * life meant for, [[sb/1/17/10-11#purport|SB 1.17.10-11]]
 * Lord’s assistance for, [[sb/4/28/41#purport|SB 4.28.41]], [[sb/4/28/51#purport|SB 4.28.51]], [[sb/4/29/5#purport|SB 4.29.5]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/30/10#purport|SB 4.30.10]], [[sb/4/30/20#purport|SB 4.30.20]], [[sb/4/31/13#purport|SB 4.31.13]]
 * many births required for, [[sb/4/28/39#purport|SB 4.28.39]]
@@ -71,9 +75,9 @@
 * perfection of, [[sb/9/9/49#purport|SB 9.9.49]]
 * personal, compared with impersonal, [[bg/7/3|Bg. 7.3]], [[bg/7/8|Bg. 7.8]], [[bg/9/11|Bg. 9.11]] (6–8), [[bg/10/2|Bg. 10.2]], [[bg/12/1–7|Bg. 12.1–7]]
 * practices for, stages of, [[bg/12/12|Bg. 12.12]]
-* preachers of. See: Preachers of God consciousness 
+* preachers of. See: Preachers of God consciousness
 * process for, summary of, [[sb/1/5/34#purport|SB 1.5.34]]
-* process of. See: Devotional service 
+* process of. See: Devotional service
 * propagated by devotees of Lord, [[sb/1/2/16#purport|SB 1.2.16]]
 * purificatory effect of, [[sb/1/6/27#purport|SB 1.6.27]]
 * purity needed for, [[sb/1/6/21#purport|SB 1.6.21]], [[sb/1/6/21#purport|SB 1.6.21]]
@@ -86,9 +90,11 @@
 * spiritual master for, [[sb/1/2/32#purport|SB 1.2.32]], [[sb/1/5/23#purport|SB 1.5.23]]
 * Śrīmad-Bhāgavatam hearing for, [[sb/1/1/2#purport|SB 1.1.2]]
 * stages of 12–13, [[bg/4/11|Bg. 4.11]], [[bg/4/13|Bg. 4.13]], [[bg/5/17|Bg. 5.17]], [[bg/6/10|Bg. 6.10]], [[bg/6/15|Bg. 6.15]], [[bg/7/1|Bg. 7.1]], [[bg/7/17|Bg. 7.17]], [[bg/7/19|Bg. 7.19]], [[bg/7/24|Bg. 7.24]] (2), [[bg/7/26|Bg. 7.26]], [[bg/10/15|Bg. 10.15]], [[bg/13/5|Bg. 13.5]], [[bg/13/8|Bg. 13.8]] (15), [[bg/14/27|Bg. 14.27]], [[bg/15/15|Bg. 15.15]], [[bg/18/78|Bg. 18.78]] (5)
+  * compared to staircase, [[bg/13/8|Bg. 13.8]] (15)
 * stages of, [[sb/1/15/27#purport|SB 1.15.27]]
 * stages of, two defined, [[sb/6/4/26#purport|SB 6.4.26]]
 * Supersoul realization &, [[bg/6/31|Bg. 6.31]], [[bg/12/3|Bg. 12.3]], [[bg/13/28–29|Bg. 13.28–29]]
+* three, [[sb/4/31/12#purport|SB 4.31.12]]
 * types of attempts for, [[bg/13/25|Bg. 13.25]]
 * types of, three described, [[sb/6/9/33#purport|SB 6.9.33]]
 * understanding material world &, [[sb/6/4/46-46#purport|SB 6.4.46-46]]
@@ -103,4 +109,6 @@
 * via surrender to Lord, [[sb/4/21/35#purport|SB 4.21.35]]
 * yoga for, [[sb/9/19/10#purport|SB 9.19.10]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; Devotional service; [[s#Self-realiātion|Self-realiātion]]
+*See also:* Devotional service; Kṛṣṇa consciousness; Self-realiātion
+
+*See:* God realization; stages of

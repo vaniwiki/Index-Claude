@@ -8,7 +8,7 @@
 * bliss via, **[[cc/madhya/8/69#translation|Madhya 8.69]]**
 * by Vṛndāvana residents, [[cc/adi/4/23#purport|Ādi 4.23]]
 * characteristics of, **[[cc/adi/4/206#translation|Ādi 4.206]]**
-* compared 
+* compared
 * definition of, [[sb/5/17/11#purport|SB 5.17.11]], [[sb/5/18/8#purport|SB 5.18.8]], [[sb/5/19/7#purport|SB 5.19.7]]
 * empiric philosophy &, [[cc/madhya/8/68#purport|Madhya 8.68]]
 * impersonalists &, [[cc/madhya/9/11#purport|Madhya 9.11]]
@@ -22,3 +22,5 @@
 * via bhakti-yoga, [[cc/madhya/8/57#purport|Madhya 8.57]]
 * via realization of Supreme Brahman, [[sb/5/19/20#purport|SB 5.19.20]]
 * via surrender to Lord, [[cc/madhya/8/66#purport|Madhya 8.66]]
+* with heavenly planets, elevation to, [[sb/5/17/3#purport|SB 5.17.3]]
+* with liberation, [[sb/5/17/3#purport|SB 5.17.3]]

@@ -1,8 +1,10 @@
 # Ambarīṣa Mahārāja
 
-[[cc/adi/1/62#purport|Ādi 1.62]], [[cc/adi/4/208#purport|Ādi 4.208]], **[[cc/madhya/22/135#translation|Madhya 22.135]]**, **[[cc/madhya/22/137–39#translation|Madhya 22.137–39]]**, [[cc/madhya/8/72#purport|Madhya 8.72]], [[sb/1/1/1#purport|SB 1.1.1]], [[sb/10/1/41#purport|SB 10.1.41]]
+[[bg/2/60|Bg. 2.60]], [[bg/2/67|Bg. 2.67]], [[cc/adi/1/62#purport|Ādi 1.62]], [[cc/adi/4/208#purport|Ādi 4.208]], [[cc/madhya/8/72#purport|Madhya 8.72]], **[[cc/madhya/22/135#translation|Madhya 22.135]]**, **[[cc/madhya/22/137–39#translation|Madhya 22.137–39]]**, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/8/20#purport|SB 2.8.20]], [[sb/3/19/22#purport|SB 3.19.22]], [[sb/3/24/42#purport|SB 3.24.42]], [[sb/3/25/23#purport|SB 3.25.23]], [[sb/3/28/9#purport|SB 3.28.9]], [[sb/3/32/33#purport|SB 3.32.33]], [[sb/4/20/18#purport|SB 4.20.18]], [[sb/4/24/71#purport|SB 4.24.71]], [[sb/4/25/57-61#purport|SB 4.25.57-61]], [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/29/7#purport|SB 4.29.7]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/31/21#purport|SB 4.31.21]], [[sb/10/1/41#purport|SB 10.1.41]]
 
 * Absolute Truth known to, [[sb/9/5/25#purport|SB 9.5.25]]
+* angry at, [[sb/9/4/43-46#purport|SB 9.4.43-46]]
+* appreciated, [[sb/9/5/14-22#purport|SB 9.5.14-22]]
 * as Durvāsā’s friend, [[sb/9/5/24#purport|SB 9.5.24]]
 * as Durvāsā’s host, [[sb/9/4/36#purport|SB 9.4.36]]
 * as exalted, [[sb/9/4/13#purport|SB 9.4.13]], [[sb/9/4/14#purport|SB 9.4.14]], [[sb/9/4/24#purport|SB 9.4.24]]
@@ -16,18 +18,20 @@
 * as tolerant, [[sb/9/5/24#purport|SB 9.5.24]]
 * as world ruler, [[sb/9/4/15-16#purport|SB 9.4.15-16]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/5/24#purport|SB 9.5.24]]
 * aśvamedha sacrifice by, [[sb/9/4/22#purport|SB 9.4.22]]
+* at feet of, [[sb/9/5/1#purport|SB 9.5.1]], [[sb/9/5/2#purport|SB 9.5.2]]
 * ātma-nivedanam exemplified by, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 * attachments shucked by, [[sb/9/4/27#purport|SB 9.4.27]]
 * austerity by, [[sb/9/4/26#purport|SB 9.4.26]]
-*  [[bg/2/60|Bg. 2.60]], [[bg/2/67|Bg. 2.67]], [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/8/20#purport|SB 2.8.20]], [[sb/3/19/22#purport|SB 3.19.22]], [[sb/3/24/42#purport|SB 3.24.42]], [[sb/3/25/23#purport|SB 3.25.23]], [[sb/3/28/9#purport|SB 3.28.9]], [[sb/3/32/33#purport|SB 3.32.33]], [[sb/4/20/18#purport|SB 4.20.18]], [[sb/4/24/71#purport|SB 4.24.71]], [[sb/4/25/57-61#purport|SB 4.25.57-61]], [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/29/7#purport|SB 4.29.7]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/31/21#purport|SB 4.31.21]]
-* brāhmaṇa(s) 
+* brāhmaṇa(s)
 * citizenry under, [[sb/9/4/24#purport|SB 9.4.24]]
 * compared to mercantile man, [[sb/9/5/27#purport|SB 9.5.27]]
+* consulted by, about breaking fast, [[sb/9/4/38#purport|SB 9.4.38]]
+* contrasted to, [[sb/9/4/65#purport|SB 9.4.65]], [[sb/9/4/68#purport|SB 9.4.68]]
 * cows given in charity by, [[sb/9/4/33-35#purport|SB 9.4.33-35]]
 * curse ineffective on, [[sb/9/4/13-14#purport|SB 9.4.13-14]]
 * Deity bathed & dressed by, [[sb/9/4/31-32#purport|SB 9.4.31-32]]
 * devotional service of, [[sb/3/25/44#purport|SB 3.25.44]]
-* Durvāsā 
+* Durvāsā
 * Durvāsā Muni &, [[bg/2/6|Bg. 2.6]], [[bg/2/61|Bg. 2.61]]
 * Durvāsā offender of, [[sb/5/13/23#purport|SB 5.13.23]]
 * Durvāsā’s cause pleaded by, [[sb/9/5/4#purport|SB 9.5.4]], [[sb/9/5/9-11#purport|SB 9.5.9-11]]
@@ -36,13 +40,16 @@
 * Ekādaśī vow observed by, [[sb/9/4/29#purport|SB 9.4.29]], [[sb/9/4/30#purport|SB 9.4.30]], [[sb/9/4/68#purport|SB 9.4.68]]
 * fasting by, [[sb/9/4/30#purport|SB 9.4.30]], [[sb/9/4/39-40#purport|SB 9.4.39-40]], [[sb/9/5/18#purport|SB 9.5.18]], [[sb/9/5/23#purport|SB 9.5.23]]
 * fearless, [[sb/9/4/28#purport|SB 9.4.28]], [[sb/9/4/47#purport|SB 9.4.47]], [[sb/9/4/48#purport|SB 9.4.48]], [[sb/9/4/65#purport|SB 9.4.65]]
+* fed by, [[sb/9/5/18#purport|SB 9.5.18]], [[sb/9/5/24#purport|SB 9.5.24]]
 * government of, [[sb/9/13/12#purport|SB 9.13.12]]
+* guests satisfied by, [[sb/9/4/33-35#purport|SB 9.4.33-35]]
+* heeded by, [[sb/9/4/21-21#purport|SB 9.4.21-21]]
 * in devotional service, [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/22#purport|SB 9.4.22]], [[sb/9/4/26#purport|SB 9.4.26]], [[sb/9/5/25#purport|SB 9.5.25]], [[sb/9/5/27#purport|SB 9.5.27]]
 * in household life, [[sb/9/4/29#purport|SB 9.4.29]]
 * in knowledge of everything, [[sb/9/5/25#purport|SB 9.5.25]]
 * in vānaprastha, [[sb/9/5/26#purport|SB 9.5.26]]
 * kingdom divided by, among sons, [[sb/9/5/26-26#purport|SB 9.5.26-26]]
-* Lord 
+* Lord
 * Lord’s gift to, [[sb/9/4/28#purport|SB 9.4.28]]
 * Lord’s mercy on, [[sb/9/5/24#purport|SB 9.5.24]]
 * material desires rejected by, [[sb/9/4/26#purport|SB 9.4.26]]
@@ -50,17 +57,26 @@
 * mind control by, [[sb/5/11/7#purport|SB 5.11.7]]
 * narration about, purifying power of, [[sb/9/5/27#purport|SB 9.5.27]], [[sb/9/5/28#purport|SB 9.5.28]]
 * narration concerning Durvāsā &, lesson from, [[sb/9/4/71#purport|SB 9.4.71]]
+* on breaking fast, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
+* on Sudarśana cakra, [[sb/9/5/3-9#purport|SB 9.5.3-9]]
 * opulence disinterested, [[sb/9/4/15-16#purport|SB 9.4.15-16]]
 * opulence used by, [[sb/7/10/1#purport|SB 7.10.1]]
-* prayed 
+* prayed
+* prayed to by, [[sb/9/5/10#purport|SB 9.5.10]], [[sb/9/5/11#purport|SB 9.5.11]]
+* protected, [[sb/9/4/48#purport|SB 9.4.48]]
 * pure devotees heeded by, [[sb/9/4/21#purport|SB 9.4.21]]
 * queen of, [[sb/9/4/29#purport|SB 9.4.29]]
 * remembrance of Lord by, [[sb/5/1/38#purport|SB 5.1.38]]
 * retired to forest, [[sb/9/5/26#purport|SB 9.5.26]], [[sb/9/5/27#purport|SB 9.5.27]]
 * sacrifices by, [[sb/9/4/22#purport|SB 9.4.22]], [[sb/9/4/23#purport|SB 9.4.23]]
 * sense gratification rejected by, [[sb/7/10/1#purport|SB 7.10.1]], [[sb/9/4/18-20#purport|SB 9.4.18-20]]
+* served by, [[sb/9/4/18-20#purport|SB 9.4.18-20]], [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/4/26#purport|SB 9.4.26]]
 * sons of, [[sb/9/5/26-26#purport|SB 9.5.26-26]], [[sb/9/6/1#purport|SB 9.6.1]]
-* Sudarśana cakra &. See: Sudarśana cakra, Ambarīṣa & 
+* Sudarśana cakra &. See: Sudarśana cakra, Ambarīṣa &
+* to Lord on Durvāsā’s behalf, [[sb/9/5/10#purport|SB 9.5.10]], [[sb/9/5/11#purport|SB 9.5.11]]
+* to Sudarśana weapon, [[sb/9/5/3-9#purport|SB 9.5.3-9]]
 * universe as considered by, [[sb/9/4/17#purport|SB 9.4.17]]
 * Viśvanātha Cakravartī supports, [[sb/9/4/44#purport|SB 9.4.44]]
 * vs. Durvāsā Muni, [[sb/1/15/11#purport|SB 1.15.11]]
+* worshiped by, [[sb/9/4/31-32#purport|SB 9.4.31-32]], [[sb/9/4/29-32#purport|SB 9.4.29-32]]
+* wronged, [[sb/9/4/68#purport|SB 9.4.68]], [[sb/9/4/69#purport|SB 9.4.69]], [[sb/9/5/6#purport|SB 9.5.6]]

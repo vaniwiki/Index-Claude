@@ -5,4 +5,4 @@
 
 *See also:* Annihilation of universe; Universes
 
-*See:* [[c#Creation|Creation]]; the; [[m#Material world|Material world]]; Universes; [[u#Universe|Universe]]
+*See:* [Creation](entries/creation.md); the; Material world; Universes; Universe

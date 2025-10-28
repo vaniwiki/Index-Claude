@@ -1,34 +1,32 @@
 # Material world
 
-**[[cc/adi/13/77#translation|Ādi 13.77]]**, [[cc/adi/14/42#purport|Ādi 14.42]], [[cc/adi/2/10#purport|Ādi 2.10]], **[[cc/adi/2/20#translation|Ādi 2.20]]**, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/51#purport|Ādi 5.51]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/madhya/20/301#translation|Madhya 20.301]]**, **[[cc/madhya/24/22#translation|Madhya 24.22]]**, [[cc/madhya/24/24#purport|Madhya 24.24]], **[[cc/madhya/25/110–13#translation|Madhya 25.110–13]]**
+[[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/2/10#purport|Ādi 2.10]], [[cc/adi/5/51#purport|Ādi 5.51]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/madhya/25/110–13#translation|Madhya 25.110–13]]**, **[[cc/madhya/24/22#translation|Madhya 24.22]]**, [[cc/madhya/24/24#purport|Madhya 24.24]], **[[cc/adi/2/20#translation|Ādi 2.20]]**, **[[cc/adi/13/77#translation|Ādi 13.77]]**, **[[cc/madhya/20/301#translation|Madhya 20.301]]**, [[cc/adi/14/42#purport|Ādi 14.42]]
 
 * ”I-&-mine” concept in, [[sb/2/1/11#purport|SB 2.1.11]]
 * ”I-&-mine” conception in, [[sb/4/11/30#purport|SB 4.11.30]]
-* “not habitable for sane gentleman,” 9.33
-* brahmajyoti covered in, [[bg/13/18|Bg. 13.18]]
-* mahat-tattva covering of, [[bg/9/8|Bg. 9.8]], [[bg/13/18|Bg. 13.18]]
+* “not habitable for sane gentleman,”, 9.33
 * *pradhāna *&, [[bg/5/10|Bg. 5.10]]
 * activated by Lord’s glance, [[sb/2/10/10#purport|SB 2.10.10]], [[sb/2/10/45#purport|SB 2.10.45]]
 * activities binding one to, [[sb/9/10/23#purport|SB 9.10.23]]
-* activities in 
 * activities in, [[sb/4/23/28#purport|SB 4.23.28]]
+  * sex center of, [[bg/3/39|Bg. 3.39]]
+  * spiritualized via Kṛṣṇa consciousness, [[bg/4/24|Bg. 4.24]]
 * Ambarīṣa indifferent to, [[sb/9/5/25#purport|SB 9.5.25]]
 * analytical study of, [[bg/5/4–5|Bg. 5.4–5]]
+  * *See also:* Sāṅkhya; Sāṅkhya-yoga
 * Ananta &, **[[cc/adi/5/101#translation|Ādi 5.101]]**
 * Ananta destroyer of, [[sb/5/25/3#purport|SB 5.25.3]], [[sb/5/25/6#purport|SB 5.25.6]]
-* *See:* [[a#Annihilation|Annihilation]] 
-* annihilation of. See: Annihilation 
-* annihilation of. See: Annihilation of universe(s) 
+* annihilation of. See: Annihilation
 * anxiety in, [[cc/adi/7/74#purport|Ādi 7.74]], [[sb/4/30/35#purport|SB 4.30.35]], [[sb/9/9/46#purport|SB 9.9.46]]
-* as ”unsteady field,” [[sb/4/2/20#purport|SB 4.2.20]]
-* as *maithunya-āgāra,* 3.39 3.39
+* as ”unsteady field,”, [[sb/4/2/20#purport|SB 4.2.20]]
+* as *maithunya-āgāra,*, 3.39
 * as asat, [[sb/3/26/9#purport|SB 3.26.9]]
 * as bad home, [[sb/2/2/14#purport|SB 2.2.14]]
 * as birth & death, place of repeated, [[bg/9/21|Bg. 9.21]]
 * as changeable & chancy, [[sb/10/8/5#purport|SB 10.8.5]]
-* as complete, 13 
+* as complete, 13
 * as creation of Lord, [[sb/6/1/4-5#purport|SB 6.1.4-5]], [[sb/6/1/4-5#purport|SB 6.1.4-5]]
-* as dangerous, [[sb/10/6/1#purport|SB 10.6.1]], [[sb/10/6/3#purport|SB 10.6.3]], [[sb/10/6/27-29#purport|SB 10.6.27-29]], [[sb/10/13/13#purport|SB 10.13.13]], [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/26/16#purport|SB 4.26.16]], [[sb/7/10/13#purport|SB 7.10.13]], [[sb/8/2/31#purport|SB 8.2.31]], [[sb/8/2/32#purport|SB 8.2.32]], [[sb/8/2/33#purport|SB 8.2.33]], [[sb/9/7/7#purport|SB 9.7.7]]
+* as dangerous, [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/26/16#purport|SB 4.26.16]], [[sb/7/10/13#purport|SB 7.10.13]], [[sb/8/2/31#purport|SB 8.2.31]], [[sb/8/2/32#purport|SB 8.2.32]], [[sb/8/2/33#purport|SB 8.2.33]], [[sb/9/7/7#purport|SB 9.7.7]], [[sb/10/6/1#purport|SB 10.6.1]], [[sb/10/6/3#purport|SB 10.6.3]], [[sb/10/6/27-29#purport|SB 10.6.27-29]], [[sb/10/13/13#purport|SB 10.13.13]]
 * as demoniac, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/7/5/16#purport|SB 7.5.16]]
 * as demonstration of Lord’s creative energy, [[sb/5/18/31#purport|SB 5.18.31]]
 * as dog-eat-dog, [[sb/7/3/12-13#purport|SB 7.3.12-13]]
@@ -51,7 +49,7 @@
 * as imitation reality, [[sb/2/1/31#purport|SB 2.1.31]]
 * as impersonal energy, [[sb/2/5/14#purport|SB 2.5.14]]
 * as incomprehensible, [[sb/8/5/43#purport|SB 8.5.43]]
-* as Lord’s ”mistress,” [[sb/2/6/22#purport|SB 2.6.22]]
+* as Lord’s ”mistress,”, [[sb/2/6/22#purport|SB 2.6.22]]
 * as Lord’s energy, [[sb/3/24/16#purport|SB 3.24.16]], [[sb/3/24/33#purport|SB 3.24.33]], [[sb/3/26/4-4#purport|SB 3.26.4-4]], [[sb/5/12/8#purport|SB 5.12.8]], [[sb/5/18/32#purport|SB 5.18.32]], [[sb/6/16/52-52#purport|SB 6.16.52-52]]
 * as Lord’s external energy, [[sb/4/24/64#purport|SB 4.24.64]]
 * as Lord’s external potency, [[sb/7/3/34#purport|SB 7.3.34]]
@@ -60,6 +58,7 @@
 * as māyā’s kingdom, [[sb/3/16/9#purport|SB 3.16.9]]
 * as mental concoction, [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-23#purport|SB 6.15.21-23]]
 * as miserable, [[bg/8/15|Bg. 8.15]], [[bg/9/33|Bg. 9.33]], [[bg/11/43|Bg. 11.43]], [[sb/3/22/32#purport|SB 3.22.32]], [[sb/3/22/37#purport|SB 3.22.37]], [[sb/3/24/27#purport|SB 3.24.27]], [[sb/3/30/9#purport|SB 3.30.9]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/30/1#purport|SB 4.30.1]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/5/43#purport|SB 8.5.43]], [[sb/9/7/7#purport|SB 9.7.7]], [[sb/9/13/27#purport|SB 9.13.27]]
+  * *See also:* Suffering
 * as mixture of matter & spirit, [[sb/5/12/8#purport|SB 5.12.8]]
 * as nondifferent from Lord, [[sb/6/8/31#purport|SB 6.8.31]]
 * as one with & different from Lord, [[sb/4/31/16-16#purport|SB 4.31.16-16]]
@@ -88,29 +87,44 @@
 * atheists overrunning, [[sb/7/8/31#purport|SB 7.8.31]]
 * attraction to, cause of, [[sb/2/5/15#purport|SB 2.5.15]]
 * austerity advances one in, [[sb/7/3/11#purport|SB 7.3.11]]
+* avoid, [[sb/7/4/44#purport|SB 7.4.44]]
 * Baladeva &, **[[cc/adi/13/75#translation|Ādi 13.75]]**
 * basis of, Lord as, [[sb/4/1/56#purport|SB 4.1.56]], [[sb/4/7/50#purport|SB 4.7.50]], [[sb/4/7/51#purport|SB 4.7.51]]
 * beauty in, spiritual source for, [[sb/2/10/49-50#purport|SB 2.10.49-50]]
 * beauty of, source of, [[sb/3/8/24-25#purport|SB 3.8.24-25]]
 * begging, borrowing, & stealing in, [[sb/5/13/12#purport|SB 5.13.12]]
+* beyond, [[sb/7/3/32#purport|SB 7.3.32]], [[sb/7/9/32#purport|SB 7.9.32]], [[sb/10/3/14#purport|SB 10.3.14]]
 * birth, death, disease, & old age in, [[sb/2/2/2#purport|SB 2.2.2]], [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/27#purport|SB 2.2.27]], [[sb/2/5/19#purport|SB 2.5.19]], [[sb/2/5/41#purport|SB 2.5.41]]
 * bodies in, [[sb/4/20/35-36#purport|SB 4.20.35-36]]
 * bodily concept in, [[sb/2/7/42#purport|SB 2.7.42]]
 * bondage in, by selfish work, [[sb/4/6/53#purport|SB 4.6.53]]
-* *See:* [[l#Liberation|Liberation]] 
 * bondage to, [[sb/1/10/11-12#purport|SB 1.10.11-12]], [[sb/1/13/42#purport|SB 1.13.42]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/78-78#purport|SB 4.29.78-78]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/7/6/16#purport|SB 7.6.16]], [[sb/7/12/7#purport|SB 7.12.7]], [[sb/9/8/26#purport|SB 9.8.26]]
-* bondage to. See: Bondage, material 
 * Brahmā creates, [[sb/5/17/16#purport|SB 5.17.16]]
+* brahmajyoti covered in, [[bg/13/18|Bg. 13.18]]
 * Brahman causes, [[sb/4/9/16#purport|SB 4.9.16]]
-* but not false, [[bg/9/33|Bg. 9.33]]
+* brains behind, [[sb/2/5/2#purport|SB 2.5.2]], [[sb/2/5/2#purport|SB 2.5.2]]
+* but not false, [[bg/9/33|Bg. 9.33]], [[sb/5/10/21#purport|SB 5.10.21]], [[sb/5/18/32#purport|SB 5.18.32]]
+  * *See also:* Material nature; Planets; material; Universe
+* callous to, [[sb/7/9/23#purport|SB 7.9.23]], [[sb/7/9/23#purport|SB 7.9.23]], [[sb/7/9/44#purport|SB 7.9.44]]
+* cat, [[sb/3/25/24#purport|SB 3.25.24]]
 * Causal Ocean &, **[[cc/madhya/20/268–69#translation|Madhya 20.268–69]]**
-* cause & effect in 
-* cause of 
+* cause & effect in
+* cause of, [[sb/5/12/8#purport|SB 5.12.8]], [[sb/5/22/3#purport|SB 5.22.3]], [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/26-27#purport|SB 6.9.26-27]]
+  * research of, [[bg/15/3|Bg. 15.3]]
+  * subordinate, material nature as, [[bg/9/8|Bg. 9.8]], [[bg/9/10|Bg. 9.10]]
 * cause of, Lord as, [[sb/4/1/57#purport|SB 4.1.57]]
-* cause of, [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/26-27#purport|SB 6.9.26-27]]
 * change in, [[sb/2/6/18#purport|SB 2.6.18]]
-* compared , , , 
-* compared to , 
+* compared
+  * to banyan tree, [[bg/15/1–4|Bg. 15.1–4]], [[bg/16/1|Bg. 16.1]] (1)
+  * to desert, 21
+  * to fire in forest, [[bg/4/36|Bg. 4.36]]
+  * to flower, [[bg/9/10|Bg. 9.10]]
+  * to ocean, [[bg/4/36|Bg. 4.36]], [[bg/12/6|Bg. 12.6]]
+  * to reflection, 21
+  * to tree with roots upward, 21, [[bg/15/1–4|Bg. 15.1–4]]
+  * to water in calf’s footprint, [[bg/2/51|Bg. 2.51]]
+  * with spiritual world, 15, 19, 21, 22, 23, [[bg/9/33|Bg. 9.33]], [[bg/13/18|Bg. 13.18]], [[bg/13/21|Bg. 13.21]], [[bg/15/1|Bg. 15.1]], [[bg/15/6|Bg. 15.6]], [[bg/15/16|Bg. 15.16]]
+* compared to
 * compared to cloth, **[[cc/adi/13/77#translation|Ādi 13.77]]**
 * compared to cloud, [[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/5/89#purport|Ādi 5.89]]
 * compared to criminal department, [[sb/3/15/33#purport|SB 3.15.33]]
@@ -123,8 +137,9 @@
 * compared to river, [[sb/6/16/5#purport|SB 6.16.5]]
 * compared to she-goat, **[[cc/madhya/15/179#translation|Madhya 15.179]]**
 * compared to spider web, [[cc/adi/6/14–15#purport|Ādi 6.14–15]]
+* compared with nondevotees in, [[sb/7/5/37#purport|SB 7.5.37]]
 * compared with spiritual world, [[cc/adi/1/54#purport|Ādi 1.54]]
-* composition of. See: Energy, material 
+* composition of. See: Energy, material
 * conditioned soul attached to, [[sb/9/9/47-47#purport|SB 9.9.47-47]]
 * conditioned souls bewildered by, [[sb/1/10/22#purport|SB 1.10.22]]
 * conditioned souls in, **[[cc/madhya/21/53#translation|Madhya 21.53]]**, [[cc/madhya/15/180#purport|Madhya 15.180]]
@@ -133,17 +148,18 @@
 * conscious direction of, [[cc/adi/6/14–15#purport|Ādi 6.14–15]]
 * conserved in Lord, [[sb/4/7/42#purport|SB 4.7.42]]
 * constitution of, [[sb/8/23/29#purport|SB 8.23.29]]
+* control in, [[sb/7/4/14#purport|SB 7.4.14]]
 * controlled by Kṛṣṇa, [[bg/9/8–10|Bg. 9.8–10]], [[sb/6/3/12-13#purport|SB 6.3.12-13]]
 * controlled by Lord, [[sb/4/29/79-79#purport|SB 4.29.79-79]]
 * controllers of, compared with supreme controller, [[bg/9/11|Bg. 9.11]] (2)
+* controls, [[sb/7/1/11-11#purport|SB 7.1.11-11]], [[sb/7/2/39#purport|SB 7.2.39]], [[sb/7/3/28#purport|SB 7.3.28]], [[sb/10/2/28#purport|SB 10.2.28]]
 * created by Brahmā secondarily, [[sb/4/1/1#purport|SB 4.1.1]]
-* creation of 
-* creation of, [[sb/1/10/21-22#purport|SB 1.10.21-22]], [[sb/10/13/52#purport|SB 10.13.52]], [[sb/4/24/63-63#purport|SB 4.24.63-63]]
-* *See:* [[c#Creation|Creation]] 
-* creation of. See: Creation (act of) 
-* creation of. See: Creation; Evolution 
+* creates & controls, [[sb/7/8/8#purport|SB 7.8.8]], [[sb/7/8/40#purport|SB 7.8.40]], [[sb/7/8/41#purport|SB 7.8.41]], [[sb/7/9/20#purport|SB 7.9.20]], [[sb/7/9/22#purport|SB 7.9.22]]
+* creates, maintains, & annihilates for conditioned souls, [[sb/5/18/38#purport|SB 5.18.38]]
+* creation of, [[sb/1/10/21-22#purport|SB 1.10.21-22]], [[sb/4/24/63-63#purport|SB 4.24.63-63]], [[sb/10/13/52#purport|SB 10.13.52]]
 * creation, maintenance, & destruction in, [[sb/4/7/39#purport|SB 4.7.39]]
 * creative principle of, [[cc/adi/5/22#purport|Ādi 5.22]]
+* creator of, [[sb/5/19/12#purport|SB 5.19.12]], [[sb/5/20/5#purport|SB 5.20.5]]
 * creator of, Lord as, [[sb/4/29/79-79#purport|SB 4.29.79-79]], [[sb/4/31/15-15#purport|SB 4.31.15-15]]
 * dangers in, [[sb/4/7/28#purport|SB 4.7.28]]
 * death in, [[sb/2/1/4#purport|SB 2.1.4]]
@@ -152,21 +168,25 @@
 * degraded by sense gratification, [[bg/16/9|Bg. 16.9]]
 * demigods entrusted with affairs of, [[sb/5/20/40#purport|SB 5.20.40]]
 * demoniac view of, [[bg/16/8|Bg. 16.8]]
-* demons 
+* demons
 * demons & devotees in, [[sb/4/7/20#purport|SB 4.7.20]]
 * demons allured by, [[sb/3/20/34#purport|SB 3.20.34]]
 * demons disturb, [[sb/8/5/19-20#purport|SB 8.5.19-20]]
 * demons ruin, [[sb/8/22/20#purport|SB 8.22.20]]
+* deny, [[sb/7/14/7#purport|SB 7.14.7]], [[sb/7/15/58#purport|SB 7.15.58]]
+* descends to, [[sb/9/4/64#purport|SB 9.4.64]]
+* descends to, in form of sun, [[sb/5/22/3#purport|SB 5.22.3]]
 * desire in, [[sb/10/13/50#purport|SB 10.13.50]]
-* destruction of 
-* destruction of. See: Annihilation of universe(s) 
+* destruction of
+  * *See also:* Annihilation
+  * demons headed toward, [[bg/16/9|Bg. 16.9]]
 * detachment from, [[bg/11/55|Bg. 11.55]] (2), [[sb/7/15/62#purport|SB 7.15.62]]
 * devotee never returns to, [[sb/4/21/32-32#purport|SB 4.21.32-32]]
 * devotee uninterested in, [[sb/4/12/15#purport|SB 4.12.15]]
 * devotee utilizes, [[sb/9/9/44#purport|SB 9.9.44]]
 * devotee’s consideration of, [[sb/9/4/25#purport|SB 9.4.25]]
 * devotee’s view of, [[sb/4/9/11#purport|SB 4.9.11]]
-* devotees 
+* devotees
 * devotees acknowledge, [[sb/2/8/21#purport|SB 2.8.21]]
 * devotees indifferent in, [[sb/6/17/17#purport|SB 6.17.17]], [[sb/6/17/20#purport|SB 6.17.20]]
 * devotees indifferent to, [[sb/9/5/25-25#purport|SB 9.5.25-25]]
@@ -180,34 +200,39 @@
 * distress in, [[sb/2/2/27#purport|SB 2.2.27]], [[sb/2/2/27#purport|SB 2.2.27]], [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/6/36#purport|SB 2.6.36]]
 * dovetailed in devotional service, [[sb/4/28/42#purport|SB 4.28.42]], [[sb/4/29/55#purport|SB 4.29.55]], [[sb/4/30/18#purport|SB 4.30.18]], [[sb/4/30/19-19#purport|SB 4.30.19-19]]
 * dualities of, [[bg/4/22|Bg. 4.22]]
+  * devotee transcendental to, [[bg/4/22|Bg. 4.22]]
 * duality in, [[sb/5/5/10-13#purport|SB 5.5.10-13]], [[sb/6/17/19-19#purport|SB 6.17.19-19]], [[sb/6/17/29-29#purport|SB 6.17.29-29]], [[sb/7/6/3#purport|SB 7.6.3]], [[sb/7/10/13#purport|SB 7.10.13]]
 * duality of, [[sb/1/8/9#purport|SB 1.8.9]], [[sb/4/30/23#purport|SB 4.30.23]]
 * Durgā &, [[cc/madhya/23/116#purport|Madhya 23.116]]
 * Durgā directs affairs of, [[sb/5/19/6#purport|SB 5.19.6]]
 * ego (false) in, [[sb/3/5/28-31#purport|SB 3.5.28-31]]
-* elements in, five listed, [[sb/7/15/59#purport|SB 7.15.59]]
 * elements in, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/10/3/14#purport|SB 10.3.14]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
-* elements of, 13 
-* elements of. See: Element(s), material 
-* elements of. See: Elements 
+* elements in, five listed, [[sb/7/15/59#purport|SB 7.15.59]]
+* elements of, 13
+  * *See also:* Elements; material
+* elements of. See: Element(s), material
 * energy source for, [[sb/1/14/2#purport|SB 1.14.2]]
 * enjoyment attempted in, [[sb/7/2/38#purport|SB 7.2.38]]
-* enjoyment in, foolishness of, [[sb/2/9/23#purport|SB 2.9.23]]
 * enjoyment in, [[sb/10/12/5#purport|SB 10.12.5]]
+* enjoyment in, foolishness of, [[sb/2/9/23#purport|SB 2.9.23]]
 * entanglement in, [[bg/15/1|Bg. 15.1]], [[bg/15/3|Bg. 15.3]]
+  * lust cause of, [[bg/3/37|Bg. 3.37]]
 * envy in, [[sb/4/19/2#purport|SB 4.19.2]], [[sb/4/30/13#purport|SB 4.30.13]], [[sb/4/30/35#purport|SB 4.30.35]], [[sb/4/30/36#purport|SB 4.30.36]], [[sb/9/11/23#purport|SB 9.11.23]]
 * envy permeates, [[sb/5/13/11#purport|SB 5.13.11]], [[sb/5/14/37#purport|SB 5.14.37]]
-* evolution of. See: Creation (act of) 
+* evolution of. See: Creation (act of)
 * exemplary leaders could reform, [[sb/9/10/55#purport|SB 9.10.55]]
+* extensive influence of, [[sb/2/5/19#purport|SB 2.5.19]]
 * extent of, [[cc/adi/5/22#purport|Ādi 5.22]]
-* falldown in. See: Falldown 
+* falldown in. See: Falldown
 * falldown to, [[bg/9/25|Bg. 9.25]], [[bg/13/24|Bg. 13.24]]
+  * *See also:* Falldown
 * false ego manifests, [[sb/2/5/25#purport|SB 2.5.25]]
 * false happiness in, [[sb/6/4/27-28#purport|SB 6.4.27-28]]
 * family members in, [[sb/7/2/21#purport|SB 7.2.21]]
 * fattiness as ”success” in, [[sb/7/13/16-17#purport|SB 7.13.16-17]]
-* fear in, [[sb/10/13/13#purport|SB 10.13.13]], [[sb/2/6/18-19#purport|SB 2.6.18-19]], [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/23/7#purport|SB 3.23.7]], [[sb/4/31/5#purport|SB 4.31.5]]
+* fear in, [[sb/2/6/18-19#purport|SB 2.6.18-19]], [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/23/7#purport|SB 3.23.7]], [[sb/4/31/5#purport|SB 4.31.5]], [[sb/10/13/13#purport|SB 10.13.13]]
 * fire compared to, [[sb/1/10/2#purport|SB 1.10.2]]
+* fire, [[sb/5/14/13#purport|SB 5.14.13]], [[sb/5/14/15#purport|SB 5.14.15]]
 * fire, water, & earth conduct, [[sb/7/4/18#purport|SB 7.4.18]]
 * first fall into, [[sb/3/12/3#purport|SB 3.12.3]]
 * for austerity, [[sb/7/8/43#purport|SB 7.8.43]]
@@ -218,48 +243,58 @@
 * for sense enjoyers, [[sb/3/21/20-20#purport|SB 3.21.20-20]]
 * forced service in, [[sb/3/9/33#purport|SB 3.9.33]]
 * forest animals in, [[sb/10/13/60#purport|SB 10.13.60]]
+* forest fire, [[sb/3/24/27#purport|SB 3.24.27]], [[sb/5/13/6#purport|SB 5.13.6]]
 * fortune in, [[sb/1/11/33#purport|SB 1.11.33]]
 * four defects in, [[sb/10/13/15#purport|SB 10.13.15]]
 * freedom absent in, [[sb/8/22/9#purport|SB 8.22.9]]
+* freedom from, [[sb/1/13/42#purport|SB 1.13.42]], [[sb/4/11/14#purport|SB 4.11.14]], [[sb/6/2/46-46#purport|SB 6.2.46-46]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/8/19/12#purport|SB 8.19.12]]
 * freedom from, by chanting Hare Kṛṣṇa, [[sb/9/7/7#purport|SB 9.7.7]]
 * freedom from, by knowing Lord, [[sb/9/2/14#purport|SB 9.2.14]]
-* freedom from, [[sb/1/13/42#purport|SB 1.13.42]], [[sb/4/11/14#purport|SB 4.11.14]], [[sb/6/2/46-46#purport|SB 6.2.46-46]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/8/19/12#purport|SB 8.19.12]]
 * from mahat-tattva, [[sb/1/15/42#purport|SB 1.15.42]], [[sb/1/16/26-30#purport|SB 1.16.26-30]]
 * Goloka replica in, [[cc/madhya/23/116#purport|Madhya 23.116]]
 * good & bad in, [[sb/3/32/24#purport|SB 3.32.24]]
 * goodness in, [[cc/adi/5/22#purport|Ādi 5.22]], [[sb/3/24/10#purport|SB 3.24.10]]
 * goodness not pure in, [[sb/4/5/4#purport|SB 4.5.4]]
-* happiness 
+* happiness
+  * *See also:* Happiness
+  * impossible in, [[bg/2/51|Bg. 2.51]]
 * happiness absent in, [[sb/7/7/42#purport|SB 7.7.42]], [[sb/7/9/25#purport|SB 7.9.25]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/8/3/25#purport|SB 8.3.25]]
 * happiness for, [[sb/7/11/25#purport|SB 7.11.25]]
-* happiness in, [[sb/9/9/28#purport|SB 9.9.28]], [[sb/9/13/27#purport|SB 9.13.27]]
-* happiness in. See: Happiness 
+* happiness in. See: Happiness, [[sb/9/9/28#purport|SB 9.9.28]], [[sb/9/13/27#purport|SB 9.13.27]]
 * happiness mixed with distress in, [[sb/3/25/13#purport|SB 3.25.13]]
 * happiness unachievable in, [[sb/5/13/1#purport|SB 5.13.1]]
 * hard struggle in, [[sb/2/5/31#purport|SB 2.5.31]]
 * hearing about, as useless, [[sb/3/13/48#purport|SB 3.13.48]], [[sb/3/13/50#purport|SB 3.13.50]]
 * historical lesson of, [[sb/3/17/19#purport|SB 3.17.19]]
+* house in sky, [[sb/5/14/5#purport|SB 5.14.5]]
 * identity forgotten in, [[sb/3/12/2#purport|SB 3.12.2]]
 * ignorance in, [[cc/adi/1/19#purport|Ādi 1.19]]
+* illuminates, [[sb/7/8/24#purport|SB 7.8.24]]
 * illumination of, [[sb/3/7/11#purport|SB 3.7.11]]
-* illusion in, [[sb/6/15/5#purport|SB 6.15.5]], [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-25#purport|SB 6.15.21-25]], [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/53-54#purport|SB 6.16.53-54]]
-* *See:* [[i#Illusion|Illusion]] 
-* illusion in. See: Illusion , 
+* illusion in. See: Illusion, [[sb/6/15/5#purport|SB 6.15.5]], [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-25#purport|SB 6.15.21-25]], [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/53-54#purport|SB 6.16.53-54]]
 * illusory energy controls, [[sb/8/16/18#purport|SB 8.16.18]]
 * illusory, [[sb/2/9/34#purport|SB 2.9.34]]
 * immunity from, [[sb/3/9/32#purport|SB 3.9.32]]
-* impersonalists 
+* impersonalists
 * impersonalists deny, [[sb/8/4/13#purport|SB 8.4.13]]
 * impersonalists fall to, [[sb/9/11/19#purport|SB 9.11.19]]
 * impersonalists return to, [[sb/4/21/7#purport|SB 4.21.7]], [[sb/4/22/21#purport|SB 4.22.21]], [[sb/4/22/35#purport|SB 4.22.35]], [[sb/5/5/5#purport|SB 5.5.5]]
 * in ignorance, [[sb/3/20/18#purport|SB 3.20.18]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/8/3/25#purport|SB 8.3.25]], [[sb/9/9/7#purport|SB 9.9.7]]
 * in illusion, [[sb/7/9/17#purport|SB 7.9.17]]
+* in two stages, [[sb/4/1/1#purport|SB 4.1.1]]
 * incarnations maintain, [[sb/9/9/7#purport|SB 9.9.7]]
-* ingredients of, list of, [[sb/2/5/14#purport|SB 2.5.14]]
 * ingredients of, [[sb/3/6/2#purport|SB 3.6.2]]
+* ingredients of, list of, [[sb/2/5/14#purport|SB 2.5.14]]
 * intelligence behind, [[cc/adi/2/10#purport|Ādi 2.10]]
+* karma continues in, [[sb/4/8/2#purport|SB 4.8.2]]
 * knowledge in, as defective, [[sb/3/26/33#purport|SB 3.26.33]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * all-pervading in, [[bg/8/22|Bg. 8.22]]
+  * as controller of, [[bg/16/8|Bg. 16.8]]
+  * origin of, [[bg/10/8|Bg. 10.8]]
+  * plan of, for, [[bg/11/33|Bg. 11.33]]
+  * sustainer of, [[bg/9/18|Bg. 9.18]]
+  * transcendental to, [[bg/4/14|Bg. 4.14]], [[bg/9/11|Bg. 9.11]] (4–5), [[bg/11/37–38|Bg. 11.37–38]]
 * Kṛṣṇa aloof from, **[[cc/adi/5/89–90#translation|Ādi 5.89–90]]**
 * Kṛṣṇa consciousness spoiled via enjoyment in, [[sb/7/5/30#purport|SB 7.5.30]]
 * Kṛṣṇa forgotten in, [[sb/7/2/61#purport|SB 7.2.61]]
@@ -267,10 +302,8 @@
 * Kṛṣṇa proprietor of, **[[cc/madhya/21/54#translation|Madhya 21.54]]**
 * Kṛṣṇa’s opulence &, **[[cc/madhya/21/52–53#translation|Madhya 21.52–53]]**
 * Kṛṣṇa’s pastimes &, **[[cc/madhya/22/8#translation|Madhya 22.8]]**
-* *See:* [[g#Godhead|Godhead]]; returning to; [[l#Liberation|Liberation]] 
 * liberated soul within, [[sb/5/14/44#purport|SB 5.14.44]]
-* *See:* [[l#Liberation|Liberation]] 
-* liberation from. See: Liberation , 
+* liberation from. See: Liberation
 * liberation within, [[sb/1/15/42#purport|SB 1.15.42]]
 * life in, compared to dream, [[bg/2/28|Bg. 2.28]]
 * lighted by Lord’s effulgence, indirectly, [[sb/3/26/3#purport|SB 3.26.3]]
@@ -285,7 +318,7 @@
 * living entity’s mission in, [[sb/9/9/28#purport|SB 9.9.28]]
 * living entity’s struggle in, [[sb/6/4/44#purport|SB 6.4.44]]
 * location of, [[sb/2/4/14#purport|SB 2.4.14]]
-* Lord , , , 
+* Lord
 * Lord aloof from, **[[cc/adi/1/53#translation|Ādi 1.53]]**, **[[cc/adi/1/55#translation|Ādi 1.55]]**, [[sb/4/21/38#purport|SB 4.21.38]], [[sb/4/24/34#purport|SB 4.24.34]]
 * Lord beyond, [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/10/36#purport|SB 2.10.36]]
 * Lord cause of, [[cc/adi/2/10#purport|Ādi 2.10]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]]
@@ -303,8 +336,8 @@
 * Lord’s features impersonal in, [[sb/2/9/33#purport|SB 2.9.33]]
 * Lord’s glance creates, [[sb/9/5/5#purport|SB 9.5.5]]
 * Lord’s incarnation in, [[sb/7/1/6#purport|SB 7.1.6]], [[sb/7/1/11#purport|SB 7.1.11]]
-* Lord’s pastimes in, purpose of, [[sb/2/10/10#purport|SB 2.10.10]]
 * Lord’s pastimes in, [[sb/9/11/20#purport|SB 9.11.20]]
+* Lord’s pastimes in, purpose of, [[sb/2/10/10#purport|SB 2.10.10]]
 * Lord’s presence in, [[sb/4/11/26#purport|SB 4.11.26]]
 * Lord’s relationship to, [[sb/3/21/31#purport|SB 3.21.31]]
 * Lord(s) of, [[sb/4/1/30#purport|SB 4.1.30]]
@@ -313,7 +346,9 @@
 * madness in, [[sb/9/18/39#purport|SB 9.18.39]]
 * Mahā-saṅkarṣaṇa &, **[[cc/adi/13/78#translation|Ādi 13.78]]**
 * mahāmāyā in, [[sb/10/1/25#purport|SB 10.1.25]], N110
+* mahat-tattva covering of, [[bg/9/8|Bg. 9.8]], [[bg/13/18|Bg. 13.18]]
 * maintained by Lord, [[bg/15/13|Bg. 15.13]]
+* maintains, [[sb/5/17/16#purport|SB 5.17.16]]
 * maintenance of, form of Lord for, [[sb/4/30/23-23#purport|SB 4.30.23-23]]
 * majority in, demons as, [[sb/4/7/20#purport|SB 4.7.20]]
 * male-female attraction &, [[sb/9/19/4#purport|SB 9.19.4]]
@@ -328,29 +363,31 @@
 * māyā controls, [[sb/9/19/26#purport|SB 9.19.26]]
 * māyā creates, [[sb/8/6/11#purport|SB 8.6.11]]
 * Māyāvādīs &, **[[cc/madhya/25/51#translation|Madhya 25.51]]**
+* mirage in desert, [[sb/5/14/6#purport|SB 5.14.6]]
 * miserable, [[sb/2/7/15#purport|SB 2.7.15]], [[sb/2/7/22#purport|SB 2.7.22]], [[sb/2/7/39#purport|SB 2.7.39]], [[sb/2/7/50#purport|SB 2.7.50]]
 * misers of, four given, [[sb/3/15/13#purport|SB 3.15.13]]
 * misery characteristic of, [[sb/5/14/6#purport|SB 5.14.6]]
 * misery in, [[sb/4/22/15#purport|SB 4.22.15]], [[sb/4/24/29#purport|SB 4.24.29]]
 * modern attachment for, [[sb/6/15/26#purport|SB 6.15.26]]
-* modes in. See: Modes of nature 
+* modes in. See: Modes of nature
 * modes of nature &, [[bg/5/10|Bg. 5.10]]
 * modes of nature compete in, [[sb/8/16/20#purport|SB 8.16.20]]
 * modes of nature conduct, [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/7/11#purport|SB 8.7.11]]
 * modes of nature control, [[sb/4/21/21#purport|SB 4.21.21]]
 * modes of nature generate, [[cc/adi/2/36#purport|Ādi 2.36]], [[cc/madhya/14/45#purport|Madhya 14.45]]
-* modes of nature in, [[sb/6/17/21#purport|SB 6.17.21]]
-* modes of nature in. See: Modes of nature 
+* modes of nature in. See: Modes of nature, [[sb/6/17/21#purport|SB 6.17.21]]
 * motives in, [[sb/4/12/47#purport|SB 4.12.47]], [[sb/4/23/34#purport|SB 4.23.34]]
 * name jugglery in, [[sb/2/2/3#purport|SB 2.2.3]]
 * Nārada’s travels in, [[sb/4/8/38#purport|SB 4.8.38]]
 * nature’s modes influence, [[sb/5/1/15#purport|SB 5.1.15]]
 * necessities of, four listed, [[sb/7/9/5#purport|SB 7.9.5]]
+* negate, [[sb/7/1/11#purport|SB 7.1.11]]
 * not false but temporary, [[bg/9/33|Bg. 9.33]]
 * Nyāya philosophers &, [[cc/madhya/25/56#purport|Madhya 25.56]]
 * opulence elusive in, [[sb/4/21/38#purport|SB 4.21.38]]
-* origin of 
-* origin of, [[sb/4/25/33#purport|SB 4.25.33]], [[sb/4/30/25#purport|SB 4.30.25]], [[sb/4/31/13#purport|SB 4.31.13]]
+* origin of, [[sb/2/6/33#purport|SB 2.6.33]], [[sb/4/25/33#purport|SB 4.25.33]], [[sb/4/30/25#purport|SB 4.30.25]], [[sb/4/31/13#purport|SB 4.31.13]]
+  * Kṛṣṇa as, [[bg/10/8|Bg. 10.8]], [[bg/15/3|Bg. 15.3]]
+  * spiritual world as, [[bg/15/1|Bg. 15.1]]
 * passion causes, [[sb/2/5/23#purport|SB 2.5.23]]
 * passion in, [[sb/10/13/50#purport|SB 10.13.50]]
 * peace for, [[sb/7/11/25#purport|SB 7.11.25]]
@@ -363,40 +400,45 @@
 * pleasing to devotee, [[sb/4/8/81#purport|SB 4.8.81]]
 * pleasure & pain in, [[sb/4/3/15#purport|SB 4.3.15]]
 * pleasure as pain in, [[sb/7/1/8#purport|SB 7.1.8]]
-* politicians ”protect,” 4.1, [[sb/10/4/3#purport|SB 10.4.3]]
+* police department, [[sb/3/26/5#purport|SB 3.26.5]]
+* politicians ”protect,”, 4.1, [[sb/10/4/3#purport|SB 10.4.3]]
 * powerful beings worshiped in, [[sb/2/6/43-45#purport|SB 2.6.43-45]]
-* Prahlāda 
+* Prahlāda
 * problems in, four listed, [[sb/2/3/7#purport|SB 2.3.7]]
 * prosperity in, by hard labor, [[sb/3/15/20#purport|SB 3.15.20]]
-* protection in, by surrender to Lord, [[sb/4/7/30#purport|SB 4.7.30]]
 * protection in, [[sb/1/15/28#purport|SB 1.15.28]]
+* protection in, by surrender to Lord, [[sb/4/7/30#purport|SB 4.7.30]]
 * protection lacking in, [[sb/7/9/19#purport|SB 7.9.19]], [[sb/7/9/22#purport|SB 7.9.22]]
 * pure devotees beyond, [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/31#purport|SB 10.3.31]]
 * purified souls never return to, [[sb/7/1/34#purport|SB 7.1.34]]
 * purpose for, [[sb/3/26/5#purport|SB 3.26.5]], [[sb/4/28/61#purport|SB 4.28.61]], [[sb/5/25/6#purport|SB 5.25.6]]
+* purpose of, [[sb/1/10/25#purport|SB 1.10.25]], [[sb/2/7/22#purport|SB 2.7.22]], [[sb/2/7/39#purport|SB 2.7.39]], [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/10/6#purport|SB 2.10.6]], [[sb/2/10/12#purport|SB 2.10.12]], [[sb/3/3/14#purport|SB 3.3.14]], [[sb/3/3/18#purport|SB 3.3.18]], [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/24#purport|SB 3.5.24]], [[sb/3/5/26#purport|SB 3.5.26]], [[sb/3/5/28#purport|SB 3.5.28]], [[sb/3/5/51#purport|SB 3.5.51]], [[sb/3/7/4#purport|SB 3.7.4]], [[sb/4/18/6#purport|SB 4.18.6]], [[sb/6/4/44#purport|SB 6.4.44]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/9/24/58#purport|SB 9.24.58]], [[sb/10/2/1-2#purport|SB 10.2.1-2]]
 * purpose of, as chance to return to Godhead, [[bg/11/33|Bg. 11.33]]
-* purpose of, [[sb/1/10/25#purport|SB 1.10.25]], [[sb/10/2/1-2#purport|SB 10.2.1-2]], [[sb/2/7/22#purport|SB 2.7.22]], [[sb/2/7/39#purport|SB 2.7.39]], [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/10/6#purport|SB 2.10.6]], [[sb/2/10/12#purport|SB 2.10.12]], [[sb/3/3/14#purport|SB 3.3.14]], [[sb/3/3/18#purport|SB 3.3.18]], [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/24#purport|SB 3.5.24]], [[sb/3/5/26#purport|SB 3.5.26]], [[sb/3/5/28#purport|SB 3.5.28]], [[sb/3/5/51#purport|SB 3.5.51]], [[sb/3/7/4#purport|SB 3.7.4]], [[sb/4/18/6#purport|SB 4.18.6]], [[sb/6/4/44#purport|SB 6.4.44]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/9/24/58#purport|SB 9.24.58]]
-* qualities of, 16 
+* qualities of, 16
 * Rāma beyond, [[sb/9/10/11#purport|SB 9.10.11]]
 * rasas in, [[cc/adi/1/56#purport|Ādi 1.56]], [[cc/madhya/13/24#purport|Madhya 13.24]]
 * real but temporary, [[sb/3/10/13#purport|SB 3.10.13]]
+* real principle of, [[sb/5/12/5-6#purport|SB 5.12.5-6]]
 * reality in, [[sb/4/3/11#purport|SB 4.3.11]]
 * reality of, [[sb/2/1/26#purport|SB 2.1.26]], [[sb/2/1/31#purport|SB 2.1.31]]
 * relationships in, [[sb/1/11/35#purport|SB 1.11.35]]
 * relativity in, [[sb/3/32/28-28#purport|SB 3.32.28-28]], [[sb/6/17/19-21#purport|SB 6.17.19-21]], [[sb/6/17/29-30#purport|SB 6.17.29-30]]
 * relief from, [[sb/6/9/43#purport|SB 6.9.43]]
 * renunciation in, [[sb/9/9/47#purport|SB 9.9.47]]
-* renunciation of, advised by scriptures, [[sb/6/5/20#purport|SB 6.5.20]]
 * renunciation of, [[sb/3/21/17#purport|SB 3.21.17]]
-* *See:* [[b#Birth-death cycle|Birth-death cycle]]; Transmigrations of soul 
+* renunciation of, advised by scriptures, [[sb/6/5/20#purport|SB 6.5.20]]
+* resides in, & in Vaikuṇṭha, [[sb/7/4/34#purport|SB 7.4.34]]
 * river border of, [[sb/7/9/43#purport|SB 7.9.43]]
+* ruin, [[sb/7/8/44#purport|SB 7.8.44]]
 * sages reject, [[sb/8/5/43#purport|SB 8.5.43]]
 * satisfaction impossible in, [[sb/4/4/28#purport|SB 4.4.28]]
+* saves devotee from, [[sb/10/2/28#purport|SB 10.2.28]]
 * scarcity in, [[cc/adi/3/97#purport|Ādi 3.97]]
 * scientists engrossed in, [[sb/2/1/38#purport|SB 2.1.38]]
 * self-preservation in, [[sb/7/2/60#purport|SB 7.2.60]]
 * selfishness in, [[sb/2/3/10#purport|SB 2.3.10]]
 * sense gratification rules, [[sb/8/19/21#purport|SB 8.19.21]]
+* senses & elements created by, [[sb/2/5/25-29#purport|SB 2.5.25-29]]
 * senses rule, [[sb/7/8/10#purport|SB 7.8.10]]
 * separation feelings perverted in, [[sb/9/11/16#purport|SB 9.11.16]], [[sb/9/11/17#purport|SB 9.11.17]]
 * sex life basis of, [[sb/1/11/36#purport|SB 1.11.36]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/7/7/46#purport|SB 7.7.46]]
@@ -406,15 +448,19 @@
 * sin unavoidable in, [[sb/1/19/7#purport|SB 1.19.7]]
 * situated in Lord, [[sb/4/1/56#purport|SB 4.1.56]]
 * Śiva destroys, [[sb/5/17/16#purport|SB 5.17.16]]
-* size of, 23 
 * size of, [[sb/2/9/10#purport|SB 2.9.10]]
+* size of, 23
 * social steadiness in, [[sb/4/21/49#purport|SB 4.21.49]]
 * source of, in Lord’s energies, [[bg/13/20|Bg. 13.20]]
 * spiritual education lacking in, [[sb/8/16/19#purport|SB 8.16.19]]
 * spiritual planet in, [[sb/2/7/8#purport|SB 2.7.8]], [[sb/8/5/24#purport|SB 8.5.24]]
 * spiritual starvation in, [[sb/1/12/6#purport|SB 1.12.6]]
-* spiritual world 
-* spiritual world compared with, [[sb/1/8/9#purport|SB 1.8.9]], [[sb/1/10/19#purport|SB 1.10.19]], [[sb/1/13/23#purport|SB 1.13.23]], [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/15/25-26#purport|SB 1.15.25-26]], [[sb/1/16/26-30#purport|SB 1.16.26-30]], [[sb/1/19/13#purport|SB 1.19.13]], [[sb/10/1/1#purport|SB 10.1.1]], [[sb/10/4/13#purport|SB 10.4.13]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/37#purport|SB 10.12.37]], [[sb/10/13/2#purport|SB 10.13.2]], [[sb/10/13/50#purport|SB 10.13.50]], [[sb/2/5/39#purport|SB 2.5.39]], [[sb/2/6/1#purport|SB 2.6.1]], [[sb/3/19/30#purport|SB 3.19.30]], [[sb/3/21/22#purport|SB 3.21.22]], [[sb/3/24/10#purport|SB 3.24.10]], [[sb/3/24/16#purport|SB 3.24.16]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/40#purport|SB 4.22.40]], [[sb/4/24/63#purport|SB 4.24.63]], [[sb/4/31/29#purport|SB 4.31.29]], [[sb/4/9/45#purport|SB 4.9.45]], [[sb/4/12/15#purport|SB 4.12.15]], [[sb/4/12/35#purport|SB 4.12.35]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/7/15/61#purport|SB 7.15.61]], [[sb/8/1/9#purport|SB 8.1.9]], [[sb/8/3/14#purport|SB 8.3.14]], [[sb/8/23/29#purport|SB 8.23.29]], [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/11/16#purport|SB 9.11.16]], [[sb/9/11/17#purport|SB 9.11.17]]
+* spiritual world
+  * compared with, 15, 19, 21, 22, [[bg/9/33|Bg. 9.33]], [[bg/13/18|Bg. 13.18]], [[bg/13/21|Bg. 13.21]], [[bg/15/1|Bg. 15.1]] (2), [[bg/15/6|Bg. 15.6]], [[bg/15/16|Bg. 15.16]]
+  * covered, as, [[bg/4/24|Bg. 4.24]]
+  * reflection of, [[bg/15/1|Bg. 15.1]] (2), [[bg/15/3|Bg. 15.3]]
+  * transcendental to, [[bg/8/20|Bg. 8.20]]
+* spiritual world compared with, [[sb/1/8/9#purport|SB 1.8.9]], [[sb/1/10/19#purport|SB 1.10.19]], [[sb/1/13/23#purport|SB 1.13.23]], [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/15/25-26#purport|SB 1.15.25-26]], [[sb/1/16/26-30#purport|SB 1.16.26-30]], [[sb/1/19/13#purport|SB 1.19.13]], [[sb/2/5/39#purport|SB 2.5.39]], [[sb/2/6/1#purport|SB 2.6.1]], [[sb/3/19/30#purport|SB 3.19.30]], [[sb/3/21/22#purport|SB 3.21.22]], [[sb/3/24/10#purport|SB 3.24.10]], [[sb/3/24/16#purport|SB 3.24.16]], [[sb/4/9/45#purport|SB 4.9.45]], [[sb/4/12/15#purport|SB 4.12.15]], [[sb/4/12/35#purport|SB 4.12.35]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/40#purport|SB 4.22.40]], [[sb/4/24/63#purport|SB 4.24.63]], [[sb/4/31/29#purport|SB 4.31.29]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/7/15/61#purport|SB 7.15.61]], [[sb/8/1/9#purport|SB 8.1.9]], [[sb/8/3/14#purport|SB 8.3.14]], [[sb/8/23/29#purport|SB 8.23.29]], [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/11/16#purport|SB 9.11.16]], [[sb/9/11/17#purport|SB 9.11.17]], [[sb/10/1/1#purport|SB 10.1.1]], [[sb/10/4/13#purport|SB 10.4.13]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/37#purport|SB 10.12.37]], [[sb/10/13/2#purport|SB 10.13.2]], [[sb/10/13/50#purport|SB 10.13.50]]
 * spiritual world contrasted to, [[sb/3/9/16#purport|SB 3.9.16]], [[sb/3/15/13-14#purport|SB 3.15.13-14]], [[sb/3/15/23#purport|SB 3.15.23]], [[sb/3/15/32#purport|SB 3.15.32]]
 * spiritual world illuminates, [[sb/4/12/36#purport|SB 4.12.36]]
 * spiritual world reflected in, [[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/7/118#purport|Ādi 7.118]]
@@ -422,9 +468,7 @@
 * struggle in, [[sb/10/8/49#purport|SB 10.8.49]]
 * Sudarśana cakra illuminates, [[sb/9/5/7#purport|SB 9.5.7]]
 * suffering in, cause of, [[sb/7/2/25-26#purport|SB 7.2.25-26]]
-* suffering in, [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/3/33#purport|SB 10.3.33]], [[sb/9/24/58#purport|SB 9.24.58]]
-* *See:* [[s#Suffering|Suffering]] 
-* suffering in. See: Suffering , 
+* suffering in. See: Suffering, [[sb/9/24/58#purport|SB 9.24.58]], [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/3/33#purport|SB 10.3.33]]
 * suffering nature of, [[sb/4/25/4#purport|SB 4.25.4]], [[sb/4/25/11#purport|SB 4.25.11]]
 * suffering prevails in, [[sb/5/14/38#purport|SB 5.14.38]]
 * suffocated by Dhruva, [[sb/4/8/80#purport|SB 4.8.80]], [[sb/4/8/81#purport|SB 4.8.81]]
@@ -438,27 +482,51 @@
 * temporary nature of, [[sb/3/10/13#purport|SB 3.10.13]]
 * temporary relations in, [[sb/2/1/15-16#purport|SB 2.1.15-16]]
 * threefold aspects of, [[sb/2/5/2#purport|SB 2.5.2]]
-* time controls, [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/3/25#purport|SB 10.3.25]], [[sb/10/3/26-26#purport|SB 10.3.26-26]], [[sb/7/13/6#purport|SB 7.13.6]], [[sb/8/11/8#purport|SB 8.11.8]]
+* time controls, [[sb/7/13/6#purport|SB 7.13.6]], [[sb/8/11/8#purport|SB 8.11.8]], [[sb/10/2/26#purport|SB 10.2.26]], [[sb/10/3/25#purport|SB 10.3.25]], [[sb/10/3/26-26#purport|SB 10.3.26-26]]
 * time in, [[sb/3/24/37#purport|SB 3.24.37]]
+* to cloud, [[sb/2/5/21#purport|SB 2.5.21]]
+* to darkness of night, [[sb/4/31/5#purport|SB 4.31.5]]
+* to darkness, [[sb/2/9/34#purport|SB 2.9.34]]
+* to dramatic performance, [[sb/2/9/34#purport|SB 2.9.34]]
+* to dream, [[sb/2/1/4#purport|SB 2.1.4]], [[sb/2/1/39#purport|SB 2.1.39]], [[sb/2/1/39#purport|SB 2.1.39]], [[sb/4/12/15-15#purport|SB 4.12.15-15]]
+* to fire, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/4/9/11-11#purport|SB 4.9.11-11]]
+* to goat’s nipples, [[sb/2/10/45#purport|SB 2.10.45]]
+* to iron, [[sb/2/10/45#purport|SB 2.10.45]]
+* to merry-go-round, [[sb/2/2/2#purport|SB 2.2.2]]
+* to mirage, [[sb/2/2/6#purport|SB 2.2.6]], [[sb/2/9/10#purport|SB 2.9.10]]
+* to moon’s reflection, [[sb/2/9/1#purport|SB 2.9.1]]
+* to ocean, [[sb/2/1/4#purport|SB 2.1.4]], [[sb/2/8/21#purport|SB 2.8.21]], [[sb/4/9/11-11#purport|SB 4.9.11-11]], [[sb/4/22/40-40#purport|SB 4.22.40-40]], [[sb/4/23/39#purport|SB 4.23.39]], [[sb/4/24/20#purport|SB 4.24.20]], [[sb/4/24/75-75#purport|SB 4.24.75-75]], [[sb/4/28/60#purport|SB 4.28.60]]
+* to prison, [[sb/2/10/37-40#purport|SB 2.10.37-40]]
+* to rope, [[sb/2/9/34#purport|SB 2.9.34]]
+* to senses, [[sb/4/31/16-16#purport|SB 4.31.16-16]]
+* to smoke, [[sb/2/10/45#purport|SB 2.10.45]]
+* to spider’s web, [[sb/2/9/28#purport|SB 2.9.28]]
 * topics about, compared with spiritual topics, [[sb/3/15/23#purport|SB 3.15.23]]
 * transcendental cause of, [[sb/6/4/29-30#purport|SB 6.4.29-30]]
+* transcendental to, [[sb/5/17/19#purport|SB 5.17.19]], [[sb/9/10/11#purport|SB 9.10.11]]
+* tree, [[sb/5/13/20#purport|SB 5.13.20]]
 * trees in, compared with desire trees, [[sb/4/30/32#purport|SB 4.30.32]]
 * true but temporary, [[sb/10/3/18#purport|SB 10.3.18]]
 * under modes of nature, [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/9/20#purport|SB 7.9.20]]
 * unity impossible in, [[sb/4/30/8#purport|SB 4.30.8]]
-* variety in, as temporary manifestations, [[sb/5/12/10#purport|SB 5.12.10]]
 * variety in, [[sb/4/1/56#purport|SB 4.1.56]]
+* variety in, as temporary manifestations, [[sb/5/12/10#purport|SB 5.12.10]]
 * varṇa-saṅkara ruins, [[sb/7/11/13#purport|SB 7.11.13]]
 * Vedic knowledge manifest & unmanifest in, [[sb/5/18/6#purport|SB 5.18.6]]
 * violence in, [[sb/3/29/15#purport|SB 3.29.15]]
 * Virajā River (Causal Ocean) &, [[cc/madhya/15/172#purport|Madhya 15.172]], **[[cc/madhya/20/268–69#translation|Madhya 20.268–69]]**
 * Virajā River borders, [[sb/2/9/10#purport|SB 2.9.10]]
-* Viṣṇu 
+* Viṣṇu
 * Viṣṇu forms for, [[sb/6/9/33#purport|SB 6.9.33]]
-* Vṛndāvana compared with, [[sb/10/13/60#purport|SB 10.13.60]], [[sb/7/5/14#purport|SB 7.5.14]]
+* Vṛndāvana compared with, [[sb/7/5/14#purport|SB 7.5.14]], [[sb/10/13/60#purport|SB 10.13.60]]
+* with spiritual world, [[sb/4/3/15#purport|SB 4.3.15]], [[sb/4/8/81#purport|SB 4.8.81]]
+* within & without, [[sb/10/2/8#purport|SB 10.2.8]]
 * women in, compared with spiritual world, [[sb/4/6/30#purport|SB 4.6.30]]
-* work in. See: Work, fruitive 
+* work in. See: Work, fruitive
+* worshiped in Deity form in, [[sb/5/17/14#purport|SB 5.17.14]]
 * yogamāyā’s creations in, [[sb/8/5/43#purport|SB 8.5.43]]
 * yogīs go beyond, [[sb/3/15/26#purport|SB 3.15.26]]
 
-*See also:* [[b#Bondage|Bondage]]; [[c#Creation|Creation]]; the; Earth; [[e#Energy of Supreme Lord|Energy of Supreme Lord]]; material; [[h#Heavenly planets|Heavenly planets]]; [[m#Material nature|Material nature]]; [[m#Māyā|Māyā]]; Universes; [[c#Creation (act of)|Creation (act of)]]; [[e#Earth planet|Earth planet]]; Heavenlies planet; [[c#Creation (the)|Creation (the)]]; Energy; [[n#Nature|Nature]]; [[l#Life|Life]]; [[u#Universe|Universe]]; Material; specific planets; [[p#Planets|Planets]]; [[m#Material Nature|Material Nature]]
+*See also:* [Bondage](entries/bondage.md); [Creation](entries/creation.md); the; Earth; Energy of Supreme Lord; material; Heavenly planets; Material nature; Māyā; Universes; Planets; Earth planet; [Life](entries/life.md); Nature; Universe; Material; specific planets; [Envy](entries/envy.md); [Liberation](entries/liberation.md); Creation (act of); Heavenlies planet; Creation (the); Energy; Desires; Duality; Liberateds soul; Material Nature; Miseries; [Suffering](entries/sufferings.md)
+
+*See:* [Creation](entries/creation.md); [Godhead](entries/godhead.md); returning to; [Liberation](entries/liberation.md); [Illusion](entries/illusion.md); [Suffering](entries/sufferings.md); Annihilation; Birth-death cycle; Transmigrations of soul

@@ -1,7 +1,7 @@
 # Peace
 
 * as lacking in this age, [[sb/1/1/4#purport|SB 1.1.4]], [[sb/1/1/16#purport|SB 1.1.16]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/7/7#purport|SB 1.7.7]]
-* beyond ”quivering matter,” [[sb/3/7/11-12#purport|SB 3.7.11-12]]
+* beyond ”quivering matter,”, [[sb/3/7/11-12#purport|SB 3.7.11-12]]
 * beyond material desires, [[sb/3/2/15#purport|SB 3.2.15]]
 * Bhagavad-gītā’s formula for, [[sb/9/4/21#purport|SB 9.4.21]], [[sb/9/6/48#purport|SB 9.6.48]]
 * Brahmā responsible for, [[sb/4/30/46#purport|SB 4.30.46]]
@@ -23,6 +23,7 @@
 * in Vedic society, [[sb/3/6/32-33#purport|SB 3.6.32-33]]
 * Kṛṣṇa as messenger of, [[sb/3/1/9#purport|SB 3.1.9]]
 * Lord creates, [[sb/4/1/57#purport|SB 4.1.57]]
+* Parīkṣit’s reign brought, [[sb/1/12/26#purport|SB 1.12.26]]
 * present leaders &, [[sb/2/7/38#purport|SB 2.7.38]]
 * pure devotees achieve, [[sb/4/22/49#purport|SB 4.22.49]]
 * sacrifices needed for, [[sb/4/6/53#purport|SB 4.6.53]]
@@ -43,18 +44,21 @@
 * via kṛṣṇa-kathā, [[sb/3/5/11#purport|SB 3.5.11]]
 * via Lord’s glance, [[sb/3/7/13#purport|SB 3.7.13]]
 * via obedience to God’s laws, [[sb/2/10/4#purport|SB 2.10.4]], [[sb/2/10/4#purport|SB 2.10.4]]
+* via pious population, [[sb/1/12/12#purport|SB 1.12.12]]
 * via pleasing Viṣṇu & devotees, [[sb/1/1/4#purport|SB 1.1.4]]
 * via preaching, [[sb/8/14/5#purport|SB 8.14.5]]
 * via sacrifice & austerity, [[sb/2/6/28#purport|SB 2.6.28]]
+* via sacrifice, [[sb/1/12/34#purport|SB 1.12.34]]
 * via saintly kings, [[sb/1/18/41#purport|SB 1.18.41]]
 * via saṅkīrtana-yajña, [[sb/4/12/10#purport|SB 4.12.10]]
 * via seeing all in Lord, [[sb/4/7/53#purport|SB 4.7.53]]
 * via seeing God everywhere, [[sb/2/2/14#purport|SB 2.2.14]]
 * via social cooperation, [[sb/2/5/37#purport|SB 2.5.37]]
 * via Śrīmad-Bhāgavatam, [[sb/1/17/24#purport|SB 1.17.24]]
+* via surrender to Kṛṣṇa, [[sb/1/11/34#purport|SB 1.11.34]]
 * via temple worship, [[sb/2/2/6#purport|SB 2.2.6]]
 * via varṇāśrama-dharma, [[sb/7/8/48#purport|SB 7.8.48]], [[sb/7/11/18-20#purport|SB 7.11.18-20]], [[sb/7/11/25#purport|SB 7.11.25]]
 * via working for Lord, [[sb/1/5/32#purport|SB 1.5.32]]
-* world 
+* world
 
-*See also:* Brotherhood; universal; [[h#Happiness|Happiness]]
+*See also:* [Happiness](entries/happiness.md); Brotherhood; universal

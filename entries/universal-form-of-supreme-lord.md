@@ -1,5 +1,7 @@
 # Universal form of Supreme Lord
 
+[[sb/1/3/3#purport|SB 1.3.3]], [[sb/1/3/30-32#purport|SB 1.3.30-32]], [[sb/1/7/52#purport|SB 1.7.52]], [[sb/8/1/12#purport|SB 8.1.12]], [[sb/8/3/26#purport|SB 8.3.26]], [[sb/8/5/32#purport|SB 8.5.32]]
+
 * abdomen of, [[sb/8/7/28#purport|SB 8.7.28]]
 * anger of, [[sb/8/5/39#purport|SB 8.5.39]]
 * Apsarās from, [[sb/8/5/40#purport|SB 8.5.40]]
@@ -80,7 +82,6 @@
 * pure devotees &, [[sb/2/10/35#purport|SB 2.10.35]]
 * religion from, [[sb/8/5/40#purport|SB 8.5.40]]
 * saints from, [[sb/8/5/39#purport|SB 8.5.39]]
-*  [[sb/1/3/3#purport|SB 1.3.3]], [[sb/1/3/30-32#purport|SB 1.3.30-32]], [[sb/1/7/52#purport|SB 1.7.52]], [[sb/8/1/12#purport|SB 8.1.12]], [[sb/8/3/26#purport|SB 8.3.26]], [[sb/8/5/32#purport|SB 8.5.32]]
 * semen of, [[sb/8/5/33#purport|SB 8.5.33]], [[sb/8/7/27#purport|SB 8.7.27]], [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * sense enjoyment of, [[sb/8/5/40#purport|SB 8.5.40]]
 * senses of, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
@@ -105,4 +106,4 @@
 * words of, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * Yamarāja from, [[sb/8/5/42#purport|SB 8.5.42]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; body of; forms of
+*See also:* Supreme Lord; body of; forms of

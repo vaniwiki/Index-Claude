@@ -1,12 +1,15 @@
 # Surrender to Lord
 
-[[cc/adi/17/257#purport|Ādi 17.257]], [[cc/adi/7/140#purport|Ādi 7.140]], [[cc/antya/3/137#purport|Antya 3.137]], [[cc/antya/3/250#purport|Antya 3.250]], [[cc/antya/5/145#purport|Antya 5.145]], [[cc/madhya/11/117#purport|Madhya 11.117]], [[cc/madhya/17/95#purport|Madhya 17.95]], **[[cc/madhya/20/121#translation|Madhya 20.121]]**, **[[cc/madhya/22/100#translation|Madhya 22.100]]**, **[[cc/madhya/22/103#translation|Madhya 22.103]]**, **[[cc/madhya/22/33#translation|Madhya 22.33]]**, **[[cc/madhya/22/34#translation|Madhya 22.34]]**, **[[cc/madhya/22/94#translation|Madhya 22.94]]**, **[[cc/madhya/23/114#translation|Madhya 23.114]]**, **[[cc/madhya/23/74#translation|Madhya 23.74]]**, [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/24/253#purport|Madhya 24.253]], [[cc/madhya/24/254#purport|Madhya 24.254]], [[cc/madhya/24/60#purport|Madhya 24.60]], [[cc/madhya/6/147#purport|Madhya 6.147]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/6/255#purport|Madhya 6.255]], **[[cc/madhya/9/265#translation|Madhya 9.265]]**
+[[bg/2/53|Bg. 2.53]], [[bg/6/8|Bg. 6.8]], [[cc/antya/3/250#purport|Antya 3.250]], [[cc/antya/5/145#purport|Antya 5.145]], [[cc/adi/7/140#purport|Ādi 7.140]], [[cc/adi/17/257#purport|Ādi 17.257]], [[cc/madhya/6/147#purport|Madhya 6.147]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/6/255#purport|Madhya 6.255]], [[cc/madhya/17/95#purport|Madhya 17.95]], **[[cc/madhya/20/121#translation|Madhya 20.121]]**, **[[cc/madhya/22/100#translation|Madhya 22.100]]**, **[[cc/madhya/23/74#translation|Madhya 23.74]]**, **[[cc/madhya/23/114#translation|Madhya 23.114]]**, [[cc/antya/3/137#purport|Antya 3.137]], **[[cc/madhya/22/33#translation|Madhya 22.33]]**, **[[cc/madhya/22/34#translation|Madhya 22.34]]**, **[[cc/madhya/22/103#translation|Madhya 22.103]]**, **[[cc/madhya/9/265#translation|Madhya 9.265]]**, [[cc/madhya/11/117#purport|Madhya 11.117]], **[[cc/madhya/22/94#translation|Madhya 22.94]]**, [[cc/madhya/24/60#purport|Madhya 24.60]], [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/24/253#purport|Madhya 24.253]], [[cc/madhya/24/254#purport|Madhya 24.254]]
 
 * advantage of, [[bg/5/12|Bg. 5.12]]
+  * fearlessness as, [[bg/1/19|Bg. 1.19]]
+  * freedom from anxiety as, [[bg/2/45|Bg. 2.45]]
+  * freedom from debts & obligations as, [[bg/2/38|Bg. 2.38]]
+  * freedom from reactions as, [[bg/3/31|Bg. 3.31]]
 * after many births, [[bg/2/39|Bg. 2.39]] (1), [[bg/12/3|Bg. 12.3]]
 * all benefit from, [[sb/4/30/41#purport|SB 4.30.41]]
 * as *Bhagavad-gītā’s *lesson, [[bg/2/50|Bg. 2.50]], [[bg/4/7|Bg. 4.7]], [[bg/18/78|Bg. 18.78]] (3–4)
-* as yoga, real, [[bg/2/48|Bg. 2.48]]
 * as Bhagavad-gītā’s philosophy, [[sb/4/24/17#purport|SB 4.24.17]]
 * as constitutional position of living entity, [[bg/7/5|Bg. 7.5]], [[bg/18/73|Bg. 18.73]]
 * as dharma, [[sb/5/5/19#purport|SB 5.5.19]], [[sb/5/5/20#purport|SB 5.5.20]]
@@ -20,17 +23,18 @@
 * as Supersoul, [[bg/18/62|Bg. 18.62]], [[bg/18/63|Bg. 18.63]]
 * as transcendental to religion, [[bg/18/66|Bg. 18.66]]
 * as universal form, [[bg/11/21|Bg. 11.21]]
+* as yoga, real, [[bg/2/48|Bg. 2.48]]
 * at death, [[bg/2/72|Bg. 2.72]]
 * at time of death, [[bg/2/72|Bg. 2.72]]
 * atheists avoid, [[bg/7/15|Bg. 7.15]], [[bg/7/15|Bg. 7.15]] (15)
 * attraction to gopīs & Kṛṣṇa &, **[[cc/madhya/8/220#translation|Madhya 8.220]]**
 * avoidance of, [[cc/adi/7/99#purport|Ādi 7.99]]
 * baby promises, [[bg/7/15|Bg. 7.15]] (7)
-*  [[bg/2/53|Bg. 2.53]], [[bg/6/8|Bg. 6.8]]
 * Bhagavad-gītā teaches, [[cc/adi/4/41#purport|Ādi 4.41]], [[cc/adi/7/119#purport|Ādi 7.119]]
 * Bhaktivinoda describes, [[sb/5/9/14#purport|SB 5.9.14]]
 * Bhaktivinoda quoted on, [[cc/madhya/17/185#purport|Madhya 17.185]]
-* by Arjuna, [[cc/adi/1/91#purport|Ādi 1.91]], [[bg/2/22|Bg. 2.22]]
+* by Arjuna, [[bg/2/22|Bg. 2.22]], [[cc/adi/1/91#purport|Ādi 1.91]]
+  * requested by Lord, [[bg/3/30|Bg. 3.30]], [[bg/18/62|Bg. 18.62]]
 * by arranging life for remembering Kṛṣṇa, [[bg/18/65|Bg. 18.65]]
 * by Bhavānanda Rāya, **[[cc/madhya/10/55#translation|Madhya 10.55]]**
 * by demigods, to universal form, [[bg/11/21|Bg. 11.21]]
@@ -47,6 +51,7 @@
 * condition for, [[sb/4/28/53#purport|SB 4.28.53]]
 * demons & atheists avoid, [[bg/9/12|Bg. 9.12]]
 * demons shun, [[sb/4/24/18#purport|SB 4.24.18]]
+* desires, [[sb/4/24/28#purport|SB 4.24.28]]
 * detachment &, return to Godhead via, [[bg/15/3–5|Bg. 15.3–5]]
 * detachment via, [[bg/15/3|Bg. 15.3]]
 * devotional service in, [[bg/5/10|Bg. 5.10]]
@@ -57,17 +62,31 @@
 * happiness & distress and, [[sb/5/1/15#purport|SB 5.1.15]]
 * happiness by, [[sb/4/28/53#purport|SB 4.28.53]]
 * happiness via, [[bg/3/30|Bg. 3.30]]
+* helps devotee attain, [[sb/5/14/10#purport|SB 5.14.10]]
+* helps devotee to, [[sb/4/22/36#purport|SB 4.22.36]]
 * hindrances to, [[bg/15/5|Bg. 15.5]]
 * immediate, as possible, [[bg/2/72|Bg. 2.72]]
 * in knowledge, [[sb/4/24/75#purport|SB 4.24.75]]
 * knowledge &, [[cc/adi/5/51#purport|Ādi 5.51]], [[cc/adi/7/118#purport|Ādi 7.118]]
 * knowledge culminates in, [[sb/5/11/2#purport|SB 5.11.2]]
 * knowledge, perfect, via, [[bg/5/16|Bg. 5.16]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * advises, [[bg/18/63|Bg. 18.63]], [[bg/18/65–66|Bg. 18.65–66]]
+  * directs according to, [[bg/1/15|Bg. 1.15]]
+  * known only via, [[bg/10/2|Bg. 10.2]], [[bg/11/4|Bg. 11.4]]
+  * loudly orders, 29
+  * mercy of, prompted by, [[bg/8/14|Bg. 8.14]], [[bg/18/66|Bg. 18.66]]
+  * orders, [[bg/2/49|Bg. 2.49]], [[bg/15/3|Bg. 15.3]], [[bg/18/66|Bg. 18.66]]
+  * promises protection for, [[bg/18/66|Bg. 18.66]]
+  * reciprocates, [[bg/4/11|Bg. 4.11]], [[bg/9/29|Bg. 9.29]]
+  * requests, of Arjuna, [[bg/18/62|Bg. 18.62]]
+  * requires, [[bg/3/30|Bg. 3.30]]
 * Kṛṣṇa demands, [[cc/adi/7/20–21#purport|Ādi 7.20–21]], [[cc/adi/8/15#purport|Ādi 8.15]]
 * Kṛṣṇa’s protection &, [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/15/169#purport|Madhya 15.169]]
 * liberation via, [[bg/7/15|Bg. 7.15]] (1), [[bg/9/11|Bg. 9.11]] (5), [[bg/13/18|Bg. 13.18]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/11/151#purport|Madhya 11.151]], [[sb/4/25/55#purport|SB 4.25.55]], [[sb/4/28/25#purport|SB 4.28.25]], [[sb/4/29/29#purport|SB 4.29.29]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/29/2#purport|SB 4.29.2]]b, [[sb/5/1/13#purport|SB 5.1.13]], [[sb/5/5/6#purport|SB 5.5.6]], [[sb/5/17/24#purport|SB 5.17.24]], [[sb/5/18/26#purport|SB 5.18.26]]
-* Lord , 
+  * easily, [[bg/7/14|Bg. 7.14]]
+  * only, [[bg/7/14|Bg. 7.14]]
+* Lord
 * Lord’s protection for, [[sb/4/30/43#purport|SB 4.30.43]]
 * Lord’s reciprocation &, **[[cc/madhya/8/91#translation|Madhya 8.91]]**, [[cc/madhya/11/187#purport|Madhya 11.187]]
 * Madana-mohana worship and, [[cc/adi/1/19#purport|Ādi 1.19]]
@@ -88,6 +107,7 @@
 * no obstacles to, [[bg/18/66|Bg. 18.66]]
 * of everything for Kṛṣṇa’s satisfaction, [[bg/2/48|Bg. 2.48]], [[bg/2/49–53|Bg. 2.49–53]]
 * or act by force according to nature, [[bg/18/59–60|Bg. 18.59–60]]
+* orders, [[sb/5/1/15#purport|SB 5.1.15]], [[sb/5/7/6#purport|SB 5.7.6]], [[sb/5/26/23#purport|SB 5.26.23]]
 * peace via, [[bg/5/12|Bg. 5.12]]
 * Prahlāda advises, [[sb/4/25/27#purport|SB 4.25.27]]
 * process of, [[bg/15/5|Bg. 15.5]], [[bg/18/66|Bg. 18.66]], [[sb/5/26/37#purport|SB 5.26.37]]
@@ -95,6 +115,7 @@
 * purification via, [[cc/antya/3/124#purport|Antya 3.124]]
 * rareness of, [[cc/madhya/21/15#purport|Madhya 21.15]]
 * rarity of, [[bg/7/19|Bg. 7.19]]
+* realized according to, [[sb/4/21/35#purport|SB 4.21.35]]
 * relief from miseries by, [[sb/4/29/33#purport|SB 4.29.33]], [[sb/4/29/36-37#purport|SB 4.29.36-37]]
 * relief from suffering via, [[bg/18/62|Bg. 18.62]]
 * renunciation of family &, [[cc/madhya/10/55#purport|Madhya 10.55]]
@@ -111,6 +132,7 @@
 * through spiritual master, [[bg/2/39|Bg. 2.39]] (2), [[bg/2/41|Bg. 2.41]], [[bg/4/34|Bg. 4.34]], [[bg/13/8|Bg. 13.8]] (5)
 * to plan of Lord, [[bg/11/33|Bg. 11.33]]
 * types of devotees &, **[[cc/madhya/22/99#translation|Madhya 22.99]]**
+* understood via, [[sb/4/22/38#purport|SB 4.22.38]]
 * via accepting things favorable, [[bg/10/4|Bg. 10.4]] (4)
 * via devotional service, [[cc/adi/7/84#purport|Ādi 7.84]], **[[cc/madhya/22/127#translation|Madhya 22.127]]**
 * via knowledge, [[bg/5/16|Bg. 5.16]], [[bg/7/19|Bg. 7.19]], [[bg/10/7–8|Bg. 10.7–8]], [[bg/18/73|Bg. 18.73]]
@@ -121,4 +143,4 @@
 
 *See also:* Devotional service; pure
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; surrender to
+*See:* Supreme Lord; surrender to

@@ -7,4 +7,4 @@
 * constant, [[sb/4/22/24#purport|SB 4.22.24]]
 * Lord causes, [[sb/4/24/41#purport|SB 4.24.41]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See also:* Kṛṣṇa consciousness

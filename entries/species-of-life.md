@@ -1,5 +1,7 @@
 # Species of life
 
+
+
 * animal, [[bg/14/18|Bg. 14.18]]
 * as diseased conditions, [[sb/7/13/25#purport|SB 7.13.25]]
 * Brahmā created, [[sb/9/8/21#purport|SB 9.8.21]]
@@ -23,6 +25,6 @@
 * survival struggle among, [[sb/1/13/47#purport|SB 1.13.47]], [[sb/1/15/25-26#purport|SB 1.15.25-26]]
 * types of, [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/10/37-40#purport|SB 2.10.37-40]]
 
-*See also:* Animals; Humans being; [[l#Living entities|Living entities]]; specific species
+*See also:* Animals; Humans being; Living entities; specific species; Birth-death cycle; Transmigrations of soul
 
-*See:* [[l#Life|Life]]; species of
+*See:* [Life](entries/life.md); species of

@@ -46,7 +46,7 @@
 ### Ladies
 
 
-*See:* [[w#Women|Women]]
+*See:* [Women](entries/women.md)
 
 ---
 
@@ -94,7 +94,7 @@
 
 ### [Laghu-bhāgavatāmṛta cited](entries/laghu-bhagavatamrta-cited.md)
 
-* on catur-vyūha, [[cc/adi/5/40#purport|Ādi 5.40]], [[cc/adi/5/41#purport|Ādi 5.41]]
+* on catur-vyūha,, [[cc/adi/5/40#purport|Ādi 5.40]], [[cc/adi/5/41#purport|Ādi 5.41]]
 
 *→ See all 8 references in* [Laghu-bhāgavatāmṛta cited](entries/laghu-bhagavatamrta-cited.md)
 
@@ -111,7 +111,7 @@
 
 **[[cc/madhya/20/242#translation|Madhya 20.242]]**...
 
-* Kṛṣṇa’s never leaving, **[[cc/antya/1/67#translation|Antya 1.67]]**
+* Kṛṣṇa’s never leaving,, **[[cc/antya/1/67#translation|Antya 1.67]]**
 
 *→ See all 22 references in* [Laghu-bhāgavatāmṛta quoted](entries/laghu-bhagavatamrta-quoted.md)
 
@@ -193,10 +193,9 @@
 
 ---
 
-### Lakṣmaṇa
+### [Lakṣmaṇa](entries/laksmana.md)
 
-[[cc/adi/5/120#purport|Ādi 5.120]], [[cc/adi/5/149#purport|Ādi 5.149]], [[cc/adi/5/150–51#purport|Ādi 5.150–51]], [[cc/adi/5/153#purport|Ādi 5.153]], [[cc/adi/6/105–6#purport|Ādi 6.105–6]], [[cc/adi/6/75#purport|Ādi 6.75]], [[cc/adi/6/90#purport|Ādi 6.90]], [[cc/madhya/17/86#purport|Madhya 17.86]], [[sb/2/7/23#purport|SB 2.7.23]]
-
+[[cc/adi/5/120#purport|Ādi 5.120]]
 
 ---
 
@@ -218,7 +217,7 @@
 
 [[bg/1/26|Bg. 1.26]]...
 
-* as Daśaratha’s son, [[sb/9/10/2#purport|SB 9.10.2]]
+* as Daśaratha’s son,, [[sb/9/10/2#purport|SB 9.10.2]]
 
 *→ See all 12 references in* [Lakṣmaṇa, Lord](entries/laksmana-lord.md)
 
@@ -235,7 +234,7 @@
 
 [[sb/3/24/31#purport|SB 3.24.31]]...
 
-* as Brahmā’s ”mother,” [[sb/3/28/23#purport|SB 3.28.23]], [[sb/3/28/25#purport|SB 3.28.25]]
+* as Brahmā’s ”mother,”, [[sb/3/28/23#purport|SB 3.28.23]], [[sb/3/28/25#purport|SB 3.28.25]]
 
 *→ See all 9 references in* [Lakṣmī](entries/laksmi.md)
 
@@ -243,7 +242,7 @@
 
 ### [Lakṣmī (goddess of fortune)](entries/laksmi-goddess-of-fortune.md)
 
-* “different” from Viṣṇu, [[sb/6/19/13#purport|SB 6.19.13]]
+* “different” from Viṣṇu,, [[sb/6/19/13#purport|SB 6.19.13]]
 
 *→ See all 17 references in* [Lakṣmī (goddess of fortune)](entries/laksmi-goddess-of-fortune.md)
 
@@ -251,16 +250,15 @@
 
 ### [Lakṣmī quoted](entries/laksmi-quoted.md)
 
-* on Brahmā, [[sb/5/18/22#purport|SB 5.18.22]]
+* as controller of senses,, [[sb/5/18/18#purport|SB 5.18.18]]
 
-*→ See all 9 references in* [Lakṣmī quoted](entries/laksmi-quoted.md)
+*→ See all 20 references in* [Lakṣmī quoted](entries/laksmi-quoted.md)
 
 ---
 
-### Lakṣmī-Nārāyaṇa
+### [Lakṣmī-Nārāyaṇa](entries/laksmi-narayana.md)
 
-[[cc/adi/12/17#purport|Ādi 12.17]], [[cc/madhya/8/229#purport|Madhya 8.229]], [[cc/madhya/8/230#purport|Madhya 8.230]], [[cc/madhya/9/109#purport|Madhya 9.109]], [[cc/madhya/9/11#purport|Madhya 9.11]], [[cc/madhya/9/357#purport|Madhya 9.357]], [[cc/madhya/9/69#purport|Madhya 9.69]], [[sb/3/20/25#purport|SB 3.20.25]], [[sb/4/1/6#purport|SB 4.1.6]]
-
+[[cc/adi/12/17#purport|Ādi 12.17]]
 
 ---
 
@@ -278,9 +276,9 @@
 
 ### [Lakṣmī, Goddess](entries/laksmi-goddess.md)
 
-* as Nārāyaṇa’s companion, [[sb/7/13/32#purport|SB 7.13.32]]
+* as Nārāyaṇa’s companion,, [[sb/7/13/32#purport|SB 7.13.32]]
 
-*→ See all 25 references in* [Lakṣmī, Goddess](entries/laksmi-goddess.md)
+*→ See all 30 references in* [Lakṣmī, Goddess](entries/laksmi-goddess.md)
 
 ---
 
@@ -332,19 +330,17 @@
 
 ### [Lalitā-devī](entries/lalita-devi.md)
 
-[[cc/adi/10/15#purport|Ādi 10.15]], [[cc/adi/4/105#purport|Ādi 4.105]], [[cc/adi/5/213#purport|Ādi 5.213]]...
+[[cc/adi/4/105#purport|Ādi 4.105]]...
 
-* Ādi 01.134 purport, [[cc/adi/12/80#purport|Ādi 12.80]], [[cc/madhya/1/41#purport|Madhya 1.41]]
-
-*→ See all 16 references in* [Lalitā-devī](entries/lalita-devi.md)
+* Ādi, 01.134 purport, [[cc/adi/12/80#purport|Ādi 12.80]], [[cc/madhya/1/41#purport|Madhya 1.41]]
 
 ---
 
 ### [Lalita-mādhava-nāṭaka](entries/lalita-madhava-nataka.md)
 
-**[[cc/adi/17/281#translation|Ādi 17.281]]**, [[cc/adi/4/146#purport|Ādi 4.146]], [[cc/adi/4/259#purport|Ādi 4.259]]...
+[[cc/adi/4/146#purport|Ādi 4.146]]...
 
-*  [[cc/adi/10/84#purport|Ādi 10.84]] (2 purport
+* Dvārakā & Mathurā pastimes in,, [[cc/antya/1/71#purport|Antya 1.71]]
 
 *→ See all 22 references in* [Lalita-mādhava-nāṭaka](entries/lalita-madhava-nataka.md)
 
@@ -367,7 +363,7 @@
 
 [[sb/6/1/51#purport|SB 6.1.51]]...
 
-* as bodily transformation, [[sb/5/10/10#purport|SB 5.10.10]]
+* as bodily transformation,, [[sb/5/10/10#purport|SB 5.10.10]]
 
 *→ See all 44 references in* [Lamentation](entries/lamentation.md)
 
@@ -382,7 +378,7 @@
 
 ### [Land](entries/land.md)
 
-* Bali gave, to Vāmana, [[sb/8/20/16#purport|SB 8.20.16]], [[sb/8/20/20#purport|SB 8.20.20]]
+* Bali gave, to Vāmana,, [[sb/8/20/16#purport|SB 8.20.16]], [[sb/8/20/20#purport|SB 8.20.20]]
 
 *→ See all 7 references in* [Land](entries/land.md)
 
@@ -499,13 +495,6 @@
 
 ---
 
-### Law
-
-
-*See:* Governments; [[v#Vedas|Vedas]]; regulations of
-
----
-
 ### Law & order
 
 * execution of, Lord’s mercy compared to, [[sb/4/11/18#purport|SB 4.11.18]]
@@ -515,9 +504,9 @@
 
 ### [Law(s)](entries/laws.md)
 
-* divorce, [[sb/9/3/10#purport|SB 9.3.10]]
+* as ”conquered” by materialists,, [[sb/2/2/19#purport|SB 2.2.19]]
 
-*→ See all 26 references in* [Law(s)](entries/laws.md)
+*→ See all 79 references in* [Law(s)](entries/laws.md)
 
 ---
 
@@ -544,9 +533,9 @@
 
 ### [Laws of nature](entries/laws-of-nature.md)
 
-**[[cc/madhya/17/133#translation|Madhya 17.133]]**, [[cc/madhya/24/249#purport|Madhya 24.249]], [[cc/madhya/24/250#purport|Madhya 24.250]]...
+**[[cc/madhya/17/133#translation|Madhya 17.133]]**...
 
-* activities controlled by, [[sb/4/24/66#purport|SB 4.24.66]]
+* activities controlled by,, [[sb/4/24/66#purport|SB 4.24.66]]
 
 *→ See all 23 references in* [Laws of nature](entries/laws-of-nature.md)
 
@@ -572,7 +561,7 @@
 [[sb/6/15/6#purport|SB 6.15.6]]
 
 
-*See also:* Kings; [[k#Kṣatriyas|Kṣatriyas]]
+*See also:* Kings; Kṣatriyas
 
 ---
 
@@ -583,14 +572,14 @@
 
 ---
 
-### Leader(s)
+### Leaders
 
 * modern, [[sb/8/22/20#purport|SB 8.22.20]]
 * religious, [[sb/8/23/16#purport|SB 8.23.16]]
 
-*See also:* Kings; [[k#Kṣatriyas|Kṣatriyas]]; [[p#Politicians|Politicians]]
+*See also:* Kings; Kṣatriyas; Politicians
 
-*See:* Governments; [[l#leaders|leaders]]; Kings; [[k#Kṣatriyas|Kṣatriyas]]
+*See:* Governments; leaders; Kings; Kṣatriyas
 
 ---
 
@@ -605,7 +594,7 @@
 
 *  [[bg/3/20–21|Bg. 3.20–21]], [[bg/3/22|Bg. 3.22]]
 
-*See also:* Governments; [[k#Kṣatriyas|Kṣatriyas]]; Spiritual masters; names of individual leaders
+*See also:* Governments; Kṣatriyas; Spiritual masters; names of individual leaders
 
 ---
 
@@ -616,20 +605,15 @@
 
 ---
 
-### Learned person
+### Learned persons
 
 *  [[sb/4/24/67-67#purport|SB 4.24.67-67]], [[sb/4/24/68#purport|SB 4.24.68]]
 * spiritual vision in, [[sb/4/16/19#purport|SB 4.16.19]]
 * symptoms of, [[sb/4/16/17#purport|SB 4.16.17]]
 
-*See also:* [[s#Sages|Sages]]
+*See also:* Sages
 
----
-
-### Learned persons
-
-
-*See:* Devotees; [[s#Sages|Sages]]; [[w#Wise men|Wise men]]
+*See:* Devotees; Sages; Wise men
 
 ---
 
@@ -637,9 +621,9 @@
 
 * auspicious, compared with dangerous, [[sb/9/4/70#purport|SB 9.4.70]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
-*See:* [[e#Education|Education]]; [[i#Intelligence|Intelligence]]; [[k#Knowledge|Knowledge]]
+*See:* [Education](entries/education.md); [Intelligence](entries/intelligence.md); [Knowledge](entries/knowledge.md)
 
 ---
 
@@ -649,7 +633,7 @@
 * in service to Lord, [[sb/4/3/17#purport|SB 4.3.17]]
 * pride in, [[sb/4/3/17#purport|SB 4.3.17]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
 ---
 
@@ -696,7 +680,7 @@
 * Earth burdened by, [[sb/8/20/4-4#purport|SB 8.20.4-4]]
 * in Kali-yuga, [[sb/8/20/4#purport|SB 8.20.4]]
 
-*See also:* [[f#Falsity|Falsity]]
+*See also:* Falsity
 
 ---
 
@@ -709,29 +693,29 @@
 
 ### [Liberated soul(s)](entries/liberated-souls.md)
 
-[[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/5/30#purport|Ādi 5.30]], [[cc/madhya/11/89#purport|Madhya 11.89]]...
+[[bg/4/14–15|Bg. 4.14–15]], [[bg/18/78|Bg. 18.78]] (5)...
 
-* activities performed by, [[sb/5/1/16#purport|SB 5.1.16]]
+* activities performed by,, [[sb/5/1/16#purport|SB 5.1.16]]
 
-*→ See all 84 references in* [Liberated soul(s)](entries/liberated-souls.md)
+*→ See all 92 references in* [Liberated soul(s)](entries/liberated-souls.md)
 
 ---
 
 ### [Liberation](entries/liberation.md)
 
-[[cc/adi/17/212#purport|Ādi 17.212]], **[[cc/adi/5/30#translation|Ādi 5.30]]**, [[cc/adi/7/144#purport|Ādi 7.144]]...
+[[cc/adi/7/95–96#purport|Ādi 7.95–96]]...
 
-* ”special,” 9.20, [[sb/10/12/33#purport|SB 10.12.33]], [[sb/10/12/39#purport|SB 10.12.39]]
+* ”special,”, 9.20, [[sb/10/12/33#purport|SB 10.12.33]], [[sb/10/12/39#purport|SB 10.12.39]]
 
-*→ See all 699 references in* [Liberation](entries/liberation.md)
+*→ See all 751 references in* [Liberation](entries/liberation.md)
 
 ---
 
 ### [Liberation (mukti)](entries/liberation-mukti.md)
 
-* as freedom 
+* as freedom
 
-*→ See all 38 references in* [Liberation (mukti)](entries/liberation-mukti.md)
+*→ See all 42 references in* [Liberation (mukti)](entries/liberation-mukti.md)
 
 ---
 
@@ -744,9 +728,9 @@
 
 ### [Life](entries/life.md)
 
-* affection in, [[sb/2/7/47#purport|SB 2.7.47]]
+* affection in,, [[sb/2/7/47#purport|SB 2.7.47]]
 
-*→ See all 211 references in* [Life](entries/life.md)
+*→ See all 291 references in* [Life](entries/life.md)
 
 ---
 
@@ -757,25 +741,20 @@
 
 ---
 
-### Life air
+### [Life airs](entries/life-airs.md)
 
+[[bg/4/27–29|Bg. 4.27–29]], [[bg/8/10|Bg. 8.10]], [[bg/8/11|Bg. 8.11]], [[bg/8/12|Bg. 8.12]], [[bg/15/14|Bg. 15.14]]...
 
-*See:* [[a#Air of life|Air of life]]; Airs; [[l#life|life]]
+* at time of death,, [[sb/4/28/23#purport|SB 4.28.23]]
 
----
-
-### [Life air(s)](entries/life-airs.md)
-
-* at time of death, [[sb/4/28/23#purport|SB 4.28.23]]
-
-*→ See all 10 references in* [Life air(s)](entries/life-airs.md)
+*→ See all 15 references in* [Life airs](entries/life-airs.md)
 
 ---
 
 ### Life force
 
 
-*See:* [[s#Souls|Souls]]
+*See:* Souls
 
 ---
 
@@ -783,7 +762,7 @@
 
 *  [[sb/10/2/20#purport|SB 10.2.20]], [[sb/10/2/27#purport|SB 10.2.27]]
 
-*See also:* [[s#Souls|Souls]]
+*See also:* Souls
 
 ---
 
@@ -796,7 +775,7 @@
 
 ### [Life span(s)](entries/life-spans.md)
 
-* diminished via time & sun, [[sb/4/27/13-16#purport|SB 4.27.13-16]]
+* diminished via time & sun,, [[sb/4/27/13-16#purport|SB 4.27.13-16]]
 
 *→ See all 8 references in* [Life span(s)](entries/life-spans.md)
 
@@ -805,15 +784,7 @@
 ### Life, material
 
 
-*See:* [[m#Material life|Material life]]
-
----
-
-### [Light](entries/light.md)
-
-* consciousness compared to, [[sb/4/1/15#purport|SB 4.1.15]]
-
-*→ See all 8 references in* [Light](entries/light.md)
+*See:* Material life
 
 ---
 
@@ -838,14 +809,15 @@
 ### Light, spiritual
 
 
-*See:* [[b#Brahman effulgence|Brahman effulgence]]
+*See:* Brahman effulgence
 
 ---
 
-### Light(s)
+### [Light(s)](entries/lights.md)
 
-* Kṛṣṇa’s representation among, [[bg/10/21|Bg. 10.21]]
-* Lord as source of, [[bg/13/18|Bg. 13.18]]
+* consciousness compared to,, [[sb/4/1/15#purport|SB 4.1.15]]
+
+*→ See all 11 references in* [Light(s)](entries/lights.md)
 
 ---
 
@@ -905,11 +877,9 @@
 
 ---
 
-### Līlā-avatāras
+### [Līlā-avatāras](entries/lila-avataras.md)
 
-[[cc/madhya/1/41#purport|Madhya 1.41]], [[cc/madhya/1/43#purport|Madhya 1.43]], [[cc/madhya/20/185#purport|Madhya 20.185]], [[cc/madhya/20/244#purport|Madhya 20.244]], **[[cc/madhya/20/245#translation|Madhya 20.245]]**, **[[cc/madhya/6/99#translation|Madhya 6.99]]**, [[sb/2/6/46#purport|SB 2.6.46]]
-
-*  [[sb/1/2/22#purport|SB 1.2.22]], [[sb/1/3/5#purport|SB 1.3.5]]
+[[cc/madhya/1/41#purport|Madhya 1.41]]
 
 ---
 
@@ -1021,7 +991,7 @@
 [[sb/4/18/16#purport|SB 4.18.16]]
 
 
-*See also:* [[i#Intoxication|Intoxication]]
+*See also:* [Intoxication](entries/intoxication.md)
 
 ---
 
@@ -1041,9 +1011,11 @@
 
 ### [Literature](entries/literature.md)
 
-* distribution of transcendental, [[sb/7/14/39#purport|SB 7.14.39]]
+...
 
-*→ See all 14 references in* [Literature](entries/literature.md)
+* as ever fresh,, [[sb/7/14/8#purport|SB 7.14.8]]
+
+*→ See all 23 references in* [Literature](entries/literature.md)
 
 ---
 
@@ -1071,25 +1043,25 @@
 
 *  [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]]
 
-*See also:* [[b#Bhagavad-gītā|Bhagavad-gītā]]; [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]]; [[v#Vedānta-sūtra|Vedānta-sūtra]]; [[v#Vedas|Vedas]]; [[v#Vedic literature|Vedic literature]]
+*See also:* Bhagavad-gītā; Śrīmad-Bhāgavatam; Vedānta-sūtra; Vedas; Vedic literature
 
 ---
 
 ### [Living entities](entries/living-entities.md)
 
-* ”falling” tendency of, [[sb/2/6/41#purport|SB 2.6.41]]
+* ”falling” tendency of,, [[sb/2/6/41#purport|SB 2.6.41]]
 
-*→ See all 742 references in* [Living entities](entries/living-entities.md)
+*→ See all 933 references in* [Living entities](entries/living-entities.md)
 
 ---
 
 ### [Living entity (entities)](entries/living-entity-entities.md)
 
-[[cc/adi/12/70#purport|Ādi 12.70]], [[cc/adi/12/70#purport|Ādi 12.70]], [[cc/adi/12/73#purport|Ādi 12.73]]...
+**[[cc/madhya/24/201#translation|Madhya 24.201]]**...
 
-* “annihilation” of, [[bg/8/18–19|Bg. 8.18–19]]
+* “annihilation” of,, [[bg/8/18–19|Bg. 8.18–19]]
 
-*→ See all 538 references in* [Living entity (entities)](entries/living-entity-entities.md)
+*→ See all 725 references in* [Living entity (entities)](entries/living-entity-entities.md)
 
 ---
 
@@ -1118,7 +1090,7 @@
 
 * defined, [[sb/7/9/1#purport|SB 7.9.1]], [[sb/8/3/27#purport|SB 8.3.27]]
 
-*See also:* [[g#Greed|Greed]]
+*See also:* [Greed](entries/greed.md)
 
 ---
 
@@ -1214,14 +1186,6 @@
 
 ---
 
-### Loka
-
-* defined, [[sb/9/14/47#purport|SB 9.14.47]]
-
-*See also:* [[p#Planets|Planets]]
-
----
-
 ### Loka defined
 
 [[sb/4/24/29#purport|SB 4.24.29]]
@@ -1238,9 +1202,9 @@
 
 ### Loka(s)
 
-* defined, [[sb/7/8/47#purport|SB 7.8.47]]
+* defined, [[sb/7/8/47#purport|SB 7.8.47]], [[sb/9/14/47#purport|SB 9.14.47]]
 
-*See also:* Heavenlies planet; Universes
+*See also:* Heavenlies planet; Universes; Planets
 
 ---
 
@@ -1248,16 +1212,15 @@
 
 [[sb/8/5/5#purport|SB 8.5.5]]...
 
-* as outer border of three worlds, [[sb/5/20/37#purport|SB 5.20.37]]
+* as outer border of three worlds,, [[sb/5/20/37#purport|SB 5.20.37]]
 
 *→ See all 8 references in* [Lokāloka Mountain](entries/lokaloka-mountain.md)
 
 ---
 
-### Lokanātha dāsa Gosvāmī
+### [Lokanātha dāsa Gosvāmī](entries/lokanatha-dasa-gosvami.md)
 
-[[cc/adi/1/19#purport|Ādi 1.19]], [[cc/adi/12/82#purport|Ādi 12.82]], [[cc/adi/12/88#purport|Ādi 12.88]], [[cc/adi/7/164#purport|Ādi 7.164]], **[[cc/madhya/18/49#translation|Madhya 18.49]]**, [[cc/madhya/18/52#purport|Madhya 18.52]]
-
+[[cc/adi/1/19#purport|Ādi 1.19]]
 
 ---
 
@@ -1313,7 +1276,7 @@
 ### Lord
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]
+*See:* Supreme Lord
 
 ---
 
@@ -1327,7 +1290,7 @@
 ### Lord in heart
 
 
-*See:* [[s#Supersoul|Supersoul]]
+*See:* [Supersoul](entries/supersoul.md)
 
 ---
 
@@ -1341,7 +1304,7 @@
 ### Lord, Supreme
 
 
-*See:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; Supreme Lord
 
 ---
 
@@ -1355,7 +1318,7 @@
 ### Lotus feet of Lord
 
 
-*See:* Kṛṣṇa; lotus feet of; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; lotus feet of; Supreme Lord
 
 ---
 
@@ -1368,17 +1331,9 @@
 
 ### [Lotus feet of Supreme Lord](entries/lotus-feet-of-supreme-lord.md)
 
-* as all-auspicious, [[sb/7/7/50#purport|SB 7.7.50]]
+* as all-auspicious,, [[sb/7/7/50#purport|SB 7.7.50]]
 
 *→ See all 22 references in* [Lotus feet of Supreme Lord](entries/lotus-feet-of-supreme-lord.md)
-
----
-
-### [Lotus flower](entries/lotus-flower.md)
-
-* Brahmā born from, [[sb/2/8/8#purport|SB 2.8.8]]
-
-*→ See all 10 references in* [Lotus flower](entries/lotus-flower.md)
 
 ---
 
@@ -1417,9 +1372,9 @@
 
 ### [Lotus flower(s)](entries/lotus-flowers.md)
 
-* beauty of, [[sb/3/5/41#purport|SB 3.5.41]]
+* beauty of,, [[sb/3/5/41#purport|SB 3.5.41]]
 
-*→ See all 9 references in* [Lotus flower(s)](entries/lotus-flowers.md)
+*→ See all 19 references in* [Lotus flower(s)](entries/lotus-flowers.md)
 
 ---
 
@@ -1453,19 +1408,19 @@
 
 ### [Love](entries/love.md)
 
-* as pleasurable burden, [[sb/3/3/14#purport|SB 3.3.14]]
+* ”suffering” from,, [[sb/3/2/8#purport|SB 3.2.8]]
 
-*→ See all 28 references in* [Love](entries/love.md)
+*→ See all 120 references in* [Love](entries/love.md)
 
 ---
 
 ### [Love for Lord](entries/love-for-lord.md)
 
-**[[cc/adi/1/107#translation|Ādi 1.107]]**, **[[cc/adi/13/13#translation|Ādi 13.13]]**, **[[cc/adi/13/32#translation|Ādi 13.32]]**...
+[[bg/4/20|Bg. 4.20]], [[bg/8/28|Bg. 8.28]]...
 
-* activities &, [[cc/madhya/4/178#purport|Madhya 4.178]]
+* activities &,, [[cc/madhya/4/178#purport|Madhya 4.178]]
 
-*→ See all 438 references in* [Love for Lord](entries/love-for-lord.md)
+*→ See all 440 references in* [Love for Lord](entries/love-for-lord.md)
 
 ---
 
@@ -1527,11 +1482,11 @@
 
 ### [Lust](entries/lust.md)
 
-[[sb/1/11/36#purport|SB 1.11.36]], [[sb/10/13/53#purport|SB 10.13.53]]...
+[[bg/2/62|Bg. 2.62]], [[bg/3/37–41|Bg. 3.37–41]], [[bg/3/43|Bg. 3.43]], [[bg/16/8–12|Bg. 16.8–12]], [[bg/16/18|Bg. 16.18]], [[bg/16/21–22|Bg. 16.21–22]]...
 
-* anger from, [[sb/7/15/20#purport|SB 7.15.20]]
+* anger from,, [[sb/7/15/20#purport|SB 7.15.20]]
 
-*→ See all 75 references in* [Lust](entries/lust.md)
+*→ See all 78 references in* [Lust](entries/lust.md)
 
 ---
 

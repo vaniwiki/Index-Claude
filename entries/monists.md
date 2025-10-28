@@ -1,4 +1,4 @@
-# Monist(s)
+# Monists
 
 [[cc/madhya/12/194#purport|Madhya 12.194]]
 
@@ -11,6 +11,6 @@
 * intelligence of, [[sb/7/7/19-20#purport|SB 7.7.19-20]]
 * vision of, [[sb/4/7/38#purport|SB 4.7.38]]
 
-*See also:* [[i#Impersonalists|Impersonalists]]; [[j#Jñānīs|Jñānīs]]; Philosophers; speculative
+*See also:* Impersonalists; Jñānīs; Philosophers; speculative
 
-*See:* [[i#Impersonalists|Impersonalists]]; [[j#Jñānīs|Jñānīs]]; [[m#Māyāvādīs|Māyāvādīs]]
+*See:* Impersonalists; Jñānīs; Māyāvādīs

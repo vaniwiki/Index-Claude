@@ -23,7 +23,7 @@
 * Gauḍīya Maṭha factions &, [[cc/adi/12/8#purport|Ādi 12.8]]
 * Hari-bhakti-vilāsa &, [[cc/madhya/1/35#purport|Madhya 1.35]]
 * impersonalists &, [[cc/madhya/1/34#purport|Madhya 1.34]]
-* in disciplic succession, 31 
+* in disciplic succession, 31
 * ISKCON &, [[cc/adi/10/84#purport|Ādi 10.84]]
 * Kṛṣṇa-karṇāmṛta commentary by, [[cc/madhya/1/120#purport|Madhya 1.120]]
 * Kṛṣṇadāsa Kavirāja’s guru &, [[cc/adi/10/103#purport|Ādi 10.103]]

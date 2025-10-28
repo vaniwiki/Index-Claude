@@ -7,4 +7,4 @@
 * via Lord’s mercy, [[sb/4/9/5#purport|SB 4.9.5]]
 * via Lord’s spiritual energy, [[sb/4/9/6#purport|SB 4.9.6]]
 
-*See also:* Chanting of Supreme Lord’s holy names; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]
+*See also:* Chanting of Supreme Lord’s holy names; Saṅkīrtana-yajña

@@ -1,6 +1,6 @@
 # Fear
 
-**[[cc/madhya/22/110#translation|Madhya 22.110]]**, **[[cc/madhya/24/136–37#translation|Madhya 24.136–37]]**, **[[cc/madhya/25/138#translation|Madhya 25.138]]**
+[[bg/1/29|Bg. 1.29]], [[bg/1/30|Bg. 1.30]], [[bg/2/35|Bg. 2.35]], [[bg/2/56|Bg. 2.56]], [[bg/10/4|Bg. 10.4]] (5), [[bg/18/30|Bg. 18.30]], [[bg/18/35|Bg. 18.35]], **[[cc/madhya/22/110#translation|Madhya 22.110]]**, **[[cc/madhya/24/136–37#translation|Madhya 24.136–37]]**, **[[cc/madhya/25/138#translation|Madhya 25.138]]**, [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/33/11-11#purport|SB 3.33.11-11]]
 
 * ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
 * Ambarīṣa free of, [[sb/9/4/28#purport|SB 9.4.28]], [[sb/9/4/47#purport|SB 9.4.47]], [[sb/9/4/48#purport|SB 9.4.48]], [[sb/9/4/65#purport|SB 9.4.65]]
@@ -10,11 +10,11 @@
 * at death, [[sb/2/1/15#purport|SB 2.1.15]]
 * Bali &, [[sb/8/11/7#purport|SB 8.11.7]], [[sb/8/20/5#purport|SB 8.20.5]], [[sb/8/22/3#purport|SB 8.22.3]]
 * Bali free of, [[sb/8/20/15#purport|SB 8.20.15]]
-*  [[bg/1/29|Bg. 1.29]], [[bg/1/30|Bg. 1.30]], [[bg/2/35|Bg. 2.35]], [[bg/2/56|Bg. 2.56]], [[bg/10/4|Bg. 10.4]] (5), [[bg/18/30|Bg. 18.30]], [[bg/18/35|Bg. 18.35]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/33/11-11#purport|SB 3.33.11-11]]
 * bhakti free from, [[sb/6/1/17-17#purport|SB 6.1.17-17]], [[sb/6/1/19#purport|SB 6.1.19]]
 * bodily concept causes, [[sb/4/24/52#purport|SB 4.24.52]]
-* by demigods 
+* by demigods
 * by devotees toward Nṛsiṁhadeva, [[sb/7/9/13#purport|SB 7.9.13]]
+* by devotees, [[sb/5/19/14#purport|SB 5.19.14]]
 * by Rahūgaṇa, [[sb/5/10/17#purport|SB 5.10.17]]
 * cause & cure for, [[sb/3/9/6#purport|SB 3.9.6]]
 * cause of, [[sb/3/8/20#purport|SB 3.8.20]], [[sb/3/9/6#purport|SB 3.9.6]]
@@ -22,7 +22,7 @@
 * causes of, [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/25#purport|SB 6.15.25]]
 * compared to mountain cave, [[sb/5/14/33#purport|SB 5.14.33]]
 * demigods act due to, of Lord, [[sb/5/20/5#purport|SB 5.20.5]]
-* devotee free of, [[sb/10/13/13#purport|SB 10.13.13]], [[sb/3/21/31#purport|SB 3.21.31]]
+* devotee free of, [[sb/3/21/31#purport|SB 3.21.31]], [[sb/10/13/13#purport|SB 10.13.13]]
 * devotees beyond, [[sb/3/1/42#purport|SB 3.1.42]], [[sb/3/15/7#purport|SB 3.15.7]], [[sb/3/15/49#purport|SB 3.15.49]]
 * devotees free of, [[sb/1/14/38#purport|SB 1.14.38]], [[sb/1/19/4#purport|SB 1.19.4]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/4/24/68#purport|SB 4.24.68]], [[sb/7/1/28-29#purport|SB 7.1.28-29]], [[sb/7/9/2#purport|SB 7.9.2]], [[sb/8/21/32#purport|SB 8.21.32]], [[sb/8/22/3#purport|SB 8.22.3]], [[sb/9/4/24#purport|SB 9.4.24]], [[sb/9/4/28#purport|SB 9.4.28]], [[sb/9/4/48#purport|SB 9.4.48]], [[sb/9/13/9-9#purport|SB 9.13.9-9]]
 * devotees of Lord free from, 4, [[sb/1/7/22#purport|SB 1.7.22]], [[sb/1/7/22#purport|SB 1.7.22]]
@@ -42,11 +42,11 @@
 * in bodily concept of life, [[sb/1/7/7#purport|SB 1.7.7]]
 * in conditioned souls, [[sb/1/14/38#purport|SB 1.14.38]]
 * in demigods of Vṛtrāsura, [[sb/6/11/6-8#purport|SB 6.11.6-8]]
-* in demigods, Kaṁsa’s ministers quoted on, [[sb/10/4/32-36#purport|SB 10.4.32-36]]
 * in demigods, [[sb/3/17/1#purport|SB 3.17.1]]
+* in demigods, Kaṁsa’s ministers quoted on, [[sb/10/4/32-36#purport|SB 10.4.32-36]]
 * in demons of demigods, [[sb/6/11/1#purport|SB 6.11.1]]
 * in Devakī for Kṛṣṇa’s life, [[sb/10/3/23#purport|SB 10.3.23]], [[sb/10/3/24#purport|SB 10.3.24]], [[sb/10/3/27#purport|SB 10.3.27]], [[sb/10/3/28-28#purport|SB 10.3.28-28]], [[sb/10/3/30#purport|SB 10.3.30]]
-* in material life, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/7/6/5#purport|SB 7.6.5]]
+* in material life, [[sb/7/6/5#purport|SB 7.6.5]], [[sb/10/7/31#purport|SB 10.7.31]]
 * in material world, [[sb/1/12/28#purport|SB 1.12.28]], [[sb/1/13/18#purport|SB 1.13.18]], [[sb/3/17/1#purport|SB 3.17.1]], [[sb/3/23/7#purport|SB 3.23.7]], [[sb/3/23/51#purport|SB 3.23.51]]
 * in nondevotee, [[sb/9/13/9#purport|SB 9.13.9]]
 * in nondevotees, [[sb/6/9/37#purport|SB 6.9.37]]
@@ -75,8 +75,8 @@
 * of being alone, [[sb/2/2/5#purport|SB 2.2.5]]
 * of cows for tiger, [[sb/9/2/4#purport|SB 9.2.4]]
 * of Dakṣa in men, [[sb/4/4/7#purport|SB 4.4.7]]
+* of death, [[sb/3/12/2#purport|SB 3.12.2]], [[sb/5/14/33#purport|SB 5.14.33]], [[sb/8/2/33#purport|SB 8.2.33]], [[sb/10/1/38#purport|SB 10.1.38]], [[sb/10/3/27-27#purport|SB 10.3.27-27]], [[sb/10/13/13#purport|SB 10.13.13]]
 * of death, freedom from, [[sb/6/9/21#purport|SB 6.9.21]]
-* of death, [[sb/10/1/38#purport|SB 10.1.38]], [[sb/10/3/27-27#purport|SB 10.3.27-27]], [[sb/10/13/13#purport|SB 10.13.13]], [[sb/3/12/2#purport|SB 3.12.2]], [[sb/5/14/33#purport|SB 5.14.33]], [[sb/8/2/33#purport|SB 8.2.33]]
 * of Durvāsā for Sudarśana cakra, [[sb/9/4/49-51#purport|SB 9.4.49-51]]
 * of elephant king by animals, [[sb/8/2/21#purport|SB 8.2.21]]
 * of forest, [[sb/10/13/60#purport|SB 10.13.60]]
@@ -86,6 +86,7 @@
 * of Kali toward Parīkṣit, [[sb/1/17/35#purport|SB 1.17.35]]
 * of Kṛṣṇa can purify, [[sb/7/1/28-29#purport|SB 7.1.28-29]], [[sb/7/1/28-29#purport|SB 7.1.28-29]], [[sb/7/1/30#purport|SB 7.1.30]]
 * of Kṛṣṇa consciousness movement by malicious men, [[sb/10/2/20#purport|SB 10.2.20]]
+* of Lord’s disc weapon, [[sb/9/4/28#purport|SB 9.4.28]]
 * of material existence, [[sb/10/2/6#purport|SB 10.2.6]], [[sb/10/2/8#purport|SB 10.2.8]]
 * of materialism advised, [[sb/8/22/11#purport|SB 8.22.11]]
 * of miscreants toward Yamarāja, [[sb/1/15/49#purport|SB 1.15.49]]
@@ -107,9 +108,11 @@
 * sense control &, [[sb/5/1/17#purport|SB 5.1.17]]
 * Śrīmad-Bhāgavatam vanquishes, [[sb/1/7/7#purport|SB 1.7.7]], [[sb/1/7/7#purport|SB 1.7.7]]
 * surrender dispels, [[sb/1/19/15#purport|SB 1.19.15]], [[sb/8/24/38#purport|SB 8.24.38]]
+* toward demons, [[sb/7/8/42#purport|SB 7.8.42]]
+* toward Nṛsiṁhadeva, [[sb/7/9/1#purport|SB 7.9.1]], [[sb/7/9/2#purport|SB 7.9.2]]
 * transcendental, [[sb/10/3/31#purport|SB 10.3.31]]
 * used in Lord’s service, [[sb/3/16/31#purport|SB 3.16.31]]
 * Vasudeva freed of, at Lord’s advent, [[sb/10/3/12#purport|SB 10.3.12]], [[sb/10/3/13#purport|SB 10.3.13]]
 * Yudhiṣṭhira beyond, [[sb/1/15/43#purport|SB 1.15.43]]
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; protection by
+*See also:* Supreme Lord; protection by

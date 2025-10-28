@@ -1,4 +1,4 @@
 # Mankind
 
 
-*See:* Humans being; [[s#Society|Society]]; human; Human beings
+*See:* Human beings; [Society](entries/society.md); human; Humans being

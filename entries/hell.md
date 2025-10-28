@@ -1,5 +1,7 @@
 # Hell
 
+[[sb/4/27/4#purport|SB 4.27.4]], [[sb/4/29/15#purport|SB 4.29.15]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/30-31#purport|SB 4.29.30-31]]
+
 * Andha-tāmisra, [[sb/3/30/28#purport|SB 3.30.28]], [[sb/3/30/33#purport|SB 3.30.33]], [[sb/3/30/34#purport|SB 3.30.34]], [[sb/3/31/1#purport|SB 3.31.1]], [[sb/3/31/32#purport|SB 3.31.32]]
 * Andhatāmisra, [[sb/3/4/20#purport|SB 3.4.20]]
 * atheists condemned to, [[sb/9/10/28#purport|SB 9.10.28]]
@@ -27,7 +29,6 @@
 * release from, [[sb/3/30/34-34#purport|SB 3.30.34-34]], [[sb/3/31/1#purport|SB 3.31.1]], [[sb/3/31/32#purport|SB 3.31.32]]
 * salvation from, [[sb/9/4/62#purport|SB 9.4.62]]
 * satisfaction in, [[sb/3/30/5-5#purport|SB 3.30.5-5]]
-*  [[sb/4/27/4#purport|SB 4.27.4]], [[sb/4/29/15#purport|SB 4.29.15]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/30-31#purport|SB 4.29.30-31]]
 * sense gratification leads to, [[sb/3/31/32-32#purport|SB 3.31.32-32]]
 * son can save father from, [[sb/4/21/46#purport|SB 4.21.46]]
 * śrāddha ceremony abusers bound for, [[sb/7/14/20-23#purport|SB 7.14.20-23]]
@@ -41,4 +42,4 @@
 * via sinful activities, [[sb/10/10/10-10#purport|SB 10.10.10-10]]
 * via sinful activity, [[sb/7/7/38#purport|SB 7.7.38]]
 
-*See also:* [[h#Hellish planets|Hellish planets]]; [[s#Suffering|Suffering]]
+*See also:* [Suffering](entries/sufferings.md); Hellish planets

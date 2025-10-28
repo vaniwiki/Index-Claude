@@ -1,7 +1,7 @@
-# Sura(s)
+# Suras
 
 * defined, [[sb/8/5/24#purport|SB 8.5.24]]
 
-*See also:* [[d#Demigods|Demigods]]; Devotees
+*See also:* Demigods; Devotees
 
-*See:* [[d#Demigods|Demigods]]; Devotees
+*See:* Demigods; Devotees

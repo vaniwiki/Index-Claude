@@ -1,13 +1,12 @@
 # Bathing
 
-[[sb/4/28/37#purport|SB 4.28.37]]
+[[bg/2/52|Bg. 2.52]], [[bg/13/8|Bg. 13.8]] (6), [[sb/4/28/37#purport|SB 4.28.37]]
 
 * after sacrifice, [[sb/4/2/35#purport|SB 4.2.35]]
 * as devotee’s duty, [[sb/4/12/28#purport|SB 4.12.28]]
 * at pilgrimage places, [[sb/4/29/81#purport|SB 4.29.81]], [[sb/4/30/37#purport|SB 4.30.37]]
 * auspicious substances before & after, [[sb/3/23/32#purport|SB 3.23.32]]
 * avabhṛtha-snāna, [[sb/4/2/35#purport|SB 4.2.35]]
-*  [[bg/2/52|Bg. 2.52]], [[bg/13/8|Bg. 13.8]] (6)
 * by demigod women, [[sb/4/6/25#purport|SB 4.6.25]], [[sb/4/6/26#purport|SB 4.6.26]]
 * in aṣṭāṅga-yoga, [[sb/4/8/43#purport|SB 4.8.43]]
 * in Ganges water, [[sb/4/21/31#purport|SB 4.21.31]]
@@ -24,4 +23,4 @@
 * principles of, [[sb/3/33/14#purport|SB 3.33.14]]
 * sites for, in Vṛndāvana, [[sb/4/8/42#purport|SB 4.8.42]]
 
-*See also:* [[c#Cleanliness|Cleanliness]]; [[p#Purification|Purification]]
+*See also:* [Cleanliness](entries/cleanliness.md); [Purification](entries/purification.md)

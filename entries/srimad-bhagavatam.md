@@ -1,40 +1,42 @@
 # Śrīmad-Bhāgavatam
 
-**[[cc/adi/17/312#translation|Ādi 17.312]]**, [[cc/adi/8/36#purport|Ādi 8.36]], [[cc/antya/13/113#purport|Antya 13.113]], [[cc/antya/13/113#purport|Antya 13.113]], **[[cc/antya/13/117#translation|Antya 13.117]]**, **[[cc/antya/13/126–28#translation|Antya 13.126–28]]**, **[[cc/antya/4/220#translation|Antya 4.220]]**, [[cc/antya/4/222#purport|Antya 4.222]], [[cc/antya/5/131#purport|Antya 5.131]], **[[cc/antya/5/131#translation|Antya 5.131]]**, **[[cc/antya/7/113–14#translation|Antya 7.113–14]]**, **[[cc/antya/7/133#translation|Antya 7.133]]**, [[cc/antya/7/53#purport|Antya 7.53]], **[[cc/antya/7/81#translation|Antya 7.81]]**, **[[cc/antya/7/84#translation|Antya 7.84]]**, **[[cc/antya/7/88#translation|Antya 7.88]]**, **[[cc/antya/7/91#translation|Antya 7.91]]**, [[cc/antya/9/10#purport|Antya 9.10]], **[[cc/madhya/20/151#translation|Madhya 20.151]]**, [[cc/madhya/20/359#purport|Madhya 20.359]], **[[cc/madhya/22/125#translation|Madhya 22.125]]**, **[[cc/madhya/22/128#translation|Madhya 22.128]]**, [[cc/madhya/22/129#purport|Madhya 22.129]], [[cc/madhya/22/131#purport|Madhya 22.131]], **[[cc/madhya/22/131#translation|Madhya 22.131]]**, [[cc/madhya/22/19#purport|Madhya 22.19]], **[[cc/madhya/24/193#translation|Madhya 24.193]]**, **[[cc/madhya/24/323#translation|Madhya 24.323]]**, **[[cc/madhya/24/47–48#translation|Madhya 24.47–48]]**, [[cc/madhya/24/98#purport|Madhya 24.98]], **[[cc/madhya/25/113–15#translation|Madhya 25.113–15]]**, **[[cc/madhya/25/119#translation|Madhya 25.119]]**, **[[cc/madhya/25/123#translation|Madhya 25.123]]**, **[[cc/madhya/25/126#translation|Madhya 25.126]]**, **[[cc/madhya/25/142–44#translation|Madhya 25.142–44]]**, **[[cc/madhya/25/149#translation|Madhya 25.149]]**, **[[cc/madhya/25/266–67#translation|Madhya 25.266–67]]**, [[cc/madhya/25/91#purport|Madhya 25.91]], **[[cc/madhya/25/97#translation|Madhya 25.97]]**, **[[cc/madhya/25/99#translation|Madhya 25.99]]**, [[cc/madhya/6/127#purport|Madhya 6.127]]
+[[bg/3|Bg. 3]], [[bg/4/8|Bg. 4.8]], **[[cc/madhya/25/266–67#translation|Madhya 25.266–67]]**, **[[cc/madhya/22/125#translation|Madhya 22.125]]**, **[[cc/madhya/22/128#translation|Madhya 22.128]]**, [[cc/madhya/22/129#purport|Madhya 22.129]], **[[cc/madhya/22/131#translation|Madhya 22.131]]**, **[[cc/madhya/24/193#translation|Madhya 24.193]]**, **[[cc/madhya/25/113–15#translation|Madhya 25.113–15]]**, **[[cc/madhya/25/119#translation|Madhya 25.119]]**, **[[cc/madhya/25/123#translation|Madhya 25.123]]**, **[[cc/madhya/25/126#translation|Madhya 25.126]]**, [[cc/madhya/22/131#purport|Madhya 22.131]], [[cc/madhya/24/98#purport|Madhya 24.98]], [[cc/antya/5/131#purport|Antya 5.131]], [[cc/antya/13/113#purport|Antya 13.113]], **[[cc/antya/13/117#translation|Antya 13.117]]**, **[[cc/antya/13/126–28#translation|Antya 13.126–28]]**, **[[cc/antya/4/220#translation|Antya 4.220]]**, [[cc/antya/4/222#purport|Antya 4.222]], **[[cc/madhya/24/47–48#translation|Madhya 24.47–48]]**, [[cc/antya/9/10#purport|Antya 9.10]], **[[cc/madhya/20/151#translation|Madhya 20.151]]**, **[[cc/madhya/24/323#translation|Madhya 24.323]]**, **[[cc/madhya/25/149#translation|Madhya 25.149]]**, **[[cc/antya/5/131#translation|Antya 5.131]]**, [[cc/antya/7/53#purport|Antya 7.53]], **[[cc/antya/7/133#translation|Antya 7.133]]**, [[cc/antya/13/113#purport|Antya 13.113]], **[[cc/antya/7/81#translation|Antya 7.81]]**, **[[cc/antya/7/84#translation|Antya 7.84]]**, **[[cc/antya/7/88#translation|Antya 7.88]]**, **[[cc/antya/7/91#translation|Antya 7.91]]**, **[[cc/antya/7/113–14#translation|Antya 7.113–14]]**, [[cc/adi/8/36#purport|Ādi 8.36]], [[cc/madhya/6/127#purport|Madhya 6.127]], [[cc/madhya/20/359#purport|Madhya 20.359]], [[cc/madhya/25/91#purport|Madhya 25.91]], **[[cc/madhya/25/97#translation|Madhya 25.97]]**, **[[cc/madhya/25/99#translation|Madhya 25.99]]**, **[[cc/madhya/25/142–44#translation|Madhya 25.142–44]]**, **[[cc/adi/17/312#translation|Ādi 17.312]]**, [[cc/madhya/22/19#purport|Madhya 22.19]]
 
 * ”devotees” recite, [[sb/2/2/12#purport|SB 2.2.12]]
 * ”imperfections” in, [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/11#purport|SB 1.5.11]]
 * “nutshell” verses of, **[[cc/madhya/25/94–97#translation|Madhya 25.94–97]]**, **[[cc/madhya/25/102#translation|Madhya 25.102]]**
 * ”religion” condemned by, [[sb/7/11/7#purport|SB 7.11.7]]
-* & *Vedānta-sūtra,* 15.15
-* aaŚrīmad-Bhāgavatam cited; Śrīmad-Bhāgavatam quoted , , 
+* & *Vedānta-sūtra,*, 15.15
+* aaŚrīmad-Bhāgavatam cited; Śrīmad-Bhāgavatam quoted
 * Absolute Truth presented in, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/3#purport|SB 1.2.3]]
 * accepted by authorities, [[sb/2/2/26#purport|SB 2.2.26]]
 * accepting, need for, [[sb/1/5/36#purport|SB 1.5.36]]
-* additional verses in, N109, N113-15 
+* additional verses in, N109, N113-15
 * Advaita &, **[[cc/adi/6/28#translation|Ādi 6.28]]**, **[[cc/adi/13/64#translation|Ādi 13.64]]**
 * advice about writing, to Vyāsadeva, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/5/11-13#purport|SB 1.5.11-13]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/15#purport|SB 1.5.15]], [[sb/1/5/21#purport|SB 1.5.21]], [[sb/1/5/40#purport|SB 1.5.40]]
+* advised to write, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]] 5.15, [[sb/1/5/20-21#purport|SB 1.5.20-21]], [[sb/1/5/40#purport|SB 1.5.40]]
 * ancient cities in, [[sb/4/18/32#purport|SB 4.18.32]]
 * answers for everything in, [[sb/2/9/46#purport|SB 2.9.46]]
 * Anupama &, **[[cc/antya/4/33#translation|Antya 4.33]]**
 * Āryans follow, [[sb/6/16/43#purport|SB 6.16.43]]
-* as *Vedānta-sūtra *commentary, 25 
+* as *Vedānta-sūtra *commentary, 25
 * as above all Vedic literature, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/6/36#purport|SB 1.6.36]], [[sb/1/7/9#purport|SB 1.7.9]]
 * as above material activities, [[sb/1/1/2#purport|SB 1.1.2]]
 * as absolute & transcendental, [[sb/1/15/51#purport|SB 1.15.51]]
 * as absolute medium to know God, [[sb/2/6/35#purport|SB 2.6.35]]
 * as all-perfect, [[sb/1/3/40#purport|SB 1.3.40]]
+* as associating with Lord, [[sb/1/3/40#purport|SB 1.3.40]], [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/5/16#purport|SB 1.5.16]]
 * as auspicious, [[sb/8/1/32#purport|SB 8.1.32]]
 * as best of Vedic literatures, [[sb/2/1/8#purport|SB 2.1.8]]
 * as Bhāgavata, [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/2/18#purport|SB 1.2.18]]
 * as book incarnation of Lord, [[sb/1/18/31#purport|SB 1.18.31]]
 * as broadcast loudly, [[sb/2/3/20#purport|SB 2.3.20]]
 * as commentary on Brahma-sūtras, [[sb/2/1/8#purport|SB 2.1.8]]
-* as commentary on Vedānta-sūtra, [[sb/5/25/8#purport|SB 5.25.8]], SB Intro 20, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/1/7#purport|SB 1.1.7]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/5/8#purport|SB 1.5.8]], [[sb/1/7/8#purport|SB 1.7.8]]
+* as commentary on Vedānta-sūtra, SB Intro 20, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/1/7#purport|SB 1.1.7]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/5/8#purport|SB 1.5.8]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/5/25/8#purport|SB 5.25.8]]
 * as connection with Lord, [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/7/7#purport|SB 1.7.7]]
 * as cure for animallike society, [[sb/2/7/38#purport|SB 2.7.38]]
 * as cure for godlessness, [[sb/2/4/17#purport|SB 2.4.17]]
-* as cure for materialism, [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/16#purport|SB 1.5.16]], [[sb/1/7/7-8#purport|SB 1.7.7-8]]
+* as cure for materialism, [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/16#purport|SB 1.5.16]], [[sb/1/7/7-8#purport|SB 1.7.7-8]], [[sb/1/7/7#purport|SB 1.7.7]], [[sb/1/7/7#purport|SB 1.7.7]]
 * as dear to devotees, [[bg/10/9|Bg. 10.9]]
 * as direct spiritual life, [[sb/1/6/36#purport|SB 1.6.36]]
 * as essence of spiritual activities, [[sb/1/3/42#purport|SB 1.3.42]]
@@ -51,8 +53,7 @@
 * as impersonalist’s recourse, [[sb/1/1/19#purport|SB 1.1.19]]
 * as Kṛṣṇa conscious, [[sb/2/9/37#purport|SB 2.9.37]], [[sb/2/10/7#purport|SB 2.10.7]]
 * as Kṛṣṇa Himself, [[sb/1/1/23#purport|SB 1.1.23]], [[sb/1/3/40-41#purport|SB 1.3.40-41]], [[sb/1/5/16#purport|SB 1.5.16]]
-* as Kṛṣṇa-kathā, [[sb/1/7/14#purport|SB 1.7.14]]
-* as kṛṣṇa-kathā, [[sb/3/5/10#purport|SB 3.5.10]], [[sb/9/4/18-20#purport|SB 9.4.18-20]]
+* as Kṛṣṇa-kathā, [[sb/1/7/14#purport|SB 1.7.14]], [[sb/3/5/10#purport|SB 3.5.10]], [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 * as Kṛṣṇa’s sound incarnation, [[sb/1/9/43#purport|SB 1.9.43]]
 * as light for this age, [[sb/1/3/43#purport|SB 1.3.43]], [[sb/1/3/43#purport|SB 1.3.43]]
 * as literary incarnation of God, [[sb/1/3/40#purport|SB 1.3.40]], [[sb/1/3/40#purport|SB 1.3.40]]
@@ -65,8 +66,9 @@
 * as mercy on struggling souls, [[sb/1/2/3-4#purport|SB 1.2.3-4]]
 * as narration of Lord’s pastimes, [[sb/1/1/3#purport|SB 1.1.3]]
 * as news of spiritual world, [[sb/1/5/13#purport|SB 1.5.13]]
-* as Pāramahaṁsa-saṁhitā, [[sb/2/3/14#purport|SB 2.3.14]]
+* as only means of self-realiātion, [[sb/1/1/21#purport|SB 1.1.21]]
 * as paramahaṁsa-saṁhitā, [[sb/3/22/19#purport|SB 3.22.19]]
+* as Pāramahaṁsa-saṁhitā, [[sb/2/3/14#purport|SB 2.3.14]]
 * as perfect in all respects, [[sb/1/5/13#purport|SB 1.5.13]]
 * as poetic, [[sb/2/3/13#purport|SB 2.3.13]]
 * as postgraduate study, [[sb/2/1/8#purport|SB 2.1.8]], [[sb/2/1/29#purport|SB 2.1.29]], [[sb/2/8/27#purport|SB 2.8.27]]
@@ -97,15 +99,17 @@
 * ātmārāma-śloka of, SB Intro 26, [[sb/1/7/10#purport|SB 1.7.10]], [[sb/1/7/10#purport|SB 1.7.10]]
 * atomic theory in, [[sb/3/11/1#purport|SB 3.11.1]]
 * attachment to Lord via, [[cc/madhya/8/90#purport|Madhya 8.90]], **[[cc/madhya/25/149#translation|Madhya 25.149]]**
+* attention required for, [[sb/1/3/44#purport|SB 1.3.44]]
+* attracted to, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/7/11#purport|SB 1.7.11]], [[sb/1/7/11#purport|SB 1.7.11]]
 * attraction to, **[[cc/madhya/25/146#translation|Madhya 25.146]]**
 * attractive for all men, [[sb/1/1/3#purport|SB 1.1.3]]
 * audience of, [[sb/5/13/5#purport|SB 5.13.5]]
+* auspiciousness in, [[sb/1/3/40#purport|SB 1.3.40]], [[sb/1/3/40#purport|SB 1.3.40]], [[sb/1/3/40#purport|SB 1.3.40]]
 * auspiciousness of, [[sb/1/3/40#purport|SB 1.3.40]]
 * authenticity of, [[sb/1/1/1#purport|SB 1.1.1]]
 * author cited on, [[sb/2/7/53#purport|SB 2.7.53]]
 * author expands, [[sb/2/9/44#purport|SB 2.9.44]]
-* author of, [[sb/2/1/8#purport|SB 2.1.8]]
-* author of. See: Vyāsadeva 
+* author of. See: Vyāsadeva, [[sb/1/3/40-41#purport|SB 1.3.40-41]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/9/7#purport|SB 1.9.7]], [[sb/2/1/8#purport|SB 2.1.8]]
 * author’s commentating on, [[sb/4/1/1#purport|SB 4.1.1]]
 * author’s hopes for, [[sb/1/5/11#purport|SB 1.5.11]]
 * authorities accept, [[sb/2/7/13#purport|SB 2.7.13]]
@@ -114,19 +118,32 @@
 * beyond malicious souls, [[sb/2/9/18#purport|SB 2.9.18]]
 * beyond mind & intelligence, [[sb/2/7/18#purport|SB 2.7.18]]
 * beyond mundane purview, [[sb/2/2/26#purport|SB 2.2.26]]
-*  [[bg/3|Bg. 3]], [[bg/4/8|Bg. 4.8]]
 * Bhagavad-gītā compared to, [[sb/7/11/4#purport|SB 7.11.4]]
 * Bhagavad-gītā preliminary to, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/3/43#purport|SB 1.3.43]]
 * Bhagavad-gītā supplemented by, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/2/8/27#purport|SB 2.8.27]]
 * Bhāgavata Ācārya &, [[cc/adi/10/113#purport|Ādi 10.113]]
+* Bhāgavatam person for, SB Intro 3, [[sb/1/3/40#purport|SB 1.3.40]]
 * bogus compared with bona fide discourses on, [[sb/1/18/15#purport|SB 1.18.15]]
 * Brahma-gāyatrī mantra &, **[[cc/madhya/25/147#translation|Madhya 25.147]]**
 * Brahmā’s birth described in, [[cc/adi/5/93#purport|Ādi 5.93]]
 * broadcasting of, [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/16#purport|SB 1.5.16]]
 * Buddha predicted by, [[sb/1/3/24#purport|SB 1.3.24]]
-* Caitanya 
+* by leaders of society, [[sb/1/5/11#purport|SB 1.5.11]]
+* by Lord Viṣṇu, [[sb/4/30/8-20#purport|SB 4.30.8-20]]
+* by Maitreya Muni, [[sb/4/25/1-29/2#purport|SB 4.25.1-29.2]]b, [[sb/4/30/3-31/25#purport|SB 4.30.3-31.25]]
+* by materialists, [[sb/2/8/3#purport|SB 2.8.3]]
+* by Nārada Muni, [[sb/4/25/4#purport|SB 4.25.4]], [[sb/4/25/7-28/65#purport|SB 4.25.7-28.65]], [[sb/4/29/2-55#purport|SB 4.29.2-55]], [[sb/4/29/60-79#purport|SB 4.29.60-79]], [[sb/4/29/1#purport|SB 4.29.1]]a-2b, [[sb/4/31/9-22#purport|SB 4.31.9-22]]
+* by Pracetās, [[sb/4/30/22-42#purport|SB 4.30.22-42]], [[sb/4/31/5-7#purport|SB 4.31.5-7]]
+* by Prācīnabarhiṣat, [[sb/4/25/5-6#purport|SB 4.25.5-6]], [[sb/4/29/1#purport|SB 4.29.1]], [[sb/4/29/56-59#purport|SB 4.29.56-59]]
+* by professionals, [[sb/4/20/24#purport|SB 4.20.24]], [[sb/4/22/25#purport|SB 4.22.25]]
+* by self-realized souls, [[sb/1/7/9#purport|SB 1.7.9]]
+* by Śukadeva Gosvāmī, [[sb/4/31/26-28#purport|SB 4.31.26-28]], [[sb/4/31/30-31#purport|SB 4.31.30-31]]
+* by Vidura, [[sb/4/30/1-2#purport|SB 4.30.1-2]], [[sb/4/31/29#purport|SB 4.31.29]]
+* Caitanya
 * Caitanya &, **[[cc/madhya/23/115#translation|Madhya 23.115]]**, **[[cc/madhya/24/316#translation|Madhya 24.316]]**
 * Caitanya confirmed as Kali-yuga incarnation in, [[sb/5/18/35#purport|SB 5.18.35]]
+* Caitanya medium for, SB Intro 2-3
+* Caitanya recommends, [[sb/2/9/31#purport|SB 2.9.31]]
 * Caitanya upheld, [[sb/8/12/6#purport|SB 8.12.6]]
 * Caitanya-bhāgavata &, **[[cc/adi/8/37#translation|Ādi 8.37]]**
 * Caitanya-caritāmṛta &, **[[cc/madhya/2/88#translation|Madhya 2.88]]**
@@ -140,13 +157,14 @@
 * cheating religion &, [[cc/adi/7/84#purport|Ādi 7.84]]
 * civiliātion-study in, [[sb/4/9/62#purport|SB 4.9.62]]
 * cleanses dirty heart, [[sb/2/8/5#purport|SB 2.8.5]], [[sb/2/8/5#purport|SB 2.8.5]]
-* commentators on 
+* commentators on
 * communism God-centered in, [[sb/7/14/9#purport|SB 7.14.9]]
-* compared to 
+* compared to
+* compared to churning butter, [[sb/1/2/32#purport|SB 1.2.32]]
 * compared to injection, [[sb/2/4/5#purport|SB 2.4.5]]
 * compared to ripened fruit, [[sb/2/7/51#purport|SB 2.7.51]]
 * compared to torchlight, [[sb/2/7/52#purport|SB 2.7.52]]
-* compared with 
+* compared with
 * compilation of, history of, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/7/8#purport|SB 1.7.8]]
 * compiler of, **[[cc/adi/1/91#translation|Ādi 1.91]]**
 * completeness of, **[[cc/madhya/25/149#translation|Madhya 25.149]]**
@@ -159,19 +177,24 @@
 * Devānanda Paṇḍita &, **[[cc/adi/10/77#translation|Ādi 10.77]]**
 * devotee of Kṛṣṇa as, in person, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/2/18#purport|SB 1.2.18]]
 * devotee-reciters of, [[sb/1/2/12#purport|SB 1.2.12]]
+* devotee, [[sb/1/1/1#purport|SB 1.1.1]]
 * devotees hear, [[sb/2/8/27#purport|SB 2.8.27]]
 * devotees live by, [[sb/1/2/18#purport|SB 1.2.18]]
 * devotees love, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
+* devotees must engage in, [[sb/1/2/12#purport|SB 1.2.12]]
 * devotees should preach, [[sb/4/12/51#purport|SB 4.12.51]]
 * devotees should read, [[sb/4/12/44#purport|SB 4.12.44]]
-* devotion to Lord via, [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/7/5#purport|SB 1.7.5]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/7/8#purport|SB 1.7.8]]
+* devotion to Lord via, [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/7/5#purport|SB 1.7.5]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/2/18#purport|SB 1.2.18]], [[sb/1/2/18#purport|SB 1.2.18]] 7.7, [[sb/1/7/7#purport|SB 1.7.7]]
 * devotional service &, [[cc/adi/7/84#purport|Ādi 7.84]], [[cc/adi/8/36#purport|Ādi 8.36]]
 * devotional service established via hearing, [[sb/5/18/11#purport|SB 5.18.11]]
+* disciplic line as needed for, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/1/5#purport|SB 1.1.5]], [[sb/1/3/41-42#purport|SB 1.3.41-42]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/1-2#purport|SB 1.4.1-2]]
 * disciplic line needed for, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/1/5#purport|SB 1.1.5]], [[sb/1/3/42#purport|SB 1.3.42]], [[sb/1/4/1-2#purport|SB 1.4.1-2]]
 * discussing, among devotees, [[sb/4/12/48#purport|SB 4.12.48]]
 * distribution of, [[sb/10/11/58#purport|SB 10.11.58]], [[sb/10/12/7-11#purport|SB 10.12.7-11]]
+* disturbances destroyed via, [[sb/1/2/18#purport|SB 1.2.18]]
 * duties instructed in, [[sb/6/16/43#purport|SB 6.16.43]]
 * dvija-bandhus refuted by, [[sb/1/18/19#purport|SB 1.18.19]]
+* effect of, [[sb/2/2/37#purport|SB 2.2.37]]
 * eligibility to represent, [[sb/1/1/5-6#purport|SB 1.1.5-6]], [[sb/1/4/1-2#purport|SB 1.4.1-2]]
 * empowered by Kṛṣṇa, [[sb/1/3/43#purport|SB 1.3.43]]
 * essence of, [[cc/antya/1/11#purport|Antya 1.11]], [[sb/3/13/3#purport|SB 3.13.3]]
@@ -182,13 +205,15 @@
 * expanded unlimitedly, [[sb/2/9/44#purport|SB 2.9.44]]
 * extra verses in, [[sb/10/7/37#purport|SB 10.7.37]]
 * facility of, for spiritual topics, [[sb/7/1/4-5#purport|SB 7.1.4-5]]
+* faith from, [[sb/2/1/10#purport|SB 2.1.10]]
 * false explanations of, [[cc/madhya/23/117–18#purport|Madhya 23.117–18]]
 * false students of, [[sb/1/7/12#purport|SB 1.7.12]]
 * fear absolved by, [[sb/2/9/34#purport|SB 2.9.34]]
 * following great people in, [[sb/4/21/28-29#purport|SB 4.21.28-29]]
 * for all men, [[sb/1/5/40#purport|SB 1.5.40]]
 * for all-around solutions, [[sb/1/2/5#purport|SB 1.2.5]]
-* for Gītā graduates, [[sb/10/8/49#purport|SB 10.8.49]], [[sb/3/4/20#purport|SB 3.4.20]]
+* for direct information of spiritual life, [[sb/1/6/36#purport|SB 1.6.36]]
+* for Gītā graduates, [[sb/3/4/20#purport|SB 3.4.20]], [[sb/10/8/49#purport|SB 10.8.49]]
 * for graduates, [[sb/2/3/14#purport|SB 2.3.14]]
 * for Kali-yuga, [[sb/2/7/36#purport|SB 2.7.36]]
 * for materialists & spiritualists, [[sb/2/10/50#purport|SB 2.10.50]]
@@ -199,6 +224,10 @@
 * format of, **[[cc/madhya/24/319#translation|Madhya 24.319]]**
 * four key verses in, [[sb/3/4/19-20#purport|SB 3.4.19-20]]
 * Fourth Canto of, [[sb/4/1/1#purport|SB 4.1.1]]
+* freedom via, [[sb/1/7/7#purport|SB 1.7.7]]
+* from impersonalists, [[sb/1/4/2#purport|SB 1.4.2]]
+* from professionals, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]]
+* God realization via, SB Intro 1, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/3/44#purport|SB 1.3.44]]
 * Gopīnātha Ācārya quotes, **[[cc/madhya/6/97–98#translation|Madhya 6.97–98]]**
 * gradual reading of, needed, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/7/12#purport|SB 1.7.12]]
 * Guṇarāja Khān’s translation of, [[cc/madhya/15/99#purport|Madhya 15.99]]
@@ -206,27 +235,30 @@
 * happiness by hearing, [[sb/10/11/58#purport|SB 10.11.58]]
 * Hare Kṛṣṇa movement based on, [[sb/7/11/4#purport|SB 7.11.4]], [[sb/7/11/17#purport|SB 7.11.17]]
 * hearing & discussing, [[sb/10/13/53#purport|SB 10.13.53]], [[sb/10/13/54#purport|SB 10.13.54]]
-* hearing from, benefit of, [[sb/3/19/38#purport|SB 3.19.38]], [[sb/3/25/2#purport|SB 3.25.2]]
 * hearing from, [[sb/4/21/52#purport|SB 4.21.52]], [[sb/4/22/25#purport|SB 4.22.25]], [[sb/4/23/34#purport|SB 4.23.34]], [[sb/9/18/2#purport|SB 9.18.2]], [[sb/9/24/62#purport|SB 9.24.62]]
-* hearing of 
+* hearing from, benefit of, [[sb/3/19/38#purport|SB 3.19.38]], [[sb/3/25/2#purport|SB 3.25.2]]
+* hearing of, [[sb/1/9/27#purport|SB 1.9.27]], [[sb/1/12/3#purport|SB 1.12.3]], [[sb/1/12/28#purport|SB 1.12.28]], [[sb/3/6/37#purport|SB 3.6.37]]
 * hearing of, bogus & bona fide, [[sb/4/12/44#purport|SB 4.12.44]], [[sb/4/12/49-50#purport|SB 4.12.49-50]]
 * hearing of, recommended, [[bg/12/9|Bg. 12.9]]
-* hearing of, [[sb/1/9/27#purport|SB 1.9.27]], [[sb/1/12/3#purport|SB 1.12.3]], [[sb/1/12/28#purport|SB 1.12.28]], [[sb/3/6/37#purport|SB 3.6.37]]
 * hearing, **[[cc/madhya/24/339#translation|Madhya 24.339]]**, [[cc/antya/5/131#purport|Antya 5.131]], [[sb/6/17/40#purport|SB 6.17.40]]
 * heroes of, [[sb/1/8/37#purport|SB 1.8.37]], [[sb/1/12/12#purport|SB 1.12.12]]
 * history of, [[sb/3/8/9#purport|SB 3.8.9]]
 * householder discussions of, [[cc/madhya/3/190#purport|Madhya 3.190]]
 * ignorance dispelled via, [[sb/1/14/3#purport|SB 1.14.3]]
+* imitated, [[sb/1/12/28#purport|SB 1.12.28]]
 * impersonalists interpret, [[sb/3/4/20#purport|SB 3.4.20]], [[sb/3/5/23#purport|SB 3.5.23]]
 * impersonalists lack access to, [[sb/1/2/3#purport|SB 1.2.3]]
 * impersonalists misinterpret, [[sb/2/9/36-37#purport|SB 2.9.36-37]]
 * impersonalists misunderstand, [[sb/9/11/22#purport|SB 9.11.22]]
+* importance of, [[sb/2/10/5#purport|SB 2.10.5]]
+* impossible, from sexual persons, [[sb/1/3/44#purport|SB 1.3.44]]
 * in payo-vrata recited, [[sb/8/16/57#purport|SB 8.16.57]]
 * in person, SB Intro 3, [[sb/1/2/12#purport|SB 1.2.12]]
 * incarnations of Lord listed in, [[bg/11/54|Bg. 11.54]] (7)
 * Indian royalty hears, [[sb/3/22/33#purport|SB 3.22.33]]
 * inquiring about, properly, [[sb/1/1/5#purport|SB 1.1.5]]
 * insatiably interesting, [[sb/3/20/6#purport|SB 3.20.6]]
+* interpretation prevents, [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]]
 * interpreting, as condemned, [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]]
 * introduction to, summarized, [[sb/1/2/3#purport|SB 1.2.3]]
 * invocation of, **[[cc/madhya/25/148#translation|Madhya 25.148]]**
@@ -243,6 +275,7 @@
 * Kṛṣṇa consciousness movement &, [[cc/madhya/22/118#purport|Madhya 22.118]]
 * Kṛṣṇa consciousness via, [[sb/7/10/43-44#purport|SB 7.10.43-44]]
 * Kṛṣṇa known via, [[sb/10/12/7-11#purport|SB 10.12.7-11]]
+* Kṛṣṇa seen via, [[sb/1/3/44#purport|SB 1.3.44]]
 * Kṛṣṇa’s association via, [[sb/2/8/3#purport|SB 2.8.3]]
 * Kṛṣṇa’s departure &, **[[cc/madhya/24/320–21#translation|Madhya 24.320–21]]**
 * Kṛṣṇa’s form embodied in, [[sb/9/24/65#purport|SB 9.24.65]]
@@ -273,11 +306,12 @@
 * misinterpreted by nondevotees, [[sb/2/8/28#purport|SB 2.8.28]], [[sb/2/9/36-37#purport|SB 2.9.36-37]]
 * Mukunda Datta &, [[cc/adi/10/40#purport|Ādi 10.40]]
 * mundane literature compared with, [[sb/1/5/11#purport|SB 1.5.11]]
+* mundane literature, [[sb/1/5/11#purport|SB 1.5.11]]
 * name of, meaning of, [[sb/7/10/43-44#purport|SB 7.10.43-44]]
 * Nārada advised compilation of, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/5/15#purport|SB 1.5.15]], [[sb/1/5/20-21#purport|SB 1.5.20-21]], [[sb/1/5/40#purport|SB 1.5.40]]
 * Nārada expounded, [[sb/2/7/51#purport|SB 2.7.51]]
 * Nārada first preceptor of, [[sb/1/1/3#purport|SB 1.1.3]]
-* narration(s) of 
+* narration(s) of
 * Navadvīpa &, [[cc/madhya/25/167#purport|Madhya 25.167]]
 * Ninth canto of, [[cc/madhya/6/272#purport|Madhya 6.272]]
 * nondevotees misunderstand, [[sb/10/2/36#purport|SB 10.2.36]]
@@ -289,38 +323,49 @@
 * pastimes in, purpose of, [[sb/2/10/10#purport|SB 2.10.10]]
 * peace brought via, [[sb/1/1/16#purport|SB 1.1.16]], [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/7/7#purport|SB 1.7.7]]
 * peace formula in, [[sb/2/2/6#purport|SB 2.2.6]]
+* peace via, [[sb/1/7/7#purport|SB 1.7.7]]
 * perfection via, [[sb/1/19/31#purport|SB 1.19.31]], [[sb/2/7/10#purport|SB 2.7.10]], [[sb/9/3/11#purport|SB 9.3.11]]
 * personal conception by, [[cc/madhya/6/132#purport|Madhya 6.132]]
-* personal reception of 
+* personal reception of
 * personification of, [[cc/adi/7/102#purport|Ādi 7.102]]
 * philosophical discussions &, [[cc/madhya/19/169#purport|Madhya 19.169]]
 * planets’ locations in, [[sb/2/5/41#purport|SB 2.5.41]]
+* pleasure via, [[sb/1/1/3#purport|SB 1.1.3]]
 * Prakāśānanda &, **[[cc/madhya/25/78#translation|Madhya 25.78]]**
 * Pratāparudra recites, **[[cc/madhya/14/8–11#translation|Madhya 14.8–11]]**
 * prayers in, [[cc/adi/2/91–92#purport|Ādi 2.91–92]]
 * preaching of, [[sb/1/18/18#purport|SB 1.18.18]]
 * predictions of, perfect, [[sb/1/3/24-25#purport|SB 1.3.24-25]], [[sb/1/5/13#purport|SB 1.5.13]]
+* prior to death, [[sb/2/1/14#purport|SB 2.1.14]]
+* process of, [[sb/2/1/8#purport|SB 2.1.8]], [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/1/10#purport|SB 2.1.10]]
 * professional recitation of, [[cc/adi/8/36#purport|Ādi 8.36]], [[cc/madhya/15/41#purport|Madhya 15.41]], [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]]
 * professional reciters of, [[sb/4/12/44#purport|SB 4.12.44]], [[sb/4/12/49-50#purport|SB 4.12.49-50]], [[sb/4/20/24#purport|SB 4.20.24]], [[sb/4/22/25#purport|SB 4.22.25]]
+* professional, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/2#purport|SB 1.4.2]]
 * professionals recite, [[sb/2/4/6#purport|SB 2.4.6]], [[sb/2/7/51#purport|SB 2.7.51]], [[sb/2/8/3-4#purport|SB 2.8.3-4]]
 * progressive hearing of, [[sb/2/4/6#purport|SB 2.4.6]]
+* progressive, [[sb/2/4/6#purport|SB 2.4.6]], [[sb/2/7/53#purport|SB 2.7.53]]
 * purification via reading, [[sb/5/18/11#purport|SB 5.18.11]]
 * purifying power of, [[sb/4/20/21#purport|SB 4.20.21]]
+* purity for, [[sb/1/3/44#purport|SB 1.3.44]]
 * purity of, [[sb/1/1/2#purport|SB 1.1.2]]
 * purpose of, IV1-2, [[sb/2/6/46#purport|SB 2.6.46]], [[sb/2/7/19#purport|SB 2.7.19]], [[sb/2/9/3#purport|SB 2.9.3]]
+* qualification for, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/3/44#purport|SB 1.3.44]], [[sb/1/4/1-2#purport|SB 1.4.1-2]]
 * qualifications for presenting, [[sb/1/1/5-7#purport|SB 1.1.5-7]], [[sb/1/4/1-2#purport|SB 1.4.1-2]]
-* quoted. See: Śrīmad-Bhāgavatam quoted 
+* quoted. See: Śrīmad-Bhāgavatam quoted
 * Raghunātha Bhaṭṭa &, **[[cc/adi/10/158#translation|Ādi 10.158]]**, **[[cc/antya/13/113#translation|Antya 13.113]]**
 * rareness of, [[sb/2/3/7#purport|SB 2.3.7]]
 * rāsa dance &, [[cc/adi/8/36#purport|Ādi 8.36]]
 * rāsa-līlā in, [[sb/2/2/13#purport|SB 2.2.13]]
+* rasas realized via, [[sb/1/1/3#purport|SB 1.1.3]]
 * rasas via, [[sb/1/1/3#purport|SB 1.1.3]]
-* reading about. See: Śrīmad-Bhāgavatam, personal reception of 
+* reading about. See: Śrīmad-Bhāgavatam, personal reception of
 * reading propensity satisfied by, [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]]
 * realization of, [[sb/1/4/1#purport|SB 1.4.1]]
 * recitation of, bogus & bona fide, [[sb/10/1/4#purport|SB 10.1.4]]
 * recited by pure devotees, [[sb/2/3/16#purport|SB 2.3.16]]
+* recommends, [[sb/1/1/2#purport|SB 1.1.2]]
 * regular reading of, [[cc/adi/7/73#purport|Ādi 7.73]]
+* regulations for, [[sb/2/8/4#purport|SB 2.8.4]], [[sb/2/8/4-5#purport|SB 2.8.4-5]]
 * rejects materialistic religion, [[sb/1/1/2#purport|SB 1.1.2]]
 * relationships with Lord realized via, [[sb/2/8/5#purport|SB 2.8.5]]
 * relieves suffering, [[sb/10/1/14#purport|SB 10.1.14]]
@@ -328,8 +373,11 @@
 * religion in, [[sb/1/17/32#purport|SB 1.17.32]]
 * religion represented in, [[sb/1/1/23#purport|SB 1.1.23]]
 * religious paths and, **[[cc/adi/1/91#translation|Ādi 1.91]]**
+* reluctance for, unfortunate, [[sb/1/1/2#purport|SB 1.1.2]]
+* respect & submission in, [[sb/1/1/3#purport|SB 1.1.3]]
 * Ṛṣabhadeva’s nine sons preachers of, [[sb/5/4/11-12#purport|SB 5.4.11-12]]
 * Rūpa Gosvāmī &, **[[cc/madhya/19/115#translation|Madhya 19.115]]**
+* sages as eager for, [[sb/1/1/8#purport|SB 1.1.8]]
 * sages heard, from Sūta Gosvāmī, [[sb/3/19/33#purport|SB 3.19.33]]
 * Sanātana Gosvāmī’s commentary on, [[cc/adi/5/203#purport|Ādi 5.203]], [[cc/madhya/1/35#purport|Madhya 1.35]]
 * Sanātana Gosvāmī’s study of, [[cc/adi/10/84#purport|Ādi 10.84]], **[[cc/madhya/19/17#translation|Madhya 19.17]]**
@@ -341,6 +389,8 @@
 * scientists refuted by, [[sb/7/14/36#purport|SB 7.14.36]]
 * self-realization via, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/12/28#purport|SB 1.12.28]]
 * self-satisfaction via, [[sb/1/19/25#purport|SB 1.19.25]]
+* seriously, [[sb/2/8/4#purport|SB 2.8.4]], [[sb/2/8/4#purport|SB 2.8.4]]
+* sex desire limits, [[sb/2/2/12#purport|SB 2.2.12]]
 * size of, **[[cc/madhya/25/143–44#translation|Madhya 25.143–44]]**
 * social reform via, [[sb/1/17/24#purport|SB 1.17.24]], [[sb/1/17/38#purport|SB 1.17.38]], [[sb/1/17/44#purport|SB 1.17.44]]
 * society benefits by, [[sb/3/8/2#purport|SB 3.8.2]]
@@ -348,49 +398,59 @@
 * speaker of, [[sb/3/8/2-3#purport|SB 3.8.2-3]], [[sb/3/8/7#purport|SB 3.8.7]], [[sb/8/24/48#purport|SB 8.24.48]]
 * speaking and hearing, [[cc/antya/5/45–46#purport|Antya 5.45–46]]
 * spiritual advancement via following principles of, [[sb/5/10/10#purport|SB 5.10.10]]
+* spiritual master needed for, [[sb/1/2/32#purport|SB 1.2.32]], [[sb/1/3/40#purport|SB 1.3.40]]
 * spiritual status of, SB Intro 28, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/1/19#purport|SB 1.1.19]], [[sb/1/1/23#purport|SB 1.1.23]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/4/3#purport|SB 1.4.3]]
 * spiritual world via, [[sb/1/15/51#purport|SB 1.15.51]]
+* spoke, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/19/8#purport|SB 1.19.8]]
 * spoken by Śukadeva Gosvāmī, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/19/8#purport|SB 1.19.8]]
 * Śrīdhara Svāmī &, **[[cc/antya/7/133#translation|Antya 7.133]]**, [[cc/antya/7/134#purport|Antya 7.134]]
-* Śrīmad-Bhāgavatam cited; Śrīmad-Bhāgavatam quoted , , , , 
+* Śrīmad-Bhāgavatam cited; Śrīmad-Bhāgavatam quoted
 * structure of, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/20#purport|SB 1.1.20]]
+* student of, [[sb/1/1/3#purport|SB 1.1.3]], [[sb/1/2/3#purport|SB 1.2.3]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/7/8#purport|SB 1.7.8]], [[sb/1/7/11#purport|SB 1.7.11]], [[sb/1/7/11#purport|SB 1.7.11]]
 * students of, advice to, [[sb/3/4/28#purport|SB 3.4.28]]
-* study of 
 * study of, [[sb/4/24/52#purport|SB 4.24.52]]
 * subject matter of, [[sb/7/14/2#purport|SB 7.14.2]], [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * subject of, [[sb/4/31/25#purport|SB 4.31.25]]
 * subjects in, IV1-2, [[sb/2/2/3#purport|SB 2.2.3]], [[sb/2/10/1#purport|SB 2.10.1]], [[sb/2/10/7#purport|SB 2.10.7]]
 * subjects of, [[sb/1/15/51#purport|SB 1.15.51]], [[sb/1/16/5#purport|SB 1.16.5]], [[sb/1/16/8#purport|SB 1.16.8]], [[sb/1/19/24#purport|SB 1.19.24]], [[sb/1/19/37#purport|SB 1.19.37]]
-* Śukadeva 
+* sugar candy, [[sb/1/5/11#purport|SB 1.5.11]]
+* Śukadeva
 * Śukadeva Gosvāmī &, [[cc/madhya/6/190#purport|Madhya 6.190]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**
 * Śukadeva spoke, [[sb/4/20/24#purport|SB 4.20.24]], [[sb/7/11/4#purport|SB 7.11.4]]
 * summarized in four verses, [[sb/2/9/37#purport|SB 2.9.37]]
 * summary verses of, **[[cc/adi/1/53–56#translation|Ādi 1.53–56]]**
+* sun, [[sb/1/3/43#purport|SB 1.3.43]]
+* Supersoul as realized by, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/2/32#purport|SB 1.2.32]]
 * supplementary verses to Chapter Twenty-nine of, [[sb/4/29/1#purport|SB 4.29.1]]a-2b
+* supporter of, SB Intro 2-3, SB Intro 4, SB Intro 5, SB Intro 7
 * Svarūpa Dāmodara &, [[cc/adi/10/134#purport|Ādi 10.134]]
 * Tāmraparṇī &, [[cc/madhya/9/218#purport|Madhya 9.218]]
 * teachings of, materialists &, [[sb/5/10/18#purport|SB 5.10.18]]
 * ten, **[[cc/adi/2/91–92#translation|Ādi 2.91–92]]**, **[[cc/madhya/25/131#translation|Madhya 25.131]]**
 * Tenth Canto of, **[[cc/adi/2/95#translation|Ādi 2.95]]**, [[cc/madhya/6/272#purport|Madhya 6.272]], [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/7/12#purport|SB 1.7.12]], [[sb/2/2/12#purport|SB 2.2.12]]
 * Tenth Canto of, summarized, N1-12, [[sb/10/1/9#purport|SB 10.1.9]]
+* test for effects of, [[sb/1/7/7#purport|SB 1.7.7]]
+* test for, [[sb/2/4/5#purport|SB 2.4.5]]
 * translation of, [[cc/antya/1/11#purport|Antya 1.11]]
 * understanding, [[cc/madhya/22/131#purport|Madhya 22.131]], **[[cc/madhya/24/313#translation|Madhya 24.313]]**
 * unqualified commentaries on, [[sb/4/1/3#purport|SB 4.1.3]]
 * Upaniṣads &, **[[cc/madhya/25/100#translation|Madhya 25.100]]**
+* useless when not bona fide, [[sb/1/4/1#purport|SB 1.4.1]]
 * Vaiṣṇava-toṣaṇī &, [[cc/adi/10/84#purport|Ādi 10.84]]
 * Vallabha Bhaṭṭa &, [[cc/madhya/1/263#purport|Madhya 1.263]], [[cc/madhya/19/61#purport|Madhya 19.61]]
 * value of hearing, [[sb/7/14/2#purport|SB 7.14.2]], [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * Vedānta philosophy understood from, [[cc/adi/7/110#purport|Ādi 7.110]]
+* Vedas, [[sb/1/4/13#purport|SB 1.4.13]]
 * Vedic knowledge &, **[[cc/madhya/25/99#translation|Madhya 25.99]]**, [[cc/madhya/25/154#purport|Madhya 25.154]]
 * verses of, number of, [[sb/2/9/44#purport|SB 2.9.44]]
 * via disciplic succession, [[sb/1/13/10#purport|SB 1.13.10]], [[sb/2/7/51#purport|SB 2.7.51]]
 * Viṭhṭhala’s commentary on, [[cc/madhya/18/48#purport|Madhya 18.48]]
 * Vyāsa compiled, [[sb/3/5/12#purport|SB 3.5.12]]
 * Vyāsa taught Śukadeva, [[sb/9/22/21-24#purport|SB 9.22.21-24]]
-* Vyāsadeva 
+* Vyāsadeva
 * Vyāsadeva &, **[[cc/adi/8/34#translation|Ādi 8.34]]**, **[[cc/adi/11/55#translation|Ādi 11.55]]**
 * Vyāsadeva author of, [[sb/5/25/8#purport|SB 5.25.8]]
-* Vyāsadeva compiled, [[sb/10/1/14#purport|SB 10.1.14]], [[sb/10/8/21#purport|SB 10.8.21]], [[sb/10/12/7-11#purport|SB 10.12.7-11]], [[sb/4/12/51#purport|SB 4.12.51]]
+* Vyāsadeva compiled, [[sb/4/12/51#purport|SB 4.12.51]], [[sb/10/1/14#purport|SB 10.1.14]], [[sb/10/8/21#purport|SB 10.8.21]], [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 * worshipability of, [[sb/1/3/40#purport|SB 1.3.40]]
 
-*See also:* [[a#Ātmārāma verse|Ātmārāma verse]]; [[s#Śrīmad-Bhāgavatam cited|Śrīmad-Bhāgavatam cited]]; [[s#Śrīmad-Bhāgavatam quoted|Śrīmad-Bhāgavatam quoted]]; [[v#Vedic literature|Vedic literature]]
+*See also:* Ātmārāma verse; Śrīmad-Bhāgavatam cited; Śrīmad-Bhāgavatam quoted; Vedic literature

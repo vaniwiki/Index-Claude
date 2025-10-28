@@ -1,6 +1,6 @@
 # Caitanya-bhāgavata cited
 
-[[cc/adi/10/40#purport|Ādi 10.40]], [[cc/adi/10/49#purport|Ādi 10.49]], [[cc/adi/13/29#purport|Ādi 13.29]], [[cc/adi/14/19#purport|Ādi 14.19]], [[cc/adi/14/21#purport|Ādi 14.21]], [[cc/adi/14/44#purport|Ādi 14.44]], [[cc/adi/17/18#purport|Ādi 17.18]]
+[[cc/adi/14/19#purport|Ādi 14.19]], [[cc/adi/14/44#purport|Ādi 14.44]], [[cc/adi/17/18#purport|Ādi 17.18]], [[cc/adi/13/29#purport|Ādi 13.29]], [[cc/adi/10/40#purport|Ādi 10.40]], [[cc/adi/14/21#purport|Ādi 14.21]], [[cc/adi/10/49#purport|Ādi 10.49]]
 
 * on Acyutānanda, [[cc/adi/12/17#purport|Ādi 12.17]]
 * on civil disobedience party, [[cc/adi/17/141#purport|Ādi 17.141]]

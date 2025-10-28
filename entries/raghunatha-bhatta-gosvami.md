@@ -1,6 +1,6 @@
 # Raghunātha Bhaṭṭa Gosvāmī
 
-[[cc/adi/10/103#purport|Ādi 10.103]], **[[cc/antya/13/129#translation|Antya 13.129]]**, **[[cc/antya/13/134#translation|Antya 13.134]]**, **[[cc/antya/20/122#translation|Antya 20.122]]**, **[[cc/antya/6/203#translation|Antya 6.203]]**
+[[cc/adi/10/103#purport|Ādi 10.103]], **[[cc/antya/6/203#translation|Antya 6.203]]**, **[[cc/antya/13/134#translation|Antya 13.134]]**, **[[cc/antya/13/129#translation|Antya 13.129]]**, **[[cc/antya/20/122#translation|Antya 20.122]]**
 
 * at Mathurā, **[[cc/madhya/18/49#translation|Madhya 18.49]]**
 * at Vārāṇasī, **[[cc/adi/10/152–58#translation|Ādi 10.152–58]]**, **[[cc/madhya/25/178–81#translation|Madhya 25.178–81]]**

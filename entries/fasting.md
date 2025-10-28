@@ -1,8 +1,7 @@
 # Fasting
 
-[[sb/2/8/26#purport|SB 2.8.26]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/4/8/72#purport|SB 4.8.72]], [[sb/6/1/13-14#purport|SB 6.1.13-14]]
+[[bg/6/16|Bg. 6.16]], [[bg/8/28|Bg. 8.28]], [[bg/17/5|Bg. 17.5]], [[sb/2/8/26#purport|SB 2.8.26]], [[sb/4/8/72#purport|SB 4.8.72]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/6/1/13-14#purport|SB 6.1.13-14]]
 
-*  [[bg/6/16|Bg. 6.16]], [[bg/8/28|Bg. 8.28]], [[bg/17/5|Bg. 17.5]]
 * bogus & bona fide, [[sb/1/17/25#purport|SB 1.17.25]]
 * by Ambarīṣa, [[sb/9/4/30#purport|SB 9.4.30]], [[sb/9/4/39-40#purport|SB 9.4.39-40]], [[sb/9/5/18#purport|SB 9.5.18]], [[sb/9/5/23#purport|SB 9.5.23]]
 * by brahmacārī, [[sb/7/12/5#purport|SB 7.12.5]]

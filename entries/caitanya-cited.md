@@ -1,6 +1,6 @@
 # Caitanya cited
 
-* Caitanya quoted , 
+* Caitanya quoted
 * on ”grass” of material desires, [[sb/4/22/30#purport|SB 4.22.30]]
 * on animal sacrifices, [[sb/1/8/52#purport|SB 1.8.52]]
 * on associating with saintly person, [[sb/3/22/5#purport|SB 3.22.5]], [[sb/3/23/54#purport|SB 3.23.54]]
@@ -16,9 +16,9 @@
 * on conchshell & cow dung, SB Intro 21
 * on cow sacrifice, SB Intro 11
 * on devotee, [[bg/10/4|Bg. 10.4]] (10), [[sb/4/21/37#purport|SB 4.21.37]]
-* on devotional ”creeper,” [[sb/4/21/37#purport|SB 4.21.37]]
+* on devotional ”creeper,”, [[sb/4/21/37#purport|SB 4.21.37]]
+* on devotional service, SB Intro 25, SB Intro 26, [[sb/4/20/34#purport|SB 4.20.34]], [[sb/4/24/69#purport|SB 4.24.69]], [[sb/4/31/12#purport|SB 4.31.12]]
 * on devotional service, five recommended kinds of, [[sb/3/19/38#purport|SB 3.19.38]], [[sb/3/25/36#purport|SB 3.25.36]]
-* on devotional service, [[sb/4/20/34#purport|SB 4.20.34]], [[sb/4/24/69#purport|SB 4.24.69]], [[sb/4/31/12#purport|SB 4.31.12]], SB Intro 25, SB Intro 26
 * on fame, [[bg/10/4|Bg. 10.4]] (10)
 * on God realization in this Age, [[bg/13/26|Bg. 13.26]]
 * on hearing from impersonalists, [[sb/3/25/34#purport|SB 3.25.34]]
@@ -33,7 +33,7 @@
 * on kingly association, [[sb/1/19/13#purport|SB 1.19.13]], [[sb/1/19/32#purport|SB 1.19.32]]
 * on liberation, SB Intro 27
 * on living entity as Lord’s servant, [[sb/4/9/29#purport|SB 4.9.29]]
-* on living entity’s constitutional position, 17 
+* on living entity’s constitutional position, 17
 * on Lord’s name, [[sb/1/2/17#purport|SB 1.2.17]]
 * on love for Kṛṣṇa, [[sb/4/12/42#purport|SB 4.12.42]]
 * on love of God, [[sb/3/23/8#purport|SB 3.23.8]]
@@ -52,4 +52,4 @@
 * on subject of Vedas, SB Intro 25, [[sb/1/5/24#purport|SB 1.5.24]]
 * on Vrajabhūmī’s residents, [[sb/1/8/21#purport|SB 1.8.21]]
 
-*See also:* [[c#Caitanya quoted|Caitanya quoted]]
+*See also:* Caitanya quoted

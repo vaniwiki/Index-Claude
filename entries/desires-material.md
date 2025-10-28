@@ -15,17 +15,21 @@
 * body driven by, [[sb/7/7/42#purport|SB 7.7.42]]
 * brāhmaṇas free of, [[sb/7/13/34#purport|SB 7.13.34]]
 * Caitanya rejected, [[sb/7/10/7#purport|SB 7.10.7]]
-* compared , 
+* compared
+  * to rivers, [[bg/2/70|Bg. 2.70]], [[bg/18/51|Bg. 18.51]]
+  * with spiritual desire, [[bg/2/71|Bg. 2.71]], [[bg/3/25|Bg. 3.25]]
 * consequences of, 18–22, [[bg/2/67|Bg. 2.67]], [[bg/2/70|Bg. 2.70]], [[bg/3/6|Bg. 3.6]], [[bg/3/37–41|Bg. 3.37–41]], [[bg/3/43|Bg. 3.43]], [[bg/5/23|Bg. 5.23]], [[bg/7/27|Bg. 7.27]], [[bg/8/6|Bg. 8.6]], [[bg/9/10|Bg. 9.10]], [[bg/13/21–22|Bg. 13.21–22]], [[bg/13/30|Bg. 13.30]], [[bg/15/5|Bg. 15.5]], [[bg/15/10|Bg. 15.10]], [[bg/15/20|Bg. 15.20]], [[bg/16/1|Bg. 16.1]] (8), [[bg/16/21–22|Bg. 16.21–22]]
-* control of 
+* control of
+  * *See also:* Detachment; Mind; discipline of; Renunciation; Sense control
+  * necessity for, [[bg/5/23|Bg. 5.23]]
 * covetousness, [[bg/16/1|Bg. 16.1]]
 * creation accommodates, [[bg/9/8|Bg. 9.8]]
 * death frustrates, [[sb/7/14/8#purport|SB 7.14.8]]
 * defined, [[bg/2/71|Bg. 2.71]]
+  * *See also:* Demigod worship
 * demigods worshiped for fulfillment of, [[sb/5/9/12#purport|SB 5.9.12]], [[sb/5/18/21#purport|SB 5.18.21]]
-* *See:* [[d#Detachment|Detachment]] 
-* detachment from. See: Detachment 
-* devotees 
+* detachment from. See: Detachment
+* devotees
 * devotees conquer, [[bg/2/55–64|Bg. 2.55–64]], [[bg/2/68–71|Bg. 2.68–71]]
 * devotees free of, [[sb/7/3/16#purport|SB 7.3.16]], [[sb/7/6/25#purport|SB 7.6.25]], [[sb/7/7/36-36#purport|SB 7.7.36-36]], [[sb/7/10/2#purport|SB 7.10.2]]
 * devotional service &, [[bg/7/20|Bg. 7.20]], [[bg/7/29|Bg. 7.29]], [[bg/9/3|Bg. 9.3]]
@@ -35,10 +39,13 @@
 * for heavenly happiness, [[bg/2/42–43|Bg. 2.42–43]], [[bg/9/20|Bg. 9.20]]
 * for oneness with God, [[bg/2/39|Bg. 2.39]] (1), [[bg/7/5|Bg. 7.5]], [[bg/7/27|Bg. 7.27]], [[bg/9/12|Bg. 9.12]]
 * for sense gratification, [[bg/2/39|Bg. 2.39]] (5), [[bg/2/42|Bg. 2.42]]
+  * *See also:* Sense gratification
 * for transferal to other planets, [[bg/9/25|Bg. 9.25]]
 * for wealth, [[bg/7/16|Bg. 7.16]]
+* free from, [[sb/5/5/13#purport|SB 5.5.13]]
 * freedom from via prayers to Nṛsiṁhadeva, [[sb/5/18/8#purport|SB 5.18.8]]
 * freedom from, [[bg/2/70|Bg. 2.70]], [[sb/7/9/25#purport|SB 7.9.25]], [[sb/7/11/32#purport|SB 7.11.32]], [[sb/7/15/35#purport|SB 7.15.35]]
+  * *See also:* Detachment; Renunciation; Sense control
 * from mental concoction, [[bg/2/55|Bg. 2.55]]
 * greed &, [[bg/1/37–38|Bg. 1.37–38]], [[bg/14/17|Bg. 14.17]], [[bg/16/21–22|Bg. 16.21–22]], [[bg/18/27|Bg. 18.27]]
 * hate &, [[bg/7/27|Bg. 7.27]]
@@ -57,24 +64,24 @@
 * Lord fulfills, [[sb/5/7/14#purport|SB 5.7.14]], [[sb/7/4/29#purport|SB 7.4.29]], [[sb/7/9/27-27#purport|SB 7.9.27-27]], [[sb/7/9/29#purport|SB 7.9.29]], [[sb/7/9/52#purport|SB 7.9.52]], [[sb/7/9/54#purport|SB 7.9.54]], [[sb/7/10/11#purport|SB 7.10.11]]
 * Lord only can fulfill, [[bg/7/21–22|Bg. 7.21–22]]
 * Lord should be worshiped by one with, [[sb/5/18/21#purport|SB 5.18.21]]
-* *See:* [[l#Lust|Lust]] 
 * material & spiritual, [[sb/1/6/22#purport|SB 1.6.22]]
 * material body accepted to fulfill, [[sb/5/18/8#purport|SB 5.18.8]]
 * material life via, [[sb/1/9/23#purport|SB 1.9.23]]
 * mode of passion &, [[bg/14/7|Bg. 14.7]], [[bg/14/12|Bg. 14.12]], [[bg/18/24|Bg. 18.24]]
 * nature facilitates, [[bg/3/37|Bg. 3.37]]
-* *See:* [[d#Demons|Demons]]; qualities of 
+* of demigod worshipers, [[sb/5/19/26#purport|SB 5.19.26]]
+* of devotee, [[sb/5/19/27#purport|SB 5.19.27]]
 * of Hiraṇyakaśipu, [[sb/7/3/1#purport|SB 7.3.1]], [[sb/7/3/10-12#purport|SB 7.3.10-12]], [[sb/7/3/12-14#purport|SB 7.3.12-14]]
 * peacefulness &, [[sb/5/5/35#purport|SB 5.5.35]], [[sb/5/7/11#purport|SB 5.7.11]]
 * Prahlāda free of, [[sb/7/10/2#purport|SB 7.10.2]]
 * prayer for, [[bg/9/24|Bg. 9.24]]
 * pure devotees above, [[sb/1/13/10#purport|SB 1.13.10]]
 * pure devotees free of, [[sb/7/10/4#purport|SB 7.10.4]]
-* purification from. See: Purification 
+* purification from. See: Purification
 * purification of, [[sb/1/15/29#purport|SB 1.15.29]]
 * purification of, via transformation, [[bg/3/37|Bg. 3.37]]
+  * *See also:* Purification
 * renunciation of, [[sb/7/10/9#purport|SB 7.10.9]], [[sb/7/13/34#purport|SB 7.13.34]], [[sb/7/15/22#purport|SB 7.15.22]]
-* *See:* [[d#Detachment|Detachment]]; [[r#Renunciation|Renunciation]] 
 * ritualistic ceremonies for, [[sb/7/15/48-49#purport|SB 7.15.48-49]]
 * sex basis of, [[sb/7/10/2#purport|SB 7.10.2]]
 * soul’s transmigration due to, [[sb/7/10/8#purport|SB 7.10.8]]
@@ -84,10 +91,15 @@
 * suffering caused by, [[sb/7/13/34#purport|SB 7.13.34]]
 * surrender purifies, [[sb/7/13/24#purport|SB 7.13.24]]
 * Svāyambhuva Manu achieves relief from, [[sb/5/1/22#purport|SB 5.1.22]]
+* to dirty things, [[sb/5/19/27#purport|SB 5.19.27]]
 * to lord it over, [[bg/13/21|Bg. 13.21]], [[bg/14/27|Bg. 14.27]], [[bg/15/20|Bg. 15.20]]
+* to poison, [[sb/5/19/27#purport|SB 5.19.27]]
+* transcend, [[sb/5/6/17#purport|SB 5.6.17]]
 * transcendentalists above, [[sb/1/19/23#purport|SB 1.19.23]]
 * transmigration of soul via, [[sb/1/8/35#purport|SB 1.8.35]]
 * via association, [[bg/3/34|Bg. 3.34]]
 * worship to Lord for, [[sb/7/3/24#purport|SB 7.3.24]]
 
-*See also:* [[a#Attachment|Attachment]]; [[l#Lust|Lust]]; [[s#Sense gratification|Sense gratification]]; material
+*See also:* [Attachment](entries/attachment.md); [Lust](entries/lust.md); Sense gratification; material
+
+*See:* [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Lust](entries/lust.md); Demons; qualities of

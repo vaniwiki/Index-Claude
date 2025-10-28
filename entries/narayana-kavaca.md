@@ -10,4 +10,4 @@
 * Parīkṣit’s question on, [[sb/6/8/1-2#purport|SB 6.8.1-2]]
 * Viśvarūpa composes, [[sb/6/7/39-39#purport|SB 6.7.39-39]]
 
-*See also:* [[p#Protection|Protection]]
+*See also:* [Protection](entries/protection.md)

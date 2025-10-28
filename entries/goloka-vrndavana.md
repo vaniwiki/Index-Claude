@@ -1,6 +1,6 @@
 # Goloka Vṛndāvana
 
-**[[cc/adi/5/16#translation|Ādi 5.16]]**, [[cc/madhya/19/165#purport|Madhya 19.165]], [[cc/madhya/21/55#purport|Madhya 21.55]], [[cc/madhya/21/91#purport|Madhya 21.91]], [[cc/madhya/6/230#purport|Madhya 6.230]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/3/2/20#purport|SB 3.2.20]]
+[[cc/madhya/6/230#purport|Madhya 6.230]], [[cc/madhya/21/91#purport|Madhya 21.91]], **[[cc/adi/5/16#translation|Ādi 5.16]]**, [[cc/madhya/21/55#purport|Madhya 21.55]], [[cc/madhya/19/165#purport|Madhya 19.165]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/3/2/20#purport|SB 3.2.20]], [[sb/4/9/11#purport|SB 4.9.11]], [[sb/4/9/35#purport|SB 4.9.35]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/35#purport|SB 4.22.35]], [[sb/4/23/13#purport|SB 4.23.13]], [[sb/4/23/14#purport|SB 4.23.14]], [[sb/4/24/29#purport|SB 4.24.29]], [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/9/15/24#purport|SB 9.15.24]], [[sb/9/24/67#purport|SB 9.24.67]]
 
 * activities &, [[cc/madhya/7/69#purport|Madhya 7.69]]
 * as concentrated brahmajyoti, [[sb/2/4/14#purport|SB 2.4.14]]
@@ -49,13 +49,12 @@
 * regulative principles &, **[[cc/madhya/8/226#translation|Madhya 8.226]]**
 * residents of, **[[cc/madhya/21/43#translation|Madhya 21.43]]**, [[cc/madhya/23/116#purport|Madhya 23.116]]
 * saṅkīrtana &, [[cc/madhya/8/60#purport|Madhya 8.60]]
-*  [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/35#purport|SB 4.22.35]], [[sb/4/23/13#purport|SB 4.23.13]], [[sb/4/23/14#purport|SB 4.23.14]], [[sb/4/24/29#purport|SB 4.24.29]], [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/29/64#purport|SB 4.29.64]], [[sb/4/29/76-77#purport|SB 4.29.76-77]], [[sb/4/9/11#purport|SB 4.9.11]], [[sb/4/9/35#purport|SB 4.9.35]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/9/15/24#purport|SB 9.15.24]], [[sb/9/24/67#purport|SB 9.24.67]]
 * seeing, [[cc/madhya/16/281#purport|Madhya 16.281]]
 * size of, **[[cc/adi/5/18#translation|Ādi 5.18]]**, [[cc/madhya/23/116#purport|Madhya 23.116]]
 * spontaneous love in, [[cc/adi/4/21–22#purport|Ādi 4.21–22]]
 * Vraja part of, [[cc/adi/4/50#purport|Ādi 4.50]]
 * yogamāyā &, [[cc/madhya/21/104#purport|Madhya 21.104]]
 
-*See also:* [[s#Spiritual world|Spiritual world]]; [[v#Vṛndāvana|Vṛndāvana]]; Spirituals world
+*See also:* Spiritual world; Vṛndāvana; Spirituals world
 
-*See:* [[v#Vṛndāvana|Vṛndāvana]]; Goloka
+*See:* Vṛndāvana; Goloka

@@ -15,4 +15,4 @@
 * society conducted smoothly by, [[sb/5/7/4#purport|SB 5.7.4]]
 * true & false conception of, [[sb/4/9/66#purport|SB 4.9.66]]
 
-*See also:* [[g#Government|Government]]; King; Governments; Kings
+*See also:* [Government](entries/governments.md); King; Governments; Kings

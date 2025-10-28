@@ -29,11 +29,11 @@
 
 ### [Faith](entries/faith.md)
 
-[[cc/adi/7/95–96#purport|Ādi 7.95–96]], **[[cc/madhya/23/16#translation|Madhya 23.16]]**, **[[cc/madhya/23/9#translation|Madhya 23.9]]**...
+**[[cc/madhya/23/9#translation|Madhya 23.9]]**...
 
-* as qualification for seeing Lord, [[sb/1/5/39#purport|SB 1.5.39]]
+* & His pure devotee,, [[sb/4/21/43#purport|SB 4.21.43]]
 
-*→ See all 65 references in* [Faith](entries/faith.md)
+*→ See all 68 references in* [Faith](entries/faith.md)
 
 ---
 
@@ -49,21 +49,25 @@
 [[sb/10/7/31#purport|SB 10.7.31]]
 
 
-*See also:* [[l#Love|Love]]; for Kṛṣṇa; [[w#Worship|Worship]]; to Kṛṣṇa
+*See also:* [Love](entries/love.md); for Kṛṣṇa; [Worship](entries/worship.md); to Kṛṣṇa
 
 ---
 
 ### [Faith in Lord](entries/faith-in-lord.md)
 
-* bhakti-yoga with, [[bg/6/24|Bg. 6.24]]
+[[bg/5–6|Bg. 5–6]], [[bg/23|Bg. 23]], [[bg/1/28|Bg. 1.28]], [[bg/8/23|Bg. 8.23]], [[bg/17/17|Bg. 17.17]]...
 
-*→ See all 31 references in* [Faith in Lord](entries/faith-in-lord.md)
+* *dṛḍha-vrata,*, 7.30
+
+*→ See all 36 references in* [Faith in Lord](entries/faith-in-lord.md)
 
 ---
 
 ### [Falldown](entries/falldown.md)
 
-* Arjuna’s questions about, [[bg/6/37–39|Bg. 6.37–39]]
+[[bg/9/25|Bg. 9.25]], [[bg/13/24|Bg. 13.24]]...
+
+* Arjuna’s questions about,, [[bg/6/37–39|Bg. 6.37–39]]
 
 *→ See all 44 references in* [Falldown](entries/falldown.md)
 
@@ -73,17 +77,17 @@
 
 [[sb/5/8/7-26#purport|SB 5.8.7-26]]...
 
-* as punishment by Lord, [[sb/5/18/4#purport|SB 5.18.4]]
+* as punishment by Lord,, [[sb/5/18/4#purport|SB 5.18.4]]
 
-*→ See all 10 references in* [Falldown from spiritual life](entries/falldown-from-spiritual-life.md)
+*→ See all 11 references in* [Falldown from spiritual life](entries/falldown-from-spiritual-life.md)
 
 ---
 
 ### [False ego](entries/false-ego.md)
 
-[[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[bg/6/5|Bg. 6.5]], [[sb/8/19/13#purport|SB 8.19.13]]...
+[[bg/6/5|Bg. 6.5]]...
 
-* absence of, [[bg/2/71|Bg. 2.71]], [[bg/5/11|Bg. 5.11]], [[bg/5/20|Bg. 5.20]], [[bg/12/8|Bg. 12.8]], [[bg/12/13|Bg. 12.13]], [[bg/13/3|Bg. 13.3]], [[bg/13/8|Bg. 13.8]], [[bg/2/31|Bg. 2.31]], [[bg/2/48|Bg. 2.48]], [[bg/18/17|Bg. 18.17]], [[bg/18/26|Bg. 18.26]], [[bg/18/51|Bg. 18.51]]
+* absence of,, [[bg/2/71|Bg. 2.71]], [[bg/5/11|Bg. 5.11]], [[bg/5/20|Bg. 5.20]], [[bg/12/8|Bg. 12.8]], [[bg/12/13|Bg. 12.13]], [[bg/13/3|Bg. 13.3]], [[bg/13/8|Bg. 13.8]], [[bg/2/31|Bg. 2.31]], [[bg/2/48|Bg. 2.48]], [[bg/18/17|Bg. 18.17]], [[bg/18/26|Bg. 18.26]], [[bg/18/51|Bg. 18.51]]
 
 *→ See all 30 references in* [False ego](entries/false-ego.md)
 
@@ -108,7 +112,7 @@
 
 **[[cc/madhya/8/246#translation|Madhya 8.246]]**...
 
-* as opulence of Kṛṣṇa, [[bg/2/2|Bg. 2.2]] (3), [[bg/5/15|Bg. 5.15]], [[bg/7/3|Bg. 7.3]], [[bg/7/13|Bg. 7.13]], [[bg/10/1|Bg. 10.1]]
+* as opulence of Kṛṣṇa,, [[bg/2/2|Bg. 2.2]] (3), [[bg/5/15|Bg. 5.15]], [[bg/7/3|Bg. 7.3]], [[bg/7/13|Bg. 7.13]], [[bg/10/1|Bg. 10.1]]
 
 *→ See all 6 references in* [Fame](entries/fame.md)
 
@@ -133,13 +137,13 @@
 [[sb/10/8/12#purport|SB 10.8.12]]
 
 
-*See also:* [[c#Children|Children]]; Fathers; [[g#Gṛhasthas|Gṛhasthas]]; Mothers; [[p#Parents|Parents]]
+*See also:* [Children](entries/children.md); Fathers; Gṛhasthas; Mothers; Parents
 
 ---
 
 ### [Family](entries/family.md)
 
-* affection for, [[sb/3/5/11#purport|SB 3.5.11]]
+* affection for,, [[sb/3/5/11#purport|SB 3.5.11]]
 
 *→ See all 16 references in* [Family](entries/family.md)
 
@@ -147,9 +151,9 @@
 
 ### [Family (Family life)](entries/family-family-life.md)
 
-* bhakti-yoga in, [[bg/6/13|Bg. 6.13]] (1)
+* *varṇāśrama *&,, [[bg/7/15|Bg. 7.15]] (8)
 
-*→ See all 47 references in* [Family (Family life)](entries/family-family-life.md)
+*→ See all 52 references in* [Family (Family life)](entries/family-family-life.md)
 
 ---
 
@@ -157,9 +161,9 @@
 
 [[sb/3/33/12#purport|SB 3.33.12]]...
 
-* ”fallible soldiers” in, [[sb/2/1/4#purport|SB 2.1.4]]
+* ”fallible soldiers” in,, [[sb/2/1/4#purport|SB 2.1.4]]
 
-*→ See all 206 references in* [Family life](entries/family-life.md)
+*→ See all 230 references in* [Family life](entries/family-life.md)
 
 ---
 
@@ -188,7 +192,7 @@
 [[bg/18/44|Bg. 18.44]]
 
 
-*See also:* [[v#Vaiśyas|Vaiśyas]]
+*See also:* Vaiśyas
 
 ---
 
@@ -197,14 +201,14 @@
 [[sb/1/5/32#purport|SB 1.5.32]]
 
 
-*See also:* [[v#Vaiśyas|Vaiśyas]]
+*See also:* Vaiśyas
 
 ---
 
 ### Farming
 
 
-*See:* [[a#Agriculture|Agriculture]]; [[v#Vaiśyas|Vaiśyas]]
+*See:* [Agriculture](entries/agriculture.md); Vaiśyas
 
 ---
 
@@ -231,9 +235,9 @@
 
 ### [Fasting](entries/fasting.md)
 
-[[sb/2/8/26#purport|SB 2.8.26]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/4/8/72#purport|SB 4.8.72]]...
+[[bg/6/16|Bg. 6.16]], [[bg/8/28|Bg. 8.28]], [[bg/17/5|Bg. 17.5]]...
 
-*  [[bg/6/16|Bg. 6.16]], [[bg/8/28|Bg. 8.28]], [[bg/17/5|Bg. 17.5]]
+* bogus & bona fide,, [[sb/1/17/25#purport|SB 1.17.25]]
 
 *→ See all 28 references in* [Fasting](entries/fasting.md)
 
@@ -257,7 +261,7 @@
 
 * Lord controls, [[sb/3/1/16#purport|SB 3.1.16]], [[sb/3/6/3#purport|SB 3.6.3]]
 
-*See also:* [[k#Karma|Karma]]; [[s#Supreme Lord|Supreme Lord]]; will of
+*See also:* [Karma](entries/karma.md); Supreme Lord; will of
 
 ---
 
@@ -277,7 +281,7 @@
 
 ### [Father(s)](entries/fathers.md)
 
-* ”born as son,” [[sb/9/20/21#purport|SB 9.20.21]]
+* ”born as son,”, [[sb/9/20/21#purport|SB 9.20.21]]
 
 *→ See all 51 references in* [Father(s)](entries/fathers.md)
 
@@ -296,7 +300,7 @@
 
 *  [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (15), [[bg/18/28|Bg. 18.28]]
 
-*See also:* [[o#Offenses|Offenses]]
+*See also:* Offenses
 
 ---
 
@@ -311,11 +315,11 @@
 
 ### [Fear](entries/fear.md)
 
-**[[cc/madhya/22/110#translation|Madhya 22.110]]**, **[[cc/madhya/24/136–37#translation|Madhya 24.136–37]]**, **[[cc/madhya/25/138#translation|Madhya 25.138]]**...
+[[bg/1/29|Bg. 1.29]], [[bg/1/30|Bg. 1.30]], [[bg/2/35|Bg. 2.35]], [[bg/2/56|Bg. 2.56]], [[bg/10/4|Bg. 10.4]] (5), [[bg/18/30|Bg. 18.30]], [[bg/18/35|Bg. 18.35]]...
 
-* ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
+* ”light” for destroying,, [[sb/2/9/34#purport|SB 2.9.34]]
 
-*→ See all 130 references in* [Fear](entries/fear.md)
+*→ See all 134 references in* [Fear](entries/fear.md)
 
 ---
 
@@ -328,7 +332,9 @@
 
 ### [Fearlessness](entries/fearlessness.md)
 
-*  [[bg/2/56|Bg. 2.56]], [[bg/6/13|Bg. 6.13]] (2), [[bg/16/1|Bg. 16.1]]
+[[bg/2/56|Bg. 2.56]], [[bg/6/13|Bg. 6.13]] (2), [[bg/16/1|Bg. 16.1]]...
+
+* of *sannyāsī,*, 16.1 (4)
 
 *→ See all 6 references in* [Fearlessness](entries/fearlessness.md)
 
@@ -344,26 +350,17 @@
 ### Feeling(s)
 
 
-*See:* [[e#Emotions|Emotions]]
+*See:* Emotions
 
 ---
 
 ### [Feelings of separation](entries/feelings-of-separation.md)
 
-**[[cc/antya/13/4#translation|Antya 13.4]]**, **[[cc/antya/14/43–54#translation|Antya 14.43–54]]**, **[[cc/antya/14/52–53#translation|Antya 14.52–53]]**...
+**[[cc/antya/13/4#translation|Antya 13.4]]**...
 
-* Advaita’s sonnet &, **[[cc/antya/19/30#translation|Antya 19.30]]**
+* Advaita’s sonnet &,, **[[cc/antya/19/30#translation|Antya 19.30]]**
 
 *→ See all 21 references in* [Feelings of separation](entries/feelings-of-separation.md)
-
----
-
-### Female
-
-* birth of, [[sb/3/23/11#purport|SB 3.23.11]]
-* male attracted to, [[sb/3/24/4#purport|SB 3.24.4]]
-
-*See also:* [[m#Mother|Mother]]; [[w#Wife|Wife]]; [[w#Women|Women]]
 
 ---
 
@@ -378,18 +375,15 @@
 
 * material life as, [[sb/8/22/9#purport|SB 8.22.9]]
 
-*See also:* [[s#Sex life|Sex life]]
+*See also:* Sex life
 
 ---
 
-### Female(s)
+### [Females](entries/females.md)
 
-* Sudyumna alternated as, [[sb/9/1/38-39#purport|SB 9.1.38-39]], [[sb/9/1/40#purport|SB 9.1.40]]
-* Sudyumna transformed into, [[sb/9/1/26#purport|SB 9.1.26]], [[sb/9/1/33#purport|SB 9.1.33]], [[sb/9/1/34#purport|SB 9.1.34]], [[sb/9/1/36#purport|SB 9.1.36]]
+* birth of,, [[sb/3/23/11#purport|SB 3.23.11]]
 
-*See also:* Woman; specific females
-
-*See:* [[w#Women|Women]]
+*→ See all 7 references in* [Females](entries/females.md)
 
 ---
 
@@ -463,9 +457,9 @@
 
 * & knower of field, [[bg/13/19|Bg. 13.19]], [[bg/13/27|Bg. 13.27]], [[bg/14/3|Bg. 14.3]]
 
-*See also:* [[b#Body|Body]]; material
+*See also:* [Body](entries/body.md); material
 
-*See:* Conditioneds soul; [[l#Living entity (entities)|Living entity (entities)]]; [[s#Supersoul|Supersoul]]
+*See:* Conditioneds soul; Living entity (entities); [Supersoul](entries/supersoul.md)
 
 ---
 
@@ -476,7 +470,7 @@
 ### Fighter(s)
 
 
-*See:* Armies; [[k#Kṣatriyas|Kṣatriyas]]; names of specific fighters
+*See:* Armies; Kṣatriyas; names of specific fighters
 
 ---
 
@@ -484,7 +478,7 @@
 
 * principles for, [[sb/10/4/35#purport|SB 10.4.35]]
 
-*See also:* [[k#Kṣatriyas|Kṣatriyas]]
+*See also:* Kṣatriyas
 
 *See:* Wars
 
@@ -512,9 +506,9 @@
 
 ### [Fire](entries/fire.md)
 
-* & by-products, [[sb/2/5/14#purport|SB 2.5.14]], [[sb/2/10/45#purport|SB 2.10.45]]
+* & by-products,, [[sb/2/5/14#purport|SB 2.5.14]], [[sb/2/10/45#purport|SB 2.10.45]]
 
-*→ See all 115 references in* [Fire](entries/fire.md)
+*→ See all 125 references in* [Fire](entries/fire.md)
 
 ---
 
@@ -530,7 +524,7 @@
 [[sb/9/2/21#purport|SB 9.2.21]]
 
 
-*See:* [[a#Agni|Agni]]
+*See:* [Agni](entries/agni.md)
 
 ---
 
@@ -564,9 +558,9 @@
 
 ### [Fish](entries/fish.md)
 
-* as mixture of ignorance & passion modes, [[sb/5/18/25#purport|SB 5.18.25]]
+* as mixture of ignorance & passion modes,, [[sb/5/18/25#purport|SB 5.18.25]]
 
-*→ See all 6 references in* [Fish](entries/fish.md)
+*→ See all 9 references in* [Fish](entries/fish.md)
 
 ---
 
@@ -593,7 +587,7 @@
 ### Fish incarnation
 
 
-*See:* [[m#Matsya|Matsya]]
+*See:* Matsya
 
 ---
 
@@ -637,7 +631,7 @@
 ### Flesh-eating
 
 
-*See:* [[m#Meat-eating|Meat-eating]]
+*See:* [Meat-eating](entries/meat-eating.md)
 
 ---
 
@@ -698,11 +692,11 @@
 
 ---
 
-### [Flower(s)](entries/flowers.md)
+### [Flowers](entries/flowers.md)
 
-* at Bindu-sarovara Lake, [[sb/3/21/42-43/#purport|SB 3.21.42-43.]] 21.42-43
+* at Bindu-sarovara Lake,, [[sb/3/21/42-43/#purport|SB 3.21.42-43.]] 21.42-43
 
-*→ See all 14 references in* [Flower(s)](entries/flowers.md)
+*→ See all 23 references in* [Flowers](entries/flowers.md)
 
 ---
 
@@ -747,9 +741,9 @@
 
 [[bg/3/14|Bg. 3.14]]...
 
-* ”shortage” of, [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/49#purport|SB 3.5.49]]
+* ”shortage” of,, [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/49#purport|SB 3.5.49]]
 
-*→ See all 127 references in* [Food](entries/food.md)
+*→ See all 136 references in* [Food](entries/food.md)
 
 ---
 
@@ -819,7 +813,7 @@
 ### Forbearance
 
 
-*See:* [[t#Tolerance|Tolerance]]
+*See:* [Tolerance](entries/tolerance.md)
 
 ---
 
@@ -830,13 +824,13 @@
 
 ---
 
-### Forefather(s)
+### Forefathers
 
 * offerings of flesh to, forbidden in Kali-yuga, [[sb/5/7/5#purport|SB 5.7.5]]
 * śrāddha ceremony satisfies, [[sb/5/2/2#purport|SB 5.2.2]]
 * worship to, result of, [[sb/5/14/31#purport|SB 5.14.31]], [[sb/5/19/22#purport|SB 5.19.22]]
 
-*See:* [[a#Ancestors|Ancestors]]; [[p#Pitās|Pitās]]
+*See:* Ancestors; Pitās
 
 ---
 
@@ -856,14 +850,6 @@
 
 [[sb/1/5/11#purport|SB 1.5.11]]
 
-
----
-
-### [Forest](entries/forest.md)
-
-* Ambarīṣa retired to, [[sb/9/5/26#purport|SB 9.5.26]], [[sb/9/5/27#purport|SB 9.5.27]]
-
-*→ See all 26 references in* [Forest](entries/forest.md)
 
 ---
 
@@ -904,15 +890,15 @@
 
 ### [Forest(s)](entries/forests.md)
 
-* Lord’s protection in, [[sb/4/8/68#purport|SB 4.8.68]]
+* Ambarīṣa retired to,, [[sb/9/5/26#purport|SB 9.5.26]], [[sb/9/5/27#purport|SB 9.5.27]]
 
-*→ See all 9 references in* [Forest(s)](entries/forests.md)
+*→ See all 39 references in* [Forest(s)](entries/forests.md)
 
 ---
 
 ### [Forgetfulness](entries/forgetfulness.md)
 
-* in living beings, [[sb/2/2/1#purport|SB 2.2.1]]
+* in living beings,, [[sb/2/2/1#purport|SB 2.2.1]]
 
 *→ See all 12 references in* [Forgetfulness](entries/forgetfulness.md)
 
@@ -927,9 +913,9 @@
 
 ### [Forgiveness](entries/forgiveness.md)
 
-[[sb/4/20/3#purport|SB 4.20.3]]...
+[[bg/1/32–36|Bg. 1.32–36]], [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (16)...
 
-*  [[bg/1/32–36|Bg. 1.32–36]], [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (16)
+* in Lord’s devotees,, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]]
 
 *→ See all 6 references in* [Forgiveness](entries/forgiveness.md)
 
@@ -952,14 +938,14 @@
 ### Form of Lord
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; forms of
+*See:* Supreme Lord; forms of
 
 ---
 
 ### Form of Supreme Lord
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; form of; forms of
+*See:* Supreme Lord; form of; forms of
 
 ---
 
@@ -975,14 +961,14 @@
 ### Form(s) of Supreme Lord
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; forms of
+*See:* Supreme Lord; forms of
 
 ---
 
 ### Forms of Lord
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; forms of
+*See:* Supreme Lord; forms of
 
 ---
 
@@ -1048,7 +1034,7 @@
 
 ### [Freedom](entries/freedom.md)
 
-* as ceasing sinful activity, [[sb/1/19/7#purport|SB 1.19.7]]
+* as ceasing sinful activity,, [[sb/1/19/7#purport|SB 1.19.7]]
 
 *→ See all 59 references in* [Freedom](entries/freedom.md)
 
@@ -1059,21 +1045,21 @@
 [[sb/4/11/14#purport|SB 4.11.14]]
 
 
-*See also:* [[i#Independence|Independence]]; [[l#Liberation|Liberation]]
+*See also:* [Independence](entries/independence.md); [Liberation](entries/liberation.md)
 
 ---
 
 ### Freedom from material world & desires
 
 
-*See:* [[d#Detachment|Detachment]]; [[l#Liberation|Liberation]]
+*See:* [Detachment](entries/detachment.md); [Liberation](entries/liberation.md)
 
 ---
 
 ### Freedom from matter
 
 
-*See:* [[l#Liberation|Liberation]]
+*See:* [Liberation](entries/liberation.md)
 
 ---
 
@@ -1104,28 +1090,23 @@
 
 ---
 
-### Friendship
-
-* with Kṛṣṇa, [[sb/3/2/27#purport|SB 3.2.27]], [[sb/3/3/7#purport|SB 3.3.7]]
-* with Vaiṣṇavas, [[sb/3/1/41#purport|SB 3.1.41]]
-
----
-
 ### Friendship with Lord
 
 [[sb/2/2/18#purport|SB 2.2.18]]
 
 * as devotional process, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 
-*See also:* [[r#Rasas|Rasas]]
+*See also:* Rasas
 
 ---
 
 ### Friendship(s)
 
 * transcendental, compared with material, 4 
+* with Kṛṣṇa, [[sb/3/2/27#purport|SB 3.2.27]], [[sb/3/3/7#purport|SB 3.3.7]]
+* with Vaiṣṇavas, [[sb/3/1/41#purport|SB 3.1.41]]
 
-*See:* [[a#Arjuna|Arjuna]]; Kṛṣṇa &; relationship between
+*See:* [Arjuna](entries/arjuna.md); Kṛṣṇa &; relationship between
 
 ---
 
@@ -1146,13 +1127,6 @@
 
 ---
 
-### Fruit
-
-* Dhruva ate, [[sb/4/8/72#purport|SB 4.8.72]]
-* offered in Deity worship, [[sb/4/8/55-55#purport|SB 4.8.55-55]], [[sb/4/8/56#purport|SB 4.8.56]]
-
----
-
 ### Fruit, ripened
 
 [[sb/2/7/51#purport|SB 2.7.51]]
@@ -1162,17 +1136,21 @@
 
 ### Fruit(s)
 
+* Dhruva ate, [[sb/4/8/72#purport|SB 4.8.72]]
 * kapittha, Kṛṣṇa obtained, [[sb/10/11/43#purport|SB 10.11.43]]
 * Kṛṣṇa & Balarāma sported with, [[sb/10/11/39-40#purport|SB 10.11.39-40]]
+* offered in Deity worship, [[sb/4/8/55-55#purport|SB 4.8.55-55]], [[sb/4/8/56#purport|SB 4.8.56]]
 * vendor of, Kṛṣṇa blessed, [[sb/10/11/10#purport|SB 10.11.10]], [[sb/10/11/11-11#purport|SB 10.11.11-11]]
 
 ---
 
 ### [Fruitive activities](entries/fruitive-activities.md)
 
-* & transmigration of soul, [[sb/4/25/5#purport|SB 4.25.5]]
+[[sb/4/25/9#purport|SB 4.25.9]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/28#purport|SB 4.28.28]], [[sb/4/28/65#purport|SB 4.28.65]]...
 
-*→ See all 94 references in* [Fruitive activities](entries/fruitive-activities.md)
+* & transmigration of soul,, [[sb/4/25/5#purport|SB 4.25.5]]
+
+*→ See all 146 references in* [Fruitive activities](entries/fruitive-activities.md)
 
 ---
 
@@ -1183,17 +1161,9 @@
 
 ---
 
-### [Fruitive activity](entries/fruitive-activity.md)
-
-* Vedas recommend, [[bg/2/42|Bg. 2.42]], [[bg/2/45–46|Bg. 2.45–46]]
-
-*→ See all 35 references in* [Fruitive activity](entries/fruitive-activity.md)
-
----
-
 ### [Fruitive work](entries/fruitive-work.md)
 
-* as cause of material status, [[sb/1/5/18#purport|SB 1.5.18]]
+* as cause of material status,, [[sb/1/5/18#purport|SB 1.5.18]]
 
 *→ See all 15 references in* [Fruitive work](entries/fruitive-work.md)
 
@@ -1201,19 +1171,21 @@
 
 ### [Fruitive work (workers)](entries/fruitive-work-workers.md)
 
-[[cc/antya/10/100#purport|Antya 10.100]], [[cc/antya/4/194#purport|Antya 4.194]], [[cc/antya/5/121#purport|Antya 5.121]]...
+[[cc/madhya/6/162#purport|Madhya 6.162]]...
 
-* bodily conception &, **[[cc/madhya/24/214#translation|Madhya 24.214]]**, [[cc/antya/4/173#purport|Antya 4.173]]
+* bodily conception &,, **[[cc/madhya/24/214#translation|Madhya 24.214]]**, [[cc/antya/4/173#purport|Antya 4.173]]
 
 *→ See all 49 references in* [Fruitive work (workers)](entries/fruitive-work-workers.md)
 
 ---
 
-### [Fruitive worker(s)](entries/fruitive-workers.md)
+### [Fruitive workers](entries/fruitive-workers.md)
 
-* as class of materialist, [[sb/1/3/37#purport|SB 1.3.37]]
+...
 
-*→ See all 21 references in* [Fruitive worker(s)](entries/fruitive-workers.md)
+* as class of materialist,, [[sb/1/3/37#purport|SB 1.3.37]]
+
+*→ See all 23 references in* [Fruitive workers](entries/fruitive-workers.md)
 
 ---
 
@@ -1224,7 +1196,7 @@
 * in bondage, [[sb/2/9/36#purport|SB 2.9.36]]
 * sacrifices by, [[sb/2/7/11#purport|SB 2.7.11]]
 
-*See also:* [[k#Karma|Karma]]; [[m#Materialists|Materialists]]
+*See also:* [Karma](entries/karma.md); Materialists
 
 ---
 
@@ -1252,7 +1224,7 @@
 
 ### [Future](entries/future.md)
 
-* Lord’s mercy on devotees in, [[sb/9/24/61#purport|SB 9.24.61]]
+* Lord’s mercy on devotees in,, [[sb/9/24/61#purport|SB 9.24.61]]
 
 *→ See all 6 references in* [Future](entries/future.md)
 

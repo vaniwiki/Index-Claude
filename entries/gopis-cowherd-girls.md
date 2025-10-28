@@ -9,4 +9,4 @@
 * innumerable, [[sb/2/9/37#purport|SB 2.9.37]]
 * Kṛṣṇa dances with, [[sb/2/7/33#purport|SB 2.7.33]]
 
-*See also:* [[c#Conjugal love|Conjugal love]]; [[r#Rādhārāṇī|Rādhārāṇī]]; [[r#Rāsa-līlā|Rāsa-līlā]]
+*See also:* Conjugal love; Rādhārāṇī; Rāsa-līlā

@@ -12,4 +12,4 @@
 * Śiva controls, [[sb/4/24/18#purport|SB 4.24.18]]
 * Śiva worship secures blessings of, [[sb/4/22/36#purport|SB 4.22.36]]
 
-*See also:* [[m#Māyā|Māyā]]
+*See also:* Māyā

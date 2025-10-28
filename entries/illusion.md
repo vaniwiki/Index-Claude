@@ -1,13 +1,13 @@
 # Illusion
 
 * ”I & mine” as, [[sb/2/9/3#purport|SB 2.9.3]]
-* ”māyā consciousness,” [[sb/3/25/15#purport|SB 3.25.15]]
+* ”māyā consciousness,”, [[sb/3/25/15#purport|SB 3.25.15]]
 * ”oneness” last snare of, [[sb/2/9/30#purport|SB 2.9.30]], [[sb/2/9/33-34#purport|SB 2.9.33-34]]
 * about Kṛṣṇa consciousness, [[bg/3/1|Bg. 3.1]]
 * about Kṛṣṇa’s form, [[bg/7/24|Bg. 7.24]]
 * about Kṛṣṇa’s position, [[bg/4/4|Bg. 4.4]], [[bg/9/11–12|Bg. 9.11–12]], [[bg/10/8|Bg. 10.8]], [[bg/10/42|Bg. 10.42]]
 * about life’s origin, [[bg/2/30|Bg. 2.30]]
-* about Lord 
+* about Lord
 * about Lord’s differing from Bhagavad-gītā, [[sb/4/30/10#purport|SB 4.30.10]]
 * about Lord’s oneness with living entities, [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/29/26-27#purport|SB 4.29.26-27]], [[sb/4/29/29#purport|SB 4.29.29]]
 * about soul, [[bg/2/29|Bg. 2.29]]
@@ -38,10 +38,10 @@
 * by māyā’s influence, [[sb/4/7/44#purport|SB 4.7.44]]
 * by modes of nature, [[bg/7/13–14|Bg. 7.13–14]]
 * by women who worship Lord for husband, [[sb/5/18/19#purport|SB 5.18.19]]
-* cause(s) of, [[bg/1/30|Bg. 1.30]], [[bg/3/40|Bg. 3.40]], [[bg/7/5|Bg. 7.5]]
-* causes of, [[sb/4/25/32#purport|SB 4.25.32]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/3#purport|SB 4.27.3]], [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-23#purport|SB 6.15.21-23]]
+* cause(s) of, [[bg/1/30|Bg. 1.30]], [[bg/3/40|Bg. 3.40]], [[bg/7/5|Bg. 7.5]], [[sb/4/25/32#purport|SB 4.25.32]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/3#purport|SB 4.27.3]], [[sb/6/15/21-23#purport|SB 6.15.21-23]], [[sb/6/15/21-23#purport|SB 6.15.21-23]]
 * civiliātion in, [[sb/8/2/32#purport|SB 8.2.32]]
-* compared 
+* compared
+* compared to dream, [[sb/8/10/55#purport|SB 8.10.55]]
 * conditioned soul in, [[sb/8/3/29#purport|SB 8.3.29]], [[sb/8/8/8#purport|SB 8.8.8]]
 * covering energy of, [[sb/3/26/4-4#purport|SB 3.26.4-4]]
 * deer in, analogy of, [[sb/4/29/53-55#purport|SB 4.29.53-55]]
@@ -99,8 +99,7 @@
 * Kṛṣṇa dispels for Arjuna, [[bg/11/1|Bg. 11.1]]
 * lamentation, material, as, [[bg/2/1–2|Bg. 2.1–2]]
 * liberated soul free of, [[sb/4/22/27#purport|SB 4.22.27]]
-* *See:* [[l#Liberation|Liberation]] 
-* liberation from. See: Liberation 
+* liberation from. See: Liberation
 * living entities under, [[sb/2/9/1#purport|SB 2.9.1]]
 * living entity causes his own, [[bg/5/15|Bg. 5.15]]
 * living entity serves, if not serving Kṛṣṇa, [[bg/18/73|Bg. 18.73]]
@@ -115,10 +114,10 @@
 * material happiness as, [[sb/7/9/17#purport|SB 7.9.17]], [[sb/7/9/25-25#purport|SB 7.9.25-25]], [[sb/7/13/28#purport|SB 7.13.28]]
 * material intelligence as, [[sb/4/25/56#purport|SB 4.25.56]]
 * material intelligence in, [[sb/4/25/36#purport|SB 4.25.36]]
-* material life as, [[sb/1/8/4#purport|SB 1.8.4]], [[sb/10/6/39-40#purport|SB 10.6.39-40]], [[sb/10/7/1-2#purport|SB 10.7.1-2]], [[sb/7/13/44#purport|SB 7.13.44]]
+* material life as, [[sb/1/8/4#purport|SB 1.8.4]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/10/6/39-40#purport|SB 10.6.39-40]], [[sb/10/7/1-2#purport|SB 10.7.1-2]]
 * material opulence as, [[sb/8/22/9#purport|SB 8.22.9]], [[sb/8/22/11#purport|SB 8.22.11]]
 * material relationships as, [[sb/1/9/19#purport|SB 1.9.19]]
-* material world as, [[sb/1/13/29#purport|SB 1.13.29]], [[sb/2/2/3-4#purport|SB 2.2.3-4]], [[sb/4/22/14#purport|SB 4.22.14]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/4/29/83#purport|SB 4.29.83]], [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/3/11#purport|SB 4.3.11]]
+* material world as, [[sb/1/13/29#purport|SB 1.13.29]], [[sb/2/2/3-4#purport|SB 2.2.3-4]], [[sb/4/3/11#purport|SB 4.3.11]], [[sb/4/22/14#purport|SB 4.22.14]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/4/29/83#purport|SB 4.29.83]], [[sb/4/30/23#purport|SB 4.30.23]]
 * materialism as, [[sb/1/13/17#purport|SB 1.13.17]], [[sb/1/13/53#purport|SB 1.13.53]], [[sb/1/15/25-26#purport|SB 1.15.25-26]]
 * materialists in, [[sb/3/23/57#purport|SB 3.23.57]], [[sb/7/6/8#purport|SB 7.6.8]], [[sb/7/10/6#purport|SB 7.10.6]], [[sb/7/10/11#purport|SB 7.10.11]], [[sb/7/13/32#purport|SB 7.13.32]]
 * Māyāvāda theory of, SB Intro 24-25
@@ -130,12 +129,11 @@
 * of “learned” men, [[bg/7/15|Bg. 7.15]], [[bg/7/15|Bg. 7.15]] (11–13)
 * of accepting world as real, [[sb/4/3/11#purport|SB 4.3.11]]
 * of Arjuna, 15, [[bg/11/1|Bg. 11.1]], [[bg/18/72–73|Bg. 18.72–73]]
-* of asslike *mūḍha,* 7.15 (5)
+* of asslike *mūḍha,*, 7.15 (5)
 * of atheistic opinions about God, [[bg/7/15|Bg. 7.15]] (15)
 * of atheists, [[bg/9/12|Bg. 9.12]]
-* of attachment 
+* of attachment
 * of becoming one with Lord, [[sb/3/32/12-15#purport|SB 3.32.12-15]]
-* *See:* [[b#Bodily concept of life|Bodily concept of life]] 
 * of bodily designations, 15, 21, [[bg/2/1|Bg. 2.1]], [[bg/2/12|Bg. 2.12]], [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/2/71|Bg. 2.71]], [[bg/3/29|Bg. 3.29]], [[bg/3/40|Bg. 3.40]], [[bg/5/2|Bg. 5.2]], [[bg/5/13–14|Bg. 5.13–14]], [[bg/5/19|Bg. 5.19]], [[bg/5/20|Bg. 5.20]], [[bg/7/5|Bg. 7.5]], [[bg/8/3|Bg. 8.3]], [[bg/13/1|Bg. 13.1]], [[bg/13/8|Bg. 13.8]] (8), [[bg/13/31–32|Bg. 13.31–32]], [[bg/16/8|Bg. 16.8]], [[bg/18/21|Bg. 18.21]]
 * of bodily identification, [[sb/3/20/18#purport|SB 3.20.18]], [[sb/3/25/10-10#purport|SB 3.25.10-10]], [[sb/3/25/16-16#purport|SB 3.25.16-16]], [[sb/3/26/5#purport|SB 3.26.5]], [[sb/3/26/14#purport|SB 3.26.14]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/27/8#purport|SB 3.27.8]], [[sb/3/27/13#purport|SB 3.27.13]], [[sb/3/30/3-3#purport|SB 3.30.3-3]], [[sb/3/30/4-5#purport|SB 3.30.4-5]], [[sb/3/31/20#purport|SB 3.31.20]], [[sb/3/31/30-30#purport|SB 3.31.30-30]], [[sb/6/15/12-15#purport|SB 6.15.12-15]]
 * of body as deathless, [[sb/4/28/16#purport|SB 4.28.16]]
@@ -158,26 +156,33 @@
 * of envy to Lord, [[sb/3/27/20#purport|SB 3.27.20]]
 * of equality with Lord, [[sb/3/28/43#purport|SB 3.28.43]]
 * of false designations, [[sb/4/29/62-62#purport|SB 4.29.62-62]]
-* *See:* [[f#False ego|False ego]] 
 * of false proprietorship, 14–15, [[bg/2/48|Bg. 2.48]], [[bg/2/71|Bg. 2.71]], [[bg/3/30|Bg. 3.30]], [[bg/4/21|Bg. 4.21]], [[bg/5/2|Bg. 5.2]], [[bg/10/3|Bg. 10.3]], [[bg/12/13|Bg. 12.13]], [[bg/15/5|Bg. 15.5]], [[bg/18/51|Bg. 18.51]]
 * of familial identification, [[bg/3/29|Bg. 3.29]], [[bg/15/5|Bg. 15.5]]
 * of family life, material, [[sb/4/25/19#purport|SB 4.25.19]], [[sb/4/25/55#purport|SB 4.25.55]], [[sb/4/27/3#purport|SB 4.27.3]], [[sb/4/28/60#purport|SB 4.28.60]], [[sb/4/31/1#purport|SB 4.31.1]]
 * of forgetfulness of impending death, [[sb/4/29/53-54#purport|SB 4.29.53-54]]
 * of forgetfulness of relationship with Lord, [[sb/4/29/29#purport|SB 4.29.29]]
-* of forgetfulness, 10 
 * of forgetfulness, [[sb/3/32/38-38#purport|SB 3.32.38-38]]
+* of forgetfulness, 10
 * of freedom from control of material energy, [[sb/3/26/6#purport|SB 3.26.6]]
 * of fruitive activity, [[sb/4/25/3-4#purport|SB 4.25.3-4]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/32-35#purport|SB 4.29.32-35]], [[sb/4/29/47-47#purport|SB 4.29.47-47]], [[sb/4/29/2#purport|SB 4.29.2]]b
 * of happiness in material world, [[bg/1/30–31|Bg. 1.30–31]], [[bg/2/14|Bg. 2.14]], [[bg/2/51|Bg. 2.51]], [[bg/5/22|Bg. 5.22]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/27/27#purport|SB 4.27.27]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/35#purport|SB 4.29.35]], [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/2#purport|SB 4.29.2]]b, [[sb/4/30/23#purport|SB 4.30.23]], [[sb/6/17/20#purport|SB 6.17.20]]
 * of home in material world, [[sb/4/29/48-48#purport|SB 4.29.48-48]]
+* of identity, [[sb/3/25/36#purport|SB 3.25.36]]
 * of ignorance of transmigration, [[sb/3/29/3#purport|SB 3.29.3]]
-* of impersonal God. See: Impersonalism; Impersonalists 
+* of impersonal God. See: Impersonalism; Impersonalists
 * of impersonalism, [[sb/4/29/3#purport|SB 4.29.3]], [[sb/4/29/26-27#purport|SB 4.29.26-27]]
 * of impersonalists, [[sb/4/28/62-63#purport|SB 4.28.62-63]], [[sb/6/4/34#purport|SB 6.4.34]]
 * of improving material condition, [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/32-34#purport|SB 4.29.32-34]]
 * of independence, [[sb/3/27/19#purport|SB 3.27.19]]
 * of karma’s or jñāna’s need in devotional service, [[sb/4/31/14#purport|SB 4.31.14]]
-* of living entity 
+* of living entity
+  * as creator & enjoyer, 11
+  * as doer, [[bg/3/27|Bg. 3.27]], [[bg/18/16|Bg. 18.16]], [[bg/18/17|Bg. 18.17]]
+  * as God, [[bg/2/17|Bg. 2.17]], [[bg/2/39|Bg. 2.39]] (1), [[bg/5/16|Bg. 5.16]], [[bg/9/12|Bg. 9.12]], [[bg/9/15|Bg. 9.15]], [[bg/13/8|Bg. 13.8]] (15), [[bg/13/14|Bg. 13.14]], [[bg/16/16|Bg. 16.16]], [[bg/18/73|Bg. 18.73]]
+  * as master, [[bg/5/14|Bg. 5.14]], [[bg/13/22|Bg. 13.22]], [[bg/18/73|Bg. 18.73]]
+  * as material, 11, [[bg/7/5|Bg. 7.5]]
+  * as proprietor, [[bg/5/14|Bg. 5.14]], [[bg/5/29|Bg. 5.29]], [[bg/7/27|Bg. 7.27]]
+  * as supreme, 9
 * of lordship, [[sb/4/29/5#purport|SB 4.29.5]], [[sb/4/29/65#purport|SB 4.29.65]]
 * of love in material world, [[sb/3/30/8-8#purport|SB 3.30.8-8]]
 * of male or female identity, [[sb/3/25/11#purport|SB 3.25.11]]
@@ -189,7 +194,7 @@
 * of material life as permanent, [[sb/3/30/3-3#purport|SB 3.30.3-3]]
 * of material life, [[sb/4/27/27#purport|SB 4.27.27]], [[sb/4/27/29#purport|SB 4.27.29]], [[sb/4/29/28#purport|SB 4.29.28]], [[sb/4/29/32-34#purport|SB 4.29.32-34]], [[sb/4/29/2#purport|SB 4.29.2]]b
 * of material nature as original cause, [[sb/4/31/17#purport|SB 4.31.17]]
-* of material origin of consciousness, 10 
+* of material origin of consciousness, 10
 * of material progress, [[bg/9/18|Bg. 9.18]], [[sb/4/28/12#purport|SB 4.28.12]]
 * of material sacrifices, [[sb/4/29/47#purport|SB 4.29.47]], [[sb/4/29/57#purport|SB 4.29.57]]
 * of material security, [[sb/4/25/55#purport|SB 4.25.55]]
@@ -198,24 +203,27 @@
 * of materialists, [[sb/4/26/8#purport|SB 4.26.8]]
 * of meat-eaters, [[sb/4/26/5#purport|SB 4.26.5]]
 * of nationalism, [[sb/3/30/10#purport|SB 3.30.10]]
-* of nature as false, 9 
+* of nature as false, 9
+* of one’s self as servant of Lord, [[sb/3/28/36#purport|SB 3.28.36]], [[sb/3/31/15-15#purport|SB 3.31.15-15]]
 * of philanthropy, [[sb/3/27/5#purport|SB 3.27.5]], [[sb/3/27/25#purport|SB 3.27.25]]
 * of piety without Kṛṣṇa consciousness, [[sb/4/31/14#purport|SB 4.31.14]]
 * of plan-making, [[sb/4/29/29#purport|SB 4.29.29]]
 * of possessing wealth, [[sb/3/30/31-32#purport|SB 3.30.31-32]]
 * of pretension to spiritual life, [[bg/3/6|Bg. 3.6]]
 * of proprietorship, [[sb/3/25/24#purport|SB 3.25.24]], [[sb/3/27/2#purport|SB 3.27.2]], [[sb/3/28/39#purport|SB 3.28.39]], [[sb/4/29/5#purport|SB 4.29.5]]
+* of relationship with Lord, [[sb/3/28/36#purport|SB 3.28.36]], [[sb/3/29/39#purport|SB 3.29.39]]
 * of satisfaction in any condition, [[sb/3/30/4-5#purport|SB 3.30.4-5]], [[sb/3/30/4-5#purport|SB 3.30.4-5]]
 * of self as enjoyer, [[sb/3/27/4-4#purport|SB 3.27.4-4]]
 * of self as friend to all, [[sb/3/27/4#purport|SB 3.27.4]]
 * of sense gratification seen as true happiness, [[bg/3/40|Bg. 3.40]]
-* of sense gratification. See: Illusion, of material happiness & enjoyment 
+* of sense gratification. See: Illusion, of material happiness & enjoyment
 * of soul as doer, [[sb/6/15/6#purport|SB 6.15.6]], [[sb/6/17/18#purport|SB 6.17.18]]
 * of speculative knowledge, [[sb/3/32/28-28#purport|SB 3.32.28-28]]
-* of spiritual activities seen as material, 10–11 
+* of spiritual activities seen as material, 10–11
 * of spiritual identity forgotten, [[sb/3/25/10-10#purport|SB 3.25.10-10]], [[sb/3/25/12#purport|SB 3.25.12]], [[sb/3/25/17#purport|SB 3.25.17]], [[sb/3/25/36#purport|SB 3.25.36]], [[sb/3/26/5#purport|SB 3.26.5]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/26/18#purport|SB 3.26.18]], [[sb/3/28/36#purport|SB 3.28.36]], [[sb/3/29/39#purport|SB 3.29.39]], [[sb/4/27/29#purport|SB 4.27.29]], [[sb/4/28/13#purport|SB 4.28.13]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/61#purport|SB 4.28.61]], [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/29/8#purport|SB 4.29.8]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/30/48#purport|SB 4.30.48]]
+* of spiritual knowledge, [[sb/3/31/27#purport|SB 3.31.27]]
 * of Supersoul & soul as one, [[sb/4/28/62#purport|SB 4.28.62]]
-* of Supreme Brahman seen as *jīva,* 8.3
+* of Supreme Brahman seen as *jīva,*, 8.3
 * of thinking one’s self as lost, [[sb/3/27/15#purport|SB 3.27.15]]
 * of time’s passing forgotten, [[sb/4/27/3#purport|SB 4.27.3]]
 * of tree’s reflection, [[sb/3/9/16#purport|SB 3.9.16]]
@@ -230,6 +238,9 @@
 * renunciation dispels, [[sb/1/15/27#purport|SB 1.15.27]]
 * residents of higher planets affected by, [[sb/5/13/9#purport|SB 5.13.9]]
 * scientist’s theories as, [[sb/2/9/34#purport|SB 2.9.34]]
+* seen as formless, [[sb/3/32/15#purport|SB 3.32.15]]
+* seen as illusioned, [[sb/3/26/9#purport|SB 3.26.9]]
+* seen as material, [[sb/3/32/38#purport|SB 3.32.38]]
 * self-realization vs., [[sb/1/3/33#purport|SB 1.3.33]]
 * separatism as, [[sb/2/9/34#purport|SB 2.9.34]]
 * sex attraction expands, [[sb/5/5/8#purport|SB 5.5.8]]
@@ -246,10 +257,16 @@
 * surrender blocked by, [[bg/15/5|Bg. 15.5]]
 * surrender to Lord surpasses, [[sb/8/17/9#purport|SB 8.17.9]]
 * throwing & covering, [[sb/2/9/34#purport|SB 2.9.34]]
+* to body, [[sb/4/26/23#purport|SB 4.26.23]], [[sb/4/28/10#purport|SB 4.28.10]], [[sb/4/28/24#purport|SB 4.28.24]]
+* to darkness, [[sb/2/9/3#purport|SB 2.9.3]]
+* to family life, [[sb/4/25/19#purport|SB 4.25.19]], [[sb/4/25/55#purport|SB 4.25.55]], [[sb/4/27/3#purport|SB 4.27.3]], [[sb/4/31/1#purport|SB 4.31.1]]
+* to rope mistaken for snake, [[sb/2/9/34#purport|SB 2.9.34]]
+* to sex life, [[sb/4/25/24-26#purport|SB 4.25.24-26]], [[sb/4/25/30-32#purport|SB 4.25.30-32]], [[sb/4/25/52#purport|SB 4.25.52]]
 * truth vs., [[sb/7/13/5-5#purport|SB 7.13.5-5]]
 * types of, two listed, [[sb/7/13/5#purport|SB 7.13.5]]
+* unseen by conditioned soul, [[sb/3/26/4#purport|SB 3.26.4]]
 * Vedas dispel, [[sb/1/15/27#purport|SB 1.15.27]]
-* Vedic knowledge free from, 14 
+* Vedic knowledge free from, 14
 * via academic knowledge, [[bg/6/8|Bg. 6.8]]
 * via anger, [[bg/2/63|Bg. 2.63]], [[bg/3/37|Bg. 3.37]]
 * via modes, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/29/1#purport|SB 4.29.1]]
@@ -258,4 +275,6 @@
 * world as, [[sb/1/9/44#purport|SB 1.9.44]]
 * world in, [[sb/7/9/17#purport|SB 7.9.17]]
 
-*See also:* [[a#Atheists|Atheists]]; [[f#False ego|False ego]]; [[i#Impersonalism|Impersonalism]]; [[m#Māyā|Māyā]]; [[b#Bodily concept of life|Bodily concept of life]]; [[e#Ego|Ego]]; false; [[h#Hallucination|Hallucination]]; [[i#Ignorance|Ignorance]]; [[i#Insanity|Insanity]]; [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; material; Bodily concept; [[m#Mahāmāyā|Mahāmāyā]]; [[y#Yogamāyā|Yogamāyā]]
+*See also:* [Ignorance](entries/ignorance.md); Māyā; Atheists; False ego; [Impersonalism](entries/impersonalism.md); Bodily concept; Bodily concept of life; [Ego](entries/ego.md); false; Hallucination; Insanity; Energies of Supreme Lord; material; Mahāmāyā; Yogamāyā; Materialists
+
+*See:* [Liberation](entries/liberation.md); Bodily concept of life; False ego

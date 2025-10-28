@@ -19,4 +19,4 @@
 * trance via, [[sb/7/9/7#purport|SB 7.9.7]]
 * via mercy of devotee, [[sb/7/5/32#purport|SB 7.5.32]]
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; lotus feet of
+*See:* Supreme Lord; lotus feet of

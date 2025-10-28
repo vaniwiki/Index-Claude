@@ -1,6 +1,6 @@
 # Caitanya-bhāgavata
 
-**[[cc/antya/20/85#translation|Antya 20.85]]**, [[cc/madhya/16/205#purport|Madhya 16.205]], [[cc/madhya/16/207#purport|Madhya 16.207]], [[cc/madhya/5/141#purport|Madhya 5.141]]
+[[cc/madhya/16/205#purport|Madhya 16.205]], [[cc/madhya/16/207#purport|Madhya 16.207]], **[[cc/antya/20/85#translation|Antya 20.85]]**, [[cc/madhya/5/141#purport|Madhya 5.141]]
 
 * Caitanya & astrologer &, [[cc/adi/17/114#purport|Ādi 17.114]]
 * Caitanya & brāhmaṇa guest &, [[cc/adi/14/37#purport|Ādi 14.37]]

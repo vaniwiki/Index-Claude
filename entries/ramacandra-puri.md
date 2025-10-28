@@ -1,6 +1,6 @@
 # Rāmacandra Purī
 
-**[[cc/antya/10/156#translation|Antya 10.156]]**, **[[cc/antya/20/115#translation|Antya 20.115]]**, **[[cc/antya/8/100#translation|Antya 8.100]]**, **[[cc/antya/8/18–26#translation|Antya 8.18–26]]**, **[[cc/antya/8/32#translation|Antya 8.32]]**, **[[cc/antya/8/46–47#translation|Antya 8.46–47]]**, **[[cc/antya/8/58–60#translation|Antya 8.58–60]]**, **[[cc/antya/8/63#translation|Antya 8.63]]**, **[[cc/antya/8/64–68#translation|Antya 8.64–68]]**, **[[cc/antya/8/69#translation|Antya 8.69]]**, **[[cc/antya/8/73–75#translation|Antya 8.73–75]]**, **[[cc/antya/8/79#translation|Antya 8.79]]**, **[[cc/antya/8/86–87#translation|Antya 8.86–87]]**
+**[[cc/antya/8/46–47#translation|Antya 8.46–47]]**, **[[cc/antya/8/63#translation|Antya 8.63]]**, **[[cc/antya/8/69#translation|Antya 8.69]]**, **[[cc/antya/8/100#translation|Antya 8.100]]**, **[[cc/antya/8/58–60#translation|Antya 8.58–60]]**, **[[cc/antya/8/86–87#translation|Antya 8.86–87]]**, **[[cc/antya/10/156#translation|Antya 10.156]]**, **[[cc/antya/20/115#translation|Antya 20.115]]**, **[[cc/antya/8/64–68#translation|Antya 8.64–68]]**, **[[cc/antya/8/73–75#translation|Antya 8.73–75]]**, **[[cc/antya/8/79#translation|Antya 8.79]]**, **[[cc/antya/8/18–26#translation|Antya 8.18–26]]**, **[[cc/antya/8/32#translation|Antya 8.32]]**
 
 * arrival in Purī by, **[[cc/antya/8/7–10#translation|Antya 8.7–10]]**
 * as impersonalist, **[[cc/antya/8/21#translation|Antya 8.21]]**, [[cc/antya/8/22#purport|Antya 8.22]]

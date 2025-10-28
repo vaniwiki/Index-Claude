@@ -16,10 +16,13 @@
 * in illusion, [[sb/8/2/26#purport|SB 8.2.26]]
 * in lake bath, [[sb/8/2/25-26#purport|SB 8.2.25-26]]
 * in meditation, [[sb/8/3/1-1#purport|SB 8.3.1-1]], [[sb/8/3/2#purport|SB 8.3.2]]
-* Lord 
+* liberated, [[sb/8/4/6#purport|SB 8.4.6]], [[sb/8/4/13#purport|SB 8.4.13]]
+* Lord
 * Lord’s shelter sought by, [[sb/8/2/31#purport|SB 8.2.31]], [[sb/8/2/32#purport|SB 8.2.32]]
 * past life of, [[sb/8/3/1#purport|SB 8.3.1]], [[sb/8/4/1#purport|SB 8.4.1]], [[sb/8/4/7#purport|SB 8.4.7]]
+* prayers to, by, [[sb/8/3/2#purport|SB 8.3.2]], [[sb/8/3/3#purport|SB 8.3.3]], [[sb/8/3/4-6#purport|SB 8.3.4-6]], [[sb/8/3/7#purport|SB 8.3.7]], [[sb/8/3/8-9#purport|SB 8.3.8-9]], [[sb/8/3/10-12#purport|SB 8.3.10-12]], [[sb/8/3/13#purport|SB 8.3.13]], [[sb/8/3/14#purport|SB 8.3.14]], [[sb/8/3/15#purport|SB 8.3.15]], [[sb/8/3/16-17#purport|SB 8.3.16-17]], [[sb/8/3/18#purport|SB 8.3.18]], [[sb/8/3/19#purport|SB 8.3.19]], [[sb/8/3/20-21#purport|SB 8.3.20-21]], [[sb/8/3/22-24#purport|SB 8.3.22-24]], [[sb/8/3/25-27#purport|SB 8.3.25-27]], [[sb/8/3/28#purport|SB 8.3.28]], [[sb/8/3/29#purport|SB 8.3.29]], [[sb/8/3/32#purport|SB 8.3.32]]
 * quoted on Lord, [[sb/8/3/2#purport|SB 8.3.2]]
+* rescued, [[sb/8/1/30#purport|SB 8.1.30]], [[sb/8/1/31#purport|SB 8.1.31]], [[sb/8/3/31#purport|SB 8.3.31]], [[sb/8/3/32#purport|SB 8.3.32]], [[sb/8/3/33#purport|SB 8.3.33]]
 * sārūpya-mukti attained by, [[sb/8/4/6#purport|SB 8.4.6]], [[sb/8/4/13#purport|SB 8.4.13]]
 * surrendered to Kṛṣṇa, [[sb/8/2/33#purport|SB 8.2.33]], [[sb/8/3/3#purport|SB 8.3.3]], [[sb/8/3/17#purport|SB 8.3.17]], [[sb/8/3/19#purport|SB 8.3.19]]
 * water weakened, [[sb/8/2/30#purport|SB 8.2.30]]

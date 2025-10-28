@@ -1,9 +1,9 @@
 # Bhaktivinoda Ṭhākura cited
 
-[[cc/antya/13/92#purport|Antya 13.92]], [[cc/antya/2/95#purport|Antya 2.95]], [[cc/madhya/8/294#purport|Madhya 8.294]]
+[[cc/madhya/8/294#purport|Madhya 8.294]], [[cc/antya/2/95#purport|Antya 2.95]], [[cc/antya/13/92#purport|Antya 13.92]]
 
 * association with, [[cc/antya/1/24#purport|Antya 1.24]]
-* Bhaktivinoda Ṭhākura quoted 
+* Bhaktivinoda Ṭhākura quoted
 * cited on materialistic education, [[sb/7/5/32#purport|SB 7.5.32]]
 * on Āmbuyā-muluka, [[cc/antya/2/16#purport|Antya 2.16]]
 * on anubhāva, [[cc/madhya/19/180#purport|Madhya 19.180]]
@@ -62,4 +62,4 @@
 * on Vidyānagara, [[cc/madhya/7/62#purport|Madhya 7.62]]
 * second-class, [[cc/madhya/22/74#purport|Madhya 22.74]], [[cc/madhya/24/277#purport|Madhya 24.277]]
 
-*See also:* [[b#Bhaktivinoda Ṭhākura quoted|Bhaktivinoda Ṭhākura quoted]]
+*See also:* Bhaktivinoda Ṭhākura quoted

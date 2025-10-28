@@ -10,4 +10,4 @@
 * Śiśupāla merged in, [[sb/3/2/19#purport|SB 3.2.19]]
 * via glorifying Lord, [[sb/3/6/36#purport|SB 3.6.36]]
 
-*See also:* [[b#Brahman|Brahman]]; [[i#Impersonalists|Impersonalists]]; [[j#Jñānīs|Jñānīs]]; [[l#Liberation|Liberation]]; [[m#Monists|Monists]]
+*See also:* [Brahman](entries/brahman.md); Impersonalists; Jñānīs; [Liberation](entries/liberation.md); Monists

@@ -1,4 +1,4 @@
-# Citizen(s)
+# Citizens
 
 * animals as, [[sb/4/21/22#purport|SB 4.21.22]]
 * as devotees, [[sb/9/4/21#purport|SB 9.4.21]]
@@ -21,4 +21,4 @@
 * saintly king satisfies, [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/9/66#purport|SB 4.9.66]], [[sb/4/12/12#purport|SB 4.12.12]]
 * training for, [[sb/9/10/50#purport|SB 9.10.50]]
 
-*See also:* [[p#People|People]]; [[p#Population|Population]]; [[s#Society|Society]]; human
+*See also:* [People](entries/people.md); [Population](entries/population.md); [Society](entries/society.md); human

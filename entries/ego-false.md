@@ -1,10 +1,11 @@
 # Ego, false
 
-[[sb/1/9/22#purport|SB 1.9.22]], [[sb/10/13/52#purport|SB 10.13.52]], [[sb/3/26/14#purport|SB 3.26.14]], [[sb/4/11/25#purport|SB 4.11.25]], [[sb/8/19/13#purport|SB 8.19.13]]
+[[sb/1/9/22#purport|SB 1.9.22]], [[sb/3/26/14#purport|SB 3.26.14]], [[sb/4/11/25#purport|SB 4.11.25]], [[sb/4/27/10#purport|SB 4.27.10]], [[sb/4/28/17#purport|SB 4.28.17]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/70#purport|SB 4.29.70]], [[sb/4/29/85#purport|SB 4.29.85]], [[sb/8/19/13#purport|SB 8.19.13]], [[sb/10/13/52#purport|SB 10.13.52]]
 
-* as ”I & mine,” [[sb/3/5/44#purport|SB 3.5.44]]
+* as ”I & mine,”, [[sb/3/5/44#purport|SB 3.5.44]]
 * as ahaṁ mamatā, [[sb/3/27/9#purport|SB 3.27.9]]
 * as dissolved for devotees of Lord, [[sb/1/2/21#purport|SB 1.2.21]]
+* as liberation, [[sb/3/27/16#purport|SB 3.27.16]]
 * as subtle body’s part, [[sb/7/2/47-47#purport|SB 7.2.47-47]]
 * at birth, [[sb/3/31/20#purport|SB 3.31.20]]
 * bodily identification as, [[sb/4/22/28#purport|SB 4.22.28]]
@@ -19,7 +20,7 @@
 * evolution of, [[sb/3/20/13#purport|SB 3.20.13]]
 * fear due to, [[sb/3/26/16#purport|SB 3.26.16]]
 * foolishness of, [[sb/3/12/11#purport|SB 3.12.11]]
-* freedom from 
+* freedom from
 * from mahat-tattva, [[sb/1/13/55#purport|SB 1.13.55]]
 * illusion due to, [[sb/3/1/16#purport|SB 3.1.16]]
 * in conditioned souls, [[sb/1/3/1#purport|SB 1.3.1]]
@@ -44,13 +45,13 @@
 * purification of, [[sb/4/24/43#purport|SB 4.24.43]]
 * qualities of, [[sb/3/26/26#purport|SB 3.26.26]]
 * renunciation of, [[sb/7/13/43-43#purport|SB 7.13.43-43]]
-*  [[sb/4/27/10#purport|SB 4.27.10]], [[sb/4/28/17#purport|SB 4.28.17]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/70#purport|SB 4.29.70]], [[sb/4/29/85#purport|SB 4.29.85]]
 * Śiva controls, [[sb/3/6/25#purport|SB 3.6.25]]
 * struggles of living entity due to, [[sb/4/29/62#purport|SB 4.29.62]]
 * transmigration of soul via, [[sb/4/20/29#purport|SB 4.20.29]]
 * two attitudes of, [[sb/4/26/1-3#purport|SB 4.26.1-3]]
 * under modes of nature, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
+* worship to Saṅkarṣaṇa for, [[sb/3/26/21#purport|SB 3.26.21]]
 
-*See also:* Bodily concept; [[i#Illusion|Illusion]]; [[p#Pride|Pride]]; [[b#Bodily concept of life|Bodily concept of life]]; Designations; material; [[d#Desires|Desires]]; Illusions; [[m#Māyā|Māyā]]; false; Duality; [[i#”I-&-mine” conception|”I-&-mine” conception]]
+*See also:* Bodily concept of life; [Illusion](entries/illusion.md); Māyā; Designations; material; Desires; Illusions; [Pride](entries/pride.md); false; Duality; ”I-&-mine” conception; Bodily concept
 
-*See:* [[e#Elements|Elements]]; material
+*See:* Elements; material

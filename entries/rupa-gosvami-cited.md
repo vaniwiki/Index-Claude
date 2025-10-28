@@ -1,8 +1,8 @@
 # Rūpa Gosvāmī cited
 
-[[cc/adi/7/150#purport|Ādi 7.150]], [[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/16/72#purport|Madhya 16.72]], [[cc/madhya/19/167#purport|Madhya 19.167]], [[cc/madhya/24/330#purport|Madhya 24.330]]
+[[cc/adi/7/150#purport|Ādi 7.150]], [[cc/madhya/16/72#purport|Madhya 16.72]], [[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/19/167#purport|Madhya 19.167]], [[cc/madhya/24/330#purport|Madhya 24.330]]
 
-* aaRūpa Gosvāmī quoted 
+* aaRūpa Gosvāmī quoted
 * on advanced devotee, [[sb/4/24/67#purport|SB 4.24.67]]
 * on best of persons, [[cc/adi/7/18–19#purport|Ādi 7.18–19]]
 * on Caitanya, [[cc/adi/4/41#purport|Ādi 4.41]], **[[cc/adi/4/51–52#translation|Ādi 4.51–52]]**
@@ -38,8 +38,8 @@
 * on renunciation, [[cc/madhya/1/91#purport|Madhya 1.91]]
 * on respect for devotee, [[cc/madhya/15/111#purport|Madhya 15.111]]
 * on spiritual life without śruti & smṛti, [[sb/4/18/3#purport|SB 4.18.3]]
-* on spiritual master, acceptance of, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
 * on spiritual master, [[cc/adi/7/37#purport|Ādi 7.37]], [[cc/adi/7/64#purport|Ādi 7.64]]
+* on spiritual master, acceptance of, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
 * on spiritual success, [[cc/madhya/11/52#purport|Madhya 11.52]]
 
-*See also:* [[r#Rūpa Gosvāmī quoted|Rūpa Gosvāmī quoted]]
+*See also:* Rūpa Gosvāmī quoted

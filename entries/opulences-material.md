@@ -21,4 +21,4 @@
 * renunciation of, [[sb/7/15/22-22#purport|SB 7.15.22-22]]
 * Yudhiṣṭhira used, [[sb/7/10/1#purport|SB 7.10.1]]
 
-*See also:* [[m#Money|Money]]
+*See also:* [Money](entries/money.md)

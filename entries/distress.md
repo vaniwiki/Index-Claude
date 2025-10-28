@@ -8,6 +8,6 @@
 * material life as, [[sb/3/28/36#purport|SB 3.28.36]]
 * material vs. spiritual, [[sb/4/3/15#purport|SB 4.3.15]]
 
-*See also:* [[m#Miseries|Miseries]]; [[m#Misery|Misery]]; [[s#Suffering|Suffering]]
+*See also:* [Misery](entries/miseries.md); [Suffering](entries/sufferings.md); Miseries
 
-*See:* [[s#Suffering|Suffering]]; [[m#Misery|Misery]]
+*See:* [Misery](entries/miseries.md); [Suffering](entries/sufferings.md)

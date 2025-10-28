@@ -1,7 +1,8 @@
 # Śukrācārya
 
-[[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/2/7/17#purport|SB 2.7.17]], [[sb/3/21/28#purport|SB 3.21.28]], [[sb/4/1/45#purport|SB 4.1.45]], [[sb/6/7/39#purport|SB 6.7.39]], [[sb/8/6/19#purport|SB 8.6.19]]
+[[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/1/14/42#purport|SB 1.14.42]], [[sb/2/7/17#purport|SB 2.7.17]], [[sb/3/21/28#purport|SB 3.21.28]], [[sb/4/1/45#purport|SB 4.1.45]], [[sb/5/1/34#purport|SB 5.1.34]], [[sb/5/5/18#purport|SB 5.5.18]], [[sb/6/7/39#purport|SB 6.7.39]], [[sb/8/6/19#purport|SB 8.6.19]]
 
+* advised by, on charity promises, [[sb/8/19/36#purport|SB 8.19.36]], [[sb/8/19/38#purport|SB 8.19.38]], [[sb/8/19/41-41#purport|SB 8.19.41-41]], [[sb/8/19/42#purport|SB 8.19.42]], [[sb/8/19/43#purport|SB 8.19.43]]
 * as atheists’ priest, [[sb/7/5/1#purport|SB 7.5.1]]
 * as Bhṛgu’s descendant, [[sb/8/15/3#purport|SB 8.15.3]]
 * as brāhmaṇa, [[sb/9/18/5-5#purport|SB 9.18.5-5]]
@@ -11,21 +12,28 @@
 * as materialist, [[sb/8/20/2#purport|SB 8.20.2]]
 * as professional priest, [[sb/8/20/7#purport|SB 8.20.7]], [[sb/8/20/14#purport|SB 8.20.14]]
 * as smārta-brāhmaṇa, [[sb/8/19/33#purport|SB 8.19.33]], [[sb/8/23/16#purport|SB 8.23.16]]
-* Bali 
+* Bali
 * Bali’s sacrifices corrected by, [[sb/8/23/18#purport|SB 8.23.18]]
 * Bali’s soldiers rejuvenated by, [[sb/9/3/11#purport|SB 9.3.11]]
 * Bṛhaspati vs., [[sb/8/10/32-34#purport|SB 8.10.32-34]]
+* cursed by, [[sb/8/20/14#purport|SB 8.20.14]], [[sb/8/20/15#purport|SB 8.20.15]], [[sb/8/23/14#purport|SB 8.23.14]], [[sb/8/23/15#purport|SB 8.23.15]]
+* defied, [[sb/8/15/31#purport|SB 8.15.31]]
 * demons advised to fight by, [[sb/6/7/18#purport|SB 6.7.18]]
 * demons get strength from, [[sb/6/7/23#purport|SB 6.7.23]], [[sb/6/7/24#purport|SB 6.7.24]]
 * demons revived by, [[sb/8/11/47#purport|SB 8.11.47]]
+* disciple of, [[sb/8/15/3#purport|SB 8.15.3]], [[sb/8/15/23#purport|SB 8.15.23]], [[sb/8/15/28#purport|SB 8.15.28]], [[sb/8/15/31#purport|SB 8.15.31]], [[sb/8/19/41#purport|SB 8.19.41]], [[sb/8/20/6#purport|SB 8.20.6]], [[sb/8/20/14#purport|SB 8.20.14]], [[sb/8/21/32#purport|SB 8.21.32]]
+* gifted by, [[sb/8/15/5#purport|SB 8.15.5]], [[sb/8/15/8-9#purport|SB 8.15.8-9]], [[sb/8/15/23#purport|SB 8.15.23]]
 * Lord foiled, [[sb/8/10/56#purport|SB 8.10.56]]
 * misused mystic power, [[sb/9/19/10#purport|SB 9.19.10]]
 * name of, [[sb/7/5/1#purport|SB 7.5.1]], [[sb/7/5/31#purport|SB 7.5.31]]
 * Prahlāda enthroned by, [[sb/7/10/33#purport|SB 7.10.33]]
 * priestly profession condemned by, [[sb/9/18/25-25#purport|SB 9.18.25-25]]
-* quoted. See: Śukrācārya quoted 
-*  [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/1/14/42#purport|SB 1.14.42]], [[sb/5/1/34#purport|SB 5.1.34]], [[sb/5/5/18#purport|SB 5.5.18]]
+* quoted. See: Śukrācārya quoted
+* rejected, [[sb/8/20/1#purport|SB 8.20.1]], [[sb/8/20/2#purport|SB 8.20.2]], [[sb/8/20/6-8#purport|SB 8.20.6-8]], [[sb/8/20/14-16#purport|SB 8.20.14-16]], [[sb/8/22/9#purport|SB 8.22.9]]
+* revived by, [[sb/8/11/48#purport|SB 8.11.48]], [[sb/8/15/3#purport|SB 8.15.3]]
 * sons of, [[sb/7/5/1#purport|SB 7.5.1]], [[sb/7/5/48#purport|SB 7.5.48]], [[sb/7/6/29-30#purport|SB 7.6.29-30]], [[sb/7/8/2#purport|SB 7.8.2]]
 * Vāmana’s purpose detected by, [[sb/8/19/29-35#purport|SB 8.19.29-35]]
 * Vṛṣaparvā &, [[sb/9/18/26-29#purport|SB 9.18.26-29]]
+* vs., [[sb/8/20/14#purport|SB 8.20.14]]
+* warned by, about Vāmana, [[sb/8/19/29-35#purport|SB 8.19.29-35]]
 * Yayāti &, [[sb/9/18/30#purport|SB 9.18.30]], [[sb/9/18/32#purport|SB 9.18.32]], [[sb/9/18/36#purport|SB 9.18.36]], [[sb/9/18/37#purport|SB 9.18.37]], [[sb/9/19/10#purport|SB 9.19.10]]

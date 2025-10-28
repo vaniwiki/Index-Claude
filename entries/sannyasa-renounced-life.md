@@ -9,4 +9,4 @@
 * premature, condemned, [[sb/8/2/30#purport|SB 8.2.30]]
 * sex forbidden in, [[sb/8/2/30#purport|SB 8.2.30]]
 
-*See also:* [[r#Renunciation|Renunciation]]
+*See also:* [Renunciation](entries/renunciation.md)

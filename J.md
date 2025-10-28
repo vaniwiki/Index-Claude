@@ -22,11 +22,11 @@
 
 ### [Jaḍa Bharata](entries/jada-bharata.md)
 
-[[bg/6/43|Bg. 6.43]], [[cc/madhya/22/52#purport|Madhya 22.52]], [[sb/2/3/23#purport|SB 2.3.23]]...
+[[bg/6/43|Bg. 6.43]]...
 
-* ants shown compassion by, [[sb/5/10/2#purport|SB 5.10.2]]
+* ants shown compassion by,, [[sb/5/10/2#purport|SB 5.10.2]]
 
-*→ See all 43 references in* [Jaḍa Bharata](entries/jada-bharata.md)
+*→ See all 57 references in* [Jaḍa Bharata](entries/jada-bharata.md)
 
 ---
 
@@ -39,9 +39,9 @@
 
 ### [Jaḍa Bharata quoted](entries/jada-bharata-quoted.md)
 
-* on Absolute Truth, realization of, [[sb/5/12/12#purport|SB 5.12.12]]
+* as living entities’ greatest enemy,, [[sb/5/11/17#purport|SB 5.11.17]]
 
-*→ See all 33 references in* [Jaḍa Bharata quoted](entries/jada-bharata-quoted.md)
+*→ See all 41 references in* [Jaḍa Bharata quoted](entries/jada-bharata-quoted.md)
 
 ---
 
@@ -73,13 +73,13 @@
 
 ---
 
-### Jagad-guru
+### [Jagad-guru](entries/jagad-guru.md)
 
-[[cc/adi/7/50#purport|Ādi 7.50]], [[cc/adi/7/64#purport|Ādi 7.64]], [[cc/adi/7/83#purport|Ādi 7.83]], [[cc/antya/5/85#purport|Antya 5.85]], [[cc/antya/7/12#purport|Antya 7.12]]
+[[cc/adi/7/50#purport|Ādi 7.50]]...
 
-* bogus, compared with bona fide, [[sb/8/16/20#purport|SB 8.16.20]]
+* bogus, compared with bona fide,, [[sb/8/16/20#purport|SB 8.16.20]]
 
-*See also:* [[s#Spiritual master|Spiritual master]]
+*→ See all 7 references in* [Jagad-guru](entries/jagad-guru.md)
 
 ---
 
@@ -106,9 +106,9 @@
 
 ### [Jagadānanda Paṇḍita](entries/jagadananda-pandita.md)
 
-**[[cc/antya/12/149–51#translation|Antya 12.149–51]]**, **[[cc/antya/13/20#translation|Antya 13.20]]**, **[[cc/antya/13/40#translation|Antya 13.40]]**...
+**[[cc/madhya/1/100#translation|Madhya 1.100]]**...
 
-* Advaita &, **[[cc/antya/12/97#translation|Antya 12.97]]**, **[[cc/antya/19/16–22#translation|Antya 19.16–22]]**
+* Advaita &,, **[[cc/antya/12/97#translation|Antya 12.97]]**, **[[cc/antya/19/16–22#translation|Antya 19.16–22]]**
 
 *→ See all 58 references in* [Jagadānanda Paṇḍita](entries/jagadananda-pandita.md)
 
@@ -151,9 +151,9 @@
 
 ### [Jagāi & Mādhāi](entries/jagai-madhai.md)
 
-**[[cc/adi/10/120#translation|Ādi 10.120]]**, [[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/16/1#purport|Ādi 16.1]]...
+[[bg/7/15|Bg. 7.15]] (9)...
 
-*  [[bg/7/15|Bg. 7.15]] (9)
+* Kṛṣṇadāsa Kavirāja &,, [[sb/7/1/27#purport|SB 7.1.27]], [[sb/7/9/8#purport|SB 7.9.8]]
 
 *→ See all 16 references in* [Jagāi & Mādhāi](entries/jagai-madhai.md)
 
@@ -221,9 +221,9 @@
 
 ### [Jagannātha dāsa Bābājī](entries/jagannatha-dasa-babaji.md)
 
-**[[cc/antya/10/154–56#translation|Antya 10.154–56]]**, **[[cc/antya/16/105–9#translation|Antya 16.105–9]]**, **[[cc/antya/16/108–14#translation|Antya 16.108–14]]**...
+[[bg/31|Bg. 31]]...
 
-* “illness” by, [[cc/madhya/13/8#purport|Madhya 13.8]]
+* “illness” by,, [[cc/madhya/13/8#purport|Madhya 13.8]]
 
 *→ See all 77 references in* [Jagannātha dāsa Bābājī](entries/jagannatha-dasa-babaji.md)
 
@@ -238,9 +238,9 @@
 
 ### [Jagannātha Miśra](entries/jagannatha-misra.md)
 
-**[[cc/adi/13/86#translation|Ādi 13.86]]**, **[[cc/adi/15/11–13#translation|Ādi 15.11–13]]**, **[[cc/madhya/9/301#translation|Madhya 9.301]]**...
+**[[cc/madhya/9/301#translation|Madhya 9.301]]**...
 
-* about Caitanya, **[[cc/adi/14/71#translation|Ādi 14.71]]**
+* about Caitanya,, **[[cc/adi/14/71#translation|Ādi 14.71]]**
 
 *→ See all 34 references in* [Jagannātha Miśra](entries/jagannatha-misra.md)
 
@@ -248,7 +248,9 @@
 
 ### [Jagannātha Purī](entries/jagannatha-puri.md)
 
-* as holy place, [[sb/5/8/31#purport|SB 5.8.31]]
+[[sb/3/1/17#purport|SB 3.1.17]], [[sb/3/4/22#purport|SB 3.4.22]]...
+
+* as holy place,, [[sb/5/8/31#purport|SB 5.8.31]]
 
 *→ See all 6 references in* [Jagannātha Purī](entries/jagannatha-puri.md)
 
@@ -271,9 +273,9 @@
 
 ### [Jagannātha temple](entries/jagannatha-temple.md)
 
-**[[cc/antya/4/127#translation|Antya 4.127]]**, **[[cc/madhya/10/29–31#translation|Madhya 10.29–31]]**, **[[cc/madhya/11/195#translation|Madhya 11.195]]**...
+**[[cc/madhya/10/29–31#translation|Madhya 10.29–31]]**...
 
-* by Caitanya & associates, **[[cc/madhya/11/213–14#translation|Madhya 11.213–14]]**
+* by Caitanya & associates,, **[[cc/madhya/11/213–14#translation|Madhya 11.213–14]]**
 
 *→ See all 23 references in* [Jagannātha temple](entries/jagannatha-temple.md)
 
@@ -295,9 +297,9 @@
 
 ### [Jagannātha-pura](entries/jagannatha-pura.md)
 
-[[cc/adi/11/24#purport|Ādi 11.24]], **[[cc/adi/13/34#translation|Ādi 13.34]]**, **[[cc/antya/1/13–25#translation|Antya 1.13–25]]**...
+[[cc/adi/11/24#purport|Ādi 11.24]]...
 
-* Acyutānanda &, [[cc/adi/12/17#purport|Ādi 12.17]]
+* Acyutānanda &,, [[cc/adi/12/17#purport|Ādi 12.17]]
 
 *→ See all 79 references in* [Jagannātha-pura](entries/jagannatha-pura.md)
 
@@ -310,17 +312,15 @@
 
 ---
 
-### Jagannātha-vallabha-nāṭaka
+### [Jagannātha-vallabha-nāṭaka](entries/jagannatha-vallabha-nataka.md)
 
-[[cc/adi/10/134#purport|Ādi 10.134]], [[cc/adi/10/84#purport|Ādi 10.84]], [[cc/antya/20/68#purport|Antya 20.68]], [[cc/antya/5/14#purport|Antya 5.14]], [[cc/antya/5/20#purport|Antya 5.20]], **[[cc/madhya/2/17–18#translation|Madhya 2.17–18]]**, **[[cc/madhya/2/36#translation|Madhya 2.36]]**, **[[cc/madhya/2/77#translation|Madhya 2.77]]**
-
+[[cc/adi/10/84#purport|Ādi 10.84]]
 
 ---
 
-### Jagannātha, Lord
+### [Jagannātha, Lord](entries/jagannatha-lord.md)
 
-**[[cc/antya/2/60#translation|Antya 2.60]]**, **[[cc/antya/2/64#translation|Antya 2.64]]**, **[[cc/antya/2/67#translation|Antya 2.67]]**, **[[cc/antya/2/71#translation|Antya 2.71]]**, [[sb/2/3/21#purport|SB 2.3.21]], [[sb/3/16/2#purport|SB 3.16.2]]
-
+**[[cc/antya/2/60#translation|Antya 2.60]]**
 
 ---
 
@@ -359,10 +359,9 @@
 
 ---
 
-### Jāhnavā-mātā
+### [Jāhnavā-mātā](entries/jahnava-mata.md)
 
-[[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/11/21#purport|Ādi 11.21]], [[cc/adi/11/25#purport|Ādi 11.25]], [[cc/adi/11/29#purport|Ādi 11.29]], [[cc/adi/11/39#purport|Ādi 11.39]], [[cc/adi/11/40#purport|Ādi 11.40]], [[cc/adi/11/8#purport|Ādi 11.8]], [[cc/adi/13/61#purport|Ādi 13.61]]
-
+[[cc/adi/11/21#purport|Ādi 11.21]]
 
 ---
 
@@ -409,9 +408,9 @@
 
 ### [Jaimini](entries/jaimini.md)
 
-[[cc/adi/7/106#purport|Ādi 7.106]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/17/96#purport|Madhya 17.96]]...
+[[cc/adi/7/106#purport|Ādi 7.106]]...
 
-* as philosopher, [[sb/1/17/18#purport|SB 1.17.18]]
+* as philosopher,, [[sb/1/17/18#purport|SB 1.17.18]]
 
 *→ See all 11 references in* [Jaimini](entries/jaimini.md)
 
@@ -489,9 +488,9 @@
 
 ### [Jamadagni](entries/jamadagni.md)
 
-[[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/9/7/22#purport|SB 9.7.22]]...
+[[sb/1/9/6-7#purport|SB 1.9.6-7]]...
 
-* agnihotra sacrifice by, [[sb/9/15/25#purport|SB 9.15.25]]
+* agnihotra sacrifice by,, [[sb/9/15/25#purport|SB 9.15.25]]
 
 *→ See all 13 references in* [Jamadagni](entries/jamadagni.md)
 
@@ -502,7 +501,7 @@
 [[sb/1/3/28#purport|SB 1.3.28]]
 
 
-*See:* [[p#Paraśurāma|Paraśurāma]]
+*See:* Paraśurāma
 
 ---
 
@@ -569,7 +568,7 @@
 
 [[cc/madhya/20/218#purport|Madhya 20.218]]...
 
-* Āgnīdhra protects residents of, [[sb/5/2/1#purport|SB 5.2.1]]
+* Āgnīdhra protects residents of,, [[sb/5/2/1#purport|SB 5.2.1]]
 
 *→ See all 11 references in* [Jambudvīpa](entries/jambudvipa.md)
 
@@ -603,13 +602,13 @@
 
 ---
 
-### Janaka, King
+### [Janaka, King](entries/janaka-king.md)
 
-[[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/9/201#purport|Madhya 9.201]], [[sb/1/19/9-10#purport|SB 1.19.9-10]]
+[[bg/3/20|Bg. 3.20]], [[bg/4/16|Bg. 4.16]], [[bg/7/15|Bg. 7.15]] (2)...
 
-* as mahājana, [[sb/1/9/19#purport|SB 1.9.19]]
-*  [[bg/3/20|Bg. 3.20]], [[bg/4/16|Bg. 4.16]], [[bg/7/15|Bg. 7.15]] (2)
-* bow sacrifice of, [[sb/1/12/19#purport|SB 1.12.19]]
+* as mahājana,, [[sb/1/9/19#purport|SB 1.9.19]]
+
+*→ See all 7 references in* [Janaka, King](entries/janaka-king.md)
 
 ---
 
@@ -706,13 +705,13 @@
 
 ---
 
-### Janārdana, Lord
+### [Janārdana, Lord](entries/janardana-lord.md)
 
-**[[cc/madhya/20/204#translation|Madhya 20.204]]**, **[[cc/madhya/20/206#translation|Madhya 20.206]]**, **[[cc/madhya/20/216#translation|Madhya 20.216]]**, [[cc/madhya/20/217#purport|Madhya 20.217]], **[[cc/madhya/20/234#translation|Madhya 20.234]]**
+**[[cc/madhya/20/204#translation|Madhya 20.204]]**...
 
-* protection by, [[sb/6/8/22#purport|SB 6.8.22]]
+* protection by,, [[sb/6/8/22#purport|SB 6.8.22]]
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*→ See all 7 references in* [Janārdana, Lord](entries/janardana-lord.md)
 
 ---
 
@@ -748,11 +747,9 @@
 
 ---
 
-### Janmāṣṭamī
+### [Janmāṣṭamī](entries/janmastami.md)
 
-**[[cc/madhya/1/146#translation|Madhya 1.146]]**, [[cc/madhya/1/35#purport|Madhya 1.35]], [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/15/17–31#purport|Madhya 15.17–31]], **[[cc/madhya/24/340–41#translation|Madhya 24.340–41]]**, [[sb/1/11/24#purport|SB 1.11.24]]
-
-*  [[bg/11/54|Bg. 11.54]] (1)
+[[bg/11/54|Bg. 11.54]] (1)
 
 ---
 
@@ -783,7 +780,7 @@
 
 * Nārada & devotees untouched by, [[sb/4/27/21-23#purport|SB 4.27.21-23]], [[sb/4/27/30#purport|SB 4.27.30]]
 
-*See also:* [[k#Kālakanyā|Kālakanyā]]; [[o#Old age|Old age]]; [[t#Time|Time]]; daughter of
+*See also:* Kālakanyā; Old age; [Time](entries/time.md); daughter of
 
 ---
 
@@ -796,9 +793,9 @@
 
 ### [Jarāsandha](entries/jarasandha.md)
 
-[[cc/adi/4/15–16#purport|Ādi 4.15–16]], **[[cc/adi/6/73#translation|Ādi 6.73]]**, **[[cc/adi/8/8#translation|Ādi 8.8]]**...
+[[cc/adi/4/15–16#purport|Ādi 4.15–16]]...
 
-* as ”Kṛṣṇa conscious,” [[sb/1/13/11#purport|SB 1.13.11]]
+* as ”Kṛṣṇa conscious,”, [[sb/1/13/11#purport|SB 1.13.11]]
 
 *→ See all 15 references in* [Jarāsandha](entries/jarasandha.md)
 
@@ -822,7 +819,7 @@
 
 * defined, [[sb/8/18/13#purport|SB 8.18.13]]
 
-*See also:* [[r#Ritualistic ceremonies|Ritualistic ceremonies]]
+*See also:* Ritualistic ceremonies
 
 ---
 
@@ -988,11 +985,11 @@
 
 ### [Jaya & Vijaya](entries/jaya-vijaya.md)
 
-[[cc/adi/10/120#purport|Ādi 10.120]], [[cc/adi/5/36#purport|Ādi 5.36]], [[cc/madhya/17/142#purport|Madhya 17.142]]...
+[[cc/adi/5/36#purport|Ādi 5.36]]...
 
-* ”fall” of, as Lord’s pastime, [[sb/7/1/35#purport|SB 7.1.35]]
+* ”fall” of, as Lord’s pastime,, [[sb/7/1/35#purport|SB 7.1.35]]
 
-*→ See all 18 references in* [Jaya & Vijaya](entries/jaya-vijaya.md)
+*→ See all 21 references in* [Jaya & Vijaya](entries/jaya-vijaya.md)
 
 ---
 
@@ -1032,11 +1029,11 @@
 
 ### [Jayadeva Gosvāmī](entries/jayadeva-gosvami.md)
 
-**[[cc/adi/13/42#translation|Ādi 13.42]]**, **[[cc/adi/16/101#translation|Ādi 16.101]]**, [[cc/adi/17/117#purport|Ādi 17.117]]...
+[[cc/adi/4/219#purport|Ādi 4.219]]...
 
-* cited on Matsya, [[sb/5/18/25#purport|SB 5.18.25]]
+* cited on Matsya,, [[sb/5/18/25#purport|SB 5.18.25]]
 
-*→ See all 16 references in* [Jayadeva Gosvāmī](entries/jayadeva-gosvami.md)
+*→ See all 17 references in* [Jayadeva Gosvāmī](entries/jayadeva-gosvami.md)
 
 ---
 
@@ -1185,7 +1182,7 @@
 ### Jealousy
 
 
-*See:* [[e#Envy|Envy]]
+*See:* [Envy](entries/envy.md)
 
 ---
 
@@ -1197,11 +1194,11 @@
 
 ---
 
-### Jesus Christ, Lord
+### [Jesus Christ, Lord](entries/jesus-christ-lord.md)
 
-[[sb/2/8/6#purport|SB 2.8.6]], [[sb/3/16/37#purport|SB 3.16.37]], [[sb/3/25/21#purport|SB 3.25.21]], [[sb/6/10/9#purport|SB 6.10.9]], [[sb/7/15/10#purport|SB 7.15.10]]
+[[sb/2/8/6#purport|SB 2.8.6]]...
 
-* glorifies Lord, [[sb/2/2/36#purport|SB 2.2.36]], [[sb/2/4/18#purport|SB 2.4.18]]
+* glorifies Lord,, [[sb/2/2/36#purport|SB 2.2.36]], [[sb/2/4/18#purport|SB 2.4.18]]
 
 ---
 
@@ -1210,15 +1207,15 @@
 [[sb/4/22/44#purport|SB 4.22.44]]
 
 
-*See also:* [[g#Gold|Gold]]; [[m#Money|Money]]; Opulences; material
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); Opulences; material
 
 ---
 
-### [Jewel(s)](entries/jewels.md)
+### [Jewels](entries/jewels.md)
 
-* compared to education, [[sb/9/4/70#purport|SB 9.4.70]]
+* compared to education,, [[sb/9/4/70#purport|SB 9.4.70]]
 
-*→ See all 6 references in* [Jewel(s)](entries/jewels.md)
+*→ See all 6 references in* [Jewels](entries/jewels.md)
 
 ---
 
@@ -1261,10 +1258,7 @@
 
 ### [Jhārikhaṇḍa forest](entries/jharikhanda-forest.md)
 
-[[cc/adi/10/84#purport|Ādi 10.84]], **[[cc/antya/3/73#translation|Antya 3.73]]**, **[[cc/antya/4/203#translation|Antya 4.203]]**...
-
-
-*→ See all 11 references in* [Jhārikhaṇḍa forest](entries/jharikhanda-forest.md)
+[[cc/adi/10/84#purport|Ādi 10.84]]
 
 ---
 
@@ -1326,19 +1320,11 @@
 
 ---
 
-### [Jīva](entries/jiva.md)
-
-* as *Gītā’s* subject, 7, 8, 9 
-
-*→ See all 6 references in* [Jīva](entries/jiva.md)
-
----
-
 ### Jīva (ātmā) defined
 
 *  [[sb/4/20/7#purport|SB 4.20.7]], [[sb/4/22/26#purport|SB 4.22.26]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/24/28#purport|SB 4.24.28]], [[sb/4/24/64#purport|SB 4.24.64]]
 
-*See also:* [[l#Living entities|Living entities]]; [[s#Souls|Souls]]
+*See also:* Living entities; Souls
 
 ---
 
@@ -1354,27 +1340,27 @@
 [[sb/9/11/1#purport|SB 9.11.1]]
 
 
-*See also:* Living entity; [[s#Souls|Souls]]
+*See also:* Living entity; Souls
 
 ---
 
 ### [Jīva Gosvāmī](entries/jiva-gosvami.md)
 
-[[bg/31|Bg. 31]], **[[cc/madhya/18/50#translation|Madhya 18.50]]**, [[sb/1/1/1#purport|SB 1.1.1]]...
+[[bg/31|Bg. 31]]...
 
-* “Prabhupāda” title &, [[cc/adi/10/7#purport|Ādi 10.7]]
+* “Prabhupāda” title &,, [[cc/adi/10/7#purport|Ādi 10.7]]
 
-*→ See all 33 references in* [Jīva Gosvāmī](entries/jiva-gosvami.md)
+*→ See all 36 references in* [Jīva Gosvāmī](entries/jiva-gosvami.md)
 
 ---
 
 ### [Jīva Gosvāmī cited](entries/jiva-gosvami-cited.md)
 
-[[cc/madhya/16/186#purport|Madhya 16.186]], [[cc/madhya/18/125#purport|Madhya 18.125]]...
+[[cc/madhya/16/186#purport|Madhya 16.186]]...
 
-* Jīva Gosvāmī quoted , 
+* as God,, [[sb/1/16/26-30#purport|SB 1.16.26-30]]
 
-*→ See all 84 references in* [Jīva Gosvāmī cited](entries/jiva-gosvami-cited.md)
+*→ See all 86 references in* [Jīva Gosvāmī cited](entries/jiva-gosvami-cited.md)
 
 ---
 
@@ -1387,7 +1373,7 @@
 
 ### [Jīva Gosvāmī quoted](entries/jiva-gosvami-quoted.md)
 
-* Jīva Gosvāmī cited , 
+* Jīva Gosvāmī cited
 
 *→ See all 15 references in* [Jīva Gosvāmī quoted](entries/jiva-gosvami-quoted.md)
 
@@ -1455,9 +1441,9 @@
 * Lord protects, [[sb/1/14/32-33#purport|SB 1.14.32-33]]
 * Viṣṇu-tattva compared with, [[sb/1/14/28-29#purport|SB 1.14.28-29]], [[sb/1/14/32-33#purport|SB 1.14.32-33]]
 
-*See also:* [[l#Living entities|Living entities]]
+*See also:* Living entities
 
-*See:* [[l#Living entities|Living entities]]; [[s#Souls|Souls]]
+*See:* Living entities; Souls
 
 ---
 
@@ -1466,7 +1452,7 @@
 [[sb/4/19/3#purport|SB 4.19.3]], [[sb/8/3/22-24#purport|SB 8.3.22-24]]
 
 
-*See also:* [[l#Living entities|Living entities]]; [[s#Souls|Souls]]
+*See also:* Living entities; Souls
 
 ---
 
@@ -1474,9 +1460,9 @@
 
 [[sb/4/1/15#purport|SB 4.1.15]]...
 
-* defined, [[sb/2/2/1#purport|SB 2.2.1]], [[sb/2/5/34#purport|SB 2.5.34]], [[sb/2/10/9#purport|SB 2.10.9]], [[sb/2/10/12#purport|SB 2.10.12]], [[sb/3/25/17#purport|SB 3.25.17]], [[sb/7/14/37#purport|SB 7.14.37]]
+* as *Gītā’s* subject, 7, 8, 9
 
-*→ See all 12 references in* [Jīva(s)](entries/jivas.md)
+*→ See all 18 references in* [Jīva(s)](entries/jivas.md)
 
 ---
 
@@ -1486,7 +1472,7 @@
 
 * defined, [[sb/1/15/42#purport|SB 1.15.42]]
 
-*See also:* [[l#Liberation|Liberation]]
+*See also:* [Liberation](entries/liberation.md)
 
 ---
 
@@ -1524,7 +1510,7 @@
 [[bg/8/3|Bg. 8.3]]
 
 
-*See also:* Conditioneds soul; [[l#Living entity (entities)|Living entity (entities)]]
+*See also:* Conditioneds soul; Living entity (entities)
 
 ---
 
@@ -1546,7 +1532,7 @@
 
 ### [Jñāna](entries/jnana.md)
 
-* Brahman existence attained via, [[sb/5/19/25#purport|SB 5.19.25]]
+* Brahman existence attained via,, [[sb/5/19/25#purport|SB 5.19.25]]
 
 *→ See all 21 references in* [Jñāna](entries/jnana.md)
 
@@ -1556,7 +1542,7 @@
 
 *  [[sb/4/25/11#purport|SB 4.25.11]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/31/12-13#purport|SB 4.31.12-13]], [[sb/4/31/14#purport|SB 4.31.14]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
 ---
 
@@ -1573,7 +1559,7 @@
 
 *  [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/22/33#purport|SB 4.22.33]], [[sb/4/23/12#purport|SB 4.23.12]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
 ---
 
@@ -1605,15 +1591,13 @@
 
 ---
 
-### Jñāna-kāṇḍa
+### [Jñāna-kāṇḍa](entries/jnana-kanda.md)
 
-[[cc/madhya/1/198#purport|Madhya 1.198]], [[cc/madhya/11/31#purport|Madhya 11.31]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/9/263#purport|Madhya 9.263]], [[sb/1/1/2#purport|SB 1.1.2]]
+[[cc/madhya/1/198#purport|Madhya 1.198]]...
 
-* defined, [[sb/1/12/29#purport|SB 1.12.29]]
-* devotees reject, [[sb/7/10/12#purport|SB 7.10.12]], [[sb/7/15/2#purport|SB 7.15.2]]
-* life ruined via, [[sb/7/10/12#purport|SB 7.10.12]], [[sb/7/15/52#purport|SB 7.15.52]]
+* defined,, [[sb/1/12/29#purport|SB 1.12.29]]
 
-*See also:* [[k#Knowledge|Knowledge]]; spiritual
+*→ See all 9 references in* [Jñāna-kāṇḍa](entries/jnana-kanda.md)
 
 ---
 
@@ -1629,7 +1613,7 @@
 [[bg/4/33|Bg. 4.33]], [[sb/2/9/42#purport|SB 2.9.42]], [[sb/4/20/30#purport|SB 4.20.30]]
 
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
 ---
 
@@ -1663,9 +1647,9 @@
 
 ### [Jñāna-yoga](entries/jnana-yoga.md)
 
-[[cc/adi/4/21–22#purport|Ādi 4.21–22]], [[sb/1/2/15#purport|SB 1.2.15]], [[sb/3/23/57#purport|SB 3.23.57]]...
+[[cc/adi/4/21–22#purport|Ādi 4.21–22]]...
 
-* as inferior, [[sb/2/7/48#purport|SB 2.7.48]]
+* as inferior,, [[sb/2/7/48#purport|SB 2.7.48]]
 
 *→ See all 10 references in* [Jñāna-yoga](entries/jnana-yoga.md)
 
@@ -1687,9 +1671,9 @@
 
 ### [Jñāna/Jñānīs](entries/jnana-jnanis.md)
 
-[[cc/madhya/15/106#purport|Madhya 15.106]], [[cc/madhya/19/17#purport|Madhya 19.17]], **[[cc/madhya/22/145–46#translation|Madhya 22.145–46]]**...
+[[cc/madhya/15/106#purport|Madhya 15.106]]...
 
-* Absolute Truth attained via, **[[cc/madhya/24/79#translation|Madhya 24.79]]**, [[cc/madhya/19/147#purport|Madhya 19.147]]
+* Absolute Truth attained via,, **[[cc/madhya/24/79#translation|Madhya 24.79]]**, [[cc/madhya/19/147#purport|Madhya 19.147]]
 
 *→ See all 17 references in* [Jñāna/Jñānīs](entries/jnana-jnanis.md)
 
@@ -1716,13 +1700,13 @@
 
 ---
 
-### [Jñānī(s)](entries/jnanis.md)
+### [Jñānīs](entries/jnanis.md)
 
-[[cc/antya/5/121#purport|Antya 5.121]], [[sb/10/13/54#purport|SB 10.13.54]], [[sb/4/8/61#purport|SB 4.8.61]]...
+[[cc/antya/5/121#purport|Antya 5.121]]...
 
-* Absolute Truth misunderstood by, [[sb/4/22/9#purport|SB 4.22.9]]
+* Absolute Truth misunderstood by,, [[sb/4/22/9#purport|SB 4.22.9]]
 
-*→ See all 68 references in* [Jñānī(s)](entries/jnanis.md)
+*→ See all 70 references in* [Jñānīs](entries/jnanis.md)
 
 ---
 

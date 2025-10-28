@@ -12,4 +12,4 @@
 * Prahlāda disliked, [[sb/7/5/3-3#purport|SB 7.5.3-3]]
 * worldly, compared to stone boat, [[sb/6/7/14-14#purport|SB 6.7.14-14]]
 
-*See also:* [[d#Diplomacy|Diplomacy]]; [[g#Government|Government]]; Governments; Kings; [[k#Kṣatriyas|Kṣatriyas]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* [Diplomacy](entries/diplomacy.md); [Government](entries/governments.md); Governments; Kings; Kṣatriyas; Varṇāśrama-dharma

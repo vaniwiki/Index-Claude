@@ -1,6 +1,6 @@
 # Pride
 
-**[[cc/antya/7/128#translation|Antya 7.128]]**, **[[cc/antya/7/134#translation|Antya 7.134]]**, [[bg/18/35|Bg. 18.35]], [[sb/3/9/29#purport|SB 3.9.29]]
+[[bg/18/35|Bg. 18.35]], **[[cc/antya/7/128#translation|Antya 7.128]]**, **[[cc/antya/7/134#translation|Antya 7.134]]**, [[sb/3/9/29#purport|SB 3.9.29]], [[sb/4/21/5#purport|SB 4.21.5]], [[sb/4/31/21#purport|SB 4.31.21]], [[sb/5/6/5#purport|SB 5.6.5]], [[sb/5/26/36#purport|SB 5.26.36]]
 
 * absent in bhāva, [[sb/2/3/24#purport|SB 2.3.24]]
 * absent in pure devotees, [[sb/8/12/38#purport|SB 8.12.38]]
@@ -26,8 +26,8 @@
 * in Dakṣa, [[sb/4/3/2#purport|SB 4.3.2]], [[sb/4/3/17#purport|SB 4.3.17]]
 * in Dhruva, [[sb/4/8/36#purport|SB 4.8.36]]
 * in kṣatriyas, [[sb/4/8/26#purport|SB 4.8.26]]
-* material, compared with spiritual, [[sb/1/19/13#purport|SB 1.19.13]]
 * material, [[sb/8/21/34-34#purport|SB 8.21.34-34]]
+* material, compared with spiritual, [[sb/1/19/13#purport|SB 1.19.13]]
 * misconceptions from, **[[cc/antya/7/119#translation|Antya 7.119]]**
 * of brāhmaṇas in Kali-yuga, [[sb/1/18/47#purport|SB 1.18.47]]
 * of demons, [[bg/16/4|Bg. 16.4]], [[bg/16/10|Bg. 16.10]], [[bg/16/13|Bg. 16.13]], [[bg/16/16|Bg. 16.16]], [[bg/16/17–18|Bg. 16.17–18]]
@@ -40,7 +40,6 @@
 * Prahlāda devoid of, [[sb/7/4/31-32#purport|SB 7.4.31-32]]
 * Rādhā’s love for Kṛṣṇa &, **[[cc/adi/4/131#translation|Ādi 4.131]]**
 * sacrifice out of, [[bg/17/12|Bg. 17.12]]
-*  [[sb/4/21/5#purport|SB 4.21.5]], [[sb/4/31/21#purport|SB 4.31.21]], [[sb/5/6/5#purport|SB 5.6.5]], [[sb/5/26/36#purport|SB 5.26.36]]
 * scientists &, [[cc/adi/5/72#purport|Ādi 5.72]]
 * scriptural commentaries &, [[cc/antya/7/134#purport|Antya 7.134]]
 * self-advertisement as, [[sb/4/16/26#purport|SB 4.16.26]]
@@ -50,4 +49,4 @@
 * wastes wealth, [[sb/10/10/8#purport|SB 10.10.8]], [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/13#purport|SB 10.10.13]]
 * wife &, [[sb/3/23/3#purport|SB 3.23.3]]
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; [[e#Ego|Ego]]; false; [[i#”I-&-mine” conception|”I-&-mine” conception]]; Bodily concept; [[e#Envy|Envy]]
+*See also:* [Ego](entries/ego.md); false; [Envy](entries/envy.md); Bodily concept of life; ”I-&-mine” conception; Bodily concept

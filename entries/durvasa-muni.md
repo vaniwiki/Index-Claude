@@ -1,9 +1,10 @@
 # Durvāsā Muni
 
-[[cc/adi/1/62#purport|Ādi 1.62]], [[cc/adi/10/108#purport|Ādi 10.108]], [[cc/adi/9/44#purport|Ādi 9.44]], **[[cc/antya/6/116#translation|Antya 6.116]]**, [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/8/72#purport|Madhya 8.72]], [[sb/5/13/23#purport|SB 5.13.23]], [[sb/9/14/3#purport|SB 9.14.3]]
+[[bg/2/60|Bg. 2.60]], [[bg/2/61|Bg. 2.61]], [[cc/adi/1/62#purport|Ādi 1.62]], [[cc/adi/9/44#purport|Ādi 9.44]], [[cc/adi/10/108#purport|Ādi 10.108]], [[cc/madhya/8/72#purport|Madhya 8.72]], [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/antya/6/116#translation|Antya 6.116]]**, [[sb/2/2/23#purport|SB 2.2.23]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/8/20#purport|SB 2.8.20]], [[sb/3/19/22#purport|SB 3.19.22]], [[sb/3/23/43#purport|SB 3.23.43]], [[sb/4/20/18#purport|SB 4.20.18]], [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/22/10#purport|SB 4.22.10]], [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/31/21#purport|SB 4.31.21]], [[sb/5/13/23#purport|SB 5.13.23]], [[sb/9/14/3#purport|SB 9.14.3]]
 
-* Ambarīṣa 
+* Ambarīṣa
 * angry at Ambarīṣa, [[sb/9/4/43-46#purport|SB 9.4.43-46]]
+* appreciated by, [[sb/9/5/13-22#purport|SB 9.5.13-22]]
 * as Ambarīṣa’s friend, [[sb/9/5/24#purport|SB 9.5.24]]
 * as Ambarīṣa’s guest, [[sb/9/4/33-42#purport|SB 9.4.33-42]]
 * as brāhmaṇa, [[sb/9/4/65#purport|SB 9.4.65]], [[sb/9/4/69#purport|SB 9.4.69]], [[sb/9/4/70#purport|SB 9.4.70]], [[sb/9/5/6#purport|SB 9.5.6]]
@@ -12,29 +13,37 @@
 * as nondevotee, [[sb/9/4/65#purport|SB 9.4.65]]
 * at Ambarīṣa’s feet, [[sb/9/5/1#purport|SB 9.5.1]], [[sb/9/5/2#purport|SB 9.5.2]]
 * at Yamunā River, [[sb/9/4/37#purport|SB 9.4.37]], [[sb/9/4/42#purport|SB 9.4.42]]
-*  [[bg/2/60|Bg. 2.60]], [[bg/2/61|Bg. 2.61]], [[sb/2/2/23#purport|SB 2.2.23]], [[sb/2/4/10#purport|SB 2.4.10]], [[sb/2/8/20#purport|SB 2.8.20]], [[sb/3/19/22#purport|SB 3.19.22]], [[sb/3/23/43#purport|SB 3.23.43]], [[sb/4/20/18#purport|SB 4.20.18]], [[sb/4/21/37#purport|SB 4.21.37]], [[sb/4/22/10#purport|SB 4.22.10]], [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/31/21#purport|SB 4.31.21]]
 * Brahmā refused shelter to, [[sb/9/4/53-54#purport|SB 9.4.53-54]]
 * Brahmā’s shelter sought by, [[sb/9/4/52#purport|SB 9.4.52]], [[sb/9/4/65#purport|SB 9.4.65]]
 * Brahmaloka visited by, [[sb/9/5/22#purport|SB 9.5.22]]
+* chased, [[sb/9/4/49-61#purport|SB 9.4.49-61]], [[sb/9/4/65#purport|SB 9.4.65]], [[sb/9/5/1#purport|SB 9.5.1]], [[sb/9/5/7#purport|SB 9.5.7]], [[sb/9/5/20#purport|SB 9.5.20]]
+* compared with, [[sb/9/4/65#purport|SB 9.4.65]], [[sb/9/4/68#purport|SB 9.4.68]]
 * demon of, [[sb/9/4/46-48#purport|SB 9.4.46-48]], [[sb/9/4/65#purport|SB 9.4.65]]
 * devotees appreciated by, [[sb/9/5/14-17#purport|SB 9.5.14-17]], [[sb/9/5/20#purport|SB 9.5.20]], [[sb/9/5/22#purport|SB 9.5.22]]
+* discredited, [[sb/9/4/65#purport|SB 9.4.65]]
 * empowered Kuntī, [[sb/9/24/32#purport|SB 9.24.32]]
 * envied Ambarīṣa, [[sb/9/4/69#purport|SB 9.4.69]]
+* envied by, [[sb/9/4/69#purport|SB 9.4.69]]
 * failed to punish Ambarīṣa, [[sb/9/4/46-49#purport|SB 9.4.46-49]]
+* fed, [[sb/9/5/18#purport|SB 9.5.18]], [[sb/9/5/24#purport|SB 9.5.24]]
 * fled everywhere, [[sb/9/4/49-28#purport|SB 9.4.49-28]], [[sb/9/4/55#purport|SB 9.4.55]], [[sb/9/4/60#purport|SB 9.4.60]], [[sb/9/4/65#purport|SB 9.4.65]]
 * historical accounts on, [[sb/1/15/11#purport|SB 1.15.11]]
 * in demon role, [[sb/9/5/6#purport|SB 9.5.6]]
-* intelligence of 
+* intelligence of
 * Kuntī blessed by, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
 * Lord advised, [[sb/9/4/69#purport|SB 9.4.69]], [[sb/9/4/71#purport|SB 9.4.71]]
 * mystic power of, [[sb/9/4/42#purport|SB 9.4.42]], [[sb/9/4/70#purport|SB 9.4.70]]
 * Nārāyaṇa’s protection sought by, [[sb/9/4/60-62#purport|SB 9.4.60-62]]
 * narration concerning Ambarīṣa &, lesson from, [[sb/9/4/71#purport|SB 9.4.71]]
 * offense by, [[sb/9/4/62#purport|SB 9.4.62]], [[sb/9/4/69#purport|SB 9.4.69]]
-* quoted. See: Durvāsā Muni quoted 
+* pleaded cause of, [[sb/9/5/4#purport|SB 9.5.4]], [[sb/9/5/9-11#purport|SB 9.5.9-11]]
+* purified by Sudarśana cakra, [[sb/9/5/20#purport|SB 9.5.20]]
+* quoted. See: Durvāsā Muni quoted
 * rituals performed by, [[sb/9/4/37#purport|SB 9.4.37]]
 * Śiva refused protection to, [[sb/9/4/56#purport|SB 9.4.56]]
 * Śiva’s advice to, [[sb/9/4/57-59#purport|SB 9.4.57-59]]
 * Śiva’s shelter sought by, [[sb/9/4/55#purport|SB 9.4.55]], [[sb/9/4/65#purport|SB 9.4.65]]
-* Sudarśana cakra 
+* stopped burning, by Ambarīṣa’s grace, [[sb/9/5/12#purport|SB 9.5.12]], [[sb/9/5/13#purport|SB 9.5.13]]
+* Sudarśana cakra
 * Viśvanātha Cakravartī reinterpreted words of, [[sb/9/4/44#purport|SB 9.4.44]]
+* wronged by, [[sb/9/4/68#purport|SB 9.4.68]], [[sb/9/4/69-69#purport|SB 9.4.69-69]], [[sb/9/5/6#purport|SB 9.5.6]]

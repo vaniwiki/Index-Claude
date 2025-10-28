@@ -1,11 +1,10 @@
 # Tolerance
 
-**[[cc/adi/17/27–29#translation|Ādi 17.27–29]]**, **[[cc/adi/17/31#translation|Ādi 17.31]]**, [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/adi/7/68#purport|Ādi 7.68]], [[cc/adi/8/16#purport|Ādi 8.16]], **[[cc/antya/20/21–24#translation|Antya 20.21–24]]**, [[cc/antya/3/137#purport|Antya 3.137]], [[cc/antya/3/207#purport|Antya 3.207]], [[cc/antya/3/213#purport|Antya 3.213]], [[cc/antya/4/71#purport|Antya 4.71]]
+[[bg/2/14–15|Bg. 2.14–15]], [[bg/8/5|Bg. 8.5]], [[bg/10/4|Bg. 10.4]] (3), [[bg/11/44|Bg. 11.44]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (11), [[bg/16/1|Bg. 16.1]] (15), [[cc/adi/7/68#purport|Ādi 7.68]], [[cc/adi/8/16#purport|Ādi 8.16]], **[[cc/adi/17/27–29#translation|Ādi 17.27–29]]**, **[[cc/adi/17/31#translation|Ādi 17.31]]**, [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/antya/3/137#purport|Antya 3.137]], [[cc/antya/3/207#purport|Antya 3.207]], [[cc/antya/3/213#purport|Antya 3.213]], [[cc/antya/4/71#purport|Antya 4.71]], **[[cc/antya/20/21–24#translation|Antya 20.21–24]]**
 
 * about material duality, [[sb/9/13/27#purport|SB 9.13.27]]
 * Arjuna requests from Kṛṣṇa, [[bg/11/44|Bg. 11.44]]
 * as brahminical quality, [[bg/18/42|Bg. 18.42]]
-*  [[bg/2/14–15|Bg. 2.14–15]], [[bg/8/5|Bg. 8.5]], [[bg/10/4|Bg. 10.4]] (3), [[bg/11/44|Bg. 11.44]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (11), [[bg/16/1|Bg. 16.1]] (15)
 * by brāhmaṇas, [[sb/5/5/24#purport|SB 5.5.24]]
 * by Jaḍa Bharata’s father, [[sb/5/9/1-2#purport|SB 5.9.1-2]]
 * by Kṛṣṇa consciousness, [[sb/4/7/29#purport|SB 4.7.29]]

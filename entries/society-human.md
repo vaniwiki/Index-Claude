@@ -11,25 +11,36 @@
 * all śūdras now, [[sb/4/4/34#purport|SB 4.4.34]]
 * animal slaughter disrupts, [[sb/1/13/47#purport|SB 1.13.47]]
 * animal slaughter in, [[sb/7/14/9#purport|SB 7.14.9]]
-* animalistic, [[sb/10/2/34#purport|SB 10.2.34]], [[sb/4/21/22#purport|SB 4.21.22]], [[sb/4/22/36#purport|SB 4.22.36]], [[sb/9/16/28#purport|SB 9.16.28]]
+* animalistic, [[sb/4/21/22#purport|SB 4.21.22]], [[sb/4/22/36#purport|SB 4.22.36]], [[sb/9/16/28#purport|SB 9.16.28]], [[sb/10/2/34#purport|SB 10.2.34]]
 * anxiety in, [[sb/4/6/47#purport|SB 4.6.47]]
 * art in, [[sb/2/2/4#purport|SB 2.2.4]]
 * artificial, compared with natural, [[sb/1/2/13#purport|SB 1.2.13]]
+* as animallike, [[sb/2/3/14#purport|SB 2.3.14]], [[sb/2/3/19#purport|SB 2.3.19]], [[sb/2/3/19#purport|SB 2.3.19]], [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/7/38#purport|SB 2.7.38]], [[sb/2/7/52#purport|SB 2.7.52]]
+* as artificial, [[sb/2/5/30#purport|SB 2.5.30]]
 * as bewildered, [[sb/4/18/5#purport|SB 4.18.5]]
 * as blind, [[sb/1/3/43#purport|SB 1.3.43]]
-* as body of Lord, [[sb/4/7/14#purport|SB 4.7.14]]
+* as body of Lord, [[sb/4/7/14#purport|SB 4.7.14]], [[sb/4/7/14#purport|SB 4.7.14]]
 * as brahminical culture, [[sb/1/16/4#purport|SB 1.16.4]]
+* as created by Lord, [[sb/4/6/44#purport|SB 4.6.44]]
 * as degraded in this age, [[sb/1/1/10#purport|SB 1.1.10]], [[sb/1/3/43#purport|SB 1.3.43]]
 * as demons & devotees, [[sb/4/7/20#purport|SB 4.7.20]]
 * as detached from Lord, [[sb/1/1/4#purport|SB 1.1.4]], [[sb/1/5/20#purport|SB 1.5.20]]
+* as godless, [[sb/8/22/17#purport|SB 8.22.17]], [[sb/8/22/24#purport|SB 8.22.24]]
+* as ignorant of soul, [[sb/2/3/1#purport|SB 2.3.1]]
+* as monkeys & dogs, [[sb/1/18/45#purport|SB 1.18.45]], [[sb/1/18/45#purport|SB 1.18.45]]
+* as part of Lord, [[sb/4/6/44#purport|SB 4.6.44]]
+* as permanent, [[sb/4/2/31#purport|SB 4.2.31]]
 * as sexually oriented, [[sb/2/6/20#purport|SB 2.6.20]]
 * as spiritually advanced, [[sb/3/21/54#purport|SB 3.21.54]]
 * as superior, [[sb/2/5/6#purport|SB 2.5.6]]
 * astrologers in, [[sb/1/12/29#purport|SB 1.12.29]]
 * atheistic propaganda in, [[sb/2/3/14#purport|SB 2.3.14]]
 * atomic weapons endanger, [[sb/9/4/70#purport|SB 9.4.70]]
+* author’s hopes for, SB Intro 3
 * based on family comforts, [[sb/2/1/16#purport|SB 2.1.16]]
+* based on Vedas, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]]
 * basic principles of, [[sb/1/19/3#purport|SB 1.19.3]]
+* benefits, [[sb/7/6/1#purport|SB 7.6.1]], [[sb/7/9/11#purport|SB 7.9.11]]
 * best relief work in, [[sb/4/7/28#purport|SB 4.7.28]]
 * betrayal of life in, [[sb/6/2/5-6#purport|SB 6.2.5-6]], [[sb/6/2/5-6#purport|SB 6.2.5-6]]
 * Bhagavad-gītā benefits, [[sb/4/22/42#purport|SB 4.22.42]], [[sb/8/24/5#purport|SB 8.24.5]]
@@ -56,7 +67,7 @@
 * classless, as impossible, [[sb/4/6/44#purport|SB 4.6.44]]
 * compared to beehive, [[sb/4/24/64#purport|SB 4.24.64]]
 * compared to blind leading blind, [[sb/3/9/8#purport|SB 3.9.8]]
-* compared to body, [[sb/3/22/3#purport|SB 3.22.3]], [[sb/4/8/36#purport|SB 4.8.36]]
+* compared to body, [[sb/1/18/33#purport|SB 1.18.33]], [[sb/3/22/3#purport|SB 3.22.3]], [[sb/4/8/36#purport|SB 4.8.36]]
 * competition in, [[sb/1/1/2#purport|SB 1.1.2]]
 * complacency in, [[sb/2/2/4#purport|SB 2.2.4]]
 * correcting religion in, [[sb/6/2/3-4#purport|SB 6.2.3-4]]
@@ -84,20 +95,21 @@
 * devotees serve, [[sb/3/4/25#purport|SB 3.4.25]]
 * devotional service needed in, [[sb/1/18/8#purport|SB 1.18.8]], [[sb/7/9/18#purport|SB 7.9.18]]
 * disqualifications for, [[sb/6/7/13#purport|SB 6.7.13]]
-* divisions in. See: Varṇāśrama system 
-* divisions in. See: Varṇāśrama-dharma 
-* divisions of , 
-* divisions of, four listed, [[sb/7/11/18-20#purport|SB 7.11.18-20]], [[sb/7/11/30#purport|SB 7.11.30]], [[sb/7/11/35#purport|SB 7.11.35]], [[sb/7/14/10#purport|SB 7.14.10]]
+* dissatisfaction in, [[sb/8/19/21#purport|SB 8.19.21]]
+* distinctions in, [[sb/4/4/20#purport|SB 4.4.20]]
+* divisions in. See: Varṇāśrama system
 * divisions of, [[sb/1/2/13#purport|SB 1.2.13]], [[sb/1/3/13#purport|SB 1.3.13]], [[sb/8/9/14-15#purport|SB 8.9.14-15]], [[sb/8/23/15#purport|SB 8.23.15]]
+* divisions of, four listed, [[sb/7/11/18-20#purport|SB 7.11.18-20]], [[sb/7/11/30#purport|SB 7.11.30]], [[sb/7/11/35#purport|SB 7.11.35]], [[sb/7/14/10#purport|SB 7.14.10]]
 * dogs maintained in, [[sb/7/14/11#purport|SB 7.14.11]]
 * duty of upper classes in, [[sb/2/7/38#purport|SB 2.7.38]]
 * duty of, [[sb/8/14/8#purport|SB 8.14.8]]
 * dvijas lacking in Kali-yuga, [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * education for, [[sb/7/6/16#purport|SB 7.6.16]]
-* elevation of, need for, [[sb/6/10/6#purport|SB 6.10.6]], [[sb/6/10/8#purport|SB 6.10.8]]
 * elevation of, [[sb/10/13/53#purport|SB 10.13.53]]
+* elevation of, need for, [[sb/6/10/6#purport|SB 6.10.6]], [[sb/6/10/8#purport|SB 6.10.8]]
 * enterprise in, [[sb/2/5/30#purport|SB 2.5.30]]
 * envy in, [[sb/4/6/47#purport|SB 4.6.47]]
+* essential in, [[sb/7/2/12#purport|SB 7.2.12]]
 * evil in, [[sb/1/17/24#purport|SB 1.17.24]]
 * evolution of, [[sb/2/7/18#purport|SB 2.7.18]]
 * fallen condition of, [[sb/10/2/20#purport|SB 10.2.20]]
@@ -106,7 +118,7 @@
 * false glorification in, [[sb/1/2/14#purport|SB 1.2.14]]
 * false goals in, [[sb/1/2/10#purport|SB 1.2.10]]
 * false prestige degrades, [[sb/1/18/34#purport|SB 1.18.34]]
-* family in. See: Family life 
+* family in. See: Family life
 * family influences, [[sb/1/19/35#purport|SB 1.19.35]]
 * five thousand years ago, [[sb/7/8/33#purport|SB 7.8.33]]
 * food for, [[sb/4/17/25#purport|SB 4.17.25]]
@@ -115,6 +127,7 @@
 * four kinds of activity in, [[sb/4/8/64#purport|SB 4.8.64]]
 * four kinds of spirit in, [[sb/4/8/36#purport|SB 4.8.36]]
 * four principles in, [[sb/4/4/15#purport|SB 4.4.15]]
+* four, [[sb/1/17/41#purport|SB 1.17.41]]
 * futility in, [[sb/1/1/16#purport|SB 1.1.16]]
 * goal of, [[sb/4/22/21-21#purport|SB 4.22.21-21]]
 * God-consciousness opportunity for, [[sb/10/13/60#purport|SB 10.13.60]]
@@ -123,7 +136,7 @@
 * godly, compared with godless, [[sb/10/4/41-41#purport|SB 10.4.41-41]]
 * good progeny in, formula for, [[sb/3/14/38#purport|SB 3.14.38]]
 * Gosvāmīs as guide for, [[sb/1/2/15#purport|SB 1.2.15]]
-* government for. See: Government(s) 
+* government for. See: Government(s)
 * happiness for, [[sb/1/15/38#purport|SB 1.15.38]], [[sb/1/15/40#purport|SB 1.15.40]], [[sb/4/18/13#purport|SB 4.18.13]], [[sb/4/18/14#purport|SB 4.18.14]], [[sb/7/11/7#purport|SB 7.11.7]]
 * happiness in, [[sb/6/15/6#purport|SB 6.15.6]]
 * happy & unhappy, [[sb/4/18/3#purport|SB 4.18.3]], [[sb/4/18/4#purport|SB 4.18.4]]
@@ -137,7 +150,8 @@
 * ignorance in modern, [[sb/7/13/25#purport|SB 7.13.25]]
 * ignorance in, [[sb/1/14/3#purport|SB 1.14.3]]
 * impostor incarnations mislead, [[sb/1/18/35#purport|SB 1.18.35]]
-* in chaos, [[sb/10/4/39#purport|SB 10.4.39]], [[sb/3/21/55#purport|SB 3.21.55]]
+* in castes, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]], [[sb/4/8/36#purport|SB 4.8.36]]
+* in chaos, [[sb/3/21/55#purport|SB 3.21.55]], [[sb/10/4/39#purport|SB 10.4.39]]
 * in danger this age, [[sb/7/2/11#purport|SB 7.2.11]], [[sb/7/3/13#purport|SB 7.3.13]]
 * in Dvārakā, [[sb/1/11/12#purport|SB 1.11.12]]
 * in harmony with nature, [[sb/1/10/4#purport|SB 1.10.4]], [[sb/1/10/6#purport|SB 1.10.6]], [[sb/1/11/12#purport|SB 1.11.12]]
@@ -145,15 +159,16 @@
 * in illusion, [[sb/8/2/32#purport|SB 8.2.32]]
 * in India, [[sb/2/3/14#purport|SB 2.3.14]]
 * in Kali-yuga degraded, [[sb/1/16/22#purport|SB 1.16.22]], [[sb/1/16/22#purport|SB 1.16.22]], [[sb/1/17/5#purport|SB 1.17.5]], [[sb/1/17/24-25#purport|SB 1.17.24-25]], [[sb/1/18/32-33#purport|SB 1.18.32-33]]
-* in Kali-yuga, [[sb/10/7/4#purport|SB 10.7.4]], [[sb/10/10/16#purport|SB 10.10.16]], [[sb/2/7/36#purport|SB 2.7.36]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/19#purport|SB 3.22.19]], [[sb/4/22/36#purport|SB 4.22.36]]
+* in Kali-yuga, [[sb/2/7/36#purport|SB 2.7.36]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/19#purport|SB 3.22.19]], [[sb/4/22/36#purport|SB 4.22.36]], [[sb/10/7/4#purport|SB 10.7.4]], [[sb/10/10/16#purport|SB 10.10.16]]
 * in Western countries, [[sb/10/5/10#purport|SB 10.5.10]]
+* in, [[sb/1/19/9-10#purport|SB 1.19.9-10]]
 * industry degrades, [[sb/3/6/32#purport|SB 3.6.32]]
 * irresponsibility in, [[sb/3/11/33#purport|SB 3.11.33]]
 * key to peace in, SB Intro 29-30
 * killing in, [[sb/9/9/28#purport|SB 9.9.28]]
 * kings needed in, [[sb/1/15/38#purport|SB 1.15.38]], [[sb/1/15/40#purport|SB 1.15.40]], [[sb/1/18/42-44#purport|SB 1.18.42-44]]
 * Kṛṣṇa conscious organiātion of, [[sb/8/15/36#purport|SB 8.15.36]]
-* Kṛṣṇa consciousness 
+* Kṛṣṇa consciousness
 * Kṛṣṇa consciousness &, [[sb/1/12/4#purport|SB 1.12.4]]
 * Kṛṣṇa consciousness for, [[sb/3/22/4#purport|SB 3.22.4]], [[sb/3/22/33#purport|SB 3.22.33]]
 * Kṛṣṇa consciousness movement guides, [[sb/10/8/6#purport|SB 10.8.6]]
@@ -165,13 +180,13 @@
 * law-givers for, [[sb/7/8/48#purport|SB 7.8.48]]
 * lawbook for, [[sb/3/13/12#purport|SB 3.13.12]]
 * laws governing, [[sb/3/15/8#purport|SB 3.15.8]]
-* leaders in 
+* leaders in
 * leaders of modern, condemned, [[sb/7/14/5#purport|SB 7.14.5]]
 * leaders of, [[sb/3/3/27#purport|SB 3.3.27]]
 * leaders’ foolishness in, [[sb/1/1/16#purport|SB 1.1.16]]
+* life shortened in, [[sb/8/6/12#purport|SB 8.6.12]]
 * literature for, [[sb/3/13/48#purport|SB 3.13.48]], [[sb/3/13/50#purport|SB 3.13.50]]
-* literature in, [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/5/10#purport|SB 3.5.10]], [[sb/3/5/12#purport|SB 3.5.12]]
-* literature in. See: Literature, mundane 
+* literature in. See: Literature, mundane, [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/5/10#purport|SB 3.5.10]], [[sb/3/5/12#purport|SB 3.5.12]]
 * Lord incarnates for, [[sb/8/14/8#purport|SB 8.14.8]]
 * Lord merciful to, [[sb/8/14/8#purport|SB 8.14.8]]
 * Lord rectifies, [[sb/1/13/50#purport|SB 1.13.50]]
@@ -196,7 +211,6 @@
 * misdirected, [[sb/2/1/2-3#purport|SB 2.1.2-3]]
 * misguided condition of, [[sb/6/5/18#purport|SB 6.5.18]]
 * mixed marriages in, [[sb/7/11/30#purport|SB 7.11.30]]
-* modern , 
 * modern literature degrades, [[sb/2/7/15#purport|SB 2.7.15]]
 * modern madness of, [[sb/6/15/26#purport|SB 6.15.26]]
 * modern sacrifice for, [[sb/4/4/6#purport|SB 4.4.6]]
@@ -208,16 +222,18 @@
 * nature’s laws control, [[sb/8/1/10#purport|SB 8.1.10]]
 * necessities of, [[sb/1/10/4#purport|SB 1.10.4]], [[sb/1/11/12#purport|SB 1.11.12]]
 * necessities of, source of, [[sb/2/2/37#purport|SB 2.2.37]]
+* needed in, [[sb/1/2/13#purport|SB 1.2.13]]
 * nondevotee endangers, [[sb/9/4/70#purport|SB 9.4.70]]
 * occupational divisions of, [[sb/10/1/17#purport|SB 10.1.17]], [[sb/10/2/34#purport|SB 10.2.34]]
 * occupational orders in, [[sb/4/21/22#purport|SB 4.21.22]], [[sb/4/21/33#purport|SB 4.21.33]], [[sb/4/24/29#purport|SB 4.24.29]]
-* of devotees of Kṛṣṇa. See: ISKCON; Kṛṣṇa consciousness movement 
+* of devotees of Kṛṣṇa. See: ISKCON; Kṛṣṇa consciousness movement
 * of purified people, [[sb/3/20/28#purport|SB 3.20.28]]
 * ominous signs in, [[sb/1/14/5#purport|SB 1.14.5]], [[sb/1/14/20#purport|SB 1.14.20]]
-* orders of 
-* orders of life in. See: Varṇāśrama-dharma 
+* orders of
+* orders of life in. See: Varṇāśrama-dharma
 * orders of, purpose of, [[sb/3/14/18#purport|SB 3.14.18]], [[sb/3/14/20#purport|SB 3.14.20]]
 * organiātion of, [[sb/7/5/5#purport|SB 7.5.5]], [[sb/7/5/52#purport|SB 7.5.52]]
+* organizes, [[sb/7/6/5#purport|SB 7.6.5]], [[sb/7/8/48#purport|SB 7.8.48]], [[sb/7/9/10#purport|SB 7.9.10]], [[sb/7/10/24#purport|SB 7.10.24]], [[sb/7/11/2#purport|SB 7.11.2]], [[sb/7/11/25#purport|SB 7.11.25]], [[sb/7/14/10#purport|SB 7.14.10]]
 * passion causes war in, [[sb/3/1/21#purport|SB 3.1.21]]
 * past & present, [[sb/10/8/10#purport|SB 10.8.10]]
 * peace for, [[sb/1/17/14#purport|SB 1.17.14]], [[sb/7/11/8-12#purport|SB 7.11.8-12]], [[sb/8/8/1#purport|SB 8.8.1]], [[sb/9/14/37#purport|SB 9.14.37]]
@@ -239,13 +255,14 @@
 * protection in, [[sb/1/8/5#purport|SB 1.8.5]]
 * protection lacking in, [[sb/3/6/31#purport|SB 3.6.31]]
 * purification of, [[sb/10/8/10#purport|SB 10.8.10]]
-* purpose of, [[sb/1/10/16#purport|SB 1.10.16]]
+* purpose of, [[sb/1/10/16#purport|SB 1.10.16]], [[sb/2/1/37#purport|SB 2.1.37]], [[sb/2/5/37#purport|SB 2.5.37]]
 * quarrel’s causes in, [[sb/1/16/10#purport|SB 1.16.10]]
 * reform formula for, [[sb/2/7/38#purport|SB 2.7.38]]
 * reformation of, [[sb/1/11/19#purport|SB 1.11.19]], [[sb/3/14/40-41#purport|SB 3.14.40-41]]
 * religion corrupt in, [[sb/6/2/2-3#purport|SB 6.2.2-3]]
 * religious leaders of, [[sb/3/9/10#purport|SB 3.9.10]]
 * religious principles for, [[sb/4/22/36#purport|SB 4.22.36]]
+* required in, [[sb/7/4/19#purport|SB 7.4.19]]
 * rulers of, surrender to Lord, [[sb/9/4/53-54#purport|SB 9.4.53-54]]
 * sacrifice meant for, [[sb/3/5/49#purport|SB 3.5.49]]
 * sacrifices necessary to, [[sb/4/6/53#purport|SB 4.6.53]]
@@ -281,20 +298,20 @@
 * spiritualization of, [[sb/1/5/36#purport|SB 1.5.36]]
 * Śrīmad-Bhāgavatam for, SB Intro 28-30, [[sb/1/1/16#purport|SB 1.1.16]], [[sb/1/5/13#purport|SB 1.5.13]], [[sb/1/17/38#purport|SB 1.17.38]], [[sb/1/17/43-44#purport|SB 1.17.43-44]]
 * status changes in, [[sb/1/9/41#purport|SB 1.9.41]]
-* suffering in, cause for, [[sb/2/2/37#purport|SB 2.2.37]]
 * suffering in, [[sb/1/13/42#purport|SB 1.13.42]], [[sb/1/14/10#purport|SB 1.14.10]]
+* suffering in, cause for, [[sb/2/2/37#purport|SB 2.2.37]]
 * suicide in, [[sb/3/14/24#purport|SB 3.14.24]]
 * surrender in, [[sb/4/8/46#purport|SB 4.8.46]]
 * Svāyambhuva Manu as leader of, [[sb/8/1/16#purport|SB 8.1.16]]
-* today. See: Kali-yuga 
+* today. See: Kali-yuga
 * transcendental sound reforms, [[sb/1/18/6#purport|SB 1.18.6]]
 * transcendentalists beyond, [[sb/4/4/20#purport|SB 4.4.20]]
+* unclean, [[sb/1/19/13#purport|SB 1.19.13]]
 * upper classes respected in, [[sb/3/16/23#purport|SB 3.16.23]]
 * varṇa-saṅkara confounds, [[sb/7/11/25#purport|SB 7.11.25]]
 * varṇāśrama system arranges, [[sb/9/10/50#purport|SB 9.10.50]]
-* varṇāśrama-dharma , 
+* varṇāśrama-dharma
 * varṇāśrama-dharma in, [[sb/2/7/6#purport|SB 2.7.6]], [[sb/2/7/9#purport|SB 2.7.9]]
-* varṇāśrama-dharma in. See: Varṇāśrama-dharma 
 * varṇāśrama-dharma organizes, [[sb/8/20/11#purport|SB 8.20.11]]
 * Vedas vital for, [[sb/8/1/29#purport|SB 8.1.29]]
 * Vedic (varṇāśrama-dharma), [[sb/6/7/13#purport|SB 6.7.13]], [[sb/6/16/43#purport|SB 6.16.43]]
@@ -305,15 +322,16 @@
 * Vedic principles for, [[sb/9/24/66#purport|SB 9.24.66]]
 * Vedic, compared with modern, [[sb/1/10/5-6#purport|SB 1.10.5-6]], [[sb/1/12/18#purport|SB 1.12.18]], [[sb/7/13/34#purport|SB 7.13.34]], [[sb/7/14/5#purport|SB 7.14.5]]
 * Vedic, purpose of, [[sb/2/9/36#purport|SB 2.9.36]]
-* Vedic. See: Varṇāśrama-dharma; Vedic civiliātion 
+* Vedic. See: Varṇāśrama-dharma; Vedic civiliātion
 * vipras in, [[sb/1/12/29#purport|SB 1.12.29]]
 * Viṣṇu goal of, [[sb/6/3/29#purport|SB 6.3.29]]
 * war in, [[sb/4/20/15#purport|SB 4.20.15]]
 * warning for godless, [[sb/7/8/31#purport|SB 7.8.31]]
-* welfare activity in. See: Welfare activity 
+* warning for, [[sb/8/22/17#purport|SB 8.22.17]]
+* welfare activity in. See: Welfare activity
 * welfare of, [[sb/1/8/43#purport|SB 1.8.43]]
-* Western. See: Western world 
+* Western. See: Western world
 * woman’s association restricted in, [[sb/7/12/8#purport|SB 7.12.8]]
-* women in. See: Family life; Women 
+* women in. See: Family life; Women
 
-*See also:* [[a#Āryan civiliātion|Āryan civiliātion]]; [[c#Civiliātion|Civiliātion]]; human; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; [[v#Vedic culture|Vedic culture]]; Humans being; [[p#Population|Population]]; [[v#Varṇāśrama system|Varṇāśrama system]]; Human beings; [[s#Society|Society]]; modern; [[k#Kali-yuga|Kali-yuga]]; [[l#Life|Life]]; [[v#Vedic civilization|Vedic civilization]]
+*See also:* [Kali-yuga](entries/kali-yuga.md); Varṇāśrama-dharma; Āryan civiliātion; Civiliātion; human; Vedic culture; Human beings; [Society](entries/society.md); Humans being; [Population](entries/population.md); Varṇāśrama system; modern; [Life](entries/life.md); Governments; leaders of; varṇāśrama-dharma; Vedic civilization

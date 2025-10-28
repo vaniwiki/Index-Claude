@@ -1,6 +1,6 @@
 # Sākṣi-gopāla Deity
 
-**[[cc/madhya/25/247#translation|Madhya 25.247]]**, **[[cc/madhya/5/1#translation|Madhya 5.1]]**, **[[cc/madhya/5/134–68#translation|Madhya 5.134–68]]**
+**[[cc/madhya/5/1#translation|Madhya 5.1]]**, **[[cc/madhya/25/247#translation|Madhya 25.247]]**, **[[cc/madhya/5/134–68#translation|Madhya 5.134–68]]**
 
 * agreement to travel by, **[[cc/madhya/5/97–100#translation|Madhya 5.97–100]]**
 * as Kṛṣṇa Himself, [[cc/madhya/5/97#purport|Madhya 5.97]]

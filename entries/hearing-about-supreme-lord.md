@@ -1,5 +1,7 @@
 # Hearing about Supreme Lord
 
+[[sb/2/1/5#purport|SB 2.1.5]], [[sb/2/2/36#purport|SB 2.2.36]], [[sb/9/19/25#purport|SB 9.19.25]], [[sb/9/19/29#purport|SB 9.19.29]], [[sb/9/24/62-62#purport|SB 9.24.62-62]]
+
 * ”conquers” Lord, SB Intro 29
 * & seeing Lord as nondifferent, [[sb/7/4/25-26#purport|SB 7.4.25-26]]
 * as associating with Him, [[sb/1/1/19#purport|SB 1.1.19]], [[sb/1/2/17#purport|SB 1.2.17]], [[sb/1/5/26-27#purport|SB 1.5.26-27]], [[sb/1/5/38#purport|SB 1.5.38]], [[sb/1/5/38-39#purport|SB 1.5.38-39]], [[sb/1/7/7#purport|SB 1.7.7]]
@@ -47,7 +49,7 @@
 * Caitanya recommended, [[sb/4/7/44#purport|SB 4.7.44]]
 * Caitanya recommends, SB Intro 29-30
 * chanting solidifies, [[sb/2/2/36#purport|SB 2.2.36]]
-* compared , 
+* compared
 * compared to Ganges bath, [[sb/3/20/5#purport|SB 3.20.5]]
 * compared to watering seed, [[sb/3/2/6#purport|SB 3.2.6]]
 * conditions for, two described, [[sb/1/1/13#purport|SB 1.1.13]]
@@ -55,10 +57,10 @@
 * desire as basis of, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/1/13#purport|SB 1.1.13]], [[sb/1/2/16#purport|SB 1.2.16]]
 * detachment by, [[sb/3/5/42#purport|SB 3.5.42]]
 * devotee addicted to, [[sb/4/9/11#purport|SB 4.9.11]]
-* devotees 
+* devotees
 * devotees must engage in, [[sb/1/2/12#purport|SB 1.2.12]]
-* devotees relish, N105 
 * devotees relish, [[sb/3/15/48#purport|SB 3.15.48]]
+* devotees relish, N105
 * disciplic line needed in, [[sb/1/1/13#purport|SB 1.1.13]]
 * disturbance overcome in, [[sb/1/2/17#purport|SB 1.2.17]]
 * duty should lead to, [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/8#purport|SB 1.2.8]]
@@ -90,7 +92,7 @@
 * from devotees, [[sb/10/7/1-2#purport|SB 10.7.1-2]]
 * from Lord Himself, [[sb/3/26/33#purport|SB 3.26.33]]
 * from professionals, [[sb/2/8/3#purport|SB 2.8.3]]
-* from pure devotees, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/2/2/16#purport|SB 2.2.16]], [[sb/3/13/4#purport|SB 3.13.4]], [[sb/7/5/23-24#purport|SB 7.5.23-24]], [[sb/7/8/1#purport|SB 7.8.1]]
+* from pure devotees, [[sb/2/2/16#purport|SB 2.2.16]], [[sb/3/13/4#purport|SB 3.13.4]], [[sb/7/5/23-24#purport|SB 7.5.23-24]], [[sb/7/8/1#purport|SB 7.8.1]], [[sb/10/2/37#purport|SB 10.2.37]]
 * from spiritual master, [[sb/1/1/13#purport|SB 1.1.13]], [[sb/1/2/32#purport|SB 1.2.32]]
 * from Śrīmad-Bhāgavatam, [[sb/1/15/51#purport|SB 1.15.51]], [[sb/1/16/5#purport|SB 1.16.5]], [[sb/1/16/8#purport|SB 1.16.8]]
 * from Vedic authority, [[sb/8/5/25-25#purport|SB 8.5.25-25]]
@@ -118,7 +120,7 @@
 * knowledge via, [[sb/3/32/28#purport|SB 3.32.28]]
 * Kṛṣṇa consciousness movement for, [[sb/4/7/44#purport|SB 4.7.44]]
 * Kṛṣṇa’s association via, [[sb/2/8/3#purport|SB 2.8.3]]
-* liberation via, [[sb/10/1/3-4#purport|SB 10.1.3-4]], [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/3/25/36-36#purport|SB 3.25.36-36]], [[sb/3/26/32#purport|SB 3.26.32]], [[sb/3/27/21-21#purport|SB 3.27.21-21]], [[sb/4/7/44-44#purport|SB 4.7.44-44]], [[sb/7/14/3-4#purport|SB 7.14.3-4]]
+* liberation via, [[sb/3/25/36-36#purport|SB 3.25.36-36]], [[sb/3/26/32#purport|SB 3.26.32]], [[sb/3/27/21-21#purport|SB 3.27.21-21]], [[sb/4/7/44-44#purport|SB 4.7.44-44]], [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/10/1/3-4#purport|SB 10.1.3-4]], [[sb/10/3/1-5#purport|SB 10.3.1-5]]
 * Lord’s association by, [[sb/7/7/38#purport|SB 7.7.38]]
 * Lord’s association via, [[sb/1/15/31#purport|SB 1.15.31]]
 * Lord’s pastimes facilitate, [[sb/2/7/15#purport|SB 2.7.15]]
@@ -129,17 +131,20 @@
 * modern literature opposed to, [[sb/2/7/15#purport|SB 2.7.15]]
 * mundane hearing vs., [[sb/2/3/20#purport|SB 2.3.20]]
 * mundane literature vs., [[sb/1/1/19#purport|SB 1.1.19]]
-* necessity of, [[sb/3/27/6-6#purport|SB 3.27.6-6]], [[sb/3/29/18-18#purport|SB 3.29.18-18]], SB Intro 29-30, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/12#purport|SB 1.2.12]]
+* must engage in, [[sb/1/2/12#purport|SB 1.2.12]]
+* necessity of, SB Intro 29-30, [[sb/1/1/21#purport|SB 1.1.21]], [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/12#purport|SB 1.2.12]], [[sb/3/27/6-6#purport|SB 3.27.6-6]], [[sb/3/29/18-18#purport|SB 3.29.18-18]]
+* needed in, SB Intro 29-30, [[sb/1/2/16#purport|SB 1.2.16]], [[sb/1/2/16#purport|SB 1.2.16]]
 * of first importance, [[sb/3/25/27#purport|SB 3.25.27]], [[sb/3/33/26#purport|SB 3.33.26]]
 * perfect method of, SB Intro 29-30, [[sb/1/1/2#purport|SB 1.1.2]]
 * perfection via, [[sb/1/5/26#purport|SB 1.5.26]], [[sb/3/24/42#purport|SB 3.24.42]], [[sb/4/7/44#purport|SB 4.7.44]]
-* pleases everyone, N104 
+* pleases everyone, N104
 * potency of, [[sb/1/10/11-12#purport|SB 1.10.11-12]]
 * power of, [[sb/3/26/32#purport|SB 3.26.32]]
 * process of, [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/1/10#purport|SB 2.1.10]]
 * protection via, [[sb/2/4/15#purport|SB 2.4.15]]
 * purification by, [[sb/4/3/23#purport|SB 4.3.23]]
-* purification via, [[sb/1/5/26#purport|SB 1.5.26]], [[sb/10/6/34#purport|SB 10.6.34]], [[sb/3/20/5#purport|SB 3.20.5]], [[sb/3/27/21#purport|SB 3.27.21]]
+* purification via, [[sb/1/5/26#purport|SB 1.5.26]], [[sb/3/20/5#purport|SB 3.20.5]], [[sb/3/27/21#purport|SB 3.27.21]], [[sb/10/6/34#purport|SB 10.6.34]]
+* purified via, [[sb/1/2/17#purport|SB 1.2.17]], [[sb/1/2/17#purport|SB 1.2.17]]
 * purifying power of, [[sb/7/10/70#purport|SB 7.10.70]], [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * qualification for, [[sb/1/2/16#purport|SB 1.2.16]], [[sb/1/2/16#purport|SB 1.2.16]], [[sb/3/14/4#purport|SB 3.14.4]]
 * recommended for this age, [[sb/1/5/26#purport|SB 1.5.26]]
@@ -147,7 +152,6 @@
 * regulation required for, [[sb/2/7/53#purport|SB 2.7.53]], [[sb/2/7/53#purport|SB 2.7.53]], [[sb/2/8/4#purport|SB 2.8.4]], [[sb/2/8/4#purport|SB 2.8.4]]
 * sages relish, [[sb/1/1/19#purport|SB 1.1.19]]
 * samādhi by, [[sb/3/28/6#purport|SB 3.28.6]]
-*  [[sb/2/1/5#purport|SB 2.1.5]], [[sb/2/2/36#purport|SB 2.2.36]], [[sb/9/19/25#purport|SB 9.19.25]], [[sb/9/19/29#purport|SB 9.19.29]], [[sb/9/24/62-62#purport|SB 9.24.62-62]]
 * seeing Lord compared with, [[sb/8/5/25#purport|SB 8.5.25]]
 * self-realization by, [[sb/3/26/2#purport|SB 3.26.2]]
 * sense gratification disturbs, [[sb/7/9/40#purport|SB 7.9.40]]
@@ -162,9 +166,17 @@
 * submission needed for, SB Intro 29, [[sb/1/1/2#purport|SB 1.1.2]]
 * success assured via, [[sb/2/9/18#purport|SB 2.9.18]]
 * Supersoul realized by, [[sb/1/2/32#purport|SB 1.2.32]]
+* to churning butter, [[sb/1/2/32#purport|SB 1.2.32]]
+* to drinking nectar, [[sb/2/2/37#purport|SB 2.2.37]]
+* to fire, [[sb/1/2/32#purport|SB 1.2.32]]
+* to Ganges, [[sb/2/1/1#purport|SB 2.1.1]]
+* to injection, [[sb/2/3/17#purport|SB 2.3.17]]
+* to nectar flowing, [[sb/2/8/26#purport|SB 2.8.26]]
+* to tree fructifying, [[sb/2/3/17#purport|SB 2.3.17]]
 * transcendence via, [[sb/10/7/9#purport|SB 10.7.9]]
 * value of, [[sb/1/13/14#purport|SB 1.13.14]], [[sb/3/25/2-2#purport|SB 3.25.2-2]], [[sb/3/25/3-4#purport|SB 3.25.3-4]], [[sb/3/26/32#purport|SB 3.26.32]], [[sb/4/11/31#purport|SB 4.11.31]], [[sb/7/1/4-5#purport|SB 7.1.4-5]], [[sb/7/1/29-30#purport|SB 7.1.29-30]]
 * Vedic culture as, [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * via disciplic succession, [[sb/2/8/2#purport|SB 2.8.2]]
+* with hearing mundane things, [[sb/1/1/19#purport|SB 1.1.19]], [[sb/1/5/26#purport|SB 1.5.26]]
 
-*See also:* [[k#Kṛṣṇa-kathā|Kṛṣṇa-kathā]]; [[s#Śrīmad-Bhāgavatam|Śrīmad-Bhāgavatam]]; personal reception of
+*See also:* Kṛṣṇa-kathā; Śrīmad-Bhāgavatam; personal reception of

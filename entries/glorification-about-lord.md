@@ -10,4 +10,4 @@
 * Lord present at, [[sb/3/24/29#purport|SB 3.24.29]], [[sb/4/21/41#purport|SB 4.21.41]]
 * purifying power of, [[sb/4/22/20#purport|SB 4.22.20]]
 
-*See also:* [[p#Preaching Kṛṣṇa consciousness|Preaching Kṛṣṇa consciousness]]; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]; [[s#Saṅkīrtana movement|Saṅkīrtana movement]]
+*See also:* Preaching Kṛṣṇa consciousness; Saṅkīrtana-yajña; Saṅkīrtana movement

@@ -1,6 +1,6 @@
 # Chanting holy name(s) of Lord
 
-[[sb/4/26/1-3#purport|SB 4.26.1-3]]
+[[sb/2/7/15#purport|SB 2.7.15]], [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
 
 * & seeing Lord as nondifferent, [[sb/7/4/25-26#purport|SB 7.4.25-26]]
 * Ajāmila purified via, [[sb/6/1/30#purport|SB 6.1.30]], [[sb/6/1/34-36#purport|SB 6.1.34-36]]
@@ -36,11 +36,11 @@
 * at Caitanya’s birth, SB Intro 6, SB Intro 7
 * at death, [[sb/1/3/42#purport|SB 1.3.42]], [[sb/1/9/23#purport|SB 1.9.23]], [[sb/1/9/23#purport|SB 1.9.23]]
 * attachment to Kṛṣṇa via, [[sb/9/9/42#purport|SB 9.9.42]]
-* blissful, N105 
+* blissful, N105
 * body changes via, [[sb/5/1/35#purport|SB 5.1.35]]
 * Bṛhad-viṣṇu Purāna quoted on, [[sb/6/2/7#purport|SB 6.2.7]]
-* by Ajāmila, as offenseless, [[sb/6/2/8#purport|SB 6.2.8]]
 * by Ajāmila, [[sb/6/1/25-30#purport|SB 6.1.25-30]], [[sb/6/2/7-8#purport|SB 6.2.7-8]], [[sb/6/2/45#purport|SB 6.2.45]], [[sb/6/2/49#purport|SB 6.2.49]],
+* by Ajāmila, as offenseless, [[sb/6/2/8#purport|SB 6.2.8]]
 * by Aṅgirā, [[sb/1/19/9-10#purport|SB 1.19.9-10]]
 * by Citraketu, [[sb/6/17/2-3#purport|SB 6.17.2-3]]
 * by gṛhasthas, [[sb/7/15/74#purport|SB 7.15.74]]
@@ -60,7 +60,7 @@
 * Caitanya as preacher of, SB Intro 7, SB Intro 10-12, SB Intro 30, SB Intro 32, SB Intro 35, SB Intro 40-41, [[sb/1/1/4#purport|SB 1.1.4]]
 * Caitanya introducer of, [[sb/5/18/11#purport|SB 5.18.11]]
 * Caitanya praises, [[sb/3/28/10#purport|SB 3.28.10]]
-* Caitanya recommends, [[sb/10/1/42#purport|SB 10.1.42]], [[sb/7/1/4-5#purport|SB 7.1.4-5]], [[sb/7/2/11#purport|SB 7.2.11]]
+* Caitanya recommends, [[sb/7/1/4-5#purport|SB 7.1.4-5]], [[sb/7/2/11#purport|SB 7.2.11]], [[sb/10/1/42#purport|SB 10.1.42]]
 * Caitanya revived by, SB Intro 18, SB Intro 19
 * caution in, [[sb/2/2/30#purport|SB 2.2.30]]
 * cleanses heart of all, SB Intro 7
@@ -88,7 +88,7 @@
 * for all, [[sb/2/1/11#purport|SB 2.1.11]], [[sb/2/1/11#purport|SB 2.1.11]]
 * for fixing mind on Kṛṣṇa, [[sb/3/28/9#purport|SB 3.28.9]]
 * for gṛhastha, [[sb/6/1/64#purport|SB 6.1.64]]
-* for Kali-yuga, [[sb/1/12/33-34#purport|SB 1.12.33-34]], [[sb/10/2/34#purport|SB 10.2.34]], [[sb/3/21/6-7#purport|SB 3.21.6-7]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/4/23/7#purport|SB 4.23.7]], [[sb/7/5/23-24#purport|SB 7.5.23-24]], [[sb/7/6/1#purport|SB 7.6.1]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/23/16#purport|SB 8.23.16]]
+* for Kali-yuga, [[sb/1/12/33-34#purport|SB 1.12.33-34]], [[sb/3/21/6-7#purport|SB 3.21.6-7]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/4/23/7#purport|SB 4.23.7]], [[sb/7/5/23-24#purport|SB 7.5.23-24]], [[sb/7/6/1#purport|SB 7.6.1]], [[sb/8/6/12#purport|SB 8.6.12]], [[sb/8/23/16#purport|SB 8.23.16]], [[sb/10/2/34#purport|SB 10.2.34]]
 * for peace, [[sb/1/1/4#purport|SB 1.1.4]]
 * for present age, [[sb/2/1/37#purport|SB 2.1.37]], [[sb/2/4/20#purport|SB 2.4.20]], [[sb/2/5/15#purport|SB 2.5.15]], [[sb/2/6/25-26#purport|SB 2.6.25-26]]
 * for protection, [[sb/1/15/28#purport|SB 1.15.28]], [[sb/6/8/27-28#purport|SB 6.8.27-28]]
@@ -131,7 +131,7 @@
 * meditation via, [[sb/4/24/70-70#purport|SB 4.24.70-70]]
 * mind cleansed via, [[sb/7/11/8-12#purport|SB 7.11.8-12]]
 * miseries relieved by, [[sb/3/25/23#purport|SB 3.25.23]]
-* misery cured by, N104 
+* misery cured by, N104
 * modern facilities for, [[sb/2/1/37#purport|SB 2.1.37]]
 * mystic yoga compared with, [[sb/2/2/19#purport|SB 2.2.19]]
 * Nārada’s, with devotees, [[sb/6/5/22#purport|SB 6.5.22]]
@@ -166,7 +166,6 @@
 * revives senses transcendentally, [[sb/1/5/38#purport|SB 1.5.38]]
 * Śaṅkarācārya recommends, [[sb/1/3/42#purport|SB 1.3.42]]
 * sannyāsīs should not renounce, [[sb/5/9/2#purport|SB 5.9.2]]
-*  [[sb/2/7/15#purport|SB 2.7.15]], [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/36#purport|SB 2.9.36]]
 * sense gratification disturbs, [[sb/7/9/40#purport|SB 7.9.40]]
 * senses controlled via, [[sb/7/9/40#purport|SB 7.9.40]]
 * simplicity of, [[sb/5/14/42#purport|SB 5.14.42]]
@@ -197,4 +196,4 @@
 * with devotees recommended, [[sb/7/9/46#purport|SB 7.9.46]]
 * Yamarāja praises value of, [[sb/6/3/22-26#purport|SB 6.3.22-26]]
 
-*See also:* [[c#Chanting Hare Kṛṣṇa|Chanting Hare Kṛṣṇa]]; [[g#Glorification about Supreme Lord|Glorification about Supreme Lord]]; [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]; [[g#Gāyatrī mantra|Gāyatrī mantra]]; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; [[s#Supreme Lord|Supreme Lord]]; names of; [[c#Chanting about Supreme Lord|Chanting about Supreme Lord]]; Name of Supreme Lord; [[s#Saṅkīrtana|Saṅkīrtana]]; [[s#Saṅkīrtana movement|Saṅkīrtana movement]]; [[g#Glorification about Lord|Glorification about Lord]]; [[k#Kīrtana|Kīrtana]]
+*See also:* Chanting Hare Kṛṣṇa; Glorification about Supreme Lord; Hearing about Supreme Lord; Saṅkīrtana-yajña; Gāyatrī mantra; Hare Kṛṣṇa mantra; Supreme Lord; names of; Chanting about Supreme Lord; Name of Supreme Lord; Saṅkīrtana; Saṅkīrtana movement; Glorification about Lord; Kīrtana

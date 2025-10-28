@@ -1,10 +1,12 @@
 # Priyavrata, King
 
-[[cc/madhya/20/328#purport|Madhya 20.328]]
+[[cc/madhya/20/328#purport|Madhya 20.328]], [[sb/3/21/2#purport|SB 3.21.2]], [[sb/3/22/9#purport|SB 3.22.9]]
 
 * & sun-god, [[sb/5/1/30#purport|SB 5.1.30]]
+* accepted by, [[sb/5/1/24#purport|SB 5.1.24]]
 * activities of, compared with Lord’s activities, [[sb/5/1/39#purport|SB 5.1.39]]
 * Āgnīdhra follows orders of, [[sb/5/1/1#purport|SB 5.1.1]]
+* approaches, [[sb/5/1/7-8#purport|SB 5.1.7-8]]
 * as liberated soul, [[sb/5/1/23#purport|SB 5.1.23]]
 * as Lord’s devotee, [[sb/5/1/1#purport|SB 5.1.1]]
 * as mahā-bhāgavata, [[sb/5/1/20#purport|SB 5.1.20]]
@@ -16,7 +18,7 @@
 * Barhiṣmatī’s loving relationship with, [[sb/5/1/29#purport|SB 5.1.29]]
 * Bengali saying refers to, [[sb/5/1/30#purport|SB 5.1.30]]
 * boundaries established by, [[sb/5/1/40#purport|SB 5.1.40]]
-* Brahmā 
+* Brahmā
 * brahmacārī training &, [[sb/5/1/1#purport|SB 5.1.1]]
 * children of, [[sb/5/1/24#purport|SB 5.1.24]], [[sb/5/1/28#purport|SB 5.1.28]]
 * compared with Vaivasvata Manu, [[sb/5/1/22#purport|SB 5.1.22]]
@@ -24,30 +26,38 @@
 * devotional position of, as secure, [[sb/5/1/5#purport|SB 5.1.5]]
 * devotional service by, [[sb/5/1/2#purport|SB 5.1.2]], [[sb/5/1/6#purport|SB 5.1.6]]
 * duration of reign by, [[sb/5/1/29#purport|SB 5.1.29]]
+* enjoyed by, [[sb/5/1/1#purport|SB 5.1.1]]
 * family attachment by, [[sb/5/1/2#purport|SB 5.1.2]], [[sb/5/1/4#purport|SB 5.1.4]]
-* family life 
+* family life
 * Ghṛtapṛṣṭha son of, [[sb/5/20/20#purport|SB 5.20.20]]
+* grandfather of, [[sb/5/1/10#purport|SB 5.1.10]], [[sb/5/1/20#purport|SB 5.1.20]]
 * Hiraṇyetā son of, [[sb/5/1/14#purport|SB 5.1.14]]
 * Idhmajihva son of, [[sb/5/1/2#purport|SB 5.1.2]]
+* incarnates in dynasty of, [[sb/5/6/14#purport|SB 5.6.14]]
+* instructs, [[sb/5/1/11-19#purport|SB 5.1.11-19]]
 * islands (seven) created by, [[sb/5/1/31-32#purport|SB 5.1.31-32]]
 * knowledge by, [[sb/5/1/6#purport|SB 5.1.6]]
 * Kṛṣṇa consciousness achieved by, [[sb/5/1/4#purport|SB 5.1.4]]
-* Lord 
+* Lord
 * Lord’s pastimes in heart of, [[sb/5/1/38#purport|SB 5.1.38]]
 * material influence &, [[sb/5/1/36#purport|SB 5.1.36]]
 * Medhātithi son of, [[sb/5/20/25#purport|SB 5.20.25]]
 * modern politicians compared with, [[sb/5/1/22#purport|SB 5.1.22]]
 * modern science compared with activities of, [[sb/5/1/37#purport|SB 5.1.37]]
-* Nārada Muni &. See: Nārada Muni, Priyavrata & ... 
+* Nārada Muni &. See: Nārada Muni, Priyavrata & ...
+* not resented by, [[sb/5/1/21#purport|SB 5.1.21]]
 * oceans created by, [[sb/5/1/31#purport|SB 5.1.31]], [[sb/5/16/2#purport|SB 5.16.2]]
+* order of, accepted by, [[sb/5/1/5#purport|SB 5.1.5]], [[sb/5/1/20#purport|SB 5.1.20]]
+* ordered by Lord to instruct, [[sb/5/1/11#purport|SB 5.1.11]]
 * orders of superiors honored by, [[sb/5/1/23#purport|SB 5.1.23]]
 * perfection achieved by, [[sb/5/1/6#purport|SB 5.1.6]]
 * power of, [[sb/5/1/29#purport|SB 5.1.29]], [[sb/5/1/30#purport|SB 5.1.30]]
+* purpose of, in approaching, [[sb/5/1/10#purport|SB 5.1.10]]
 * quoted on himself, [[sb/5/1/37#purport|SB 5.1.37]]
 * religious principles upheld by, [[sb/5/1/29#purport|SB 5.1.29]]
+* remembered by, [[sb/5/1/6#purport|SB 5.1.6]], [[sb/5/1/23#purport|SB 5.1.23]]
 * renounced path resumed by, [[sb/5/1/36-38#purport|SB 5.1.36-38]], [[sb/5/1/41#purport|SB 5.1.41]]
 * respect to superiors as qualification of, [[sb/5/1/23#purport|SB 5.1.23]]
-*  [[sb/3/21/2#purport|SB 3.21.2]], [[sb/3/22/9#purport|SB 3.22.9]]
 * sons of, named, [[sb/5/1/25#purport|SB 5.1.25]]
 * sun of, [[sb/5/1/30#purport|SB 5.1.30]]
 * Svāyambhuva Manu gives universal duties to, [[sb/5/1/22#purport|SB 5.1.22]]
@@ -56,4 +66,7 @@
 * verses glorifying, [[sb/5/1/39-41#purport|SB 5.1.39-41]]
 * Viraja jewel of dynasty of, [[sb/5/15/16#purport|SB 5.15.16]]
 * Vītihotra son of, [[sb/5/20/31#purport|SB 5.20.31]]
+* worshiped by, [[sb/5/1/9-10#purport|SB 5.1.9-10]]
 * Yajñabāhu son of, [[sb/5/20/9#purport|SB 5.20.9]]
+
+*See also:* specific islands (dvīpas)

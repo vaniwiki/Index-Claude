@@ -3,10 +3,10 @@
 * accuses Dakṣa, [[sb/4/4/11-23#purport|SB 4.4.11-23]]
 * addresses Śiva about sacrifice, [[sb/4/3/8-14#purport|SB 4.3.8-14]]
 * advised by Śiva, [[sb/4/3/16-25#purport|SB 4.3.16-25]]
-* angry 
+* angry
 * appeals to Śiva, [[sb/4/3/14#purport|SB 4.3.14]], [[sb/4/4/2-3#purport|SB 4.4.2-3]]
 * argument against statements of, [[sb/4/4/17#purport|SB 4.4.17]]
-* as ”poor woman,” [[sb/4/3/11#purport|SB 4.3.11]]
+* as ”poor woman,”, [[sb/4/3/11#purport|SB 4.3.11]]
 * as chaste, [[sb/4/2/2#purport|SB 4.2.2]]
 * as childless, [[sb/4/1/65#purport|SB 4.1.65]], [[sb/4/1/66#purport|SB 4.1.66]]
 * as Dakṣa’s pet daughter, [[sb/4/4/8#purport|SB 4.4.8]], [[sb/4/5/1#purport|SB 4.5.1]]
@@ -17,10 +17,15 @@
 * as materialistic, [[sb/4/3/9#purport|SB 4.3.9]], [[sb/4/3/11#purport|SB 4.3.11]]
 * as woman or śūdra, [[sb/4/4/17#purport|SB 4.4.17]]
 * ashamed of Dakṣa as father, [[sb/4/4/22-23#purport|SB 4.4.22-23]]
-* attendants of 
+* at Dakṣa, [[sb/4/4/9-9#purport|SB 4.4.9-9]], [[sb/4/4/10#purport|SB 4.4.10]]
+* at Śiva, [[sb/4/4/2-3#purport|SB 4.4.2-3]]
+* attendants of
 * bathing lake of, [[sb/4/6/22-22#purport|SB 4.6.22-22]]
 * benefits Śiva worshipers, [[sb/4/4/21#purport|SB 4.4.21]]
+* blasphemy, [[sb/4/4/17-17#purport|SB 4.4.17-17]]
 * body of, honored by Śiva, [[sb/4/4/26#purport|SB 4.4.26]]
+* Brahmā advised, [[sb/4/2/16#purport|SB 4.2.16]]
+* by yoga, [[sb/4/4/24#purport|SB 4.4.24]], [[sb/4/4/25#purport|SB 4.4.25]], [[sb/4/4/26#purport|SB 4.4.26]], [[sb/4/4/27#purport|SB 4.4.27]]
 * cleansed of contamination, [[sb/4/4/26#purport|SB 4.4.26]], [[sb/4/4/27#purport|SB 4.4.27]]
 * concentrated on Śiva, [[sb/4/4/27#purport|SB 4.4.27]]
 * concerned for Śiva’s honor, [[sb/4/4/9#purport|SB 4.4.9]]
@@ -30,18 +35,23 @@
 * cries before Śiva, [[sb/4/4/2-2#purport|SB 4.4.2-2]]
 * Dakṣa neglected, [[sb/4/4/8#purport|SB 4.4.8]], [[sb/4/4/9#purport|SB 4.4.9]], [[sb/4/4/30#purport|SB 4.4.30]], [[sb/4/5/9#purport|SB 4.5.9]]
 * Dakṣa questions marriage of, [[sb/4/2/13#purport|SB 4.2.13]], [[sb/4/2/16#purport|SB 4.2.16]]
+* Dakṣa regrets, [[sb/4/2/13#purport|SB 4.2.13]], [[sb/4/2/16#purport|SB 4.2.16]]
 * death of, [[sb/4/4/27#purport|SB 4.4.27]]
+* decided by her, [[sb/4/4/17#purport|SB 4.4.17]], [[sb/4/4/18#purport|SB 4.4.18]], [[sb/4/4/22-24#purport|SB 4.4.22-24]]
 * decides on suicide, [[sb/4/4/17#purport|SB 4.4.17]], [[sb/4/4/18#purport|SB 4.4.18]], [[sb/4/4/22-24#purport|SB 4.4.22-24]]
 * defended Śiva, [[sb/4/4/17#purport|SB 4.4.17]]
-* desired 
+* demigods react to, [[sb/4/4/28#purport|SB 4.4.28]], [[sb/4/4/29#purport|SB 4.4.29]]
+* desired
 * didn’t vilify Dakṣa, [[sb/4/4/17#purport|SB 4.4.17]]
-* discusses 
+* discusses
 * dissatisfied ultimately, [[sb/4/4/28#purport|SB 4.4.28]]
 * distressed by Śiva, [[sb/4/4/2-2#purport|SB 4.4.2-2]]
 * divided in decision, [[sb/4/4/1-1#purport|SB 4.4.1-1]]
 * dowry of, from father, [[sb/4/3/9#purport|SB 4.3.9]]
+* duty of, [[sb/4/4/31#purport|SB 4.4.31]]
 * eternally related to Śiva, [[sb/4/4/26#purport|SB 4.4.26]], [[sb/4/7/59#purport|SB 4.7.59]]
 * fearless, [[sb/4/4/4#purport|SB 4.4.4]]
+* fight demigods, [[sb/4/4/34#purport|SB 4.4.34]]
 * forgot Dakṣa (by trance), [[sb/4/4/27#purport|SB 4.4.27]]
 * gives opulence, [[sb/4/4/21#purport|SB 4.4.21]]
 * goes to Dakṣa’s sacrifice, [[sb/4/4/4-9#purport|SB 4.4.4-9]]
@@ -50,7 +60,7 @@
 * knew yoga, [[sb/4/4/24#purport|SB 4.4.24]]
 * leaves Śiva, [[sb/4/4/3#purport|SB 4.4.3]]
 * life air raised by, [[sb/4/4/25#purport|SB 4.4.25]]
-* marriage of 
+* marriage of
 * material body attained by, [[sb/4/4/27#purport|SB 4.4.27]]
 * meditated on Śiva, [[sb/4/4/27#purport|SB 4.4.27]]
 * mother & sisters of, [[sb/4/4/7#purport|SB 4.4.7]], [[sb/4/4/8#purport|SB 4.4.8]]
@@ -63,6 +73,13 @@
 * purified of contamination, [[sb/4/4/26#purport|SB 4.4.26]], [[sb/4/4/27#purport|SB 4.4.27]]
 * sat on Śiva’s lap, [[sb/4/4/26#purport|SB 4.4.26]]
 * sees demigods’ wives, [[sb/4/3/7#purport|SB 4.3.7]]
+* Śiva, [[sb/4/4/11-16#purport|SB 4.4.11-16]]
+* Śiva’s opulence, [[sb/4/4/21-21#purport|SB 4.4.21-21]]
+* to attend sacrifice, [[sb/4/3/8-14#purport|SB 4.3.8-14]]
+* to convince Dakṣa, [[sb/4/4/16#purport|SB 4.4.16]]
+* to decorate herself, [[sb/4/3/9-9#purport|SB 4.3.9-9]]
+* to enjoy, [[sb/4/3/9#purport|SB 4.3.9]], [[sb/4/3/11#purport|SB 4.3.11]]
+* to purify herself, [[sb/4/4/26#purport|SB 4.4.26]]
 * warned by Śiva, [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18-18#purport|SB 4.3.18-18]], [[sb/4/3/20-20#purport|SB 4.3.20-20]], [[sb/4/3/24-25#purport|SB 4.3.24-25]]
 * weakness in, [[sb/4/4/3#purport|SB 4.4.3]]
 * welcomed by mother & sisters, [[sb/4/4/7#purport|SB 4.4.7]], [[sb/4/4/8#purport|SB 4.4.8]]

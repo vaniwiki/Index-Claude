@@ -1,6 +1,6 @@
 # Govinda dāsa (Īśvara Purīs disciple)
 
-[[cc/adi/10/60#purport|Ādi 10.60]], [[cc/adi/10/63#purport|Ādi 10.63]], **[[cc/antya/4/121#translation|Antya 4.121]]**, **[[cc/antya/6/221#translation|Antya 6.221]]**, **[[cc/antya/6/305#translation|Antya 6.305]]**, **[[cc/antya/6/321#translation|Antya 6.321]]**, **[[cc/madhya/16/38–39#translation|Madhya 16.38–39]]**, **[[cc/madhya/25/228#translation|Madhya 25.228]]**
+[[cc/adi/10/60#purport|Ādi 10.60]], [[cc/adi/10/63#purport|Ādi 10.63]], **[[cc/madhya/25/228#translation|Madhya 25.228]]**, **[[cc/madhya/16/38–39#translation|Madhya 16.38–39]]**, **[[cc/antya/6/221#translation|Antya 6.221]]**, **[[cc/antya/6/305#translation|Antya 6.305]]**, **[[cc/antya/6/321#translation|Antya 6.321]]**, **[[cc/antya/4/121#translation|Antya 4.121]]**
 
 * Advaita &, **[[cc/madhya/11/78–80#translation|Madhya 11.78–80]]**
 * as Lord’s servant at Purī, **[[cc/adi/10/138–41#translation|Ādi 10.138–41]]**, **[[cc/madhya/15/184–85#translation|Madhya 15.184–85]]**

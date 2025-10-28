@@ -1,6 +1,6 @@
-# Vedic injunction(s)
+# Vedic injunctions
 
-**[[cc/madhya/22/22/61#translation|Madhya 22.22.61]]**, [[cc/madhya/8/36#purport|Madhya 8.36]], [[cc/madhya/8/37#purport|Madhya 8.37]]
+[[cc/madhya/8/36#purport|Madhya 8.36]], [[cc/madhya/8/37#purport|Madhya 8.37]], **[[cc/madhya/22/22/61#translation|Madhya 22.22.61]]**
 
 * as Lord’s order, [[sb/10/2/14#purport|SB 10.2.14]]
 * as śruti, [[sb/4/18/3#purport|SB 4.18.3]]
@@ -22,6 +22,6 @@
 * personal & impersonal conceptions of, [[sb/4/22/37#purport|SB 4.22.37]]
 * purpose of, [[sb/3/2/11#purport|SB 3.2.11]]
 
-*See also:* [[r#Regulative principles|Regulative principles]]; [[r#Religion|Religion]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; [[v#Vedic culture|Vedic culture]]; [[r#Religious principles|Religious principles]]
+*See also:* Regulative principles; [Religion](entries/religions.md); Varṇāśrama-dharma; Vedic culture; Religious principles
 
-*See:* [[v#Vedic regulations|Vedic regulations]]; [[r#Regulative principles|Regulative principles]]; [[r#Religious principles|Religious principles]]
+*See:* [Authority](entries/authorities.md); Regulative principles; Religious principles; Vedic regulations

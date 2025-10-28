@@ -1,9 +1,10 @@
 # Ganges River
 
-**[[cc/adi/16/41#translation|Ādi 16.41]]**, **[[cc/adi/16/82#translation|Ādi 16.82]]**, [[cc/antya/1/37#purport|Antya 1.37]], **[[cc/antya/2/164#translation|Antya 2.164]]**, **[[cc/antya/2/166#translation|Antya 2.166]]**, **[[cc/madhya/18/222#translation|Madhya 18.222]]**, **[[cc/madhya/19/60#translation|Madhya 19.60]]**, [[cc/madhya/19/61#purport|Madhya 19.61]], **[[cc/madhya/24/230#translation|Madhya 24.230]]**, **[[cc/madhya/3/29#translation|Madhya 3.29]]**, **[[cc/madhya/3/33–36#translation|Madhya 3.33–36]]**, **[[cc/madhya/9/170#translation|Madhya 9.170]]**, [[sb/3/33/34#purport|SB 3.33.34]]
+[[bg/29–30|Bg. 29–30]], [[bg/6/12|Bg. 6.12]], **[[cc/madhya/9/170#translation|Madhya 9.170]]**, **[[cc/madhya/24/230#translation|Madhya 24.230]]**, **[[cc/antya/2/164#translation|Antya 2.164]]**, **[[cc/antya/2/166#translation|Antya 2.166]]**, **[[cc/adi/16/41#translation|Ādi 16.41]]**, **[[cc/madhya/3/29#translation|Madhya 3.29]]**, **[[cc/madhya/3/33–36#translation|Madhya 3.33–36]]**, **[[cc/adi/16/82#translation|Ādi 16.82]]**, [[cc/antya/1/37#purport|Antya 1.37]], **[[cc/madhya/18/222#translation|Madhya 18.222]]**, **[[cc/madhya/19/60#translation|Madhya 19.60]]**, [[cc/madhya/19/61#purport|Madhya 19.61]], [[sb/2/1/1#purport|SB 2.1.1]], [[sb/2/6/23#purport|SB 2.6.23]], [[sb/3/33/34#purport|SB 3.33.34]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/6/5/27-29#purport|SB 6.5.27-29]], [[sb/6/10/16#purport|SB 6.10.16]]
 
 * & Purī trip by Caitanya, **[[cc/madhya/3/216#translation|Madhya 3.216]]**
 * Aṁśumān &, [[sb/9/9/1#purport|SB 9.9.1]]
+* Aṁśumān’s forefathers deliverable by, [[sb/9/8/28#purport|SB 9.8.28]]
 * as Caitanya’s maidservant, **[[cc/adi/14/50#translation|Ādi 14.50]]**
 * as drop of Causal Ocean, **[[cc/adi/5/54#translation|Ādi 5.54]]**
 * as foodstuff, [[cc/antya/10/35#purport|Antya 10.35]]
@@ -15,10 +16,8 @@
 * at Saptasrota, [[sb/1/13/52#purport|SB 1.13.52]]
 * attraction to Lord compared to, [[sb/1/8/42#purport|SB 1.8.42]]
 * bath in, during eclipse, SB Intro 6
-* bathing in 
 * bathing in, **[[cc/adi/14/48#translation|Ādi 14.48]]**, [[sb/9/9/6#purport|SB 9.9.6]], [[sb/9/9/14#purport|SB 9.9.14]]
 * bathing in, compared to hearing Lord’s pastimes, [[sb/3/20/5#purport|SB 3.20.5]]
-*  [[bg/29–30|Bg. 29–30]], [[bg/6/12|Bg. 6.12]], [[sb/2/1/1#purport|SB 2.1.1]], [[sb/2/6/23#purport|SB 2.6.23]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/6/5/27-29#purport|SB 6.5.27-29]], [[sb/6/10/16#purport|SB 6.10.16]]
 * Bhagīratha &, [[sb/9/9/3#purport|SB 9.9.3]], [[sb/9/9/6#purport|SB 9.9.6]], [[sb/9/9/7#purport|SB 9.9.7]], [[sb/9/9/10-11#purport|SB 9.9.10-11]]
 * Bhāgīrathī name of, [[sb/5/17/1#purport|SB 5.17.1]]
 * Bharata’s horse sacrifices at, [[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/20/24-26#purport|SB 9.20.24-26]]
@@ -30,8 +29,9 @@
 * celestial, [[cc/antya/16/146#purport|Antya 16.146]], [[cc/antya/16/148#purport|Antya 16.148]]
 * Choṭa Haridāsa &, **[[cc/antya/2/147#translation|Antya 2.147]]**, **[[cc/antya/2/161#translation|Antya 2.161]]**
 * color of, from Lord’s feet, [[sb/5/17/1#purport|SB 5.17.1]]
-* compared to *Bhagavad-gītā,* 29–30 
+* compared to *Bhagavad-gītā,* 29–30
 * compared to Lord, [[sb/3/5/38#purport|SB 3.5.38]]
+* compared with hearing & chanting about Lord, [[sb/5/18/11#purport|SB 5.18.11]]
 * cosmic course of, [[sb/3/8/5#purport|SB 3.8.5]]
 * demigods carry, through universe in airplanes, [[sb/5/17/4#purport|SB 5.17.4]]
 * denizens of heaven &, **[[cc/antya/1/92#translation|Antya 1.92]]**
@@ -50,6 +50,7 @@
 * hellish opinion about, [[sb/4/21/12#purport|SB 4.21.12]]
 * Hindu custom &, [[cc/antya/1/37#purport|Antya 1.37]]
 * husband of, [[sb/1/19/17#purport|SB 1.19.17]]
+* in Deity worship, [[sb/9/4/26#purport|SB 9.4.26]]
 * in funeral custom, [[sb/1/8/1-2#purport|SB 1.8.1-2]]
 * in Kailāsa, [[sb/4/6/22#purport|SB 4.6.22]]
 * in Navadvīpa, [[cc/madhya/16/207#purport|Madhya 16.207]], **[[cc/madhya/16/256#translation|Madhya 16.256]]**
@@ -64,6 +65,7 @@
 * Kṛṣṇa consciousness compared to, [[sb/4/21/31#purport|SB 4.21.31]]
 * Kṛṣṇa represented by, [[bg/10/31|Bg. 10.31]]
 * liberation via bathing in, [[cc/antya/4/98#purport|Antya 4.98]]
+* liberation via, [[sb/5/17/9#purport|SB 5.17.9]]
 * Lord sanctifies, [[sb/1/8/2#purport|SB 1.8.2]], [[sb/1/19/6#purport|SB 1.19.6]]
 * Lord’s feet &, [[sb/4/6/24#purport|SB 4.6.24]], [[sb/4/6/25#purport|SB 4.6.25]]
 * Lord’s pastimes compared to, **[[cc/madhya/20/383#translation|Madhya 20.383]]**
@@ -87,9 +89,10 @@
 * pure devotees purify, [[sb/9/9/6#purport|SB 9.9.6]]
 * purification via bathing in, **[[cc/adi/17/245#translation|Ādi 17.245]]**
 * purification via, [[sb/5/1/35#purport|SB 5.1.35]], [[sb/5/17/1#purport|SB 5.17.1]]
-* purifying power of, [[sb/1/18/18#purport|SB 1.18.18]], [[sb/1/18/21#purport|SB 1.18.21]], [[sb/10/1/16#purport|SB 10.1.16]], [[sb/3/5/41#purport|SB 3.5.41]], [[sb/3/8/5#purport|SB 3.8.5]], [[sb/4/21/31#purport|SB 4.21.31]], [[sb/4/24/58#purport|SB 4.24.58]]
+* purifying power of, [[sb/1/18/18#purport|SB 1.18.18]], [[sb/1/18/21#purport|SB 1.18.21]], [[sb/3/5/41#purport|SB 3.5.41]], [[sb/3/8/5#purport|SB 3.8.5]], [[sb/4/21/31#purport|SB 4.21.31]], [[sb/4/24/58#purport|SB 4.24.58]], [[sb/10/1/16#purport|SB 10.1.16]]
 * purity of, [[sb/5/17/1#purport|SB 5.17.1]]
 * Rādhārāṇī compared to, **[[cc/antya/1/191#translation|Antya 1.191]]**
+* results of great sacrifices attained by, [[sb/5/17/9#purport|SB 5.17.9]]
 * Śaṅkarācārya glorifies, [[sb/5/17/1#purport|SB 5.17.1]]
 * Satī’s lake as, [[sb/4/6/22#purport|SB 4.6.22]]
 * seven great sages accept water from, [[sb/5/17/3#purport|SB 5.17.3]]

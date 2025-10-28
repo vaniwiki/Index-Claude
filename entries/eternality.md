@@ -6,7 +6,7 @@
 * of living entities, [[sb/3/7/5#purport|SB 3.7.5]]
 * of living entity, [[sb/2/1/15#purport|SB 2.1.15]], [[sb/2/7/49#purport|SB 2.7.49]], [[sb/2/7/49#purport|SB 2.7.49]]
 * of Lord & associates, [[sb/3/2/2#purport|SB 3.2.2]], [[sb/3/7/37#purport|SB 3.7.37]]
-* of Lord & His abode, N111 
+* of Lord & His abode, N111
 * of Lord’s internal potency, [[sb/3/7/2#purport|SB 3.7.2]]
 * of spiritual planets, [[sb/2/5/39#purport|SB 2.5.39]]
 * via hearing about Lord, [[sb/2/3/17#purport|SB 2.3.17]]

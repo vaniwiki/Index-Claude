@@ -4,6 +4,6 @@
 
 * Yayāti-Devayānī marriage arranged by, [[sb/9/18/20-23#purport|SB 9.18.20-23]]
 
-*See also:* [[k#Karma|Karma]]
+*See also:* [Karma](entries/karma.md)
 
-*See:* [[d#Destiny|Destiny]]; [[k#Karma|Karma]]; [[s#Supreme Lord|Supreme Lord]]; will of
+*See:* [Destiny](entries/destiny.md); [Karma](entries/karma.md); Supreme Lord; will of

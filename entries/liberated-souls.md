@@ -1,6 +1,6 @@
 # Liberated soul(s)
 
-[[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/5/30#purport|Ādi 5.30]], [[cc/madhya/11/89#purport|Madhya 11.89]], [[cc/madhya/15/108#purport|Madhya 15.108]], [[cc/madhya/19/135#purport|Madhya 19.135]], **[[cc/madhya/19/148#translation|Madhya 19.148]]**, **[[cc/madhya/22/10–11#translation|Madhya 22.10–11]]**, [[cc/madhya/22/14–15#purport|Madhya 22.14–15]], **[[cc/madhya/24/112#translation|Madhya 24.112]]**, **[[cc/madhya/24/121#translation|Madhya 24.121]]**, [[cc/madhya/24/124#purport|Madhya 24.124]], **[[cc/madhya/24/129#translation|Madhya 24.129]]**, **[[cc/madhya/24/144#translation|Madhya 24.144]]**, [[cc/madhya/24/230#purport|Madhya 24.230]], **[[cc/madhya/25/156#translation|Madhya 25.156]]**
+[[bg/4/14–15|Bg. 4.14–15]], [[bg/18/78|Bg. 18.78]] (5), [[cc/adi/2/117#purport|Ādi 2.117]], [[cc/adi/5/30#purport|Ādi 5.30]], [[cc/madhya/11/89#purport|Madhya 11.89]], [[cc/madhya/15/108#purport|Madhya 15.108]], [[cc/madhya/19/135#purport|Madhya 19.135]], **[[cc/madhya/19/148#translation|Madhya 19.148]]**, **[[cc/madhya/22/10–11#translation|Madhya 22.10–11]]**, [[cc/madhya/22/14–15#purport|Madhya 22.14–15]], **[[cc/madhya/24/112#translation|Madhya 24.112]]**, **[[cc/madhya/24/121#translation|Madhya 24.121]]**, **[[cc/madhya/24/129#translation|Madhya 24.129]]**, [[cc/madhya/24/124#purport|Madhya 24.124]], **[[cc/madhya/24/144#translation|Madhya 24.144]]**, [[cc/madhya/24/230#purport|Madhya 24.230]], **[[cc/madhya/25/156#translation|Madhya 25.156]]**
 
 * activities performed by, [[sb/5/1/16#purport|SB 5.1.16]]
 * Arjuna as, [[bg/1/20|Bg. 1.20]]
@@ -12,9 +12,16 @@
 * as perfect, [[sb/1/5/13#purport|SB 1.5.13]]
 * attracted by Lord, [[sb/1/7/10-11#purport|SB 1.7.10-11]]
 * benefit of all as concern of, [[sb/1/4/17-18#purport|SB 1.4.17-18]]
-*  [[bg/4/14–15|Bg. 4.14–15]], [[bg/18/78|Bg. 18.78]] (5)
 * classes of, two listed, [[sb/7/10/13#purport|SB 7.10.13]]
-* compared 
+* compared
+  * to aquatic in ocean, [[bg/18/55|Bg. 18.55]]
+  * to bird, green, in green tree, [[bg/18/55|Bg. 18.55]]
+  * to butterfly, [[bg/8/8|Bg. 8.8]]
+  * to ocean, [[bg/18/51|Bg. 18.51]]
+  * to river merged with ocean, for impersonalist, [[bg/18/55|Bg. 18.55]]
+  * to tortoise, [[bg/2/58|Bg. 2.58]]
+  * with conditioned soul, [[bg/5/13–14|Bg. 5.13–14]], [[bg/5/19|Bg. 5.19]]
+  * with Supreme Soul, [[bg/5/19|Bg. 5.19]]
 * compared to awakened person, [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/11/12#purport|SB 5.11.12]]
 * compared to dreamer awakened, [[sb/4/22/27-27#purport|SB 4.22.27-27]]
 * compared with conditioned soul, [[sb/3/27/13-13#purport|SB 3.27.13-13]]
@@ -23,9 +30,9 @@
 * descend, not fall, [[sb/7/1/35#purport|SB 7.1.35]], [[sb/7/1/37#purport|SB 7.1.37]]
 * despite embodiment, [[bg/5/19–20|Bg. 5.19–20]]
 * detailed, [[sb/3/28/35-38#purport|SB 3.28.35-38]]
-* devotee as, [[sb/3/21/34#purport|SB 3.21.34]], [[sb/4/22/26-27#purport|SB 4.22.26-27]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/9/29#purport|SB 4.9.29]], [[sb/4/17/29#purport|SB 4.17.29]], [[sb/9/13/9#purport|SB 9.13.9]]
-* devotees as, N110, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/4/20#purport|SB 10.4.20]]
+* devotee as, [[sb/3/21/34#purport|SB 3.21.34]], [[sb/4/9/29#purport|SB 4.9.29]], [[sb/4/17/29#purport|SB 4.17.29]], [[sb/4/22/26-27#purport|SB 4.22.26-27]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/9/13/9#purport|SB 9.13.9]]
 * devotees as, [[sb/5/1/2#purport|SB 5.1.2]], [[sb/5/4/5#purport|SB 5.4.5]], [[sb/5/19/5#purport|SB 5.19.5]], [[sb/7/9/18#purport|SB 7.9.18]], [[sb/7/10/14#purport|SB 7.10.14]]
+* devotees as, N110, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/4/20#purport|SB 10.4.20]]
 * devotional service performed by, [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/11/12#purport|SB 5.11.12]]
 * duality tolerated by, [[sb/9/13/27#purport|SB 9.13.27]]
 * following in footsteps of, [[sb/4/18/4-4#purport|SB 4.18.4-4]]
@@ -52,11 +59,12 @@
 * pure devotees as, [[sb/7/7/34#purport|SB 7.7.34]]
 * Rāma compared to, [[sb/9/10/8#purport|SB 9.10.8]] @See also: Pure devotee(s)
 * serves Lord, [[sb/4/20/29#purport|SB 4.20.29]], [[sb/4/22/28#purport|SB 4.22.28]], [[sb/4/22/51#purport|SB 4.22.51]]
-* *See:* [[s#Spiritual body|Spiritual body]] 
 * Sunanda as, [[sb/1/14/32-33#purport|SB 1.14.32-33]]
 * symptoms & characteristics of, [[bg/5/16–28|Bg. 5.16–28]]
 * symptoms of, [[sb/5/4/5#purport|SB 5.4.5]], [[sb/5/18/4#purport|SB 5.18.4]]
 * Uddhava as, [[sb/1/14/32-33#purport|SB 1.14.32-33]]
 * vision of happiness & distress by, [[sb/5/1/16#purport|SB 5.1.16]]
 
-*See also:* [[l#Liberation|Liberation]]; [[a#Authorities|Authorities]]; spiritual; Devotees; Pure devotees; Self-realizeds soul; Pures devotee; Nitya-mukta; Spirituals master; Pures Devotee; specific liberated souls; spirituals master; Pure devotees of Lord
+*See also:* [Liberation](entries/liberation.md); Authorities; spiritual; Devotees; Pure devotees; Self-realizeds soul; Pures devotee; Nitya-mukta; Spirituals master; Pures Devotee; specific liberated souls; Pure devotees of Lord; spirituals master
+
+*See:* Spiritual body

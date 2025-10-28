@@ -25,7 +25,7 @@
 * for mahātmās, [[sb/3/7/20#purport|SB 3.7.20]]
 * goddess of fortune serves, [[sb/1/18/20#purport|SB 1.18.20]]
 * goodness needed for knowing, [[sb/1/4/24#purport|SB 1.4.24]]
-* hearing about. See: Hearing about Supreme Lord 
+* hearing about. See: Hearing about Supreme Lord
 * in Nārada’s footsteps, [[sb/1/6/21#purport|SB 1.6.21]]
 * in prayer, [[sb/3/8/6#purport|SB 3.8.6]]
 * knowledge used in, [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]]
@@ -40,4 +40,4 @@
 * with Vedic hymns, [[sb/3/13/25#purport|SB 3.13.25]], [[sb/3/15/26#purport|SB 3.15.26]]
 * writer’s role in, [[sb/1/5/22#purport|SB 1.5.22]]
 
-*See also:* [[s#Saṅkīrtana movement|Saṅkīrtana movement]]
+*See also:* Saṅkīrtana movement

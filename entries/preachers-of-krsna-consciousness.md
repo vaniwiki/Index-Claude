@@ -1,4 +1,4 @@
-# Preacher(s) of Kṛṣṇa consciousness
+# Preachers of Kṛṣṇa consciousness
 
 * approach innocent & avoid inimical, [[sb/4/13/10#purport|SB 4.13.10]]
 * as best well-wishers, [[sb/4/7/28#purport|SB 4.7.28]]
@@ -18,6 +18,6 @@
 * Nārada as, [[sb/4/8/38#purport|SB 4.8.38]]
 * save people, [[sb/4/14/9#purport|SB 4.14.9]]
 
-*See also:* [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]; [[s#Sannyāsīs|Sannyāsīs]]; Spirituals master
+*See also:* Saṅkīrtana-yajña; Sannyāsīs; Spirituals master
 
-*See:* Devotees; [[p#preachers|preachers]]
+*See:* Devotees; preachers

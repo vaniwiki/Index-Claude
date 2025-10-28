@@ -12,6 +12,6 @@
 * via offenseless chanting, [[sb/3/15/25#purport|SB 3.15.25]]
 * via seeing Kṛṣṇa’s footprints, [[sb/3/1/32#purport|SB 3.1.32]]
 
-*See also:* [[b#Bliss|Bliss]]; transcendental; [[h#Happiness|Happiness]]; [[l#Love|Love]]; for Lord; [[e#Enjoyment|Enjoyment]]; [[p#Pleasure|Pleasure]]
+*See also:* [Bliss](entries/bliss.md); [Enjoyment](entries/enjoyment.md); [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); [Love](entries/love.md); for Lord; transcendental
 
-*See:* [[b#Bliss|Bliss]]; transcendental; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]; [[l#Love|Love]]; for Kṛṣṇa; spiritual
+*See:* [Bliss](entries/bliss.md); transcendental; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); [Love](entries/love.md); for Kṛṣṇa; spiritual

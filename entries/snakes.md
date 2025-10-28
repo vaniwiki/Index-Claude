@@ -1,4 +1,4 @@
-# Snake(s)
+# Snakes
 
 [[sb/4/25/21#purport|SB 4.25.21]]
 
@@ -7,14 +7,19 @@
 * burned by forest fire compared to demon burned by cakra, [[sb/9/4/48-48#purport|SB 9.4.48-48]]
 * Caitanya’s play with, SB Intro 7-8
 * compared to fool, [[sb/3/1/14#purport|SB 3.1.14]]
+* corpse of, burning of, [[sb/10/6/33#purport|SB 10.6.33]]
+* cruel person compared with, [[sb/10/4/5#purport|SB 10.4.5]]
 * demons compared to, [[sb/8/9/19#purport|SB 8.9.19]]
 * envious gṛhasthas compared to, [[sb/4/22/11-11#purport|SB 4.22.11-11]]
 * envy in, [[sb/4/3/17#purport|SB 4.3.17]]
+* fear of, freedom from, [[sb/2/9/34#purport|SB 2.9.34]]
 * Garuḍa eats, [[sb/8/6/39#purport|SB 8.6.39]]
 * gṛhasthas must feed, [[sb/4/22/45#purport|SB 4.22.45]]
+* holes of, compared to materialists’ ears, [[sb/2/3/20#purport|SB 2.3.20]]
 * Janamejaya vs., [[sb/9/22/36#purport|SB 9.22.36]]
 * Kali-yuga brāhmaṇas compared to, [[sb/1/18/37#purport|SB 1.18.37]]
 * king of, [[sb/3/2/31#purport|SB 3.2.31]]
+* Kṛṣṇa compared to, [[sb/10/6/8-8#purport|SB 10.6.8-8]]
 * Nārada &, [[sb/4/11/31#purport|SB 4.11.31]]
 * poison extracted by, [[sb/4/18/22#purport|SB 4.18.22]]
 * poisoning milk, analogy of, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/3/41#purport|SB 1.3.41]]
@@ -24,9 +29,10 @@
 * Śamīka Ṛṣi garlanded with, [[sb/1/18/30#purport|SB 1.18.30]]
 * sister of, married Purukutsa, [[sb/9/7/2#purport|SB 9.7.2]]
 * time compared to, [[sb/1/13/46#purport|SB 1.13.46]]
+* twice-born, [[sb/2/8/26#purport|SB 2.8.26]]
 * Vāsuki king of, [[sb/8/7/1#purport|SB 8.7.1]]
 * Vena compared to, [[sb/4/14/10#purport|SB 4.14.10]]
 * with jewel, analogy of, [[sb/4/3/17#purport|SB 4.3.17]]
 * without teeth compared to mystic powers, [[sb/9/4/25#purport|SB 9.4.25]]
 
-*See:* [[s#Serpents|Serpents]]
+*See:* Serpents

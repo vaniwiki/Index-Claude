@@ -1,10 +1,11 @@
 # Disease
 
+[[bg/1/40|Bg. 1.40]], [[bg/13/8|Bg. 13.8]] (9), [[bg/1/21–22|Bg. 1.21–22]], [[sb/4/28/4#purport|SB 4.28.4]], [[sb/4/28/5#purport|SB 4.28.5]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/23-25#purport|SB 4.29.23-25]]
+
 * as nature’s law, [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/7/39#purport|SB 7.7.39]]
 * as sinful reaction, [[sb/7/5/27-27#purport|SB 7.5.27-27]]
 * atheists &, [[sb/2/3/21#purport|SB 2.3.21]]
 * atonement compared to cure for, [[sb/6/1/8#purport|SB 6.1.8]]
-*  [[bg/1/40|Bg. 1.40]], [[bg/13/8|Bg. 13.8]] (9), [[bg/1/21–22|Bg. 1.21–22]], [[sb/4/28/4#purport|SB 4.28.4]], [[sb/4/28/5#purport|SB 4.28.5]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/29/23-25#purport|SB 4.29.23-25]]
 * body as, [[sb/7/9/25#purport|SB 7.9.25]]
 * cause of, [[sb/2/5/29#purport|SB 2.5.29]], [[sb/8/8/11#purport|SB 8.8.11]]
 * compared to mountain cave, [[sb/5/13/18#purport|SB 5.13.18]]

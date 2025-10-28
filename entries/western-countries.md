@@ -18,4 +18,4 @@
 * trespassers shot in, [[sb/4/22/11#purport|SB 4.22.11]]
 * wealth wasted in, [[sb/10/10/8#purport|SB 10.10.8]]
 
-*See also:* [[k#Kali-yuga|Kali-yuga]]; specific countries
+*See also:* [Kali-yuga](entries/kali-yuga.md); specific countries

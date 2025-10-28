@@ -22,9 +22,9 @@
 
 ### [Caitanya at Advaitas house](entries/caitanya-at-advaitas-house.md)
 
-**[[cc/madhya/1/94–95#translation|Madhya 1.94–95]]**, **[[cc/madhya/3/156#translation|Madhya 3.156]]**, **[[cc/madhya/3/161–62#translation|Madhya 3.161–62]]**...
+**[[cc/madhya/1/94–95#translation|Madhya 1.94–95]]**...
 
-* “Vṛndāvana” journey &, **[[cc/madhya/3/20–22#translation|Madhya 3.20–22]]**, **[[cc/madhya/3/30–33#translation|Madhya 3.30–33]]**
+* “Vṛndāvana” journey &,, **[[cc/madhya/3/20–22#translation|Madhya 3.20–22]]**, **[[cc/madhya/3/30–33#translation|Madhya 3.30–33]]**
 
 *→ See all 30 references in* [Caitanya at Advaitas house](entries/caitanya-at-advaitas-house.md)
 
@@ -32,7 +32,7 @@
 
 ### [Caitanya cited](entries/caitanya-cited.md)
 
-* Caitanya quoted , 
+* Caitanya quoted
 
 *→ See all 58 references in* [Caitanya cited](entries/caitanya-cited.md)
 
@@ -54,7 +54,7 @@
 
 ### [Caitanya Mahāprabhu](entries/caitanya-mahaprabhu.md)
 
-* accepts Śrīmad-Bhāgavatam, [[sb/2/2/26#purport|SB 2.2.26]]
+* accepts Śrīmad-Bhāgavatam,, [[sb/2/2/26#purport|SB 2.2.26]]
 
 *→ See all 65 references in* [Caitanya Mahāprabhu](entries/caitanya-mahaprabhu.md)
 
@@ -62,15 +62,15 @@
 
 ### [Caitanya Mahāprabhu cited](entries/caitanya-mahaprabhu-cited.md)
 
-* on attraction to wealth, women, & followers, [[sb/5/16/20-21#purport|SB 5.16.20-21]]
+* as pious land,, [[sb/5/6/13#purport|SB 5.6.13]]
 
-*→ See all 20 references in* [Caitanya Mahāprabhu cited](entries/caitanya-mahaprabhu-cited.md)
+*→ See all 24 references in* [Caitanya Mahāprabhu cited](entries/caitanya-mahaprabhu-cited.md)
 
 ---
 
 ### [Caitanya Mahāprabhu quoted](entries/caitanya-mahaprabhu-quoted.md)
 
-* on attraction to women & wealth, [[sb/5/2/6#purport|SB 5.2.6]]
+* on attraction to women & wealth,, [[sb/5/2/6#purport|SB 5.2.6]]
 
 *→ See all 28 references in* [Caitanya Mahāprabhu quoted](entries/caitanya-mahaprabhu-quoted.md)
 
@@ -85,19 +85,19 @@
 
 ### [Caitanya quoted](entries/caitanya-quoted.md)
 
-[[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/12/35#purport|Ādi 12.35]], [[cc/adi/12/73#purport|Ādi 12.73]]...
+**[[cc/madhya/10/58#translation|Madhya 10.58]]**...
 
-* Caitanya cited , 
+* as eternal servant of Kṛṣṇa,, [[sb/4/24/77#purport|SB 4.24.77]], [[sb/4/29/37#purport|SB 4.29.37]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/29/1#purport|SB 4.29.1]]b
 
-*→ See all 359 references in* [Caitanya quoted](entries/caitanya-quoted.md)
+*→ See all 365 references in* [Caitanya quoted](entries/caitanya-quoted.md)
 
 ---
 
 ### [Caitanya tree](entries/caitanya-tree.md)
 
-**[[cc/adi/10/63#translation|Ādi 10.63]]**, **[[cc/adi/10/86#translation|Ādi 10.86]]**, **[[cc/adi/10/86#translation|Ādi 10.86]]**...
+**[[cc/adi/12/66–69#translation|Ādi 12.66–69]]**...
 
-* Ācāryaratna &, **[[cc/adi/10/12#translation|Ādi 10.12]]**
+* Ācāryaratna &,, **[[cc/adi/10/12#translation|Ādi 10.12]]**
 
 *→ See all 124 references in* [Caitanya tree](entries/caitanya-tree.md)
 
@@ -112,9 +112,9 @@
 
 ### [Caitanya-bhāgavata](entries/caitanya-bhagavata.md)
 
-**[[cc/antya/20/85#translation|Antya 20.85]]**, [[cc/madhya/16/205#purport|Madhya 16.205]], [[cc/madhya/16/207#purport|Madhya 16.207]]...
+[[cc/madhya/16/205#purport|Madhya 16.205]]...
 
-* Caitanya & astrologer &, [[cc/adi/17/114#purport|Ādi 17.114]]
+* Caitanya & astrologer &,, [[cc/adi/17/114#purport|Ādi 17.114]]
 
 *→ See all 20 references in* [Caitanya-bhāgavata](entries/caitanya-bhagavata.md)
 
@@ -122,9 +122,9 @@
 
 ### [Caitanya-bhāgavata cited](entries/caitanya-bhagavata-cited.md)
 
-[[cc/adi/10/40#purport|Ādi 10.40]], [[cc/adi/10/49#purport|Ādi 10.49]], [[cc/adi/13/29#purport|Ādi 13.29]]...
+[[cc/adi/14/19#purport|Ādi 14.19]]...
 
-* on Acyutānanda, [[cc/adi/12/17#purport|Ādi 12.17]]
+* on Acyutānanda,, [[cc/adi/12/17#purport|Ādi 12.17]]
 
 *→ See all 36 references in* [Caitanya-bhāgavata cited](entries/caitanya-bhagavata-cited.md)
 
@@ -139,7 +139,7 @@
 
 ### [Caitanya-bhāgavata quoted](entries/caitanya-bhagavata-quoted.md)
 
-* on Advaita Ācārya, [[cc/adi/2/112#purport|Ādi 2.112]], [[cc/madhya/16/56#purport|Madhya 16.56]]
+* on Advaita Ācārya,, [[cc/adi/2/112#purport|Ādi 2.112]], [[cc/madhya/16/56#purport|Madhya 16.56]]
 
 *→ See all 14 references in* [Caitanya-bhāgavata quoted](entries/caitanya-bhagavata-quoted.md)
 
@@ -166,10 +166,9 @@
 
 ---
 
-### Caitanya-candrāmṛta
+### [Caitanya-candrāmṛta](entries/caitanya-candramrta.md)
 
-[[cc/adi/13/123#purport|Ādi 13.123]], [[cc/adi/14/1#purport|Ādi 14.1]], [[cc/adi/7/149#purport|Ādi 7.149]], [[cc/adi/7/27#purport|Ādi 7.27]], [[cc/madhya/10/177#purport|Madhya 10.177]], [[cc/madhya/7/37#purport|Madhya 7.37]], [[cc/madhya/8/246#purport|Madhya 8.246]]
-
+[[cc/adi/7/27#purport|Ādi 7.27]]
 
 ---
 
@@ -196,10 +195,7 @@
 
 ### [Caitanya-candrodaya-nāṭaka](entries/caitanya-candrodaya-nataka.md)
 
-[[cc/adi/10/135-36#purport|Ādi 10.135-36]], [[cc/adi/10/62#purport|Ādi 10.62]], [[cc/adi/17/56#purport|Ādi 17.56]]...
-
-
-*→ See all 16 references in* [Caitanya-candrodaya-nāṭaka](entries/caitanya-candrodaya-nataka.md)
+**[[cc/madhya/3/28#translation|Madhya 3.28]]**
 
 ---
 
@@ -240,11 +236,11 @@
 
 ### [Caitanya-caritāmṛta](entries/caitanya-caritamrta.md)
 
-[[cc/adi/8/73#purport|Ādi 8.73]], **[[cc/adi/8/77–78#translation|Ādi 8.77–78]]**, **[[cc/adi/9/5#translation|Ādi 9.5]]**...
+[[cc/madhya/22/118#purport|Madhya 22.118]]...
 
-* as auspicious, [[sb/8/1/32#purport|SB 8.1.32]]
+* as auspicious,, [[sb/8/1/32#purport|SB 8.1.32]]
 
-*→ See all 20 references in* [Caitanya-caritāmṛta](entries/caitanya-caritamrta.md)
+*→ See all 25 references in* [Caitanya-caritāmṛta](entries/caitanya-caritamrta.md)
 
 ---
 
@@ -252,9 +248,9 @@
 
 [[cc/adi/13/1#purport|Ādi 13.1]]...
 
-* Caitanya-caritāmṛta quoted , , 
+* association with,, [[sb/5/3/14#purport|SB 5.3.14]], [[sb/5/5/2#purport|SB 5.5.2]], [[sb/5/14/38#purport|SB 5.14.38]]
 
-*→ See all 44 references in* [Caitanya-caritāmṛta cited](entries/caitanya-caritamrta-cited.md)
+*→ See all 49 references in* [Caitanya-caritāmṛta cited](entries/caitanya-caritamrta-cited.md)
 
 ---
 
@@ -275,11 +271,11 @@
 
 ### [Caitanya-caritāmṛta quoted](entries/caitanya-caritamrta-quoted.md)
 
-[[cc/antya/4/173#purport|Antya 4.173]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/madhya/19/114#purport|Madhya 19.114]]...
+[[cc/madhya/19/114#purport|Madhya 19.114]]...
 
-* birth in, [[cc/madhya/25/264#purport|Madhya 25.264]], [[cc/antya/3/51#purport|Antya 3.51]]
+* as Hare Kṛṣṇa mantra,, [[sb/10/2/20#purport|SB 10.2.20]]
 
-*→ See all 101 references in* [Caitanya-caritāmṛta quoted](entries/caitanya-caritamrta-quoted.md)
+*→ See all 114 references in* [Caitanya-caritāmṛta quoted](entries/caitanya-caritamrta-quoted.md)
 
 ---
 
@@ -299,10 +295,7 @@
 
 ### [Caitanya-maṅgala](entries/caitanya-mangala.md)
 
-[[cc/adi/10/78–79#purport|Ādi 10.78–79]], [[cc/adi/12/87#purport|Ādi 12.87]], [[cc/adi/17/15#purport|Ādi 17.15]]...
-
-
-*→ See all 11 references in* [Caitanya-maṅgala](entries/caitanya-mangala.md)
+[[cc/adi/8/33#purport|Ādi 8.33]]
 
 ---
 
@@ -336,11 +329,11 @@
 
 ### [Caitanya, Lord](entries/caitanya-lord.md)
 
-[[cc/adi/1/102#purport|Ādi 1.102]], [[cc/adi/1/102#purport|Ādi 1.102]], [[cc/adi/1/84#purport|Ādi 1.84]]...
+[[cc/adi/6/43#purport|Ādi 6.43]]...
 
-* ”cheating” in service of, [[sb/1/13/37#purport|SB 1.13.37]]
+* ”cheating” in service of,, [[sb/1/13/37#purport|SB 1.13.37]]
 
-*→ See all 1398 references in* [Caitanya, Lord](entries/caitanya-lord.md)
+*→ See all 1419 references in* [Caitanya, Lord](entries/caitanya-lord.md)
 
 ---
 
@@ -360,9 +353,9 @@
 
 ### [Caitanyas dancing at Ratha-yātrā](entries/caitanyas-dancing-at-ratha-yatra.md)
 
-**[[cc/antya/10/105#translation|Antya 10.105]]**, **[[cc/madhya/13/178–79#translation|Madhya 13.178–79]]**, **[[cc/madhya/13/191–92#translation|Madhya 13.191–92]]**...
+**[[cc/antya/10/105#translation|Antya 10.105]]**...
 
-* Advaita &, **[[cc/madhya/13/87#translation|Madhya 13.87]]**
+* Advaita &,, **[[cc/madhya/13/87#translation|Madhya 13.87]]**
 
 *→ See all 21 references in* [Caitanyas dancing at Ratha-yātrā](entries/caitanyas-dancing-at-ratha-yatra.md)
 
@@ -418,13 +411,6 @@
 
 ---
 
-### Cakra
-
-[[cc/adi/5/153#purport|Ādi 5.153]], [[sb/5/19/2#purport|SB 5.19.2]]
-
-
----
-
 ### Cakra as Lords wheel weapon
 
 *  [[sb/2/7/16#purport|SB 2.7.16]], [[sb/2/7/20#purport|SB 2.7.20]], [[sb/2/7/20#purport|SB 2.7.20]]
@@ -467,7 +453,7 @@
 
 ### Cakras
 
-[[sb/2/2/19-20#purport|SB 2.2.19-20]]
+[[cc/adi/5/153#purport|Ādi 5.153]], [[sb/2/2/19-20#purport|SB 2.2.19-20]], [[sb/5/19/2#purport|SB 5.19.2]]
 
 
 ---
@@ -493,13 +479,6 @@
 
 ---
 
-### Cakṣu
-
-[[sb/8/5/7#purport|SB 8.5.7]], [[sb/9/23/1#purport|SB 9.23.1]]
-
-
----
-
 ### Cakṣu (branch of Ganges)
 
 [[sb/5/17/7#purport|SB 5.17.7]]
@@ -509,7 +488,7 @@
 
 ### Cakṣus
 
-[[cc/madhya/20/328#purport|Madhya 20.328]]
+[[cc/madhya/20/328#purport|Madhya 20.328]], [[sb/8/5/7#purport|SB 8.5.7]], [[sb/9/23/1#purport|SB 9.23.1]]
 
 
 ---
@@ -528,7 +507,7 @@
 
 *  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/15#purport|SB 1.3.15]], [[sb/1/3/15#purport|SB 1.3.15]]
 
-*See:* [[m#Manu|Manu]]; [[c#Cākṣuṣa|Cākṣuṣa]]
+*See:* [Manu](entries/manus.md); Cākṣuṣa
 
 ---
 
@@ -571,7 +550,7 @@
 
 ### [Calf](entries/calf.md)
 
-* Aryamā in form of, [[sb/4/18/18#purport|SB 4.18.18]]
+* Aryamā in form of,, [[sb/4/18/18#purport|SB 4.18.18]]
 
 *→ See all 18 references in* [Calf](entries/calf.md)
 
@@ -585,9 +564,9 @@
 
 ### [Calves](entries/calves.md)
 
-* as Kṛṣṇa’s expansions, [[sb/10/13/18-21#purport|SB 10.13.18-21]], [[sb/10/13/24#purport|SB 10.13.24]], [[sb/10/13/28-28#purport|SB 10.13.28-28]], [[sb/10/13/33#purport|SB 10.13.33]], [[sb/10/13/35#purport|SB 10.13.35]], [[sb/10/13/38#purport|SB 10.13.38]], [[sb/10/13/39-40#purport|SB 10.13.39-40]], [[sb/10/13/41#purport|SB 10.13.41]], [[sb/10/13/42#purport|SB 10.13.42]], [[sb/10/13/47-48#purport|SB 10.13.47-48]]
+* & Balarāma caught tails of,, [[sb/10/8/24#purport|SB 10.8.24]]
 
-*→ See all 9 references in* [Calves](entries/calves.md)
+*→ See all 15 references in* [Calves](entries/calves.md)
 
 ---
 
@@ -661,20 +640,19 @@
 
 ---
 
-### Cāṇakya Paṇḍita
+### [Cāṇakya Paṇḍita](entries/canakya-pandita.md)
 
-[[cc/antya/2/144#purport|Antya 2.144]], [[cc/madhya/11/10#purport|Madhya 11.10]], [[sb/2/7/9#purport|SB 2.7.9]]
+[[cc/madhya/11/10#purport|Madhya 11.10]]...
 
-* as good counselor, [[sb/3/1/10#purport|SB 3.1.10]]
-* cited on time, [[sb/3/10/11#purport|SB 3.10.11]]
-* quoted on bad son, [[sb/3/1/13#purport|SB 3.1.13]]
-* quoted on son & marriage, [[sb/4/13/31#purport|SB 4.13.31]]
+* as good counselor,, [[sb/3/1/10#purport|SB 3.1.10]]
+
+*→ See all 16 references in* [Cāṇakya Paṇḍita](entries/canakya-pandita.md)
 
 ---
 
 ### [Cāṇakya Paṇḍita cited](entries/canakya-pandita-cited.md)
 
-* on enemies at home, [[sb/3/23/3#purport|SB 3.23.3]]
+* on enemies at home,, [[sb/3/23/3#purport|SB 3.23.3]]
 
 *→ See all 6 references in* [Cāṇakya Paṇḍita cited](entries/canakya-pandita-cited.md)
 
@@ -696,9 +674,9 @@
 
 ### [Cāṇakya Paṇḍita quoted](entries/canakya-pandita-quoted.md)
 
-* Cāṇaka-śloka, [[sb/8/20/7#purport|SB 8.20.7]]
+* Cāṇaka-śloka,, [[sb/8/20/7#purport|SB 8.20.7]]
 
-*→ See all 21 references in* [Cāṇakya Paṇḍita quoted](entries/canakya-pandita-quoted.md)
+*→ See all 23 references in* [Cāṇakya Paṇḍita quoted](entries/canakya-pandita-quoted.md)
 
 ---
 
@@ -744,15 +722,6 @@
 
 ---
 
-### Caṇḍāla
-
-[[sb/3/16/6#purport|SB 3.16.6]], [[sb/5/1/35#purport|SB 5.1.35]]
-
-* below śūdra, [[sb/9/7/5-6#purport|SB 9.7.5-6]]
-* Rantideva gave water to, [[sb/9/21/10-14#purport|SB 9.21.10-14]]
-
----
-
 ### Caṇḍāla defined
 
 [[sb/2/10/41#purport|SB 2.10.41]]
@@ -760,13 +729,13 @@
 
 ---
 
-### [Caṇḍāla(s)](entries/candalas.md)
+### [Caṇḍālas](entries/candalas.md)
 
-[[cc/antya/16/26–27#purport|Antya 16.26–27]], [[cc/antya/3/221#purport|Antya 3.221]], **[[cc/antya/4/69#translation|Antya 4.69]]**...
+[[sb/3/16/6#purport|SB 3.16.6]]...
 
-*  [[bg/2/46|Bg. 2.46]], [[bg/9/32|Bg. 9.32]], [[sb/3/29/15#purport|SB 3.29.15]], [[sb/3/33/6#purport|SB 3.33.6]]
+* below śūdra,, [[sb/9/7/5-6#purport|SB 9.7.5-6]]
 
-*→ See all 14 references in* [Caṇḍāla(s)](entries/candalas.md)
+*→ See all 18 references in* [Caṇḍālas](entries/candalas.md)
 
 ---
 
@@ -845,10 +814,9 @@
 
 ---
 
-### Caṇḍīdāsa
+### [Caṇḍīdāsa](entries/candidasa.md)
 
-**[[cc/adi/13/42#translation|Ādi 13.42]]**, [[cc/antya/17/6#purport|Antya 17.6]], **[[cc/madhya/10/115#translation|Madhya 10.115]]**, [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/madhya/2/77#translation|Madhya 2.77]]**, [[cc/madhya/8/250#purport|Madhya 8.250]]
-
+**[[cc/adi/13/42#translation|Ādi 13.42]]**
 
 ---
 
@@ -906,7 +874,7 @@
 
 *  [[sb/8/3/30#purport|SB 8.3.30]], [[sb/8/24/30#purport|SB 8.24.30]]
 
-*See:* [[m#Moon-god|Moon-god]]
+*See:* [Moon-god](entries/moon-god.md)
 
 ---
 
@@ -917,12 +885,11 @@
 
 ---
 
-### Candra, Lord
+### [Candra, Lord](entries/candra-lord.md)
 
-[[sb/10/1/20#purport|SB 10.1.20]], [[sb/9/6/20#purport|SB 9.6.20]]
+[[bg/3/14|Bg. 3.14]], [[bg/17/4|Bg. 17.4]]...
 
-*  [[bg/3/14|Bg. 3.14]], [[bg/17/4|Bg. 17.4]], [[sb/1/8/18#purport|SB 1.8.18]], [[sb/1/10/3#purport|SB 1.10.3]], [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/12/33#purport|SB 1.12.33]], [[sb/1/13/41#purport|SB 1.13.41]], [[sb/4/22/9#purport|SB 4.22.9]], [[sb/4/30/14#purport|SB 4.30.14]]
-* planet of, [[bg/8/16|Bg. 8.16]], [[bg/9/18|Bg. 9.18]]
+* planet of,, [[bg/8/16|Bg. 8.16]], [[bg/9/18|Bg. 9.18]]
 
 ---
 
@@ -991,10 +958,7 @@
 
 ### [Candraśekhara (Ācāryaratna)](entries/candrasekhara-acaryaratna.md)
 
-**[[cc/adi/10/112#translation|Ādi 10.112]]**, **[[cc/adi/10/12–13#translation|Ādi 10.12–13]]**, **[[cc/adi/10/152–54#translation|Ādi 10.152–54]]**...
-
-
-*→ See all 46 references in* [Candraśekhara (Ācāryaratna)](entries/candrasekhara-acaryaratna.md)
+**[[cc/adi/6/49–50#translation|Ādi 6.49–50]]**
 
 ---
 
@@ -1131,7 +1095,7 @@
 ### Capitalist(s)
 
 
-*See:* [[m#Materialists|Materialists]]
+*See:* Materialists
 
 ---
 
@@ -1194,9 +1158,9 @@
 
 ### [Cāraṇas](entries/caranas.md)
 
-[[sb/1/1/4#purport|SB 1.1.4]], [[sb/3/33/34#purport|SB 3.33.34]], [[sb/4/12/1#purport|SB 4.12.1]]...
+[[sb/1/1/4#purport|SB 1.1.4]]...
 
-* as fallible, [[sb/8/8/19#purport|SB 8.8.19]]
+* as fallible,, [[sb/8/8/19#purport|SB 8.8.19]]
 
 *→ See all 17 references in* [Cāraṇas](entries/caranas.md)
 
@@ -1212,7 +1176,7 @@
 ### Carrier of Viṣṇu
 
 
-*See:* [[g#Garuḍa|Garuḍa]]
+*See:* Garuḍa
 
 ---
 
@@ -1268,7 +1232,7 @@
 
 ### [Caste division(s)](entries/caste-divisions.md)
 
-* as eternal, [[sb/4/2/31#purport|SB 4.2.31]]
+* as eternal,, [[sb/4/2/31#purport|SB 4.2.31]]
 
 *→ See all 6 references in* [Caste division(s)](entries/caste-divisions.md)
 
@@ -1283,7 +1247,9 @@
 
 ### [Caste system](entries/caste-system.md)
 
-* ” *See: Varṇāśrama-dharma* , , 
+...
+
+* ” *See: Varṇāśrama-dharma*
 
 *→ See all 16 references in* [Caste system](entries/caste-system.md)
 
@@ -1415,15 +1381,15 @@
 
 * defined, [[sb/8/16/30#purport|SB 8.16.30]]
 
-*See also:* [[e#Elements|Elements]]; material
+*See also:* Elements; material
 
 ---
 
 ### [Catur-vyūha](entries/catur-vyuha.md)
 
-**[[cc/madhya/20/188–95#translation|Madhya 20.188–95]]**, **[[cc/madhya/20/203–6#translation|Madhya 20.203–6]]**, **[[cc/madhya/20/210#translation|Madhya 20.210]]**...
+**[[cc/madhya/22/9#translation|Madhya 22.9]]**...
 
-* as expansions of Kṛṣṇa, **[[cc/madhya/22/9#translation|Madhya 22.9]]**
+* as expansions of Kṛṣṇa,, **[[cc/madhya/22/9#translation|Madhya 22.9]]**
 
 *→ See all 21 references in* [Catur-vyūha](entries/catur-vyuha.md)
 
@@ -1466,11 +1432,7 @@
 
 ### [Cāturmāsya](entries/caturmasya.md)
 
-[[cc/adi/10/105#purport|Ādi 10.105]], [[cc/adi/7/149#purport|Ādi 7.149]], **[[cc/antya/1/93#translation|Antya 1.93]]**...
-
-*  [[bg/2/42|Bg. 2.42]], [[bg/4/28|Bg. 4.28]], [[sb/5/7/5#purport|SB 5.7.5]], [[sb/5/11/2#purport|SB 5.11.2]]
-
-*→ See all 20 references in* [Cāturmāsya](entries/caturmasya.md)
+[[bg/2/42|Bg. 2.42]], [[bg/4/28|Bg. 4.28]]
 
 ---
 
@@ -1504,15 +1466,15 @@
 
 * universes in, [[sb/3/20/15#purport|SB 3.20.15]], [[sb/3/20/17#purport|SB 3.20.17]]
 
-*See also:* [[g#Garbha Ocean|Garbha Ocean]]; [[m#Mahat-tattva|Mahat-tattva]]
+*See also:* Garbha Ocean; [Mahat-tattva](entries/mahat-tattva.md)
 
 ---
 
 ### [Causal Ocean](entries/causal-ocean.md)
 
-**[[cc/adi/1/7#translation|Ādi 1.7]]**, **[[cc/adi/1/9#translation|Ādi 1.9]]**, [[cc/adi/5/22#purport|Ādi 5.22]]...
+**[[cc/adi/1/7#translation|Ādi 1.7]]**...
 
-* as mahat-tattva, [[sb/2/6/39#purport|SB 2.6.39]]
+* as mahat-tattva,, [[sb/2/6/39#purport|SB 2.6.39]]
 
 *→ See all 24 references in* [Causal Ocean](entries/causal-ocean.md)
 
@@ -1539,9 +1501,9 @@
 
 ### [Cause & effect](entries/cause-effect.md)
 
-**[[cc/antya/1/91–92#translation|Antya 1.91–92]]**, [[sb/3/26/49-50#purport|SB 3.26.49-50]]...
+**[[cc/antya/1/91–92#translation|Antya 1.91–92]]**...
 
-* ”brains” behind, [[sb/2/5/2#purport|SB 2.5.2]], [[sb/2/5/2#purport|SB 2.5.2]]
+* ”brains” behind,, [[sb/2/5/2#purport|SB 2.5.2]], [[sb/2/5/2#purport|SB 2.5.2]]
 
 *→ See all 11 references in* [Cause & effect](entries/cause-effect.md)
 
@@ -1577,7 +1539,7 @@
 
 ### [Cause, ultimate](entries/cause-ultimate.md)
 
-* as cause of all causes, [[sb/6/4/29-29#purport|SB 6.4.29-29]], [[sb/6/4/30-30#purport|SB 6.4.30-30]]
+* as cause of all causes,, [[sb/6/4/29-29#purport|SB 6.4.29-29]], [[sb/6/4/30-30#purport|SB 6.4.30-30]]
 
 *→ See all 19 references in* [Cause, ultimate](entries/cause-ultimate.md)
 
@@ -1594,7 +1556,7 @@
 * material, differences due to, [[sb/4/22/29#purport|SB 4.22.29]]
 * ultimate, Kṛṣṇa as, [[sb/4/24/42-42#purport|SB 4.24.42-42]], [[sb/4/24/63-63#purport|SB 4.24.63-63]]
 
-*See also:* [[c#Chance causation|Chance causation]]; [[k#Karma|Karma]]
+*See also:* Chance causation; [Karma](entries/karma.md)
 
 ---
 
@@ -1657,20 +1619,16 @@
 
 ### [Celibacy](entries/celibacy.md)
 
-**[[cc/adi/2/17#translation|Ādi 2.17]]**, [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/4/8/1#purport|SB 4.8.1]]...
+[[bg/8/11|Bg. 8.11]], [[bg/17/14–15|Bg. 17.14–15]]...
 
-* advantage of, [[sb/4/27/21#purport|SB 4.27.21]]
+* advantage of,, [[sb/4/27/21#purport|SB 4.27.21]]
 
 *→ See all 35 references in* [Celibacy](entries/celibacy.md)
 
 ---
 
-### Celibate
+### [Celibates](entries/celibates.md)
 
-
----
-
-### Celibates
 
 
 ---
@@ -1678,7 +1636,7 @@
 ### Ceremonies
 
 
-*See:* [[r#Ritualistic ceremonies|Ritualistic ceremonies]]; [[s#Sacrifices|Sacrifices]]; [[s#Sacrifice|Sacrifice]]; [[v#Vedic rituals|Vedic rituals]]
+*See:* Ritualistic ceremonies; Sacrifices; [Sacrifice](entries/sacrifices.md); Vedic rituals
 
 ---
 
@@ -1721,14 +1679,14 @@
 ### Chaitanya
 
 
-*See:* Caitanya; [[c#Caitanya Mahāprabhu|Caitanya Mahāprabhu]]; [[l#Lord|Lord]]
+*See:* Caitanya; Caitanya Mahāprabhu; Lord
 
 ---
 
 ### Chaitanya, Lord
 
 
-*See:* Caitanya; [[l#Lord|Lord]]
+*See:* Caitanya; Lord
 
 ---
 
@@ -1759,9 +1717,9 @@
 
 ### [Chand Kazi](entries/chand-kazi.md)
 
-**[[cc/adi/17/128#translation|Ādi 17.128]]**, **[[cc/adi/17/129#translation|Ādi 17.129]]**, **[[cc/adi/17/169#translation|Ādi 17.169]]**...
+**[[cc/adi/17/169#translation|Ādi 17.169]]**...
 
-* Caitanya explains sannyāsa to, [[cc/madhya/6/127#purport|Madhya 6.127]]
+* Caitanya explains sannyāsa to,, [[cc/madhya/6/127#purport|Madhya 6.127]]
 
 *→ See all 37 references in* [Chand Kazi](entries/chand-kazi.md)
 
@@ -1784,7 +1742,9 @@
 
 ### [Chāndogya Upaniṣad cited](entries/chandogya-upanisad-cited.md)
 
-* on death, two ways of, [[bg/8/26|Bg. 8.26]]
+...
+
+* on death, two ways of,, [[bg/8/26|Bg. 8.26]]
 
 *→ See all 6 references in* [Chāndogya Upaniṣad cited](entries/chandogya-upanisad-cited.md)
 
@@ -1799,7 +1759,7 @@
 
 ### [Chāndogya Upaniṣad quoted](entries/chandogya-upanisad-quoted.md)
 
-* on sat, 17.23
+* on following ācāryas,, [[sb/4/22/24#purport|SB 4.22.24]]
 
 *→ See all 8 references in* [Chāndogya Upaniṣad quoted](entries/chandogya-upanisad-quoted.md)
 
@@ -1856,9 +1816,9 @@
 
 ### [Chanting](entries/chanting.md)
 
-* about Lord 
+* about Lord
 
-*→ See all 28 references in* [Chanting](entries/chanting.md)
+*→ See all 91 references in* [Chanting](entries/chanting.md)
 
 ---
 
@@ -1871,7 +1831,7 @@
 [[sb/3/8/7#purport|SB 3.8.7]]
 
 
-*See also:* [[h#Hearing|Hearing]]; [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]
+*See also:* [Hearing](entries/hearing.md); Hearing about Supreme Lord
 
 ---
 
@@ -1879,13 +1839,15 @@
 
 * freedom via, [[sb/3/21/17#purport|SB 3.21.17]]
 
-*See also:* Chantings holy name of Lord; [[h#Hearing & chanting about Lord|Hearing & chanting about Lord]]
+*See also:* Chantings holy name of Lord; Hearing & chanting about Lord
 
 ---
 
 ### [Chanting Hare Kṛṣṇa](entries/chanting-hare-krsna.md)
 
-* ”animals” give up, [[sb/4/20/26-26#purport|SB 4.20.26-26]]
+[[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/24/56#purport|SB 9.24.56]]...
+
+* ”animals” give up,, [[sb/4/20/26-26#purport|SB 4.20.26-26]]
 
 *→ See all 35 references in* [Chanting Hare Kṛṣṇa](entries/chanting-hare-krsna.md)
 
@@ -1893,9 +1855,9 @@
 
 ### [Chanting holy name(s) of Lord](entries/chanting-holy-names-of-lord.md)
 
-[[sb/4/26/1-3#purport|SB 4.26.1-3]]...
+[[sb/2/7/15#purport|SB 2.7.15]], [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/36#purport|SB 2.9.36]]...
 
-* & seeing Lord as nondifferent, [[sb/7/4/25-26#purport|SB 7.4.25-26]]
+* & seeing Lord as nondifferent,, [[sb/7/4/25-26#purport|SB 7.4.25-26]]
 
 *→ See all 228 references in* [Chanting holy name(s) of Lord](entries/chanting-holy-names-of-lord.md)
 
@@ -1903,7 +1865,9 @@
 
 ### [Chanting in Kṛṣṇa consciousness](entries/chanting-in-krsna-consciousness.md)
 
-* “great blessing of,” 8.14
+[[bg/4/26|Bg. 4.26]], [[bg/4/39|Bg. 4.39]], [[bg/6/34|Bg. 6.34]], [[bg/6/44|Bg. 6.44]], [[bg/7/24|Bg. 7.24]] (3), [[bg/8/5–8|Bg. 8.5–8]], [[bg/8/11–13|Bg. 8.11–13]], [[bg/8/14|Bg. 8.14]], [[bg/9/20|Bg. 9.20]], [[bg/9/30|Bg. 9.30]], [[bg/13/8|Bg. 13.8]] (10), [[bg/14/27|Bg. 14.27]]...
+
+* “great blessing of,”, 8.14
 
 *→ See all 35 references in* [Chanting in Kṛṣṇa consciousness](entries/chanting-in-krsna-consciousness.md)
 
@@ -1911,9 +1875,9 @@
 
 ### [Chanting Lords holy name(s)](entries/chanting-lords-holy-names.md)
 
-[[cc/adi/10/43#purport|Ādi 10.43]], **[[cc/adi/12/21#translation|Ādi 12.21]]**, **[[cc/adi/13/103–4#translation|Ādi 13.103–4]]**...
+**[[cc/madhya/7/87#translation|Madhya 7.87]]**...
 
-* at Advaita’s house, **[[cc/adi/13/66#translation|Ādi 13.66]]**
+* at Advaita’s house,, **[[cc/adi/13/66#translation|Ādi 13.66]]**
 
 *→ See all 380 references in* [Chanting Lords holy name(s)](entries/chanting-lords-holy-names.md)
 
@@ -1941,11 +1905,11 @@
 
 ### [Charity](entries/charity.md)
 
-[[bg/16/1|Bg. 16.1]], [[sb/1/2/7#purport|SB 1.2.7]]...
+[[bg/16/1|Bg. 16.1]]...
 
-* Ambarīṣa gave cows in, [[sb/9/4/33-35#purport|SB 9.4.33-35]]
+* Ambarīṣa gave cows in,, [[sb/9/4/33-35#purport|SB 9.4.33-35]]
 
-*→ See all 126 references in* [Charity](entries/charity.md)
+*→ See all 128 references in* [Charity](entries/charity.md)
 
 ---
 
@@ -1998,7 +1962,9 @@
 
 ### [Cheaters](entries/cheaters.md)
 
-* bogus mendicants as, [[sb/2/2/5#purport|SB 2.2.5]]
+[[sb/2/7/2-3#purport|SB 2.7.2-3]], [[sb/2/7/33#purport|SB 2.7.33]], [[sb/2/7/53#purport|SB 2.7.53]], [[sb/2/9/36#purport|SB 2.9.36]], [[sb/2/10/9#purport|SB 2.10.9]], [[sb/2/10/49-50#purport|SB 2.10.49-50]]...
+
+* bogus mendicants as,, [[sb/2/2/5#purport|SB 2.2.5]]
 
 *→ See all 8 references in* [Cheaters](entries/cheaters.md)
 
@@ -2015,7 +1981,7 @@
 
 [[bg/18/28|Bg. 18.28]]...
 
-* as conditioned defect, [[sb/1/14/4#purport|SB 1.14.4]], [[sb/3/24/12#purport|SB 3.24.12]], [[sb/3/24/17#purport|SB 3.24.17]]
+* as conditioned defect,, [[sb/1/14/4#purport|SB 1.14.4]], [[sb/3/24/12#purport|SB 3.24.12]], [[sb/3/24/17#purport|SB 3.24.17]]
 
 *→ See all 18 references in* [Cheating](entries/cheating.md)
 
@@ -2060,7 +2026,7 @@
 * fertile, from hills, [[sb/4/19/9#purport|SB 4.19.9]]
 * life not from, [[sb/4/11/17#purport|SB 4.11.17]]
 
-*See also:* [[e#Elements|Elements]]; material
+*See also:* Elements; material
 
 ---
 
@@ -2121,7 +2087,7 @@
 
 ### [Child (Children)](entries/child-children.md)
 
-* behavior of, [[sb/4/8/27#purport|SB 4.8.27]]
+* behavior of,, [[sb/4/8/27#purport|SB 4.8.27]]
 
 *→ See all 7 references in* [Child (Children)](entries/child-children.md)
 
@@ -2187,7 +2153,7 @@
 * in Vedic & modern societies compared, [[sb/10/7/4#purport|SB 10.7.4]]
 * proverb about, [[sb/10/10/14#purport|SB 10.10.14]]
 
-*See also:* Baby; [[b#Birth|Birth]]; [[c#Children|Children]]
+*See also:* Baby; [Birth](entries/births.md); [Children](entries/children.md)
 
 ---
 
@@ -2200,11 +2166,11 @@
 
 ### [Children](entries/children.md)
 
-[[sb/4/27/1#purport|SB 4.27.1]]...
+[[bg/2/20|Bg. 2.20]], [[bg/3/38|Bg. 3.38]], [[bg/7/11|Bg. 7.11]], [[bg/7/15|Bg. 7.15]] (8), [[bg/16/1|Bg. 16.1]] (2), [[bg/16/1|Bg. 16.1]] (8)...
 
-* ”cooking” & living entities ”enjoying,” analogy of, [[sb/4/24/63#purport|SB 4.24.63]]
+* ”cooking” & living entities ”enjoying,” analogy of,, [[sb/4/24/63#purport|SB 4.24.63]]
 
-*→ See all 95 references in* [Children](entries/children.md)
+*→ See all 98 references in* [Children](entries/children.md)
 
 ---
 
@@ -2259,9 +2225,9 @@
 
 ### [Choṭa Haridāsa](entries/chota-haridasa.md)
 
-**[[cc/adi/10/147#translation|Ādi 10.147]]**, **[[cc/antya/2/111#translation|Antya 2.111]]**, **[[cc/antya/2/111#translation|Antya 2.111]]**...
+[[bg/16/1|Bg. 16.1]] (5)...
 
-*  [[bg/16/1|Bg. 16.1]] (5)
+* Bhagavān Ācārya &,, **[[cc/antya/2/102–3#translation|Antya 2.102–3]]**, **[[cc/antya/2/107#translation|Antya 2.107]]**
 
 *→ See all 25 references in* [Choṭa Haridāsa](entries/chota-haridasa.md)
 
@@ -2304,7 +2270,7 @@
 ### Christ, Lord Jesus
 
 
-*See:* [[j#Jesus Christ|Jesus Christ]]
+*See:* Jesus Christ
 
 ---
 
@@ -2458,7 +2424,7 @@
 * Kṛṣṇaloka as, [[sb/1/8/21#purport|SB 1.8.21]]
 * opulence of, [[sb/1/11/26#purport|SB 1.11.26]]
 
-*See also:* [[s#Spiritual world|Spiritual world]]
+*See also:* Spiritual world
 
 ---
 
@@ -2499,7 +2465,7 @@
 
 ### [Cities](entries/cities.md)
 
-* ancient, [[sb/4/18/32#purport|SB 4.18.32]]
+* ancient,, [[sb/4/18/32#purport|SB 4.18.32]]
 
 *→ See all 8 references in* [Cities](entries/cities.md)
 
@@ -2512,11 +2478,11 @@
 
 ---
 
-### [Citizen(s)](entries/citizens.md)
+### [Citizens](entries/citizens.md)
 
-* animals as, [[sb/4/21/22#purport|SB 4.21.22]]
+* animals as,, [[sb/4/21/22#purport|SB 4.21.22]]
 
-*→ See all 25 references in* [Citizen(s)](entries/citizens.md)
+*→ See all 25 references in* [Citizens](entries/citizens.md)
 
 ---
 
@@ -2567,23 +2533,23 @@
 
 ### [Citraketu quoted](entries/citraketu-quoted.md)
 
-* on Āryans as dutiful men, [[sb/6/16/43#purport|SB 6.16.43]]
+* all-inclusiveness of,, [[sb/6/16/36#purport|SB 6.16.36]]
 
-*→ See all 10 references in* [Citraketu quoted](entries/citraketu-quoted.md)
+*→ See all 14 references in* [Citraketu quoted](entries/citraketu-quoted.md)
 
 ---
 
 ### [Citraketu, King](entries/citraketu-king.md)
 
-* abundance during reign of, [[sb/6/14/10#purport|SB 6.14.10]]
+* abundance during reign of,, [[sb/6/14/10#purport|SB 6.14.10]]
 
-*→ See all 29 references in* [Citraketu, King](entries/citraketu-king.md)
+*→ See all 44 references in* [Citraketu, King](entries/citraketu-king.md)
 
 ---
 
 ### [Citraketus son](entries/citraketus-son.md)
 
-* as enemy of his father, [[sb/6/16/5-6#purport|SB 6.16.5-6]]
+* as enemy of his father,, [[sb/6/16/5-6#purport|SB 6.16.5-6]]
 
 *→ See all 6 references in* [Citraketus son](entries/citraketus-son.md)
 
@@ -2747,26 +2713,25 @@
 
 ---
 
-### Civiliātion
+### [Civiliātion](entries/civiliation.md)
 
-* based on Vedas, [[sb/4/2/30#purport|SB 4.2.30]], [[sb/4/2/31#purport|SB 4.2.31]]
-* modern 
+* ancient civiliātion compared with,, [[sb/4/9/62#purport|SB 4.9.62]]
 
-*See also:* [[s#Society|Society]]; [[v#Vedic culture|Vedic culture]]
+*→ See all 6 references in* [Civiliātion](entries/civiliation.md)
 
 ---
 
 ### [Civiliātion, human](entries/civiliation-human.md)
 
-* aim of, [[sb/9/13/10#purport|SB 9.13.10]]
+* aim of,, [[sb/9/13/10#purport|SB 9.13.10]]
 
-*→ See all 12 references in* [Civiliātion, human](entries/civiliation-human.md)
+*→ See all 16 references in* [Civiliātion, human](entries/civiliation-human.md)
 
 ---
 
 ### [Civiliātion, modern](entries/civiliation-modern.md)
 
-* as crazy, [[sb/10/5/26#purport|SB 10.5.26]]
+* as crazy,, [[sb/10/5/26#purport|SB 10.5.26]]
 
 *→ See all 8 references in* [Civiliātion, modern](entries/civiliation-modern.md)
 
@@ -2776,15 +2741,15 @@
 
 * Vedic, [[sb/6/7/13#purport|SB 6.7.13]]
 
-*See also:* [[s#Society|Society]]; human
+*See also:* [Society](entries/society.md); human
 
-*See:* [[s#Society|Society]]
+*See:* [Society](entries/society.md)
 
 ---
 
 ### [Civilization, human](entries/civilization-human.md)
 
-* Āryan, [[sb/3/21/54#purport|SB 3.21.54]]
+* Āryan,, [[sb/3/21/54#purport|SB 3.21.54]]
 
 *→ See all 7 references in* [Civilization, human](entries/civilization-human.md)
 
@@ -2794,7 +2759,7 @@
 
 [[sb/5/1/37#purport|SB 5.1.37]]...
 
-* faults in, [[sb/4/24/66#purport|SB 4.24.66]]
+* faults in,, [[sb/4/24/66#purport|SB 4.24.66]]
 
 *→ See all 6 references in* [Civilization, modern](entries/civilization-modern.md)
 
@@ -2811,9 +2776,9 @@
 
 ### [Cleanliness](entries/cleanliness.md)
 
-**[[cc/madhya/23/109#translation|Madhya 23.109]]**, [[cc/madhya/24/331#purport|Madhya 24.331]], **[[cc/madhya/24/332#translation|Madhya 24.332]]**...
+[[bg/16/1|Bg. 16.1]], [[bg/18/27|Bg. 18.27]]...
 
-* as austerity of body, [[bg/17/14|Bg. 17.14]]
+* as austerity of body,, [[bg/17/14|Bg. 17.14]]
 
 *→ See all 22 references in* [Cleanliness](entries/cleanliness.md)
 
@@ -2835,14 +2800,14 @@
 ### Cleansing
 
 
-*See:* [[p#Purification|Purification]]
+*See:* [Purification](entries/purification.md)
 
 ---
 
 ### Clothing
 
 
-*See:* [[d#Dress|Dress]]
+*See:* [Dress](entries/dress.md)
 
 ---
 
@@ -2853,11 +2818,11 @@
 
 ---
 
-### [Cloud(s)](entries/clouds.md)
+### [Clouds](entries/clouds.md)
 
-* & rain compared to spiritual master’s mercy, [[sb/3/21/17#purport|SB 3.21.17]]
+* & rain compared to spiritual master’s mercy,, [[sb/3/21/17#purport|SB 3.21.17]]
 
-*→ See all 11 references in* [Cloud(s)](entries/clouds.md)
+*→ See all 11 references in* [Clouds](entries/clouds.md)
 
 ---
 
@@ -3053,9 +3018,9 @@
 
 ### [Compassion](entries/compassion.md)
 
-**[[cc/adi/3/98#translation|Ādi 3.98]]**, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/38#purport|Ādi 7.38]]...
+[[bg/16/1|Bg. 16.1]]...
 
-* actual meaning of, [[sb/5/8/7#purport|SB 5.8.7]], [[sb/5/8/10#purport|SB 5.8.10]]
+* actual meaning of,, [[sb/5/8/7#purport|SB 5.8.7]], [[sb/5/8/10#purport|SB 5.8.10]]
 
 *→ See all 30 references in* [Compassion](entries/compassion.md)
 
@@ -3128,14 +3093,14 @@
 ### Concentration
 
 
-*See:* [[m#Meditation|Meditation]]; [[y#Yoga|Yoga]]
+*See:* [Meditation](entries/meditation.md); [Yoga](entries/yogas.md)
 
 ---
 
 ### Concentration of mind
 
 
-*See:* [[m#Meditation|Meditation]]
+*See:* [Meditation](entries/meditation.md)
 
 ---
 
@@ -3180,15 +3145,17 @@
 ### Conditioned life
 
 
-*See:* [[m#Material existence|Material existence]]
+*See:* Material existence
 
 ---
 
 ### [Conditioned soul(s)](entries/conditioned-souls.md)
 
-* ‘‘co-wives’’ of, [[sb/5/1/17#purport|SB 5.1.17]]
+[[bg/18/78|Bg. 18.78]] (5)...
 
-*→ See all 401 references in* [Conditioned soul(s)](entries/conditioned-souls.md)
+* ‘‘co-wives’’ of,, [[sb/5/1/17#purport|SB 5.1.17]]
+
+*→ See all 465 references in* [Conditioned soul(s)](entries/conditioned-souls.md)
 
 ---
 
@@ -3202,14 +3169,14 @@
 ### Conditioning, material
 
 
-*See:* [[b#Bondage|Bondage]]; [[m#Māyā|Māyā]]
+*See:* [Bondage](entries/bondage.md); Māyā
 
 ---
 
 ### Confidential knowledge
 
 
-*See:* Devotional service; [[k#Knowledge|Knowledge]]; spiritual
+*See:* Devotional service; [Knowledge](entries/knowledge.md); spiritual
 
 ---
 
@@ -3251,9 +3218,9 @@
 
 [[sb/3/32/28#purport|SB 3.32.28]]...
 
-* ”percentages” of, in beings, [[sb/4/1/15#purport|SB 4.1.15]]
+* ”percentages” of, in beings,, [[sb/4/1/15#purport|SB 4.1.15]]
 
-*→ See all 89 references in* [Consciousness](entries/consciousness.md)
+*→ See all 95 references in* [Consciousness](entries/consciousness.md)
 
 ---
 
@@ -3261,7 +3228,7 @@
 
 *  [[sb/8/18/28#purport|SB 8.18.28]], [[sb/8/19/12#purport|SB 8.19.12]], [[sb/8/19/24#purport|SB 8.19.24]]
 
-*See also:* [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See also:* Kṛṣṇa consciousness
 
 ---
 
@@ -3284,7 +3251,7 @@
 [[bg/7/5|Bg. 7.5]]
 
 
-*See also:* [[s#Surrender to Lord|Surrender to Lord]]
+*See also:* Surrender to Lord
 
 ---
 
@@ -3365,9 +3332,9 @@
 
 ### [Cosmic manifestation](entries/cosmic-manifestation.md)
 
-**[[cc/madhya/15/17–18#translation|Madhya 15.17–18]]**, **[[cc/madhya/15/241#translation|Madhya 15.241]]**, **[[cc/madhya/15/26#translation|Madhya 15.26]]**...
+[[cc/madhya/6/173#purport|Madhya 6.173]]...
 
-* Abhirāma Ṭhākura as, [[cc/adi/11/13#purport|Ādi 11.13]]
+* Abhirāma Ṭhākura as,, [[cc/adi/11/13#purport|Ādi 11.13]]
 
 *→ See all 42 references in* [Cosmic manifestation](entries/cosmic-manifestation.md)
 
@@ -3376,7 +3343,7 @@
 ### Cosmos
 
 
-*See:* [[m#Material world|Material world]]; [[u#Universe|Universe]]; material
+*See:* Material world; Universe; material
 
 ---
 
@@ -3414,13 +3381,13 @@
 
 ---
 
-### Cow protection
+### [Cow protection](entries/cow-protection.md)
 
-**[[cc/adi/17/111#translation|Ādi 17.111]]**, **[[cc/adi/17/153–54#translation|Ādi 17.153–54]]**, [[cc/adi/17/157#purport|Ādi 17.157]], **[[cc/adi/17/159#translation|Ādi 17.159]]**, [[cc/madhya/4/93#purport|Madhya 4.93]]
+**[[cc/adi/17/111#translation|Ādi 17.111]]**...
 
-* as vaiśya’s duty, [[sb/7/11/15#purport|SB 7.11.15]], [[sb/7/11/16#purport|SB 7.11.16]], [[sb/7/14/10#purport|SB 7.14.10]]
-* by brāhmaṇas, [[sb/7/11/16#purport|SB 7.11.16]]
-* society must provide, [[sb/7/2/12#purport|SB 7.2.12]], [[sb/7/3/13-13#purport|SB 7.3.13-13]]
+* as vaiśya’s duty,, [[sb/7/11/15#purport|SB 7.11.15]], [[sb/7/11/16#purport|SB 7.11.16]], [[sb/7/14/10#purport|SB 7.14.10]]
+
+*→ See all 8 references in* [Cow protection](entries/cow-protection.md)
 
 ---
 
@@ -3433,11 +3400,11 @@
 
 ### [Cow(s)](entries/cows.md)
 
-**[[cc/madhya/22/117#translation|Madhya 22.117]]**, [[cc/madhya/22/140#purport|Madhya 22.140]]...
+**[[cc/madhya/22/117#translation|Madhya 22.117]]**...
 
-* surabhi, 8.21
+* affection of, for calves,, [[sb/10/13/29-31#purport|SB 10.13.29-31]], [[sb/10/13/35#purport|SB 10.13.35]], [[sb/10/13/36#purport|SB 10.13.36]]
 
-*→ See all 114 references in* [Cow(s)](entries/cows.md)
+*→ See all 142 references in* [Cow(s)](entries/cows.md)
 
 ---
 
@@ -3451,9 +3418,11 @@
 
 ### [Cowherd boys](entries/cowherd-boys.md)
 
-* as Kṛṣṇa’s expansions, [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/18-21#purport|SB 10.13.18-21]], [[sb/10/13/27#purport|SB 10.13.27]], [[sb/10/13/28#purport|SB 10.13.28]], [[sb/10/13/33#purport|SB 10.13.33]], [[sb/10/13/37-40#purport|SB 10.13.37-40]]
+[[bg/19|Bg. 19]], [[bg/11/8|Bg. 11.8]]...
 
-*→ See all 15 references in* [Cowherd boys](entries/cowherd-boys.md)
+* as Kṛṣṇa’s expansions,, [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/18-21#purport|SB 10.13.18-21]], [[sb/10/13/27#purport|SB 10.13.27]], [[sb/10/13/28#purport|SB 10.13.28]], [[sb/10/13/33#purport|SB 10.13.33]], [[sb/10/13/37-40#purport|SB 10.13.37-40]]
+
+*→ See all 22 references in* [Cowherd boys](entries/cowherd-boys.md)
 
 ---
 
@@ -3481,9 +3450,9 @@
 
 ### [Cowherd men](entries/cowherd-men.md)
 
-* affection for sons by, [[sb/10/13/32-34#purport|SB 10.13.32-34]]
+* affection for sons by,, [[sb/10/13/32-34#purport|SB 10.13.32-34]]
 
-*→ See all 15 references in* [Cowherd men](entries/cowherd-men.md)
+*→ See all 17 references in* [Cowherd men](entries/cowherd-men.md)
 
 ---
 
@@ -3503,25 +3472,27 @@
 
 ### [Creation](entries/creation.md)
 
-[[cc/adi/7/121#purport|Ādi 7.121]], **[[cc/madhya/20/276#translation|Madhya 20.276]]**, **[[cc/madhya/20/284–85#translation|Madhya 20.284–85]]**...
+**[[cc/madhya/20/361#translation|Madhya 20.361]]**...
 
-* mahat-tattva &, [[bg/7/4|Bg. 7.4]], [[bg/9/8|Bg. 9.8]], [[bg/10/20|Bg. 10.20]], [[bg/13/20|Bg. 13.20]], [[bg/14/3|Bg. 14.3]]
+* *puruṣa & prakṛti *&,, 2.39 (1)
 
-*→ See all 81 references in* [Creation](entries/creation.md)
+*→ See all 82 references in* [Creation](entries/creation.md)
 
 ---
 
 ### [Creation (act of)](entries/creation-act-of.md)
 
-* activities in, [[sb/2/5/23#purport|SB 2.5.23]]
+[[sb/4/27/9#purport|SB 4.27.9]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/31/17#purport|SB 4.31.17]]...
 
-*→ See all 54 references in* [Creation (act of)](entries/creation-act-of.md)
+* activities in,, [[sb/2/5/23#purport|SB 2.5.23]]
+
+*→ See all 61 references in* [Creation (act of)](entries/creation-act-of.md)
 
 ---
 
 ### [Creation of universe(s)](entries/creation-of-universes.md)
 
-* agency of Lord in, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/2/30#purport|SB 1.2.30]], [[sb/1/3/1-2#purport|SB 1.3.1-2]]
+* agency of Lord in,, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/2/30#purport|SB 1.2.30]], [[sb/1/3/1-2#purport|SB 1.3.1-2]]
 
 *→ See all 19 references in* [Creation of universe(s)](entries/creation-of-universes.md)
 
@@ -3533,15 +3504,15 @@
 * Lord one with & different from, [[sb/4/17/29#purport|SB 4.17.29]]
 * Lord’s existence precedes, [[sb/4/1/26-27#purport|SB 4.1.26-27]]
 
-*See also:* [[c#Creation (act of)|Creation (act of)]]; [[m#Material world|Material world]]; [[m#Material nature|Material nature]]; Universes
+*See also:* Creation (act of); Material world; Material nature; Universes
 
 ---
 
 ### [Creation, the](entries/creation-the.md)
 
-* as Lord’s desire, [[sb/3/5/24#purport|SB 3.5.24]]
+* & living entities enter,, [[sb/4/24/64#purport|SB 4.24.64]]
 
-*→ See all 87 references in* [Creation, the](entries/creation-the.md)
+*→ See all 95 references in* [Creation, the](entries/creation-the.md)
 
 ---
 
@@ -3552,28 +3523,17 @@
 
 ---
 
-### Creator
-
-* scientists not, [[sb/6/16/35#purport|SB 6.16.35]]
-* Supreme Lord as, [[sb/6/4/29-29#purport|SB 6.4.29-29]], [[sb/6/4/30-30#purport|SB 6.4.30-30]]
-
-*See also:* [[s#Supreme Lord|Supreme Lord]]; as cause of everything
-
-*See:* Brahmā; [[s#Supreme Lord|Supreme Lord]]
-
----
-
 ### Creator, subordinate, Brahmā as
 
 *  [[sb/7/3/9-10#purport|SB 7.3.9-10]], [[sb/7/3/22#purport|SB 7.3.22]], [[sb/7/3/28#purport|SB 7.3.28]]
 
 ---
 
-### Creator(s)
+### [Creator(s)](entries/creators.md)
 
-* Kṛṣṇa’s representation among, [[bg/10/33|Bg. 10.33]]
+* Kṛṣṇa’s representation among,, [[bg/10/33|Bg. 10.33]]
 
-*See also:* Brahmā; Kṛṣṇa
+*→ See all 6 references in* [Creator(s)](entries/creators.md)
 
 ---
 
@@ -3649,15 +3609,15 @@
 ### Criticism
 
 
-*See:* [[b#Blasphemy|Blasphemy]]; Insults
+*See:* [Blasphemy](entries/blasphemy.md); Insults
 
 ---
 
 ### [Crocodile](entries/crocodile.md)
 
-* as Gandharva, [[sb/8/4/1#purport|SB 8.4.1]], [[sb/8/4/3-4#purport|SB 8.4.3-4]]
+* as Gandharva,, [[sb/8/4/1#purport|SB 8.4.1]], [[sb/8/4/3-4#purport|SB 8.4.3-4]]
 
-*→ See all 8 references in* [Crocodile](entries/crocodile.md)
+*→ See all 11 references in* [Crocodile](entries/crocodile.md)
 
 ---
 
@@ -3729,7 +3689,7 @@
 ### Culture
 
 
-*See:* [[c#Civiliātion|Civiliātion]]; modern; [[s#Society|Society]]; human; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; Vedic culture; [[c#Civilization|Civilization]]; [[v#Varṇāśrama system|Varṇāśrama system]]; [[v#Vedic culture|Vedic culture]]
+*See:* Civiliātion; modern; [Society](entries/society.md); human; Varṇāśrama-dharma; Vedic culture; Civilization; Varṇāśrama system
 
 ---
 
@@ -3742,9 +3702,9 @@
 
 ### [Cupid](entries/cupid.md)
 
-[[cc/adi/1/19#purport|Ādi 1.19]], [[cc/adi/10/84#purport|Ādi 10.84]], [[cc/adi/5/41#purport|Ādi 5.41]]...
+[[cc/adi/1/19#purport|Ādi 1.19]]...
 
-* as lust’s agent, [[sb/8/12/22#purport|SB 8.12.22]]
+* as lust’s agent,, [[sb/8/12/22#purport|SB 8.12.22]]
 
 *→ See all 37 references in* [Cupid](entries/cupid.md)
 
@@ -3778,7 +3738,7 @@
 
 ### [Curse](entries/curse.md)
 
-* accepted without revenge, [[sb/3/16/11#purport|SB 3.16.11]]
+* accepted without revenge,, [[sb/3/16/11#purport|SB 3.16.11]]
 
 *→ See all 23 references in* [Curse](entries/curse.md)
 
@@ -3786,7 +3746,7 @@
 
 ### [Curse on King Citraketu](entries/curse-on-king-citraketu.md)
 
-* as Lord’s plan, [[sb/6/17/4-5#purport|SB 6.17.4-5]], [[sb/6/17/17#purport|SB 6.17.17]]
+* as Lord’s plan,, [[sb/6/17/4-5#purport|SB 6.17.4-5]], [[sb/6/17/17#purport|SB 6.17.17]]
 
 *→ See all 7 references in* [Curse on King Citraketu](entries/curse-on-king-citraketu.md)
 
@@ -3799,11 +3759,11 @@
 
 ---
 
-### [Curse(s)](entries/curses.md)
+### [Curses](entries/curses.md)
 
-* by Agastya on Indradyumna, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
+* by Agastya on Indradyumna,, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
 
-*→ See all 27 references in* [Curse(s)](entries/curses.md)
+*→ See all 31 references in* [Curses](entries/curses.md)
 
 ---
 
@@ -3846,7 +3806,7 @@
 
 ### [Cyavana Muni](entries/cyavana-muni.md)
 
-* as irritable, [[sb/9/3/10#purport|SB 9.3.10]]
+* as irritable,, [[sb/9/3/10#purport|SB 9.3.10]]
 
 *→ See all 13 references in* [Cyavana Muni](entries/cyavana-muni.md)
 
@@ -3870,9 +3830,9 @@
 
 *  [[sb/3/20/1#purport|SB 3.20.1]], [[sb/3/22/35#purport|SB 3.22.35]]
 
-*See also:* [[d#Dvāpara-yuga|Dvāpara-yuga]]; [[k#Kali-yuga|Kali-yuga]]; [[s#Satya-yuga|Satya-yuga]]; [[t#Tretā-yuga|Tretā-yuga]]
+*See also:* Dvāpara-yuga; [Kali-yuga](entries/kali-yuga.md); [Satya-yuga](entries/satya-yuga.md); Tretā-yuga
 
-*See:* [[y#Yugas|Yugas]]; four
+*See:* Yugas; four
 
 ---
 

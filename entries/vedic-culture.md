@@ -1,6 +1,6 @@
 # Vedic culture
 
-[[cc/madhya/25/193#purport|Madhya 25.193]], [[cc/madhya/7/126#purport|Madhya 7.126]]
+[[cc/madhya/25/193#purport|Madhya 25.193]], [[cc/madhya/7/126#purport|Madhya 7.126]], [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/4/31/1#purport|SB 4.31.1]]
 
 * animal-hunting restricted in, [[sb/9/6/7#purport|SB 9.6.7]]
 * Āryans follow, [[sb/4/20/26#purport|SB 4.20.26]]
@@ -11,6 +11,7 @@
 * as worldwide, [[sb/1/9/7#purport|SB 1.9.7]]
 * basis of, [[sb/3/22/4#purport|SB 3.22.4]]
 * begetting children in, [[sb/3/20/28#purport|SB 3.20.28]]
+* bodies shared in, [[sb/4/4/3#purport|SB 4.4.3]]
 * Caitanya’s message &, [[cc/adi/12/73#purport|Ādi 12.73]]
 * caste spirit in, [[sb/4/8/26#purport|SB 4.8.26]]
 * ceremonies for newborn in, [[sb/8/18/13#purport|SB 8.18.13]]
@@ -18,7 +19,7 @@
 * detachment taught in, [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/28/27#purport|SB 4.28.27]]
 * disciplic succession in, [[sb/9/1/38-39#purport|SB 9.1.38-39]]
 * divisions of life in, [[sb/4/8/32#purport|SB 4.8.32]]
-* divisions of work in. See: Varṇāśrama-dharma 
+* divisions of work in. See: Varṇāśrama-dharma
 * divorce in, [[sb/4/4/3#purport|SB 4.4.3]]
 * divorce nonexistent in, [[sb/9/3/10#purport|SB 9.3.10]], [[sb/9/3/21#purport|SB 9.3.21]]
 * dogs in, [[sb/7/14/11#purport|SB 7.14.11]]
@@ -49,14 +50,14 @@
 * India &, [[cc/adi/10/89#purport|Ādi 10.89]], [[cc/madhya/1/197#purport|Madhya 1.197]]
 * king in, [[sb/4/13/23#purport|SB 4.13.23]], [[sb/4/14/14#purport|SB 4.14.14]], [[sb/4/16/17#purport|SB 4.16.17]], [[sb/4/16/20#purport|SB 4.16.20]]
 * kings as saints in, [[sb/1/18/41#purport|SB 1.18.41]]
-* knowledge in, [[sb/4/18/3#purport|SB 4.18.3]]
-* knowledge in. See: Vedic knowledge 
+* knowledge in. See: Vedic knowledge, [[sb/4/18/3#purport|SB 4.18.3]]
+* kṣatriya fighting at, [[sb/4/5/21#purport|SB 4.5.21]]
 * life’s stages in, [[sb/9/19/2#purport|SB 9.19.2]]
 * Malaysia &, [[cc/madhya/4/106#purport|Madhya 4.106]]
 * mantra protection in, [[sb/10/6/22-23#purport|SB 10.6.22-23]]
 * Manu’s status in, [[sb/4/10/14#purport|SB 4.10.14]]
-* marriage in, 8 
-* marriage in, [[sb/10/1/31-32#purport|SB 10.1.31-32]], [[sb/3/21/27#purport|SB 3.21.27]], [[sb/3/22/13#purport|SB 3.22.13]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/23#purport|SB 3.22.23]], [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/3/7#purport|SB 3.3.7]], [[sb/4/13/39#purport|SB 4.13.39]], [[sb/4/21/46#purport|SB 4.21.46]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/7/13/26#purport|SB 7.13.26]], [[sb/9/18/5#purport|SB 9.18.5]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/23#purport|SB 9.18.23]], [[sb/9/20/16#purport|SB 9.20.16]], [[sb/9/20/22#purport|SB 9.20.22]], [[sb/9/20/37#purport|SB 9.20.37]]
+* marriage in, [[sb/3/3/7#purport|SB 3.3.7]], [[sb/3/21/27#purport|SB 3.21.27]], [[sb/3/22/13#purport|SB 3.22.13]], [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/22/23#purport|SB 3.22.23]], [[sb/3/24/15#purport|SB 3.24.15]], [[sb/4/13/39#purport|SB 4.13.39]], [[sb/4/21/46#purport|SB 4.21.46]], [[sb/4/24/11#purport|SB 4.24.11]], [[sb/7/13/26#purport|SB 7.13.26]], [[sb/9/18/5#purport|SB 9.18.5]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/23#purport|SB 9.18.23]], [[sb/9/20/16#purport|SB 9.20.16]], [[sb/9/20/22#purport|SB 9.20.22]], [[sb/9/20/37#purport|SB 9.20.37]], [[sb/10/1/31-32#purport|SB 10.1.31-32]]
+* marriage in, 8
 * married life in, [[sb/4/1/6#purport|SB 4.1.6]]
 * meat-eating &, [[cc/madhya/1/197#purport|Madhya 1.197]]
 * meat-eating restricted in, [[sb/9/6/7#purport|SB 9.6.7]]
@@ -80,7 +81,7 @@
 * queen’s renunciation in, [[sb/4/23/19#purport|SB 4.23.19]]
 * receiving guests in, [[sb/4/21/4#purport|SB 4.21.4]], [[sb/4/21/14#purport|SB 4.21.14]], [[sb/4/22/10#purport|SB 4.22.10]]
 * reception festivals in, [[sb/1/11/15#purport|SB 1.11.15]], [[sb/1/11/15#purport|SB 1.11.15]], [[sb/1/11/18#purport|SB 1.11.18]]
-* renunciation in. See: Renunciation 
+* renunciation in. See: Renunciation
 * respectable ladies &, [[cc/adi/13/114#purport|Ādi 13.114]]
 * retirement from family in, [[sb/9/1/42#purport|SB 9.1.42]]
 * retiring from family in, [[sb/3/23/52#purport|SB 3.23.52]]
@@ -90,7 +91,6 @@
 * sannyāsa in, [[sb/4/19/23#purport|SB 4.19.23]]
 * sannyāsa order &, [[cc/adi/17/265#purport|Ādi 17.265]], [[cc/adi/17/269#purport|Ādi 17.269]]
 * sannyāsīs respected in, [[sb/3/15/31#purport|SB 3.15.31]]
-*  [[sb/4/30/39-40#purport|SB 4.30.39-40]], [[sb/4/31/1#purport|SB 4.31.1]]
 * science in, [[sb/3/11/9#purport|SB 3.11.9]]
 * sex life in, [[sb/4/11/5#purport|SB 4.11.5]]
 * sex life minimized in, [[sb/7/12/7#purport|SB 7.12.7]], [[sb/7/12/9#purport|SB 7.12.9]]
@@ -115,4 +115,4 @@
 * woman’s role in, [[sb/9/9/32#purport|SB 9.9.32]]
 * worldwide formerly, [[sb/4/21/12#purport|SB 4.21.12]]
 
-*See also:* [[a#Āryan civiliātion|Āryan civiliātion]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; Āryan civilization; [[i#India|India]]; [[v#Varṇāśrama system|Varṇāśrama system]]; [[a#Āryans|Āryans]]; [[h#Hindu society|Hindu society]]; [[v#Vedic injunctions|Vedic injunctions]]; [[v#Vedas|Vedas]]; regulations of; [[s#Sanātana-dharma|Sanātana-dharma]]; [[s#Society|Society]]; human; Vedics injunction
+*See also:* [India](entries/india.md); Varṇāśrama-dharma; [Society](entries/society.md); human; Vedics injunction; Āryan civiliātion; Āryan civilization; Varṇāśrama system; Āryans; Hindu society; Vedic injunctions; Vedas; regulations of; Householders; Sanātana-dharma

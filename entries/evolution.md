@@ -1,10 +1,13 @@
 # Evolution
 
+[[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/14/30#purport|SB 5.14.30]]
+
 * & ego, false, [[sb/3/20/13#purport|SB 3.20.13]], [[sb/3/26/23-25#purport|SB 3.26.23-25]], [[sb/3/26/27#purport|SB 3.26.27]], [[sb/3/26/29#purport|SB 3.26.29]] 26.31-32
 * animal compared with human, [[sb/7/7/47#purport|SB 7.7.47]]
 * as generation of senses, [[sb/2/10/17-28#purport|SB 2.10.17-28]]
 * as old knowledge, [[sb/3/29/29#purport|SB 3.29.29]]
 * as transmigration cycle, [[sb/7/13/30#purport|SB 7.13.30]]
+* compared with Vedic concepts of, [[sb/4/24/73#purport|SB 4.24.73]]
 * Darwinian, [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 * detailed, [[sb/3/26/32-61#purport|SB 3.26.32-61]]
 * from air, [[sb/3/26/49#purport|SB 3.26.49]]
@@ -68,7 +71,6 @@
 * of sky, [[sb/3/26/49#purport|SB 3.26.49]]
 * of smell, sense of, [[sb/3/26/44#purport|SB 3.26.44]]
 * of soul, [[sb/4/25/9#purport|SB 4.25.9]], [[sb/4/29/4-4#purport|SB 4.29.4-4]], [[sb/4/29/1#purport|SB 4.29.1]]a-2a
-* *See:* Transmigrations of soul 
 * of sound, [[sb/3/26/32#purport|SB 3.26.32]]
 * of speech organ, [[sb/3/26/54#purport|SB 3.26.54]]
 * of taste, [[sb/3/26/41#purport|SB 3.26.41]]
@@ -78,11 +80,12 @@
 * principle of, [[sb/3/31/19#purport|SB 3.31.19]]
 * process of, [[sb/4/24/29#purport|SB 4.24.29]]
 * punishment via, [[sb/7/14/5#purport|SB 7.14.5]]
-*  [[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/14/30#purport|SB 5.14.30]]
 * theory of, [[bg/9/8|Bg. 9.8]]
 * through species, [[bg/14/15|Bg. 14.15]], [[bg/16/1|Bg. 16.1]] (6)
 * to human life, [[sb/2/3/19#purport|SB 2.3.19]]*, [[sb/4/21/22#purport|SB 4.21.22]]
 * Vedic, compared with Western concept of, [[sb/7/13/25-25#purport|SB 7.13.25-25]]
 * via fruitive activities, [[sb/7/13/25-25#purport|SB 7.13.25-25]]
 
-*See also:* Transmigrations of soul; [[l#Life|Life]]; species of; [[s#Species of life|Species of life]]
+*See also:* [Life](entries/life.md); species of; Transmigrations of soul; Species of life
+
+*See:* Transmigrations of soul

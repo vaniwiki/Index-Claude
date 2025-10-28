@@ -7,4 +7,4 @@
 * in Kṛṣṇa consciousness, [[sb/4/12/36#purport|SB 4.12.36]]
 * Kṛṣṇa consciousness as highest, [[bg/5/25|Bg. 5.25]]
 
-*See also:* [[c#Charity|Charity]]; [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]; Philanthropic activities; [[p#Pious activities|Pious activities]]
+*See also:* [Charity](entries/charity.md); Kṛṣṇa consciousness movement; Philanthropic activities; Pious activities

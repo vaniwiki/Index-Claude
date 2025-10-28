@@ -1,6 +1,6 @@
 # Internal potency
 
-**[[cc/adi/4/59#translation|Ādi 4.59]]**, **[[cc/adi/4/62#translation|Ādi 4.62]]**, **[[cc/adi/4/63#translation|Ādi 4.63]]**, **[[cc/adi/4/83#translation|Ādi 4.83]]**, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/84#purport|Ādi 5.84]], [[cc/madhya/22/16#purport|Madhya 22.16]], **[[cc/madhya/23/68#translation|Madhya 23.68]]**, **[[cc/madhya/6/157–61#translation|Madhya 6.157–61]]**, **[[cc/madhya/8/152–59#translation|Madhya 8.152–59]]**, **[[cc/madhya/8/163#translation|Madhya 8.163]]**
+**[[cc/adi/4/62#translation|Ādi 4.62]]**, **[[cc/adi/4/63#translation|Ādi 4.63]]**, [[cc/adi/5/84#purport|Ādi 5.84]], **[[cc/madhya/6/157–61#translation|Madhya 6.157–61]]**, **[[cc/madhya/8/152–59#translation|Madhya 8.152–59]]**, **[[cc/adi/4/59#translation|Ādi 4.59]]**, **[[cc/adi/4/83#translation|Ādi 4.83]]**, **[[cc/madhya/8/163#translation|Madhya 8.163]]**, [[cc/madhya/22/16#purport|Madhya 22.16]], **[[cc/madhya/23/68#translation|Madhya 23.68]]**, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/22#purport|Ādi 5.22]]
 
 * Caitanya &, [[cc/adi/4/56#purport|Ādi 4.56]], [[cc/adi/17/301#purport|Ādi 17.301]]
 * catur-vyūha &, [[cc/adi/5/41#purport|Ādi 5.41]]
@@ -16,4 +16,4 @@
 * spiritual world sustained via, **[[cc/adi/2/101#translation|Ādi 2.101]]**, [[cc/adi/2/103#purport|Ādi 2.103]]
 * Vedic literatures describe, **[[cc/madhya/25/34#translation|Madhya 25.34]]**
 
-*See also:* [[h#Hlādinī potency|Hlādinī potency]]
+*See also:* Hlādinī potency

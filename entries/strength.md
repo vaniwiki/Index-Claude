@@ -7,6 +7,6 @@
 * Kṛṣṇa represented by, [[bg/10/36|Bg. 10.36]]
 * spiritual, compared with physical, [[sb/1/11/17#purport|SB 1.11.17]]
 
-*See also:* Mystics power; [[p#Power|Power]]
+*See also:* Mystics power; [Power](entries/power.md)
 
-*See:* [[p#Power|Power]]
+*See:* [Power](entries/power.md)

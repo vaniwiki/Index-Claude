@@ -1,6 +1,6 @@
 # Veṅkata Bhaṭṭa
 
-[[cc/adi/7/149#purport|Ādi 7.149]], **[[cc/madhya/9/115–17#translation|Madhya 9.115–17]]**, **[[cc/madhya/9/116–19#translation|Madhya 9.116–19]]**, **[[cc/madhya/9/125#translation|Madhya 9.125]]**, **[[cc/madhya/9/126#translation|Madhya 9.126]]**, **[[cc/madhya/9/157#translation|Madhya 9.157]]**, **[[cc/madhya/9/157#translation|Madhya 9.157]]**, **[[cc/madhya/9/158#translation|Madhya 9.158]]**
+**[[cc/madhya/9/126#translation|Madhya 9.126]]**, **[[cc/madhya/9/157#translation|Madhya 9.157]]**, **[[cc/madhya/9/116–19#translation|Madhya 9.116–19]]**, **[[cc/madhya/9/125#translation|Madhya 9.125]]**, **[[cc/madhya/9/157#translation|Madhya 9.157]]**, **[[cc/madhya/9/115–17#translation|Madhya 9.115–17]]**, **[[cc/madhya/9/158#translation|Madhya 9.158]]**, [[cc/adi/7/149#purport|Ādi 7.149]]
 
 * Caitanya corrects, **[[cc/madhya/9/140–41#translation|Madhya 9.140–41]]**
 * Caitanya departs from, **[[cc/madhya/9/163–65#translation|Madhya 9.163–65]]**

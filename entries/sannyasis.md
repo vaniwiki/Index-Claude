@@ -14,8 +14,8 @@
 * attached materially, [[bg/6/1|Bg. 6.1]]
 * begging by, [[bg/10/4|Bg. 10.4]] (9)
 * behavior of, SB Intro 31-32
-* bogus, compared with bona fide, [[sb/4/19/12#purport|SB 4.19.12]], [[sb/4/19/22-23#purport|SB 4.19.22-23]], [[sb/4/19/24-25#purport|SB 4.19.24-25]], [[sb/4/19/24-25#purport|SB 4.19.24-25]], [[sb/7/13/8#purport|SB 7.13.8]]
 * bogus, [[sb/3/24/35#purport|SB 3.24.35]]
+* bogus, compared with bona fide, [[sb/4/19/12#purport|SB 4.19.12]], [[sb/4/19/22-23#purport|SB 4.19.22-23]], [[sb/4/19/24-25#purport|SB 4.19.24-25]], [[sb/4/19/24-25#purport|SB 4.19.24-25]], [[sb/7/13/8#purport|SB 7.13.8]]
 * bṛhad-vrata brahmacārī becomes, [[sb/9/4/1#purport|SB 9.4.1]]
 * Caitanya as, SB Intro 4, SB Intro 15-16, [[sb/1/6/13#purport|SB 1.6.13]]
 * Caitanya’s example as, [[bg/16/1|Bg. 16.1]] (5)
@@ -26,6 +26,7 @@
 * Chicago speech by, [[sb/1/14/9#purport|SB 1.14.9]]
 * classes of, two, [[bg/5/6|Bg. 5.6]]
 * compared to king, [[sb/4/30/45#purport|SB 4.30.45]]
+* compared with bona fide, [[sb/3/24/34#purport|SB 3.24.34]]
 * conduct of, [[sb/7/13/3#purport|SB 7.13.3]], [[sb/7/13/10#purport|SB 7.13.10]]
 * cooking &, [[bg/18/7|Bg. 18.7]]
 * criticized by materialists, [[sb/1/5/15#purport|SB 1.5.15]]
@@ -35,7 +36,7 @@
 * detachment of, [[sb/3/24/42#purport|SB 3.24.42]]
 * devotees as, [[bg/18/11|Bg. 18.11]], [[bg/18/49|Bg. 18.49]]
 * distinct from gṛhasthas, [[sb/4/4/20#purport|SB 4.4.20]]
-* don’t live ”at home,” [[sb/4/8/1#purport|SB 4.8.1]]
+* don’t live ”at home,”, [[sb/4/8/1#purport|SB 4.8.1]]
 * dress for, [[sb/1/15/40#purport|SB 1.15.40]]
 * dress of, [[sb/7/13/2#purport|SB 7.13.2]]
 * duties of, [[sb/7/13/1-10#purport|SB 7.13.1-10]], [[sb/7/14/10#purport|SB 7.14.10]]
@@ -53,6 +54,7 @@
 * humility of, [[bg/16/1|Bg. 16.1]] (6)
 * identified, [[sb/7/12/7#purport|SB 7.12.7]]
 * impersonalist, [[bg/5/2|Bg. 5.2]], [[bg/5/6|Bg. 5.6]], [[sb/4/11/5#purport|SB 4.11.5]], [[sb/4/19/22#purport|SB 4.19.22]]
+  * compared with Vaiṣṇava, [[bg/5/6|Bg. 5.6]]
 * impersonalist, compared with devotee, [[sb/4/22/11#purport|SB 4.22.11]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/7/13/9#purport|SB 7.13.9]]
 * impersonalists as, SB Intro 33
 * in Hare Kṛṣṇa movement, [[sb/7/13/9#purport|SB 7.13.9]]
@@ -94,4 +96,4 @@
 * women &, [[bg/16/1|Bg. 16.1]] (5), [[bg/18/5|Bg. 18.5]]
 * women avoided by, [[sb/7/12/7#purport|SB 7.12.7]]
 
-*See also:* [[d#Detachment|Detachment]]; [[p#Preachers|Preachers]]; [[r#Renunciation|Renunciation]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; Saintlies person; specific gosvāmīs; [[s#Sannyāsa|Sannyāsa]]; specific sannyāsīs
+*See also:* [Detachment](entries/detachment.md); Preachers; [Renunciation](entries/renunciation.md); Varṇāśrama-dharma; Saintlies person; specific gosvāmīs; Sannyāsa; specific sannyāsīs

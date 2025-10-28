@@ -35,6 +35,6 @@
 * transcendental, [[sb/7/15/35#purport|SB 7.15.35]]
 * via hearing Lord’s pastimes, [[sb/2/6/46#purport|SB 2.6.46]]
 
-*See also:* [[e#Ecstasy|Ecstasy]]; spiritual; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]; transcendental; [[e#Enjoyment|Enjoyment]]
+*See also:* [Ecstasy](entries/ecstasy.md); [Enjoyment](entries/enjoyment.md); [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); spiritual; transcendental
 
-*See:* [[h#Happiness|Happiness]]; spiritual
+*See:* [Happiness](entries/happiness.md); spiritual

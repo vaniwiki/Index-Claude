@@ -34,6 +34,6 @@
 * surrender stops, [[sb/8/3/13#purport|SB 8.3.13]]
 * violence, unjust, not supported by, [[bg/2/27|Bg. 2.27]]
 
-*See also:* [[b#Birth|Birth]]; Transmigrations of soul; [[b#Bondage|Bondage]]; material; [[d#Death|Death]]; Births; Deaths
+*See also:* [Birth](entries/births.md); [Bondage](entries/bondage.md); material; [Death](entries/deaths.md); Transmigrations of soul; Births; Deaths
 
 *See:* Transmigrations of soul

@@ -6,14 +6,16 @@
 * abominable, [[sb/4/7/24#purport|SB 4.7.24]]
 * acceptable to Lord, [[bg/9/26|Bg. 9.26]]
 * actual, grains & vegetables as, [[bg/3/14|Bg. 3.14]]
-* *See:* [[a#Animal slaughter|Animal slaughter]]; [[m#Meat-eating|Meat-eating]] 
 * as government’s responsibility, [[sb/4/17/24#purport|SB 4.17.24]], [[sb/4/17/25#purport|SB 4.17.25]]
 * as wanting in Kali-yuga, [[sb/1/4/17-18#purport|SB 1.4.17-18]]
 * at festivals, [[sb/1/11/15#purport|SB 1.11.15]], [[sb/1/11/15#purport|SB 1.11.15]]
 * balanced diet of, [[sb/4/26/13#purport|SB 4.26.13]]
 * body sustained by, detailed, [[sb/4/28/58#purport|SB 4.28.58]]
+* brāhmaṇas & Vaiṣṇavas, [[sb/4/21/41#purport|SB 4.21.41]]
 * by sacrifice, [[sb/1/16/20#purport|SB 1.16.20]]
-* categories of 
+* categories of
+  * by quality & mode, [[bg/17/7–10|Bg. 17.7–10]]
+  * four, [[bg/15/15|Bg. 15.15]]
 * cooking, [[bg/17/10|Bg. 17.10]], [[bg/18/7|Bg. 18.7]]
 * devotee’s eating of, [[sb/4/8/72-72#purport|SB 4.8.72-72]]
 * digestion of, [[bg/7/9|Bg. 7.9]], [[bg/7/15|Bg. 7.15]] (6), [[bg/15/14|Bg. 15.14]], [[sb/3/26/40#purport|SB 3.26.40]], [[sb/3/28/3#purport|SB 3.28.3]]
@@ -26,14 +28,14 @@
 * emergency, [[sb/1/17/16#purport|SB 1.17.16]]
 * fasting from, [[sb/4/28/35-36#purport|SB 4.28.35-36]]
 * fire digests, [[sb/8/5/35#purport|SB 8.5.35]]
-* for animals, 15 
 * for animals, [[sb/4/24/65#purport|SB 4.24.65]], [[sb/4/25/11#purport|SB 4.25.11]]
+* for animals, 15
 * for brahmacārī, [[sb/7/12/5#purport|SB 7.12.5]]
 * for brāhmaṇas, [[sb/1/14/43#purport|SB 1.14.43]], [[sb/8/16/9#purport|SB 8.16.9]], [[sb/8/16/43#purport|SB 8.16.43]]
 * for civilized men, [[sb/3/5/7#purport|SB 3.5.7]]
 * for fitness in spiritual advancement, [[sb/10/10/16#purport|SB 10.10.16]]
 * for human beings, [[bg/9/26|Bg. 9.26]], [[sb/1/9/26#purport|SB 1.9.26]], [[sb/1/13/47#purport|SB 1.13.47]], [[sb/1/17/10-11#purport|SB 1.17.10-11]], [[sb/7/13/26#purport|SB 7.13.26]]
-* for humans, [[sb/10/10/9#purport|SB 10.10.9]], [[sb/2/3/19#purport|SB 2.3.19]], [[sb/3/27/8#purport|SB 3.27.8]]
+* for humans, [[sb/2/3/19#purport|SB 2.3.19]], [[sb/3/27/8#purport|SB 3.27.8]], [[sb/10/10/9#purport|SB 10.10.9]]
 * for living entities supplied by Lord, [[sb/9/20/21#purport|SB 9.20.21]]
 * for living entities, [[sb/1/16/20#purport|SB 1.16.20]], [[sb/6/4/9-9#purport|SB 6.4.9-9]]
 * for Lord’s gift, [[sb/7/14/9#purport|SB 7.14.9]], [[sb/7/14/14#purport|SB 7.14.14]]
@@ -48,20 +50,23 @@
 * from earth, [[sb/8/6/12#purport|SB 8.6.12]], [[sb/9/14/47#purport|SB 9.14.47]]
 * from milk, [[sb/8/6/12#purport|SB 8.6.12]]
 * health effects of, [[bg/17/7–10|Bg. 17.7–10]]
+* in Deity worship, [[sb/4/8/54#purport|SB 4.8.54]], [[sb/4/8/55-55#purport|SB 4.8.55-55]], [[sb/4/8/56#purport|SB 4.8.56]], [[sb/4/8/58#purport|SB 4.8.58]], [[sb/4/8/72#purport|SB 4.8.72]]
 * in forest life, [[sb/4/23/5#purport|SB 4.23.5]]
 * in Kali-yuga as scarce, [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/15/6#purport|SB 7.15.6]]
 * in Kali-yuga decreases, [[sb/4/18/6#purport|SB 4.18.6]]
+* in sacrifice, two kinds of, [[sb/4/4/21#purport|SB 4.4.21]]
 * in Vedic culture, [[sb/7/13/26#purport|SB 7.13.26]]
 * killing for, [[sb/3/29/15#purport|SB 3.29.15]]
-* *See:* [[a#Animal slaughter|Animal slaughter]]; [[m#Meat-eating|Meat-eating]] 
 * kings gave, in charity, [[sb/9/11/5#purport|SB 9.11.5]]
-* living entities as, for each other, [[sb/9/13/10#purport|SB 9.13.10]]
+* Kṛṣṇa. See: Prasāda
 * living entities as, [[sb/3/29/15#purport|SB 3.29.15]]
+* living entities as, for each other, [[sb/9/13/10#purport|SB 9.13.10]]
 * Lord ordains, for species, [[sb/1/17/10-11#purport|SB 1.17.10-11]]
 * Lord supplies, [[sb/3/3/28#purport|SB 3.3.28]], [[sb/4/18/22#purport|SB 4.18.22]], [[sb/4/18/26#purport|SB 4.18.26]]
 * magic, of Draupadī, [[sb/1/15/11#purport|SB 1.15.11]]
 * material vs. spiritual, [[sb/8/12/8#purport|SB 8.12.8]]
 * meat used as, [[bg/4/26|Bg. 4.26]], [[bg/6/16|Bg. 6.16]], [[bg/14/16|Bg. 14.16]], [[bg/16/1|Bg. 16.1]] (13)
+  * *See also:* Meat-eating
 * milk best, [[sb/1/19/3#purport|SB 1.19.3]]
 * milk products as, [[bg/17/10|Bg. 17.10]]
 * modes of nature &, [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/26/13#purport|SB 4.26.13]]
@@ -70,18 +75,17 @@
 * not for sense gratification, [[sb/4/8/72#purport|SB 4.8.72]]
 * of human flesh served to Vasiṣṭha, [[sb/9/9/22#purport|SB 9.9.22]], [[sb/9/9/23-24#purport|SB 9.9.23-24]]
 * offerable to Lord, [[sb/4/30/28#purport|SB 4.30.28]], [[sb/4/30/39-40#purport|SB 4.30.39-40]]
-* offered 
-* offered to 
+* offered
+* offered to
 * offered to ancestors, [[bg/1/41|Bg. 1.41]]
 * offered to Deity, [[sb/9/6/8#purport|SB 9.6.8]]
-* offered to Kṛṣṇa. *See: Prasādam* 
-* offered to Kṛṣṇa. See: Prasāda , 
+* offered to Kṛṣṇa. *See: Prasādam*
+* offered to Kṛṣṇa. See: Prasāda
 * offered to Lord, [[sb/2/9/36#purport|SB 2.9.36]], [[sb/8/22/23#purport|SB 8.22.23]]
-* offered to Lord. See: Prasāda 
 * on heavenly planets & earth compared, [[sb/9/14/23#purport|SB 9.14.23]]
 * planets produce, [[sb/4/18/26#purport|SB 4.18.26]]
-* production of, maintenance of, [[sb/9/4/22#purport|SB 9.4.22]]
 * production of, [[sb/4/22/57#purport|SB 4.22.57]], [[sb/4/30/44#purport|SB 4.30.44]]
+* production of, maintenance of, [[sb/9/4/22#purport|SB 9.4.22]]
 * purifying, [[bg/17/8–10|Bg. 17.8–10]]
 * purpose of, [[bg/17/10|Bg. 17.10]]
 * python eats available, [[sb/7/13/37#purport|SB 7.13.37]]
@@ -95,9 +99,10 @@
 * sinful, [[bg/9/26|Bg. 9.26]]
 * soulful, compared with sinful, [[sb/3/5/49#purport|SB 3.5.49]]
 * species struggle for, [[sb/1/13/47#purport|SB 1.13.47]]
-* spiritual. *See: Prasādam* 
-* spiritual. See: Prasāda 
+* spiritual. *See: Prasādam*
+* spiritual. See: Prasāda
 * surplus, as God’s grace, [[sb/7/14/8#purport|SB 7.14.8]]
+* to forefathers, [[sb/4/18/18#purport|SB 4.18.18]]
 * to stomach, analogy of, [[sb/4/31/14-14#purport|SB 4.31.14-14]]
 * types of, [[sb/3/3/28#purport|SB 3.3.28]]
 * types of, two recommended, [[sb/2/8/21#purport|SB 2.8.21]]
@@ -109,4 +114,6 @@
 * via agriculture & cow protection, [[sb/10/7/13-15#purport|SB 10.7.13-15]]
 * via sacrifice, [[bg/3/13–14|Bg. 3.13–14]]
 
-*See also:* [[e#Eating|Eating]]; [[p#Prasādam|Prasādam]]; [[p#Prasāda|Prasāda]]; [[s#Starvation|Starvation]]; [[f#Fasting|Fasting]]; [[m#Meat-eating|Meat-eating]]; Lunch; Kṛṣṇa & cowherd boys eating
+*See also:* [Eating](entries/eating.md); Prasāda; Starvation; Prasādam; [Fasting](entries/fasting.md); [Meat-eating](entries/meat-eating.md); Lunch; Kṛṣṇa & cowherd boys eating
+
+*See:* Animal slaughter; [Meat-eating](entries/meat-eating.md)

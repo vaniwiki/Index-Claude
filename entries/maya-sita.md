@@ -1,6 +1,6 @@
 # Māyā-sītā
 
-[[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/antya/8/27#purport|Antya 8.27]], [[cc/madhya/1/117#purport|Madhya 1.117]]
+[[cc/madhya/1/117#purport|Madhya 1.117]], [[cc/antya/8/27#purport|Antya 8.27]], [[cc/adi/7/121#purport|Ādi 7.121]], [[cc/adi/7/128#purport|Ādi 7.128]]
 
 * as impersonalism, **[[cc/adi/7/112#translation|Ādi 7.112]]**
 * Bhagavān Ācārya &, [[cc/adi/10/135–36#purport|Ādi 10.135–36]]

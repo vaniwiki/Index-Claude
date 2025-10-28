@@ -21,7 +21,7 @@
 * chanting of Lord’s holy names given by, [[sb/5/10/18#purport|SB 5.10.18]], [[sb/5/18/11#purport|SB 5.18.11]]
 * cited on disciplic succession, [[sb/3/4/25#purport|SB 3.4.25]]
 * cited on offending devotees, [[sb/3/15/39#purport|SB 3.15.39]]
-* cited. See: Caitanya Mahāprabhu cited 
+* cited. See: Caitanya Mahāprabhu cited
 * compassion in renunciation of, [[sb/6/10/8#purport|SB 6.10.8]]
 * contribution by, [[sb/3/14/38#purport|SB 3.14.38]]
 * delivers fallen souls, [[sb/6/18/43#purport|SB 6.18.43]]

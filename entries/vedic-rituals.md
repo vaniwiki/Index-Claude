@@ -12,6 +12,6 @@
 * seven listed, [[sb/3/13/36#purport|SB 3.13.36]]
 * transcended via devotional service, [[bg/2/52–53|Bg. 2.52–53]]
 
-*See also:* [[s#Sacrifice|Sacrifice]]; [[w#Worship|Worship]]
+*See also:* [Sacrifice](entries/sacrifices.md); [Worship](entries/worship.md)
 
-*See:* [[r#Ritualistic ceremonies|Ritualistic ceremonies]]; [[s#Sacrifices|Sacrifices]]; [[v#Vedic culture|Vedic culture]]
+*See:* Ritualistic ceremonies; Sacrifices; Vedic culture

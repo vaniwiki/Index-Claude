@@ -1,30 +1,39 @@
 # Brahma-saṁhitā cited
 
-[[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/2/5#purport|Ādi 2.5]], **[[cc/adi/2/89#translation|Ādi 2.89]]**, [[cc/adi/3/111#purport|Ādi 3.111]], [[cc/adi/3/111#purport|Ādi 3.111]], [[cc/adi/5/18#purport|Ādi 5.18]], [[cc/madhya/10/168#purport|Madhya 10.168]], [[cc/madhya/19/102#purport|Madhya 19.102]], [[cc/madhya/20/165#purport|Madhya 20.165]], [[cc/madhya/20/272#purport|Madhya 20.272]], [[cc/madhya/20/273#purport|Madhya 20.273]], [[cc/madhya/20/384#purport|Madhya 20.384]], [[cc/madhya/6/143#purport|Madhya 6.143]], [[cc/madhya/6/269#purport|Madhya 6.269]], [[cc/madhya/6/84#purport|Madhya 6.84]], [[cc/madhya/9/155#purport|Madhya 9.155]], [[cc/madhya/9/155#purport|Madhya 9.155]]
+[[cc/adi/3/111#purport|Ādi 3.111]], [[cc/adi/5/18#purport|Ādi 5.18]], [[cc/madhya/20/165#purport|Madhya 20.165]], [[cc/madhya/6/143#purport|Madhya 6.143]], [[cc/madhya/6/269#purport|Madhya 6.269]], [[cc/adi/3/111#purport|Ādi 3.111]], [[cc/madhya/9/155#purport|Madhya 9.155]], [[cc/madhya/19/102#purport|Madhya 19.102]], [[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/2/5#purport|Ādi 2.5]], [[cc/madhya/10/168#purport|Madhya 10.168]], [[cc/madhya/20/273#purport|Madhya 20.273]], **[[cc/adi/2/89#translation|Ādi 2.89]]**, [[cc/madhya/20/272#purport|Madhya 20.272]], [[cc/madhya/6/84#purport|Madhya 6.84]], [[cc/madhya/9/155#purport|Madhya 9.155]], [[cc/madhya/20/384#purport|Madhya 20.384]]
 
+* & His expansions, [[sb/5/7/9#purport|SB 5.7.9]], [[sb/5/19/4#purport|SB 5.19.4]]
 * as authoritative on Kṛṣṇa, [[sb/1/1/1#purport|SB 1.1.1]]
+* as cause of causes, [[sb/5/12/1#purport|SB 5.12.1]]
 * as recovered by Caitanya, SB Intro 31
-* Brahma-saṁhitā quoted , 
+* as Supersoul, [[sb/5/5/26#purport|SB 5.5.26]]
+* Brahma-saṁhitā quoted
 * direction of, [[cc/madhya/6/171#purport|Madhya 6.171]]
+* form of, [[sb/5/3/2#purport|SB 5.3.2]], [[sb/5/5/19#purport|SB 5.5.19]], [[sb/5/18/29#purport|SB 5.18.29]]
+* Goloka always resided in by, [[sb/5/18/30#purport|SB 5.18.30]]
 * on all beings & karma, [[sb/1/6/28#purport|SB 1.6.28]]
-* on Brahman effulgence, [[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/17/105#purport|Ādi 17.105]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/4/9/16#purport|SB 4.9.16]]
+* on Brahman effulgence, [[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/17/105#purport|Ādi 17.105]], [[sb/4/9/16#purport|SB 4.9.16]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
 * on cause of all causes, [[sb/1/17/19#purport|SB 1.17.19]]
 * on desire trees, [[sb/4/6/28#purport|SB 4.6.28]]
 * on devotee, Lord seen as Śyāmasundara by, [[sb/5/1/27#purport|SB 5.1.27]]
 * on devotee’s vision, [[cc/madhya/8/274#purport|Madhya 8.274]]
-* on devotional service, fruitive results eradicated via/?/, [[sb/5/8/27#purport|SB 5.8.27]]
 * on devotional service, [[cc/madhya/17/95#purport|Madhya 17.95]]
+* on devotional service, fruitive results eradicated via/?/, [[sb/5/8/27#purport|SB 5.8.27]]
 * on Durgā, [[sb/5/7/6#purport|SB 5.7.6]]
 * on God, His incarnations & expansions, [[sb/3/19/24#purport|SB 3.19.24]]
 * on goddess of fortune, [[sb/1/11/33#purport|SB 1.11.33]]
 * on goddesses of fortune, [[sb/4/31/22#purport|SB 4.31.22]]
 * on Govinda, [[sb/4/9/15#purport|SB 4.9.15]]
 * on incarnation of Kṛṣṇa, [[sb/1/3/26#purport|SB 1.3.26]]
-* on Kṛṣṇa 
+* on Kṛṣṇa
+  * abode of, [[bg/8/21|Bg. 8.21]], [[bg/8/22|Bg. 8.22]]
+  * descriptions of, [[bg/18/65|Bg. 18.65]]
+  * infallibility of, [[bg/4/5|Bg. 4.5]]
+  * knowing, [[bg/7/24|Bg. 7.24]] (2)
 * on Kṛṣṇa as cause of all causes, [[sb/4/24/42#purport|SB 4.24.42]], [[sb/5/12/9#purport|SB 5.12.9]], [[sb/5/12/10#purport|SB 5.12.10]]
 * on Kṛṣṇa as original person, [[sb/4/20/21#purport|SB 4.20.21]], [[sb/4/24/42#purport|SB 4.24.42]]
 * on Kṛṣṇa in Vṛndāvana, [[sb/2/4/20#purport|SB 2.4.20]]
-* on Lord 
+* on Lord
 * on Lord & His abode, [[sb/3/21/11#purport|SB 3.21.11]]
 * on Lord as old & young, [[sb/10/2/35#purport|SB 10.2.35]]
 * on Lord as original person, [[sb/3/19/31#purport|SB 3.19.31]]
@@ -48,4 +57,4 @@
 * on viṣṇu-tattvas, [[cc/adi/5/41#purport|Ādi 5.41]]
 * on Vṛndāvana, [[cc/madhya/8/138#purport|Madhya 8.138]]
 
-*See also:* [[b#Brahma-saṁhitā quoted|Brahma-saṁhitā quoted]]
+*See also:* Brahma-saṁhitā quoted

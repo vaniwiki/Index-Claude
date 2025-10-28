@@ -1,14 +1,17 @@
 # Liberation (mukti)
 
-* as freedom 
+* as freedom
 * as surrender to Lord, [[sb/4/6/49#purport|SB 4.6.49]]
 * beyond happiness & distress, [[sb/4/8/33#purport|SB 4.8.33]]
 * beyond pain & pleasure, [[sb/4/8/28#purport|SB 4.8.28]]
 * defined, [[sb/4/6/33#purport|SB 4.6.33]]
 * desire absent in, [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/8/64#purport|SB 4.8.64]]
 * devotee gets, [[sb/4/6/45#purport|SB 4.6.45]], [[sb/4/8/41#purport|SB 4.8.41]]
-* devotional service 
+* devotional service
 * for preachers of Kṛṣṇa, [[sb/4/7/44#purport|SB 4.7.44]]
+* from level of, [[sb/4/8/61#purport|SB 4.8.61]]
+* from misery, [[sb/4/6/33#purport|SB 4.6.33]]
+* from reactions, [[sb/4/1/5#purport|SB 4.1.5]]
 * frustrated men attempt, [[sb/4/4/15#purport|SB 4.4.15]]
 * given by devotees, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/49#purport|SB 4.6.49]]
 * human chance for, [[sb/4/7/44#purport|SB 4.7.44]]
@@ -20,6 +23,7 @@
 * purification for, [[sb/4/8/5#purport|SB 4.8.5]]
 * sense gratification absent in, [[sb/4/8/61#purport|SB 4.8.61]]
 * Śiva gives, [[sb/4/4/15#purport|SB 4.4.15]]
+* surpasses, [[sb/4/8/61#purport|SB 4.8.61]], [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/12/8#purport|SB 4.12.8]]
 * types of, [[sb/4/9/29#purport|SB 4.9.29]]
 * via associating with devotees, [[sb/4/4/26#purport|SB 4.4.26]]
 * via chanting about Lord, [[sb/4/7/44-44#purport|SB 4.7.44-44]], [[sb/4/13/8-9#purport|SB 4.13.8-9]]
@@ -38,4 +42,4 @@
 * via yoga process, [[sb/4/4/25#purport|SB 4.4.25]]
 * vimukti stage of, [[sb/4/8/61#purport|SB 4.8.61]]
 
-*See also:* [[f#Freedom|Freedom]]; [[i#Independence|Independence]]; [[p#Purification|Purification]]; [[s#Salvation|Salvation]]
+*See also:* [Freedom](entries/freedom.md); [Independence](entries/independence.md); [Purification](entries/purification.md); [Salvation](entries/salvation.md)

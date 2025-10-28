@@ -1,6 +1,6 @@
 # Elderly brāhmaṇa
 
-[[cc/madhya/5/113#purport|Madhya 5.113]], **[[cc/madhya/5/29–32#translation|Madhya 5.29–32]]**, **[[cc/madhya/5/58–62#translation|Madhya 5.58–62]]**, **[[cc/madhya/5/77–78#translation|Madhya 5.77–78]]**, **[[cc/madhya/5/80#translation|Madhya 5.80]]**
+**[[cc/madhya/5/29–32#translation|Madhya 5.29–32]]**, [[cc/madhya/5/113#purport|Madhya 5.113]], **[[cc/madhya/5/58–62#translation|Madhya 5.58–62]]**, **[[cc/madhya/5/77–78#translation|Madhya 5.77–78]]**, **[[cc/madhya/5/80#translation|Madhya 5.80]]**
 
 * as Lord’s eternal servant, **[[cc/madhya/5/113#translation|Madhya 5.113]]**
 * faith in Lord by, **[[cc/madhya/5/79#translation|Madhya 5.79]]**

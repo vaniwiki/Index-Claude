@@ -1,12 +1,14 @@
 # Creation (act of)
 
+[[sb/4/27/9#purport|SB 4.27.9]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/31/17#purport|SB 4.31.17]]
+
 * activities in, [[sb/2/5/23#purport|SB 2.5.23]]
 * as dream, [[sb/2/1/39#purport|SB 2.1.39]]
 * austerity as energy of, [[sb/2/5/4#purport|SB 2.5.4]]
+* awakening, [[sb/4/31/16-16#purport|SB 4.31.16-16]]
 * Brahmā &, [[sb/2/4/22#purport|SB 2.4.22]]
 * Brahmā instrumental in, [[sb/2/9/30#purport|SB 2.9.30]]
 * brains behind, [[sb/2/5/2#purport|SB 2.5.2]]
-* by Brahmā 
 * by Brahmā, [[sb/4/17/24#purport|SB 4.17.24]], [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/34#purport|SB 4.24.34]], [[sb/4/24/50#purport|SB 4.24.50]], [[sb/4/24/72#purport|SB 4.24.72]], [[sb/4/24/73#purport|SB 4.24.73]], [[sb/4/30/25#purport|SB 4.30.25]]
 * by Dakṣa, [[sb/4/30/49#purport|SB 4.30.49]]
 * by five elements, [[sb/4/11/15-15#purport|SB 4.11.15-15]], [[sb/4/11/16#purport|SB 4.11.16]]
@@ -16,11 +18,12 @@
 * by puruṣa-avatāras, [[sb/3/5/5#purport|SB 3.5.5]]
 * by yogamāyā, [[sb/3/5/22#purport|SB 3.5.22]]
 * causes of, three, [[sb/4/31/18#purport|SB 4.31.18]]
-* compared to 
+* compared to
 * compared to spider creating web, [[sb/2/9/28#purport|SB 2.9.28]]
 * elements subtle & gross in, [[sb/2/2/28#purport|SB 2.2.28]], [[sb/2/5/25-31#purport|SB 2.5.25-31]]
 * energies in, [[sb/2/10/3#purport|SB 2.10.3]]
 * first beings in, [[sb/4/29/42-44#purport|SB 4.29.42-44]]
+* from body, [[sb/3/12/23-28#purport|SB 3.12.23-28]]
 * from seedling form, [[sb/3/10/7#purport|SB 3.10.7]]
 * in three stages, [[sb/2/10/46#purport|SB 2.10.46]]
 * in two stages, [[sb/4/1/1#purport|SB 4.1.1]]
@@ -34,11 +37,13 @@
 * ninefold process of, [[sb/3/10/14-29#purport|SB 3.10.14-29]]
 * of body, [[sb/4/23/16#purport|SB 4.23.16]]
 * of elements, [[sb/4/23/16#purport|SB 4.23.16]], [[sb/4/23/17#purport|SB 4.23.17]]
+* of entities, [[sb/3/10/18-30#purport|SB 3.10.18-30]]
 * of ignorance, purpose of, [[sb/3/12/2-3#purport|SB 3.12.2-3]]
 * of Kumāras, [[sb/3/12/4#purport|SB 3.12.4]]
 * of material & spiritual worlds, [[sb/4/11/26#purport|SB 4.11.26]]
 * of planetary divisions, [[sb/3/10/8-9#purport|SB 3.10.8-9]]
-* of universal form. See: Universal form’s creation 
+* of universal form. See: Universal form’s creation
+* of universe, [[sb/3/12/1-57#purport|SB 3.12.1-57]]
 * of universes, [[sb/2/5/33#purport|SB 2.5.33]], [[sb/2/5/33#purport|SB 2.5.33]]
 * of Vedas, [[sb/3/12/35-39#purport|SB 3.12.35-39]]
 * preliminary & secondary, [[sb/2/10/3#purport|SB 2.10.3]]
@@ -46,11 +51,13 @@
 * questioning about, [[sb/2/4/6#purport|SB 2.4.6]]
 * repetition of, [[sb/2/5/21#purport|SB 2.5.21]]
 * sarga & visarga, [[sb/3/10/7#purport|SB 3.10.7]]
-*  [[sb/4/27/9#purport|SB 4.27.9]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/31/17#purport|SB 4.31.17]]
+* seasons, [[sb/4/31/15#purport|SB 4.31.15]]
 * spiritual touch behind, [[sb/2/4/23#purport|SB 2.4.23]]
 * Vedic knowledge for, [[sb/2/4/25#purport|SB 2.4.25]]
+* via glance, [[sb/4/31/17#purport|SB 4.31.17]]
+* via His energies, [[sb/4/24/63-63#purport|SB 4.24.63-63]], [[sb/4/31/15-15#purport|SB 4.31.15-15]], [[sb/4/31/17#purport|SB 4.31.17]]
 * via Lord and scientist &, [[sb/2/5/4#purport|SB 2.5.4]]
 * via Lord’s energy, [[sb/2/4/6#purport|SB 2.4.6]]
 * via sound, [[sb/4/24/43#purport|SB 4.24.43]]
 
-*See also:* [[e#Evolution|Evolution]]
+*See also:* [Evolution](entries/evolution.md)

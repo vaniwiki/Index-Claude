@@ -12,7 +12,6 @@
 * by laws of nature, [[sb/4/18/8#purport|SB 4.18.8]]
 * by Lord to devotees, [[sb/5/18/4#purport|SB 5.18.4]]
 * by Lord, [[sb/3/3/13#purport|SB 3.3.13]]
-* *See:* [[s#Sinful reactions|Sinful reactions]] 
 * by material nature, [[sb/2/7/22#purport|SB 2.7.22]], [[sb/5/12/7#purport|SB 5.12.7]], [[sb/5/14/36#purport|SB 5.14.36]], [[sb/9/10/14#purport|SB 9.10.14]]
 * by nature’s laws, [[sb/8/1/10#purport|SB 8.1.10]]
 * by Rāmacandra, [[bg/1/36|Bg. 1.36]]
@@ -61,7 +60,7 @@
 * for miscreants, [[sb/1/17/14-15#purport|SB 1.17.14-15]], [[sb/1/17/28#purport|SB 1.17.28]]
 * for mistreatment of guests, [[sb/5/26/35#purport|SB 5.26.35]]
 * for misuse of wealth, [[sb/3/30/31-32#purport|SB 3.30.31-32]]
-* for murder, [[bg/2/19|Bg. 2.19]], [[bg/2/21|Bg. 2.21]], [[sb/10/10/14#purport|SB 10.10.14]], [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/26/21#purport|SB 4.26.21]]
+* for murder, [[bg/2/19|Bg. 2.19]], [[bg/2/21|Bg. 2.21]], [[sb/4/25/8#purport|SB 4.25.8]], [[sb/4/26/21#purport|SB 4.26.21]], [[sb/10/10/14#purport|SB 10.10.14]]
 * for neglect of dependents, [[sb/3/16/10#purport|SB 3.16.10]]
 * for negligent kṣatriya or government servant, [[sb/5/26/22#purport|SB 5.26.22]]
 * for offenders to devotees, [[sb/9/4/71#purport|SB 9.4.71]]
@@ -124,4 +123,6 @@
 * via māyā, [[sb/7/8/5#purport|SB 7.8.5]]
 * Yamadūtas’ questions on, [[sb/6/3/5-10#purport|SB 6.3.5-10]]
 
-*See also:* [[h#Hellish planets|Hellish planets]]; [[s#Sinful reactions|Sinful reactions]]; [[l#Law|Law]]; Sinfuls reaction; [[s#Suffering|Suffering]]
+*See also:* [Law](entries/laws.md); [Suffering](entries/sufferings.md); Hellish planets; Sinful reactions; Sinfuls reaction
+
+*See:* Sinful reactions

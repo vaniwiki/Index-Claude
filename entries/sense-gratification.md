@@ -1,9 +1,8 @@
 # Sense gratification
 
-[[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/antya/20/55#purport|Antya 20.55]], [[cc/antya/4/179#purport|Antya 4.179]], [[cc/antya/4/98#purport|Antya 4.98]], **[[cc/madhya/11/8#translation|Madhya 11.8]]**, [[cc/madhya/16/72#purport|Madhya 16.72]], **[[cc/madhya/19/164#translation|Madhya 19.164]]**, [[cc/madhya/22/21#purport|Madhya 22.21]], [[cc/madhya/24/64#purport|Madhya 24.64]], [[cc/madhya/25/121#purport|Madhya 25.121]], [[cc/madhya/9/289#purport|Madhya 9.289]]
+[[cc/madhya/9/289#purport|Madhya 9.289]], [[cc/antya/4/179#purport|Antya 4.179]], **[[cc/madhya/11/8#translation|Madhya 11.8]]**, [[cc/madhya/16/72#purport|Madhya 16.72]], [[cc/antya/20/55#purport|Antya 20.55]], **[[cc/madhya/19/164#translation|Madhya 19.164]]**, [[cc/madhya/22/21#purport|Madhya 22.21]], [[cc/madhya/24/64#purport|Madhya 24.64]], [[cc/madhya/25/121#purport|Madhya 25.121]], [[cc/antya/4/98#purport|Antya 4.98]], [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/28/51#purport|SB 4.28.51]]
 
-* yoga 
-* absent 
+* absent
 * activities for, as contaminated, [[sb/5/4/6#purport|SB 5.4.6]]
 * adverse effect of, [[sb/3/9/40#purport|SB 3.9.40]]
 * all desire, [[bg/3/8|Bg. 3.8]]
@@ -40,13 +39,20 @@
 * asuras pursue, [[sb/1/16/34#purport|SB 1.16.34]]
 * atheists &, [[cc/adi/7/119#purport|Ādi 7.119]] (2 purport
 * atheists cited on, [[sb/4/21/30#purport|SB 4.21.30]]
-* attachment to 
-* attachment to. See: Attachment 
-* attachment to. See: Attachment, material 
-* attainment of 
+* attachment to
+  * *See also:* Attachment
+  * in mode of passion, [[bg/14/12|Bg. 14.12]], [[bg/18/34|Bg. 18.34]]
+  * mode of passion causes, [[bg/14/7|Bg. 14.7]]
+* attainment of
+  * via fruitive activity, [[bg/2/42|Bg. 2.42]]
+  * via sacrifice, [[bg/2/43|Bg. 2.43]]
 * austerities for, demoniac, [[sb/7/3/15-16#purport|SB 7.3.15-16]]
-* avoidance of 
+* avoidance of
+  * *See also:* Sense control
+  * necessity of, [[bg/17/16|Bg. 17.16]]
 * awake & asleep, [[sb/4/25/44#purport|SB 4.25.44]]
+* awards, [[sb/5/5/4#purport|SB 5.5.4]]
+* becomes attached to, [[sb/5/13/1#purport|SB 5.13.1]]
 * bewilderment via, [[bg/3/27|Bg. 3.27]]
 * Bhagavad-gītā misused for, [[sb/10/3/45#purport|SB 10.3.45]]
 * birth & death by, [[sb/2/6/20#purport|SB 2.6.20]]
@@ -67,13 +73,18 @@
 * chanting Lord’s name &, [[cc/antya/3/59#purport|Antya 3.59]]
 * checking, falsely & factually, [[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/6/35#purport|SB 1.6.35]]
 * civiliātion pervaded by, [[sb/7/9/45#purport|SB 7.9.45]]
-* compared , , 
+* compared
+  * to eating fruits of tree, [[bg/2/22|Bg. 2.22]]
+  * to overeating, [[bg/4/24|Bg. 4.24]]
+  * to swine’s happiness, [[bg/7/15|Bg. 7.15]] (6)
+  * to water, [[bg/6/36|Bg. 6.36]]
 * compared to chewing chewed, [[sb/3/32/1#purport|SB 3.32.1]]
 * compared with devotional service, **[[cc/adi/8/17#translation|Ādi 8.17]]**, [[sb/3/25/7#purport|SB 3.25.7]]
 * concession for, family life as, [[sb/4/31/6#purport|SB 4.31.6]]
 * conditioned soul seeks, [[sb/3/20/43#purport|SB 3.20.43]]
 * conditioned souls compete for, [[sb/4/9/29#purport|SB 4.9.29]]
 * conditioned souls pursue, [[sb/1/12/6#purport|SB 1.12.6]]
+* connected to material world by, [[sb/5/5/4#purport|SB 5.5.4]]
 * cure for, [[sb/7/7/37#purport|SB 7.7.37]]
 * degradation via, [[bg/16/9|Bg. 16.9]], [[sb/3/31/33#purport|SB 3.31.33]]
 * Deity worship &, [[cc/adi/7/76#purport|Ādi 7.76]]
@@ -83,16 +94,20 @@
 * demons &, [[cc/adi/3/91#purport|Ādi 3.91]]
 * demons attached to, [[bg/16/11|Bg. 16.11]]
 * demons pursue, [[sb/3/17/20#purport|SB 3.17.20]], [[sb/3/18/5#purport|SB 3.18.5]], [[sb/3/18/22-23#purport|SB 3.18.22-23]], [[sb/3/20/38#purport|SB 3.20.38]], [[sb/3/21/14#purport|SB 3.21.14]], [[sb/3/22/2#purport|SB 3.22.2]]
-* desire for 
+* desire for
+  * *See also:* Attachment; Desires; material; Lust
+  * renunciation of, [[bg/6/2|Bg. 6.2]]
 * desired by Satī, [[sb/4/3/9#purport|SB 4.3.9]]
 * detachment from, [[bg/5/21|Bg. 5.21]], [[sb/3/7/13#purport|SB 3.7.13]]
-* detachment from. See: Detachment , 
+  * *See also:* Detachment; Sense control
+  * for self-realization, [[bg/18/51|Bg. 18.51]]
+  * mind satisfied via, [[bg/17/16|Bg. 17.16]]
 * devotee’s view of, [[sb/4/12/8#purport|SB 4.12.8]]
 * devotees don’t care about, [[sb/3/25/26#purport|SB 3.25.26]]
 * devotees reject, [[sb/3/15/48#purport|SB 3.15.48]]
 * devotees surpass, [[sb/7/6/25#purport|SB 7.6.25]]
 * devotees transcend, [[bg/2/55–64|Bg. 2.55–64]], [[bg/2/68–71|Bg. 2.68–71]]
-* devotional service 
+* devotional service
 * devotional service &, [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/29/57#purport|SB 4.29.57]]
 * devotional service hindered by, [[bg/2/44|Bg. 2.44]]
 * devotional service impeded by, **[[cc/adi/8/18#translation|Ādi 8.18]]**, [[cc/adi/13/42#purport|Ādi 13.42]]
@@ -102,7 +117,7 @@
 * dogs & hogs experience, [[sb/5/5/1#purport|SB 5.5.1]]
 * dovetailing matter for Lord compared with, [[sb/4/30/19#purport|SB 4.30.19]]
 * drains human energy, [[sb/1/1/10#purport|SB 1.1.10]]
-* eating &,  3.13, [[bg/6/16–17|Bg. 6.16–17]]
+* eating &, 3.13, [[bg/6/16–17|Bg. 6.16–17]]
 * eating for, devotee avoids, [[sb/4/8/72#purport|SB 4.8.72]]
 * education geared to, [[sb/1/1/22#purport|SB 1.1.22]]
 * encouraged via Vedic literature, [[sb/1/5/15#purport|SB 1.5.15]]
@@ -122,7 +137,9 @@
 * for fools, [[sb/3/21/14-14#purport|SB 3.21.14-14]]
 * for householders, [[sb/4/22/13#purport|SB 4.22.13]], [[sb/4/22/52#purport|SB 4.22.52]], [[sb/4/23/4#purport|SB 4.23.4]]
 * for Lord, [[sb/3/5/51#purport|SB 3.5.51]]
-* for tongue 
+* for tongue
+  * *See also:* Sense gratification; eating & . . .
+  * sinful kinds of, [[bg/6/16|Bg. 6.16]]
 * forgetfulness of spiritual life via, [[sb/4/28/59#purport|SB 4.28.59]]
 * four principles of, [[sb/5/18/3#purport|SB 5.18.3]]
 * freedom from, [[sb/1/10/11-12#purport|SB 1.10.11-12]], [[sb/2/2/21#purport|SB 2.2.21]]
@@ -133,6 +150,7 @@
 * government leaders pursue, [[sb/4/14/19#purport|SB 4.14.19]]
 * gṛhastha &, [[sb/3/22/11#purport|SB 3.22.11]]
 * happiness from, [[bg/3/39|Bg. 3.39]], [[sb/1/3/13#purport|SB 1.3.13]], [[sb/1/5/18#purport|SB 1.5.18]], [[sb/1/5/18#purport|SB 1.5.18]]
+  * as nectar then poison, [[bg/18/38|Bg. 18.38]]
 * hellish result of, [[sb/10/2/22#purport|SB 10.2.22]]
 * higher force controls, [[sb/3/3/23#purport|SB 3.3.23]]
 * Hiraṇyakaśipu enjoys, [[sb/7/4/19-19#purport|SB 7.4.19-19]]
@@ -148,13 +166,14 @@
 * human life spoiled by, [[sb/7/14/3-4#purport|SB 7.14.3-4]], [[sb/7/14/5#purport|SB 7.14.5]], [[sb/7/15/40#purport|SB 7.15.40]]
 * humans &, [[sb/3/23/53#purport|SB 3.23.53]]
 * illusion caused by, [[bg/3/27|Bg. 3.27]]
-* *See:* [[i#Illusion|Illusion]] 
-* illusion of. See: Illusion 
+* illusion of. See: Illusion
 * impersonalists attracted to, [[sb/2/2/31#purport|SB 2.2.31]]
-* in *karma-kāṇḍa *section of Vedas,  2.43, [[bg/2/45|Bg. 2.45]]
+* in *karma-kāṇḍa *section of Vedas, 2.43, [[bg/2/45|Bg. 2.45]]
 * in banyan-tree analogy, [[bg/15/1|Bg. 15.1]], [[bg/15/2|Bg. 15.2]]
+* in devotional service, [[sb/4/8/61#purport|SB 4.8.61]]
 * in education, [[sb/7/6/1#purport|SB 7.6.1]], [[sb/7/6/8#purport|SB 7.6.8]]
 * in family life, [[bg/4/31|Bg. 4.31]], [[sb/3/32/1-2#purport|SB 3.32.1-2]]
+* in liberation, [[sb/4/8/61#purport|SB 4.8.61]]
 * in material world, [[sb/7/4/37#purport|SB 7.4.37]]
 * in present Age, [[sb/4/22/36#purport|SB 4.22.36]]
 * in subterranean heavens, [[sb/5/24/8#purport|SB 5.24.8]]
@@ -183,7 +202,7 @@
 * living entities bewildered by, [[sb/1/12/23#purport|SB 1.12.23]]
 * living entities pursuing, [[sb/4/24/64#purport|SB 4.24.64]]
 * living entities should renounce, [[sb/4/18/6#purport|SB 4.18.6]]
-* living entity 
+* living entity
 * Lord not responsible for, [[bg/4/14|Bg. 4.14]]
 * Lord’s position &, [[cc/antya/3/251#purport|Antya 3.251]]
 * love for Lord compared with, **[[cc/adi/7/84#translation|Ādi 7.84]]**, **[[cc/adi/7/85#translation|Ādi 7.85]]**
@@ -191,7 +210,7 @@
 * marriage as, [[sb/7/14/10#purport|SB 7.14.10]]
 * marriage for, [[sb/3/14/19#purport|SB 3.14.19]]
 * material & spiritual, [[sb/2/5/30#purport|SB 2.5.30]], [[sb/3/15/31#purport|SB 3.15.31]]
-* material body 
+* material body
 * material compared with spiritual, [[sb/3/21/13#purport|SB 3.21.13]], [[sb/8/19/24#purport|SB 8.19.24]]
 * material existence based on, [[sb/2/9/36#purport|SB 2.9.36]]
 * material life as, [[sb/3/21/20-20#purport|SB 3.21.20-20]], [[sb/3/22/12#purport|SB 3.22.12]]
@@ -232,19 +251,24 @@
 * preoccupation with, [[sb/1/3/43#purport|SB 1.3.43]]
 * pure devotee free of, [[sb/8/12/6#purport|SB 8.12.6]]
 * pure devotee uninterested in, [[sb/4/22/52#purport|SB 4.22.52]]
-* purification from, desire for. See: Purification 
+* purification from, desire for. See: Purification
 * rādhā-bhāva-mūrti &, [[cc/adi/4/106#purport|Ādi 4.106]]
 * rasas in, twelve, [[sb/1/1/3#purport|SB 1.1.3]]
 * reaction follows, [[bg/2/38|Bg. 2.38]]
-* regulated 
+  * *See also: Karma*
 * regulated, [[sb/4/26/7#purport|SB 4.26.7]]
+  * compared to travel on royal road, [[bg/3/34|Bg. 3.34]]
+  * detachment from, [[bg/3/34|Bg. 3.34]]
+  * detachment via, [[bg/3/34|Bg. 3.34]]
+  * lust controlled via, [[bg/3/41|Bg. 3.41]]
 * regulations for, from Vedas, [[sb/4/25/39#purport|SB 4.25.39]], [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/6-6#purport|SB 4.26.6-6]], [[sb/4/26/7#purport|SB 4.26.7]]
 * regulative principles govern, [[sb/5/26/6#purport|SB 5.26.6]]
 * religion as means to, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/9#purport|SB 1.2.9]]
 * religion not for, [[sb/3/28/3#purport|SB 3.28.3]]
 * religiosity for, [[sb/4/29/57#purport|SB 4.29.57]]
 * renunciation of, [[bg/6/17|Bg. 6.17]], [[sb/7/15/22#purport|SB 7.15.22]], [[sb/9/19/16-16#purport|SB 9.19.16-16]]
-* renunciation of. See: Renunciation 
+  * *See also:* Renunciation
+  * in yoga, 6.4
 * required, compared with excessive, [[sb/4/31/6#purport|SB 4.31.6]]
 * restricted in yoga practice, [[sb/4/27/17#purport|SB 4.27.17]]
 * restriction from, [[bg/2/59|Bg. 2.59]]
@@ -255,7 +279,6 @@
 * saintly king renounces, [[sb/8/1/7#purport|SB 8.1.7]]
 * sannyāsa order &, **[[cc/antya/2/120#translation|Antya 2.120]]**, [[cc/antya/4/217#purport|Antya 4.217]]
 * Saubhari Ṛṣi dissatisfied with, [[sb/9/6/48#purport|SB 9.6.48]]
-*  [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/28/51#purport|SB 4.28.51]]
 * scriptures for, [[sb/4/29/13#purport|SB 4.29.13]]
 * secondary in Vaikuṇṭha, [[sb/3/15/17-18#purport|SB 3.15.17-18]]
 * self-realiātion compared with, [[sb/4/22/32-34#purport|SB 4.22.32-34]], [[sb/9/18/2#purport|SB 9.18.2]]
@@ -273,12 +296,20 @@
 * spiritual progress hindered by, [[bg/2/41–44|Bg. 2.41–44]]
 * spiritual realization vs., [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/9/6#purport|SB 2.9.6]]
 * spiritualists unable to give up, [[sb/5/13/17#purport|SB 5.13.17]]
+* spoiled via, [[sb/7/5/30#purport|SB 7.5.30]]
 * Śrīmad-Bhāgavatam &, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/5/11#purport|SB 1.5.11]]
 * suffering accompanies, [[sb/4/25/9#purport|SB 4.25.9]]
 * suffering as end result of, [[bg/18/38|Bg. 18.38]]
 * thoughts of, [[bg/2/62|Bg. 2.62]]
 * time wasted by endeavor for, [[sb/5/5/7#purport|SB 5.5.7]]
 * time wasted on, [[sb/4/22/37#purport|SB 4.22.37]]
+* to burning-hot food, [[sb/4/28/27#purport|SB 4.28.27]]
+* to drop of water, [[sb/4/25/12#purport|SB 4.25.12]]
+* to garbage, [[sb/1/5/10#purport|SB 1.5.10]]
+* to girl friends of Purañjanī, [[sb/4/25/27#purport|SB 4.25.27]], [[sb/4/25/35#purport|SB 4.25.35]], [[sb/4/29/6#purport|SB 4.29.6]]
+* to hunting, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
+* to jaundice, [[sb/1/5/11#purport|SB 1.5.11]]
+* transcends, [[sb/7/6/26#purport|SB 7.6.26]]
 * transmigration facilitates, [[bg/2/13|Bg. 2.13]]
 * transmigration of soul continued because of, [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/18-20#purport|SB 4.29.18-20]], [[sb/4/29/78-78#purport|SB 4.29.78-78]]
 * types of, five, [[sb/4/25/18#purport|SB 4.25.18]]
@@ -287,9 +318,13 @@
 * unrestricted, [[sb/4/26/5#purport|SB 4.26.5]]
 * varṇāśrama degraded by, [[sb/1/2/13#purport|SB 1.2.13]]
 * Vedas regulate, [[sb/3/15/8#purport|SB 3.15.8]]
-* Vedic 
+* Vedic
+  * allowance for, [[bg/3/15|Bg. 3.15]], [[bg/3/16|Bg. 3.16]]
+  * injunctions restrict, [[bg/2/58|Bg. 2.58]]
+  * method for attaining, [[bg/2/42|Bg. 2.42]]
 * via devotional service, [[cc/adi/8/25#purport|Ādi 8.25]], [[cc/madhya/4/123#purport|Madhya 4.123]]
 * via ignorance, [[sb/4/29/8#purport|SB 4.29.8]]
+* via, [[sb/5/5/4#purport|SB 5.5.4]]
 * warning against, [[sb/1/18/22#purport|SB 1.18.22]]
 * weakens body & spirit, [[sb/4/28/2#purport|SB 4.28.2]]
 * wealth misused for, [[sb/5/14/12#purport|SB 5.14.12]]
@@ -303,7 +338,12 @@
 * world’s production geared for, [[sb/4/18/7#purport|SB 4.18.7]]
 * worship by one desiring, [[sb/6/18/33-34#purport|SB 6.18.33-34]]
 * worshiping Lord for, [[sb/4/9/9#purport|SB 4.9.9]]
+* yoga
+  * hindered by, [[bg/6/36|Bg. 6.36]]
+  * restricts, [[bg/6/20|Bg. 6.20]]
 * yoga cures desire for, [[sb/8/19/21#purport|SB 8.19.21]]
 * Yudhiṣṭhira rejected, [[sb/7/10/1#purport|SB 7.10.1]]
 
-*See also:* [[a#Attachment|Attachment]]; [[d#Desires|Desires]]; material; [[m#Materialism|Materialism]]; [[b#Bodily concept of life|Bodily concept of life]]; [[e#Enjoyment|Enjoyment]]; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]; [[s#Sex life|Sex life]]; Bodily concept; [[d#Desire|Desire]]; [[l#Lust|Lust]]; [[f#Fruitive activities|Fruitive activities]]; [[m#Material life|Material life]]; specific forms of sense gratification; [[m#Material enjoyment|Material enjoyment]]
+*See also:* [Attachment](entries/attachment.md); Bodily concept; [Desire](entries/desires.md); material; [Enjoyment](entries/enjoyment.md); Sex life; Desires; [Lust](entries/lust.md); [Materialism](entries/materialism.md); Bodily concept of life; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); Fruitive activities; Material life; specific forms of sense gratification; Material enjoyment
+
+*See:* [Illusion](entries/illusion.md)

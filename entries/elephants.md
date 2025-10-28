@@ -1,16 +1,20 @@
 # Elephant(s)
 
 * as auspicious, [[sb/1/11/18#purport|SB 1.11.18]]
+* as Indra’s carrier, [[sb/2/7/25#purport|SB 2.7.25]]
 * as less intelligent, [[sb/8/4/10#purport|SB 8.4.10]]
+* as praised by fools, [[sb/2/1/24#purport|SB 2.1.24]]
 * Bharata distributed, [[sb/9/20/28#purport|SB 9.20.28]]
 * emerging from muddy water, Citraketu’s enlightenment compared to, [[sb/6/16/15#purport|SB 6.16.15]]
 * for defense, [[sb/1/10/32#purport|SB 1.10.32]]
 * from milk ocean, [[sb/8/8/4#purport|SB 8.8.4]], [[sb/8/8/5#purport|SB 8.8.5]]
 * goddess of fortune bathed by, [[sb/8/8/14#purport|SB 8.8.14]]
 * in Ayodhyā, [[sb/9/11/26#purport|SB 9.11.26]]
+* in garden, analogy of, [[sb/2/2/30#purport|SB 2.2.30]]
 * Indradyumna as, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
-* King of. See: Airāvata; Gajendra 
+* King of. See: Airāvata; Gajendra
 * lions defeat, [[sb/7/8/23#purport|SB 7.8.23]], [[sb/7/8/30#purport|SB 7.8.30]]
+* Lord saves, [[sb/2/7/15-16#purport|SB 2.7.15-16]]
 * mad, in garden, offenses to devotee compared to, [[sb/9/4/68#purport|SB 9.4.68]]
 * mad, offense against devotees compared to, [[sb/6/17/15#purport|SB 6.17.15]]
 * Mohinī compared to, [[sb/8/12/27#purport|SB 8.12.27]], [[sb/8/12/29-30#purport|SB 8.12.29-30]], [[sb/8/12/32#purport|SB 8.12.32]]

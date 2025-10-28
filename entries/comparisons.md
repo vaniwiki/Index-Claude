@@ -1,4 +1,4 @@
 # Comparisons
 
 
-*See:* [[a#Analogies|Analogies]]
+*See:* Analogies

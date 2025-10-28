@@ -1,10 +1,11 @@
 # Pure devotee(s)
 
+* ”conquered” by, [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/31/20-20#purport|SB 4.31.20-20]]
 * *Bhagavad-gītā *understood by, [[bg/18/64|Bg. 18.64]]
 * & his spiritual master, [[bg/18/56|Bg. 18.56]]
 * Absolute Truth known to, [[sb/9/5/25#purport|SB 9.5.25]]
-* activities of, misunderstood, [[sb/9/5/20#purport|SB 9.5.20]]
 * activities of, [[sb/4/22/50#purport|SB 4.22.50]]
+* activities of, misunderstood, [[sb/9/5/20#purport|SB 9.5.20]]
 * all elevated by association with, [[bg/9/32|Bg. 9.32]]
 * alone realize Kṛṣṇa, [[bg/4/11|Bg. 4.11]]
 * amaze world, [[sb/4/8/78#purport|SB 4.8.78]], [[sb/4/8/79#purport|SB 4.8.79]]
@@ -12,9 +13,9 @@
 * Ambarīṣa heeded, [[sb/9/4/21#purport|SB 9.4.21]]
 * angry at blasphemy, [[sb/4/14/32#purport|SB 4.14.32]]
 * anxiety absent in, [[bg/10/11|Bg. 10.11]], [[bg/12/14–19|Bg. 12.14–19]]
-* as *adhyātma-cetas,* 3.30 3.30
-* as *mahātmās,* 9.13
-* as *niṣkāma,* 8.14
+* as *adhyātma-cetas,*, 3.30
+* as *mahātmās,*, 9.13
+* as *niṣkāma,*, 8.14
 * as compassionate, [[sb/4/21/47#purport|SB 4.21.47]]
 * as desireless & detached, [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/31/21-21#purport|SB 4.31.21-21]]
 * as determined in devotional service, [[bg/12/13|Bg. 12.13]]
@@ -42,13 +43,18 @@
 * as surrendered soul, [[sb/4/20/31#purport|SB 4.20.31]]
 * as sympathetic to all, [[sb/9/4/66#purport|SB 9.4.66]]
 * as tolerant, [[bg/12/13–15|Bg. 12.13–15]]
-* as transcendental 
-* as transcendental, [[sb/3/29/14#purport|SB 3.29.14]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/31/19#purport|SB 4.31.19]], [[sb/4/9/11#purport|SB 4.9.11]], [[sb/9/8/24#purport|SB 9.8.24]]
+* as transcendental, [[sb/3/29/14#purport|SB 3.29.14]], [[sb/4/9/11#purport|SB 4.9.11]], [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/30/23#purport|SB 4.30.23]], [[sb/4/31/19#purport|SB 4.31.19]], [[sb/9/8/24#purport|SB 9.8.24]]
+  * to attachment & detachment, [[bg/2/64|Bg. 2.64]]
+  * to designations, [[bg/12/16|Bg. 12.16]]
+  * to dualities of life, [[bg/12/17–19|Bg. 12.17–19]]
+  * to fear & anxiety, [[bg/12/15–16|Bg. 12.15–16]]
+  * to material duties, [[bg/3/17–18|Bg. 3.17–18]], [[bg/3/35|Bg. 3.35]]
 * as unknowable, [[bg/9/28|Bg. 9.28]]
 * as unmotivated, [[sb/4/30/29#purport|SB 4.30.29]]
 * as victorious, [[sb/4/28/29#purport|SB 4.28.29]]
 * associating with, [[sb/2/1/6#purport|SB 2.1.6]], [[sb/2/3/11#purport|SB 2.3.11]], [[sb/2/3/11#purport|SB 2.3.11]], [[sb/2/8/5#purport|SB 2.8.5]], [[sb/4/24/59#purport|SB 4.24.59]]
 * association with, [[bg/6/8|Bg. 6.8]], [[bg/7/16|Bg. 7.16]], [[bg/7/17|Bg. 7.17]], [[bg/7/28|Bg. 7.28]], [[bg/9/32|Bg. 9.32]], [[bg/12/20|Bg. 12.20]], [[bg/15/20|Bg. 15.20]], [[sb/4/30/33-34#purport|SB 4.30.33-34]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/9/21/18#purport|SB 9.21.18]]
+  * rarity of, [[bg/10/9|Bg. 10.9]]
 * attached to Lord completely, [[bg/10/9|Bg. 10.9]]
 * attaining status of, [[sb/2/2/31#purport|SB 2.2.31]]
 * beyond desiring liberation, [[sb/2/3/10#purport|SB 2.3.10]]
@@ -61,11 +67,14 @@
 * chanting & hearing about Lord satisfies, [[sb/9/4/24-24#purport|SB 9.4.24-24]]
 * chanting potency of, [[sb/2/5/25#purport|SB 2.5.25]]
 * community of, [[sb/4/30/24#purport|SB 4.30.24]]
-* compared 
+* compared
+  * with *yogīs,*, 8.14, [[bg/8/16|Bg. 8.16]]
+  * with motivated devotees, [[bg/7/16|Bg. 7.16]]
 * compared to dry coconut, [[sb/4/22/26#purport|SB 4.22.26]]
 * compared to touchstones, [[sb/2/9/35#purport|SB 2.9.35]]
 * compared with mixed devotees, [[sb/3/27/27#purport|SB 3.27.27]]
 * confident of success, [[sb/2/9/36#purport|SB 2.9.36]]
+* controlled by, [[sb/9/4/66#purport|SB 9.4.66]]
 * create pilgrimage sites, [[sb/4/6/25#purport|SB 4.6.25]]
 * criticism toward, condemned, [[sb/9/4/68#purport|SB 9.4.68]]
 * dear to Lord, [[sb/4/11/12#purport|SB 4.11.12]]
@@ -77,7 +86,7 @@
 * devotional service via, [[sb/4/24/76#purport|SB 4.24.76]]
 * disqualification for, [[sb/9/11/6#purport|SB 9.11.6]]
 * disturbances absent in, [[bg/12/13–15|Bg. 12.13–15]]
-* dovetailed with Lord, 10 
+* dovetailed with Lord, 10
 * duty &, [[bg/3/17–18|Bg. 3.17–18]], [[bg/9/28|Bg. 9.28]]
 * duty of, [[sb/2/3/20#purport|SB 2.3.20]], [[sb/4/20/32#purport|SB 4.20.32]]
 * envy lacking in, [[bg/12/13|Bg. 12.13]]
@@ -88,6 +97,7 @@
 * exemplary behavior of, [[sb/2/3/12#purport|SB 2.3.12]]
 * faithful follower of, [[sb/4/21/43#purport|SB 4.21.43]]
 * family attachments &, [[sb/9/4/65-65#purport|SB 9.4.65-65]]
+* favors, [[sb/9/4/65-65#purport|SB 9.4.65-65]]
 * fearless, [[sb/9/4/47#purport|SB 9.4.47]]
 * form of Kṛṣṇa attractive to, [[bg/11/8|Bg. 11.8]]
 * free from bad association, [[bg/12/18|Bg. 12.18]]
@@ -98,6 +108,7 @@
 * good qualifications required for, [[bg/12/18|Bg. 12.18]]
 * good qualities of, [[bg/1/28|Bg. 1.28]]
 * guidance by, [[bg/9/32|Bg. 9.32]], [[bg/18/55|Bg. 18.55]], [[bg/18/56|Bg. 18.56]]
+* guides, [[sb/9/4/68#purport|SB 9.4.68]]
 * happiness of, [[bg/18/54|Bg. 18.54]]
 * happiness understood by, [[sb/9/4/66#purport|SB 9.4.66]]
 * Hare Kṛṣṇa mantra as chanted by, [[sb/4/24/32#purport|SB 4.24.32]]
@@ -113,12 +124,26 @@
 * in love of God, [[sb/4/9/19#purport|SB 4.9.19]]
 * independence of, [[bg/12/16|Bg. 12.16]]
 * inscrutable, [[sb/9/4/68#purport|SB 9.4.68]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * alone attracts, [[bg/2/64|Bg. 2.64]], [[bg/9/13|Bg. 9.13]]
+  * association of, for, [[bg/4/9|Bg. 4.9]], [[bg/4/11|Bg. 4.11]]
+  * carries what they lack & preserves what they have, [[bg/9/22|Bg. 9.22]]
+  * controls, [[bg/1/15|Bg. 1.15]]
+  * enlightens, [[bg/10/11|Bg. 10.11]]
+  * known by, [[bg/4/5|Bg. 4.5]], [[bg/7/3|Bg. 7.3]]
+  * merciful to, [[bg/7/23|Bg. 7.23]], [[bg/11/7|Bg. 11.7]], [[bg/18/56|Bg. 18.56]]
+  * pleased by, [[bg/1/22|Bg. 1.22]]
+  * promises of, to, [[bg/12/6|Bg. 12.6]], [[bg/18/65–66|Bg. 18.65–66]]
+  * protects, [[bg/9/34|Bg. 9.34]]
+  * remembered by, [[bg/8/14|Bg. 8.14]], [[bg/10/9|Bg. 10.9]]
+  * seen only by, [[bg/11/48|Bg. 11.48]]
+  * wants us to be, [[bg/18/65|Bg. 18.65]]
 * Kṛṣṇa’s lotus feet satisfy, [[sb/2/8/6#purport|SB 2.8.6]], [[sb/2/8/6#purport|SB 2.8.6]]
 * liberation for, [[sb/4/30/2#purport|SB 4.30.2]]
 * liberation rejected by, [[sb/4/12/9#purport|SB 4.12.9]]
-* Lord , 
+* Lord
 * Lord as ”inferior” to, [[sb/2/4/10#purport|SB 2.4.10]]
+* Lord descends for, [[sb/2/7/26#purport|SB 2.7.26]]
 * Lord favors, [[sb/4/20/19#purport|SB 4.20.19]], [[sb/4/20/20#purport|SB 4.20.20]]
 * Lord fulfills desires of, [[sb/4/12/32#purport|SB 4.12.32]]
 * Lord instructs, [[sb/4/24/33#purport|SB 4.24.33]]
@@ -129,8 +154,8 @@
 * Lord’s personal feature for, [[sb/2/4/14#purport|SB 2.4.14]]
 * Lord’s pleasure feature seen by, [[sb/2/10/44#purport|SB 2.10.44]]
 * Lord’s relationship with, [[sb/9/4/68#purport|SB 9.4.68]]
-* lotus feet of, dust of, [[sb/3/22/6#purport|SB 3.22.6]]
 * lotus feet of, [[sb/2/3/23#purport|SB 2.3.23]]
+* lotus feet of, dust of, [[sb/3/22/6#purport|SB 3.22.6]]
 * material desires absent in, [[sb/4/9/29#purport|SB 4.9.29]]
 * meditation of, [[bg/6/19|Bg. 6.19]]
 * mercy of, [[bg/2/29|Bg. 2.29]], [[bg/18/71|Bg. 18.71]], [[bg/18/73|Bg. 18.73]]
@@ -143,6 +168,7 @@
 * offerings from, accepted by Kṛṣṇa, [[bg/9/26|Bg. 9.26]]
 * on Brahman platform, [[bg/7/29|Bg. 7.29]]
 * oneness of, with Lord, [[bg/18/54|Bg. 18.54]]
+* personally instructs, [[sb/4/28/41#purport|SB 4.28.41]], [[sb/4/28/52#purport|SB 4.28.52]]
 * pleasure for, hearing & chanting as, [[bg/10/9|Bg. 10.9]]
 * pleasure of, [[sb/2/2/37#purport|SB 2.2.37]]
 * power of, [[sb/2/3/16#purport|SB 2.3.16]]
@@ -167,6 +193,7 @@
 * see Lord with love, [[sb/2/9/35#purport|SB 2.9.35]]
 * seeing, as perfection of sight, [[sb/2/9/39#purport|SB 2.9.39]]
 * seen by past piety, [[sb/4/22/7#purport|SB 4.22.7]]
+* seen by, everywhere, [[sb/9/4/68#purport|SB 9.4.68]]
 * sees Lord everywhere, [[sb/9/9/44#purport|SB 9.9.44]]
 * sense gratification disinterests, [[sb/4/22/52#purport|SB 4.22.52]]
 * service to, [[bg/18/67|Bg. 18.67]], [[sb/4/22/22#purport|SB 4.22.22]]
@@ -196,4 +223,4 @@
 * vision of, [[bg/11/7|Bg. 11.7]], [[sb/4/28/42#purport|SB 4.28.42]]
 * with full knowledge of Kṛṣṇa, [[bg/7/17–19|Bg. 7.17–19]]
 
-*See also:* Devotees; Saintlies person; specific pure devotees; [[m#Mahātmās|Mahātmās]]; Spirituals master
+*See also:* Devotees; Saintlies person; specific pure devotees; Mahātmās; Spirituals master

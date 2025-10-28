@@ -1,6 +1,6 @@
 # Jīva Gosvāmī quoted
 
-* Jīva Gosvāmī cited , 
+* Jīva Gosvāmī cited
 * on Absolute Truth, [[cc/adi/7/122#purport|Ādi 7.122]]
 * on Ananta, [[cc/adi/5/120#purport|Ādi 5.120]]
 * on Caitanya, **[[cc/adi/3/81#translation|Ādi 3.81]]**

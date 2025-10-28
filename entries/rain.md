@@ -1,5 +1,7 @@
 # Rain
 
+[[sb/5/4/3#purport|SB 5.4.3]], [[sb/5/5/23#purport|SB 5.5.23]]
+
 * austerity involving, [[sb/4/23/6#purport|SB 4.23.6]]
 * by chanting Hare Kṛṣṇa, [[sb/7/14/7#purport|SB 7.14.7]]
 * by sacrifice, [[sb/1/16/20#purport|SB 1.16.20]]
@@ -14,7 +16,6 @@
 * Pṛthu compared to, [[sb/4/22/57#purport|SB 4.22.57]], [[sb/4/22/58#purport|SB 4.22.58]]
 * Pṛthu would supply, if Indra failed, [[sb/4/16/8#purport|SB 4.16.8]]
 * Ṛṣyaśṛṅga brought, [[sb/9/23/7-10#purport|SB 9.23.7-10]]
-*  [[sb/5/4/3#purport|SB 5.4.3]], [[sb/5/5/23#purport|SB 5.5.23]]
 * scarcity of, cause of, [[sb/9/4/22#purport|SB 9.4.22]]
 * sun-god controls, [[sb/4/24/36#purport|SB 4.24.36]]
 * via chanting Hare Kṛṣṇa, [[sb/9/1/17#purport|SB 9.1.17]], [[sb/9/20/24-26#purport|SB 9.20.24-26]]

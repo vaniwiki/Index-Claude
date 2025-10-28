@@ -6,4 +6,4 @@
 * nondevotee prone to influence of, [[sb/9/4/21#purport|SB 9.4.21]]
 * of Lord, [[sb/9/24/57#purport|SB 9.24.57]], [[sb/9/24/58#purport|SB 9.24.58]]
 
-*See also:* [[e#Elements|Elements]]; material; [[m#Māyā|Māyā]]
+*See also:* Elements; material; Māyā

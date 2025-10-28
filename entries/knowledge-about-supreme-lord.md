@@ -36,4 +36,4 @@
 * via surrender, [[sb/2/7/42-45#purport|SB 2.7.42-45]], [[sb/2/7/43-45#purport|SB 2.7.43-45]], [[sb/2/7/46#purport|SB 2.7.46]], [[sb/2/7/46#purport|SB 2.7.46]]
 * via yogamāyā, [[sb/2/7/30#purport|SB 2.7.30]], [[sb/2/7/43-45#purport|SB 2.7.43-45]], [[sb/2/7/43-45#purport|SB 2.7.43-45]], [[sb/2/9/34#purport|SB 2.9.34]]
 
-*See also:* [[s#Self-realization|Self-realization]]; [[s#Spiritual world|Spiritual world]]
+*See also:* [Self-realization](entries/self-realization.md); Spiritual world

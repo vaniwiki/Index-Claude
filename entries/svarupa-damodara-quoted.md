@@ -1,6 +1,6 @@
 # Svarūpa Dāmodara quoted
 
-**[[cc/antya/5/154#translation|Antya 5.154]]**, **[[cc/madhya/14/140#translation|Madhya 14.140]]**, **[[cc/madhya/14/141–53#translation|Madhya 14.141–53]]**, **[[cc/madhya/14/156–57#translation|Madhya 14.156–57]]**, **[[cc/madhya/14/159#translation|Madhya 14.159]]**
+**[[cc/madhya/14/141–53#translation|Madhya 14.141–53]]**, **[[cc/madhya/14/159#translation|Madhya 14.159]]**, **[[cc/madhya/14/156–57#translation|Madhya 14.156–57]]**, **[[cc/madhya/14/140#translation|Madhya 14.140]]**, **[[cc/antya/5/154#translation|Antya 5.154]]**
 
 * & Caitanya, **[[cc/antya/5/148–51#translation|Antya 5.148–51]]**
 * anger &, **[[cc/madhya/14/163#translation|Madhya 14.163]]**

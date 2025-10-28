@@ -7,3 +7,5 @@
 * quoted on Yadu, [[sb/9/18/40#purport|SB 9.18.40]]
 * sons of, [[sb/9/22/27-28#purport|SB 9.22.27-28]]
 * sun-god with, [[sb/9/24/33-34#purport|SB 9.24.33-34]], [[sb/9/24/35#purport|SB 9.24.35]]
+
+*See also:* Pāṇḍavas; specific Pāṇḍavas

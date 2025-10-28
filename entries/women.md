@@ -1,18 +1,20 @@
 # Women
 
-[[cc/antya/12/42#purport|Antya 12.42]], **[[cc/antya/2/117–20#translation|Antya 2.117–20]]**, [[cc/antya/2/143#purport|Antya 2.143]], [[cc/antya/2/144#purport|Antya 2.144]], **[[cc/antya/2/165#translation|Antya 2.165]]**, [[cc/antya/2/166#purport|Antya 2.166]], [[cc/antya/3/105#purport|Antya 3.105]], **[[cc/madhya/22/87–90#translation|Madhya 22.87–90]]**
+**[[cc/madhya/22/87–90#translation|Madhya 22.87–90]]**, **[[cc/antya/2/117–20#translation|Antya 2.117–20]]**, [[cc/antya/2/143#purport|Antya 2.143]], [[cc/antya/2/144#purport|Antya 2.144]], **[[cc/antya/2/165#translation|Antya 2.165]]**, [[cc/antya/2/166#purport|Antya 2.166]], [[cc/antya/3/105#purport|Antya 3.105]], [[cc/antya/12/42#purport|Antya 12.42]]
 
 * ”sannyāsīs” seeking, [[sb/3/24/35#purport|SB 3.24.35]]
 * ”svāmīs” & ”yogīs” victimized by, [[sb/4/22/40#purport|SB 4.22.40]]
 * *sannyāsī *&, [[bg/16/1|Bg. 16.1]] (5)
 * advantage taken of, [[sb/4/26/6#purport|SB 4.26.6]]
+* agricultural field, [[sb/9/6/2#purport|SB 9.6.2]]
 * animallike, [[sb/8/9/10#purport|SB 8.9.10]]
-* as ”better half,” [[sb/1/7/45#purport|SB 1.7.45]]
+* as ”better half,”, [[sb/1/7/45#purport|SB 1.7.45]]
 * as basic principle of material attachment, [[sb/5/13/21#purport|SB 5.13.21]]
 * as binding force, [[sb/2/7/6#purport|SB 2.7.6]]
 * as dependent, [[sb/3/22/25#purport|SB 3.22.25]], [[sb/3/24/40#purport|SB 3.24.40]], [[sb/3/33/13#purport|SB 3.33.13]], [[sb/3/33/19#purport|SB 3.33.19]], [[sb/9/9/32#purport|SB 9.9.32]], [[sb/9/10/11#purport|SB 9.10.11]]
 * as energy of man, [[sb/4/26/15#purport|SB 4.26.15]]
 * as illusion personified, [[sb/5/14/28#purport|SB 5.14.28]]
+* as impediment in spiritual life, [[sb/5/1/37#purport|SB 5.1.37]], [[sb/5/1/38#purport|SB 5.1.38]]
 * as Kṛṣṇa’s wives, [[sb/2/4/4#purport|SB 2.4.4]], [[sb/2/4/20#purport|SB 2.4.20]]
 * as less intelligent, [[sb/7/7/16-16#purport|SB 7.7.16-16]], [[sb/7/7/54#purport|SB 7.7.54]]
 * as māyā’s agent, [[sb/4/29/55#purport|SB 4.29.55]]
@@ -22,14 +24,13 @@
 * as religious, [[sb/1/8/20#purport|SB 1.8.20]]
 * as widow, [[sb/3/33/21#purport|SB 3.33.21]]
 * as widows, [[sb/1/7/45#purport|SB 1.7.45]]
-* association with , 
-* association with, avoided by renunciants, [[sb/4/25/17#purport|SB 4.25.17]], [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/31/1#purport|SB 4.31.1]]
 * association with, **[[cc/madhya/11/7–8#translation|Madhya 11.7–8]]**, [[cc/madhya/11/10#purport|Madhya 11.10]], [[sb/5/6/3#purport|SB 5.6.3]], [[sb/6/18/30#purport|SB 6.18.30]]
+* association with, avoided by renunciants, [[sb/4/25/17#purport|SB 4.25.17]], [[sb/4/28/3#purport|SB 4.28.3]], [[sb/4/31/1#purport|SB 4.31.1]]
 * association with, renunciant &, [[bg/16/1|Bg. 16.1]] (5)
 * association with, restricted, [[sb/1/10/16#purport|SB 1.10.16]]
-* attachment to 
 * attachment to, [[bg/2/60|Bg. 2.60]], [[bg/3/34|Bg. 3.34]], [[bg/14/7|Bg. 14.7]], [[bg/16/10|Bg. 16.10]], [[sb/3/30/8-8#purport|SB 3.30.8-8]], [[sb/3/31/35-38#purport|SB 3.31.35-38]], [[sb/3/31/42#purport|SB 3.31.42]], [[sb/9/10/11#purport|SB 9.10.11]]
-* attachment to. See: Attachment 
+  * mode of passion characterized by, [[bg/14/7|Bg. 14.7]]
+  * regulated, [[bg/3/34|Bg. 3.34]]
 * attachments of, [[sb/4/25/31#purport|SB 4.25.31]], [[sb/4/25/42#purport|SB 4.25.42]], [[sb/4/27/1#purport|SB 4.27.1]]
 * attraction to, [[cc/antya/3/250#purport|Antya 3.250]], [[sb/2/2/3#purport|SB 2.2.3]], [[sb/5/2/6#purport|SB 5.2.6]], [[sb/5/2/10#purport|SB 5.2.10]], [[sb/5/13/4#purport|SB 5.13.4]]
 * attractive features of, [[sb/5/2/6#purport|SB 5.2.6]], [[sb/5/2/10#purport|SB 5.2.10]], [[sb/5/2/11#purport|SB 5.2.11]]
@@ -39,11 +40,12 @@
 * Bālika protected by, [[sb/9/9/40#purport|SB 9.9.40]]
 * bathing directions for, [[sb/3/23/31#purport|SB 3.23.31]]
 * beautiful, on earth, [[sb/1/16/12#purport|SB 1.16.12]]
-* beauty of, compared to dust of whirlwind, [[sb/5/14/9#purport|SB 5.14.9]]
 * beauty of, [[sb/3/20/31#purport|SB 3.20.31]], [[sb/3/23/37#purport|SB 3.23.37]], [[sb/3/24/14#purport|SB 3.24.14]], [[sb/4/24/12#purport|SB 4.24.12]]
+* beauty of, compared to dust of whirlwind, [[sb/5/14/9#purport|SB 5.14.9]]
 * birth as, [[sb/4/28/2#purport|SB 4.28.2]], [[sb/4/28/18-21#purport|SB 4.28.18-21]], [[sb/4/28/28#purport|SB 4.28.28]], [[sb/4/28/59#purport|SB 4.28.59]], [[sb/4/29/1#purport|SB 4.29.1]]
 * birth control &, [[sb/3/5/19#purport|SB 3.5.19]]
 * birth-status of, [[sb/7/7/16#purport|SB 7.7.16]]
+* boys, [[sb/1/7/42#purport|SB 1.7.42]]
 * brahmacārī’s restrictions concerning, [[sb/6/1/13-14#purport|SB 6.1.13-14]]
 * brahmacārīs avoid, [[sb/7/12/6-7#purport|SB 7.12.6-7]]
 * breasts of, [[sb/4/25/24-24#purport|SB 4.25.24-24]]
@@ -56,18 +58,21 @@
 * chaste, [[sb/9/3/16#purport|SB 9.3.16]], [[sb/9/10/27#purport|SB 9.10.27]], [[sb/9/15/40#purport|SB 9.15.40]]
 * chastity for, [[sb/7/11/25#purport|SB 7.11.25]], [[sb/7/11/26-28#purport|SB 7.11.26-28]], [[sb/7/11/28#purport|SB 7.11.28]]
 * chastity in, [[sb/6/18/50#purport|SB 6.18.50]]
-* compared to , 
+* combined with, [[sb/3/24/15#purport|SB 3.24.15]]
+* compared to
+* compared to blind well, [[sb/3/31/40#purport|SB 3.31.40]]
 * compared to children, [[bg/1/40|Bg. 1.40]], [[bg/16/7|Bg. 16.7]]
 * compared to intelligence, [[sb/4/26/26-26#purport|SB 4.26.26-26]]
 * compared with men, [[sb/4/27/1#purport|SB 4.27.1]]
+* compared with, [[sb/3/23/2#purport|SB 3.23.2]]
 * corruption of, [[sb/3/14/20#purport|SB 3.14.20]], [[sb/3/14/40#purport|SB 3.14.40]]
 * danger from, [[sb/6/18/41-41#purport|SB 6.18.41-41]]
+* dangers of, [[sb/3/31/39-41#purport|SB 3.31.39-41]]
 * decorations for, [[sb/4/26/25#purport|SB 4.26.25]]
 * Deity worship for, [[sb/1/8/22#purport|SB 1.8.22]]
 * demigods &, [[sb/3/20/31#purport|SB 3.20.31]]
 * demons bewildered by, [[sb/8/12/15#purport|SB 8.12.15]]
 * demons pursue, [[sb/3/20/31#purport|SB 3.20.31]], [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/20/36#purport|SB 3.20.36]]
-* *See:* [[d#Detachment|Detachment]] 
 * devotee not lured by, [[sb/4/24/12#purport|SB 4.24.12]]
 * devotees &, [[sb/1/2/17#purport|SB 1.2.17]]
 * devotional service open to, [[sb/3/25/28#purport|SB 3.25.28]], [[sb/7/15/67#purport|SB 7.15.67]], [[sb/7/15/73#purport|SB 7.15.73]]
@@ -83,11 +88,14 @@
 * external, creative energy compared to, [[sb/4/28/55-55#purport|SB 4.28.55-55]]
 * eyebrows of, [[sb/4/25/30#purport|SB 4.25.30]]
 * faithful to husbands, [[sb/3/1/40#purport|SB 3.1.40]]
+* fire, [[sb/1/10/16#purport|SB 1.10.16]]
 * flattery attractive to, [[sb/5/2/17#purport|SB 5.2.17]]
 * form of, as māyā, [[sb/3/31/40#purport|SB 3.31.40]]
+* foxes, [[sb/9/14/36-36#purport|SB 9.14.36-36]]
 * freedom for, [[bg/16/7|Bg. 16.7]]
 * from milk ocean, [[sb/8/6/25#purport|SB 8.6.25]]
 * Gāndhārī as ideal among, [[sb/1/13/39#purport|SB 1.13.39]], [[sb/1/13/58#purport|SB 1.13.58]], [[sb/1/13/58#purport|SB 1.13.58]]
+* given up, [[sb/7/15/22#purport|SB 7.15.22]]
 * goddess of fortune as ideal, [[sb/7/11/29#purport|SB 7.11.29]]
 * Godhead accessible to, [[sb/7/9/6#purport|SB 7.9.6]]
 * heavenly, to be worshiped for good wife, [[sb/2/3/2-7#purport|SB 2.3.2-7]]
@@ -104,11 +112,12 @@
 * in Atala, [[sb/5/24/16#purport|SB 5.24.16]]
 * in devotional service, [[sb/7/7/16#purport|SB 7.7.16]], [[sb/7/7/54#purport|SB 7.7.54]]
 * in disturbed mind, [[sb/3/23/50#purport|SB 3.23.50]]
+* in family life, [[sb/3/31/39#purport|SB 3.31.39]]
 * in heavenly planets to glorify Ambarīṣa, [[sb/9/5/21#purport|SB 9.5.21]]
 * in Indra’s city, [[sb/8/15/13#purport|SB 8.15.13]]
 * in Kali-yuga, [[sb/1/16/21#purport|SB 1.16.21]], [[sb/1/17/24#purport|SB 1.17.24]]
 * in knowledge, [[sb/7/7/17#purport|SB 7.7.17]]
-* in Kṛṣṇa consciousness, [[sb/3/31/41-42#purport|SB 3.31.41-42]]
+* in Kṛṣṇa consciousness, [[sb/3/31/41-42#purport|SB 3.31.41-42]], [[sb/3/31/41-42#purport|SB 3.31.41-42]]
 * in marriage, [[sb/6/18/28#purport|SB 6.18.28]], [[sb/6/18/32-34#purport|SB 6.18.32-34]], [[sb/6/18/40#purport|SB 6.18.40]], [[sb/7/6/11-13#purport|SB 7.6.11-13]]
 * in mixed marriage, [[sb/7/11/30#purport|SB 7.11.30]]
 * in Vaikuṇṭha, [[sb/3/15/20#purport|SB 3.15.20]]
@@ -120,7 +129,8 @@
 * intelligence of, [[bg/1/40|Bg. 1.40]], [[sb/1/8/19#purport|SB 1.8.19]], [[sb/3/23/54#purport|SB 3.23.54]], [[sb/3/24/5#purport|SB 3.24.5]], [[sb/3/25/30-30#purport|SB 3.25.30-30]], [[sb/4/27/1#purport|SB 4.27.1]]
 * karmīs’ attraction to, [[sb/5/13/4#purport|SB 5.13.4]]
 * Kaśyapa describes, [[sb/6/18/40#purport|SB 6.18.40]], [[sb/6/18/42#purport|SB 6.18.42]]
-* Kṛṣṇa attainable by, 28 
+* knowledge covered by, [[sb/5/14/28#purport|SB 5.14.28]]
+* Kṛṣṇa attainable by, 28
 * Kṛṣṇa attractive to, **[[cc/madhya/23/75#translation|Madhya 23.75]]**, **[[cc/madhya/24/55–56#translation|Madhya 24.55–56]]**
 * Kṛṣṇa’s representations among, [[bg/10/34|Bg. 10.34]]
 * kṣatriya &, [[sb/9/18/29#purport|SB 9.18.29]], [[sb/9/18/32#purport|SB 9.18.32]]
@@ -132,7 +142,7 @@
 * Lord’s service best utilization of, [[sb/5/13/21#purport|SB 5.13.21]]
 * lust influences surrender to, [[sb/5/2/16#purport|SB 5.2.16]]
 * Mahābhārata for, [[sb/1/15/27#purport|SB 1.15.27]]
-* man 
+* man
 * man alone with, condemned, [[sb/8/12/34#purport|SB 8.12.34]]
 * man combined with, [[sb/9/14/20#purport|SB 9.14.20]], [[sb/9/14/21#purport|SB 9.14.21]], [[sb/9/14/38#purport|SB 9.14.38]], [[sb/9/14/42#purport|SB 9.14.42]]
 * man compared with, [[sb/9/14/36#purport|SB 9.14.36]]
@@ -140,9 +150,9 @@
 * marriage as saṁskāra for, [[sb/1/4/25#purport|SB 1.4.25]]
 * marriage instruction for, [[sb/1/13/30#purport|SB 1.13.30]]
 * married, [[bg/11/44|Bg. 11.44]]
-* married. See: Family life 
 * material enjoyment sought by, [[sb/3/23/54#purport|SB 3.23.54]]
 * material inclination of, [[sb/6/18/40#purport|SB 6.18.40]]
+* material life expanded by, [[sb/5/14/28#purport|SB 5.14.28]]
 * materialists controlled by, [[sb/7/6/17-18#purport|SB 7.6.17-18]], [[sb/7/6/17-18#purport|SB 7.6.17-18]]
 * may die with husband, [[sb/1/7/45#purport|SB 1.7.45]]
 * men associating with, [[sb/9/19/17-17#purport|SB 9.19.17-17]]
@@ -171,6 +181,7 @@
 * puṁsavana vow for, [[sb/6/19/2-28#purport|SB 6.19.2-28]]
 * puruṣa required by, analogy of, [[sb/1/3/2#purport|SB 1.3.2]]
 * qualities of, [[sb/4/27/1#purport|SB 4.27.1]]
+* restricted, [[sb/3/31/34-36#purport|SB 3.31.34-36]], [[sb/3/31/39#purport|SB 3.31.39]], [[sb/3/31/39-41#purport|SB 3.31.39-41]], [[sb/7/7/14#purport|SB 7.7.14]], [[sb/7/12/10#purport|SB 7.12.10]]
 * Ṛṣabhadeva attractive to, [[sb/5/5/31#purport|SB 5.5.31]]
 * sahajiyās &, [[cc/adi/17/276#purport|Ādi 17.276]]
 * sannyāsa forbidden for, [[sb/3/24/40#purport|SB 3.24.40]]
@@ -190,7 +201,7 @@
 * supreme destination &, [[cc/antya/3/221#purport|Antya 3.221]]
 * śyāmā, [[sb/8/15/17#purport|SB 8.15.17]]
 * three kinds of, [[sb/5/24/16#purport|SB 5.24.16]]
-* transcendental. See: Gopī(s) 
+* transcendental. See: Gopī(s)
 * trustworthiness of, [[bg/1/40|Bg. 1.40]]
 * twilight as, [[sb/3/20/29-37#purport|SB 3.20.29-37]]
 * unmarried & untouched, [[sb/4/21/4#purport|SB 4.21.4]]
@@ -203,4 +214,6 @@
 * with paramour degrades family, [[sb/9/3/21#purport|SB 9.3.21]]
 * Yājñalkya cited on, [[sb/1/11/31#purport|SB 1.11.31]]
 
-*See also:* [[f#Family life|Family life]]; [[f#Female|Female]]; [[m#Male-female attraction|Male-female attraction]]; [[m#Marriage|Marriage]]; [[s#Sex life|Sex life]]; [[w#Wife|Wife]]; [[f#Females|Females]]; Girls; [[g#Gopīs|Gopīs]]; Mothers; Queens; specific women
+*See also:* [Female](entries/females.md); Male-female attraction; [Marriage](entries/marriage.md); Sex life; [Wife](entries/wife.md); Family life; Females; Girls; Gopīs; Mothers; Queens; specific women; Mohinī-mūrti
+
+*See:* [Detachment](entries/detachment.md)

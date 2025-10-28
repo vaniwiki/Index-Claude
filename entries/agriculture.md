@@ -4,6 +4,6 @@
 
 * in society, [[sb/3/6/32#purport|SB 3.6.32]]
 
-*See also:* [[c#Cows|Cows]]; [[v#Vaiśyas|Vaiśyas]]
+*See also:* Cows; Vaiśyas
 
-*See:* [[c#Cow protection|Cow protection]]; [[v#Vaiśyas|Vaiśyas]]; [[f#Food|Food]]; [[c#Cows|Cows]]; protection of
+*See:* [Food](entries/food.md); Vaiśyas; Cow protection; Cows; protection of

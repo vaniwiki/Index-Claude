@@ -1,6 +1,11 @@
 # Nārada Muni quoted
 
-* Nārada Muni cited 
+* & saint, [[sb/7/13/46#purport|SB 7.13.46]]
+* as controller, [[sb/1/13/41-43#purport|SB 1.13.41-43]]
+* as time, [[sb/1/13/49#purport|SB 1.13.49]]
+* classmates of, [[sb/7/8/1#purport|SB 7.8.1]]
+* mother of, [[sb/7/7/8#purport|SB 7.7.8]]
+* Nārada Muni cited
 * on animal-killers, [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/12#purport|SB 10.10.12]]
 * on associating with saintly persons, [[sb/10/10/17#purport|SB 10.10.17]], [[sb/10/10/18#purport|SB 10.10.18]]
 * on bodily conception of life, [[sb/7/1/23-25#purport|SB 7.1.23-25]]
@@ -8,8 +13,8 @@
 * on Brahmā & Hiraṇyakaśipu, [[sb/7/3/22-24#purport|SB 7.3.22-24]], [[sb/7/3/25#purport|SB 7.3.25]]
 * on brahmacarya, [[sb/7/12/1-8#purport|SB 7.12.1-8]]
 * on brāhmaṇa, [[sb/10/7/13-15#purport|SB 10.7.13-15]]
-* on brāhmaṇas, qualified, [[sb/4/31/10#purport|SB 4.31.10]]
 * on brāhmaṇas, [[sb/7/11/21#purport|SB 7.11.21]], [[sb/7/14/41#purport|SB 7.14.41]], [[sb/7/14/42#purport|SB 7.14.42]], [[sb/7/15/1#purport|SB 7.15.1]]
+* on brāhmaṇas, qualified, [[sb/4/31/10#purport|SB 4.31.10]]
 * on Deity worship, [[sb/7/14/39#purport|SB 7.14.39]], [[sb/7/14/40#purport|SB 7.14.40]]
 * on demigods fearing Nṛsiṁhadeva, [[sb/7/9/1-2#purport|SB 7.9.1-2]]
 * on devotional service as eternal benefit, [[sb/4/26/13#purport|SB 4.26.13]]
@@ -23,7 +28,6 @@
 * on kṣatriya’s qualities, [[sb/7/11/22#purport|SB 7.11.22]]
 * on lamentation as ignorance, [[sb/1/13/44-45#purport|SB 1.13.44-45]]
 * on life’s purpose, [[sb/7/15/15#purport|SB 7.15.15]]
-* on Lord 
 * on Lord, [[sb/5/19/12-13#purport|SB 5.19.12-13]], [[sb/7/10/49#purport|SB 7.10.49]], [[sb/7/10/50#purport|SB 7.10.50]]
 * on man & woman, [[sb/7/12/9#purport|SB 7.12.9]], [[sb/7/12/10#purport|SB 7.12.10]]
 * on marriage, spiritual destiny for, [[sb/7/11/29#purport|SB 7.11.29]]
@@ -54,4 +58,4 @@
 * on yoga, process of, [[sb/5/19/13#purport|SB 5.19.13]]
 * on Yudhiṣṭhira’s duty, [[sb/1/13/48#purport|SB 1.13.48]]
 
-*See also:* [[n#Nārada Muni cited|Nārada Muni cited]]
+*See also:* Nārada Muni cited

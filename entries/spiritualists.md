@@ -1,9 +1,9 @@
-# Spiritualist(s)
+# Spiritualists
 
 [[sb/10/13/2#purport|SB 10.13.2]]
 
 * divisions of, three, [[bg/6/40|Bg. 6.40]]
 
-*See also:* Devotees; [[s#Sages|Sages]]; Saintlies person; [[s#Sādhus|Sādhus]]; Pures devotee; Spirituals master
+*See also:* Devotees; Pures devotee; Spirituals master; Sages; Saintlies person; Sādhus
 
-*See:* Devotees; [[j#Jñānīs|Jñānīs]]; Transcendentalists; [[y#Yogīs|Yogīs]]; [[p#Paramahaṁsas|Paramahaṁsas]]; Pure devotees; [[i#Impersonalists|Impersonalists]]; [[s#Sages|Sages]]; [[t#Transcendentalists|Transcendentalists]]
+*See:* Devotees; Impersonalists; Sages; Transcendentalists; Yogīs; Jñānīs; Paramahaṁsas; Pure devotees

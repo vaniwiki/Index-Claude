@@ -1,11 +1,11 @@
-# Soul(s)
+# Souls
 
 * ”unification” of, with Supersoul, [[sb/4/8/82#purport|SB 4.8.82]]
 * & matter combined, living entity as, [[sb/3/27/17#purport|SB 3.27.17]]
 * activity of, adulterated by matter, [[sb/1/2/19#purport|SB 1.2.19]]
 * animal has, [[sb/4/22/31#purport|SB 4.22.31]], [[sb/4/26/9#purport|SB 4.26.9]]
 * animals’, [[bg/2/20|Bg. 2.20]]
-* as ”lost,” [[sb/4/22/31#purport|SB 4.22.31]]
+* as ”lost,”, [[sb/4/22/31#purport|SB 4.22.31]]
 * as ”one” with Supersoul, [[sb/4/22/27-27#purport|SB 4.22.27-27]]
 * as active always, [[sb/3/28/44#purport|SB 3.28.44]]
 * as active, [[sb/7/10/8#purport|SB 7.10.8]]
@@ -45,14 +45,14 @@
 * at conception, [[sb/3/31/1-1#purport|SB 3.31.1-1]]
 * at death, [[sb/4/28/46#purport|SB 4.28.46]]
 * atheists deny, [[sb/10/10/12#purport|SB 10.10.12]]
-* beyond 
+* beyond
 * beyond gross & subtle forms, [[sb/1/3/32-33#purport|SB 1.3.32-33]], [[sb/1/3/32-33#purport|SB 1.3.32-33]]
 * beyond mind & intelligence, [[sb/2/7/18#purport|SB 2.7.18]]
 * beyond pain & pleasure, [[sb/4/8/28#purport|SB 4.8.28]]
 * beyond physical needs, [[sb/2/5/30#purport|SB 2.5.30]]
 * birth caused by, [[sb/7/7/18#purport|SB 7.7.18]]
 * blissful normally, [[sb/1/2/19#purport|SB 1.2.19]]
-* body 
+* body
 * body based on, [[sb/10/3/18#purport|SB 10.3.18]]
 * body compared with, [[sb/8/3/30#purport|SB 8.3.30]], [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/12/8#purport|SB 8.12.8]], [[sb/8/16/19-19#purport|SB 8.16.19-19]], [[sb/8/22/9#purport|SB 8.22.9]], [[sb/8/24/52#purport|SB 8.24.52]], [[sb/9/1/33#purport|SB 9.1.33]]
 * body contrasted to, [[sb/10/4/19#purport|SB 10.4.19]]
@@ -72,19 +72,22 @@
 * changes bodies, [[sb/10/1/39-43#purport|SB 10.1.39-43]], [[sb/10/4/45#purport|SB 10.4.45]], [[sb/10/8/5#purport|SB 10.8.5]]
 * changing bodies, [[sb/4/23/21#purport|SB 4.23.21]]
 * civilization based on, [[sb/2/7/18#purport|SB 2.7.18]]
-* compared , 
+* compared
 * compared to bird, [[sb/3/6/9#purport|SB 3.6.9]]
 * compared to car’s proprietor, [[sb/5/10/22#purport|SB 5.10.22]]
 * compared to Supersoul, [[sb/4/24/40#purport|SB 4.24.40]]
 * compared with Supersoul, [[sb/1/2/31#purport|SB 1.2.31]]
-* conditioned. See: Conditioned soul(s) , , , , , , , , , 
+* compared with, [[sb/7/7/18-18#purport|SB 7.7.18-18]], [[sb/7/7/19-20#purport|SB 7.7.19-20]], [[sb/7/7/19-20#purport|SB 7.7.19-20]], [[sb/7/7/21-21#purport|SB 7.7.21-21]], [[sb/7/7/22-22#purport|SB 7.7.22-22]], [[sb/7/7/23#purport|SB 7.7.23]], [[sb/7/7/24#purport|SB 7.7.24]]=24, [[sb/7/7/26#purport|SB 7.7.26]], [[sb/7/9/24#purport|SB 7.9.24]], [[sb/7/12/31#purport|SB 7.12.31]], [[sb/7/13/29#purport|SB 7.13.29]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/7/14/13#purport|SB 7.14.13]]
+* conditioned. See: Conditioned soul(s)
 * consciousness symptom of, [[sb/3/26/3#purport|SB 3.26.3]], [[sb/3/26/14#purport|SB 3.26.14]]
 * consciousness symptomizes, [[sb/10/1/41#purport|SB 10.1.41]]
+* controls, [[sb/7/8/52#purport|SB 7.8.52]]
 * covered by body & mind, [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/3/33#purport|SB 1.3.33]]
 * covered by subtle body, [[sb/7/2/47-47#purport|SB 7.2.47-47]]
 * defined by negation, [[sb/10/13/57#purport|SB 10.13.57]]
 * departed, oblations to, [[sb/3/20/43#purport|SB 3.20.43]]
 * desires of, produce species, [[sb/4/11/17#purport|SB 4.11.17]]
+* differs from, [[sb/7/2/41-41#purport|SB 7.2.41-41]], [[sb/7/2/42#purport|SB 7.2.42]]
 * doctors & psychologists deny, [[sb/2/9/34#purport|SB 2.9.34]]
 * during dream, [[sb/4/12/18#purport|SB 4.12.18]]
 * elements cover, [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/26#purport|SB 4.22.26]]
@@ -94,6 +97,7 @@
 * eternal desires of, [[sb/2/1/15#purport|SB 2.1.15]]
 * expanded from Lord, [[sb/1/2/28-29#purport|SB 1.2.28-29]], [[sb/1/5/8#purport|SB 1.5.8]]
 * falldown of, [[sb/4/24/34#purport|SB 4.24.34]]
+* fatigue, [[sb/3/2/3#purport|SB 3.2.3]]
 * fire unable to burn, [[sb/5/6/8#purport|SB 5.6.8]]
 * fools misunderstand, [[sb/7/7/21#purport|SB 7.7.21]]
 * forgetfulness of, in material condition, [[sb/1/2/31#purport|SB 1.2.31]], [[sb/1/3/33#purport|SB 1.3.33]]
@@ -124,7 +128,7 @@
 * intelligence symptom of, [[sb/3/27/18#purport|SB 3.27.18]]
 * jīva, [[sb/4/1/15#purport|SB 4.1.15]]
 * knowledge in, as incomplete, [[sb/4/4/14#purport|SB 4.4.14]]
-* knowledge of self in. See: Self-realiātion 
+* knowledge of self in. See: Self-realiātion
 * knowledge of, as stage of God realization, [[sb/1/5/34#purport|SB 1.5.34]]
 * Kṛṣṇa consciousness frees, [[sb/7/9/11#purport|SB 7.9.11]]
 * lamentation not dependent on existence of, [[sb/7/2/37#purport|SB 7.2.37]]
@@ -132,16 +136,17 @@
 * liberated person’s view of, [[sb/6/12/15-15#purport|SB 6.12.15-15]]
 * liberated, devotee as, N110, [[sb/10/2/37#purport|SB 10.2.37]], [[sb/10/4/20#purport|SB 10.4.20]]
 * liberated, know Kṛṣṇa, [[sb/8/3/18#purport|SB 8.3.18]]
-* liberated. See: Liberated soul(s) , , , 
+* liberated. See: Liberated soul(s)
 * life caused by, [[sb/7/7/18#purport|SB 7.7.18]], [[sb/7/7/19-20#purport|SB 7.7.19-20]], [[sb/7/7/24#purport|SB 7.7.24]]
 * limited consciousness of, [[sb/3/15/45#purport|SB 3.15.45]]
 * living entity as, [[sb/3/25/12#purport|SB 3.25.12]], [[sb/3/25/17#purport|SB 3.25.17]], [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/25/41#purport|SB 3.25.41]], [[sb/3/26/2#purport|SB 3.26.2]], [[sb/3/26/7#purport|SB 3.26.7]], [[sb/3/26/16#purport|SB 3.26.16]], [[sb/3/26/19#purport|SB 3.26.19]], [[sb/3/27/8#purport|SB 3.27.8]], [[sb/3/27/17#purport|SB 3.27.17]], [[sb/3/28/43-43#purport|SB 3.28.43-43]], [[sb/3/33/26#purport|SB 3.33.26]], [[sb/4/11/29#purport|SB 4.11.29]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/64#purport|SB 4.24.64]], [[sb/4/25/10#purport|SB 4.25.10]], [[sb/4/25/12#purport|SB 4.25.12]], [[sb/4/27/4#purport|SB 4.27.4]], [[sb/4/27/9#purport|SB 4.27.9]], [[sb/4/27/16#purport|SB 4.27.16]], [[sb/4/28/5#purport|SB 4.28.5]], [[sb/4/28/17#purport|SB 4.28.17]], [[sb/4/28/24#purport|SB 4.28.24]], [[sb/4/28/40-40#purport|SB 4.28.40-40]], [[sb/4/28/42#purport|SB 4.28.42]], [[sb/4/28/61#purport|SB 4.28.61]], [[sb/4/28/62-64#purport|SB 4.28.62-64]], [[sb/4/29/23-25#purport|SB 4.29.23-25]], [[sb/4/30/8#purport|SB 4.30.8]], [[sb/4/31/2#purport|SB 4.31.2]], [[sb/7/12/10#purport|SB 7.12.10]], [[sb/7/12/31#purport|SB 7.12.31]]
-* Lord 
+* Lord
 * Lord enlightens, [[sb/8/3/10#purport|SB 8.3.10]]
 * Lord impregnates nature with, [[sb/3/26/5#purport|SB 3.26.5]]
 * material atmosphere conditions, [[sb/5/14/1#purport|SB 5.14.1]]
 * material body exists with, [[sb/5/5/19#purport|SB 5.5.19]]
 * material elements cover, [[sb/1/15/27#purport|SB 1.15.27]], [[sb/1/15/42#purport|SB 1.15.42]]
+* material qualities, [[sb/3/7/11#purport|SB 3.7.11]]
 * material senses unable to perceive, [[sb/5/5/19#purport|SB 5.5.19]]
 * materialists neglect, [[sb/7/6/4#purport|SB 7.6.4]]
 * Māyā controls, [[sb/5/11/5#purport|SB 5.11.5]]
@@ -151,6 +156,7 @@
 * mind designation of, [[sb/5/11/6#purport|SB 5.11.6]]
 * mind reflects, [[sb/1/15/41#purport|SB 1.15.41]]
 * misconceptions concerning, [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/21#purport|SB 1.2.21]]
+* miseries, [[sb/3/9/9#purport|SB 3.9.9]]
 * nature of, [[sb/3/25/17#purport|SB 3.25.17]], [[sb/3/26/7#purport|SB 3.26.7]]
 * nondevotees misunderstand, [[sb/3/5/4#purport|SB 3.5.4]]
 * nonmaterial, [[sb/8/17/23#purport|SB 8.17.23]]
@@ -170,24 +176,27 @@
 * radio shows dissatisfy, [[sb/2/6/46#purport|SB 2.6.46]]
 * rasas of, [[sb/1/1/3#purport|SB 1.1.3]]
 * realized at death, [[sb/7/2/44#purport|SB 7.2.44]]
-* reincarnation of. See: Transmigration of soul(s) 
+* reincarnation of. See: Transmigration of soul(s)
 * relieved by Kṛṣṇa consciousness, [[sb/4/29/70#purport|SB 4.29.70]]
 * satisfaction for, [[sb/7/11/7#purport|SB 7.11.7]]
 * satisfaction of, [[sb/1/1/11#purport|SB 1.1.11]], [[sb/1/2/5-6#purport|SB 1.2.5-6]], [[sb/1/2/5-6#purport|SB 1.2.5-6]], [[sb/1/2/8#purport|SB 1.2.8]]
 * scientists misunderstand, [[sb/7/13/29#purport|SB 7.13.29]]
 * senses of, [[sb/3/25/7#purport|SB 3.25.7]]
+* senses, mind, & intelligence, [[sb/3/13/13#purport|SB 3.13.13]]
 * service aptitude of, [[sb/2/1/15#purport|SB 2.1.15]]
 * sitting place for, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
 * situation of, [[sb/6/1/31#purport|SB 6.1.31]]
 * size of, [[sb/3/25/17#purport|SB 3.25.17]], [[sb/4/23/15#purport|SB 4.23.15]], [[sb/7/7/20#purport|SB 7.7.20]], [[sb/7/7/24#purport|SB 7.7.24]]
+* source of, [[sb/7/7/49#purport|SB 7.7.49]]
 * spiritual body one with, [[sb/2/8/7#purport|SB 2.8.7]]
 * spiritual form of, [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/6/28#purport|SB 1.6.28]]
 * spiritual understanding of, [[sb/1/2/20#purport|SB 1.2.20]]
 * subtle body &, [[sb/4/29/59-61#purport|SB 4.29.59-61]], [[sb/4/29/68#purport|SB 4.29.68]]
+* suffering, [[sb/3/7/18#purport|SB 3.7.18]]
 * suffers in material modes, [[sb/4/1/15#purport|SB 4.1.15]]
 * Supersoul &, [[sb/6/1/42#purport|SB 6.1.42]], [[sb/6/16/46#purport|SB 6.16.46]], [[sb/6/16/51#purport|SB 6.16.51]], [[sb/6/16/55#purport|SB 6.16.55]], [[sb/6/17/33#purport|SB 6.17.33]], [[sb/6/19/13#purport|SB 6.19.13]]
 * Supersoul accompanies, [[sb/4/21/35#purport|SB 4.21.35]]
-* Supersoul compared with, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/2/2/35#purport|SB 2.2.35]], [[sb/2/5/17#purport|SB 2.5.17]], [[sb/2/6/21#purport|SB 2.6.21]], [[sb/3/22/4#purport|SB 3.22.4]], [[sb/3/24/45#purport|SB 3.24.45]], [[sb/4/28/40-40#purport|SB 4.28.40-40]], [[sb/7/2/45#purport|SB 7.2.45]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/7/14/38#purport|SB 7.14.38]], [[sb/8/1/10#purport|SB 8.1.10]]
+* Supersoul compared with, [[sb/2/2/35#purport|SB 2.2.35]], [[sb/2/5/17#purport|SB 2.5.17]], [[sb/2/6/21#purport|SB 2.6.21]], [[sb/3/22/4#purport|SB 3.22.4]], [[sb/3/24/45#purport|SB 3.24.45]], [[sb/4/28/40-40#purport|SB 4.28.40-40]], [[sb/7/2/45#purport|SB 7.2.45]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/7/14/38#purport|SB 7.14.38]], [[sb/8/1/10#purport|SB 8.1.10]], [[sb/10/2/27#purport|SB 10.2.27]]
 * Supersoul contrasted to, [[sb/3/15/45#purport|SB 3.15.45]]
 * Supersoul directs, [[sb/4/22/37#purport|SB 4.22.37]]
 * Supersoul realized by, [[sb/3/21/12#purport|SB 3.21.12]]
@@ -196,12 +205,19 @@
 * supreme, Kṛṣṇa as, [[sb/2/8/3#purport|SB 2.8.3]], [[sb/2/8/3#purport|SB 2.8.3]]
 * svāṁśa, compared with vibhinnāṁśa, [[sb/3/28/43#purport|SB 3.28.43]]
 * symptoms of, [[sb/3/5/11#purport|SB 3.5.11]], [[sb/3/5/45#purport|SB 3.5.45]], [[sb/3/6/10#purport|SB 3.6.10]], [[sb/3/6/36#purport|SB 3.6.36]]
+* to bird in cage, [[sb/1/2/8#purport|SB 1.2.8]]
+* to bird in tree, [[sb/1/2/31#purport|SB 1.2.31]]
+* to bird, [[sb/3/26/18#purport|SB 3.26.18]]
+* to spark of fire, [[sb/3/28/43#purport|SB 3.28.43]]
 * transcendentalists understand, [[sb/7/7/21#purport|SB 7.7.21]], [[sb/7/7/22#purport|SB 7.7.22]]
 * transfer of, by yoga, [[sb/4/4/24#purport|SB 4.4.24]], [[sb/4/4/25#purport|SB 4.4.25]]
 * transfer of, to spiritual world, [[sb/6/10/12#purport|SB 6.10.12]]
-* transmigration of. See: Transmigration of soul(s) , , , , , , , 
+* transmigration of. See: Transmigration of soul(s)
 * transmigration’s effects on, [[sb/4/29/75-75#purport|SB 4.29.75-75]]
 * understanding of, [[sb/6/4/25#purport|SB 6.4.25]]
 * understanding position of, [[sb/7/2/58#purport|SB 7.2.58]], [[sb/7/2/60#purport|SB 7.2.60]]
+* vehicle for, [[sb/7/15/41#purport|SB 7.15.41]]
+* with body, [[sb/3/24/36#purport|SB 3.24.36]]
+* with Supersoul, [[sb/3/28/43#purport|SB 3.28.43]], [[sb/3/29/20#purport|SB 3.29.20]], [[sb/3/29/27#purport|SB 3.29.27]]
 
-*See also:* [[l#Living entities|Living entities]]; Conditioneds soul; Liberateds soul; [[c#Consciousness|Consciousness]]; [[l#Life|Life]]; [[r#Rasas|Rasas]]; [[s#Self|Self]]
+*See also:* [Consciousness](entries/consciousness.md); [Life](entries/life.md); Living entities; [Falldown](entries/falldown.md); Conditioneds soul; Liberateds soul; Kṛṣṇa consciousness; Self-realiātion; Rasas; [Self](entries/self.md)

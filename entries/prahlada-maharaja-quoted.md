@@ -1,5 +1,17 @@
 # Prahlāda Mahārāja quoted
 
+* as creator & controller, [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/31#purport|SB 7.9.31]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/47#purport|SB 7.9.47]]
+* as desire fulfiller, [[sb/7/9/27#purport|SB 7.9.27]]
+* as power source, [[sb/7/8/7#purport|SB 7.8.7]], [[sb/7/8/8#purport|SB 7.8.8]]
+* as self-satisfied, [[sb/7/9/11#purport|SB 7.9.11]]
+* association with, [[sb/5/18/11#purport|SB 5.18.11]]
+* attachment to, [[sb/5/18/10#purport|SB 5.18.10]]
+* brāhmaṇas require, [[sb/4/31/10#purport|SB 4.31.10]]
+* energy of, [[sb/7/9/20#purport|SB 7.9.20]]
+* from childhood on, [[sb/4/29/52#purport|SB 4.29.52]]
+* incarnations of, [[sb/7/9/38#purport|SB 7.9.38]]
+* nine processes of, [[sb/4/28/30#purport|SB 4.28.30]], [[sb/4/29/38#purport|SB 4.29.38]]
+* of hearing & chanting about Viṣṇu, [[sb/4/28/30#purport|SB 4.28.30]], [[sb/4/28/32#purport|SB 4.28.32]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/38#purport|SB 4.29.38]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/30/35#purport|SB 4.30.35]]
 * on Bali & Lord, [[sb/8/22/16#purport|SB 8.22.16]]
 * on body, planning for, [[sb/7/2/60#purport|SB 7.2.60]]
 * on Brahmā’s vision of Viṣṇu, [[sb/7/9/36#purport|SB 7.9.36]]
@@ -10,12 +22,11 @@
 * on demigods & demons, [[sb/7/7/4-5#purport|SB 7.7.4-5]]
 * on demigods, [[sb/5/18/12#purport|SB 5.18.12]]
 * on devotee’s purification, [[sb/7/7/36#purport|SB 7.7.36]]
-* on devotees 
+* on devotees
 * on devotees as transcendental, [[sb/7/6/25#purport|SB 7.6.25]]
 * on devotees, shelter at lotus feet of, [[sb/4/26/20#purport|SB 4.26.20]], [[sb/4/31/28#purport|SB 4.31.28]]
-* on devotional service 
-* on devotional service via pure devotee, [[sb/4/22/22#purport|SB 4.22.22]], [[sb/4/24/76#purport|SB 4.24.76]]
 * on devotional service, [[sb/5/18/9#purport|SB 5.18.9]], [[sb/7/7/29#purport|SB 7.7.29]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/7/7/50-52#purport|SB 7.7.50-52]], [[sb/7/7/53-55#purport|SB 7.7.53-55]]
+* on devotional service via pure devotee, [[sb/4/22/22#purport|SB 4.22.22]], [[sb/4/24/76#purport|SB 4.24.76]]
 * on equanimity, [[sb/7/8/9#purport|SB 7.8.9]], [[sb/7/8/10#purport|SB 7.8.10]]
 * on faith in Lord’s lotus feet, [[sb/4/21/43#purport|SB 4.21.43]]
 * on family life as blind well, [[sb/3/24/41#purport|SB 3.24.41]]
@@ -38,13 +49,12 @@
 * on knowledge via spiritual master, [[sb/7/6/27-28#purport|SB 7.6.27-28]]
 * on Kṛṣṇa & guru, [[sb/7/7/30-31#purport|SB 7.7.30-31]]
 * on Kṛṣṇa consciousness, [[sb/7/5/5#purport|SB 7.5.5]], [[sb/7/7/28#purport|SB 7.7.28]]
-* on Kṛṣṇa, dependence on, [[sb/7/7/48#purport|SB 7.7.48]]
 * on Kṛṣṇa, [[sb/5/18/9#purport|SB 5.18.9]], [[sb/5/18/11#purport|SB 5.18.11]]
+* on Kṛṣṇa, dependence on, [[sb/7/7/48#purport|SB 7.7.48]]
 * on liberation, [[sb/7/9/46#purport|SB 7.9.46]]
 * on life as duty, [[sb/7/6/2#purport|SB 7.6.2]], [[sb/7/6/5#purport|SB 7.6.5]]
 * on life wasted, [[sb/7/6/7#purport|SB 7.6.7]]
 * on living entities, [[sb/5/18/9#purport|SB 5.18.9]]
-* on Lord 
 * on Lord, [[sb/8/2/32#purport|SB 8.2.32]], [[sb/8/23/6#purport|SB 8.23.6]]
 * on material body, [[sb/7/7/43#purport|SB 7.7.43]]
 * on material happiness, [[sb/7/6/3-4#purport|SB 7.6.3-4]], [[sb/7/7/39#purport|SB 7.7.39]], [[sb/7/7/42#purport|SB 7.7.42]]
@@ -52,9 +62,8 @@
 * on material relationships, [[sb/7/7/44-45#purport|SB 7.7.44-45]]
 * on material wealth as worthless, [[sb/3/29/13#purport|SB 3.29.13]]
 * on material world as anxiety-filled, [[sb/4/30/35#purport|SB 4.30.35]]
-* on materialists 
-* on materialists, falldown of, [[sb/4/26/8#purport|SB 4.26.8]]
 * on materialists, [[sb/7/7/41#purport|SB 7.7.41]]
+* on materialists, falldown of, [[sb/4/26/8#purport|SB 4.26.8]]
 * on money, [[sb/7/6/10#purport|SB 7.6.10]]
 * on Nārada, [[sb/7/6/27-28#purport|SB 7.6.27-28]], [[sb/7/9/28#purport|SB 7.9.28]]
 * on Nṛsiṁhadeva, [[sb/5/18/8#purport|SB 5.18.8]], [[sb/5/18/14#purport|SB 5.18.14]]
@@ -76,6 +85,11 @@
 * on surrender to devotees, [[sb/4/26/20#purport|SB 4.26.20]], [[sb/4/31/28#purport|SB 4.31.28]]
 * on taking shelter of God, [[sb/3/24/41#purport|SB 3.24.41]]
 * on transmigration of soul, [[sb/7/7/47#purport|SB 7.7.47]]
-* Prahlāda Mahārāja cited 
+* Prahlāda Mahārāja cited
+* qualities of, [[sb/5/18/12#purport|SB 5.18.12]], [[sb/5/18/12#purport|SB 5.18.12]]
+* satisfied by devotional service, [[sb/7/9/9#purport|SB 7.9.9]]
+* sleeping by, [[sb/7/9/32#purport|SB 7.9.32]]
+* spiritual advancement by, [[sb/5/18/10#purport|SB 5.18.10]]
+* suffering by, [[sb/5/2/7#purport|SB 5.2.7]]
 
-*See also:* [[p#Prahlāda Mahārāja cited|Prahlāda Mahārāja cited]]
+*See also:* Prahlāda Mahārāja cited

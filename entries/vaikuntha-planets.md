@@ -7,4 +7,4 @@
 * devotee’s facilities in, [[sb/3/29/13#purport|SB 3.29.13]]
 * devotees elevated to, [[sb/3/27/29#purport|SB 3.27.29]]
 
-*See also:* [[s#Spiritual world|Spiritual world]]
+*See also:* Spiritual world

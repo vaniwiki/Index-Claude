@@ -1,7 +1,9 @@
 # Bhakti-rasāmṛta-sindhu quoted
 
-**[[cc/adi/4/117#translation|Ādi 4.117]]**, **[[cc/adi/5/224#translation|Ādi 5.224]]**, [[cc/adi/6/42#purport|Ādi 6.42]], [[cc/adi/7/97#purport|Ādi 7.97]], [[cc/antya/13/113#purport|Antya 13.113]], [[cc/antya/5/97#purport|Antya 5.97]], [[cc/madhya/16/241#purport|Madhya 16.241]], **[[cc/madhya/18/38#translation|Madhya 18.38]]**, **[[cc/madhya/19/167#translation|Madhya 19.167]]**, **[[cc/madhya/19/170#translation|Madhya 19.170]]**, **[[cc/madhya/19/176#translation|Madhya 19.176]]**, [[cc/madhya/19/177#purport|Madhya 19.177]], [[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/212#translation|Madhya 19.212]]**, **[[cc/madhya/20/380#translation|Madhya 20.380]]**, **[[cc/madhya/20/399–401#translation|Madhya 20.399–401]]**, **[[cc/madhya/22/105#translation|Madhya 22.105]]**, **[[cc/madhya/22/129–31#translation|Madhya 22.129–31]]**, **[[cc/madhya/22/133#translation|Madhya 22.133]]**, **[[cc/madhya/22/136#translation|Madhya 22.136]]**, **[[cc/madhya/22/150#translation|Madhya 22.150]]**, **[[cc/madhya/22/154–55#translation|Madhya 22.154–55]]**, **[[cc/madhya/22/163#translation|Madhya 22.163]]**, **[[cc/madhya/22/70#translation|Madhya 22.70]]**, **[[cc/madhya/23/14–15#translation|Madhya 23.14–15]]**, **[[cc/madhya/23/18–19#translation|Madhya 23.18–19]]**, **[[cc/madhya/23/34–38#translation|Madhya 23.34–38]]**, **[[cc/madhya/23/40#translation|Madhya 23.40]]**, **[[cc/madhya/23/5#translation|Madhya 23.5]]**, [[cc/madhya/23/51#purport|Madhya 23.51]], [[cc/madhya/23/51#purport|Madhya 23.51]], **[[cc/madhya/23/67#translation|Madhya 23.67]]**, **[[cc/madhya/23/7#translation|Madhya 23.7]]**, **[[cc/madhya/23/70–85#translation|Madhya 23.70–85]]**, **[[cc/madhya/23/8#translation|Madhya 23.8]]**, **[[cc/madhya/23/95–98#translation|Madhya 23.95–98]]**, **[[cc/madhya/24/128#translation|Madhya 24.128]]**, [[cc/madhya/4/77#purport|Madhya 4.77]], **[[cc/madhya/8/142#translation|Madhya 8.142]]**, **[[cc/madhya/8/188#translation|Madhya 8.188]]**, **[[cc/madhya/8/190#translation|Madhya 8.190]]**, **[[cc/madhya/8/216#translation|Madhya 8.216]]**, **[[cc/madhya/8/84#translation|Madhya 8.84]]**, **[[cc/madhya/9/117#translation|Madhya 9.117]]**, **[[cc/madhya/9/146#translation|Madhya 9.146]]**
+[[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/212#translation|Madhya 19.212]]**, **[[cc/madhya/22/70#translation|Madhya 22.70]]**, **[[cc/madhya/19/170#translation|Madhya 19.170]]**, **[[cc/madhya/19/176#translation|Madhya 19.176]]**, **[[cc/madhya/22/105#translation|Madhya 22.105]]**, **[[cc/madhya/22/129–31#translation|Madhya 22.129–31]]**, **[[cc/madhya/22/133#translation|Madhya 22.133]]**, [[cc/madhya/16/241#purport|Madhya 16.241]], [[cc/antya/13/113#purport|Antya 13.113]], **[[cc/madhya/22/136#translation|Madhya 22.136]]**, **[[cc/madhya/23/5#translation|Madhya 23.5]]**, **[[cc/madhya/22/150#translation|Madhya 22.150]]**, **[[cc/madhya/22/154–55#translation|Madhya 22.154–55]]**, **[[cc/madhya/22/163#translation|Madhya 22.163]]**, [[cc/adi/6/42#purport|Ādi 6.42]], [[cc/adi/7/97#purport|Ādi 7.97]], **[[cc/adi/5/224#translation|Ādi 5.224]]**, **[[cc/madhya/24/128#translation|Madhya 24.128]]**, **[[cc/madhya/20/399–401#translation|Madhya 20.399–401]]**, **[[cc/madhya/8/188#translation|Madhya 8.188]]**, **[[cc/madhya/8/142#translation|Madhya 8.142]]**, **[[cc/madhya/8/216#translation|Madhya 8.216]]**, **[[cc/madhya/18/38#translation|Madhya 18.38]]**, **[[cc/madhya/9/117#translation|Madhya 9.117]]**, **[[cc/madhya/9/146#translation|Madhya 9.146]]**, **[[cc/madhya/23/67#translation|Madhya 23.67]]**, **[[cc/madhya/23/70–85#translation|Madhya 23.70–85]]**, **[[cc/madhya/8/190#translation|Madhya 8.190]]**, **[[cc/adi/4/117#translation|Ādi 4.117]]**, [[cc/madhya/4/77#purport|Madhya 4.77]], **[[cc/madhya/20/380#translation|Madhya 20.380]]**, [[cc/madhya/23/51#purport|Madhya 23.51]], **[[cc/madhya/23/34–38#translation|Madhya 23.34–38]]**, **[[cc/madhya/23/8#translation|Madhya 23.8]]**, **[[cc/madhya/8/84#translation|Madhya 8.84]]**, [[cc/madhya/19/177#purport|Madhya 19.177]], **[[cc/madhya/23/14–15#translation|Madhya 23.14–15]]**, **[[cc/madhya/23/95–98#translation|Madhya 23.95–98]]**, **[[cc/madhya/23/7#translation|Madhya 23.7]]**, **[[cc/madhya/23/18–19#translation|Madhya 23.18–19]]**, **[[cc/madhya/23/40#translation|Madhya 23.40]]**, [[cc/madhya/23/51#purport|Madhya 23.51]], **[[cc/madhya/19/167#translation|Madhya 19.167]]**, [[cc/antya/5/97#purport|Antya 5.97]]
 
+* as inconceivable to material senses, [[sb/10/12/3#purport|SB 10.12.3]]
+* as known by devotional service, [[sb/10/9/15#purport|SB 10.9.15]], [[sb/10/10/32#purport|SB 10.10.32]]
 * on affection, [[cc/madhya/19/178#purport|Madhya 19.178]]
 * on attachment to Lord, [[cc/madhya/19/177#purport|Madhya 19.177]], [[cc/madhya/19/178#purport|Madhya 19.178]]
 * on birth & misdeeds, [[cc/madhya/17/95#purport|Madhya 17.95]]
@@ -17,6 +19,11 @@
 * on devotional perfection, **[[cc/madhya/22/136#translation|Madhya 22.136]]**, **[[cc/madhya/24/172#translation|Madhya 24.172]]**
 * on devotional principles, **[[cc/madhya/24/195#translation|Madhya 24.195]]**
 * on devotional service, [[bg/7/16|Bg. 7.16]], [[sb/8/12/8#purport|SB 8.12.8]], [[sb/8/12/10#purport|SB 8.12.10]]
+  * as liberation, [[bg/5/11|Bg. 5.11]]
+  * free of bad association, [[bg/11/55|Bg. 11.55]] (4)
+  * Kṛṣṇa known via, [[bg/7/3–4|Bg. 7.3–4]]
+  * renunciation &, [[bg/11/55|Bg. 11.55]] (2)
+  * unauthorized, [[bg/7/3|Bg. 7.3]]
 * on devotional service, pure, [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/66#purport|SB 4.29.66]], [[sb/4/31/14#purport|SB 4.31.14]]
 * on dhṛti, **[[cc/madhya/24/181#translation|Madhya 24.181]]**
 * on disappointment (nirveda), [[cc/madhya/2/35#purport|Madhya 2.35]]
@@ -24,8 +31,11 @@
 * on humility (dainya), [[cc/madhya/2/35#purport|Madhya 2.35]], **[[cc/madhya/23/29#translation|Madhya 23.29]]**
 * on impersonal path, **[[cc/madhya/24/128#translation|Madhya 24.128]]**
 * on knowledge about Kṛṣṇa via devotional service, [[bg/7/3–4|Bg. 7.3–4]], [[bg/9/4|Bg. 9.4]]
-* on Kṛṣṇa 
-* on Kṛṣṇa consciousness 
+* on Kṛṣṇa
+* on Kṛṣṇa consciousness
+  * as liberation, [[bg/6/31|Bg. 6.31]]
+  * renunciation via, [[bg/2/63|Bg. 2.63]]
+  * stages of, [[bg/4/10|Bg. 4.10]]
 * on Kṛṣṇa known only by purified souls, [[bg/6/8|Bg. 6.8]]
 * on liberated soul, [[cc/madhya/19/135#purport|Madhya 19.135]], [[sb/10/4/20#purport|SB 10.4.20]]
 * on liberation by devotional service, [[sb/4/29/65#purport|SB 4.29.65]], [[sb/4/30/19#purport|SB 4.30.19]]
@@ -45,9 +55,14 @@
 * on purification via devotional service, [[sb/4/22/52#purport|SB 4.22.52]]
 * on Rādhārāṇī, **[[cc/madhya/23/33#translation|Madhya 23.33]]**
 * on rasas, [[cc/madhya/19/187#purport|Madhya 19.187]], [[cc/madhya/14/157#purport|Madhya 14.157]]
-* on renunciation 
-* on renunciation & devotional service, [[sb/9/4/25#purport|SB 9.4.25]]
 * on renunciation, [[cc/madhya/16/238#purport|Madhya 16.238]], [[cc/madhya/23/105#purport|Madhya 23.105]], [[sb/4/22/28#purport|SB 4.22.28]], [[sb/4/29/55#purport|SB 4.29.55]], [[sb/7/13/32#purport|SB 7.13.32]], [[sb/7/14/7#purport|SB 7.14.7]], [[sb/8/19/40#purport|SB 8.19.40]]
+  * & devotional service, [[bg/11/55|Bg. 11.55]] (2)
+  * highest, [[bg/6/10|Bg. 6.10]]
+  * in Kṛṣṇa consciousness, [[bg/9/28|Bg. 9.28]]
+  * incomplete, [[bg/5/2|Bg. 5.2]]
+  * on working for Kṛṣṇa &, [[bg/11/55|Bg. 11.55]] (2)
+  * via Kṛṣṇa consciousness, [[bg/2/63|Bg. 2.63]]
+* on renunciation & devotional service, [[sb/9/4/25#purport|SB 9.4.25]]
 * on reviving Kṛṣṇa consciousness, [[sb/10/7/1-2#purport|SB 10.7.1-2]]
 * on Rūpa & Sanātana, **[[cc/madhya/1/190#translation|Madhya 1.190]]**
 * on śānta-rati, [[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/212#translation|Madhya 19.212]]**

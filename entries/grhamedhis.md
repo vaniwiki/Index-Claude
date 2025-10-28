@@ -1,8 +1,7 @@
-# Gṛhamedhī(s)
+# Gṛhamedhīs
 
-[[sb/8/16/5#purport|SB 8.16.5]]
+[[sb/8/16/5#purport|SB 8.16.5]], s
 
-*  See: Family life; Materialists s
 * animals compared to, [[sb/7/6/16-16#purport|SB 7.6.16-16]]
 * as money-grubbers, [[sb/7/6/10#purport|SB 7.6.10]], [[sb/7/6/15#purport|SB 7.6.15]]
 * compared with gṛhastha, [[sb/3/22/11#purport|SB 3.22.11]], [[sb/3/30/8#purport|SB 3.30.8]], [[sb/3/32/1#purport|SB 3.32.1]]
@@ -17,4 +16,4 @@
 * silkworms compared to, [[sb/7/6/11-13#purport|SB 7.6.11-13]]
 * spiritual master saves, [[sb/7/6/11-13#purport|SB 7.6.11-13]]
 
-*See also:* [[f#Family life|Family life]]; [[h#Householders|Householders]]
+*See also:* Family life; Householders

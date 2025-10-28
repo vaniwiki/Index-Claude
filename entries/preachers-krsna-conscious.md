@@ -1,4 +1,4 @@
-# Preacher(s), Kṛṣṇa conscious
+# Preachers, Kṛṣṇa conscious
 
 * as dear to Lord, [[sb/8/7/44#purport|SB 8.7.44]]
 * as dearmost to Kṛṣṇa, [[sb/7/6/24#purport|SB 7.6.24]]

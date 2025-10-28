@@ -1,8 +1,8 @@
 # Vidura
 
-[[cc/adi/1/63#purport|Ādi 1.63]], **[[cc/antya/19/69–70#translation|Antya 19.69–70]]**, [[cc/madhya/10/12#purport|Madhya 10.12]], [[cc/madhya/10/138#purport|Madhya 10.138]], [[cc/madhya/11/32#purport|Madhya 11.32]], [[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/20/57#purport|Madhya 20.57]], [[cc/madhya/21/100#purport|Madhya 21.100]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/88#purport|Madhya 24.88]], [[sb/3/25/4#purport|SB 3.25.4]], [[sb/9/22/25#purport|SB 9.22.25]]
+[[cc/adi/1/63#purport|Ādi 1.63]], [[cc/madhya/10/12#purport|Madhya 10.12]], [[cc/madhya/10/138#purport|Madhya 10.138]], [[cc/madhya/11/32#purport|Madhya 11.32]], [[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/20/57#purport|Madhya 20.57]], [[cc/madhya/21/100#purport|Madhya 21.100]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/88#purport|Madhya 24.88]], **[[cc/antya/19/69–70#translation|Antya 19.69–70]]**, [[sb/3/25/4#purport|SB 3.25.4]], [[sb/4/25/1#purport|SB 4.25.1]], [[sb/4/31/30-30#purport|SB 4.31.30-30]], [[sb/9/22/25#purport|SB 9.22.25]]
 
-* as ”śūdra,” [[sb/1/13/1#purport|SB 1.13.1]], [[sb/1/13/15#purport|SB 1.13.15]], [[sb/1/15/49#purport|SB 1.15.49]]
+* as ”śūdra,”, [[sb/1/13/1#purport|SB 1.13.1]], [[sb/1/13/15#purport|SB 1.13.15]], [[sb/1/15/49#purport|SB 1.15.49]]
 * as ācārya, [[sb/1/13/15#purport|SB 1.13.15]]
 * as compassionate, [[sb/1/13/12-13#purport|SB 1.13.12-13]]
 * as holy place personified, [[sb/1/13/10#purport|SB 1.13.10]]
@@ -16,6 +16,7 @@
 * asks about Atri’s sons, [[sb/4/1/16#purport|SB 4.1.16]]
 * asks about Dakṣa & Śiva, [[sb/4/2/1#purport|SB 4.2.1]], [[sb/4/2/2#purport|SB 4.2.2]], [[sb/4/2/3#purport|SB 4.2.3]]
 * chivalrous, [[sb/3/14/5#purport|SB 3.14.5]]
+* compared with, [[sb/1/15/49#purport|SB 1.15.49]]
 * compassionate, [[sb/3/1/41#purport|SB 3.1.41]]
 * Dhṛtarāṣṭra instructed by, [[sb/1/13/14#purport|SB 1.13.14]], [[sb/1/13/18-21#purport|SB 1.13.18-21]], [[sb/1/13/23-28#purport|SB 1.13.23-28]], [[sb/1/13/53#purport|SB 1.13.53]], [[sb/1/13/55#purport|SB 1.13.55]], [[sb/1/15/49#purport|SB 1.15.49]], [[sb/3/1/10-13#purport|SB 3.1.10-13]]
 * Dhṛtarāṣṭra’s house left by, [[sb/3/20/2#purport|SB 3.20.2]]
@@ -36,20 +37,20 @@
 * Maitreya met by, [[sb/3/20/2#purport|SB 3.20.2]], [[sb/3/20/4-4#purport|SB 3.20.4-4]]
 * narration by, [[sb/4/30/1-2#purport|SB 4.30.1-2]], [[sb/4/31/29#purport|SB 4.31.29]]
 * on pilgrimage, [[sb/3/1/18#purport|SB 3.1.18]], [[sb/3/1/24#purport|SB 3.1.24]]
-* Pāṇḍavas 
+* Pāṇḍavas
 * parents of, [[sb/1/9/7#purport|SB 1.9.7]]
 * passing away of, [[sb/1/15/49#purport|SB 1.15.49]]
 * pilgrimage purified, [[sb/3/20/4#purport|SB 3.20.4]]
+* protected by, [[sb/1/13/8#purport|SB 1.13.8]], [[sb/1/13/8#purport|SB 1.13.8]]
 * psychological inquiry by, [[sb/3/1/25#purport|SB 3.1.25]]
 * purification of, [[sb/1/15/49#purport|SB 1.15.49]]
 * questions Maitreya, [[sb/3/5/1-16#purport|SB 3.5.1-16]], [[sb/3/7/2-39#purport|SB 3.7.2-39]]
 * questions Uddhava, [[sb/3/1/25-45#purport|SB 3.1.25-45]]
 * quoted on Lord’s existence, [[sb/2/9/33#purport|SB 2.9.33]]
-* quoted. See: Vidura quoted 
+* quoted. See: Vidura quoted
 * relatives’ death mortified, [[sb/1/13/59#purport|SB 1.13.59]]
 * renouncing home, [[sb/3/1/2#purport|SB 3.1.2]]
 * sages inquire about, [[sb/2/10/49-50#purport|SB 2.10.49-50]]
-*  [[sb/4/25/1#purport|SB 4.25.1]], [[sb/4/31/30-30#purport|SB 4.31.30-30]]
 * spiritual master of, [[sb/1/19/10#purport|SB 1.19.10]]
 * spiritual master worshiped by, [[sb/4/31/28-29#purport|SB 4.31.28-29]]
 * traveling incognito, [[sb/3/1/42#purport|SB 3.1.42]]

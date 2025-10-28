@@ -1,22 +1,40 @@
 # Enjoyment
 
+* ”yogīs” encourage, [[sb/3/21/14#purport|SB 3.21.14]]
 * action aims at, [[sb/3/1/4#purport|SB 3.1.4]]
+* attachment to, [[sb/10/3/40#purport|SB 10.3.40]]
 * by animals, [[sb/3/10/26#purport|SB 3.10.26]]
 * by Lord & living beings compared, [[sb/2/7/15#purport|SB 2.7.15]]
+* compared with spiritual, [[sb/10/12/5#purport|SB 10.12.5]]
+* conditioned soul saved from, [[sb/3/20/1#purport|SB 3.20.1]]
+* conditioned soul seeks, [[sb/3/20/12#purport|SB 3.20.12]], [[sb/3/20/18#purport|SB 3.20.18]]
+* degradation via, [[sb/3/22/34#purport|SB 3.22.34]]
 * desire for, [[sb/2/9/2#purport|SB 2.9.2]]
+* desire for, material world created via, [[sb/3/21/20#purport|SB 3.21.20]]
+* disgust with, [[sb/3/21/21#purport|SB 3.21.21]]
 * for devotees, [[sb/3/25/37#purport|SB 3.25.37]]
+* for hogs & dogs, [[sb/3/21/14#purport|SB 3.21.14]]
 * hellish, [[sb/3/30/5-5#purport|SB 3.30.5-5]]
+* in Kali-yuga, [[sb/3/20/18#purport|SB 3.20.18]]
 * in Lord’s sleeping, [[sb/3/9/20-21#purport|SB 3.9.20-21]]
 * in modes of nature, [[sb/3/25/1#purport|SB 3.25.1]]
 * in Vaikuṇṭha, [[sb/3/15/20#purport|SB 3.15.20]]
+* Kṛṣṇa consciousness surpasses, [[sb/3/22/34#purport|SB 3.22.34]]
 * Kṛṣṇa excels in, [[sb/3/2/21#purport|SB 3.2.21]]
-* material 
+* living entities seeking, [[sb/10/2/39#purport|SB 10.2.39]]
 * material, [[sb/10/7/31#purport|SB 10.7.31]], [[sb/10/10/8#purport|SB 10.10.8]]
+* Māyādevī worship for, [[sb/10/2/11-12#purport|SB 10.2.11-12]]
 * of Kṛṣṇa & cowherd boys lunching, [[sb/10/13/7-12#purport|SB 10.13.7-12]]
 * real & false, [[sb/2/10/12#purport|SB 2.10.12]]
 * regulated, [[sb/3/3/19#purport|SB 3.3.19]]
+* spiritual enjoyment compared with, [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/20/38#purport|SB 3.20.38]]
+* spiritual realization prevented by, [[sb/3/20/53#purport|SB 3.20.53]]
+* tasteless in end, [[sb/3/22/35#purport|SB 3.22.35]]
+* transmigration for, [[sb/10/1/42#purport|SB 10.1.42]]
 * variety for, [[sb/10/12/13#purport|SB 10.12.13]]
+* Vedic process of, [[sb/3/21/16#purport|SB 3.21.16]], [[sb/3/21/21#purport|SB 3.21.21]]
+* women seek, [[sb/3/23/54#purport|SB 3.23.54]]
 
-*See also:* [[b#Bliss|Bliss]]; transcendental; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]; [[s#Sense gratification|Sense gratification]]; [[e#Ecstasy|Ecstasy]]
+*See also:* [Bliss](entries/bliss.md); [Ecstasy](entries/ecstasy.md); [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); Sense gratification; transcendental
 
-*See:* [[h#Happiness|Happiness]]; [[s#Sense gratification|Sense gratification]]
+*See:* [Happiness](entries/happiness.md); Sense gratification

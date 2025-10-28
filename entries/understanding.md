@@ -5,6 +5,6 @@
 * in modes of goodness, passion, & ignorance, [[bg/18/29–32|Bg. 18.29–32]]
 * in passion mode, [[bg/18/31|Bg. 18.31]]
 
-*See also:* [[k#Knowledge|Knowledge]]
+*See also:* [Knowledge](entries/knowledge.md)
 
-*See:* [[k#Knowledge|Knowledge]]
+*See:* [Knowledge](entries/knowledge.md)

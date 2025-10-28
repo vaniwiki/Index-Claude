@@ -8,9 +8,11 @@
 * as highest realiātion, [[sb/6/16/54#purport|SB 6.16.54]]
 * as transcendence phase, [[sb/1/18/50#purport|SB 1.18.50]]
 * Brahmā as, [[sb/5/1/7#purport|SB 5.1.7]], [[sb/5/2/3#purport|SB 5.2.3]], [[sb/5/4/3#purport|SB 5.4.3]]
-* compared 
-* defined, 3, [[bg/10/1|Bg. 10.1]]
+* compared
+  * to sun planet, [[bg/2/2|Bg. 2.2]]
+  * with Brahman & Paramātmā, [[bg/2/2|Bg. 2.2]] (1–2)
 * defined, [[sb/1/1/12#purport|SB 1.1.12]], [[sb/7/13/9#purport|SB 7.13.9]]
+* defined, 3, [[bg/10/1|Bg. 10.1]]
 * devotee as, [[sb/1/19/25#purport|SB 1.19.25]]
 * devotee may be referred to as, [[sb/5/1/39#purport|SB 5.1.39]]
 * explained, [[sb/5/4/3#purport|SB 5.4.3]]
@@ -23,6 +25,6 @@
 * Supersoul dependent on, [[sb/2/6/7#purport|SB 2.6.7]]
 * yogī poses as, [[sb/5/6/1#purport|SB 5.6.1]]
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; [[a#Absolute Truth|Absolute Truth]]
+*See also:* Absolute Truth; Kṛṣṇa; Supreme Lord
 
-*See:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; Supreme Lord

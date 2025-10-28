@@ -1,6 +1,6 @@
 # Six Gosvāmīs
 
-[[cc/madhya/7/37#purport|Madhya 7.37]], [[cc/madhya/9/289#purport|Madhya 9.289]], [[sb/2/8/5#purport|SB 2.8.5]], [[sb/3/29/17#purport|SB 3.29.17]], [[sb/4/9/47#purport|SB 4.9.47]]
+[[cc/madhya/9/289#purport|Madhya 9.289]], [[cc/madhya/7/37#purport|Madhya 7.37]], [[sb/2/8/5#purport|SB 2.8.5]], [[sb/3/29/17#purport|SB 3.29.17]], [[sb/4/9/47#purport|SB 4.9.47]]
 
 * as Caitanya’s strict followers, [[cc/antya/6/312#purport|Antya 6.312]]
 * as instructing spiritual masters, **[[cc/adi/1/36–37#translation|Ādi 1.36–37]]**
@@ -24,4 +24,4 @@
 * understanding Rādhā-Kṛṣṇa &, [[cc/adi/5/204#purport|Ādi 5.204]]
 * Vṛndāvana development &, [[cc/adi/5/232#purport|Ādi 5.232]]
 
-*See also:* [[j#Jīva Gosvāmī|Jīva Gosvāmī]]; [[r#Raghunātha dāsa Gosvāmī|Raghunātha dāsa Gosvāmī]]; [[r#Rūpa Gosvāmī|Rūpa Gosvāmī]]; [[s#Sanātana Gosvāmī|Sanātana Gosvāmī]]; names of specific Gosvāmīs
+*See also:* Jīva Gosvāmī; Raghunātha dāsa Gosvāmī; Rūpa Gosvāmī; Sanātana Gosvāmī; names of specific Gosvāmīs

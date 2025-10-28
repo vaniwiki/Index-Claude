@@ -1,4 +1,4 @@
 # Paramātmā
 
 
-*See:* [[s#Supersoul|Supersoul]]
+*See:* [Supersoul](entries/supersoul.md)

@@ -1,4 +1,4 @@
-# Mahājana(s)
+# Mahājanas
 
 [[cc/madhya/17/185#purport|Madhya 17.185]], **[[cc/madhya/17/186#translation|Madhya 17.186]]**, **[[cc/madhya/25/56–57#translation|Madhya 25.56–57]]**, [[sb/1/2/25#purport|SB 1.2.25]]
 
@@ -17,4 +17,4 @@
 * Śukadeva as, [[sb/8/2/6#purport|SB 8.2.6]]
 * supreme religion known by, [[sb/6/3/20-21#purport|SB 6.3.20-21]], [[sb/6/3/25#purport|SB 6.3.25]]
 
-*See also:* [[a#Authorities|Authorities]]; [[d#Disciplic succession|Disciplic succession]]; Pures devotee; specific mahājanas
+*See also:* Authorities; Disciplic succession; Pures devotee; specific mahājanas

@@ -36,7 +36,7 @@
 [[sb/3/22/7#purport|SB 3.22.7]], [[sb/4/25/50-51#purport|SB 4.25.50-51]]
 
 
-*See also:* [[h#Hearing|Hearing]]
+*See also:* [Hearing](entries/hearing.md)
 
 ---
 
@@ -44,7 +44,7 @@
 
 [[sb/4/31/15#purport|SB 4.31.15]]...
 
-* as bodily constituent, [[sb/7/2/42#purport|SB 7.2.42]], [[sb/7/12/25#purport|SB 7.12.25]]
+* as bodily constituent,, [[sb/7/2/42#purport|SB 7.2.42]], [[sb/7/12/25#purport|SB 7.12.25]]
 
 *→ See all 14 references in* [Earth element](entries/earth-element.md)
 
@@ -52,11 +52,11 @@
 
 ### [Earth planet](entries/earth-planet.md)
 
-[[cc/adi/5/14#purport|Ādi 5.14]]...
+[[bg/20|Bg. 20]], [[bg/15/2|Bg. 15.2]]...
 
-* Alarka ruled, [[sb/9/17/7#purport|SB 9.17.7]]
+* Alarka ruled,, [[sb/9/17/7#purport|SB 9.17.7]]
 
-*→ See all 173 references in* [Earth planet](entries/earth-planet.md)
+*→ See all 189 references in* [Earth planet](entries/earth-planet.md)
 
 ---
 
@@ -89,7 +89,7 @@
 
 ### [Eating](entries/eating.md)
 
-* *prasādam. See: Prasādam* 
+* *prasādam. See: Prasādam*
 
 *→ See all 72 references in* [Eating](entries/eating.md)
 
@@ -118,9 +118,9 @@
 
 ### [Economic development](entries/economic-development.md)
 
-[[cc/adi/7/144#purport|Ādi 7.144]], **[[cc/adi/7/84#translation|Ādi 7.84]]**, **[[cc/adi/7/85#translation|Ādi 7.85]]**...
+[[cc/madhya/12/135#purport|Madhya 12.135]]...
 
-* as dead end, [[sb/7/7/39-39#purport|SB 7.7.39-39]]
+* as dead end,, [[sb/7/7/39-39#purport|SB 7.7.39-39]]
 
 *→ See all 55 references in* [Economic development](entries/economic-development.md)
 
@@ -146,7 +146,7 @@
 
 ### [Ecstasy](entries/ecstasy.md)
 
-* devotee highest in, [[sb/4/8/61#purport|SB 4.8.61]]
+* devotee highest in,, [[sb/4/8/61#purport|SB 4.8.61]]
 
 *→ See all 17 references in* [Ecstasy](entries/ecstasy.md)
 
@@ -160,9 +160,9 @@
 
 ### [Ecstasy of Caitanya](entries/ecstasy-of-caitanya.md)
 
-**[[cc/antya/10/72–74#translation|Antya 10.72–74]]**, **[[cc/antya/14/100–101#translation|Antya 14.100–101]]**, **[[cc/antya/14/69–70#translation|Antya 14.69–70]]**...
+**[[cc/madhya/6/11–13#translation|Madhya 6.11–13]]**...
 
-* arjuna trees &, **[[cc/madhya/18/68#translation|Madhya 18.68]]**
+* arjuna trees &,, **[[cc/madhya/18/68#translation|Madhya 18.68]]**
 
 *→ See all 172 references in* [Ecstasy of Caitanya](entries/ecstasy-of-caitanya.md)
 
@@ -174,7 +174,7 @@
 * symptoms of, [[sb/2/3/24#purport|SB 2.3.24]]
 * via change in heart, [[sb/2/3/24#purport|SB 2.3.24]]
 
-*See also:* [[b#Bliss|Bliss]]; [[h#Happiness|Happiness]]
+*See also:* [Bliss](entries/bliss.md); [Happiness](entries/happiness.md)
 
 ---
 
@@ -184,7 +184,7 @@
 * in love for Lord, [[sb/1/6/16-17#purport|SB 1.6.16-17]]
 *  [[sb/4/29/63#purport|SB 4.29.63]], [[sb/4/31/22#purport|SB 4.31.22]], [[sb/4/31/28#purport|SB 4.31.28]]
 
-*See also:* [[b#Bliss|Bliss]]; transcendental; [[h#Happiness|Happiness]]
+*See also:* [Bliss](entries/bliss.md); transcendental; [Happiness](entries/happiness.md)
 
 ---
 
@@ -206,9 +206,9 @@
 
 ### [Education](entries/education.md)
 
-* gurukula &, [[bg/6/13|Bg. 6.13]] (1)
+* as beyond academic degrees,, [[sb/4/16/17#purport|SB 4.16.17]]
 
-*→ See all 67 references in* [Education](entries/education.md)
+*→ See all 82 references in* [Education](entries/education.md)
 
 ---
 
@@ -224,14 +224,14 @@
 ### Effulgence
 
 
-*See:* [[b#Brahman effulgence|Brahman effulgence]]
+*See:* Brahman effulgence
 
 ---
 
 ### Effulgence, Brahman
 
 
-*See:* [[b#Brahman effulgence|Brahman effulgence]]
+*See:* Brahman effulgence
 
 ---
 
@@ -253,19 +253,21 @@
 
 ### [Ego](entries/ego.md)
 
-*  [[bg/13/8|Bg. 13.8]] (8)
+[[bg/13/8|Bg. 13.8]] (8)...
 
-*→ See all 7 references in* [Ego](entries/ego.md)
+* absence of,, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/17#purport|SB 2.2.17]]
+
+*→ See all 24 references in* [Ego](entries/ego.md)
 
 ---
 
 ### [Ego, false](entries/ego-false.md)
 
-[[sb/1/9/22#purport|SB 1.9.22]], [[sb/10/13/52#purport|SB 10.13.52]], [[sb/3/26/14#purport|SB 3.26.14]]...
+[[sb/1/9/22#purport|SB 1.9.22]]...
 
-* as ”I & mine,” [[sb/3/5/44#purport|SB 3.5.44]]
+* as ”I & mine,”, [[sb/3/5/44#purport|SB 3.5.44]]
 
-*→ See all 59 references in* [Ego, false](entries/ego-false.md)
+*→ See all 61 references in* [Ego, false](entries/ego-false.md)
 
 ---
 
@@ -338,14 +340,7 @@
 
 ### Ekadaṇḍī sannyāsīs
 
-[[sb/4/22/11#purport|SB 4.22.11]]
-
-
----
-
-### Ekadaṇḍi-sannyāsī
-
-[[sb/3/6/36#purport|SB 3.6.36]]
+[[sb/3/6/36#purport|SB 3.6.36]], [[sb/4/22/11#purport|SB 4.22.11]]
 
 
 ---
@@ -359,11 +354,7 @@
 
 ### [Ekādaśī](entries/ekadasi.md)
 
-**[[cc/adi/10/71#translation|Ādi 10.71]]**, **[[cc/adi/14/39#translation|Ādi 14.39]]**, **[[cc/adi/15/8–10#translation|Ādi 15.8–10]]**...
-
-*  [[bg/9/14|Bg. 9.14]], [[bg/11/54|Bg. 11.54]] (1)
-
-*→ See all 12 references in* [Ekādaśī](entries/ekadasi.md)
+[[bg/9/14|Bg. 9.14]], [[bg/11/54|Bg. 11.54]] (1)
 
 ---
 
@@ -434,9 +425,9 @@
 
 ### [Elderly brāhmaṇa](entries/elderly-brahmana.md)
 
-[[cc/madhya/5/113#purport|Madhya 5.113]], **[[cc/madhya/5/29–32#translation|Madhya 5.29–32]]**, **[[cc/madhya/5/58–62#translation|Madhya 5.58–62]]**...
+**[[cc/madhya/5/29–32#translation|Madhya 5.29–32]]**...
 
-* as Lord’s eternal servant, **[[cc/madhya/5/113#translation|Madhya 5.113]]**
+* as Lord’s eternal servant,, **[[cc/madhya/5/113#translation|Madhya 5.113]]**
 
 *→ See all 20 references in* [Elderly brāhmaṇa](entries/elderly-brahmana.md)
 
@@ -445,7 +436,7 @@
 ### Elders
 
 
-*See:* [[f#Family life|Family life]]; elders in
+*See:* Family life; elders in
 
 ---
 
@@ -471,7 +462,7 @@
 
 ### [Electricity](entries/electricity.md)
 
-* as needless in spiritual sky, [[sb/2/4/14#purport|SB 2.4.14]]
+* as needless in spiritual sky,, [[sb/2/4/14#purport|SB 2.4.14]]
 
 *→ See all 7 references in* [Electricity](entries/electricity.md)
 
@@ -509,7 +500,7 @@
 
 [[sb/4/29/23-25#purport|SB 4.29.23-25]]...
 
-* as Lord’s energies, [[sb/4/24/62-62#purport|SB 4.24.62-62]]
+* as Lord’s energies,, [[sb/4/24/62-62#purport|SB 4.24.62-62]]
 
 *→ See all 27 references in* [Element(s)](entries/elements.md)
 
@@ -517,20 +508,11 @@
 
 ### [Element(s), material](entries/elements-material.md)
 
-[[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/19/144#purport|Madhya 19.144]], **[[cc/madhya/19/217#translation|Madhya 19.217]]**...
+[[cc/madhya/19/138#purport|Madhya 19.138]]...
 
-* as creations, [[bg/7/4|Bg. 7.4]]
+* as creations,, [[bg/7/4|Bg. 7.4]]
 
 *→ See all 104 references in* [Element(s), material](entries/elements-material.md)
-
----
-
-### Elephant
-
-* as Indra’s carrier, [[sb/2/7/25#purport|SB 2.7.25]]
-* as praised by fools, [[sb/2/1/24#purport|SB 2.1.24]]
-* in garden, analogy of, [[sb/2/2/30#purport|SB 2.2.30]]
-* Lord saves, [[sb/2/7/15-16#purport|SB 2.7.15-16]]
 
 ---
 
@@ -543,9 +525,9 @@
 
 ### [Elephant(s)](entries/elephants.md)
 
-* as auspicious, [[sb/1/11/18#purport|SB 1.11.18]]
+* as auspicious,, [[sb/1/11/18#purport|SB 1.11.18]]
 
-*→ See all 19 references in* [Elephant(s)](entries/elephants.md)
+*→ See all 23 references in* [Elephant(s)](entries/elephants.md)
 
 ---
 
@@ -573,7 +555,7 @@
 ### Elevation
 
 
-*See:* Advancement; spiritual; [[l#Liberation|Liberation]]; [[p#Perfection|Perfection]]; [[p#Purification|Purification]]; [[s#Success|Success]]
+*See:* Advancement; spiritual; [Liberation](entries/liberation.md); [Perfection](entries/perfections.md); [Purification](entries/purification.md); [Success](entries/success.md)
 
 ---
 
@@ -606,7 +588,7 @@
 * in love of God, [[sb/3/1/32#purport|SB 3.1.32]]
 * material compared with spiritual, [[sb/2/7/47#purport|SB 2.7.47]]
 
-*See also:* [[a#Affection|Affection]]; [[a#Attachment|Attachment]]; [[l#Love|Love]]; [[e#Ecstasy|Ecstasy]]; [[h#Happiness|Happiness]]; [[s#Supreme Lord|Supreme Lord]]; love for
+*See also:* [Affection](entries/affection.md); [Attachment](entries/attachment.md); [Love](entries/love.md); [Ecstasy](entries/ecstasy.md); [Happiness](entries/happiness.md); Supreme Lord; love for
 
 ---
 
@@ -645,7 +627,7 @@
 ### Empiric philosophy
 
 
-*See:* [[p#Philosophy|Philosophy]]
+*See:* [Philosophy](entries/philosophies.md)
 
 ---
 
@@ -667,7 +649,7 @@
 
 ### [Enemies](entries/enemies.md)
 
-* as bodily concept, [[sb/4/11/29#purport|SB 4.11.29]]
+* as bodily concept,, [[sb/4/11/29#purport|SB 4.11.29]]
 
 *→ See all 19 references in* [Enemies](entries/enemies.md)
 
@@ -696,9 +678,9 @@
 
 ### [Energies](entries/energies.md)
 
-* combined in creation, [[sb/6/1/4-5#purport|SB 6.1.4-5]]
+* combined in creation,, [[sb/6/1/4-5#purport|SB 6.1.4-5]]
 
-*→ See all 10 references in* [Energies](entries/energies.md)
+*→ See all 12 references in* [Energies](entries/energies.md)
 
 ---
 
@@ -706,25 +688,25 @@
 
 [[sb/7/3/34#purport|SB 7.3.34]]...
 
-* as ”female,” [[sb/4/7/59#purport|SB 4.7.59]]
+* ”I-&-mine” concept exploits,, [[sb/3/5/44#purport|SB 3.5.44]]
 
-*→ See all 131 references in* [Energies of Supreme Lord](entries/energies-of-supreme-lord.md)
+*→ See all 251 references in* [Energies of Supreme Lord](entries/energies-of-supreme-lord.md)
 
 ---
 
 ### [Energy (energies)](entries/energy-energies.md)
 
-* *daivī prakṛti,* 9.13
+* *daivī prakṛti,*, 9.13
 
-*→ See all 17 references in* [Energy (energies)](entries/energy-energies.md)
+*→ See all 54 references in* [Energy (energies)](entries/energy-energies.md)
 
 ---
 
 ### [Energy (Energies) of Lord](entries/energy-energies-of-lord.md)
 
-[[cc/adi/14/33#purport|Ādi 14.33]], [[cc/adi/17/304#purport|Ādi 17.304]], [[cc/adi/4/62#purport|Ādi 4.62]]...
+**[[cc/madhya/8/151#translation|Madhya 8.151]]**...
 
-* as factual, [[cc/adi/7/121#purport|Ādi 7.121]]
+* as factual,, [[cc/adi/7/121#purport|Ādi 7.121]]
 
 *→ See all 68 references in* [Energy (Energies) of Lord](entries/energy-energies-of-lord.md)
 
@@ -734,15 +716,15 @@
 
 [[sb/10/7/20#purport|SB 10.7.20]]...
 
-* as all-pervading, [[sb/4/28/63#purport|SB 4.28.63]]
+* ”dovetailing” of,, [[sb/2/1/20#purport|SB 2.1.20]]
 
-*→ See all 53 references in* [Energy of Supreme Lord](entries/energy-of-supreme-lord.md)
+*→ See all 129 references in* [Energy of Supreme Lord](entries/energy-of-supreme-lord.md)
 
 ---
 
 ### [Energy, material](entries/energy-material.md)
 
-* as illusory, [[sb/9/21/16#purport|SB 9.21.16]]
+* as illusory,, [[sb/9/21/16#purport|SB 9.21.16]]
 
 *→ See all 6 references in* [Energy, material](entries/energy-material.md)
 
@@ -778,15 +760,15 @@
 
 ### [Enjoyment](entries/enjoyment.md)
 
-* action aims at, [[sb/3/1/4#purport|SB 3.1.4]]
+* ”yogīs” encourage,, [[sb/3/21/14#purport|SB 3.21.14]]
 
-*→ See all 21 references in* [Enjoyment](entries/enjoyment.md)
+*→ See all 40 references in* [Enjoyment](entries/enjoyment.md)
 
 ---
 
 ### [Enjoyment (sense gratification)](entries/enjoyment-sense-gratification.md)
 
-* absent in devotional service, [[sb/4/8/61#purport|SB 4.8.61]]
+* absent in devotional service,, [[sb/4/8/61#purport|SB 4.8.61]]
 
 *→ See all 10 references in* [Enjoyment (sense gratification)](entries/enjoyment-sense-gratification.md)
 
@@ -796,7 +778,7 @@
 
 [[sb/1/2/6#purport|SB 1.2.6]]...
 
-* ”thorny” result of, [[sb/2/3/19#purport|SB 2.3.19]]
+* ”thorny” result of,, [[sb/2/3/19#purport|SB 2.3.19]]
 
 *→ See all 46 references in* [Enjoyment, material](entries/enjoyment-material.md)
 
@@ -808,7 +790,7 @@
 * consciousness; Purification; 
 * Self-realization 
 
-*See:* Devotional service; ; [[a#Absolute Truth|Absolute Truth]]; [[e#Education|Education]]; [[k#Knowledge|Knowledge]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See:* Devotional service; ; Absolute Truth; [Education](entries/education.md); [Knowledge](entries/knowledge.md); Kṛṣṇa consciousness
 
 ---
 
@@ -817,14 +799,14 @@
 [[sb/4/9/6#purport|SB 4.9.6]]
 
 
-*See also:* [[e#Education|Education]]; spiritual; [[g#God consciousness|God consciousness]]; [[k#Knowledge|Knowledge]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[s#Self-realiātion|Self-realiātion]]
+*See also:* [Education](entries/education.md); spiritual; God consciousness; [Knowledge](entries/knowledge.md); Kṛṣṇa consciousness; Self-realiātion
 
 ---
 
 ### Entanglement
 
 
-*See:* [[b#Birth-death cycle|Birth-death cycle]]; [[b#Bondage|Bondage]]; material; [[k#Karma|Karma]]; Transmigrations of soul
+*See:* Birth-death cycle; [Bondage](entries/bondage.md); material; [Karma](entries/karma.md); Transmigrations of soul
 
 ---
 
@@ -832,35 +814,35 @@
 
 * items of, [[sb/10/13/53#purport|SB 10.13.53]]
 
-*See also:* [[b#Birth-death cycle|Birth-death cycle]]; [[b#Bondage|Bondage]]; material
+*See also:* Birth-death cycle; [Bondage](entries/bondage.md); material
 
 ---
 
 ### Entities
 
 
-*See:* [[l#Living entities|Living entities]]
+*See:* Living entities
 
 ---
 
 ### Entities, individual
 
 
-*See:* [[l#Living entities|Living entities]]
+*See:* Living entities
 
 ---
 
 ### Entities, living
 
 
-*See:* [[l#Living entities|Living entities]]
+*See:* Living entities
 
 ---
 
 ### Entity, individual
 
 
-*See:* [[l#Living entities|Living entities]]; Living entity
+*See:* Living entities; Living entity
 
 ---
 
@@ -873,11 +855,11 @@
 
 ### [Envy](entries/envy.md)
 
-[[cc/adi/10/7#purport|Ādi 10.7]], [[cc/madhya/1/218#purport|Madhya 1.218]], [[cc/madhya/1/220#purport|Madhya 1.220]]...
+[[cc/adi/10/7#purport|Ādi 10.7]]...
 
-* & attachment compared to women’s breasts, [[sb/4/25/24#purport|SB 4.25.24]]
+* & attachment compared to women’s breasts,, [[sb/4/25/24#purport|SB 4.25.24]]
 
-*→ See all 94 references in* [Envy](entries/envy.md)
+*→ See all 96 references in* [Envy](entries/envy.md)
 
 ---
 
@@ -893,7 +875,7 @@
 [[bg/18/67|Bg. 18.67]]
 
 
-*See also:* [[a#Atheism|Atheism]]; [[i#Impersonalism|Impersonalism]]
+*See also:* [Atheism](entries/atheism.md); [Impersonalism](entries/impersonalism.md)
 
 ---
 
@@ -921,9 +903,9 @@
 
 ### [Equanimity](entries/equanimity.md)
 
-[[sb/1/5/9#purport|SB 1.5.9]]...
+[[bg/10/4|Bg. 10.4]], [[bg/10/4|Bg. 10.4]] (7), [[bg/12/9–19|Bg. 12.9–19]]...
 
-* as virtue, [[bg/12/13–19|Bg. 12.13–19]]
+* as virtue,, [[bg/12/13–19|Bg. 12.13–19]]
 
 *→ See all 6 references in* [Equanimity](entries/equanimity.md)
 
@@ -940,7 +922,7 @@
 
 ### [Eternal life](entries/eternal-life.md)
 
-* as human mission, [[sb/4/18/3#purport|SB 4.18.3]]
+* as human mission,, [[sb/4/18/3#purport|SB 4.18.3]]
 
 *→ See all 8 references in* [Eternal life](entries/eternal-life.md)
 
@@ -948,7 +930,7 @@
 
 ### [Eternality](entries/eternality.md)
 
-* ignorance of, effect of, [[sb/2/3/18#purport|SB 2.3.18]]
+* ignorance of, effect of,, [[sb/2/3/18#purport|SB 2.3.18]]
 
 *→ See all 12 references in* [Eternality](entries/eternality.md)
 
@@ -966,7 +948,7 @@
 ### Ether
 
 
-*See:* [[e#Elements|Elements]]; material
+*See:* Elements; material
 
 ---
 
@@ -974,7 +956,7 @@
 
 *  [[sb/3/26/33-33#purport|SB 3.26.33-33]], [[sb/3/26/34#purport|SB 3.26.34]], [[sb/6/9/21#purport|SB 6.9.21]], [[sb/6/10/11#purport|SB 6.10.11]]
 
-*See also:* [[e#Elements|Elements]]; [[e#Evolution|Evolution]]
+*See also:* Elements; [Evolution](entries/evolution.md)
 
 ---
 
@@ -994,7 +976,7 @@
 
 ### [Etiquette](entries/etiquette.md)
 
-* for beggars, [[sb/6/10/6#purport|SB 6.10.6]]
+* for beggars,, [[sb/6/10/6#purport|SB 6.10.6]]
 
 *→ See all 6 references in* [Etiquette](entries/etiquette.md)
 
@@ -1053,7 +1035,7 @@
 ### Evening
 
 
-*See:* [[n#Night|Night]]; [[t#Twilight|Twilight]]
+*See:* Night; Twilight
 
 ---
 
@@ -1075,15 +1057,17 @@
 
 * trouble from, [[sb/10/6/27-29#purport|SB 10.6.27-29]]
 
-*See also:* [[g#Ghosts|Ghosts]]; [[w#Witches|Witches]]; mystical
+*See also:* Ghosts; Witches; mystical
 
 ---
 
 ### [Evolution](entries/evolution.md)
 
-* & ego, false, [[sb/3/20/13#purport|SB 3.20.13]], [[sb/3/26/23-25#purport|SB 3.26.23-25]], [[sb/3/26/27#purport|SB 3.26.27]], [[sb/3/26/29#purport|SB 3.26.29]] 26.31-32
+[[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/14/30#purport|SB 5.14.30]]...
 
-*→ See all 91 references in* [Evolution](entries/evolution.md)
+* & ego, false,, [[sb/3/20/13#purport|SB 3.20.13]], [[sb/3/26/23-25#purport|SB 3.26.23-25]], [[sb/3/26/27#purport|SB 3.26.27]], [[sb/3/26/29#purport|SB 3.26.29]] 26.31-32
+
+*→ See all 92 references in* [Evolution](entries/evolution.md)
 
 ---
 
@@ -1113,7 +1097,7 @@
 ### Examples
 
 
-*See:* [[a#Analogies|Analogies]]
+*See:* Analogies
 
 ---
 
@@ -1126,7 +1110,7 @@
 
 ### [Existence](entries/existence.md)
 
-* in three identities, [[sb/2/2/35#purport|SB 2.2.35]]
+* in three identities,, [[sb/2/2/35#purport|SB 2.2.35]]
 
 *→ See all 7 references in* [Existence](entries/existence.md)
 
@@ -1141,15 +1125,15 @@
 ### Expanding potencies of Supreme Lord
 
 
-*See:* [[e#Energy of Supreme Lord|Energy of Supreme Lord]]
+*See:* Energy of Supreme Lord
 
 ---
 
 ### [Expansions of Kṛṣṇa](entries/expansions-of-krsna.md)
 
-**[[cc/madhya/20/176#translation|Madhya 20.176]]**, **[[cc/madhya/20/186#translation|Madhya 20.186]]**, **[[cc/madhya/20/188#translation|Madhya 20.188]]**...
+**[[cc/madhya/20/245#translation|Madhya 20.245]]**...
 
-* “ātmā” word &, **[[cc/madhya/24/285#translation|Madhya 24.285]]**
+* “ātmā” word &,, **[[cc/madhya/24/285#translation|Madhya 24.285]]**
 
 *→ See all 52 references in* [Expansions of Kṛṣṇa](entries/expansions-of-krsna.md)
 
@@ -1158,7 +1142,7 @@
 ### Expansions of Lord
 
 
-*See:* Kṛṣṇa; expansions of; Quadruple expansions; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; expansions of; Quadruple expansions; Supreme Lord
 
 ---
 
@@ -1174,9 +1158,9 @@
 [[sb/6/4/45#purport|SB 6.4.45]]
 
 
-*See also:* [[s#Supreme Lord|Supreme Lord]]; incarnations of
+*See also:* Supreme Lord; incarnations of
 
-*See:* Kṛṣṇa; expansions of; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; expansions of; Supreme Lord
 
 ---
 
@@ -1197,7 +1181,7 @@
 ### External energy of Supreme Lord
 
 
-*See:* [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; material
+*See:* Energies of Supreme Lord; material
 
 ---
 

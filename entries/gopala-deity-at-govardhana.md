@@ -1,6 +1,6 @@
 # Gopāla Deity at Govardhana
 
-[[cc/antya/13/39#purport|Antya 13.39]], **[[cc/madhya/1/96#translation|Madhya 1.96]]**, **[[cc/madhya/25/246#translation|Madhya 25.246]]**, **[[cc/madhya/4/100#translation|Madhya 4.100]]**, [[cc/madhya/4/93#purport|Madhya 4.93]], **[[cc/madhya/4/94#translation|Madhya 4.94]]**, **[[cc/madhya/4/96–98#translation|Madhya 4.96–98]]**, **[[cc/madhya/4/97#translation|Madhya 4.97]]**
+**[[cc/madhya/1/96#translation|Madhya 1.96]]**, **[[cc/madhya/25/246#translation|Madhya 25.246]]**, [[cc/antya/13/39#purport|Antya 13.39]], [[cc/madhya/4/93#purport|Madhya 4.93]], **[[cc/madhya/4/94#translation|Madhya 4.94]]**, **[[cc/madhya/4/97#translation|Madhya 4.97]]**, **[[cc/madhya/4/96–98#translation|Madhya 4.96–98]]**, **[[cc/madhya/4/100#translation|Madhya 4.100]]**
 
 * Annakūṭa ceremony for, **[[cc/madhya/4/75#translation|Madhya 4.75]]**, **[[cc/madhya/4/90#translation|Madhya 4.90]]**
 * bathing ceremony of, **[[cc/madhya/4/59–63#translation|Madhya 4.59–63]]**

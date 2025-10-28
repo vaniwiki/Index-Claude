@@ -1,6 +1,6 @@
 # Bhakti-rasāmṛta-sindhu cited
 
-[[cc/madhya/19/177#purport|Madhya 19.177]], [[cc/madhya/19/180#purport|Madhya 19.180]], [[cc/madhya/2/72#purport|Madhya 2.72]], [[cc/madhya/23/46#purport|Madhya 23.46]], [[cc/madhya/23/51#purport|Madhya 23.51]], [[cc/madhya/23/52#purport|Madhya 23.52]], [[cc/madhya/3/127#purport|Madhya 3.127]], [[cc/madhya/3/162#purport|Madhya 3.162]], [[cc/madhya/4/202#purport|Madhya 4.202]], [[cc/madhya/6/12#purport|Madhya 6.12]]
+[[cc/madhya/19/177#purport|Madhya 19.177]], [[cc/madhya/2/72#purport|Madhya 2.72]], [[cc/madhya/3/127#purport|Madhya 3.127]], [[cc/madhya/3/162#purport|Madhya 3.162]], [[cc/madhya/4/202#purport|Madhya 4.202]], [[cc/madhya/6/12#purport|Madhya 6.12]], [[cc/madhya/19/180#purport|Madhya 19.180]], [[cc/madhya/23/46#purport|Madhya 23.46]], [[cc/madhya/23/51#purport|Madhya 23.51]], [[cc/madhya/23/52#purport|Madhya 23.52]]
 
 * on attachment to Lord, [[cc/madhya/19/183–84#purport|Madhya 19.183–84]]
 * on Bilvamaṅgala Ṭhākura’s becoming a devotee, [[cc/madhya/10/177#purport|Madhya 10.177]]

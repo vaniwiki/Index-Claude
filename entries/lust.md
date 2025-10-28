@@ -1,6 +1,6 @@
 # Lust
 
-[[sb/1/11/36#purport|SB 1.11.36]], [[sb/10/13/53#purport|SB 10.13.53]]
+[[bg/2/62|Bg. 2.62]], [[bg/3/37–41|Bg. 3.37–41]], [[bg/3/43|Bg. 3.43]], [[bg/16/8–12|Bg. 16.8–12]], [[bg/16/18|Bg. 16.18]], [[bg/16/21–22|Bg. 16.21–22]], [[sb/1/11/36#purport|SB 1.11.36]], [[sb/10/13/53#purport|SB 10.13.53]]
 
 * anger from, [[sb/7/15/20#purport|SB 7.15.20]]
 * anger via, [[sb/3/12/11#purport|SB 3.12.11]]
@@ -11,10 +11,12 @@
 * as love for Kṛṣṇa transformed, [[bg/3/37|Bg. 3.37]]
 * as offspring of Saṅkalpa, [[sb/6/6/10-11#purport|SB 6.6.10-11]]
 * as perversion of love for God, [[bg/3/41|Bg. 3.41]]
-*  [[bg/2/62|Bg. 2.62]], [[bg/3/37–41|Bg. 3.37–41]], [[bg/3/43|Bg. 3.43]], [[bg/16/8–12|Bg. 16.8–12]], [[bg/16/18|Bg. 16.18]], [[bg/16/21–22|Bg. 16.21–22]]
 * Bharata freed from, [[sb/5/7/6#purport|SB 5.7.6]]
 * child begotten of, [[sb/4/22/53#purport|SB 4.22.53]]
-* compared 
+* compared
+  * to fire, [[bg/3/39|Bg. 3.39]]
+  * to smoke, dust, & womb, [[bg/3/38|Bg. 3.38]]
+  * to yogurt, [[bg/3/37|Bg. 3.37]]
 * compared to ghost, [[sb/9/19/5-6#purport|SB 9.19.5-6]]
 * compared with love, [[sb/3/31/29#purport|SB 3.31.29]]
 * conquered via Kṛṣṇa consciousness, [[bg/3/43|Bg. 3.43]]
@@ -57,10 +59,10 @@
 * renunciation of, [[sb/7/15/22#purport|SB 7.15.22]]
 * satisfaction blocked by, [[sb/9/19/14#purport|SB 9.19.14]]
 * seminal discharge &, [[sb/8/12/35#purport|SB 8.12.35]]
-* senses &,  3.40, [[bg/3/42|Bg. 3.42]]
+* senses &, 3.40, [[bg/3/42|Bg. 3.42]]
 * sitting places of, [[bg/3/40|Bg. 3.40]]
 * woman arouses, [[sb/4/24/12#purport|SB 4.24.12]]
 * world bound by, [[sb/8/12/22#purport|SB 8.12.22]]
 * wrath compared with, [[sb/2/7/7#purport|SB 2.7.7]]
 
-*See also:* [[a#Attachment|Attachment]]; [[d#Desires|Desires]]; material; [[s#Sense gratification|Sense gratification]]; [[s#Sex life|Sex life]]; [[d#Desire|Desire]]; [[s#Sex desire|Sex desire]]; [[m#Materialism|Materialism]]; [[p#Passion|Passion]]; mode of
+*See also:* [Attachment](entries/attachment.md); Desires; material; Sense gratification; Sex life; [Desire](entries/desires.md); [Materialism](entries/materialism.md); Passion; mode of; Sex desire

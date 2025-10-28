@@ -40,11 +40,11 @@
 
 ---
 
-### Taittirīya Upaniṣad quoted
+### [Taittirīya Upaniṣad quoted](entries/taittiriya-upanisad-quoted.md)
 
-* on blissfulness of understanding Kṛṣṇa, [[bg/14/27|Bg. 14.27]]
-* on Brahman realization, [[bg/13/5|Bg. 13.5]]
-* on Kṛṣṇa 
+* on blissfulness of understanding Kṛṣṇa,, [[bg/14/27|Bg. 14.27]]
+
+*→ See all 6 references in* [Taittirīya Upaniṣad quoted](entries/taittiriya-upanisad-quoted.md)
 
 ---
 
@@ -169,14 +169,14 @@
 ### Tamaḥ
 
 
-*See:* [[i#Ignorance|Ignorance]]
+*See:* [Ignorance](entries/ignorance.md)
 
 ---
 
 ### Tamaḥ-guṇa
 
 
-*See:* [[i#Ignorance|Ignorance]]; mode of
+*See:* [Ignorance](entries/ignorance.md); mode of
 
 ---
 
@@ -205,7 +205,7 @@
 
 * defined, [[sb/2/5/30#purport|SB 2.5.30]], [[sb/2/10/21#purport|SB 2.10.21]]
 
-*See also:* [[i#Ignorance|Ignorance]]; mode of
+*See also:* [Ignorance](entries/ignorance.md); mode of
 
 ---
 
@@ -214,7 +214,7 @@
 [[sb/3/20/18#purport|SB 3.20.18]]
 
 
-*See also:* [[i#Ignorance|Ignorance]]
+*See also:* [Ignorance](entries/ignorance.md)
 
 ---
 
@@ -290,10 +290,9 @@
 
 ---
 
-### Tāmraparṇī River
+### [Tāmraparṇī River](entries/tamraparni-river.md)
 
-**[[cc/madhya/9/218–219#translation|Madhya 9.218–219]]**, [[cc/madhya/9/222#purport|Madhya 9.222]], [[cc/madhya/9/223#purport|Madhya 9.223]], [[cc/madhya/9/79#purport|Madhya 9.79]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/5/19/17-18#purport|SB 5.19.17-18]]
-
+[[cc/madhya/9/79#purport|Madhya 9.79]]
 
 ---
 
@@ -370,7 +369,7 @@
 ### Tapaḥ
 
 
-*See:* [[a#Austerity|Austerity]]
+*See:* [Austerity](entries/austerities.md)
 
 ---
 
@@ -390,9 +389,9 @@
 
 ### [Tapana Miśra](entries/tapana-misra.md)
 
-**[[cc/antya/13/89#translation|Antya 13.89]]**, **[[cc/madhya/19/248#translation|Madhya 19.248]]**, **[[cc/madhya/20/67–68#translation|Madhya 20.67–68]]**...
+**[[cc/madhya/25/12–13#translation|Madhya 25.12–13]]**...
 
-* Balabhadra &, **[[cc/madhya/17/88–89#translation|Madhya 17.88–89]]**
+* Balabhadra &,, **[[cc/madhya/17/88–89#translation|Madhya 17.88–89]]**
 
 *→ See all 24 references in* [Tapana Miśra](entries/tapana-misra.md)
 
@@ -402,7 +401,7 @@
 
 * defined, [[sb/3/12/4#purport|SB 3.12.4]]
 
-*See also:* [[a#Austerity|Austerity]]; [[p#Penance|Penance]]
+*See also:* [Austerity](entries/austerities.md); [Penance](entries/penances.md)
 
 ---
 
@@ -431,18 +430,18 @@
 
 [[sb/1/2/29#purport|SB 1.2.29]]...
 
-* defined, [[bg/10/4|Bg. 10.4]] (8), [[bg/11/48|Bg. 11.48]], [[sb/3/20/53#purport|SB 3.20.53]], [[sb/4/12/10#purport|SB 4.12.10]], [[sb/7/3/15-16#purport|SB 7.3.15-16]], [[sb/7/6/8#purport|SB 7.6.8]], [[sb/7/8/43#purport|SB 7.8.43]], [[sb/7/9/18#purport|SB 7.9.18]], [[sb/7/9/35#purport|SB 7.9.35]], [[sb/7/9/46#purport|SB 7.9.46]], [[sb/7/14/1#purport|SB 7.14.1]], [[sb/9/19/11#purport|SB 9.19.11]]
+* defined,, [[bg/10/4|Bg. 10.4]] (8), [[bg/11/48|Bg. 11.48]], [[sb/3/20/53#purport|SB 3.20.53]]
 
 *→ See all 14 references in* [Tapasya](entries/tapasya.md)
 
 ---
 
-### Tapasya defined
+### [Tapasya defined](entries/tapasya-defined.md)
 
-[[cc/adi/1/50#purport|Ādi 1.50]], [[sb/10/3/34-35#purport|SB 10.3.34-35]], [[sb/2/3/23#purport|SB 2.3.23]], [[sb/4/23/4#purport|SB 4.23.4]], [[sb/5/5/24#purport|SB 5.5.24]]
+[[cc/adi/1/50#purport|Ādi 1.50]]...
 
 
-*See also:* [[a#Austerities|Austerities]]; [[p#Penance|Penance]]
+*→ See all 8 references in* [Tapasya defined](entries/tapasya-defined.md)
 
 ---
 
@@ -512,7 +511,7 @@
 ### Tārkṣya
 
 
-*See:* [[k#Kaśyapa|Kaśyapa]]
+*See:* Kaśyapa
 
 ---
 
@@ -594,7 +593,7 @@
 ### Tattva
 
 
-*See:* [[t#Truth|Truth]]
+*See:* [Truth](entries/truth.md)
 
 ---
 
@@ -669,10 +668,9 @@
 
 ---
 
-### Tattva-vādīs
+### [Tattva-vādīs](entries/tattva-vadis.md)
 
-[[cc/adi/1/19#purport|Ādi 1.19]], **[[cc/madhya/1/114#translation|Madhya 1.114]]**, [[cc/madhya/4/197#purport|Madhya 4.197]], **[[cc/madhya/9/11#translation|Madhya 9.11]]**, **[[cc/madhya/9/245#translation|Madhya 9.245]]**, **[[cc/madhya/9/248#translation|Madhya 9.248]]**, **[[cc/madhya/9/250–78#translation|Madhya 9.250–78]]**
-
+[[cc/adi/1/19#purport|Ādi 1.19]]
 
 ---
 
@@ -727,7 +725,7 @@
 
 ### [Taxes](entries/taxes.md)
 
-* brāhmaṇas exempt from, [[sb/7/11/14#purport|SB 7.11.14]]
+* brāhmaṇas exempt from,, [[sb/7/11/14#purport|SB 7.11.14]]
 
 *→ See all 7 references in* [Taxes](entries/taxes.md)
 
@@ -756,17 +754,19 @@
 
 ### [Teacher(s)](entries/teachers.md)
 
-* accepting a, [[sb/1/5/11#purport|SB 1.5.11]]
+* accepting a,, [[sb/1/5/11#purport|SB 1.5.11]]
 
 *→ See all 8 references in* [Teacher(s)](entries/teachers.md)
 
 ---
 
-### [Teacher(s), spiritual](entries/teachers-spiritual.md)
+### [Teachers, spiritual](entries/teachers-spiritual.md)
 
-* true & false, [[sb/3/9/10#purport|SB 3.9.10]]
+...
 
-*→ See all 6 references in* [Teacher(s), spiritual](entries/teachers-spiritual.md)
+* true & false,, [[sb/3/9/10#purport|SB 3.9.10]]
+
+*→ See all 6 references in* [Teachers, spiritual](entries/teachers-spiritual.md)
 
 ---
 
@@ -852,7 +852,7 @@
 
 * worship in, [[sb/3/22/33#purport|SB 3.22.33]]
 
-*See also:* [[d#Deity of Supreme Lord|Deity of Supreme Lord]]; [[w#Worship|Worship]]; to Lord
+*See also:* Deity of Supreme Lord; [Worship](entries/worship.md); to Lord
 
 ---
 
@@ -860,32 +860,32 @@
 
 * purpose of, [[sb/2/1/19#purport|SB 2.1.19]], [[sb/2/2/6#purport|SB 2.2.6]], [[sb/2/3/21#purport|SB 2.3.21]], [[sb/2/3/21-22#purport|SB 2.3.21-22]]
 
-*See also:* [[d#Deity form of Supreme Lord|Deity form of Supreme Lord]]; worship to
+*See also:* Deity form of Supreme Lord; worship to
 
-*See:* [[d#Deity worship|Deity worship]]
+*See:* Deity worship
 
 ---
 
 ### Temple worship to Lord
 
 
-*See:* [[d#Deity worship|Deity worship]]
+*See:* Deity worship
 
 ---
 
 ### [Temple(s)](entries/temples.md)
 
-[[cc/adi/10/105#purport|Ādi 10.105]], **[[cc/adi/10/41–42#translation|Ādi 10.41–42]]**, [[cc/adi/10/85#purport|Ādi 10.85]]...
+**[[cc/madhya/1/143#translation|Madhya 1.143]]**...
 
-* ”Anglican,” in Vṛndāvana, [[sb/7/15/2#purport|SB 7.15.2]]
+* ”Anglican,” in Vṛndāvana,, [[sb/7/15/2#purport|SB 7.15.2]]
 
-*→ See all 154 references in* [Temple(s)](entries/temples.md)
+*→ See all 157 references in* [Temple(s)](entries/temples.md)
 
 ---
 
 ### [Temple(s) of Supreme Lord](entries/temples-of-supreme-lord.md)
 
-* Ambarīṣa served, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
+* Ambarīṣa served,, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 
 *→ See all 16 references in* [Temple(s) of Supreme Lord](entries/temples-of-supreme-lord.md)
 
@@ -928,7 +928,7 @@
 *  [[bg/2/62|Bg. 2.62]], [[bg/6/17|Bg. 6.17]], [[bg/6/44|Bg. 6.44]], [[bg/11/55|Bg. 11.55]] (5), [[sb/4/21/41#purport|SB 4.21.41]], [[sb/4/24/70#purport|SB 4.24.70]]
 * imitators of, [[sb/4/29/1#purport|SB 4.29.1]]b
 
-*See:* [[h#Haridāsa Thākura|Haridāsa Thākura]]
+*See:* Haridāsa Thākura
 
 ---
 
@@ -949,7 +949,7 @@
 ### Theism
 
 
-*See:* Devotional service; [[g#God realiātion|God realiātion]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]
+*See:* Devotional service; God realiātion; Kṛṣṇa consciousness
 
 ---
 
@@ -977,7 +977,7 @@
 
 ### [Theory](entries/theory.md)
 
-* of chance, [[sb/4/24/42#purport|SB 4.24.42]]
+* of chance,, [[sb/4/24/42#purport|SB 4.24.42]]
 
 *→ See all 6 references in* [Theory](entries/theory.md)
 
@@ -999,9 +999,9 @@
 
 ### [Thieves](entries/thieves.md)
 
-**[[cc/antya/13/34–35#translation|Antya 13.34–35]]**, [[sb/4/5/8#purport|SB 4.5.8]]...
+**[[cc/antya/13/34–35#translation|Antya 13.34–35]]**...
 
-* flourishing or fleeing, [[sb/4/14/3#purport|SB 4.14.3]]
+* flourishing or fleeing,, [[sb/4/14/3#purport|SB 4.14.3]]
 
 *→ See all 8 references in* [Thieves](entries/thieves.md)
 
@@ -1011,7 +1011,7 @@
 
 * Kṛṣṇa’s representation among, [[bg/10/37|Bg. 10.37]]
 
-*See also:* [[s#Sages|Sages]]
+*See also:* Sages
 
 ---
 
@@ -1077,7 +1077,7 @@
 
 ### [Three worlds](entries/three-worlds.md)
 
-* names of, [[sb/8/24/32#purport|SB 8.24.32]]
+* names of,, [[sb/8/24/32#purport|SB 8.24.32]]
 
 *→ See all 6 references in* [Three worlds](entries/three-worlds.md)
 
@@ -1095,7 +1095,7 @@
 ### Threefold miseries
 
 
-*See:* [[s#Suffering|Suffering]]
+*See:* [Suffering](entries/sufferings.md)
 
 ---
 
@@ -1151,13 +1151,6 @@
 
 ---
 
-### Tiger
-
-[[sb/2/9/2#purport|SB 2.9.2]]
-
-
----
-
 ### Tiger in dream, conditioned souls fear compared to
 
 [[sb/1/14/38#purport|SB 1.14.38]]
@@ -1166,6 +1159,8 @@
 ---
 
 ### Tiger(s)
+
+[[sb/2/9/2#purport|SB 2.9.2]]
 
 * cows attacked by, [[sb/9/2/4#purport|SB 9.2.4]]
 * Rāvaṇa compared to, [[sb/9/10/11#purport|SB 9.10.11]]
@@ -1209,12 +1204,13 @@
 
 ---
 
-### Tilaka
+### [Tilaka](entries/tilaka.md)
 
-[[cc/madhya/1/208#purport|Madhya 1.208]], [[cc/madhya/1/35#purport|Madhya 1.35]], **[[cc/madhya/20/202#translation|Madhya 20.202]]**, [[cc/madhya/22/129#purport|Madhya 22.129]], [[cc/madhya/24/330#purport|Madhya 24.330]], **[[cc/madhya/24/332–33#translation|Madhya 24.332–33]]**, [[cc/madhya/8/55#purport|Madhya 8.55]]
+[[cc/madhya/1/35#purport|Madhya 1.35]]...
 
-* of false devotee, [[sb/4/19/37#purport|SB 4.19.37]]
-* purifies body, [[sb/4/12/28#purport|SB 4.12.28]]
+* of false devotee,, [[sb/4/19/37#purport|SB 4.19.37]]
+
+*→ See all 9 references in* [Tilaka](entries/tilaka.md)
 
 ---
 
@@ -1227,11 +1223,11 @@
 
 ### [Time](entries/time.md)
 
-[[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]]...
+[[bg/8|Bg. 8]], [[bg/18/78|Bg. 18.78]] (6)...
 
-* karma &, 8 
+* above,, [[sb/7/9/31#purport|SB 7.9.31]]
 
-*→ See all 187 references in* [Time](entries/time.md)
+*→ See all 199 references in* [Time](entries/time.md)
 
 ---
 
@@ -1265,7 +1261,7 @@
 [[sb/3/21/30#purport|SB 3.21.30]]
 
 
-*See also:* [[p#Pilgrimage places|Pilgrimage places]]
+*See also:* Pilgrimage places
 
 ---
 
@@ -1419,9 +1415,9 @@
 
 ### [Tolerance](entries/tolerance.md)
 
-**[[cc/adi/17/27–29#translation|Ādi 17.27–29]]**, **[[cc/adi/17/31#translation|Ādi 17.31]]**, [[cc/adi/17/44#purport|Ādi 17.44]]...
+[[bg/2/14–15|Bg. 2.14–15]], [[bg/8/5|Bg. 8.5]], [[bg/10/4|Bg. 10.4]] (3), [[bg/11/44|Bg. 11.44]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (11), [[bg/16/1|Bg. 16.1]] (15)...
 
-* about material duality, [[sb/9/13/27#purport|SB 9.13.27]]
+* about material duality,, [[sb/9/13/27#purport|SB 9.13.27]]
 
 *→ See all 38 references in* [Tolerance](entries/tolerance.md)
 
@@ -1496,7 +1492,7 @@
 [[sb/10/13/2#purport|SB 10.13.2]]
 
 
-*See also:* [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]; [[k#Kṛṣṇa-kathā|Kṛṣṇa-kathā]]
+*See also:* Hearing about Supreme Lord; Kṛṣṇa-kathā
 
 ---
 
@@ -1567,14 +1563,13 @@
 
 ---
 
-### Touchstone
+### [Touchstone](entries/touchstone.md)
 
-**[[cc/madhya/6/171#translation|Madhya 6.171]]**, [[sb/1/8/27#purport|SB 1.8.27]], [[sb/2/9/35#purport|SB 2.9.35]]
+**[[cc/madhya/6/171#translation|Madhya 6.171]]**...
 
-* compared to Lord, [[sb/4/11/19#purport|SB 4.11.19]]
-* iron &, analogy of, [[sb/1/6/28#purport|SB 1.6.28]]
-* Lord compared to, SB Intro 24
-* of Sanātana Gosvāmī, [[sb/4/7/6#purport|SB 4.7.6]]
+* compared to Lord,, [[sb/4/11/19#purport|SB 4.11.19]]
+
+*→ See all 7 references in* [Touchstone](entries/touchstone.md)
 
 ---
 
@@ -1640,7 +1635,7 @@
 
 [[sb/6/4/26#purport|SB 6.4.26]]...
 
-* as absorption in Kṛṣṇa, [[sb/2/1/1#purport|SB 2.1.1]]
+* as absorption in Kṛṣṇa,, [[sb/2/1/1#purport|SB 2.1.1]]
 
 *→ See all 21 references in* [Trance](entries/trance.md)
 
@@ -1651,13 +1646,13 @@
 [[bg/16/1|Bg. 16.1]]
 
 
-*See also:* [[b#Brahman|Brahman]]
+*See also:* [Brahman](entries/brahman.md)
 
 ---
 
 ### [Transcendence](entries/transcendence.md)
 
-* as freedom, [[sb/3/23/7#purport|SB 3.23.7]]
+* as freedom,, [[sb/3/23/7#purport|SB 3.23.7]]
 
 *→ See all 14 references in* [Transcendence](entries/transcendence.md)
 
@@ -1679,21 +1674,21 @@
 ### Transcendental knowledge
 
 
-*See:* [[k#Knowledge|Knowledge]]; spiritual
+*See:* [Knowledge](entries/knowledge.md); spiritual
 
 ---
 
 ### Transcendental literature
 
 
-*See:* [[l#Literature|Literature]]; transcendental; specific literatures
+*See:* [Literature](entries/literature.md); transcendental; specific literatures
 
 ---
 
 ### Transcendental realization
 
 
-*See:* [[g#God realization|God realization]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[s#Self-realization|Self-realization]]
+*See:* God realization; Kṛṣṇa consciousness; [Self-realization](entries/self-realization.md)
 
 ---
 
@@ -1702,24 +1697,24 @@
 [[sb/4/4/6#purport|SB 4.4.6]]
 
 
-*See also:* [[c#Chanting|Chanting]]
+*See also:* [Chanting](entries/chanting.md)
 
-*See:* Chantings holy name of Lord; [[h#Hearing about Lord|Hearing about Lord]]
+*See:* Chantings holy name of Lord; Hearing about Lord
 
 ---
 
 ### Transcendentalism
 
 
-*See:* Devotional service; [[g#God realization|God realization]]; [[i#Impersonalism|Impersonalism]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[s#Self-realization|Self-realization]]; [[y#Yoga|Yoga]]
+*See:* Devotional service; God realization; [Impersonalism](entries/impersonalism.md); Kṛṣṇa consciousness; [Self-realization](entries/self-realization.md); [Yoga](entries/yogas.md)
 
 ---
 
 ### [Transcendentalist(s)](entries/transcendentalists.md)
 
-* yoga attractive for, [[bg/6/44–45|Bg. 6.44–45]]
+* advanced,, [[sb/7/13/18#purport|SB 7.13.18]]
 
-*→ See all 104 references in* [Transcendentalist(s)](entries/transcendentalists.md)
+*→ See all 127 references in* [Transcendentalist(s)](entries/transcendentalists.md)
 
 ---
 
@@ -1744,20 +1739,13 @@
 
 ---
 
-### Transmigration of soul
-
-[[cc/adi/12/70#purport|Ādi 12.70]], [[cc/adi/16/23#purport|Ādi 16.23]], [[cc/antya/5/114#purport|Antya 5.114]], [[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/19/140#purport|Madhya 19.140]], [[cc/madhya/22/142#purport|Madhya 22.142]], [[cc/madhya/24/104#purport|Madhya 24.104]], [[cc/madhya/3/181#purport|Madhya 3.181]]
-
-
----
-
 ### [Transmigration of soul(s)](entries/transmigration-of-souls.md)
 
-[[bg/2/13|Bg. 2.13]], [[sb/1/13/44#purport|SB 1.13.44]], [[sb/2/9/2#purport|SB 2.9.2]]...
+[[cc/adi/12/70#purport|Ādi 12.70]]...
 
-* ”intermediate” period in, [[sb/2/1/15#purport|SB 2.1.15]]
+* ”intermediate” period in,, [[sb/2/1/15#purport|SB 2.1.15]]
 
-*→ See all 229 references in* [Transmigration of soul(s)](entries/transmigration-of-souls.md)
+*→ See all 276 references in* [Transmigration of soul(s)](entries/transmigration-of-souls.md)
 
 ---
 
@@ -1786,14 +1774,14 @@
 
 * material or spiritual, [[sb/2/2/22-23#purport|SB 2.2.22-23]], [[sb/2/3/22#purport|SB 2.3.22]]
 
-*See also:* [[s#Space travel|Space travel]]
+*See also:* Space travel
 
 ---
 
 ### Travel, space
 
 
-*See:* [[s#Space travel|Space travel]]
+*See:* Space travel
 
 ---
 
@@ -1831,20 +1819,13 @@
 
 ---
 
-### Tree
-
-[[sb/1/11/12-13#purport|SB 1.11.12-13]]
-
-* ”of work,” [[sb/1/5/34#purport|SB 1.5.34]], [[sb/1/5/34#purport|SB 1.5.34]]
-* Lord as compared to, [[sb/1/1/4#purport|SB 1.1.4]], [[sb/1/5/14#purport|SB 1.5.14]], [[sb/1/5/20#purport|SB 1.5.20]]
-
----
-
 ### [Tree(s)](entries/trees.md)
 
-* as Lord’s creation, [[sb/6/4/8#purport|SB 6.4.8]]
+[[sb/1/11/12-13#purport|SB 1.11.12-13]]...
 
-*→ See all 64 references in* [Tree(s)](entries/trees.md)
+* ”of work,”, [[sb/1/5/34#purport|SB 1.5.34]], [[sb/1/5/34#purport|SB 1.5.34]]
+
+*→ See all 67 references in* [Tree(s)](entries/trees.md)
 
 ---
 
@@ -1870,9 +1851,9 @@
 
 ### [Tretā-yuga](entries/treta-yuga.md)
 
-**[[cc/adi/3/37#translation|Ādi 3.37]]**, [[cc/adi/3/52#purport|Ādi 3.52]], [[cc/adi/7/74#purport|Ādi 7.74]]...
+[[bg/4/1|Bg. 4.1]] (4), [[bg/8/17|Bg. 8.17]]...
 
-* as three-fourths religious, [[sb/8/14/4#purport|SB 8.14.4]]
+* as three-fourths religious,, [[sb/8/14/4#purport|SB 8.14.4]]
 
 *→ See all 27 references in* [Tretā-yuga](entries/treta-yuga.md)
 
@@ -1972,14 +1953,7 @@
 
 ### Tridaṇḍī sannyāsīs
 
-[[sb/4/22/11#purport|SB 4.22.11]]
-
-
----
-
-### Tridaṇḍi-sannyāsī
-
-[[sb/7/5/23-24#purport|SB 7.5.23-24]]
+[[sb/4/22/11#purport|SB 4.22.11]], [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 
 
 ---
@@ -2014,7 +1988,9 @@
 
 ### [Trikūṭa Mountain](entries/trikuta-mountain.md)
 
-* animals of, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/2/7#purport|SB 8.2.7]], [[sb/8/2/14-19#purport|SB 8.2.14-19]], [[sb/8/2/20#purport|SB 8.2.20]], [[sb/8/2/21#purport|SB 8.2.21]], [[sb/8/2/22#purport|SB 8.2.22]], [[sb/8/2/23-24#purport|SB 8.2.23-24]]
+[[sb/5/16/26#purport|SB 5.16.26]], [[sb/5/19/16#purport|SB 5.19.16]]...
+
+* animals of,, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/2/7#purport|SB 8.2.7]], [[sb/8/2/14-19#purport|SB 8.2.14-19]], [[sb/8/2/20#purport|SB 8.2.20]], [[sb/8/2/21#purport|SB 8.2.21]], [[sb/8/2/22#purport|SB 8.2.22]], [[sb/8/2/23-24#purport|SB 8.2.23-24]]
 
 *→ See all 11 references in* [Trikūṭa Mountain](entries/trikuta-mountain.md)
 
@@ -2252,9 +2228,9 @@
 
 [[bg/16/1|Bg. 16.1]]...
 
-* *kṣatriyas *&, [[bg/18/47|Bg. 18.47]]
+* *kṣatriyas *&,, [[bg/18/47|Bg. 18.47]]
 
-*→ See all 33 references in* [Truth](entries/truth.md)
+*→ See all 35 references in* [Truth](entries/truth.md)
 
 ---
 
@@ -2263,14 +2239,14 @@
 [[sb/10/8/5#purport|SB 10.8.5]]
 
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]
+*See also:* Absolute Truth
 
 ---
 
 ### Truth, absolute
 
 
-*See:* [[a#Absolute Truth|Absolute Truth]]
+*See:* Absolute Truth
 
 ---
 
@@ -2347,9 +2323,9 @@
 
 ### [Tulasī](entries/tulasi.md)
 
-[[sb/5/3/6#purport|SB 5.3.6]]...
+[[bg/2/61|Bg. 2.61]], [[bg/6/18|Bg. 6.18]]...
 
-* *prasādam, *benefits of, [[bg/9/2|Bg. 9.2]] (9)
+* *prasādam, *benefits of,, [[bg/9/2|Bg. 9.2]] (9)
 
 *→ See all 6 references in* [Tulasī](entries/tulasi.md)
 
@@ -2371,9 +2347,9 @@
 
 ### [Tulasī leaves](entries/tulasi-leaves.md)
 
-**[[cc/antya/3/224#translation|Antya 3.224]]**, **[[cc/madhya/17/141–42#translation|Madhya 17.141–42]]**, **[[cc/madhya/22/125#translation|Madhya 22.125]]**...
+**[[cc/madhya/17/141–42#translation|Madhya 17.141–42]]**...
 
-* at Kṛṣṇa’s lotus feet, [[sb/1/19/6#purport|SB 1.19.6]]
+* at Kṛṣṇa’s lotus feet,, [[sb/1/19/6#purport|SB 1.19.6]]
 
 *→ See all 16 references in* [Tulasī leaves](entries/tulasi-leaves.md)
 
@@ -2395,10 +2371,7 @@
 
 ### [Tulasī-devī](entries/tulasi-devi.md)
 
-[[cc/adi/10/1#purport|Ādi 10.1]], **[[cc/adi/13/70#translation|Ādi 13.70]]**, **[[cc/adi/3/104#translation|Ādi 3.104]]**...
-
-
-*→ See all 15 references in* [Tulasī-devī](entries/tulasi-devi.md)
+**[[cc/adi/3/104#translation|Ādi 3.104]]**
 
 ---
 
@@ -2488,9 +2461,9 @@
 
 ### [Tvaṣṭā](entries/tvasta.md)
 
-[[sb/5/15/14-15#purport|SB 5.15.14-15]], [[sb/6/6/38-39#purport|SB 6.6.38-39]]...
+[[sb/5/15/14-15#purport|SB 5.15.14-15]]...
 
-* mistake of, in chanting mantra, [[sb/6/9/11#purport|SB 6.9.11]]
+* mistake of, in chanting mantra,, [[sb/6/9/11#purport|SB 6.9.11]]
 
 *→ See all 7 references in* [Tvaṣṭā](entries/tvasta.md)
 
@@ -2502,7 +2475,7 @@
 
 *  [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/16/23#purport|SB 3.16.23]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[k#Kṣatriyas|Kṣatriyas]]; [[v#Vaiśyas|Vaiśyas]]
+*See also:* Brāhmaṇas; Kṣatriyas; Vaiśyas
 
 ---
 
@@ -2512,7 +2485,7 @@
 
 * penance as path of, [[sb/2/9/6#purport|SB 2.9.6]]
 
-*See also:* [[s#Spiritual master|Spiritual master]]; disciples of
+*See also:* Spiritual master; disciples of
 
 ---
 
@@ -2522,7 +2495,7 @@
 
 * defined, [[sb/4/4/12#purport|SB 4.4.12]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[k#Kṣatriyas|Kṣatriyas]]; [[v#Vaiśyas|Vaiśyas]]
+*See also:* Brāhmaṇas; Kṣatriyas; Vaiśyas
 
 ---
 
@@ -2531,7 +2504,7 @@
 * as passion period, [[sb/3/20/29#purport|SB 3.20.29]]
 * demons &, [[sb/3/20/29-37#purport|SB 3.20.29-37]]
 
-*See also:* [[n#Night|Night]]
+*See also:* Night
 
 ---
 
@@ -2541,7 +2514,7 @@
 
 * defined, [[bg/18/2|Bg. 18.2]]
 
-*See also:* [[r#Renunciation|Renunciation]]
+*See also:* [Renunciation](entries/renunciation.md)
 
 ---
 

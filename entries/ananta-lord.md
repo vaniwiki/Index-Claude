@@ -1,6 +1,6 @@
 # Ananta, Lord
 
-[[sb/1/3/5#purport|SB 1.3.5]], [[sb/3/8/30#purport|SB 3.8.30]]
+[[sb/1/3/5#purport|SB 1.3.5]], [[sb/3/8/30#purport|SB 3.8.30]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/26/25#purport|SB 3.26.25]], [[sb/4/7/24#purport|SB 4.7.24]], [[sb/4/15/4#purport|SB 4.15.4]], [[sb/4/16/2#purport|SB 4.16.2]]
 
 * Aniruddha lies on, [[sb/5/17/14#purport|SB 5.17.14]]
 * annihilation by, [[sb/3/10/14#purport|SB 3.10.14]], [[sb/3/11/32#purport|SB 3.11.32]]
@@ -13,6 +13,7 @@
 * as Viṣṇu’s expansion, [[sb/5/25/1#purport|SB 5.25.1]]
 * Balarāma as, [[sb/1/14/35-36#purport|SB 1.14.35-36]]
 * Caitanya’s glories chanted by, [[sb/5/25/9#purport|SB 5.25.9]]
+* description of, [[sb/5/25/4-5#purport|SB 5.25.4-5]], [[sb/5/25/7#purport|SB 5.25.7]]
 * devastation by, [[sb/5/25/3#purport|SB 5.25.3]]
 * devotees pleased by, [[sb/5/25/9#purport|SB 5.25.9]]
 * eyes of, compared to flowers, [[sb/5/25/7#purport|SB 5.25.7]]
@@ -31,11 +32,10 @@
 * pure devotees worship, [[sb/5/25/9#purport|SB 5.25.9]]
 * purification via glorification of, [[sb/5/25/8#purport|SB 5.25.8]], [[sb/5/25/9#purport|SB 5.25.9]]
 * residence of, [[sb/5/25/1#purport|SB 5.25.1]]
-*  [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/26/25#purport|SB 3.26.25]], [[sb/4/7/24#purport|SB 4.7.24]], [[sb/4/15/4#purport|SB 4.15.4]], [[sb/4/16/2#purport|SB 4.16.2]]
 * Śiva worshiper of, [[sb/5/25/1#purport|SB 5.25.1]]
 * size & power of, [[sb/5/25/9#purport|SB 5.25.9]]
 * size of universe compared with size of hood of, [[sb/5/25/2#purport|SB 5.25.2]]
 * strength of, [[sb/5/17/21#purport|SB 5.17.21]], [[sb/5/25/12#purport|SB 5.25.12]]
 * universe(s) sustained by, [[sb/5/17/21#purport|SB 5.17.21]], [[sb/5/25/9#purport|SB 5.25.9]], [[sb/5/25/12#purport|SB 5.25.12]]
 
-*See also:* Balarāma; [[s#Saṅkarṣaṇa|Saṅkarṣaṇa]]
+*See also:* Balarāma; Saṅkarṣaṇa

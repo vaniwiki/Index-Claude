@@ -15,15 +15,15 @@
 * from lusty desire, [[sb/9/19/15#purport|SB 9.19.15]]
 * from material body, [[sb/4/22/27#purport|SB 4.22.27]]
 * from material bondage, [[sb/3/21/17#purport|SB 3.21.17]], [[sb/3/24/17#purport|SB 3.24.17]], [[sb/3/24/18#purport|SB 3.24.18]], [[sb/3/24/38#purport|SB 3.24.38]], [[sb/3/24/41#purport|SB 3.24.41]], [[sb/9/10/23#purport|SB 9.10.23]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/14/48#purport|SB 9.14.48]], [[sb/9/19/19#purport|SB 9.19.19]], [[sb/9/19/20#purport|SB 9.19.20]]
-* from material desires, N103, [[sb/10/3/39#purport|SB 10.3.39]]
 * from material desires, [[sb/3/21/12#purport|SB 3.21.12]], [[sb/4/23/8#purport|SB 4.23.8]], [[sb/9/4/26#purport|SB 9.4.26]], [[sb/9/8/26#purport|SB 9.8.26]]
+* from material desires, N103, [[sb/10/3/39#purport|SB 10.3.39]]
 * from material existence, [[sb/8/19/12#purport|SB 8.19.12]], [[sb/8/20/1#purport|SB 8.20.1]]
 * from material world, [[sb/9/2/14#purport|SB 9.2.14]], [[sb/9/6/51#purport|SB 9.6.51]]
 * from māyā, [[sb/9/21/17#purport|SB 9.21.17]]
 * from modes of nature, [[sb/8/24/38#purport|SB 8.24.38]], [[sb/9/8/23#purport|SB 9.8.23]], [[sb/9/18/2#purport|SB 9.18.2]]
 * from sex desire, [[sb/2/2/12#purport|SB 2.2.12]]
 * from sin, [[sb/9/9/14#purport|SB 9.9.14]], [[sb/9/10/51#purport|SB 9.10.51]], [[sb/9/23/18-19#purport|SB 9.23.18-19]]
-* from suffering, [[sb/10/11/58#purport|SB 10.11.58]], [[sb/4/21/40#purport|SB 4.21.40]]
+* from suffering, [[sb/4/21/40#purport|SB 4.21.40]], [[sb/10/11/58#purport|SB 10.11.58]]
 * from work’s reactions, [[sb/3/22/29-30#purport|SB 3.22.29-30]]
 * in devotional service, [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/6/37#purport|SB 1.6.37]]
 * in material world absent, [[sb/8/22/9#purport|SB 8.22.9]]
@@ -44,6 +44,6 @@
 * via remembering Lord, [[sb/8/10/55#purport|SB 8.10.55]]
 * via serving Lord, [[sb/3/21/18#purport|SB 3.21.18]], [[sb/3/24/43#purport|SB 3.24.43]]
 
-*See also:* [[i#Independence|Independence]]; [[k#Kṛṣṇa consciousness|Kṛṣṇa consciousness]]; [[l#Liberation|Liberation]]; [[s#Salvation|Salvation]]; [[p#Purification|Purification]]
+*See also:* [Independence](entries/independence.md); [Liberation](entries/liberation.md); [Purification](entries/purification.md); Kṛṣṇa consciousness; [Salvation](entries/salvation.md)
 
-*See:* [[l#Liberation|Liberation]]
+*See:* [Liberation](entries/liberation.md)

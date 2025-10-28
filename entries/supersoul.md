@@ -1,19 +1,18 @@
 # Supersoul
 
-[[cc/adi/2/11#purport|Ādi 2.11]], **[[cc/adi/2/18#translation|Ādi 2.18]]**, **[[cc/adi/2/21#translation|Ādi 2.21]]**, [[cc/adi/2/25#purport|Ādi 2.25]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/102#purport|Ādi 7.102]], [[cc/madhya/10/168#purport|Madhya 10.168]], [[cc/madhya/10/177#purport|Madhya 10.177]], [[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/204#translation|Madhya 19.204]]**, **[[cc/madhya/19/204#translation|Madhya 19.204]]**, **[[cc/madhya/19/218#translation|Madhya 19.218]]**, [[cc/madhya/19/228#purport|Madhya 19.228]], [[cc/madhya/19/228#purport|Madhya 19.228]], [[cc/madhya/20/119#purport|Madhya 20.119]], **[[cc/madhya/20/123#translation|Madhya 20.123]]**, [[cc/madhya/20/158#purport|Madhya 20.158]], [[cc/madhya/20/158#purport|Madhya 20.158]], **[[cc/madhya/20/161#translation|Madhya 20.161]]**, [[cc/madhya/21/104#purport|Madhya 21.104]], **[[cc/madhya/21/39#translation|Madhya 21.39]]**, **[[cc/madhya/24/154–56#translation|Madhya 24.154–56]]**, **[[cc/madhya/24/83#translation|Madhya 24.83]]**, [[cc/madhya/5/77–78#purport|Madhya 5.77–78]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/9/49#purport|Madhya 9.49]], [[sb/10/13/27#purport|SB 10.13.27]], [[sb/3/26/50#purport|SB 3.26.50]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
+[[bg/2/20|Bg. 2.20]], [[bg/2/39|Bg. 2.39]] (2), [[bg/4/11|Bg. 4.11]], [[bg/7/4|Bg. 7.4]], [[bg/9/11|Bg. 9.11]] (7), [[bg/9/18|Bg. 9.18]], [[bg/18/78|Bg. 18.78]] (5–6), [[cc/madhya/20/119#purport|Madhya 20.119]], **[[cc/madhya/20/123#translation|Madhya 20.123]]**, **[[cc/adi/2/18#translation|Ādi 2.18]]**, **[[cc/adi/2/21#translation|Ādi 2.21]]**, **[[cc/madhya/20/161#translation|Madhya 20.161]]**, [[cc/madhya/21/104#purport|Madhya 21.104]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/9/49#purport|Madhya 9.49]], [[cc/madhya/10/168#purport|Madhya 10.168]], **[[cc/madhya/21/39#translation|Madhya 21.39]]**, [[cc/adi/2/11#purport|Ādi 2.11]], [[cc/adi/2/25#purport|Ādi 2.25]], [[cc/adi/7/102#purport|Ādi 7.102]], [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/10/177#purport|Madhya 10.177]], [[cc/madhya/19/228#purport|Madhya 19.228]], [[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/218#translation|Madhya 19.218]]**, [[cc/madhya/19/228#purport|Madhya 19.228]], [[cc/madhya/5/77–78#purport|Madhya 5.77–78]], **[[cc/madhya/19/204#translation|Madhya 19.204]]**, [[cc/madhya/20/158#purport|Madhya 20.158]], **[[cc/madhya/19/204#translation|Madhya 19.204]]**, [[cc/madhya/20/158#purport|Madhya 20.158]], **[[cc/madhya/24/83#translation|Madhya 24.83]]**, **[[cc/madhya/24/154–56#translation|Madhya 24.154–56]]**, [[sb/3/26/50#purport|SB 3.26.50]], [[sb/4/28/25#purport|SB 4.28.25]], [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/7#purport|SB 4.30.7]], [[sb/4/30/24#purport|SB 4.30.24]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/31/18#purport|SB 4.31.18]], [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/10/13/27#purport|SB 10.13.27]]
 
+* ”one” with, [[sb/4/22/27-27#purport|SB 4.22.27-27]]
 * *sannyāsī *convinced of presence of, [[bg/16/1|Bg. 16.1]] (4)
-* Vedas explain, [[bg/15/18|Bg. 15.18]]
-* yoga of meeting, [[bg/6/7|Bg. 6.7]]
 * & soul, relationship between, [[sb/3/26/18-18#purport|SB 3.26.18-18]]
+* accompanied by, [[sb/4/21/35#purport|SB 4.21.35]]
 * all known by, [[bg/7/26|Bg. 7.26]]
 * annihilation of living entities by, [[sb/3/29/38#purport|SB 3.29.38]]
 * appears as many but is one, [[sb/1/2/32#purport|SB 1.2.32]]
 * appears at disappearance of spiritual master, [[sb/4/28/52#purport|SB 4.28.52]]
 * Arjuna understood by, [[bg/1/25|Bg. 1.25]]
-* as *adhiyajña, * 8.4
-* as *vibhu-ātmā, * 2.20
-* as yoga’s aim, [[bg/6/13|Bg. 6.13]]
+* as *adhiyajña, *, 8.4
+* as *vibhu-ātmā, *, 2.20
 * as Absolute Truth feature, [[sb/3/24/39#purport|SB 3.24.39]]
 * as all-pervading, [[bg/13/14|Bg. 13.14]], [[sb/1/2/32-33#purport|SB 1.2.32-33]], [[sb/1/3/2#purport|SB 1.3.2]], [[sb/1/8/18#purport|SB 1.8.18]], [[sb/1/12/9#purport|SB 1.12.9]], [[sb/1/12/11#purport|SB 1.12.11]], [[sb/1/12/11#purport|SB 1.12.11]], [[sb/4/30/42#purport|SB 4.30.42]], [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/6/20-23#purport|SB 7.6.20-23]]
 * as aspect of Absolute Truth, [[sb/3/15/47#purport|SB 3.15.47]]
@@ -37,9 +36,12 @@
 * as goal of yoga, [[sb/1/2/29#purport|SB 1.2.29]]
 * as guide for soul, [[sb/4/29/60#purport|SB 4.29.60]]
 * as Hari, [[sb/1/3/2#purport|SB 1.3.2]]
+* as imperfect, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/2/29#purport|SB 1.2.29]], [[sb/1/7/4#purport|SB 1.7.4]]
 * as independent, [[sb/3/29/27#purport|SB 3.29.27]]
 * as instructor, [[sb/4/28/64#purport|SB 4.28.64]]
-* as knower 
+* as knower
+  * of body, [[bg/13/3|Bg. 13.3]], [[bg/13/13|Bg. 13.13]]
+  * of living entities, [[bg/7/26|Bg. 7.26]]
 * as knower in all bodies, [[sb/4/28/40-40#purport|SB 4.28.40-40]], [[sb/4/28/63#purport|SB 4.28.63]]
 * as knowledge, [[bg/13/18|Bg. 13.18]]
 * as Kṣīrodakaśāyī Viṣṇu, [[bg/7/4|Bg. 7.4]]
@@ -62,7 +64,9 @@
 * as partial representation of Lord, [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/2/11-12#purport|SB 1.2.11-12]]
 * as pervading everything & everyone, [[bg/10/42|Bg. 10.42]], [[bg/15/13|Bg. 15.13]]
 * as sanctioning agent, [[bg/13/23|Bg. 13.23]]
-* as source 
+* as source
+  * of all light, [[bg/13/18|Bg. 13.18]]
+  * of all senses, [[bg/13/15|Bg. 13.15]]
 * as source of living entities, [[sb/5/18/13#purport|SB 5.18.13]]
 * as spiritual master, [[sb/1/2/31#purport|SB 1.2.31]]
 * as Superconsciousness, [[sb/3/4/11#purport|SB 3.4.11]], [[sb/3/5/4#purport|SB 3.5.4]]
@@ -75,31 +79,45 @@
 * as svāṁśa, [[sb/1/15/6#purport|SB 1.15.6]]
 * as temporary manifestation, [[bg/7/4|Bg. 7.4]]
 * as time, [[sb/1/8/28#purport|SB 1.8.28]]
-* as transcendental 
-* as transcendental enjoyer, [[bg/13/23|Bg. 13.23]]
 * as transcendental, [[sb/3/29/27#purport|SB 3.29.27]], [[sb/3/31/13#purport|SB 3.31.13]]
+  * to body He’s within, [[bg/6/29|Bg. 6.29]]
+  * to modes of nature, [[bg/13/15|Bg. 13.15]]
+* as transcendental enjoyer, [[bg/13/23|Bg. 13.23]]
 * as well-wisher, [[sb/7/7/38#purport|SB 7.7.38]]
 * as without senses (material), [[bg/13/15|Bg. 13.15]]
 * as witness within, [[sb/3/6/9#purport|SB 3.6.9]], [[sb/3/7/6#purport|SB 3.7.6]]
+* as witness, [[bg/2/22|Bg. 2.22]], [[bg/8/4|Bg. 8.4]], [[bg/13/23|Bg. 13.23]], [[bg/16/11|Bg. 16.11]], [[bg/18/61|Bg. 18.61]], [[cc/adi/2/19#purport|Ādi 2.19]], [[cc/adi/2/46#purport|Ādi 2.46]], [[sb/3/26/18#purport|SB 3.26.18]], [[sb/4/28/40#purport|SB 4.28.40]]
 * as witness, 231, [[sb/1/17/20#purport|SB 1.17.20]]
-* as witness, [[cc/adi/2/19#purport|Ādi 2.19]], [[cc/adi/2/46#purport|Ādi 2.46]], [[bg/2/22|Bg. 2.22]], [[bg/8/4|Bg. 8.4]], [[bg/13/23|Bg. 13.23]], [[bg/16/11|Bg. 16.11]], [[bg/18/61|Bg. 18.61]], [[sb/3/26/18#purport|SB 3.26.18]], [[sb/4/28/40#purport|SB 4.28.40]]
+* as yoga’s aim, [[bg/6/13|Bg. 6.13]]
 * as yogī’s goal, [[sb/1/9/42#purport|SB 1.9.42]], [[sb/1/13/53#purport|SB 1.13.53]], [[sb/1/13/55#purport|SB 1.13.55]]
 * ātmārāma verse explanation &, **[[cc/madhya/24/82–83#translation|Madhya 24.82–83]]**, **[[cc/madhya/24/154–56#translation|Madhya 24.154–56]]**
 * atoms as effects of, [[sb/1/2/32#purport|SB 1.2.32]]
 * attainment of, [[bg/6/7|Bg. 6.7]]
 * basis of, [[sb/1/3/1-2#purport|SB 1.3.1-2]], [[sb/1/3/5#purport|SB 1.3.5]]
-*  [[bg/2/20|Bg. 2.20]], [[bg/2/39|Bg. 2.39]] (2), [[bg/4/11|Bg. 4.11]], [[bg/7/4|Bg. 7.4]], [[bg/9/11|Bg. 9.11]] (7), [[bg/9/18|Bg. 9.18]], [[bg/18/78|Bg. 18.78]] (5–6), [[sb/4/28/25#purport|SB 4.28.25]], [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/7#purport|SB 4.30.7]], [[sb/4/30/24#purport|SB 4.30.24]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/31/18#purport|SB 4.31.18]]
 * Bharata (in deer body) associates with, [[sb/5/8/31#purport|SB 5.8.31]]
-* body 
+* bird, [[sb/1/2/31#purport|SB 1.2.31]]
+* body
+  * dictated to by, [[bg/18/61|Bg. 18.61]]
+  * temple for, [[bg/9/11|Bg. 9.11]] (8)
 * body residence of, [[sb/7/1/25#purport|SB 7.1.25]], [[sb/7/2/47#purport|SB 7.2.47]], [[sb/7/14/37#purport|SB 7.14.37]], [[sb/7/14/38#purport|SB 7.14.38]]
+* brāhmaṇa friend, [[sb/4/28/51-55#purport|SB 4.28.51-55]], [[sb/4/28/61-64#purport|SB 4.28.61-64]]
+* butter in milk, [[sb/1/2/32#purport|SB 1.2.32]]
 * changeless, [[sb/10/4/19#purport|SB 10.4.19]]
 * characteristics of, [[bg/5/18|Bg. 5.18]]
-* compared , 
-* compared to , 
+* chariot driver, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
+* compared
+  * to bird in tree, [[bg/2/22|Bg. 2.22]]
+  * to fire, [[bg/2/61|Bg. 2.61]]
+  * to friend, [[bg/2/22|Bg. 2.22]]
+  * to sun, [[bg/13/17|Bg. 13.17]], [[bg/13/18|Bg. 13.18]]
+  * to witnessing bird, [[bg/16/11|Bg. 16.11]]
+  * with soul, [[bg/2/13|Bg. 2.13]], [[bg/2/20|Bg. 2.20]], [[bg/5/18|Bg. 5.18]], [[bg/6/29|Bg. 6.29]], [[bg/13/5|Bg. 13.5]], [[bg/13/13–15|Bg. 13.13–15]], [[bg/13/18|Bg. 13.18]], [[bg/13/20|Bg. 13.20]], [[bg/13/23|Bg. 13.23]], [[bg/13/28|Bg. 13.28]], [[bg/13/34|Bg. 13.34]], [[bg/15/13|Bg. 15.13]]
+* compared to
 * compared to bird, [[cc/adi/2/19#purport|Ādi 2.19]]
 * compared to special officer, [[cc/adi/2/10#purport|Ādi 2.10]]
 * compared to sun, **[[cc/adi/2/19#translation|Ādi 2.19]]**, **[[cc/adi/2/21#translation|Ādi 2.21]]**, [[sb/5/20/5#purport|SB 5.20.5]]
 * compared with jīva soul, [[sb/5/19/4#purport|SB 5.19.4]], [[sb/5/20/5#purport|SB 5.20.5]]
+* compared with, [[sb/4/24/40#purport|SB 4.24.40]], [[sb/4/28/40-40#purport|SB 4.28.40-40]]
 * conditioned soul compared with, [[sb/4/20/7#purport|SB 4.20.7]]
 * creation &, [[bg/7/6|Bg. 7.6]]
 * creation pervaded by, [[bg/10/20|Bg. 10.20]]
@@ -109,15 +127,18 @@
 * desires reminded by, [[sb/4/29/60#purport|SB 4.29.60]], [[sb/4/29/62#purport|SB 4.29.62]]
 * detailed, [[bg/13/13–18|Bg. 13.13–18]], [[sb/4/29/50-50#purport|SB 4.29.50-50]]
 * develops all, [[bg/13/17|Bg. 13.17]]
-* devotee 
+* devotee
 * devotee instructed by, **[[cc/madhya/8/265#translation|Madhya 8.265]]**
 * devotee understands, [[sb/3/29/34-34#purport|SB 3.29.34-34]]
-* devotees 
+* devotees, [[sb/4/29/50#purport|SB 4.29.50]]
+  * assisted & enlightened by, [[bg/10/10–11|Bg. 10.10–11]]
+  * directed by, [[bg/18/58|Bg. 18.58]]
 * devotees & nondevotees directed differently by, [[sb/7/5/12#purport|SB 7.5.12]]
 * devotees of Lord enlightened by, [[sb/1/2/21#purport|SB 1.2.21]]
 * devotional service pleases, [[sb/3/5/4#purport|SB 3.5.4]]
 * devours all, [[bg/13/17|Bg. 13.17]]
 * dictation from, [[sb/3/14/47#purport|SB 3.14.47]], [[sb/3/15/45#purport|SB 3.15.45]]
+* directed by, [[sb/4/30/20#purport|SB 4.30.20]], [[sb/4/22/37#purport|SB 4.22.37]], [[sb/4/29/50#purport|SB 4.29.50]], [[sb/4/29/62#purport|SB 4.29.62]], [[sb/5/18/37#purport|SB 5.18.37]]
 * direction by, 10, [[bg/18/63|Bg. 18.63]]
 * disturbed by unauthorized severe austerities & penances, [[bg/17/5|Bg. 17.5]]
 * Durgā &, [[cc/adi/5/27–28#purport|Ādi 5.27–28]]
@@ -127,13 +148,15 @@
 * everywhere, [[sb/3/28/42#purport|SB 3.28.42]], [[sb/3/29/20-23#purport|SB 3.29.20-23]]
 * faith in demigods steadied by, [[bg/7/21|Bg. 7.21]]
 * fate caused by, [[sb/3/6/3#purport|SB 3.6.3]]
+* fire in wood, [[sb/1/2/32#purport|SB 1.2.32]]
 * for all, [[sb/3/29/20-24#purport|SB 3.29.20-24]]
 * for animals also, [[sb/4/31/19#purport|SB 4.31.19]]
 * forgetfulness doesn’t affect, [[sb/4/28/63#purport|SB 4.28.63]]
 * form of, described, [[sb/3/28/13-33#purport|SB 3.28.13-33]]
 * function of, [[sb/7/3/31-31#purport|SB 7.3.31-31]]
 * functions of, [[bg/13/23|Bg. 13.23]]
-* helps living entity, 10 
+* helped by, [[sb/4/29/46#purport|SB 4.29.46]]
+* helps living entity, 10
 * impersonalists misunderstand, [[sb/3/29/34#purport|SB 3.29.34]], [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/62#purport|SB 4.28.62]]
 * in all bodies, [[sb/10/2/27#purport|SB 10.2.27]]
 * in atom, [[sb/1/12/9#purport|SB 1.12.9]]
@@ -143,8 +166,9 @@
 * incarnations of God come from, [[sb/1/3/2#purport|SB 1.3.2]]
 * included in Personality of Godhead, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/3/39#purport|SB 1.3.39]]
 * inspiration from, [[sb/4/30/20-20#purport|SB 4.30.20-20]]
+* inspired by, [[sb/4/30/20-20#purport|SB 4.30.20-20]]
 * instructions of, to Vaidarbhī, [[sb/4/28/52-64#purport|SB 4.28.52-64]]
-* instructs 
+* instructs
 * intelligence from, [[cc/adi/16/89#purport|Ādi 16.89]], [[cc/madhya/8/200#purport|Madhya 8.200]], [[sb/4/25/36#purport|SB 4.25.36]]
 * intelligence given by, [[sb/5/7/14#purport|SB 5.7.14]]
 * intelligence supplied by, [[sb/7/14/38#purport|SB 7.14.38]]
@@ -152,17 +176,29 @@
 * karma depends on, [[sb/4/29/60#purport|SB 4.29.60]]
 * kindness of, [[sb/1/2/33#purport|SB 1.2.33]]
 * knowledge about, importance of, [[bg/13/28–29|Bg. 13.28–29]]
+* knowledge develops to, [[sb/1/5/30#purport|SB 1.5.30]]
 * knowledge from, [[sb/4/30/20#purport|SB 4.30.20]]
 * knowledge of, [[sb/7/7/17#purport|SB 7.7.17]]
 * known via hearing process, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/2/32#purport|SB 1.2.32]]
 * knows everything, [[sb/3/24/45#purport|SB 3.24.45]]
-* Kṛṣṇa 
-* Kṛṣṇa as, [[sb/1/2/17#purport|SB 1.2.17]], [[sb/1/2/29#purport|SB 1.2.29]], [[sb/1/3/1#purport|SB 1.3.1]], [[sb/1/5/32#purport|SB 1.5.32]], [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/2/6-6#purport|SB 10.2.6-6]], [[sb/10/3/7-8#purport|SB 10.3.7-8]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/12/25#purport|SB 10.12.25]], [[sb/4/30/21#purport|SB 4.30.21]], [[sb/5/7/7#purport|SB 5.7.7]]
+* Kṛṣṇa
+  * as one with, [[bg/6/31|Bg. 6.31]]
+  * as, [[bg/7/21|Bg. 7.21]], [[bg/8/4|Bg. 8.4]], [[bg/9/11|Bg. 9.11]] (7), [[bg/10/20|Bg. 10.20]], [[bg/10/42|Bg. 10.42]], [[bg/13/3|Bg. 13.3]], [[bg/14/27|Bg. 14.27]], [[bg/15/15|Bg. 15.15]], [[bg/18/61|Bg. 18.61]]
+  * fountainhead of, [[bg/2/20|Bg. 2.20]]
+  * superior to, [[bg/7/15|Bg. 7.15]] (12)
+* Kṛṣṇa as, [[sb/1/2/17#purport|SB 1.2.17]], [[sb/1/2/29#purport|SB 1.2.29]], [[sb/1/3/1#purport|SB 1.3.1]], [[sb/1/5/32#purport|SB 1.5.32]], [[sb/4/30/21#purport|SB 4.30.21]], [[sb/5/7/7#purport|SB 5.7.7]], [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/1/5-7#purport|SB 10.1.5-7]], [[sb/10/2/6-6#purport|SB 10.2.6-6]], [[sb/10/3/7-8#purport|SB 10.3.7-8]], [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/12/25#purport|SB 10.12.25]]
 * Kṛṣṇa beyond, [[sb/3/13/13#purport|SB 3.13.13]]
 * Kṛṣṇa source of, **[[cc/adi/2/5#translation|Ādi 2.5]]**, [[cc/adi/17/76#purport|Ādi 17.76]]
 * Kṣīrodakaśāyī Viṣṇu as, [[sb/1/8/34#purport|SB 1.8.34]]
 * Kumāras realize, [[sb/5/24/21#purport|SB 5.24.21]]
-* living entities , 
+* living entities
+  * & body and, [[bg/13/1–7|Bg. 13.1–7]]
+  * accompanied by, [[bg/13/21|Bg. 13.21]], [[bg/13/23|Bg. 13.23]], [[bg/13/28–29|Bg. 13.28–29]]
+  * compared with, [[bg/2/13|Bg. 2.13]]
+  * controlled by, [[bg/18/61|Bg. 18.61]]
+  * known by, [[bg/7/26|Bg. 7.26]]
+  * maintained by, [[bg/2/12|Bg. 2.12]], [[bg/6/29|Bg. 6.29]], [[bg/10/42|Bg. 10.42]], [[bg/13/15|Bg. 13.15]], [[bg/13/17|Bg. 13.17]], [[bg/15/17|Bg. 15.17]]
+  * supported by, [[bg/10/42|Bg. 10.42]]
 * living entities controlled by, [[cc/adi/2/5#purport|Ādi 2.5]]
 * living entity compared with, [[sb/7/7/22#purport|SB 7.7.22]], [[sb/7/7/24#purport|SB 7.7.24]], [[sb/7/7/25#purport|SB 7.7.25]], [[sb/7/7/32#purport|SB 7.7.32]], [[sb/7/14/38#purport|SB 7.14.38]]
 * Lord as, [[sb/1/9/21#purport|SB 1.9.21]], [[sb/1/9/42#purport|SB 1.9.42]], [[sb/1/12/9#purport|SB 1.12.9]], [[sb/1/12/11#purport|SB 1.12.11]], [[sb/1/13/27#purport|SB 1.13.27]], [[sb/1/13/43#purport|SB 1.13.43]], [[sb/1/13/48#purport|SB 1.13.48]], [[sb/1/15/6#purport|SB 1.15.6]], [[sb/1/15/15#purport|SB 1.15.15]], [[sb/1/17/20#purport|SB 1.17.20]], [[sb/1/17/34#purport|SB 1.17.34]], [[sb/3/20/12#purport|SB 3.20.12]], [[sb/3/20/17#purport|SB 3.20.17]], [[sb/3/20/28#purport|SB 3.20.28]], [[sb/3/21/12#purport|SB 3.21.12]], [[sb/3/21/23#purport|SB 3.21.23]], [[sb/3/22/4#purport|SB 3.22.4]], [[sb/3/24/45#purport|SB 3.24.45]], [[sb/3/24/46#purport|SB 3.24.46]], [[sb/4/21/27#purport|SB 4.21.27]], [[sb/4/21/35#purport|SB 4.21.35]], [[sb/4/21/36#purport|SB 4.21.36]], [[sb/4/22/38#purport|SB 4.22.38]], [[sb/4/22/41#purport|SB 4.22.41]], [[sb/4/24/33-33#purport|SB 4.24.33-33]], [[sb/4/24/64#purport|SB 4.24.64]], [[sb/5/1/11#purport|SB 5.1.11]], [[sb/5/1/13#purport|SB 5.1.13]], [[sb/5/1/27#purport|SB 5.1.27]], [[sb/5/11/13-14#purport|SB 5.11.13-14]], [[sb/5/14/45#purport|SB 5.14.45]], [[sb/5/18/26#purport|SB 5.18.26]], [[sb/5/18/30#purport|SB 5.18.30]], [[sb/5/18/36#purport|SB 5.18.36]], [[sb/5/20/5#purport|SB 5.20.5]], [[sb/5/20/28#purport|SB 5.20.28]], [[sb/5/20/40#purport|SB 5.20.40]], [[sb/5/23/3#purport|SB 5.23.3]], [[sb/5/24/19#purport|SB 5.24.19]], [[sb/5/24/21#purport|SB 5.24.21]], [[sb/7/3/33#purport|SB 7.3.33]], [[sb/7/4/22-23#purport|SB 7.4.22-23]], [[sb/7/6/2#purport|SB 7.6.2]], [[sb/7/6/19#purport|SB 7.6.19]], [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/7/25#purport|SB 7.7.25]], [[sb/7/7/32#purport|SB 7.7.32]], [[sb/7/7/38#purport|SB 7.7.38]], [[sb/7/7/42#purport|SB 7.7.42]], [[sb/7/7/48#purport|SB 7.7.48]], [[sb/7/7/49#purport|SB 7.7.49]], [[sb/7/7/53#purport|SB 7.7.53]], [[sb/7/9/20#purport|SB 7.9.20]], [[sb/7/10/12#purport|SB 7.10.12]], [[sb/7/13/30#purport|SB 7.13.30]], [[sb/7/13/42#purport|SB 7.13.42]], [[sb/7/14/37#purport|SB 7.14.37]], [[sb/7/14/38#purport|SB 7.14.38]]
@@ -171,6 +207,7 @@
 * material body controlled by, [[sb/7/1/10-10#purport|SB 7.1.10-10]]
 * material desires fulfilled by, [[sb/5/7/14#purport|SB 5.7.14]]
 * matter merged in, [[sb/7/12/29-30#purport|SB 7.12.29-30]]
+* meditate upon, [[sb/5/7/7#purport|SB 5.7.7]]
 * meditation on, [[bg/6/13|Bg. 6.13]], [[bg/6/31|Bg. 6.31]], [[sb/1/6/15#purport|SB 1.6.15]], [[sb/1/6/19#purport|SB 1.6.19]], [[sb/3/20/52#purport|SB 3.20.52]], [[sb/3/26/72#purport|SB 3.26.72]], [[sb/3/28/12#purport|SB 3.28.12]], [[sb/7/7/37#purport|SB 7.7.37]], [[sb/7/7/38#purport|SB 7.7.38]], [[sb/7/13/44#purport|SB 7.13.44]]
 * mercy of, [[bg/13/21|Bg. 13.21]], [[bg/13/23|Bg. 13.23]], [[sb/3/26/18#purport|SB 3.26.18]], [[sb/3/31/18-18#purport|SB 3.31.18-18]], [[sb/4/28/53#purport|SB 4.28.53]]
 * mystic yogīs misunderstand, [[sb/3/6/8#purport|SB 3.6.8]]
@@ -180,18 +217,23 @@
 * obedience to, [[bg/6/6|Bg. 6.6]], [[bg/6/7|Bg. 6.7]], [[bg/18/62|Bg. 18.62]]
 * of every living entity, [[bg/13/28–29|Bg. 13.28–29]]
 * Parīkṣit saved by, [[sb/1/8/14#purport|SB 1.8.14]]
+* part & parcel of, [[sb/5/18/13#purport|SB 5.18.13]]
 * perception of, three means for, [[bg/13/25|Bg. 13.25]]
 * pervasiveness of, [[cc/adi/1/55#purport|Ādi 1.55]], [[cc/adi/2/5#purport|Ādi 2.5]]
 * philosophy about, [[sb/3/26/18-18#purport|SB 3.26.18-18]]
 * Prahlāda compared to, [[sb/7/4/31-32#purport|SB 7.4.31-32]], [[sb/7/4/31-32#purport|SB 7.4.31-32]]
 * prowess given by, [[sb/7/2/46#purport|SB 7.2.46]]
 * pure devotee realizes, [[cc/adi/1/61#purport|Ādi 1.61]]
+* pure devotees directly, [[sb/4/28/41#purport|SB 4.28.41]]
 * puruṣa-avatāras as, **[[cc/adi/2/50#translation|Ādi 2.50]]**, [[cc/adi/2/52#purport|Ādi 2.52]]
 * realiātion of, [[sb/4/28/40#purport|SB 4.28.40]], [[sb/4/28/42#purport|SB 4.28.42]], [[sb/7/4/40#purport|SB 7.4.40]]
-* realization about 
-* realization about, 12, [[bg/6/29–30|Bg. 6.29–30]], [[bg/6/31|Bg. 6.31]], [[bg/10/15|Bg. 10.15]], [[bg/18/78|Bg. 18.78]] (5–6)
 * realization about, [[sb/3/21/12#purport|SB 3.21.12]], [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/25/29#purport|SB 3.25.29]], [[sb/3/32/26-26#purport|SB 3.32.26-26]], [[sb/3/33/30#purport|SB 3.33.30]]
+* realization about, 12, [[bg/6/29–30|Bg. 6.29–30]], [[bg/6/31|Bg. 6.31]], [[bg/10/15|Bg. 10.15]], [[bg/18/78|Bg. 18.78]] (5–6)
+  * as partial Kṛṣṇa consciousness, [[bg/6/10|Bg. 6.10]]
+  * requirements for, [[bg/12/3|Bg. 12.3]]
+  * via renunciation, [[bg/12/3|Bg. 12.3]]
 * realization of, [[cc/adi/1/55#purport|Ādi 1.55]], [[cc/adi/2/5#purport|Ādi 2.5]]
+* realize, [[sb/5/12/11#purport|SB 5.12.11]]
 * relationships via, [[sb/1/8/42#purport|SB 1.8.42]]
 * religious principles reveal, [[sb/7/10/45#purport|SB 7.10.45]]
 * remembrance of past desires via, [[bg/18/61|Bg. 18.61]]
@@ -201,37 +243,48 @@
 * return to Godhead aided by, [[bg/13/18|Bg. 13.18]]
 * Sandarbhas describe, [[cc/madhya/1/43#purport|Madhya 1.43]]
 * śānta-rasa &, [[cc/madhya/19/183–84#purport|Madhya 19.183–84]], **[[cc/madhya/19/218#translation|Madhya 19.218]]**
+* see, [[sb/5/18/37#purport|SB 5.18.37]]
 * seen in heart of all, [[bg/6/29–30|Bg. 6.29–30]]
 * sinful actions not impelled by, [[bg/3/36|Bg. 3.36]]
 * size of, [[bg/8/9|Bg. 8.9]], [[sb/1/12/8#purport|SB 1.12.8]], [[sb/1/12/8-9#purport|SB 1.12.8-9]]
-* soul 
+* soul
 * soul & body and, relationship between, [[bg/13/1–7|Bg. 13.1–7]]
-* *See:* [[l#Living entities|Living entities]]; Supersoul & 
 * soul as part of, [[sb/10/9/21#purport|SB 10.9.21]]
-* soul compared with, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/7/7/22#purport|SB 7.7.22]], [[sb/7/7/24#purport|SB 7.7.24]], [[sb/7/7/25#purport|SB 7.7.25]], [[sb/7/7/32#purport|SB 7.7.32]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/7/14/38#purport|SB 7.14.38]]
+* soul compared with, [[sb/7/7/22#purport|SB 7.7.22]], [[sb/7/7/24#purport|SB 7.7.24]], [[sb/7/7/25#purport|SB 7.7.25]], [[sb/7/7/32#purport|SB 7.7.32]], [[sb/7/13/44#purport|SB 7.13.44]], [[sb/7/14/38#purport|SB 7.14.38]], [[sb/10/2/27#purport|SB 10.2.27]]
 * soul contrasted to, [[sb/3/15/45#purport|SB 3.15.45]]
 * soul’s desires &, [[cc/adi/2/19#purport|Ādi 2.19]]
+* Śrīmad-Bhāgavatam surpasses, [[sb/1/1/2#purport|SB 1.1.2]]
+* subordinate to, [[sb/4/22/38#purport|SB 4.22.38]]
 * subtle body guided by, [[sb/4/29/62#purport|SB 4.29.62]]
 * surrender to, [[bg/18/62|Bg. 18.62]], [[bg/18/63|Bg. 18.63]]
+* swan, [[sb/4/28/64-64#purport|SB 4.28.64-64]]
+* to bird, [[sb/3/26/18#purport|SB 3.26.18]]
+* to sun, [[sb/3/22/4#purport|SB 3.22.4]]
 * transmigration of soul guided by, [[sb/4/25/10#purport|SB 4.25.10]], [[sb/4/29/60#purport|SB 4.29.60]], [[sb/4/29/62#purport|SB 4.29.62]]
 * transmigration via, [[bg/2/22|Bg. 2.22]]
+* tries to see, [[sb/5/20/28#purport|SB 5.20.28]]
 * universal form entered by, [[sb/3/8/15#purport|SB 3.8.15]]
 * universe entered by, [[sb/5/7/14#purport|SB 5.7.14]]
+* Vedas explain, [[bg/15/18|Bg. 15.18]]
 * Viṣṇu as, [[bg/6/31|Bg. 6.31]], [[sb/5/20/5#purport|SB 5.20.5]]
 * Viṣṇu form for, [[bg/9/8|Bg. 9.8]]
 * wakens living entity, [[sb/3/26/71#purport|SB 3.26.71]]
 * wise guided by, [[sb/7/3/30#purport|SB 7.3.30]]
 * with Brahman & Bhagavān, [[bg/2/2|Bg. 2.2]] (1–2)
+* with soul, [[sb/3/22/4#purport|SB 3.22.4]], [[sb/3/24/45#purport|SB 3.24.45]], [[sb/3/28/43#purport|SB 3.28.43]], [[sb/3/29/20#purport|SB 3.29.20]], [[sb/3/29/27#purport|SB 3.29.27]], [[sb/3/29/34#purport|SB 3.29.34]], [[sb/3/31/13-13#purport|SB 3.31.13-13]], [[sb/3/32/29#purport|SB 3.32.29]]
 * within everyone, [[bg/18/46|Bg. 18.46]], [[bg/18/61|Bg. 18.61]]
 * within everything & everyone, [[bg/15/13|Bg. 15.13]]
 * worship of, [[sb/7/7/37#purport|SB 7.7.37]]
-* worshipers of, 23 
+* worshipers of, 23
 * worshipful service to, [[bg/6/31|Bg. 6.31]]
 * Yadus saw Kṛṣṇa as, [[sb/3/2/9#purport|SB 3.2.9]]
 * yoga meditation seeks, [[sb/3/15/45#purport|SB 3.15.45]]
+* yoga of meeting, [[bg/6/7|Bg. 6.7]]
 * yoga practice &, **[[cc/adi/2/26#translation|Ādi 2.26]]**, **[[cc/madhya/9/123#translation|Madhya 9.123]]**
 * yogic meditation on, [[bg/8/12|Bg. 8.12]]
-* yogīs 
+* yogīs
 * yogīs seek, [[sb/10/9/9#purport|SB 10.9.9]]
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; [[k#Kṣīrodakaśāyī Viṣṇu|Kṣīrodakaśāyī Viṣṇu]]; [[p#Puruṣa-avatāras|Puruṣa-avatāras]]
+*See also:* Kṛṣṇa; Supreme Lord; Kṣīrodakaśāyī Viṣṇu; Puruṣa-avatāras
+
+*See:* Living entities; Supersoul &

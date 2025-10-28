@@ -1,4 +1,4 @@
-# Jewel(s)
+# Jewels
 
 * compared to education, [[sb/9/4/70#purport|SB 9.4.70]]
 * fourteen kinds of, [[sb/9/23/30-31#purport|SB 9.23.30-31]]
@@ -6,4 +6,4 @@
 * in Uttānapāda’s palace, [[sb/4/9/60#purport|SB 4.9.60]], [[sb/4/9/62#purport|SB 4.9.62]]
 * oceans produce, [[sb/4/19/9#purport|SB 4.19.9]]
 
-*See also:* [[g#Gold|Gold]]; [[m#Money|Money]]; [[o#Opulence|Opulence]]
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md)

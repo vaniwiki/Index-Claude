@@ -1,5 +1,7 @@
 # Bull(s)
 
+**[[cc/adi/17/153–54#translation|Ādi 17.153–54]]**
+
 * as offenseless, [[sb/1/17/13#purport|SB 1.17.13]]
 * as religion personified, [[sb/1/16/18#purport|SB 1.16.18]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/1/16/25#purport|SB 1.16.25]], [[sb/1/17/2#purport|SB 1.17.2]], [[sb/1/17/22#purport|SB 1.17.22]]
 * importance of, [[sb/1/16/18#purport|SB 1.16.18]]

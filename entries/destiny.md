@@ -17,6 +17,6 @@
 * stars indicate, [[sb/1/12/12#purport|SB 1.12.12]]
 * via modes of nature, [[sb/3/22/36#purport|SB 3.22.36]]
 
-*See also:* [[f#Future|Future]]; [[k#Karma|Karma]]; [[p#Providence|Providence]]; Transmigrations of soul
+*See also:* [Future](entries/future.md); [Karma](entries/karma.md); [Providence](entries/providence.md); Transmigrations of soul
 
-*See:* [[f#Fate|Fate]]; [[k#Karma|Karma]]; [[s#Supreme Lord|Supreme Lord]]; will of; [[g#Godhead|Godhead]]; returning to; Transmigrations of soul
+*See:* [Godhead](entries/godhead.md); returning to; [Karma](entries/karma.md); Transmigrations of soul; Fate; Supreme Lord; will of

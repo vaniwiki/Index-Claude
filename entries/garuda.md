@@ -1,6 +1,6 @@
 # Garuḍa
 
-[[cc/adi/10/49#purport|Ādi 10.49]], [[cc/antya/14/25#purport|Antya 14.25]], [[cc/madhya/17/86#purport|Madhya 17.86]], [[sb/2/7/15-16#purport|SB 2.7.15-16]], [[sb/7/4/5-7#purport|SB 7.4.5-7]]
+[[bg/6/24|Bg. 6.24]], [[bg/10/30|Bg. 10.30]], [[bg/12/6|Bg. 12.6]] (4), [[cc/adi/10/49#purport|Ādi 10.49]], [[cc/madhya/17/86#purport|Madhya 17.86]], [[cc/antya/14/25#purport|Antya 14.25]], [[sb/2/7/15-16#purport|SB 2.7.15-16]], [[sb/3/1/39#purport|SB 3.1.39]], [[sb/3/2/24#purport|SB 3.2.24]], [[sb/3/3/3#purport|SB 3.3.3]], [[sb/3/28/24#purport|SB 3.28.24]], [[sb/3/33/37#purport|SB 3.33.37]], [[sb/4/1/24-24#purport|SB 4.1.24-24]], [[sb/4/7/19#purport|SB 4.7.19]], [[sb/4/9/1#purport|SB 4.9.1]], [[sb/4/9/26#purport|SB 4.9.26]], [[sb/4/20/22-22#purport|SB 4.20.22-22]], [[sb/4/30/5#purport|SB 4.30.5]], [[sb/4/30/6#purport|SB 4.30.6]], [[sb/6/4/35-39#purport|SB 6.4.35-39]], [[sb/6/6/21-22#purport|SB 6.6.21-22]], [[sb/6/8/12#purport|SB 6.8.12]], [[sb/7/4/5-7#purport|SB 7.4.5-7]]
 
 * as bird king, [[sb/1/18/16#purport|SB 1.18.16]], [[sb/8/6/39-39#purport|SB 8.6.39-39]]
 * as Brahman incarnation, [[sb/4/15/4#purport|SB 4.15.4]]
@@ -11,7 +11,6 @@
 * as snake-eater, [[sb/8/6/39#purport|SB 8.6.39]]
 * as Vāsukī’s natural enemy, [[sb/8/6/39#purport|SB 8.6.39]]
 * Bali arrested by, [[sb/8/21/26#purport|SB 8.21.26]]
-*  [[bg/6/24|Bg. 6.24]], [[bg/10/30|Bg. 10.30]], [[bg/12/6|Bg. 12.6]] (4), [[sb/3/1/39#purport|SB 3.1.39]], [[sb/3/2/24#purport|SB 3.2.24]], [[sb/3/3/3#purport|SB 3.3.3]], [[sb/3/28/24#purport|SB 3.28.24]], [[sb/3/33/37#purport|SB 3.33.37]], [[sb/4/1/24-24#purport|SB 4.1.24-24]], [[sb/4/7/19#purport|SB 4.7.19]], [[sb/4/9/1#purport|SB 4.9.1]], [[sb/4/9/26#purport|SB 4.9.26]], [[sb/4/20/22-22#purport|SB 4.20.22-22]], [[sb/4/30/5#purport|SB 4.30.5]], [[sb/4/30/6#purport|SB 4.30.6]], [[sb/6/4/35-39#purport|SB 6.4.35-39]], [[sb/6/6/21-22#purport|SB 6.6.21-22]], [[sb/6/8/12#purport|SB 6.8.12]]
 * carnivorous descendants of, [[sb/4/18/23-24#purport|SB 4.18.23-24]]
 * in calf form, [[sb/4/18/23-24#purport|SB 4.18.23-24]]
 * Indra vs., [[sb/3/19/14-14#purport|SB 3.19.14-14]]

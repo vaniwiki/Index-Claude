@@ -17,6 +17,6 @@
 * real & false, [[sb/2/9/34#purport|SB 2.9.34]]
 * via faith in Lord’s mercy, [[sb/1/18/22#purport|SB 1.18.22]]
 
-*See also:* [[f#Freedom|Freedom]]; [[l#Liberation|Liberation]]
+*See also:* [Freedom](entries/freedom.md); [Liberation](entries/liberation.md)
 
-*See:* [[f#Freedom|Freedom]]; [[l#Liberation|Liberation]]
+*See:* [Freedom](entries/freedom.md); [Liberation](entries/liberation.md)

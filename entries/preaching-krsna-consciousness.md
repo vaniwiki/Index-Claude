@@ -1,6 +1,6 @@
 # Preaching Kṛṣṇa consciousness
 
-[[sb/10/10/17#purport|SB 10.10.17]]
+[[bg/3/13|Bg. 3.13]], [[bg/6/32|Bg. 6.32]], [[bg/9/2|Bg. 9.2]] (6), [[bg/11/55|Bg. 11.55]] (5), [[bg/15/10|Bg. 15.10]], [[sb/10/10/17#purport|SB 10.10.17]]
 
 * *Bhagavad-gītā *&, [[bg/18/68–69|Bg. 18.68–69]], [[bg/18/71|Bg. 18.71]]
 * as austerity, [[sb/9/4/26#purport|SB 9.4.26]]
@@ -28,9 +28,8 @@
 * benefit of, [[sb/8/7/44#purport|SB 8.7.44]]
 * benefits of, [[bg/18/68|Bg. 18.68]]
 * beyond mundane missionary work, [[sb/3/5/11#purport|SB 3.5.11]]
-*  [[bg/3/13|Bg. 3.13]], [[bg/6/32|Bg. 6.32]], [[bg/9/2|Bg. 9.2]] (6), [[bg/11/55|Bg. 11.55]] (5), [[bg/15/10|Bg. 15.10]]
 * bhāgavata-vidhi includes, [[sb/4/27/24#purport|SB 4.27.24]]
-* by *sannyāsīs,* 4.1 (1), [[bg/10/4|Bg. 10.4]] (9), [[bg/16/1|Bg. 16.1]] (6)
+* by *sannyāsīs,*, 4.1 (1), [[bg/10/4|Bg. 10.4]] (9), [[bg/16/1|Bg. 16.1]] (6)
 * by advanced devotees, [[sb/4/28/30#purport|SB 4.28.30]]
 * by Bhaktisiddhānta & disciples, [[sb/4/28/31#purport|SB 4.28.31]]
 * by Caitanya, [[bg/7/15|Bg. 7.15]] (4), [[bg/18/54|Bg. 18.54]]
@@ -88,4 +87,4 @@
 * wealth used to assist, [[bg/12/10|Bg. 12.10]]
 * with compassion, [[sb/3/27/8#purport|SB 3.27.8]]
 
-*See also:* [[g#Glorification of Supreme Lord|Glorification of Supreme Lord]]; [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]; [[p#Preachers|Preachers]]
+*See also:* Glorification of Supreme Lord; Kṛṣṇa consciousness movement; Saṅkīrtana-yajña; Preachers

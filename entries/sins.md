@@ -1,6 +1,6 @@
 # Sin(s)
 
-[[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/8/31#purport|Ādi 8.31]], [[cc/antya/3/126#purport|Antya 3.126]], [[cc/antya/3/137#purport|Antya 3.137]], **[[cc/antya/3/177#translation|Antya 3.177]]**, **[[cc/antya/3/180–81#translation|Antya 3.180–81]]**, **[[cc/antya/3/185#translation|Antya 3.185]]**, **[[cc/antya/3/60–63#translation|Antya 3.60–63]]**, [[cc/antya/9/148#purport|Antya 9.148]], [[cc/madhya/11/117#purport|Madhya 11.117]], **[[cc/madhya/15/107#translation|Madhya 15.107]]**, **[[cc/madhya/15/110#translation|Madhya 15.110]]**, **[[cc/madhya/15/162–63#translation|Madhya 15.162–63]]**, [[cc/madhya/16/189#purport|Madhya 16.189]], **[[cc/madhya/18/205#translation|Madhya 18.205]]**, **[[cc/madhya/24/217#translation|Madhya 24.217]]**, **[[cc/madhya/24/249#translation|Madhya 24.249]]**, [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/24/253#purport|Madhya 24.253]], [[cc/madhya/24/254#purport|Madhya 24.254]], [[cc/madhya/24/258#purport|Madhya 24.258]], [[cc/madhya/24/60#purport|Madhya 24.60]], **[[cc/madhya/25/198–200#translation|Madhya 25.198–200]]**, [[cc/madhya/9/263#purport|Madhya 9.263]], [[cc/madhya/9/265#purport|Madhya 9.265]]
+[[cc/adi/8/31#purport|Ādi 8.31]], [[cc/adi/12/73#purport|Ādi 12.73]], **[[cc/madhya/15/107#translation|Madhya 15.107]]**, **[[cc/madhya/15/110#translation|Madhya 15.110]]**, [[cc/madhya/16/189#purport|Madhya 16.189]], **[[cc/madhya/18/205#translation|Madhya 18.205]]**, **[[cc/madhya/25/198–200#translation|Madhya 25.198–200]]**, **[[cc/antya/3/60–63#translation|Antya 3.60–63]]**, **[[cc/antya/3/177#translation|Antya 3.177]]**, **[[cc/antya/3/180–81#translation|Antya 3.180–81]]**, **[[cc/antya/3/185#translation|Antya 3.185]]**, **[[cc/madhya/24/217#translation|Madhya 24.217]]**, [[cc/antya/3/126#purport|Antya 3.126]], [[cc/madhya/9/263#purport|Madhya 9.263]], [[cc/madhya/9/265#purport|Madhya 9.265]], [[cc/madhya/11/117#purport|Madhya 11.117]], **[[cc/madhya/24/249#translation|Madhya 24.249]]**, [[cc/antya/9/148#purport|Antya 9.148]], [[cc/madhya/24/258#purport|Madhya 24.258]], [[cc/madhya/24/60#purport|Madhya 24.60]], [[cc/madhya/24/252#purport|Madhya 24.252]], [[cc/madhya/24/253#purport|Madhya 24.253]], [[cc/madhya/24/254#purport|Madhya 24.254]], [[cc/antya/3/137#purport|Antya 3.137]], **[[cc/madhya/15/162–63#translation|Madhya 15.162–63]]**
 
 * accidental, [[cc/antya/9/65#purport|Antya 9.65]]
 * activities in, four listed, [[sb/8/19/41#purport|SB 8.19.41]]
@@ -14,7 +14,6 @@
 * as sense gratification’s result, [[sb/8/19/21#purport|SB 8.19.21]]
 * atonement &, [[cc/madhya/24/253#purport|Madhya 24.253]]
 * atonement for, [[sb/1/19/2#purport|SB 1.19.2]]
-* atonement for. See: Atonement 
 * body caused via, [[sb/7/13/26#purport|SB 7.13.26]]
 * by devotees, **[[cc/madhya/15/169#translation|Madhya 15.169]]**, **[[cc/madhya/22/143–44#translation|Madhya 22.143–44]]**
 * by ghosts, [[sb/3/14/24#purport|SB 3.14.24]]
@@ -130,4 +129,4 @@
 * worst type of, [[sb/3/12/33#purport|SB 3.12.33]]
 * Yudhiṣṭhira feared, [[sb/1/12/34#purport|SB 1.12.34]]
 
-*See also:* [[o#Offenses|Offenses]]; [[s#Sinful activities|Sinful activities]]; specific sins
+*See also:* Offenses; Sinful activities; specific sins

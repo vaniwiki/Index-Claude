@@ -1,8 +1,8 @@
 # Bengali devotees
 
-**[[cc/antya/1/214#translation|Antya 1.214]]**, **[[cc/antya/10/3–4#translation|Antya 10.3–4]]**, **[[cc/antya/10/41–46#translation|Antya 10.41–46]]**, **[[cc/antya/10/9–12#translation|Antya 10.9–12]]**, **[[cc/antya/12/41–43#translation|Antya 12.41–43]]**, **[[cc/antya/12/7–14#translation|Antya 12.7–14]]**, **[[cc/antya/6/242#translation|Antya 6.242]]**, [[cc/madhya/11/105–11#purport|Madhya 11.105–11]], **[[cc/madhya/11/119–21#translation|Madhya 11.119–21]]**, [[cc/madhya/11/119–23#purport|Madhya 11.119–23]], [[cc/madhya/11/133#purport|Madhya 11.133]], **[[cc/madhya/11/171–73#translation|Madhya 11.171–73]]**, **[[cc/madhya/11/180–84#translation|Madhya 11.180–84]]**, [[cc/madhya/11/83–93#purport|Madhya 11.83–93]]
+**[[cc/madhya/11/119–21#translation|Madhya 11.119–21]]**, **[[cc/madhya/11/171–73#translation|Madhya 11.171–73]]**, **[[cc/madhya/11/180–84#translation|Madhya 11.180–84]]**, **[[cc/antya/6/242#translation|Antya 6.242]]**, **[[cc/antya/10/41–46#translation|Antya 10.41–46]]**, **[[cc/antya/12/41–43#translation|Antya 12.41–43]]**, [[cc/madhya/11/83–93#purport|Madhya 11.83–93]], [[cc/madhya/11/133#purport|Madhya 11.133]], **[[cc/antya/10/3–4#translation|Antya 10.3–4]]**, **[[cc/antya/10/9–12#translation|Antya 10.9–12]]**, **[[cc/antya/12/7–14#translation|Antya 12.7–14]]**, [[cc/madhya/11/105–11#purport|Madhya 11.105–11]], [[cc/madhya/11/119–23#purport|Madhya 11.119–23]], **[[cc/antya/1/214#translation|Antya 1.214]]**
 
-* arrival in Purī by 2.1.124–26 translation, **[[cc/madhya/1/131#translation|Madhya 1.131]]**, **[[cc/madhya/1/138–392/11/69#translation|Madhya 1.138–392.11.69]]**
+* arrival in Purī by, 2.1.124–26 translation, **[[cc/madhya/1/131#translation|Madhya 1.131]]**, **[[cc/madhya/1/138–392/11/69#translation|Madhya 1.138–392.11.69]]**
 * at Remuṇā, **[[cc/madhya/16/28–34#translation|Madhya 16.28–34]]**
 * bathing in sea by, [[cc/madhya/11/197–98#purport|Madhya 11.197–98]]
 * Brahma-saṁhitā & Kṛṣṇa-karṇāmṛta &, **[[cc/madhya/11/143#translation|Madhya 11.143]]**

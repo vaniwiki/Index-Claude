@@ -17,8 +17,10 @@
 * liberation via, [[sb/5/19/13#purport|SB 5.19.13]]
 * material opulence &, [[sb/5/24/22#purport|SB 5.24.22]]
 * Nābhi’s priests pray for, [[sb/5/3/12#purport|SB 5.3.12]]
-* purification 
+* necessary for, [[sb/5/1/38#purport|SB 5.1.38]]
+* purification
 * renunciation &, [[sb/5/1/38#purport|SB 5.1.38]]
 * sins eradicated via, [[sb/5/3/12#purport|SB 5.3.12]]
 * transcendence via, [[sb/5/1/23#purport|SB 5.1.23]]
 * via chanting Hare Kṛṣṇa mantra, [[sb/5/1/6#purport|SB 5.1.6]]
+* via, [[sb/5/1/35#purport|SB 5.1.35]], [[sb/5/18/9#purport|SB 5.18.9]]

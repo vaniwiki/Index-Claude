@@ -2,7 +2,10 @@
 
 [[cc/adi/13/1#purport|Ādi 13.1]]
 
-* Caitanya-caritāmṛta quoted , , 
+* association with, [[sb/5/3/14#purport|SB 5.3.14]], [[sb/5/5/2#purport|SB 5.5.2]], [[sb/5/14/38#purport|SB 5.14.38]]
+* Caitanya-caritāmṛta quoted
+* desires of pure, [[sb/5/5/25#purport|SB 5.5.25]], [[sb/5/14/10#purport|SB 5.14.10]]
+* material influences on, [[sb/5/1/19#purport|SB 5.1.19]]
 * on Acyutānanda, [[cc/adi/12/17#purport|Ādi 12.17]]
 * on Ananta Śeṣa, [[sb/5/17/21#purport|SB 5.17.21]]
 * on associating with saintly person, [[sb/3/23/54#purport|SB 3.23.54]]
@@ -17,13 +20,13 @@
 * on devotee’s activities, [[cc/madhya/15/120#purport|Madhya 15.120]]
 * on devotee’s dedication, [[cc/madhya/15/154#purport|Madhya 15.154]]
 * on devotee’s relationship with Kṛṣṇa, [[sb/7/10/40#purport|SB 7.10.40]]
-* on devotees 
+* on devotees
 * on devotional service in opulence or love, [[sb/10/3/31#purport|SB 10.3.31]]
 * on devotional service, attainment of, [[sb/5/5/6#purport|SB 5.5.6]]
 * on gopīs, [[sb/5/18/23#purport|SB 5.18.23]]
 * on guru, [[sb/8/16/23#purport|SB 8.16.23]]
 * on Kali-yuga, incarnation for, [[sb/5/18/35#purport|SB 5.18.35]]
-* on Kṛṣṇa & Viṣṇu, N102 
+* on Kṛṣṇa & Viṣṇu, N102
 * on Kṛṣṇa as master, [[sb/5/4/17#purport|SB 5.4.17]], [[sb/5/10/11#purport|SB 5.10.11]], [[sb/5/18/19#purport|SB 5.18.19]]
 * on Kṛṣṇa conscious person as beyond rituals, [[sb/3/20/43#purport|SB 3.20.43]]
 * on Kṛṣṇa conscious song, [[sb/8/5/25#purport|SB 8.5.25]]
@@ -39,5 +42,7 @@
 * on Rāḍhārāṇī, [[sb/2/6/36#purport|SB 2.6.36]]
 * on saṅkīrtana, [[sb/5/19/24#purport|SB 5.19.24]]
 * on Vedic literatures, [[sb/2/3/1#purport|SB 2.3.1]]
+* purification of material desires by, [[sb/5/19/27#purport|SB 5.19.27]]
+* qualities of, [[sb/5/18/12#purport|SB 5.18.12]]
 
-*See also:* [[c#Caitanya-caritāmṛta quoted|Caitanya-caritāmṛta quoted]]
+*See also:* Caitanya-caritāmṛta quoted

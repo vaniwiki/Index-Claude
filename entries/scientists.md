@@ -1,5 +1,7 @@
 # Scientist(s)
 
+[[sb/1/8/19#purport|SB 1.8.19]], [[sb/1/12/5#purport|SB 1.12.5]]
+
 * ”ifs” & ”maybes” by, [[sb/2/7/43-45#purport|SB 2.7.43-45]]
 * ”playful” discoveries of, [[sb/2/6/37#purport|SB 2.6.37]]
 * abortion rationalized by, [[sb/7/2/37#purport|SB 7.2.37]]
@@ -31,11 +33,14 @@
 * illusion &, [[sb/2/9/34#purport|SB 2.9.34]]
 * imitate & ignore Lord, [[sb/6/5/15#purport|SB 6.5.15]]
 * in māyā, [[sb/7/14/16#purport|SB 7.14.16]]
-* knowledge by 
+* knowledge by
+  * about material nature, [[bg/11/33|Bg. 11.33]]
+  * about soul, [[bg/2/17|Bg. 2.17]], [[bg/2/22|Bg. 2.22]]
+  * about universe, [[bg/11/7|Bg. 11.7]]
 * Kṛṣṇa challenged by, [[sb/10/13/44#purport|SB 10.13.44]]
 * lawmaker forgotten by, [[sb/2/10/10#purport|SB 2.10.10]], [[sb/2/10/22#purport|SB 2.10.22]]
 * life as chemicals to, [[sb/7/7/18#purport|SB 7.7.18]]
-* life misunderstood by, [[sb/10/2/24#purport|SB 10.2.24]], [[sb/10/3/18#purport|SB 10.3.18]], [[sb/7/13/29#purport|SB 7.13.29]]
+* life misunderstood by, [[sb/7/13/29#purport|SB 7.13.29]], [[sb/10/2/24#purport|SB 10.2.24]], [[sb/10/3/18#purport|SB 10.3.18]]
 * life on planets, theory on, [[sb/7/4/5-7#purport|SB 7.4.5-7]]
 * limitations of, [[sb/2/2/32#purport|SB 2.2.32]], [[sb/2/4/8#purport|SB 2.4.8]], [[sb/2/5/19#purport|SB 2.5.19]], [[sb/2/5/32#purport|SB 2.5.32]], [[sb/2/6/43-45#purport|SB 2.6.43-45]], [[sb/6/9/1#purport|SB 6.9.1]]
 * limited perception of, [[sb/2/8/16#purport|SB 2.8.16]]
@@ -49,7 +54,6 @@
 * planets as considered by, [[sb/10/13/61#purport|SB 10.13.61]]
 * powerless against māyā, [[sb/1/14/10#purport|SB 1.14.10]]
 * pride & attachment as dangerous for, [[bg/14/6|Bg. 14.6]]
-*  [[sb/1/8/19#purport|SB 1.8.19]], [[sb/1/12/5#purport|SB 1.12.5]]
 * sense gratification baffles, [[sb/7/9/25#purport|SB 7.9.25]]
 * sex researched by, [[bg/13/8|Bg. 13.8]] (12)
 * soul invisible to, [[bg/2/25|Bg. 2.25]]

@@ -1,6 +1,6 @@
 # Economic development
 
-[[cc/adi/7/144#purport|Ādi 7.144]], **[[cc/adi/7/84#translation|Ādi 7.84]]**, **[[cc/adi/7/85#translation|Ādi 7.85]]**, [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/madhya/12/135#purport|Madhya 12.135]], [[cc/madhya/19/159#purport|Madhya 19.159]], **[[cc/madhya/19/164#translation|Madhya 19.164]]**, [[cc/madhya/22/21#purport|Madhya 22.21]], [[cc/madhya/24/64#purport|Madhya 24.64]], [[cc/madhya/25/121#purport|Madhya 25.121]], [[sb/8/1/10#purport|SB 8.1.10]]
+[[cc/madhya/12/135#purport|Madhya 12.135]], [[cc/madhya/19/159#purport|Madhya 19.159]], **[[cc/madhya/19/164#translation|Madhya 19.164]]**, [[cc/madhya/22/21#purport|Madhya 22.21]], [[cc/madhya/24/64#purport|Madhya 24.64]], [[cc/madhya/25/121#purport|Madhya 25.121]], **[[cc/adi/7/84#translation|Ādi 7.84]]**, **[[cc/adi/7/85#translation|Ādi 7.85]]**, [[cc/adi/7/95–96#purport|Ādi 7.95–96]], [[cc/adi/7/144#purport|Ādi 7.144]], [[sb/8/1/10#purport|SB 8.1.10]]
 
 * as dead end, [[sb/7/7/39-39#purport|SB 7.7.39-39]]
 * as illusory, [[sb/1/12/23#purport|SB 1.12.23]]
@@ -14,7 +14,7 @@
 * different for everyone, [[sb/4/21/30#purport|SB 4.21.30]]
 * for gṛhasthas, [[sb/7/14/10#purport|SB 7.14.10]]
 * for materialists, [[sb/2/1/3#purport|SB 2.1.3]], [[sb/2/1/3#purport|SB 2.1.3]]
-* in ”darkness,” [[sb/2/5/30#purport|SB 2.5.30]]
+* in ”darkness,”, [[sb/2/5/30#purport|SB 2.5.30]]
 * in present Age, [[sb/4/22/36#purport|SB 4.22.36]]
 * life wasted on, [[sb/7/14/8#purport|SB 7.14.8]], [[sb/7/14/14#purport|SB 7.14.14]]
 * living entity becomes attached to, [[sb/5/13/1#purport|SB 5.13.1]]
@@ -41,4 +41,4 @@
 * via religious principles, [[sb/4/12/14#purport|SB 4.12.14]]
 * via Śiva worship, [[sb/4/22/36#purport|SB 4.22.36]]
 
-*See also:* [[g#Gold|Gold]]; [[m#Money|Money]]; [[o#Opulence|Opulence]]; [[w#Wealth|Wealth]]; [[i#Industry|Industry]]; big; Opulences; material; [[m#Materialism|Materialism]]; [[m#Materialists|Materialists]]; [[v#Vaiśyas|Vaiśyas]]
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); [Industry](entries/industry.md); big; Opulences; material; [Materialism](entries/materialism.md); Materialists; Vaiśyas

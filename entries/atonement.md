@@ -1,9 +1,8 @@
 # Atonement
 
-[[sb/6/1/8-8#purport|SB 6.1.8-8]]
+[[bg/1/43|Bg. 1.43]], [[bg/9/31|Bg. 9.31]], [[sb/6/1/8-8#purport|SB 6.1.8-8]]
 
 * Ajāmila neglected, [[sb/6/1/68#purport|SB 6.1.68]]
-*  [[bg/1/43|Bg. 1.43]], [[bg/9/31|Bg. 9.31]]
 * chanting best process of, [[sb/6/2/10-12#purport|SB 6.2.10-12]], [[sb/6/2/16#purport|SB 6.2.16]],
 * compared to cure for disease, [[sb/6/1/8#purport|SB 6.1.8]]
 * compared to elephant’s bath, [[sb/6/1/10#purport|SB 6.1.10]], [[sb/6/3/33#purport|SB 6.3.33]]
@@ -21,6 +20,6 @@
 * useless if planned, [[sb/6/13/10#purport|SB 6.13.10]]
 * useless without bhakti, [[sb/6/1/18#purport|SB 6.1.18]], [[sb/6/2/46-46#purport|SB 6.2.46-46]]
 
-*See also:* [[p#Purification|Purification]]; [[p#Puṁsavana-vrata|Puṁsavana-vrata]]
+*See also:* [Purification](entries/purification.md); Puṁsavana-vrata
 
-*See:* [[r#Repentance|Repentance]]
+*See:* [Repentance](entries/repentance.md)

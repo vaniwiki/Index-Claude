@@ -7,4 +7,4 @@
 * Śiva’s forest-warning to, [[sb/9/1/32#purport|SB 9.1.32]]
 * Sudyumna alternated as, [[sb/9/1/38-39#purport|SB 9.1.38-39]], [[sb/9/1/40#purport|SB 9.1.40]]
 
-*See also:* Fathers; Husbands; [[m#Man|Man]]; Sons; specific males
+*See also:* Fathers; Husbands; [Man](entries/man.md); Sons; specific males

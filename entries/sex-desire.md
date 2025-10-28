@@ -9,4 +9,4 @@
 * purpose of, [[sb/2/10/26#purport|SB 2.10.26]]
 * Śiva attacked by, [[sb/2/7/7#purport|SB 2.7.7]]
 
-*See also:* [[s#Sex life|Sex life]]
+*See also:* Sex life

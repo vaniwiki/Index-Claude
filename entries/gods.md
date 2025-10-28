@@ -1,6 +1,4 @@
-# God(s)
+# Gods
 
-* *See:* [[d#Demigods|Demigods]] , , , , , , 
-* *See:* [[d#Demigods|Demigods]] , 
 
-*See:* [[d#Demigods|Demigods]]
+*See:* [Godhead](entries/godhead.md); Kṛṣṇa; Nārāyaṇa; Supreme Lord; Absolute Truth; [Supersoul](entries/supersoul.md); Viṣṇu; Caitanya; Demigods

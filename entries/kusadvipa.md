@@ -8,3 +8,4 @@
 * inhabitants of, [[sb/5/20/16#purport|SB 5.20.16]]
 * kuśa grass on, [[sb/5/20/13#purport|SB 5.20.13]]
 * Priyavrata &, [[sb/5/1/31-33#purport|SB 5.1.31-33]]
+* quoted on fire god, [[sb/5/20/17#purport|SB 5.20.17]]

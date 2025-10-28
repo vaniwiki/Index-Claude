@@ -1,4 +1,4 @@
 # Kingdom of God
 
 
-*See:* [[s#Spiritual world|Spiritual world]]; [[b#Brahmaloka|Brahmaloka]]; [[d#Dvārakā|Dvārakā]]; [[v#Vṛndāvana|Vṛndāvana]]; [[g#Godhead|Godhead]]; returning to; [[g#Goloka Vṛndāvana|Goloka Vṛndāvana]]; [[v#Vaikuṇṭha|Vaikuṇṭha]]
+*See:* [Brahmaloka](entries/brahmaloka.md); Spiritual world; [Godhead](entries/godhead.md); returning to; Vṛndāvana; Dvārakā; Goloka Vṛndāvana; Vaikuṇṭha

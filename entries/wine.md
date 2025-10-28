@@ -7,4 +7,4 @@
 * of Śiva’s followers, [[sb/4/2/29#purport|SB 4.2.29]], [[sb/4/2/31#purport|SB 4.2.31]]
 * Yadus’ demise via, [[sb/1/15/22-23#purport|SB 1.15.22-23]]
 
-*See also:* [[i#Intoxication|Intoxication]]
+*See also:* [Intoxication](entries/intoxication.md)

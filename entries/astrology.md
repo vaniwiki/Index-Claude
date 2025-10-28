@@ -1,6 +1,6 @@
 # Astrology
 
-**[[cc/adi/13/89–90#translation|Ādi 13.89–90]]**, [[cc/adi/17/103#purport|Ādi 17.103]], [[cc/adi/17/104#purport|Ādi 17.104]], [[bg/8/24–25|Bg. 8.24–25]], [[sb/5/13/4#purport|SB 5.13.4]]
+[[bg/8/24–25|Bg. 8.24–25]], **[[cc/adi/13/89–90#translation|Ādi 13.89–90]]**, [[cc/adi/17/103#purport|Ādi 17.103]], [[cc/adi/17/104#purport|Ādi 17.104]], [[sb/5/13/4#purport|SB 5.13.4]]
 
 * as social service, [[sb/1/12/29#purport|SB 1.12.29]]
 * as Vedic knowledge, [[sb/1/12/29#purport|SB 1.12.29]]

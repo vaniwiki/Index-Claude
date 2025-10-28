@@ -1,6 +1,6 @@
 # Kumāras (four)
 
-[[sb/3/8/6#purport|SB 3.8.6]]
+[[sb/3/8/6#purport|SB 3.8.6]], [[sb/3/24/20-20#purport|SB 3.24.20-20]], [[sb/3/25/36#purport|SB 3.25.36]], [[sb/4/20/15#purport|SB 4.20.15]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 
 * anger of, [[sb/3/15/31#purport|SB 3.15.31]]
 * angered Brahmā, [[sb/4/6/34#purport|SB 4.6.34]]
@@ -32,16 +32,15 @@
 * mystic travel by, [[sb/3/15/26#purport|SB 3.15.26]]
 * ordinary persons can’t know, [[sb/4/22/9#purport|SB 4.22.9]]
 * origin of, [[sb/3/12/4#purport|SB 3.12.4]]
-* Pṛthu &. See: Pṛthu Mahārāja, Kumāra & ... 
+* Pṛthu &. See: Pṛthu Mahārāja, Kumāra & ...
 * refused to marry, [[sb/4/6/34#purport|SB 4.6.34]]
 * rejected family life, [[sb/3/12/5#purport|SB 3.12.5]]
 * repentance by, [[sb/3/15/49#purport|SB 3.15.49]], [[sb/3/16/25#purport|SB 3.16.25]]
 * Sanaka, [[sb/4/7/42#purport|SB 4.7.42]], [[sb/4/7/46#purport|SB 4.7.46]]
 * Sanat, [[sb/3/8/7#purport|SB 3.8.7]]
 * saw Lord, [[sb/4/9/30#purport|SB 4.9.30]]
-*  [[sb/3/24/20-20#purport|SB 3.24.20-20]], [[sb/3/25/36#purport|SB 3.25.36]], [[sb/4/20/15#purport|SB 4.20.15]], [[sb/4/29/42-44#purport|SB 4.29.42-44]], [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 * sitting with Śiva, [[sb/4/6/34-34#purport|SB 4.6.34-34]]
 * space travel by, [[sb/4/22/2#purport|SB 4.22.2]], [[sb/4/22/48#purport|SB 4.22.48]]
 * Supersoul realized by, [[sb/5/24/21#purport|SB 5.24.21]]
 
-*See also:* [[s#Sanaka-kumāra|Sanaka-kumāra]]; [[s#Sanandana-kumāra|Sanandana-kumāra]]; [[s#Sanātana-kumāra|Sanātana-kumāra]]; [[s#Sanat-kumāra|Sanat-kumāra]]
+*See also:* Sanaka-kumāra; Sanandana-kumāra; Sanātana-kumāra; Sanat-kumāra

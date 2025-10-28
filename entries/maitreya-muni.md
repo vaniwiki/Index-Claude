@@ -1,6 +1,6 @@
 # Maitreya Muni
 
-[[cc/adi/5/36#purport|Ādi 5.36]], **[[cc/antya/19/70#translation|Antya 19.70]]**, [[cc/madhya/11/32#purport|Madhya 11.32]], [[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/88#purport|Madhya 24.88]]
+[[cc/adi/5/36#purport|Ādi 5.36]], [[cc/madhya/11/32#purport|Madhya 11.32]], [[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/24/88#purport|Madhya 24.88]], **[[cc/antya/19/70#translation|Antya 19.70]]**
 
 * as Bārhaspatya, [[sb/4/30/2-2#purport|SB 4.30.2-2]]
 * as Vidura’s spiritual master, [[sb/4/13/24#purport|SB 4.13.24]]

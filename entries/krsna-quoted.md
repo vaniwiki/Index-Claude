@@ -1,6 +1,6 @@
 # Kṛṣṇa quoted
 
-**[[cc/adi/3/14–28#translation|Ādi 3.14–28]]**, **[[cc/adi/3/26–27#translation|Ādi 3.26–27]]**, **[[cc/adi/4/122–35#translation|Ādi 4.122–35]]**, **[[cc/adi/4/176#translation|Ādi 4.176]]**, **[[cc/adi/4/180#translation|Ādi 4.180]]**, **[[cc/adi/4/184#translation|Ādi 4.184]]**, **[[cc/adi/4/23#translation|Ādi 4.23]]**, **[[cc/adi/4/259#translation|Ādi 4.259]]**
+**[[cc/adi/4/23#translation|Ādi 4.23]]**, **[[cc/adi/4/176#translation|Ādi 4.176]]**, **[[cc/adi/4/180#translation|Ādi 4.180]]**, **[[cc/adi/4/184#translation|Ādi 4.184]]**, **[[cc/adi/3/14–28#translation|Ādi 3.14–28]]**, **[[cc/adi/3/26–27#translation|Ādi 3.26–27]]**, **[[cc/adi/4/259#translation|Ādi 4.259]]**, **[[cc/adi/4/122–35#translation|Ādi 4.122–35]]**
 
 * on awe & veneration, **[[cc/adi/3/16–17#translation|Ādi 3.16–17]]**
 * on conjugal exchanges, **[[cc/adi/4/26#translation|Ādi 4.26]]**
@@ -17,6 +17,6 @@
 * on reverence for Lord, **[[cc/adi/4/18–19#translation|Ādi 4.18–19]]**
 * on Yaśodā, **[[cc/adi/4/24#translation|Ādi 4.24]]**
 
-*See also:* [[b#Bhagavad-gītā quoted|Bhagavad-gītā quoted]]
+*See also:* Bhagavad-gītā quoted
 
-*See:* relevant verses of the Bhagavad-gītā; Kṛṣṇa; quoted
+*See:* Kṛṣṇa; quoted; relevant verses of the Bhagavad-gītā

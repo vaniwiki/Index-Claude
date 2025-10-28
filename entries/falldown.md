@@ -1,7 +1,8 @@
 # Falldown
 
+[[bg/9/25|Bg. 9.25]], [[bg/13/24|Bg. 13.24]], [[sb/4/28/44#purport|SB 4.28.44]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/30/26#purport|SB 4.30.26]]
+
 * Arjuna’s questions about, [[bg/6/37–39|Bg. 6.37–39]]
-*  [[bg/9/25|Bg. 9.25]], [[bg/13/24|Bg. 13.24]], [[sb/4/28/44#purport|SB 4.28.44]], [[sb/4/28/64#purport|SB 4.28.64]], [[sb/4/30/26#purport|SB 4.30.26]]
 * cause of, [[bg/15/20|Bg. 15.20]]
 * causes for, [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/29/4#purport|SB 4.29.4]], [[sb/4/29/65#purport|SB 4.29.65]]
 * detailed, [[sb/4/29/4#purport|SB 4.29.4]]
@@ -9,8 +10,8 @@
 * from Brahman effulgence, [[sb/4/9/29#purport|SB 4.9.29]]
 * from devotional service, [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/28/28#purport|SB 4.28.28]], [[sb/4/28/37#purport|SB 4.28.37]], [[sb/4/28/44#purport|SB 4.28.44]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/54#purport|SB 4.28.54]]
 * from heavenly planets, [[sb/4/9/10#purport|SB 4.9.10]], [[sb/9/10/23-23#purport|SB 9.10.23-23]]
-* from spiritual world, 20, [[bg/8/15|Bg. 8.15]], [[bg/8/21|Bg. 8.21]], [[bg/15/6|Bg. 15.6]]
 * from spiritual world, [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/54#purport|SB 4.28.54]], [[sb/4/28/55#purport|SB 4.28.55]], [[sb/4/29/83#purport|SB 4.29.83]]
+* from spiritual world, 20, [[bg/8/15|Bg. 8.15]], [[bg/8/21|Bg. 8.21]], [[bg/15/6|Bg. 15.6]]
 * history of, [[bg/7/14|Bg. 7.14]]
 * of brāhmaṇa, [[sb/4/31/10#purport|SB 4.31.10]]
 * of Dakṣa, [[sb/4/30/48#purport|SB 4.30.48]]
@@ -41,4 +42,4 @@
 * via ignorance mode, [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/66#purport|SB 4.29.66]], [[sb/4/29/76-77#purport|SB 4.29.76-77]]
 * via senses unengaged, [[bg/2/64|Bg. 2.64]]
 
-*See also:* Offense; [[o#Offenses|Offenses]]
+*See also:* Offense; Offenses

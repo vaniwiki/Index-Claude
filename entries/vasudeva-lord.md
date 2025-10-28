@@ -1,9 +1,8 @@
 # Vāsudeva, Lord
 
-**[[cc/adi/1/8#translation|Ādi 1.8]]**, [[cc/adi/5/153#purport|Ādi 5.153]], [[cc/adi/5/40#purport|Ādi 5.40]], [[bg/8/22|Bg. 8.22]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/6/6/8#purport|SB 6.6.8]]
+[[bg/8/22|Bg. 8.22]], **[[cc/adi/1/8#translation|Ādi 1.8]]**, [[cc/adi/5/40#purport|Ādi 5.40]], [[cc/adi/5/41#purport|Ādi 5.41]] (1 purport, [[cc/adi/5/153#purport|Ādi 5.153]], [[sb/2/7/23#purport|SB 2.7.23]], [[sb/3/21/32#purport|SB 3.21.32]], [[sb/6/6/8#purport|SB 6.6.8]]
 
 * addressed in Nārada’s mantra, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
-*  [[cc/adi/5/41#purport|Ādi 5.41]] (1 purport
 * as brahmajyoti’s cause, [[sb/5/11/13-14#purport|SB 5.11.13-14]]
 * as cause of all causes, [[sb/5/12/8#purport|SB 5.12.8]], [[sb/5/12/11#purport|SB 5.12.11]]
 * as cause of all, [[bg/7/19|Bg. 7.19]]
@@ -42,4 +41,4 @@
 * Śiva meditates on, [[sb/4/3/23#purport|SB 4.3.23]]
 * Vedavatī residence of, [[sb/5/17/14#purport|SB 5.17.14]]
 
-*See also:* Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; [[c#Catur-vyūha|Catur-vyūha]]
+*See also:* Catur-vyūha; Kṛṣṇa; Supreme Lord

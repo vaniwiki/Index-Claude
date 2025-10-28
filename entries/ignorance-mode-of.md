@@ -28,7 +28,9 @@
 * charity in, [[bg/16/1|Bg. 16.1]] (7), [[bg/17/22|Bg. 17.22]], [[bg/17/23|Bg. 17.23]]
 * compared to criminal department, [[sb/4/6/43#purport|SB 4.6.43]]
 * compared to raw wood, [[sb/1/2/24#purport|SB 1.2.24]]
-* compared with 
+* compared with
+  * goodness mode, [[bg/14/8|Bg. 14.8]]
+  * passion mode, [[bg/14/8|Bg. 14.8]]
 * competes with other modes, [[sb/8/16/20#purport|SB 8.16.20]]
 * condemned, [[sb/10/10/8#purport|SB 10.10.8]], [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]]
 * conditioning by, [[bg/14/5|Bg. 14.5]], [[bg/14/8–9|Bg. 14.8–9]]
@@ -49,8 +51,8 @@
 * duty renounced out of, [[bg/18/7|Bg. 18.7]]
 * eating in, [[bg/6/16|Bg. 6.16]], [[bg/17/8|Bg. 17.8]], [[bg/17/10|Bg. 17.10]]
 * effects & manifestations of, on living entity, [[bg/6/16|Bg. 6.16]], [[bg/14/5|Bg. 14.5]], [[bg/14/8–10|Bg. 14.8–10]], [[bg/14/13|Bg. 14.13]], [[bg/14/16|Bg. 14.16]], [[bg/14/17–18|Bg. 14.17–18]], [[bg/18/28|Bg. 18.28]], [[bg/18/39|Bg. 18.39]], [[bg/18/40|Bg. 18.40]]
-* elevation from, by spiritual master, [[sb/1/2/24#purport|SB 1.2.24]]
 * elevation from, [[sb/4/21/52#purport|SB 4.21.52]]
+* elevation from, by spiritual master, [[sb/1/2/24#purport|SB 1.2.24]]
 * faith in, [[bg/17/2–4|Bg. 17.2–4]]
 * fasting in, [[bg/10/4|Bg. 10.4]] (8)
 * faults of, [[bg/14/8|Bg. 14.8]], [[bg/14/13|Bg. 14.13]], [[bg/14/18|Bg. 14.18]]
@@ -76,7 +78,7 @@
 * Lord incomprehensible via, [[sb/8/3/27#purport|SB 8.3.27]]
 * Lord not understood in, [[sb/5/1/15#purport|SB 5.1.15]]
 * Lord Śiva &, [[bg/7/14|Bg. 7.14]]
-* material energies in, 24 
+* material energies in, 24
 * material world in, [[sb/9/9/7#purport|SB 9.9.7]]
 * mind in, [[bg/15/7|Bg. 15.7]]
 * misunderstanding caused via, [[sb/7/1/9#purport|SB 7.1.9]]
@@ -114,4 +116,4 @@
 * world controlled by, [[sb/7/8/24#purport|SB 7.8.24]]
 * worship in, [[sb/1/2/26#purport|SB 1.2.26]]
 
-*See also:* [[i#Ignorance|Ignorance]]; [[m#Modes of nature|Modes of nature]]; [[m#Māyā|Māyā]]; [[m#Modes of material nature|Modes of material nature]]
+*See also:* [Ignorance](entries/ignorance.md); Modes of nature; Māyā; Modes of material nature

@@ -1,4 +1,4 @@
-# Mantra(s)
+# Mantras
 
 **[[cc/madhya/24/331#translation|Madhya 24.331]]**
 
@@ -26,8 +26,9 @@
 * dvādaśākṣara-, [[sb/8/16/39-39#purport|SB 8.16.39-39]]
 * dvijas chant, [[sb/7/11/24#purport|SB 7.11.24]]
 * etiquette regarding, [[sb/6/7/33#purport|SB 6.7.33]]
+* for ”becoming God,”, [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/22/7#purport|SB 3.22.7]]
 * for Brahmā, [[sb/2/9/6#purport|SB 2.9.6]]
-* for brāhmaṇas only, [[sb/4/8/54#purport|SB 4.8.54]]
+* for brāhmaṇas only, [[sb/4/8/54#purport|SB 4.8.54]], [[sb/4/8/54#purport|SB 4.8.54]]
 * for brāhmaṇas to recite, [[sb/8/4/15#purport|SB 8.4.15]]
 * for devotees vital, [[sb/8/3/1#purport|SB 8.3.1]]
 * for Dhruva, [[sb/2/7/8#purport|SB 2.7.8]]
@@ -41,18 +42,16 @@
 * for sacrifices, [[sb/4/7/41#purport|SB 4.7.41]], [[sb/4/19/28#purport|SB 4.19.28]]
 * for seeing flying beings, [[sb/4/8/53#purport|SB 4.8.53]]
 * for Śiva worship, [[sb/8/7/31#purport|SB 8.7.31]]
+* for Vaiṣṇavas (devotees), [[sb/4/8/54#purport|SB 4.8.54]]
 * for worship to Lord in Śiśumāra-cakra form, [[sb/5/23/8#purport|SB 5.23.8]]
 * for worshiping Durgā for wealth, [[sb/5/18/22#purport|SB 5.18.22]]
 * from spiritual master, must be received, [[sb/6/8/42#purport|SB 6.8.42]]
 * Gāyatrī, [[sb/2/6/1#purport|SB 2.6.1]], [[sb/4/21/42#purport|SB 4.21.42]], [[sb/7/12/2#purport|SB 7.12.2]]
-* Gāyatrī. See: Gāyatrī mantra 
 * given by spiritual master, [[sb/4/8/53#purport|SB 4.8.53]], [[sb/4/8/54#purport|SB 4.8.54]]
 * gopīs chanted, for Kṛṣṇa’s protection, [[sb/10/6/22-26#purport|SB 10.6.22-26]], [[sb/10/6/30#purport|SB 10.6.30]]
-* Hare Kṛṣṇa mantra. See: Hare Kṛṣṇa mantra 
-* Hare Kṛṣṇa, [[sb/2/2/30#purport|SB 2.2.30]], [[sb/2/5/25#purport|SB 2.5.25]]
-* Hare Kṛṣṇa. See: Chanting Hare Kṛṣṇa 
-* Hare Kṛṣṇa. See: Hare Kṛṣṇa maha-mantra 
-* Hare Kṛṣṇa. See: Hare Kṛṣṇa mantra , , 
+* Hare Kṛṣṇa mantra. See: Hare Kṛṣṇa mantra
+* Hare Kṛṣṇa. See: Hare Kṛṣṇa mantra, [[sb/2/2/30#purport|SB 2.2.30]], [[sb/2/5/25#purport|SB 2.5.25]]
+* impossible now, [[sb/4/4/32-34#purport|SB 4.4.32-34]]
 * in animal sacrifice, [[sb/4/13/25#purport|SB 4.13.25]], [[sb/4/13/35#purport|SB 4.13.35]], [[sb/4/19/27#purport|SB 4.19.27]]
 * in cow sacrifice, SB Intro 11
 * in Deity worship, [[sb/4/8/56#purport|SB 4.8.56]]
@@ -63,7 +62,7 @@
 * military use of, [[sb/1/7/20#purport|SB 1.7.20]], [[sb/1/7/27#purport|SB 1.7.27]], [[sb/1/7/44#purport|SB 1.7.44]]
 * must be via disciplic succession, [[sb/4/8/53#purport|SB 4.8.53]], [[sb/4/8/54#purport|SB 4.8.54]]
 * must be via spiritual master, [[sb/4/8/54#purport|SB 4.8.54]]
-* Nārāyaṇa-kavaca. See: Nārāyaṇa-kavaca 
+* Nārāyaṇa-kavaca. See: Nārāyaṇa-kavaca
 * of Dadhīci for Asvinī-kumāras, [[sb/6/9/52-52#purport|SB 6.9.52-52]]
 * of Nārada given to Citraketu, [[sb/6/16/18-25#purport|SB 6.16.18-25]]
 * of Śukrācārya, [[sb/8/11/47#purport|SB 8.11.47]]
@@ -73,7 +72,7 @@
 * oṁkāra, [[sb/9/14/46#purport|SB 9.14.46]], [[sb/9/14/48#purport|SB 9.14.48]]
 * opulence via chanting, [[sb/9/6/45-46#purport|SB 9.6.45-46]]
 * potency of, at ritualistic ceremonies, [[sb/9/6/27#purport|SB 9.6.27]]
-* praṇava (oṁ) 
+* praṇava (oṁ)
 * praṇava, [[sb/7/15/42-42#purport|SB 7.15.42-42]]
 * purpose of, [[sb/5/18/18#purport|SB 5.18.18]]
 * Puruṣa-sūkta, [[sb/8/16/51-52#purport|SB 8.16.51-52]]
@@ -84,6 +83,8 @@
 * requirement for receiving, [[sb/4/8/53#purport|SB 4.8.53]], [[sb/4/8/54#purport|SB 4.8.54]]
 * revive spiritual senses, [[sb/1/5/38#purport|SB 1.5.38]]
 * ritualistic, in Kali-yuga, [[sb/8/23/16#purport|SB 8.23.16]]
+* rules for chanting, [[sb/4/8/54#purport|SB 4.8.54]]
+* rules for, [[sb/4/8/54#purport|SB 4.8.54]]
 * Saubhari Ṛṣi expert in, [[sb/9/6/45-46#purport|SB 9.6.45-46]], [[sb/9/6/45-46#purport|SB 9.6.45-46]]
 * Śiva chants, [[sb/8/7/29#purport|SB 8.7.29]]
 * snake subdued via, [[sb/4/22/11#purport|SB 4.22.11]]
@@ -92,12 +93,12 @@
 * tested on animals, [[sb/4/4/6#purport|SB 4.4.6]], [[sb/4/5/24#purport|SB 4.5.24]], [[sb/4/7/33#purport|SB 4.7.33]]
 * Tvaṣṭā’s mistake in chanting, [[sb/6/9/11#purport|SB 6.9.11]]
 * Vedas as, [[sb/8/4/15#purport|SB 8.4.15]]
+* Vedic, [[sb/2/4/22#purport|SB 2.4.22]]
 * Vedic, impractical nowadays, [[sb/9/1/17#purport|SB 9.1.17]]
 * Vedic, Kṛṣṇa as oṁ in, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
-* Vedic, [[sb/2/4/22#purport|SB 2.4.22]]
 * Vena’s body preserved by, [[sb/4/14/33#purport|SB 4.14.33]], [[sb/4/14/43#purport|SB 4.14.43]]
 * viṣṇu-, [[sb/4/9/31#purport|SB 4.9.31]]
 * worked wonders, [[sb/4/4/32#purport|SB 4.4.32]], [[sb/4/4/33#purport|SB 4.4.33]]
 * worship of Lord by, [[sb/4/8/58#purport|SB 4.8.58]]
 
-*See also:* Chantings holy name of Lord; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; Prayer; [[s#Sound|Sound]]; transcendental; Oṁ; [[v#Vedic injunctions|Vedic injunctions]]
+*See also:* [Sound](entries/sound.md); transcendental; Vedic injunctions; Chantings holy name of Lord; Hare Kṛṣṇa mantra; Prayer; Oṁ

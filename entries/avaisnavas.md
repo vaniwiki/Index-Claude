@@ -1,4 +1,4 @@
-# Avaiṣṇava(s)
+# Avaiṣṇavas
 
 
-*See:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]; [[n#Nondevotees|Nondevotees]]; [[i#Impersonalists|Impersonalists]]
+*See:* Atheists; Demons; Nondevotees; Impersonalists

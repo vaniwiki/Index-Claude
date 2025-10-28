@@ -18,4 +18,4 @@
 * Takṣaka in form of, [[sb/4/18/22#purport|SB 4.18.22]]
 * Viśvāvasu in form of, [[sb/4/18/17#purport|SB 4.18.17]]
 
-*See also:* [[c#Cows|Cows]]
+*See also:* Cows

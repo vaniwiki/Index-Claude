@@ -1,6 +1,6 @@
 # Chand Kazi
 
-**[[cc/adi/17/128#translation|Ādi 17.128]]**, **[[cc/adi/17/129#translation|Ādi 17.129]]**, **[[cc/adi/17/169#translation|Ādi 17.169]]**, **[[cc/adi/17/170–71#translation|Ādi 17.170–71]]**
+**[[cc/adi/17/169#translation|Ādi 17.169]]**, **[[cc/adi/17/170–71#translation|Ādi 17.170–71]]**, **[[cc/adi/17/128#translation|Ādi 17.128]]**, **[[cc/adi/17/129#translation|Ādi 17.129]]**
 
 * Caitanya explains sannyāsa to, [[cc/madhya/6/127#purport|Madhya 6.127]]
 * Caitanya recognized as Nārāyaṇa by, **[[cc/adi/17/215#translation|Ādi 17.215]]**

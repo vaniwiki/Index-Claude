@@ -1,8 +1,12 @@
 # Viśvanātha Cakravartī Ṭhākura quoted
 
-* aaViśvanātha Cakravartī Ṭhākura cited 
+* aaViśvanātha Cakravartī Ṭhākura cited
+* accepted as Lord, [[sb/4/28/43#purport|SB 4.28.43]], [[sb/4/29/51#purport|SB 4.29.51]], [[sb/4/31/8#purport|SB 4.31.8]]
+* as honored like Lord, [[sb/4/22/4#purport|SB 4.22.4]], [[sb/4/22/16#purport|SB 4.22.16]], [[sb/4/23/18#purport|SB 4.23.18]], [[sb/4/23/31#purport|SB 4.23.31]]
+* as Lord’s confidential servant, [[sb/4/29/51#purport|SB 4.29.51]]
 * chanting of, for demigods, [[sb/6/9/2#purport|SB 6.9.2]]
-* on ”saṁvidam,” 6.32
+* mercy of, [[sb/4/28/34#purport|SB 4.28.34]], [[sb/4/28/52#purport|SB 4.28.52]], [[sb/4/28/65#purport|SB 4.28.65]]
+* on ”saṁvidam,”, 6.32
 * on Ajāmila’s chanting, [[sb/6/1/30#purport|SB 6.1.30]]
 * on bhakti’s supremacy, [[sb/6/3/24#purport|SB 6.3.24]]
 * on chanting, counteracting sins by, [[sb/6/2/7#purport|SB 6.2.7]]
@@ -37,7 +41,6 @@
 * on serving spiritual master, [[sb/7/9/52#purport|SB 7.9.52]]
 * on sinner’s destiny, [[sb/7/1/32#purport|SB 7.1.32]]
 * on Soma, [[sb/6/4/6#purport|SB 6.4.6]]
-* on spiritual master 
 * on spiritual master, [[sb/8/24/46#purport|SB 8.24.46]]
 * on spiritual master’s mercy, [[sb/6/7/15#purport|SB 6.7.15]], [[sb/6/7/23#purport|SB 6.7.23]]
 * on spiritual master’s status, [[sb/7/14/41#purport|SB 7.14.41]]
@@ -46,6 +49,7 @@
 * on śyāmā woman, [[sb/8/15/17#purport|SB 8.15.17]]
 * on Viśvāmitra’s sons, [[sb/9/16/29#purport|SB 9.16.29]]
 * on Vṛtrāsura’s victory, [[sb/6/12/35#purport|SB 6.12.35]]
-* Viśvanātha Cakravartī Ṭhākura cited , , 
+* pleasing Lord via, [[sb/4/21/39#purport|SB 4.21.39]], [[sb/4/22/8#purport|SB 4.22.8]]
+* Viśvanātha Cakravartī Ṭhākura cited
 
-*See also:* [[v#Viśvanātha Cakravartī Ṭhākura cited|Viśvanātha Cakravartī Ṭhākura cited]]
+*See also:* Viśvanātha Cakravartī Ṭhākura cited

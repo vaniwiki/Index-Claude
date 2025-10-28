@@ -1,6 +1,6 @@
 # Incarnation(s) of Lord
 
-[[cc/adi/10/11#purport|Ādi 10.11]], [[cc/adi/12/49#purport|Ādi 12.49]], [[cc/adi/14/18#purport|Ādi 14.18]], [[cc/adi/17/18#purport|Ādi 17.18]], [[cc/adi/17/53#purport|Ādi 17.53]], **[[cc/adi/2/75–86#translation|Ādi 2.75–86]]**, **[[cc/adi/2/89–90#translation|Ādi 2.89–90]]**, **[[cc/adi/5/127#translation|Ādi 5.127]]**, [[cc/adi/5/132#purport|Ādi 5.132]], **[[cc/adi/5/155#translation|Ādi 5.155]]**, **[[cc/adi/5/4#translation|Ādi 5.4]]**, **[[cc/adi/5/79#translation|Ādi 5.79]]**, **[[cc/adi/5/79#translation|Ādi 5.79]]**, [[cc/adi/5/83#purport|Ādi 5.83]], **[[cc/adi/6/98#translation|Ādi 6.98]]**, [[cc/adi/7/30#purport|Ādi 7.30]], [[cc/adi/7/61#purport|Ādi 7.61]], [[cc/adi/9/41#purport|Ādi 9.41]], [[cc/madhya/1/41#purport|Madhya 1.41]], [[cc/madhya/1/41#purport|Madhya 1.41]], **[[cc/madhya/15/139#translation|Madhya 15.139]]**, **[[cc/madhya/20/156#translation|Madhya 20.156]]**, **[[cc/madhya/20/351–63#translation|Madhya 20.351–63]]**, [[cc/madhya/6/80#purport|Madhya 6.80]], [[cc/madhya/6/82#purport|Madhya 6.82]], [[cc/madhya/6/84#purport|Madhya 6.84]], **[[cc/madhya/8/134#translation|Madhya 8.134]]**, **[[cc/madhya/9/143#translation|Madhya 9.143]]**
+[[cc/adi/12/49#purport|Ādi 12.49]], [[cc/adi/5/83#purport|Ādi 5.83]], [[cc/adi/7/30#purport|Ādi 7.30]], [[cc/adi/7/61#purport|Ādi 7.61]], [[cc/adi/9/41#purport|Ādi 9.41]], [[cc/adi/10/11#purport|Ādi 10.11]], [[cc/adi/14/18#purport|Ādi 14.18]], [[cc/adi/17/53#purport|Ādi 17.53]], [[cc/madhya/6/80#purport|Madhya 6.80]], [[cc/madhya/6/82#purport|Madhya 6.82]], [[cc/madhya/6/84#purport|Madhya 6.84]], **[[cc/madhya/20/351–63#translation|Madhya 20.351–63]]**, **[[cc/adi/2/75–86#translation|Ādi 2.75–86]]**, **[[cc/adi/2/89–90#translation|Ādi 2.89–90]]**, **[[cc/adi/5/4#translation|Ādi 5.4]]**, **[[cc/adi/5/79#translation|Ādi 5.79]]**, [[cc/adi/5/132#purport|Ādi 5.132]], **[[cc/adi/5/155#translation|Ādi 5.155]]**, **[[cc/adi/6/98#translation|Ādi 6.98]]**, [[cc/adi/17/18#purport|Ādi 17.18]], [[cc/madhya/1/41#purport|Madhya 1.41]], **[[cc/madhya/8/134#translation|Madhya 8.134]]**, **[[cc/madhya/9/143#translation|Madhya 9.143]]**, **[[cc/madhya/15/139#translation|Madhya 15.139]]**, **[[cc/madhya/20/156#translation|Madhya 20.156]]**, **[[cc/adi/5/127#translation|Ādi 5.127]]**, **[[cc/adi/5/79#translation|Ādi 5.79]]**, [[cc/madhya/1/41#purport|Madhya 1.41]]
 
 * Advaita as, **[[cc/adi/12/31#translation|Ādi 12.31]]**, **[[cc/adi/12/34#translation|Ādi 12.34]]**
 * as absolute & transcendental, [[sb/7/9/37-37#purport|SB 7.9.37-37]]
@@ -49,6 +49,6 @@
 * Vyāsa as, [[cc/adi/7/106#purport|Ādi 7.106]]
 * yuga, **[[cc/madhya/6/100–1#translation|Madhya 6.100–1]]**
 
-*See also:* [[a#Avatāras|Avatāras]]; specific incarnations; [[e#Expansions of Kṛṣṇa|Expansions of Kṛṣṇa]]
+*See also:* Avatāras; specific incarnations; Expansions of Kṛṣṇa
 
-*See:* Kṛṣṇa; incarnations of; [[s#Supreme Lord|Supreme Lord]]
+*See:* Kṛṣṇa; incarnations of; Supreme Lord

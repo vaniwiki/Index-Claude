@@ -1,6 +1,9 @@
 # Madhvācārya quoted
 
-* Madhvācārya cited 
+* as all-pervading, [[sb/7/9/36#purport|SB 7.9.36]]
+* as background of everything, [[sb/7/15/58#purport|SB 7.15.58]]
+* as within & without, [[sb/7/12/15#purport|SB 7.12.15]]
+* Madhvācārya cited
 * on Ambarīṣa-Durvāsā narrative, [[sb/9/4/71#purport|SB 9.4.71]]
 * on Caitanya’s ecstasy, [[sb/7/7/36#purport|SB 7.7.36]]
 * on devotee’s good fortune, [[sb/7/9/26#purport|SB 7.9.26]]
@@ -11,7 +14,7 @@
 * on jīva as controlled (anīśa), [[sb/6/12/11#purport|SB 6.12.11]]
 * on liberated souls, [[sb/7/1/37#purport|SB 7.1.37]], [[sb/7/7/54#purport|SB 7.7.54]]
 * on liberation of Kṛṣṇa’s enemies, [[sb/7/10/40#purport|SB 7.10.40]]
-* on Lord 
+* on Lord
 * on Lord’s presence in His attributes, [[sb/6/8/32-33#purport|SB 6.8.32-33]]
 * on Lord’s unlimited potencies, [[sb/6/4/48#purport|SB 6.4.48]]
 * on mantras from spiritual master, [[sb/6/8/42#purport|SB 6.8.42]]

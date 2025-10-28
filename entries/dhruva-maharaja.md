@@ -1,13 +1,19 @@
 # Dhruva Mahārāja
 
-[[cc/adi/11/24#purport|Ādi 11.24]], **[[cc/adi/12/80#translation|Ādi 12.80]]**, [[bg/18/71|Bg. 18.71]], [[cc/madhya/14/18#purport|Madhya 14.18]], [[cc/madhya/22/18#purport|Madhya 22.18]], **[[cc/madhya/22/42#translation|Madhya 22.42]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], [[sb/10/7/31#purport|SB 10.7.31]], [[sb/2/7/8#purport|SB 2.7.8]], [[sb/3/14/6#purport|SB 3.14.6]], [[sb/6/18/74#purport|SB 6.18.74]]
+[[bg/18/71|Bg. 18.71]], [[cc/madhya/14/18#purport|Madhya 14.18]], [[cc/madhya/22/18#purport|Madhya 22.18]], **[[cc/madhya/22/42#translation|Madhya 22.42]]**, [[cc/madhya/24/94#purport|Madhya 24.94]], [[cc/adi/11/24#purport|Ādi 11.24]], **[[cc/adi/12/80#translation|Ādi 12.80]]**, [[sb/1/6/21#purport|SB 1.6.21]], [[sb/1/6/28#purport|SB 1.6.28]], [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/2/7/8#purport|SB 2.7.8]], [[sb/3/14/6#purport|SB 3.14.6]], [[sb/4/21/34#purport|SB 4.21.34]], [[sb/4/23/7#purport|SB 4.23.7]], [[sb/4/24/77#purport|SB 4.24.77]], [[sb/4/25/1#purport|SB 4.25.1]], [[sb/4/30/4#purport|SB 4.30.4]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/6/18/74#purport|SB 6.18.74]], [[sb/9/9/45#purport|SB 9.9.45]], [[sb/9/11/6#purport|SB 9.11.6]], [[sb/10/7/31#purport|SB 10.7.31]]
 
+* ”conquered” by, [[sb/4/12/42#purport|SB 4.12.42]]
+* & living entities as considered by, [[sb/4/9/15#purport|SB 4.9.15]]
+* accompanied, to spiritual world, [[sb/4/12/32#purport|SB 4.12.32]], [[sb/4/12/33#purport|SB 4.12.33]], [[sb/4/12/34#purport|SB 4.12.34]]
+* accused by, of polluting his intelligence, [[sb/4/9/32#purport|SB 4.9.32]]
 * acted according to Nārada, [[sb/4/8/71#purport|SB 4.8.71]]
 * addresses Nārada, [[sb/4/8/35-38#purport|SB 4.8.35-38]]
+* advised, [[sb/4/12/3-6#purport|SB 4.12.3-6]], [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/11/7-34#purport|SB 4.11.7-34]]
 * airplane arrived for, [[sb/4/12/19#purport|SB 4.12.19]]
 * airplane boarded by, [[sb/4/12/30-30#purport|SB 4.12.30-30]], [[sb/4/12/34#purport|SB 4.12.34]]
 * airplane circumambulated by, [[sb/4/12/29#purport|SB 4.12.29]]
 * allowed to chant praṇava, [[sb/4/8/54#purport|SB 4.8.54]]
+* amazed stepmother, [[sb/4/8/79#purport|SB 4.8.79]]
 * anger of, [[sb/4/11/7-7#purport|SB 4.11.7-7]], [[sb/4/11/31#purport|SB 4.11.31]]
 * angry at insult, [[sb/4/8/15#purport|SB 4.8.15]]
 * arrows of, [[sb/4/10/8#purport|SB 4.10.8]], [[sb/4/10/16-20#purport|SB 4.10.16-20]], [[sb/4/11/1-5#purport|SB 4.11.1-5]]
@@ -18,6 +24,7 @@
 * as hero, [[sb/4/9/50#purport|SB 4.9.50]]
 * as kṣatriya, [[sb/4/8/26#purport|SB 4.8.26]], [[sb/4/8/36#purport|SB 4.8.36]], [[sb/4/11/11#purport|SB 4.11.11]], [[sb/4/12/43#purport|SB 4.12.43]]
 * as liberated, [[sb/4/11/30#purport|SB 4.11.30]], [[sb/4/11/31#purport|SB 4.11.31]], [[sb/4/12/18#purport|SB 4.12.18]]
+* as material, [[sb/4/8/35#purport|SB 4.8.35]]
 * as noble, [[sb/4/9/45#purport|SB 4.9.45]]
 * as prabhu, [[sb/4/8/69#purport|SB 4.8.69]]
 * as pure devotee, [[sb/4/11/12#purport|SB 4.11.12]], [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/12/8-8#purport|SB 4.12.8-8]], [[sb/4/12/16#purport|SB 4.12.16]], [[sb/4/12/18#purport|SB 4.12.18]], [[sb/7/9/55#purport|SB 7.9.55]]
@@ -29,6 +36,7 @@
 * attacking Alakāpurī, [[sb/4/10/4-6#purport|SB 4.10.4-6]], [[sb/4/10/21#purport|SB 4.10.21]], [[sb/4/11/6#purport|SB 4.11.6]]
 * austerities by, [[sb/4/8/72-77#purport|SB 4.8.72-77]], [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/12/23#purport|SB 4.12.23]], [[sb/4/12/24#purport|SB 4.12.24]], [[sb/4/12/25#purport|SB 4.12.25]], [[sb/4/12/26#purport|SB 4.12.26]], [[sb/4/12/42-42#purport|SB 4.12.42-42]], [[sb/4/12/43#purport|SB 4.12.43]]
 * begged to remember Lord, [[sb/4/12/8#purport|SB 4.12.8]], [[sb/4/12/8-9#purport|SB 4.12.8-9]]
+* benefit in, [[sb/4/8/8#purport|SB 4.8.8]]
 * body of, spiritualized, [[sb/4/12/29#purport|SB 4.12.29]], [[sb/4/12/34#purport|SB 4.12.34]]
 * Brahmā forefather of, 325-26, [[sb/4/9/29#purport|SB 4.9.29]]
 * Brahmā’s position envied by, [[sb/4/9/29#purport|SB 4.9.29]]
@@ -36,55 +44,72 @@
 * broken heart of, [[sb/4/8/36-36#purport|SB 4.8.36-36]]
 * can’t be imitated, [[sb/4/8/72#purport|SB 4.8.72]]
 * captured Lord (Brahman), [[sb/4/8/78#purport|SB 4.8.78]]
-* compared 
+* compared
+* could satisfy, [[sb/4/8/36#purport|SB 4.8.36]], [[sb/4/8/38#purport|SB 4.8.38]], [[sb/4/8/40#purport|SB 4.8.40]]
 * death surpassed by, [[sb/4/12/30-30#purport|SB 4.12.30-30]]
-* demigods 
+* demigods
+* demigods couldn’t grant, [[sb/4/8/40#purport|SB 4.8.40]]
 * describes Nārada, [[sb/4/8/38#purport|SB 4.8.38]]
-* desire of 
-* desired 
+* desire of
+* desired
 * determination in, [[sb/4/8/69#purport|SB 4.8.69]]
+* devotee’s association, [[sb/4/9/11-11#purport|SB 4.9.11-11]]
 * devotional service by, [[sb/4/9/5#purport|SB 4.9.5]], [[sb/4/12/11#purport|SB 4.12.11]], [[sb/4/12/28#purport|SB 4.12.28]]
 * didn’t know distinction between mothers, [[sb/4/8/12-12#purport|SB 4.8.12-12]]
 * discouraged by Nārada, [[sb/4/8/30-32#purport|SB 4.8.30-32]]
 * discussed by Lord, [[sb/4/8/82#purport|SB 4.8.82]]
 * discussed by Nārada, [[sb/4/8/68-69#purport|SB 4.8.68-69]]
 * ecstasy by, [[sb/5/17/2#purport|SB 5.17.2]]
+* enlightened, [[sb/4/9/4#purport|SB 4.9.4]], [[sb/4/9/5-5#purport|SB 4.9.5-5]], [[sb/4/9/6#purport|SB 4.9.6]], [[sb/4/9/13#purport|SB 4.9.13]]
+* enthroned, [[sb/4/9/66#purport|SB 4.9.66]]
 * eternal abode achieved by, [[sb/4/12/35#purport|SB 4.12.35]]
 * exalted position of, [[sb/5/23/1#purport|SB 5.23.1]]
-* exemplary 
+* exemplary
+* false argument against, [[sb/4/8/79#purport|SB 4.8.79]]
 * fame of, [[sb/4/12/52-52#purport|SB 4.12.52-52]]
-* father of, [[sb/5/1/7#purport|SB 5.1.7]]
-* father of. See: Uttānapāda 
+* father of. See: Uttānapāda, [[sb/5/1/7#purport|SB 5.1.7]]
 * father’s fears for, [[sb/4/8/66#purport|SB 4.8.66]], [[sb/4/8/68#purport|SB 4.8.68]]
 * fixed mind on Lord, [[sb/4/8/76-78#purport|SB 4.8.76-78]], [[sb/4/8/82#purport|SB 4.8.82]]
 * following in footsteps of, [[sb/4/8/72#purport|SB 4.8.72]]
 * forest diet of, [[sb/4/8/72#purport|SB 4.8.72]], [[sb/4/8/73-75#purport|SB 4.8.73-75]]
+* fulfilled desire of, [[sb/4/9/19#purport|SB 4.9.19]], [[sb/4/9/27#purport|SB 4.9.27]], [[sb/4/9/29#purport|SB 4.9.29]]
+* gain honestly, [[sb/4/8/37#purport|SB 4.8.37]]
 * Ganges water accepted with devotion by, [[sb/5/17/2#purport|SB 5.17.2]]
 * ghāṭa named for, [[sb/4/8/42#purport|SB 4.8.42]]
 * glad to meet Nārada, [[sb/4/8/37#purport|SB 4.8.37]], [[sb/4/8/38#purport|SB 4.8.38]]
+* glorified, [[sb/4/13/4-4#purport|SB 4.13.4-4]]
 * goes to Madhuvana forest, [[sb/4/8/62#purport|SB 4.8.62]]
 * goes to mother, [[sb/4/8/15#purport|SB 4.8.15]]
+* grandfather of, [[sb/4/8/21#purport|SB 4.8.21]]
+* greatest kingdom, [[sb/4/8/36#purport|SB 4.8.36]], [[sb/4/8/37-37#purport|SB 4.8.37-37]], [[sb/4/8/40#purport|SB 4.8.40]]
 * greatness of, [[sb/4/9/19#purport|SB 4.9.19]], [[sb/4/12/41#purport|SB 4.12.41]], [[sb/4/12/42#purport|SB 4.12.42]], [[sb/4/12/43#purport|SB 4.12.43]]
 * hearing about, [[sb/4/12/45-50#purport|SB 4.12.45-50]]
-* heaviness of 
+* heaviness of
+* honored, [[sb/4/9/56#purport|SB 4.9.56]], [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/12/34#purport|SB 4.12.34]]
 * identified with total energy, [[sb/4/8/80#purport|SB 4.8.80]]
 * in Badarikāśrama, [[sb/4/12/16#purport|SB 4.12.16]], [[sb/4/12/17#purport|SB 4.12.17]]
 * in childhood, [[sb/4/12/52-52#purport|SB 4.12.52-52]]
+* in devotional life, [[sb/4/8/72#purport|SB 4.8.72]]
 * in ecstatic love of God, [[sb/4/9/3#purport|SB 4.9.3]]
 * in māyā, [[sb/4/11/30#purport|SB 4.11.30]]
+* in meditation, [[sb/4/8/78-78#purport|SB 4.8.78-78]], [[sb/4/8/79-80#purport|SB 4.8.79-80]]
+* in pious acts, [[sb/4/8/8#purport|SB 4.8.8]]
 * in Satya-yuga, [[sb/4/9/62#purport|SB 4.9.62]], [[sb/4/12/12#purport|SB 4.12.12]], [[sb/4/12/13#purport|SB 4.12.13]]
 * in yogic trance, [[sb/4/12/17#purport|SB 4.12.17]], [[sb/4/12/18#purport|SB 4.12.18]]
 * instructed by mother, [[sb/4/8/17-23#purport|SB 4.8.17-23]]
 * instructed by Nārada, [[sb/4/8/27-34#purport|SB 4.8.27-34]], [[sb/4/8/40-61#purport|SB 4.8.40-61]]
+* instructs, [[sb/4/8/27-34#purport|SB 4.8.27-34]], [[sb/4/8/40-61#purport|SB 4.8.40-61]]
 * insult to, as benediction, [[sb/4/8/19#purport|SB 4.8.19]]
 * insulted by Suruci, [[sb/4/8/11-13#purport|SB 4.8.11-13]]
 * intelligent, [[sb/4/12/8#purport|SB 4.12.8]]
 * kingdom renounced by, [[sb/4/12/14#purport|SB 4.12.14]], [[sb/4/12/16#purport|SB 4.12.16]]
+* kingdom, [[sb/4/9/19#purport|SB 4.9.19]], [[sb/4/9/27#purport|SB 4.9.27]]
 * knew Nārada’s power, [[sb/4/8/37#purport|SB 4.8.37]]
-* Kuvera 
+* known by, [[sb/4/9/14#purport|SB 4.9.14]]
+* Kuvera
 * lamented his material desires, [[sb/4/9/9#purport|SB 4.9.9]], [[sb/4/9/19#purport|SB 4.9.19]], [[sb/4/9/27-27#purport|SB 4.9.27-27]], [[sb/4/9/28#purport|SB 4.9.28]], [[sb/4/9/29-29#purport|SB 4.9.29-29]], [[sb/4/9/30-33#purport|SB 4.9.30-33]], [[sb/4/9/34-35#purport|SB 4.9.34-35]]
 * leaves home, [[sb/4/8/24#purport|SB 4.8.24]]
-* Lord 
+* Lord
 * Lord blessed, [[sb/8/3/19#purport|SB 8.3.19]], [[sb/8/4/6#purport|SB 8.4.6]]
 * Lord seen by, [[sb/8/5/48#purport|SB 8.5.48]], [[sb/8/6/13#purport|SB 8.6.13]]
 * Lord worshiped by, with material motive, [[sb/5/19/27#purport|SB 5.19.27]]
@@ -92,47 +117,75 @@
 * Lord’s shelter sought by, [[sb/4/12/52-52#purport|SB 4.12.52-52]]
 * meditates on Lord, [[sb/4/8/76-77#purport|SB 4.8.76-77]], [[sb/4/8/82#purport|SB 4.8.82]]
 * meditation site of, [[sb/4/8/42-42#purport|SB 4.8.42-42]]
-* mother of. See: Sunīti 
+* mother of. See: Sunīti
 * mystic storm engulfed, [[sb/4/10/22-27#purport|SB 4.10.22-27]]
 * Nanda & Sunanda assured, about Sunīti, [[sb/4/12/32#purport|SB 4.12.32]], [[sb/4/12/33#purport|SB 4.12.33]]
 * Nanda & Sunanda invited, to Viṣṇuloka, [[sb/4/12/23-27#purport|SB 4.12.23-27]]
-* Nārada 
+* Nārada
+* Nārada could fulfill, [[sb/4/8/37#purport|SB 4.8.37]], [[sb/4/8/38#purport|SB 4.8.38]], [[sb/4/8/40#purport|SB 4.8.40]]
+* Nārada’s blessing, [[sb/4/8/37#purport|SB 4.8.37]]
 * neglected by father, [[sb/4/8/8#purport|SB 4.8.8]], [[sb/4/8/9#purport|SB 4.8.9]], [[sb/4/8/65-65#purport|SB 4.8.65-65]]
 * not merging with Lord, [[sb/4/8/82#purport|SB 4.8.82]]
+* offended by, [[sb/4/11/33#purport|SB 4.11.33]]
+* offered benediction to, [[sb/4/12/7#purport|SB 4.12.7]], [[sb/4/12/8#purport|SB 4.12.8]]
+* on association with pure devotees, [[sb/4/9/11#purport|SB 4.9.11]]
+* on devotional service & Lord, [[sb/4/9/17#purport|SB 4.9.17]]
+* on Garbhodakaśāyī Viṣṇu, [[sb/4/9/14#purport|SB 4.9.14]]
+* on impersonal Brahman, [[sb/4/9/16#purport|SB 4.9.16]]
+* on Lord & living entities, [[sb/4/9/13#purport|SB 4.9.13]], [[sb/4/9/15#purport|SB 4.9.15]]
+* on Lord & surrendered souls, [[sb/4/9/8#purport|SB 4.9.8]]
+* on Lord as all-powerful, [[sb/4/9/6#purport|SB 4.9.6]]
+* on Lord as one & different, [[sb/4/9/7#purport|SB 4.9.7]]
+* on Lord as worshiped by sense enjoyers, [[sb/4/9/9#purport|SB 4.9.9]]
+* on transcendental bliss, [[sb/4/9/10#purport|SB 4.9.10]]
 * opulence &, [[sb/8/22/27#purport|SB 8.22.27]]
 * opulence used by, [[sb/7/10/1#purport|SB 7.10.1]]
 * opulences achieved by, [[sb/5/18/22#purport|SB 5.18.22]]
-* planet of. See: Dhruvaloka , 
-* prayer(s) by 
+* planet of. See: Dhruvaloka
+* pleased by, [[sb/4/8/82#purport|SB 4.8.82]]
+* pleased with, [[sb/4/12/2#purport|SB 4.12.2]], [[sb/4/12/9#purport|SB 4.12.9]]
+* prayer(s) by
 * presses down Earth, [[sb/4/8/79-79#purport|SB 4.8.79-79]]
 * pride in, [[sb/4/8/26#purport|SB 4.8.26]], [[sb/4/8/36#purport|SB 4.8.36]]
+* protected, [[sb/4/8/68#purport|SB 4.8.68]]
+* proud of, [[sb/4/11/28#purport|SB 4.11.28]]
 * Pṛthu takes birth in family of, [[sb/5/6/18#purport|SB 5.6.18]]
 * qualities of, [[sb/4/12/12-12#purport|SB 4.12.12-12]]
 * quoted on happiness at seeing Lord, [[sb/4/30/4#purport|SB 4.30.4]]
 * quoted on himself, [[sb/5/19/27#purport|SB 5.19.27]]
 * quoted on his spiritual satisfaction, [[sb/10/1/4#purport|SB 10.1.4]], [[sb/10/2/32#purport|SB 10.2.32]]
-* quoted. See: Dhruva Mahārāja, prayer(s) by 
+* quoted. See: Dhruva Mahārāja, prayer(s) by
 * receives praṇava (oṁ) mantra, [[sb/4/8/54#purport|SB 4.8.54]]
 * refuses Nārada’s instructions, [[sb/4/8/35-38#purport|SB 4.8.35-38]]
 * reign of, [[sb/4/9/22#purport|SB 4.9.22]], [[sb/4/9/29#purport|SB 4.9.29]], [[sb/4/9/62#purport|SB 4.9.62]], [[sb/4/12/12-12#purport|SB 4.12.12-12]], [[sb/4/12/13#purport|SB 4.12.13]], [[sb/4/12/14#purport|SB 4.12.14]]
 * respected stepmother, [[sb/4/9/45#purport|SB 4.9.45]]
+* reunited with, [[sb/4/9/49-52#purport|SB 4.9.49-52]], [[sb/4/9/37-40#purport|SB 4.9.37-40]], [[sb/4/9/41#purport|SB 4.9.41]], [[sb/4/9/43#purport|SB 4.9.43]], [[sb/4/9/44#purport|SB 4.9.44]]
 * sacrifices by, [[sb/4/12/10-10#purport|SB 4.12.10-10]]
 * sages encouraged, [[sb/4/10/30#purport|SB 4.10.30]]
 * sages’ blessings accepted by, [[sb/4/12/28#purport|SB 4.12.28]]
-*  [[sb/1/6/21#purport|SB 1.6.21]], [[sb/1/6/28#purport|SB 1.6.28]], [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/4/21/34#purport|SB 4.21.34]], [[sb/4/23/7#purport|SB 4.23.7]], [[sb/4/24/77#purport|SB 4.24.77]], [[sb/4/25/1#purport|SB 4.25.1]], [[sb/4/30/4#purport|SB 4.30.4]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/31#purport|SB 4.30.31]], [[sb/4/30/37#purport|SB 4.30.37]], [[sb/9/9/45#purport|SB 9.9.45]], [[sb/9/11/6#purport|SB 9.11.6]]
+* satisfied by, [[sb/4/9/65#purport|SB 4.9.65]]
+* seen by, [[sb/4/9/2#purport|SB 4.9.2]], [[sb/4/9/5#purport|SB 4.9.5]]
 * seminal succession from, [[sb/4/14/41-42#purport|SB 4.14.41-42]]
 * sense gratification rejected by, [[sb/7/10/1#purport|SB 7.10.1]]
 * senses of, [[sb/4/12/14#purport|SB 4.12.14]]
+* sent to, [[sb/4/8/25#purport|SB 4.8.25]]
 * space travel by, [[sb/4/12/34-35#purport|SB 4.12.34-35]]
+* spiritual master of, [[sb/4/9/5#purport|SB 4.9.5]], [[sb/4/9/31#purport|SB 4.9.31]], [[sb/4/9/32#purport|SB 4.9.32]], [[sb/4/12/26#purport|SB 4.12.26]], [[sb/4/12/43#purport|SB 4.12.43]]
 * suffocating all, [[sb/4/8/80-81#purport|SB 4.8.80-81]]
-* Sunīti 
+* Sunīti
 * Suruci blessed, [[sb/4/9/46#purport|SB 4.9.46]], [[sb/4/9/47#purport|SB 4.9.47]]
-* Svāyambhuva Manu 
+* Svāyambhuva Manu
 * tested by Nārada, [[sb/4/8/30#purport|SB 4.8.30]], [[sb/4/8/32#purport|SB 4.8.32]]
+* tests, [[sb/4/8/30#purport|SB 4.8.30]], [[sb/4/8/32#purport|SB 4.8.32]]
 * time factor works under, [[sb/5/23/3#purport|SB 5.23.3]]
+* to heavy elephant, [[sb/4/8/79#purport|SB 4.8.79]]
+* to mountain in rain, [[sb/4/10/13#purport|SB 4.10.13]]
+* to snake, [[sb/4/8/14#purport|SB 4.8.14]]
+* to sun emerging from fog, [[sb/4/10/15#purport|SB 4.10.15]]
+* to sun setting in ocean, [[sb/4/10/14-14#purport|SB 4.10.14-14]]
 * Utkala uninterested in kingship of, [[sb/4/13/6#purport|SB 4.13.6]]
 * Uttama reunited with, [[sb/4/9/48#purport|SB 4.9.48]]
-* Uttānapāda 
+* Uttānapāda
 * Uttānapāda’s reception for, [[sb/4/9/53-59#purport|SB 4.9.53-59]]
 * Vena as descendant of, [[sb/4/14/41-42#purport|SB 4.14.41-42]]
 * Viṣṇu’s associates received respects from, [[sb/4/12/21-22#purport|SB 4.12.21-22]], [[sb/4/12/29#purport|SB 4.12.29]]

@@ -1,8 +1,7 @@
 # Godhead, returning to
 
-[[sb/1/19/36#purport|SB 1.19.36]]
+[[bg/19–25|Bg. 19–25]], [[bg/28|Bg. 28]], [[bg/2/24|Bg. 2.24]], [[sb/1/19/36#purport|SB 1.19.36]]
 
-* Vedas’ direction toward, [[bg/3/15|Bg. 3.15]]
 * activity for sake of, [[bg/17/24–25|Bg. 17.24–25]]
 * after body’s demise, [[sb/8/24/51#purport|SB 8.24.51]]
 * as ”no-return” trip, [[sb/8/19/12#purport|SB 8.19.12]]
@@ -11,7 +10,6 @@
 * as permanent, 19, [[bg/8/21|Bg. 8.21]], [[bg/15/6|Bg. 15.6]],
 * at death, via remembering Lord, [[bg/7/30|Bg. 7.30]], [[bg/8/5|Bg. 8.5]], [[bg/8/8|Bg. 8.8]], [[bg/8/10|Bg. 8.10]], [[bg/8/13|Bg. 8.13]]
 * at universal devastation, [[bg/8/16|Bg. 8.16]]
-*  [[bg/19–25|Bg. 19–25]], [[bg/28|Bg. 28]], [[bg/2/24|Bg. 2.24]]
 * desire for, [[bg/15/6|Bg. 15.6]]
 * devotees &, [[sb/8/9/28#purport|SB 8.9.28]], [[sb/8/16/20#purport|SB 8.16.20]]
 * devotees assured of, [[sb/10/6/39-40#purport|SB 10.6.39-40]]
@@ -30,10 +28,11 @@
 * pure devotee eligible for, [[bg/9/26|Bg. 9.26]]
 * retiring to prepare for, [[sb/4/23/1-3#purport|SB 4.23.1-3]], [[sb/4/23/4#purport|SB 4.23.4]]
 * seeing Lord &, [[bg/15/7|Bg. 15.7]]
-* via *Bhagavad-gītā’s *instructions, 15–16 
-* via buddhi-yoga, 10.10
+* Vedas’ direction toward, [[bg/3/15|Bg. 3.15]]
+* via *Bhagavad-gītā’s *instructions, 15–16
 * via avoiding materialists, [[sb/4/22/23#purport|SB 4.22.23]]
 * via brahma-bhūta platform, [[sb/4/22/14#purport|SB 4.22.14]]
+* via buddhi-yoga, 10.10
 * via chanting Hare Kṛṣṇa, [[bg/8/13|Bg. 8.13]], [[bg/8/19|Bg. 8.19]]
 * via creation’s facilities, [[bg/3/10|Bg. 3.10]]
 * via demigod birth, [[sb/10/10/20-22#purport|SB 10.10.20-22]]
@@ -53,7 +52,7 @@
 * via loving Kṛṣṇa, [[sb/10/3/37-38#purport|SB 10.3.37-38]]
 * via meditating on Lord’s form, [[sb/3/19/28#purport|SB 3.19.28]]
 * via narrating Matsya-Satyavrata pastime, [[sb/8/24/60#purport|SB 8.24.60]]
-* via preaching *Bhagavad-gītā,* 18.68
+* via preaching *Bhagavad-gītā,*, 18.68
 * via remembering Kṛṣṇa at death, [[bg/7/30|Bg. 7.30]], [[bg/8/5|Bg. 8.5]], [[bg/8/10|Bg. 8.10]], [[bg/8/13|Bg. 8.13]]
 * via renouncing material desires, [[sb/10/3/39#purport|SB 10.3.39]]
 * via sacrifice, [[bg/3/10|Bg. 3.10]], [[bg/4/30|Bg. 4.30]]
@@ -65,4 +64,4 @@
 * via worship of Kṛṣṇa, [[bg/7/23|Bg. 7.23]], [[bg/9/25|Bg. 9.25]]
 * with spiritual body, [[bg/15/7|Bg. 15.7]]
 
-*See also:* Advancement; spiritual; [[s#Spiritual world|Spiritual world]]; [[g#Goloka Vṛndāvana|Goloka Vṛndāvana]]; [[t#Transcendence|Transcendence]]; Kṛṣṇa; [[s#Supreme Lord|Supreme Lord]]; [[v#Vṛndāvana|Vṛndāvana]]
+*See also:* Advancement; spiritual; Spiritual world; Goloka Vṛndāvana; [Transcendence](entries/transcendence.md); Kṛṣṇa; Supreme Lord; Vṛndāvana

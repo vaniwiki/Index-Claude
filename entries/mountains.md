@@ -5,7 +5,7 @@
 * in demigod-demon battle, [[sb/8/10/45#purport|SB 8.10.45]], [[sb/8/10/46#purport|SB 8.10.46]]
 * in Lord’s universal form, [[sb/8/20/23#purport|SB 8.20.23]]
 * in rain compared with Dhruva in battle, [[sb/4/10/13#purport|SB 4.10.13]]
-* Kailāsa. See: Kailāsa 
+* Kailāsa. See: Kailāsa
 * Kṛṣṇa’s representation among, [[bg/10/23|Bg. 10.23]]
 * Lord’s advent gladdened, [[sb/8/18/4#purport|SB 8.18.4]]
 * minerals for, [[sb/4/18/25#purport|SB 4.18.25]]

@@ -1,10 +1,13 @@
 # Sleep
 
+[[sb/1/2/19-20#purport|SB 1.2.19-20]], [[sb/1/10/21#purport|SB 1.10.21]], [[sb/4/25/35#purport|SB 4.25.35]], [[sb/4/25/44#purport|SB 4.25.44]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/5/10/10#purport|SB 5.10.10]], [[sb/5/14/20-21#purport|SB 5.14.20-21]]
+
 * activities in, [[sb/7/7/25#purport|SB 7.7.25]]
 * Arjuna conqueror of, [[bg/1/24|Bg. 1.24]]
 * arrangements for, relative to birth, [[sb/7/13/40#purport|SB 7.13.40]]
 * as phase of illusion, [[sb/6/16/53-54#purport|SB 6.16.53-54]], [[sb/6/16/53-54#purport|SB 6.16.53-54]]
 * attachment to, [[bg/6/16|Bg. 6.16]]
+  * as mode of ignorance, [[bg/18/35|Bg. 18.35]]
 * brahmacārī minimizes, [[sb/3/21/45-47#purport|SB 3.21.45-47]]
 * conquering, [[bg/1/24|Bg. 1.24]]
 * death compared to, [[sb/2/1/15#purport|SB 2.1.15]]
@@ -31,9 +34,8 @@
 * purpose of, [[sb/7/13/26#purport|SB 7.13.26]]
 * regulation of, [[bg/6/16–17|Bg. 6.16–17]], [[sb/3/33/26#purport|SB 3.33.26]]
 * renunciation of, [[bg/6/17|Bg. 6.17]]
-*  [[sb/1/2/19-20#purport|SB 1.2.19-20]], [[sb/1/10/21#purport|SB 1.10.21]], [[sb/4/25/35#purport|SB 4.25.35]], [[sb/4/25/44#purport|SB 4.25.44]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/4/29/71#purport|SB 4.29.71]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/5/10/10#purport|SB 5.10.10]], [[sb/5/14/20-21#purport|SB 5.14.20-21]]
 * transcended, [[sb/6/4/26#purport|SB 6.4.26]]
 * waking from, [[sb/4/7/9#purport|SB 4.7.9]]
 * yoga degrading to, [[sb/7/9/32#purport|SB 7.9.32]]
 
-*See also:* [[d#Dream|Dream]]
+*See also:* [Dream](entries/dreams.md)

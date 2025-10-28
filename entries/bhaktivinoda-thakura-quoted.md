@@ -1,7 +1,7 @@
 # Bhaktivinoda Ṭhākura quoted
 
 * benefits of, [[cc/madhya/14/45#purport|Madhya 14.45]]
-* Bhaktivinoda Ṭhākura cited 
+* Bhaktivinoda Ṭhākura cited
 * on Advaita, [[cc/adi/12/73#purport|Ādi 12.73]]
 * on creation’s variety, [[sb/7/9/31#purport|SB 7.9.31]]
 * on devotee as ”dog” of Lord, [[sb/4/29/30-31#purport|SB 4.29.30-31]]
@@ -38,4 +38,4 @@
 * on waking living entity to devotional service, [[sb/4/20/25#purport|SB 4.20.25]]
 * on waking up to self-realiātion, [[sb/4/9/6#purport|SB 4.9.6]]
 
-*See also:* [[b#Bhaktivinoda Ṭhākura cited|Bhaktivinoda Ṭhākura cited]]
+*See also:* Bhaktivinoda Ṭhākura cited

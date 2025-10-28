@@ -1,5 +1,7 @@
 # Milk
 
+[[sb/9/15/25#purport|SB 9.15.25]], [[sb/9/24/59#purport|SB 9.24.59]]
+
 * as essential, [[sb/1/8/5#purport|SB 1.8.5]]
 * as liquid religion, [[sb/1/17/3#purport|SB 1.17.3]]
 * as miracle food, [[sb/1/16/4#purport|SB 1.16.4]], [[sb/1/16/18#purport|SB 1.16.18]], [[sb/1/17/9#purport|SB 1.17.9]], [[sb/1/19/39#purport|SB 1.19.39]]
@@ -24,24 +26,25 @@
 * in serpent-nondevotee analogy, [[sb/3/19/33#purport|SB 3.19.33]]
 * in snake-fool analogy, [[sb/3/1/14#purport|SB 3.1.14]]
 * in snake-sage example, [[sb/4/18/22#purport|SB 4.18.22]]
-* in swan-paramahaṁsa analogy, [[sb/10/13/2#purport|SB 10.13.2]], [[sb/4/9/28#purport|SB 4.9.28]]
+* in swan-paramahaṁsa analogy, [[sb/4/9/28#purport|SB 4.9.28]], [[sb/10/13/2#purport|SB 10.13.2]]
 * Kṛṣṇa stole, [[sb/10/8/29#purport|SB 10.8.29]], [[sb/10/8/30#purport|SB 10.8.30]]
+* Kṣīrodakaśāyī Viṣṇu on, [[sb/1/14/35-36#purport|SB 1.14.35-36]]
 * life prolonged via, [[sb/8/6/12#purport|SB 8.6.12]]
+* moon born from, [[sb/3/2/8#purport|SB 3.2.8]]
 * need of, [[sb/6/18/52#purport|SB 6.18.52]]
-* ocean of 
 * ocean of, [[sb/1/11/8#purport|SB 1.11.8]], [[sb/4/9/25#purport|SB 4.9.25]], [[sb/4/9/29#purport|SB 4.9.29]]
-* ocean of. See: Milk ocean 
 * of gopīs, Kṛṣṇa drank, [[sb/10/13/22#purport|SB 10.13.22]]
 * of surabhi cow, [[sb/4/19/7#purport|SB 4.19.7]]
 * poisoned, analogy of, [[sb/1/2/12#purport|SB 1.2.12]], [[sb/1/3/41#purport|SB 1.3.41]], [[sb/4/3/17#purport|SB 4.3.17]]
 * products from, [[sb/4/19/7#purport|SB 4.19.7]]
-*  [[sb/9/15/25#purport|SB 9.15.25]], [[sb/9/24/59#purport|SB 9.24.59]]
 * society needs, [[sb/8/8/2#purport|SB 8.8.2]]
 * swans prefer, [[sb/1/18/22#purport|SB 1.18.22]]
 * therapeutic usage of, analogy of, [[sb/1/5/33#purport|SB 1.5.33]]
 * touched by serpent’s lips compared to hearing from nondevotees, [[sb/6/17/40#purport|SB 6.17.40]]
 * value of, [[sb/3/2/29#purport|SB 3.2.29]], [[sb/3/5/7#purport|SB 3.5.7]]
+* Viṣṇu in, [[sb/3/5/43#purport|SB 3.5.43]]
 * Vṛndāvana’s sādhus give, to tigers, [[sb/10/13/60#purport|SB 10.13.60]]
+* Yadu dynasty compared to, [[sb/1/14/35-36#purport|SB 1.14.35-36]]
 * Yaśodā’s cows ate grasses flavoring, [[sb/10/9/1-2#purport|SB 10.9.1-2]]
 
-*See also:* [[c#Cows|Cows]]
+*See also:* Cows

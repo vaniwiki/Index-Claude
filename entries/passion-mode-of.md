@@ -1,6 +1,6 @@
 # Passion, mode of
 
-[[cc/adi/4/62#purport|Ādi 4.62]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/antya/1/188#purport|Antya 1.188]], **[[cc/antya/4/57#translation|Antya 4.57]]**, [[bg/8|Bg. 8]], [[sb/4/26/4#purport|SB 4.26.4]]
+[[bg/8|Bg. 8]], [[cc/adi/4/62#purport|Ādi 4.62]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/antya/1/188#purport|Antya 1.188]], **[[cc/antya/4/57#translation|Antya 4.57]]**, [[sb/4/26/4#purport|SB 4.26.4]]
 
 * *varṇāśrama *division in, [[bg/9/32|Bg. 9.32]]
 * abatement of, [[sb/10/13/53#purport|SB 10.13.53]]
@@ -92,6 +92,7 @@
 * Prajāpatis in, [[sb/9/10/14#purport|SB 9.10.14]]
 * present population in, [[sb/1/15/12#purport|SB 1.15.12]]
 * prominence of, [[bg/14/10|Bg. 14.10]]
+  * in present age, [[bg/14/7|Bg. 14.7]]
 * qualities of one in, [[bg/18/27|Bg. 18.27]]
 * reactions follow activities in, [[bg/2/38|Bg. 2.38]]
 * religion in, [[sb/4/27/11#purport|SB 4.27.11]]
@@ -114,4 +115,4 @@
 * worker in, [[bg/18/27|Bg. 18.27]]
 * worship in, [[sb/1/2/27#purport|SB 1.2.27]]
 
-*See also:* [[m#Modes of nature|Modes of nature]]; [[d#Desire|Desire]]; [[l#Lust|Lust]]
+*See also:* [Desire](entries/desires.md); [Lust](entries/lust.md); Modes of nature

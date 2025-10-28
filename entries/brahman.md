@@ -1,9 +1,10 @@
 # Brahman
 
-* “opposite of matter,” 2.72
-* mahad brahma, [[bg/14/3|Bg. 14.3]]
+[[bg/7/15|Bg. 7.15]] (12), [[bg/11/39|Bg. 11.39]], [[bg/18/78|Bg. 18.78]] (5), [[sb/1/9/39#purport|SB 1.9.39]], [[sb/1/18/23#purport|SB 1.18.23]]
+
+* “opposite of matter,”, 2.72
 * *oṁ *identical with, [[bg/8/11|Bg. 8.11]], [[bg/8/13|Bg. 8.13]]
-* all are, 5 
+* all are, 5
 * as *vijñāna-brahma *& *ānanda-brahma*, [[bg/13/13|Bg. 13.13]]
 * as aspect of Absolute, [[sb/1/1/2#purport|SB 1.1.2]], [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/2/11#purport|SB 1.2.11]], [[sb/1/3/39#purport|SB 1.3.39]], [[sb/1/7/4#purport|SB 1.7.4]]
 * as basis of material world, SB Intro 2
@@ -20,10 +21,14 @@
 * attainment of, 23, [[bg/14/26|Bg. 14.26]], [[bg/18/50|Bg. 18.50]]
 * basis of, Lord as, [[sb/1/2/11-12#purport|SB 1.2.11-12]], [[sb/1/3/1#purport|SB 1.3.1]], [[sb/1/7/4#purport|SB 1.7.4]]
 * beyond modes of nature, [[sb/1/15/47-48#purport|SB 1.15.47-48]]
-*  [[bg/7/15|Bg. 7.15]] (12), [[bg/11/39|Bg. 11.39]], [[bg/18/78|Bg. 18.78]] (5), [[sb/1/9/39#purport|SB 1.9.39]], [[sb/1/18/23#purport|SB 1.18.23]]
 * bliss in, [[sb/1/5/8#purport|SB 1.5.8]]
 * brāhmaṇa knows, [[sb/4/21/12#purport|SB 4.21.12]]
-* compared 
+* compared
+  * to root of banyan tree, [[bg/15/1|Bg. 15.1]]
+  * to sun’s rays, 12
+  * with Parabrahman, [[bg/7/10|Bg. 7.10]], [[bg/8/3|Bg. 8.3]], [[bg/8/3|Bg. 8.3]]
+  * with Paramātmā & Bhagavān, [[bg/2/2|Bg. 2.2]] (1–2)
+  * with Supreme Brahman, 5
 * compared to sun’s rays, [[sb/1/2/11#purport|SB 1.2.11]]
 * conception of life, [[bg/7/29|Bg. 7.29]]
 * constitutional qualities of, [[bg/14/27|Bg. 14.27]]
@@ -41,7 +46,9 @@
 * individuality maintained on platform of, [[bg/14/26|Bg. 14.26]]
 * inquiring about, [[sb/4/22/21#purport|SB 4.22.21]]
 * jñānīs aspire to, [[sb/4/29/28#purport|SB 4.29.28]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * basis of, [[bg/7/10|Bg. 7.10]], [[bg/14/27|Bg. 14.27]]
+  * superior to, 12, [[bg/2/12|Bg. 2.12]], [[bg/7/10|Bg. 7.10]], [[bg/7/15|Bg. 7.15]] (12), [[bg/13/13|Bg. 13.13]], [[bg/14/27|Bg. 14.27]]
 * living beings never impersonal as, [[sb/1/7/5#purport|SB 1.7.5]]
 * living entities as, 5, [[bg/8/1|Bg. 8.1]], [[bg/8/3|Bg. 8.3]], [[bg/13/13|Bg. 13.13]]
 * living entity as, [[sb/4/29/35#purport|SB 4.29.35]]
@@ -49,13 +56,13 @@
 * Lord Kṛṣṇa as basis of, [[sb/4/24/28#purport|SB 4.24.28]], [[sb/4/24/60-60#purport|SB 4.24.60-60]]
 * Lord transcendental to, [[sb/4/30/31#purport|SB 4.30.31]]
 * Lord’s feature as, [[sb/4/30/7#purport|SB 4.30.7]], [[sb/4/30/30#purport|SB 4.30.30]], [[sb/4/30/31#purport|SB 4.30.31]]
+* mahad brahma, [[bg/14/3|Bg. 14.3]]
 * meditation on, [[bg/12/1|Bg. 12.1]]
 * merging with, [[sb/4/23/28#purport|SB 4.23.28]]
 * nature manifested from, [[bg/5/10|Bg. 5.10]]
 * personal & impersonal aspects of, [[sb/4/22/25#purport|SB 4.22.25]]
 * qualities absent in, [[sb/4/22/25#purport|SB 4.22.25]]
-* *See:* [[g#God realization|God realization]] 
-* realization of. See: God realization 
+* realization of. See: God realization
 * rise to & fall from, [[sb/4/23/11#purport|SB 4.23.11]]
 * sacrifice to, [[bg/4/25|Bg. 4.25]]
 * self as, [[sb/1/15/42#purport|SB 1.15.42]]
@@ -63,4 +70,6 @@
 * Vedānta-sūtra delineates, [[sb/1/5/4#purport|SB 1.5.4]]
 * worship to, compared with devotional service, [[bg/12/1–6|Bg. 12.1–6]]
 
-*See also:* [[a#Absolute Truth|Absolute Truth]]; [[b#Brahmajyoti|Brahmajyoti]]; [[b#Brahman realization|Brahman realization]]; [[s#Supreme Lord|Supreme Lord]]; [[b#Brahman effulgence|Brahman effulgence]]; [[m#Merging with Supreme|Merging with Supreme]]; [[o#Oneness|Oneness]]
+*See also:* [Brahmajyoti](entries/brahmajyoti.md); Brahman effulgence; Merging with Supreme; [Oneness](entries/oneness.md); Absolute Truth; Brahman realization; Supreme Lord
+
+*See:* God realization

@@ -1,6 +1,6 @@
 # Śūdra(s)
 
-[[cc/adi/1/46#purport|Ādi 1.46]], [[cc/adi/10/50#purport|Ādi 10.50]], [[cc/adi/13/118#purport|Ādi 13.118]], [[cc/adi/13/82#purport|Ādi 13.82]], [[cc/adi/17/213#purport|Ādi 17.213]], [[cc/adi/17/253#purport|Ādi 17.253]], [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/antya/16/29#purport|Antya 16.29]], [[cc/antya/3/221#purport|Antya 3.221]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/madhya/2/8//58#purport|Madhya 2.8..58]], [[cc/madhya/24/325#purport|Madhya 24.325]], [[cc/madhya/24/331#purport|Madhya 24.331]], [[cc/madhya/7/63#purport|Madhya 7.63]], [[cc/madhya/8/36#purport|Madhya 8.36]], [[sb/10/8/6#purport|SB 10.8.6]]
+[[cc/adi/1/46#purport|Ādi 1.46]], [[cc/adi/8/20#purport|Ādi 8.20]], [[cc/adi/10/50#purport|Ādi 10.50]], [[cc/adi/13/82#purport|Ādi 13.82]], [[cc/adi/13/118#purport|Ādi 13.118]], [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/adi/17/213#purport|Ādi 17.213]], [[cc/adi/17/253#purport|Ādi 17.253]], [[cc/madhya/7/63#purport|Madhya 7.63]], [[cc/madhya/8/36#purport|Madhya 8.36]], [[cc/madhya/2/8//58#purport|Madhya 2.8..58]], [[cc/madhya/10/17#purport|Madhya 10.17]], [[cc/madhya/24/325#purport|Madhya 24.325]], [[cc/madhya/24/331#purport|Madhya 24.331]], [[cc/antya/3/221#purport|Antya 3.221]], [[cc/antya/16/29#purport|Antya 16.29]], [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/10/8/6#purport|SB 10.8.6]]
 
 * ”brāhmaṇas” as, [[sb/1/12/34-35#purport|SB 1.12.34-35]]
 * Americans as, [[sb/4/8/36#purport|SB 4.8.36]]
@@ -56,7 +56,7 @@
 * Kali-yuga society &, [[sb/3/22/16#purport|SB 3.22.16]], [[sb/3/24/35#purport|SB 3.24.35]]
 * Karṇa as, [[sb/1/15/7#purport|SB 1.15.7]], [[sb/1/15/16#purport|SB 1.15.16]]
 * kings in Kali-yuga as, [[sb/1/17/1#purport|SB 1.17.1]]
-* Kṛṣṇa attainable by, 28 
+* Kṛṣṇa attainable by, 28
 * Kṛṣṇa consciousness movement elevates, [[sb/5/14/31#purport|SB 5.14.31]]
 * kṣatriyas above, [[sb/1/15/7#purport|SB 1.15.7]]
 * kṣatriyas administer through, [[sb/5/4/16#purport|SB 5.4.16]]
@@ -87,7 +87,6 @@
 * punishment for low-class, [[sb/5/26/23#purport|SB 5.26.23]]
 * qualities of, [[bg/2/1|Bg. 2.1]], [[bg/18/44|Bg. 18.44]], [[sb/1/9/26#purport|SB 1.9.26]], [[sb/9/15/40#purport|SB 9.15.40]], [[sb/9/16/28#purport|SB 9.16.28]]
 * Rantideva fed, [[sb/9/21/7#purport|SB 9.21.7]]
-*  [[sb/1/2/7#purport|SB 1.2.7]], [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/16/20#purport|SB 1.16.20]]
 * social status of, [[sb/4/14/17#purport|SB 4.14.17]], [[sb/4/14/45#purport|SB 4.14.45]], [[sb/4/17/9#purport|SB 4.17.9]], [[sb/7/9/10#purport|SB 7.9.10]]
 * success in life for, [[sb/6/3/13-13#purport|SB 6.3.13-13]]
 * symptoms of, [[sb/7/11/24#purport|SB 7.11.24]]
@@ -100,4 +99,4 @@
 * world predominated by, [[sb/7/2/11#purport|SB 7.2.11]]
 * Yamarāja as, [[sb/1/13/1#purport|SB 1.13.1]], [[sb/1/13/15#purport|SB 1.13.15]]
 
-*See also:* [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* Kali personified; Varṇāśrama-dharma

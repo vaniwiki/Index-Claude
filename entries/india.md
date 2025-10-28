@@ -3,7 +3,7 @@
 [[bg/3/20|Bg. 3.20]]
 
 * ”missionary” work in, [[sb/4/27/11#purport|SB 4.27.11]]
-* *Manu-saṁhitā *&,  16.7
+* *Manu-saṁhitā *&, 16.7
 * advantage in, for achieving self-realization, [[sb/5/19/10#purport|SB 5.19.10]]
 * ancient cities in, [[sb/4/18/32#purport|SB 4.18.32]]
 * ancient histories of, [[sb/2/8/21#purport|SB 2.8.21]]
@@ -56,6 +56,7 @@
 * householders of, losing their culture, [[sb/10/6/21#purport|SB 10.6.21]]
 * kings of, ruled world, [[sb/4/21/12#purport|SB 4.21.12]]
 * knowledge of Bhagavad-gītā in, [[sb/10/2/19#purport|SB 10.2.19]]
+* Kṛṣṇa conscious life of, [[sb/3/22/33#purport|SB 3.22.33]]
 * ladies of, as religious, [[sb/1/11/24#purport|SB 1.11.24]]
 * land in, [[bg/11/55|Bg. 11.55]] (5)
 * Manu’s laws followed in, [[sb/4/10/14#purport|SB 4.10.14]]
@@ -75,7 +76,7 @@
 * punishment of thieves in, [[sb/4/13/19-20#purport|SB 4.13.19-20]]
 * pure devotees in, [[sb/1/13/27#purport|SB 1.13.27]]
 * Rāmarājya party in, [[sb/4/22/63#purport|SB 4.22.63]]
-* royalty of 
+* royalty of
 * sacred rivers bless, [[sb/5/17/1#purport|SB 5.17.1]]
 * saha-māraṇa in, [[sb/7/2/34#purport|SB 7.2.34]]
 * Śaṅkhacūḍa ceremony in, [[sb/2/7/33#purport|SB 2.7.33]]
@@ -95,7 +96,7 @@
 * temples in, [[bg/9/34|Bg. 9.34]], [[bg/11/54|Bg. 11.54]] (1), [[sb/7/14/8#purport|SB 7.14.8]]
 * time’s influence in, [[sb/1/13/20#purport|SB 1.13.20]]
 * trees of, prominent, [[sb/7/2/15#purport|SB 7.2.15]]
-* Vedic authorities of, 3 
+* Vedic authorities of, 3
 * Vedic, compared with modern, [[sb/10/5/7#purport|SB 10.5.7]], [[sb/10/5/8#purport|SB 10.5.8]]
 * Vṛndāvana in, [[bg/8/21|Bg. 8.21]]
 * wealthy persons in, [[sb/4/22/44#purport|SB 4.22.44]]
@@ -104,4 +105,4 @@
 * worship to Nārāyaṇa in, [[sb/6/1/27#purport|SB 6.1.27]]
 * yavanas & mlecchas not limited to, [[sb/4/27/24#purport|SB 4.27.24]]
 
-*See also:* [[b#Bhārata-varṣa|Bhārata-varṣa]]; [[p#Pilgrimage places|Pilgrimage places]]; [[v#Vedic culture|Vedic culture]]
+*See also:* Bhārata-varṣa; Holies place; Kṣatriyas; Pilgrimage places; Vedic culture

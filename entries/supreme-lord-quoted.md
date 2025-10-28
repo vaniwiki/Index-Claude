@@ -1,6 +1,16 @@
 # Supreme Lord quoted
 
-* aaBhagavad-gītā quoted; Supreme Lord cited 
+* aaBhagavad-gītā quoted; Supreme Lord cited
+* as death personified, N107
+* as knower in all bodies, [[sb/10/2/27#purport|SB 10.2.27]]
+* delivering devotees & destroying demons, [[sb/10/1/19#purport|SB 10.1.19]], [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/64#purport|SB 10.1.64]]
+* enlightening devotees, N107, [[sb/10/2/6#purport|SB 10.2.6]]
+* hiding from nondevotee’s vision, [[sb/10/2/35#purport|SB 10.2.35]]
+* in heart, [[sb/10/1/4#purport|SB 10.1.4]]
+* inferior & superior energies of, [[sb/10/2/27#purport|SB 10.2.27]], [[sb/10/3/18#purport|SB 10.3.18]]
+* known via devotional service, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/2/36#purport|SB 10.2.36]]
+* maintaining devotees, [[sb/10/2/26#purport|SB 10.2.26]]
+* material energies of, [[sb/10/3/14#purport|SB 10.3.14]]
 * on Aditi & sons, [[sb/8/17/12#purport|SB 8.17.12]]
 * on Arjuna’s falldown, [[sb/7/10/49#purport|SB 7.10.49]]
 * on Bali, [[sb/8/19/2#purport|SB 8.19.2]], [[sb/8/22/31#purport|SB 8.22.31]]
@@ -27,7 +37,7 @@
 * on foolish impersonalists, [[sb/7/9/37#purport|SB 7.9.37]]
 * on God & demigods, [[sb/10/1/56#purport|SB 10.1.56]]
 * on Godhead, returning to, [[sb/10/1/23#purport|SB 10.1.23]]
-* on Himself 
+* on Himself
 * on His fulfilling Kardama’s desires, [[sb/3/21/23-24#purport|SB 3.21.23-24]]
 * on knowing Lord’s advent & activities, [[sb/10/1/65-66#purport|SB 10.1.65-66]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/32#purport|SB 10.3.32]]
 * on Lord as equally disposed, [[sb/8/17/23#purport|SB 8.17.23]]
@@ -57,7 +67,7 @@
 * on surrender to Lord, [[sb/8/16/61#purport|SB 8.16.61]], [[sb/8/22/9#purport|SB 8.22.9]], [[sb/8/24/50#purport|SB 8.24.50]]
 * on surrender, [[sb/9/9/5#purport|SB 9.9.5]], [[sb/9/11/23#purport|SB 9.11.23]], [[sb/9/11/25#purport|SB 9.11.25]]
 * on surrendering to Him, [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/2/26#purport|SB 10.2.26]]
-* on thinking of Him always, [[sb/10/3/44#purport|SB 10.3.44]], [[sb/9/21/17#purport|SB 9.21.17]]
+* on thinking of Him always, [[sb/9/21/17#purport|SB 9.21.17]], [[sb/10/3/44#purport|SB 10.3.44]]
 * on tolerance amid happiness & distress, [[sb/10/1/59#purport|SB 10.1.59]]
 * on transcendence & devotional service, [[sb/10/2/32#purport|SB 10.2.32]]
 * on vaiśyas, [[sb/10/5/7#purport|SB 10.5.7]]
@@ -65,5 +75,10 @@
 * on water of devastation, [[sb/8/24/32#purport|SB 8.24.32]]
 * on worship to devotees, [[sb/10/5/15-16#purport|SB 10.5.15-16]]
 * on yogī, [[sb/7/7/28#purport|SB 7.7.28]]
+* pervading universe, [[sb/10/2/9#purport|SB 10.2.9]]
+* protecting devotees, [[sb/10/2/33#purport|SB 10.2.33]], [[sb/10/3/28#purport|SB 10.3.28]]
+* protection by, [[sb/10/1/5-7#purport|SB 10.1.5-7]]
+* reviving religion & removing irreligion, [[sb/10/1/17#purport|SB 10.1.17]], [[sb/10/2/20#purport|SB 10.2.20]], [[sb/10/2/39#purport|SB 10.2.39]], [[sb/10/5/13#purport|SB 10.5.13]]
+* within & without, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
 
-*See also:* [[b#Bhagavad-gītā quoted|Bhagavad-gītā quoted]]; [[b#Bhagavad-gītā|Bhagavad-gītā]]; quoted
+*See also:* Bhagavad-gītā quoted; Bhagavad-gītā; quoted

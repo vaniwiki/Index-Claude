@@ -1,6 +1,6 @@
 # Goddess of fortune
 
-[[sb/9/10/6-7#purport|SB 9.10.6-7]]
+[[bg/1/14|Bg. 1.14]], [[bg/1/15|Bg. 1.15]], [[bg/1/20|Bg. 1.20]], [[bg/1/36|Bg. 1.36]], [[sb/4/25/28-29#purport|SB 4.25.28-29]], [[sb/4/26/17#purport|SB 4.26.17]], [[sb/4/31/22#purport|SB 4.31.22]], [[sb/9/10/6-7#purport|SB 9.10.6-7]]
 
 * abhiṣeka ceremony for, [[sb/8/8/15#purport|SB 8.8.15]]
 * always serves Lord, [[sb/4/8/23-23#purport|SB 4.8.23-23]]
@@ -17,7 +17,6 @@
 * as transcendental, [[sb/8/8/17#purport|SB 8.8.17]]
 * as worshiped for opulence, [[sb/4/8/23#purport|SB 4.8.23]]
 * beauty of, [[sb/8/8/9#purport|SB 8.8.9]], [[sb/8/8/14#purport|SB 8.8.14]], [[sb/8/8/17#purport|SB 8.8.17]], [[sb/8/8/18#purport|SB 8.8.18]]
-*  [[bg/1/14|Bg. 1.14]], [[bg/1/15|Bg. 1.15]], [[bg/1/20|Bg. 1.20]], [[bg/1/36|Bg. 1.36]], [[sb/4/25/28-29#purport|SB 4.25.28-29]], [[sb/4/26/17#purport|SB 4.26.17]], [[sb/4/31/22#purport|SB 4.31.22]]
 * born with Yajña, [[sb/4/1/4#purport|SB 4.1.4]]
 * demigods blessed by, [[sb/8/8/28#purport|SB 8.8.28]]
 * demigods worship, [[sb/4/8/23-23#purport|SB 4.8.23-23]]
@@ -61,4 +60,4 @@
 * Vaikuṇṭha pleased, [[sb/8/5/5#purport|SB 8.5.5]]
 * Yamunā served, [[sb/8/8/10#purport|SB 8.8.10]]
 
-*See:* [[l#Lakṣmī|Lakṣmī]]
+*See:* Lakṣmī

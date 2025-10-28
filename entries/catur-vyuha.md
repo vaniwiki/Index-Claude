@@ -1,6 +1,6 @@
 # Catur-vyūha
 
-**[[cc/madhya/20/188–95#translation|Madhya 20.188–95]]**, **[[cc/madhya/20/203–6#translation|Madhya 20.203–6]]**, **[[cc/madhya/20/210#translation|Madhya 20.210]]**, [[cc/madhya/21/104#purport|Madhya 21.104]], **[[cc/madhya/22/9#translation|Madhya 22.9]]**
+**[[cc/madhya/22/9#translation|Madhya 22.9]]**, **[[cc/madhya/20/188–95#translation|Madhya 20.188–95]]**, **[[cc/madhya/20/203–6#translation|Madhya 20.203–6]]**, **[[cc/madhya/20/210#translation|Madhya 20.210]]**, [[cc/madhya/21/104#purport|Madhya 21.104]]
 
 * as expansions of Kṛṣṇa, **[[cc/madhya/22/9#translation|Madhya 22.9]]**
 * as prābhava-vilāsa expansion, **[[cc/adi/1/78#translation|Ādi 1.78]]**, **[[cc/madhya/20/186#translation|Madhya 20.186]]**
@@ -17,6 +17,6 @@
 * understanding, [[cc/adi/5/41#purport|Ādi 5.41]]
 * vaibhava feature of Lord &, [[cc/madhya/20/174#purport|Madhya 20.174]]
 
-*See also:* [[a#Aniruddha|Aniruddha]]; [[p#Pradyumna|Pradyumna]]; [[s#Saṅkarṣaṇa|Saṅkarṣaṇa]]; [[v#Vāsudeva|Vāsudeva]]
+*See also:* Aniruddha; Pradyumna; Saṅkarṣaṇa; Vāsudeva
 
-*See:* [[q#Quadruple expansions of Godhead|Quadruple expansions of Godhead]]
+*See:* Quadruple expansions of Godhead

@@ -16,4 +16,4 @@
 * respect for, Lord taught, [[sb/4/6/40#purport|SB 4.6.40]]
 * Vedic, compared with modern, [[sb/10/7/4#purport|SB 10.7.4]]
 
-*See also:* [[f#Family life|Family life]]; Fathers; [[g#Gṛhasthas|Gṛhasthas]]; Husbands; [[m#Marriage|Marriage]]; Mothers; [[w#Wife|Wife]]; Gṛhasthhas; specific parents
+*See also:* Family life; Fathers; Gṛhasthas; Husbands; [Marriage](entries/marriage.md); Mothers; [Wife](entries/wife.md); Gṛhasthhas; specific parents

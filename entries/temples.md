@@ -1,6 +1,6 @@
 # Temple(s)
 
-[[cc/adi/10/105#purport|Ādi 10.105]], **[[cc/adi/10/41–42#translation|Ādi 10.41–42]]**, [[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/12/85#purport|Ādi 12.85]], [[cc/adi/12/88#purport|Ādi 12.88]], [[cc/adi/7/160#purport|Ādi 7.160]], [[cc/adi/7/164#purport|Ādi 7.164]], **[[cc/adi/8/50–54#translation|Ādi 8.50–54]]**, **[[cc/adi/8/73#translation|Ādi 8.73]]**, **[[cc/adi/8/74#translation|Ādi 8.74]]**, **[[cc/madhya/1/143#translation|Madhya 1.143]]**, **[[cc/madhya/1/145#translation|Madhya 1.145]]**, **[[cc/madhya/12/205–19#translation|Madhya 12.205–19]]**, [[cc/madhya/12/73#purport|Madhya 12.73]], **[[cc/madhya/14/244–47#translation|Madhya 14.244–47]]**, [[cc/madhya/4/104#purport|Madhya 4.104]], **[[cc/madhya/9/198#translation|Madhya 9.198]]**, **[[cc/madhya/9/219#translation|Madhya 9.219]]**, **[[cc/madhya/9/221#translation|Madhya 9.221]]**, **[[cc/madhya/9/222#translation|Madhya 9.222]]**, **[[cc/madhya/9/225#translation|Madhya 9.225]]**, [[cc/madhya/9/289#purport|Madhya 9.289]], **[[cc/madhya/9/65#translation|Madhya 9.65]]**, **[[cc/madhya/9/77#translation|Madhya 9.77]]**, [[cc/madhya/9/78#purport|Madhya 9.78]], **[[cc/madhya/9/79#translation|Madhya 9.79]]**
+**[[cc/madhya/1/143#translation|Madhya 1.143]]**, **[[cc/madhya/1/145#translation|Madhya 1.145]]**, **[[cc/adi/10/41–42#translation|Ādi 10.41–42]]**, **[[cc/madhya/12/205–19#translation|Madhya 12.205–19]]**, [[cc/madhya/12/73#purport|Madhya 12.73]], **[[cc/madhya/14/244–47#translation|Madhya 14.244–47]]**, **[[cc/madhya/9/198#translation|Madhya 9.198]]**, **[[cc/madhya/9/65#translation|Madhya 9.65]]**, **[[cc/madhya/9/225#translation|Madhya 9.225]]**, **[[cc/madhya/9/222#translation|Madhya 9.222]]**, **[[cc/madhya/9/77#translation|Madhya 9.77]]**, **[[cc/madhya/9/221#translation|Madhya 9.221]]**, [[cc/madhya/9/78#purport|Madhya 9.78]], **[[cc/madhya/9/219#translation|Madhya 9.219]]**, **[[cc/madhya/9/79#translation|Madhya 9.79]]**, [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/12/88#purport|Ādi 12.88]], [[cc/adi/7/160#purport|Ādi 7.160]], [[cc/adi/7/164#purport|Ādi 7.164]], [[cc/madhya/4/104#purport|Madhya 4.104]], [[cc/madhya/9/289#purport|Madhya 9.289]], **[[cc/adi/8/50–54#translation|Ādi 8.50–54]]**, [[cc/adi/10/90#purport|Ādi 10.90]], **[[cc/adi/8/73#translation|Ādi 8.73]]**, **[[cc/adi/8/74#translation|Ādi 8.74]]**, [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/85#purport|Ādi 10.85]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/12/85#purport|Ādi 12.85]], [[cc/adi/10/90#purport|Ādi 10.90]], [[cc/adi/10/105#purport|Ādi 10.105]], [[cc/adi/10/90#purport|Ādi 10.90]]
 
 * ”Anglican,” in Vṛndāvana, [[sb/7/15/2#purport|SB 7.15.2]]
 * Abhirāma Ṭhākura’s, [[cc/adi/11/13#purport|Ādi 11.13]]
@@ -16,13 +16,13 @@
 * at Ālālanātha, [[cc/madhya/1/122#purport|Madhya 1.122]]
 * at Benares, **[[cc/madhya/25/60#translation|Madhya 25.60]]**, **[[cc/madhya/25/62#translation|Madhya 25.62]]**
 * at Govinda-kuṇḍa, [[cc/madhya/18/37#purport|Madhya 18.37]]
-* at Kāśī, **[[cc/madhya/17/86#translation|Madhya 17.86]]**, **[[cc/madhya/25/175#translation|Madhya 25.175]]**, [[cc/madhya/17/89#purport|Madhya 17.89]]
+* at Kāśī, [[cc/madhya/17/89#purport|Madhya 17.89]], **[[cc/madhya/17/86#translation|Madhya 17.86]]**, **[[cc/madhya/25/175#translation|Madhya 25.175]]**
 * at Kurukṣetra, [[cc/madhya/18/221#purport|Madhya 18.221]]
 * at Mathurā, **[[cc/madhya/18/47#translation|Madhya 18.47]]**, [[cc/madhya/18/48#purport|Madhya 18.48]]
 * at Prayāga, **[[cc/madhya/17/86#translation|Madhya 17.86]]**, **[[cc/madhya/19/38#translation|Madhya 19.38]]**
 * at Purī, **[[cc/madhya/25/231–33#translation|Madhya 25.231–33]]**
 * at Ṛṣabha Hill, **[[cc/madhya/9/166#translation|Madhya 9.166]]**
-* at Vṛndāvana, [[cc/madhya/18/49#purport|Madhya 18.49]], [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/antya/13/131#purport|Antya 13.131]]
+* at Vṛndāvana, [[cc/madhya/18/49#purport|Madhya 18.49]], [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/antya/13/131#purport|Antya 13.131]], [[cc/madhya/23/104#purport|Madhya 23.104]]
 * at Yājapura, **[[cc/madhya/5/3–4#translation|Madhya 5.3–4]]**
 * author founded, [[sb/7/13/34#purport|SB 7.13.34]]
 * Bālājī, [[cc/madhya/1/105#purport|Madhya 1.105]]
@@ -50,13 +50,13 @@
 * Govindarāja, [[cc/madhya/9/64#purport|Madhya 9.64]]
 * Guṇḍicā, **[[cc/adi/12/20#translation|Ādi 12.20]]**, **[[cc/madhya/1/133#translation|Madhya 1.133]]**
 * Hanumān, **[[cc/madhya/8/300#translation|Madhya 8.300]]**
-* Hare Kṛṣṇa 
 * Hare Kṛṣṇa, [[sb/7/14/27-28#purport|SB 7.14.27-28]], [[sb/7/14/30-33#purport|SB 7.14.30-33]]
 * in Ambikā-kālanā, [[cc/adi/11/26#purport|Ādi 11.26]]
 * in Āṭapura, [[cc/adi/11/29#purport|Ādi 11.29]], [[cc/adi/11/29#purport|Ādi 11.29]]
 * in Bengal, [[cc/adi/8/66#purport|Ādi 8.66]]
 * in Calcutta, [[cc/adi/10/84#purport|Ādi 10.84]]
 * in Cāṅpāhāṭi, [[cc/adi/10/114#purport|Ādi 10.114]]
+* in Durban, South Africa, [[sb/10/13/60#purport|SB 10.13.60]]
 * in Ekacakrā, [[cc/adi/13/61#purport|Ādi 13.61]]
 * in India, [[bg/9/34|Bg. 9.34]], [[sb/7/14/8#purport|SB 7.14.8]]
 * in India, prasāda distribution at, [[sb/10/7/13-15#purport|SB 10.7.13-15]]
@@ -68,7 +68,7 @@
 * in Śītala, [[cc/adi/11/31#purport|Ādi 11.31]]
 * in Śrī-kṛṣṇapura, [[cc/adi/10/91#purport|Ādi 10.91]]
 * in Vṛndāvana & Māyāpur, [[cc/adi/10/22#purport|Ādi 10.22]], [[cc/madhya/25/183#purport|Madhya 25.183]]
-* in Vṛndāvana, [[cc/adi/1/19#purport|Ādi 1.19]], [[cc/adi/12/82#purport|Ādi 12.82]], [[cc/madhya/16/281#purport|Madhya 16.281]], [[cc/madhya/17/156#purport|Madhya 17.156]]
+* in Vṛndāvana, [[cc/madhya/16/281#purport|Madhya 16.281]], [[cc/madhya/17/156#purport|Madhya 17.156]], [[cc/adi/1/19#purport|Ādi 1.19]], [[cc/adi/12/82#purport|Ādi 12.82]], [[sb/10/13/5#purport|SB 10.13.5]], [[sb/10/13/49#purport|SB 10.13.49]], [[sb/10/13/50#purport|SB 10.13.50]]
 * Jiyaḍa-nṛsiṁha, **[[cc/madhya/1/103#translation|Madhya 1.103]]**, [[cc/madhya/8/3#purport|Madhya 8.3]]
 * Kṛṣṇa proprietor of, [[bg/11/55|Bg. 11.55]] (2)
 * Kṣīra-bhagavatī, **[[cc/madhya/9/281#translation|Madhya 9.281]]**
@@ -113,6 +113,7 @@
 * Viṭhṭhala Ṭhākura, **[[cc/madhya/9/282#translation|Madhya 9.282]]**, **[[cc/madhya/9/303#translation|Madhya 9.303]]**
 * wealth to support, [[bg/11/55|Bg. 11.55]] (2)
 * worship at, [[bg/11/54|Bg. 11.54]] (1), [[bg/17/11|Bg. 17.11]]
+  * *See also:* Deity worship
 * Yāllāmmā, [[cc/madhya/9/281#purport|Madhya 9.281]]
 
-*See also:* Deities form; Deity; [[g#Guṇḍicā temple|Guṇḍicā temple]]; [[j#Jagannātha temple|Jagannātha temple]]
+*See also:* Deities form; Deity; Guṇḍicā temple; Jagannātha temple

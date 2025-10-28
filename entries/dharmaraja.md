@@ -6,4 +6,4 @@
 
 *See also:* Yamārāja
 
-*See:* [[y#Yamarāja|Yamarāja]]; Yamārāja; [[y#Yudhiṣṭhira Mahārāja|Yudhiṣṭhira Mahārāja]]
+*See:* Yamarāja; Yamārāja; Yudhiṣṭhira Mahārāja

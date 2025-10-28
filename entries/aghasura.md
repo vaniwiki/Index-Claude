@@ -1,6 +1,6 @@
 # Aghāsura
 
-[[cc/adi/3/87#purport|Ādi 3.87]], [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/1/10/25#purport|SB 1.10.25]]
+[[cc/adi/3/87#purport|Ādi 3.87]], [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/1/10/25#purport|SB 1.10.25]], [[sb/10/2/1-2#purport|SB 10.2.1-2]], [[sb/10/13/4#purport|SB 10.13.4]], [[sb/10/13/15#purport|SB 10.13.15]]
 
 * advent of, arrangement of, [[sb/10/12/13#purport|SB 10.12.13]]
 * compared to mountain, [[sb/10/12/16#purport|SB 10.12.16]], [[sb/10/12/17#purport|SB 10.12.17]], [[sb/10/12/21#purport|SB 10.12.21]], [[sb/10/12/22#purport|SB 10.12.22]]
@@ -13,4 +13,3 @@
 * Kṛṣṇa vs., [[sb/10/12/14-16#purport|SB 10.12.14-16]], [[sb/10/12/24-33#purport|SB 10.12.24-33]]
 * quoted on killing Kṛṣṇa & His associates, [[sb/10/12/14#purport|SB 10.12.14]], [[sb/10/12/15#purport|SB 10.12.15]]
 * relatives of, [[sb/10/12/14#purport|SB 10.12.14]]
-*  [[sb/10/2/1-2#purport|SB 10.2.1-2]], [[sb/10/13/4#purport|SB 10.13.4]], [[sb/10/13/15#purport|SB 10.13.15]]

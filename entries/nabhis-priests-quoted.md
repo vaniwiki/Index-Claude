@@ -1,8 +1,21 @@
 # Nābhis priests quoted
 
+* affection of, for devotees, [[sb/5/3/12#purport|SB 5.3.12]]
+* as self-satisfied, [[sb/5/3/8#purport|SB 5.3.8]]
+* as supreme benefactor, [[sb/5/3/10#purport|SB 5.3.10]]
+* as transcendental, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
+* compared with living entities, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
+* devotees of, worship to, [[sb/5/3/14#purport|SB 5.3.14]]
+* devotees satisfy, [[sb/5/3/6#purport|SB 5.3.6]]
+* glorification of, [[sb/5/3/11#purport|SB 5.3.11]]
+* illusory energy of, [[sb/5/3/14#purport|SB 5.3.14]]
+* mercy of, [[sb/5/3/9#purport|SB 5.3.9]]
 * on living entities, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
-* on Lord 
+* on Lord
 * on Nābhi, [[sb/5/3/13#purport|SB 5.3.13]]
 * on saintly persons, [[sb/5/3/11#purport|SB 5.3.11]]
 * on sins, eradication of, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
 * on themselves, [[sb/5/3/9#purport|SB 5.3.9]], [[sb/5/3/12#purport|SB 5.3.12]], [[sb/5/3/15#purport|SB 5.3.15]]
+* presence of, [[sb/5/3/11#purport|SB 5.3.11]]
+* sacrifice to, [[sb/5/3/8#purport|SB 5.3.8]]
+* satisfaction of, [[sb/5/3/6-7#purport|SB 5.3.6-7]]

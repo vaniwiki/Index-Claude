@@ -10,4 +10,4 @@
 * meaning of name, [[sb/4/28/29#purport|SB 4.28.29]], [[sb/4/28/65#purport|SB 4.28.65]]
 * perfection attained by, [[sb/4/28/38-42#purport|SB 4.28.38-42]]
 * renunciation by, [[sb/4/28/33-39#purport|SB 4.28.33-39]]
-* wife of. See: Vaidarbhī 
+* wife of. See: Vaidarbhī

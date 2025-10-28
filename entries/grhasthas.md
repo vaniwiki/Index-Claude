@@ -1,6 +1,7 @@
-# Gṛhastha(s)
+# Gṛhasthas
 
-*  See: Family life; *Varṇāśrama-dharma *system m
+m
+
 * activities of, [[sb/7/15/36#purport|SB 7.15.36]]
 * Aditi as, [[sb/8/16/5-5#purport|SB 8.16.5-5]]
 * as āśrama, [[sb/4/26/16#purport|SB 4.26.16]]
@@ -52,7 +53,7 @@
 * Lord as, [[sb/1/10/30#purport|SB 1.10.30]], [[sb/1/10/30#purport|SB 1.10.30]], [[sb/1/11/31#purport|SB 1.11.31]], [[sb/1/11/35-36#purport|SB 1.11.35-36]], [[sb/1/11/39#purport|SB 1.11.39]]
 * lusty, [[sb/9/19/5-6#purport|SB 9.19.5-6]]
 * material, compared with spiritual, [[sb/7/6/9-10#purport|SB 7.6.9-10]]
-* materialistic. See: Gṛhamedhīs 
+* materialistic. See: Gṛhamedhīs
 * money surplus for Kṛṣṇa by, [[sb/7/14/8#purport|SB 7.14.8]]
 * money-managing by, [[sb/3/21/31#purport|SB 3.21.31]]
 * of Indian royalty, [[sb/3/22/33#purport|SB 3.22.33]]
@@ -96,6 +97,6 @@
 * worship by, [[sb/7/14/16-16#purport|SB 7.14.16-16]], [[sb/8/16/9-9#purport|SB 8.16.9-9]]
 * Yudhiṣṭhira as, [[sb/7/14/1#purport|SB 7.14.1]]
 
-*See also:* [[c#Children|Children]]; [[f#Family life|Family life]]; Fathers; Husbands; [[m#Marriage|Marriage]]; Mothers; [[p#Parents|Parents]]; [[w#Wife|Wife]]; [[s#Sex life|Sex life]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]; [[f#Family|Family]]; Father; [[h#Husband|Husband]]; [[m#Mother|Mother]]; [[g#Gṛhastha-āśrama|Gṛhastha-āśrama]]
+*See also:* [Children](entries/children.md); Family life; [Marriage](entries/marriage.md); Sex life; Varṇāśrama-dharma; Fathers; Husbands; Mothers; Parents; [Wife](entries/wife.md); [Family](entries/family.md); [Husband](entries/husbands.md); Father; [Mother](entries/mothers.md); Gṛhastha-āśrama
 
-*See:* [[f#Family life|Family life]]
+*See:* Family life

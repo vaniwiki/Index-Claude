@@ -1,5 +1,7 @@
 # Beauty
 
+* compared with spiritual, [[sb/3/20/31#purport|SB 3.20.31]]
+* detailed, [[sb/4/30/5-7#purport|SB 4.30.5-7]], [[sb/4/30/25-26#purport|SB 4.30.25-26]]
 * facial, [[sb/3/23/33#purport|SB 3.23.33]]
 * false, story of, [[sb/4/26/23#purport|SB 4.26.23]]
 * in creation, Lord inspires, [[sb/2/10/49-50#purport|SB 2.10.49-50]]

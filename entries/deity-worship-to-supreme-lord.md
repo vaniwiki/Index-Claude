@@ -1,5 +1,7 @@
 # Deity worship to Supreme Lord
 
+[[sb/4/28/34#purport|SB 4.28.34]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/30/28#purport|SB 4.30.28]], [[sb/6/16/31#purport|SB 6.16.31]], [[sb/6/16/44#purport|SB 6.16.44]], [[sb/6/19/7-7#purport|SB 6.19.7-7]]
+
 * abhiṣeka ceremony in, [[sb/8/8/15#purport|SB 8.8.15]]
 * as brāhmaṇas’ duty, [[sb/6/5/36#purport|SB 6.5.36]]
 * as transcendental, [[sb/8/3/2#purport|SB 8.3.2]]
@@ -20,7 +22,6 @@
 * offering foods in, [[sb/4/30/28#purport|SB 4.30.28]], [[sb/4/31/10#purport|SB 4.31.10]]
 * pāñcarātrika-vidhi for, [[sb/4/27/24#purport|SB 4.27.24]]
 * paraphernalia for, [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/16/39#purport|SB 8.16.39]], [[sb/8/16/44-45#purport|SB 8.16.44-45]], [[sb/8/16/50#purport|SB 8.16.50]]
-*  [[sb/4/28/34#purport|SB 4.28.34]], [[sb/4/29/61#purport|SB 4.29.61]], [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/30/28#purport|SB 4.30.28]], [[sb/6/16/31#purport|SB 6.16.31]], [[sb/6/16/44#purport|SB 6.16.44]], [[sb/6/19/7-7#purport|SB 6.19.7-7]]
 * spiritual power of, [[sb/8/4/6#purport|SB 8.4.6]]
 * via work, [[sb/4/20/9#purport|SB 4.20.9]]
 * with saṅkīrtana, [[sb/6/3/25#purport|SB 6.3.25]]

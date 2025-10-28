@@ -15,4 +15,4 @@
 * pure devotee in, [[sb/8/19/2#purport|SB 8.19.2]]
 * sex life for, [[sb/8/2/30#purport|SB 8.2.30]]
 
-*See also:* [[c#Children|Children]]; Fathers; [[h#Householders|Householders]]; [[m#Marriage|Marriage]]; [[p#Parents|Parents]]; Sons
+*See also:* [Children](entries/children.md); Fathers; Householders; [Marriage](entries/marriage.md); Parents; Sons

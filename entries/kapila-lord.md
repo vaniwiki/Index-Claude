@@ -1,10 +1,10 @@
 # Kapila, Lord
 
-[[cc/adi/1/60#purport|Ādi 1.60]], [[cc/adi/2/97#purport|Ādi 2.97]], [[cc/adi/4/207#purport|Ādi 4.207]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/antya/3/189#purport|Antya 3.189]], [[cc/antya/4/70#purport|Antya 4.70]], [[cc/madhya/11/192#purport|Madhya 11.192]], [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/12/186#purport|Madhya 12.186]], [[cc/madhya/16/186#purport|Madhya 16.186]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/18/125#purport|Madhya 18.125]], [[cc/madhya/19/171#purport|Madhya 19.171]], [[cc/madhya/20/244#purport|Madhya 20.244]], [[cc/madhya/20/274#purport|Madhya 20.274]], [[cc/madhya/20/334#purport|Madhya 20.334]], **[[cc/madhya/22/162#translation|Madhya 22.162]]**, [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/22/88–90#purport|Madhya 22.88–90]], **[[cc/madhya/6/270#translation|Madhya 6.270]]**, [[sb/2/7/3#purport|SB 2.7.3]], [[sb/6/15/12-15#purport|SB 6.15.12-15]], [[sb/9/9/3#purport|SB 9.9.3]]
+[[bg/4/16|Bg. 4.16]], [[bg/7/15|Bg. 7.15]] (2), [[cc/adi/1/60#purport|Ādi 1.60]], [[cc/adi/2/97#purport|Ādi 2.97]], [[cc/adi/4/207#purport|Ādi 4.207]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], **[[cc/madhya/6/270#translation|Madhya 6.270]]**, [[cc/madhya/11/99#purport|Madhya 11.99]], [[cc/madhya/11/192#purport|Madhya 11.192]], [[cc/madhya/12/186#purport|Madhya 12.186]], [[cc/madhya/16/186#purport|Madhya 16.186]], [[cc/madhya/17/185#purport|Madhya 17.185]], [[cc/madhya/18/125#purport|Madhya 18.125]], [[cc/madhya/19/171#purport|Madhya 19.171]], [[cc/madhya/20/244#purport|Madhya 20.244]], [[cc/madhya/20/274#purport|Madhya 20.274]], [[cc/madhya/20/334#purport|Madhya 20.334]], [[cc/madhya/22/81#purport|Madhya 22.81]], [[cc/madhya/22/88–90#purport|Madhya 22.88–90]], **[[cc/madhya/22/162#translation|Madhya 22.162]]**, [[cc/antya/3/189#purport|Antya 3.189]], [[cc/antya/4/70#purport|Antya 4.70]], [[sb/1/3/10#purport|SB 1.3.10]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/9/19#purport|SB 1.9.19]], [[sb/2/7/3#purport|SB 2.7.3]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/59#purport|SB 4.24.59]], [[sb/4/29/81#purport|SB 4.29.81]], [[sb/6/15/12-15#purport|SB 6.15.12-15]], [[sb/9/9/3#purport|SB 9.9.3]]
 
 * & mother, [[bg/2/39|Bg. 2.39]] (1), [[bg/10/26|Bg. 10.26]]
 * advent of, purpose of, [[sb/3/24/30#purport|SB 3.24.30]], [[sb/3/24/35-37#purport|SB 3.24.35-37]], [[sb/3/25/1-1#purport|SB 3.25.1-1]], [[sb/3/25/11#purport|SB 3.25.11]], [[sb/3/33/5#purport|SB 3.33.5]], [[sb/3/33/12#purport|SB 3.33.12]]
-* Aṁśumān 
+* Aṁśumān
 * anger absent in, [[sb/9/8/12#purport|SB 9.8.12]], [[sb/9/8/13#purport|SB 9.8.13]]
 * as aṁśa expansion, [[sb/3/24/10#purport|SB 3.24.10]]
 * as Devahūti’s son, [[sb/3/24/19-19#purport|SB 3.24.19-19]], [[sb/8/1/5#purport|SB 8.1.5]], [[sb/8/1/6#purport|SB 8.1.6]]
@@ -17,7 +17,6 @@
 * as transcendental, [[sb/9/8/13#purport|SB 9.8.13]], [[sb/9/8/21#purport|SB 9.8.21]]
 * atheist imitator of, [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/24/10#purport|SB 3.24.10]], [[sb/3/24/19#purport|SB 3.24.19]], [[sb/3/33/34#purport|SB 3.33.34]]
 * benediction from, [[sb/3/32/43#purport|SB 3.32.43]]
-*  [[bg/4/16|Bg. 4.16]], [[bg/7/15|Bg. 7.15]] (2), [[sb/1/3/10#purport|SB 1.3.10]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/9/19#purport|SB 1.9.19]], [[sb/4/21/28-29#purport|SB 4.21.28-29]], [[sb/4/24/42#purport|SB 4.24.42]], [[sb/4/24/59#purport|SB 4.24.59]], [[sb/4/29/81#purport|SB 4.29.81]]
 * bodily features of, [[sb/3/24/17#purport|SB 3.24.17]]
 * body of, in complete goodness, [[sb/9/8/12#purport|SB 9.8.12]]
 * born from Devahūti, [[sb/3/33/2#purport|SB 3.33.2]], [[sb/3/33/4-4#purport|SB 3.33.4-4]]
@@ -35,6 +34,7 @@
 * hearing about, benediction for, [[sb/3/33/37#purport|SB 3.33.37]]
 * in Devahūti’s womb, [[sb/3/24/18#purport|SB 3.24.18]]
 * incarnates for giving knowledge, [[sb/3/33/5#purport|SB 3.33.5]]
+* instructed by, [[sb/9/8/28#purport|SB 9.8.28]]
 * Jaḍa Bharata representative of, [[sb/5/10/19#purport|SB 5.10.19]]
 * Kardama addresses, [[sb/3/24/30-34#purport|SB 3.24.30-34]]
 * Kardama father of, [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/22/19#purport|SB 3.22.19]], [[sb/3/24/11#purport|SB 3.24.11]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/3/24/30#purport|SB 3.24.30]], [[sb/3/24/33#purport|SB 3.24.33]], [[sb/3/24/35#purport|SB 3.24.35]]
@@ -48,9 +48,10 @@
 * planet of, [[sb/3/33/30#purport|SB 3.33.30]]
 * praised by Devahūti, [[sb/3/29/5#purport|SB 3.29.5]], [[sb/3/33/2-5#purport|SB 3.33.2-5]], [[sb/3/33/8#purport|SB 3.33.8]]
 * praised by Śaunaka, [[sb/3/25/1-3#purport|SB 3.25.1-3]]
+* prayed to, [[sb/9/8/20-26#purport|SB 9.8.20-26]]
 * protection by, [[sb/6/8/16#purport|SB 6.8.16]]
 * qualities of, [[sb/3/33/9#purport|SB 3.33.9]]
-* quoted. See: Kapila quoted 
+* quoted. See: Kapila quoted
 * renunciation by, [[sb/3/33/12-12#purport|SB 3.33.12-12]], [[sb/3/33/33#purport|SB 3.33.33]]
 * residence of today, [[sb/3/33/34-35#purport|SB 3.33.34-35]]
 * Sagara’s sons attacked, [[sb/9/8/9-10#purport|SB 9.8.9-10]]
@@ -59,5 +60,7 @@
 * Sāṅkhya philosophy spoken by, [[sb/9/8/13#purport|SB 9.8.13]]
 * sāṅkhya-yoga started by, [[sb/8/16/30#purport|SB 8.16.30]]
 * subjects taught by, [[sb/8/1/5#purport|SB 8.1.5]]
-* surrender to. See: Surrender to Lord 
+* surrender to. See: Surrender to Lord
 * travels of, [[sb/3/33/34#purport|SB 3.33.34]]
+
+*See also:* Kardama Muni; Kapila & ...

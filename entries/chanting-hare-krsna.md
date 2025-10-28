@@ -1,5 +1,7 @@
 # Chanting Hare Kṛṣṇa
 
+[[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/24/56#purport|SB 9.24.56]]
+
 * ”animals” give up, [[sb/4/20/26-26#purport|SB 4.20.26-26]]
 * advantages of, [[sb/4/26/24#purport|SB 4.26.24]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/39-40#purport|SB 4.29.39-40]], [[sb/4/29/48#purport|SB 4.29.48]], [[sb/4/30/4#purport|SB 4.30.4]], [[sb/4/30/20#purport|SB 4.30.20]], [[sb/4/30/22#purport|SB 4.30.22]], [[sb/4/30/35#purport|SB 4.30.35]], [[sb/4/30/36#purport|SB 4.30.36]], [[sb/4/31/19#purport|SB 4.31.19]]
 * Ananta’s example of, [[sb/4/30/41#purport|SB 4.30.41]]
@@ -30,8 +32,7 @@
 * necessity of, [[sb/4/24/67#purport|SB 4.24.67]]
 * perfection by, [[sb/4/24/43#purport|SB 4.24.43]]
 * purifying power of, [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/23/17#purport|SB 4.23.17]], [[sb/4/24/59#purport|SB 4.24.59]]
-*  [[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/24/56#purport|SB 9.24.56]]
 * sixteen rounds daily, [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/23/5#purport|SB 4.23.5]]
 * suffering relieved via, [[sb/4/22/15#purport|SB 4.22.15]]
 
-*See also:* [[c#Chanting holy names of Lord|Chanting holy names of Lord]]; [[h#Hearing & chanting about Lord|Hearing & chanting about Lord]]; Saṅkīrtana-yajna; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; [[s#Saṅkīrtana-yajña|Saṅkīrtana-yajña]]
+*See also:* Chanting holy names of Lord; Hearing & chanting about Lord; Saṅkīrtana-yajna; Hare Kṛṣṇa mantra; Saṅkīrtana-yajña

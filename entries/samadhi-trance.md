@@ -13,4 +13,4 @@
 * via Lord’s lotus feet, [[sb/7/9/7#purport|SB 7.9.7]]
 * yogīs in, [[sb/7/3/18#purport|SB 7.3.18]]
 
-*See:* [[m#Meditation|Meditation]]
+*See:* [Meditation](entries/meditation.md)

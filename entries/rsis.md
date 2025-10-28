@@ -11,4 +11,4 @@
 * Marīci chief of, [[sb/4/1/8#purport|SB 4.1.8]]
 * Nārāyaṇa as, [[sb/1/8/30#purport|SB 1.8.30]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[s#Sages|Sages]]; specific ṛṣis
+*See also:* Brāhmaṇas; Sages; specific ṛṣis

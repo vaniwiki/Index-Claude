@@ -19,7 +19,7 @@
 [[sb/3/5/44#purport|SB 3.5.44]], [[sb/4/11/30#purport|SB 4.11.30]]
 
 
-*See also:* [[b#Bodily concept of life|Bodily concept of life]]; Duality; material; [[g#Good & bad|Good & bad]]; [[m#Māyā|Māyā]]
+*See also:* Bodily concept of life; Duality; material; Good & bad; Māyā
 
 ---
 
@@ -54,7 +54,7 @@
 
 ### [Identity](entries/identity.md)
 
-* as ”I,” [[sb/2/9/33#purport|SB 2.9.33]]
+* as ”I,”, [[sb/2/9/33#purport|SB 2.9.33]]
 
 *→ See all 22 references in* [Identity](entries/identity.md)
 
@@ -108,21 +108,21 @@
 
 ### [Ignorance](entries/ignorance.md)
 
-[[cc/adi/1/102#purport|Ādi 1.102]], **[[cc/adi/1/97–98#translation|Ādi 1.97–98]]**, [[cc/adi/5/51#purport|Ādi 5.51]]...
+**[[cc/adi/1/97–98#translation|Ādi 1.97–98]]**...
 
-* ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
+* ”light” for destroying,, [[sb/2/9/34#purport|SB 2.9.34]]
 
-*→ See all 266 references in* [Ignorance](entries/ignorance.md)
+*→ See all 290 references in* [Ignorance](entries/ignorance.md)
 
 ---
 
 ### [Ignorance, mode of](entries/ignorance-mode-of.md)
 
-[[bg/8|Bg. 8]], [[sb/1/10/25#purport|SB 1.10.25]]...
+[[bg/8|Bg. 8]]...
 
-* *varṇāśrama *division in, [[bg/9/32|Bg. 9.32]]
+* *varṇāśrama *division in,, [[bg/9/32|Bg. 9.32]]
 
-*→ See all 123 references in* [Ignorance, mode of](entries/ignorance-mode-of.md)
+*→ See all 125 references in* [Ignorance, mode of](entries/ignorance-mode-of.md)
 
 ---
 
@@ -145,7 +145,9 @@
 
 ### [Ikṣvāku Mahārāja](entries/iksvaku-maharaja.md)
 
-* as Manu’s son, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]], [[sb/9/2/2#purport|SB 9.2.2]], [[sb/9/6/4#purport|SB 9.6.4]]
+[[sb/1/12/19#purport|SB 1.12.19]], [[sb/1/12/19#purport|SB 1.12.19]]...
+
+* as Manu’s son,, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]], [[sb/9/2/2#purport|SB 9.2.2]], [[sb/9/6/4#purport|SB 9.6.4]]
 
 *→ See all 11 references in* [Ikṣvāku Mahārāja](entries/iksvaku-maharaja.md)
 
@@ -162,13 +164,13 @@
 
 ## Il
 
-### Ilā
+### [Ilā](entries/ila.md)
 
-[[sb/4/10/2#purport|SB 4.10.2]], [[sb/6/6/24-26#purport|SB 6.6.24-26]], [[sb/9/14/15-16#purport|SB 9.14.15-16]]
+[[sb/4/10/2#purport|SB 4.10.2]]...
 
-* born by descrepancy, [[sb/9/1/16#purport|SB 9.1.16]]
-* offspring of, [[sb/6/6/28#purport|SB 6.6.28]]
-* transformed into male, [[sb/9/1/22#purport|SB 9.1.22]]
+* born by descrepancy,, [[sb/9/1/16#purport|SB 9.1.16]]
+
+*→ See all 6 references in* [Ilā](entries/ila.md)
 
 ---
 
@@ -199,9 +201,9 @@
 
 ### [Ilāvṛta-varṣa](entries/ilavrta-varsa.md)
 
-[[cc/adi/5/41#purport|Ādi 5.41]], [[bg/6/43|Bg. 6.43]], [[cc/madhya/20/218#purport|Madhya 20.218]]...
+[[bg/6/43|Bg. 6.43]]...
 
-* Aruṇodā River flows through, [[sb/5/6/17#purport|SB 5.6.17]]
+* Aruṇodā River flows through,, [[sb/5/6/17#purport|SB 5.6.17]]
 
 *→ See all 13 references in* [Ilāvṛta-varṣa](entries/ilavrta-varsa.md)
 
@@ -211,9 +213,9 @@
 
 *  [[sb/3/20/53#purport|SB 3.20.53]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/3/30/28#purport|SB 3.30.28]]
 
-*See also:* [[s#Sex life|Sex life]]
+*See also:* Sex life
 
-*See:* [[s#Sex|Sex]]; illicit; [[s#Sex life|Sex life]]
+*See:* [Sex](entries/sex.md); illicit; Sex life
 
 ---
 
@@ -233,16 +235,16 @@
 
 ### [Illusion](entries/illusion.md)
 
-* ”I & mine” as, [[sb/2/9/3#purport|SB 2.9.3]]
+* ”I & mine” as,, [[sb/2/9/3#purport|SB 2.9.3]]
 
-*→ See all 285 references in* [Illusion](entries/illusion.md)
+*→ See all 308 references in* [Illusion](entries/illusion.md)
 
 ---
 
 ### Illusory energy of Supreme Lord
 
 
-*See:* [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; material; [[m#Māyā|Māyā]]
+*See:* Energies of Supreme Lord; material; Māyā
 
 ---
 
@@ -271,7 +273,7 @@
 
 ### [Immortality](entries/immortality.md)
 
-* for Rāhu, [[sb/8/9/26#purport|SB 8.9.26]]
+* for Rāhu,, [[sb/8/9/26#purport|SB 8.9.26]]
 
 *→ See all 12 references in* [Immortality](entries/immortality.md)
 
@@ -296,7 +298,7 @@
 [[sb/10/3/24#purport|SB 10.3.24]]
 
 
-*See:* [[b#Brahman|Brahman]]; [[b#Brahman (impersonal Absolute)|Brahman (impersonal Absolute)]]
+*See:* [Brahman](entries/brahman.md); Brahman (impersonal Absolute)
 
 ---
 
@@ -304,17 +306,17 @@
 
 [[bg/3/4|Bg. 3.4]]...
 
-* ”oneness” idea of, [[sb/3/27/16#purport|SB 3.27.16]], [[sb/3/32/11#purport|SB 3.32.11]]
+* ”oneness” idea of,, [[sb/3/27/16#purport|SB 3.27.16]], [[sb/3/32/11#purport|SB 3.32.11]]
 
-*→ See all 45 references in* [Impersonalism](entries/impersonalism.md)
+*→ See all 47 references in* [Impersonalism](entries/impersonalism.md)
 
 ---
 
 ### [Impersonalism/Impersonalists](entries/impersonalism-impersonalists.md)
 
-[[cc/antya/9/68#purport|Antya 9.68]], [[cc/madhya/19/164#purport|Madhya 19.164]], [[cc/madhya/24/124#purport|Madhya 24.124]]...
+[[cc/madhya/24/124#purport|Madhya 24.124]]...
 
-* as demons, [[cc/madhya/17/104#purport|Madhya 17.104]]
+* as demons,, [[cc/madhya/17/104#purport|Madhya 17.104]]
 
 *→ See all 41 references in* [Impersonalism/Impersonalists](entries/impersonalism-impersonalists.md)
 
@@ -322,9 +324,11 @@
 
 ### [Impersonalist(s)](entries/impersonalists.md)
 
-* ”I” concept of, [[sb/2/9/33#purport|SB 2.9.33]]
+[[sb/9/11/1#purport|SB 9.11.1]], [[sb/9/11/19#purport|SB 9.11.19]]...
 
-*→ See all 272 references in* [Impersonalist(s)](entries/impersonalists.md)
+* ”I” concept of,, [[sb/2/9/33#purport|SB 2.9.33]]
+
+*→ See all 288 references in* [Impersonalist(s)](entries/impersonalists.md)
 
 ---
 
@@ -333,14 +337,14 @@
 * as Lord’s back, [[sb/4/24/60#purport|SB 4.24.60]]
 * degradation by, [[sb/4/22/36#purport|SB 4.22.36]]
 
-*See also:* [[s#Sinful activities|Sinful activities]]
+*See also:* Sinful activities
 
 ---
 
 ### Impious persons
 
 
-*See:* [[a#Atheists|Atheists]]; [[d#Demons|Demons]]; [[i#Impersonalists|Impersonalists]]; [[m#Materialists|Materialists]]; [[n#Nondevotees|Nondevotees]]
+*See:* Atheists; Demons; Impersonalists; Materialists; Nondevotees
 
 ---
 
@@ -369,9 +373,9 @@
 
 ### [Incarnation(s) of Lord](entries/incarnations-of-lord.md)
 
-[[cc/adi/10/11#purport|Ādi 10.11]], [[cc/adi/12/49#purport|Ādi 12.49]], [[cc/adi/14/18#purport|Ādi 14.18]]...
+[[cc/adi/12/49#purport|Ādi 12.49]]...
 
-* Advaita as, **[[cc/adi/12/31#translation|Ādi 12.31]]**, **[[cc/adi/12/34#translation|Ādi 12.34]]**
+* Advaita as,, **[[cc/adi/12/31#translation|Ādi 12.31]]**, **[[cc/adi/12/34#translation|Ādi 12.34]]**
 
 *→ See all 78 references in* [Incarnation(s) of Lord](entries/incarnations-of-lord.md)
 
@@ -379,23 +383,25 @@
 
 ### [Incarnation(s) of Supreme Lord](entries/incarnations-of-supreme-lord.md)
 
-* ”material” & transcendental, [[sb/1/1/17#purport|SB 1.1.17]]
+...
 
-*→ See all 181 references in* [Incarnation(s) of Supreme Lord](entries/incarnations-of-supreme-lord.md)
+* ”material” & transcendental,, [[sb/1/1/17#purport|SB 1.1.17]]
+
+*→ See all 196 references in* [Incarnation(s) of Supreme Lord](entries/incarnations-of-supreme-lord.md)
 
 ---
 
-### Incarnation(s)
+### Incarnations
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; incarnations of; specific incarnations; Kṛṣṇa
+*See:* Supreme Lord; incarnations of; specific incarnations; Kṛṣṇa
 
 ---
 
 ### Incarnations of God
 
 
-*See:* [[s#Supreme Lord|Supreme Lord]]; incarnations of
+*See:* Supreme Lord; incarnations of
 
 ---
 
@@ -409,20 +415,20 @@
 ### Income
 
 
-*See:* [[w#Wealth|Wealth]]
+*See:* [Wealth](entries/wealth.md)
 
 ---
 
 ### Income, monetary
 
 
-*See:* [[w#Wealth|Wealth]]
+*See:* [Wealth](entries/wealth.md)
 
 ---
 
 ### [Independence](entries/independence.md)
 
-* compared with living beings’, [[sb/2/9/1-3#purport|SB 2.9.1-3]], [[sb/2/9/34#purport|SB 2.9.34]], [[sb/2/10/8-9#purport|SB 2.10.8-9]], [[sb/2/10/16#purport|SB 2.10.16]]
+* compared with living beings’,, [[sb/2/9/1-3#purport|SB 2.9.1-3]], [[sb/2/9/34#purport|SB 2.9.34]], [[sb/2/10/8-9#purport|SB 2.10.8-9]], [[sb/2/10/16#purport|SB 2.10.16]]
 
 *→ See all 25 references in* [Independence](entries/independence.md)
 
@@ -432,9 +438,9 @@
 
 [[bg/3/20|Bg. 3.20]]...
 
-* ”missionary” work in, [[sb/4/27/11#purport|SB 4.27.11]]
+* ”missionary” work in,, [[sb/4/27/11#purport|SB 4.27.11]]
 
-*→ See all 110 references in* [India](entries/india.md)
+*→ See all 113 references in* [India](entries/india.md)
 
 ---
 
@@ -456,7 +462,7 @@
 
 [[cc/madhya/25/183#purport|Madhya 25.183]]...
 
-* atheism in, [[cc/adi/7/119#purport|Ādi 7.119]]
+* atheism in,, [[cc/adi/7/119#purport|Ādi 7.119]]
 
 *→ See all 31 references in* [India/Indians](entries/india-indians.md)
 
@@ -466,7 +472,7 @@
 
 *  [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/10/25#purport|SB 1.10.25]]
 
-*See:* [[o#Ocean|Ocean]]
+*See:* [Ocean](entries/oceans.md)
 
 ---
 
@@ -527,10 +533,7 @@
 
 ### [Indra](entries/indra.md)
 
-[[cc/adi/10/135–36#purport|Ādi 10.135–36]], **[[cc/adi/13/105#translation|Ādi 13.105]]**, [[cc/adi/5/120#purport|Ādi 5.120]]...
-
-
-*→ See all 18 references in* [Indra](entries/indra.md)
+[[cc/adi/5/120#purport|Ādi 5.120]]
 
 ---
 
@@ -572,9 +575,9 @@
 
 ### [Indra, King](entries/indra-king.md)
 
-[[sb/8/3/30#purport|SB 8.3.30]]...
+[[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/25/42-42#purport|SB 3.25.42-42]]...
 
-* Adbhuta as, [[sb/8/13/19#purport|SB 8.13.19]], [[sb/8/13/20#purport|SB 8.13.20]]
+* Adbhuta as,, [[sb/8/13/19#purport|SB 8.13.19]], [[sb/8/13/20#purport|SB 8.13.20]]
 
 *→ See all 54 references in* [Indra, King](entries/indra-king.md)
 
@@ -582,21 +585,23 @@
 
 ### [Indra, Lord](entries/indra-lord.md)
 
-[[sb/7/8/29#purport|SB 7.8.29]]...
+[[sb/1/3/12#purport|SB 1.3.12]], [[sb/1/19/9-10#purport|SB 1.19.9-10]]...
 
-* “killed” by Vṛtrāsura, [[sb/6/12/35#purport|SB 6.12.35]]
+* “killed” by Vṛtrāsura,, [[sb/6/12/35#purport|SB 6.12.35]]
 
-*→ See all 162 references in* [Indra, Lord](entries/indra-lord.md)
+*→ See all 183 references in* [Indra, Lord](entries/indra-lord.md)
 
 ---
 
-### [Indra, Lord, 19, 3.14. 7.23](entries/indra-lord-19-3-14-7-23.md)
+### [Indra, Lord, 19, 3.14. 7.23](entries/indra-lord-19-7-23.md)
 
 [[bg/3/14/|Bg. 3.14.]]
 
-* Arjuna &, [[bg/2/33|Bg. 2.33]]
+[[bg/8/2|Bg. 8.2]], [[bg/17/4|Bg. 17.4]]...
 
-*→ See all 6 references in* [Indra, Lord, 19, 3.14. 7.23](entries/indra-lord-19-3-14-7-23.md)
+* Arjuna &,, [[bg/2/33|Bg. 2.33]]
+
+*→ See all 6 references in* [Indra, Lord, 19, 3.14. 7.23](entries/indra-lord-19-7-23.md)
 
 ---
 
@@ -609,9 +614,9 @@
 
 ### [Indradyumna, King](entries/indradyumna-king.md)
 
-[[cc/adi/10/135–36#purport|Ādi 10.135–36]], [[cc/madhya/12/73#purport|Madhya 12.73]]...
+[[cc/adi/10/135–36#purport|Ādi 10.135–36]]...
 
-* Agastya cursed, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
+* Agastya cursed,, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
 
 *→ See all 11 references in* [Indradyumna, King](entries/indradyumna-king.md)
 
@@ -668,7 +673,7 @@
 ### Indravāha
 
 
-*See:* [[p#Purañjaya|Purañjaya]]
+*See:* Purañjaya
 
 ---
 
@@ -693,13 +698,13 @@
 
 ---
 
-### Industry
+### [Industry](entries/industry.md)
 
-[[sb/1/6/11#purport|SB 1.6.11]]
+[[sb/1/6/11#purport|SB 1.6.11]]...
 
-* as artificial, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/24#purport|SB 2.5.24]]
-* in ”darkness,” [[sb/2/5/30#purport|SB 2.5.30]]
-* modern 
+* as artificial,, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/24#purport|SB 2.5.24]]
+
+*→ See all 7 references in* [Industry](entries/industry.md)
 
 ---
 
@@ -717,7 +722,7 @@
 [[sb/4/20/21#purport|SB 4.20.21]]
 
 
-*See also:* [[e#Economic development|Economic development]]
+*See also:* Economic development
 
 ---
 
@@ -731,7 +736,7 @@
 ### Inferior energy of Supreme Lord
 
 
-*See:* [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; material
+*See:* Energies of Supreme Lord; material
 
 ---
 
@@ -756,17 +761,6 @@
 
 ---
 
-### Initiation
-
-[[sb/2/4/18#purport|SB 2.4.18]]
-
-* accepting tapas as, [[sb/2/9/6#purport|SB 2.9.6]]
-* Brahmā receives, [[sb/2/9/6#purport|SB 2.9.6]]
-* by Lord via spiritual master, [[sb/2/9/7#purport|SB 2.9.7]]
-* Dhruva receives, [[sb/2/7/8#purport|SB 2.7.8]]
-
----
-
 ### Initiation, formal, purpose of
 
 [[sb/1/19/25#purport|SB 1.19.25]]
@@ -774,14 +768,13 @@
 
 ---
 
-### Initiation, spiritual
+### [Initiation, spiritual](entries/initiation-spiritual.md)
 
-**[[cc/antya/4/192#translation|Antya 4.192]]**, [[cc/antya/4/194#purport|Antya 4.194]], [[cc/madhya/1/208#purport|Madhya 1.208]], **[[cc/madhya/15/108#translation|Madhya 15.108]]**
+[[cc/madhya/1/208#purport|Madhya 1.208]]...
 
-*  [[cc/madhya/24/331#purport|Madhya 24.331]] (1 purport
-* meaning of, [[sb/6/5/21#purport|SB 6.5.21]]
-* of brāhmaṇas by guru, [[sb/6/5/20#purport|SB 6.5.20]]
-* principles for, [[sb/6/5/20#purport|SB 6.5.20]]
+* meaning of,, [[sb/6/5/21#purport|SB 6.5.21]]
+
+*→ See all 8 references in* [Initiation, spiritual](entries/initiation-spiritual.md)
 
 ---
 
@@ -806,17 +799,20 @@
 
 ---
 
-### Initiation(s)
+### [Initiation(s)](entries/initiations.md)
 
-* in Kṛṣṇa consciousness, [[sb/4/25/51#purport|SB 4.25.51]], [[sb/4/31/10#purport|SB 4.31.10]]
-* spiritual, into chanting Hare Kṛṣṇa, [[sb/4/24/32#purport|SB 4.24.32]]
+[[sb/2/4/18#purport|SB 2.4.18]]...
+
+* accepting tapas as,, [[sb/2/9/6#purport|SB 2.9.6]]
+
+*→ See all 7 references in* [Initiation(s)](entries/initiations.md)
 
 ---
 
 ### Injunction, Vedic
 
 
-*See:* [[v#Vedic injunction|Vedic injunction]]
+*See:* Vedic injunction
 
 ---
 
@@ -840,7 +836,7 @@
 * cure for, [[sb/7/7/33#purport|SB 7.7.33]]
 * ghosts induce, [[sb/3/20/41#purport|SB 3.20.41]]
 
-*See also:* [[h#Hallucination|Hallucination]]; [[i#Illusion|Illusion]]; [[m#Māyā|Māyā]]
+*See also:* Hallucination; [Illusion](entries/illusion.md); Māyā
 
 ---
 
@@ -874,9 +870,9 @@
 
 ### [Instructions to Rūpa Gosvāmī](entries/instructions-to-rupa-gosvami.md)
 
-**[[cc/madhya/19/135#translation|Madhya 19.135]]**, **[[cc/madhya/19/170#translation|Madhya 19.170]]**, **[[cc/madhya/19/172#translation|Madhya 19.172]]**...
+**[[cc/madhya/19/211–13#translation|Madhya 19.211–13]]**...
 
-* duties in, **[[cc/antya/1/217–19#translation|Antya 1.217–19]]**
+* duties in,, **[[cc/antya/1/217–19#translation|Antya 1.217–19]]**
 
 *→ See all 47 references in* [Instructions to Rūpa Gosvāmī](entries/instructions-to-rupa-gosvami.md)
 
@@ -884,9 +880,9 @@
 
 ### [Instructions to Sanātana](entries/instructions-to-sanatana.md)
 
-**[[cc/madhya/20/109–17#translation|Madhya 20.109–17]]**, **[[cc/madhya/20/114–19#translation|Madhya 20.114–19]]**, **[[cc/madhya/20/125#translation|Madhya 20.125]]**...
+**[[cc/madhya/22/43#translation|Madhya 22.43]]**...
 
-* hearing, **[[cc/madhya/23/126#translation|Madhya 23.126]]**
+* hearing,, **[[cc/madhya/23/126#translation|Madhya 23.126]]**
 
 *→ See all 169 references in* [Instructions to Sanātana](entries/instructions-to-sanatana.md)
 
@@ -896,7 +892,7 @@
 
 **[[cc/madhya/6/173–74#translation|Madhya 6.173–74]]**...
 
-* creation &, **[[cc/madhya/6/145–46#translation|Madhya 6.145–46]]**, **[[cc/madhya/6/170–71#translation|Madhya 6.170–71]]**
+* creation &,, **[[cc/madhya/6/145–46#translation|Madhya 6.145–46]]**, **[[cc/madhya/6/170–71#translation|Madhya 6.170–71]]**
 
 *→ See all 21 references in* [Instructions to Sārvabhauma Bhaṭṭācārya](entries/instructions-to-sarvabhauma-bhattacarya.md)
 
@@ -918,18 +914,18 @@
 
 ---
 
-### Intellectual(s)
+### Intellectuals
 
 
 ---
 
 ### [Intelligence](entries/intelligence.md)
 
-[[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/7/118#purport|Ādi 7.118]]...
+[[bg/10/4|Bg. 10.4]]...
 
-* & material assets, [[sb/5/1/12#purport|SB 5.1.12]]
+* & material assets,, [[sb/5/1/12#purport|SB 5.1.12]]
 
-*→ See all 145 references in* [Intelligence](entries/intelligence.md)
+*→ See all 161 references in* [Intelligence](entries/intelligence.md)
 
 ---
 
@@ -945,22 +941,22 @@
 ### Intercourse, sexual
 
 
-*See:* [[s#Sex life|Sex life]]
+*See:* Sex life
 
 ---
 
 ### Internal energy of Supreme Lord
 
 
-*See:* [[e#Energies of Supreme Lord|Energies of Supreme Lord]]; spiritual
+*See:* Energies of Supreme Lord; spiritual
 
 ---
 
 ### [Internal potency](entries/internal-potency.md)
 
-**[[cc/adi/4/59#translation|Ādi 4.59]]**, **[[cc/adi/4/62#translation|Ādi 4.62]]**, **[[cc/adi/4/63#translation|Ādi 4.63]]**...
+**[[cc/adi/4/62#translation|Ādi 4.62]]**...
 
-* Caitanya &, [[cc/adi/4/56#purport|Ādi 4.56]], [[cc/adi/17/301#purport|Ādi 17.301]]
+* Caitanya &,, [[cc/adi/4/56#purport|Ādi 4.56]], [[cc/adi/17/301#purport|Ādi 17.301]]
 
 *→ See all 26 references in* [Internal potency](entries/internal-potency.md)
 
@@ -968,7 +964,7 @@
 
 ### [International Society for Krishna Consciousness](entries/international-society-for-krishna-consciousness.md)
 
-[[sb/2/4/18#purport|SB 2.4.18]], [[sb/4/7/44#purport|SB 4.7.44]]...
+[[sb/2/4/18#purport|SB 2.4.18]]...
 
 
 *→ See all 9 references in* [International Society for Krishna Consciousness](entries/international-society-for-krishna-consciousness.md)
@@ -978,7 +974,7 @@
 ### International Society for Krishna Consciousness (ISKCON)
 
 
-*See:* [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]
+*See:* Kṛṣṇa consciousness movement
 
 ---
 
@@ -989,7 +985,7 @@
 ### International Society for Kṛṣṇa consciousness
 
 
-*See:* [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]
+*See:* Kṛṣṇa consciousness movement
 
 ---
 
@@ -1003,15 +999,15 @@
 ### Interplanetary travel
 
 
-*See:* [[s#Space travel|Space travel]]
+*See:* Space travel
 
 ---
 
 ### [Intoxication](entries/intoxication.md)
 
-[[cc/madhya/7/128#purport|Madhya 7.128]]...
+[[bg/3/24|Bg. 3.24]], [[bg/4/10|Bg. 4.10]], [[bg/4/26|Bg. 4.26]], [[bg/14/8|Bg. 14.8]], [[bg/14/17|Bg. 14.17]], [[bg/17/22|Bg. 17.22]]...
 
-* ”yogīs” advocate, [[sb/3/15/45#purport|SB 3.15.45]]
+* ”yogīs” advocate,, [[sb/3/15/45#purport|SB 3.15.45]]
 
 *→ See all 35 references in* [Intoxication](entries/intoxication.md)
 
@@ -1021,7 +1017,7 @@
 
 *  [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/6#purport|SB 10.10.6]], [[sb/10/10/19-22#purport|SB 10.10.19-22]]
 
-*See also:* [[w#Wine|Wine]]
+*See also:* [Wine](entries/wine.md)
 
 ---
 
@@ -1111,7 +1107,7 @@
 
 ### [Irreligion](entries/irreligion.md)
 
-* as barbarous, [[sb/1/1/2#purport|SB 1.1.2]]
+* as barbarous,, [[sb/1/1/2#purport|SB 1.1.2]]
 
 *→ See all 29 references in* [Irreligion](entries/irreligion.md)
 
@@ -1213,7 +1209,7 @@
 
 [[sb/4/28/31#purport|SB 4.28.31]]...
 
-* cooperation in, [[sb/4/30/8#purport|SB 4.30.8]]
+* cooperation in,, [[sb/4/30/8#purport|SB 4.30.8]]
 
 *→ See all 16 references in* [ISKCON](entries/iskcon.md)
 
@@ -1242,11 +1238,11 @@
 
 ### [Īśopaniṣad](entries/isopanisad.md)
 
-[[cc/adi/17/68#purport|Ādi 17.68]], [[cc/adi/3/71#purport|Ādi 3.71]], [[cc/adi/7/122#purport|Ādi 7.122]]...
+[[cc/adi/3/71#purport|Ādi 3.71]]...
 
-* Advaita &, **[[cc/adi/3/95#translation|Ādi 3.95]]**, [[cc/adi/5/147#purport|Ādi 5.147]]
+* Advaita &,, **[[cc/adi/3/95#translation|Ādi 3.95]]**, [[cc/adi/5/147#purport|Ādi 5.147]]
 
-*→ See all 30 references in* [Īśopaniṣad](entries/isopanisad.md)
+*→ See all 41 references in* [Īśopaniṣad](entries/isopanisad.md)
 
 ---
 
@@ -1280,9 +1276,9 @@
 
 ### [Īśopaniṣad quoted](entries/isopanisad-quoted.md)
 
-* on human-food quota, [[sb/10/10/9#purport|SB 10.10.9]]
+* as proprietor,, [[sb/4/22/45#purport|SB 4.22.45]]
 
-*→ See all 7 references in* [Īśopaniṣad quoted](entries/isopanisad-quoted.md)
+*→ See all 9 references in* [Īśopaniṣad quoted](entries/isopanisad-quoted.md)
 
 ---
 
@@ -1307,16 +1303,6 @@
 
 ---
 
-### Īśvara
-
-* as *Gītā's *subject, 7, 8, 9 
-* defined, 7 
-* defined, [[sb/8/7/21#purport|SB 8.7.21]], [[sb/8/8/20#purport|SB 8.8.20]]
-* living entity as, [[bg/15/8|Bg. 15.8]]
-* Viṣṇu as, [[sb/8/12/4#purport|SB 8.12.4]]
-
----
-
 ### Īśvara Purī
 
 [[bg/31|Bg. 31]]
@@ -1338,10 +1324,11 @@
 
 ---
 
-### Īśvara(s)
+### [Īśvara(s)](entries/isvaras.md)
 
-* defined, 1, [[sb/1/18/14#purport|SB 1.18.14]]
-* subordinate, compared with supreme, [[sb/1/18/14#purport|SB 1.18.14]]
+* as *Gītā's *subject, 7, 8, 9
+
+*→ See all 7 references in* [Īśvara(s)](entries/isvaras.md)
 
 ---
 
@@ -1380,7 +1367,7 @@
 [[sb/1/8/19#purport|SB 1.8.19]]
 
 
-*See also:* [[m#Mahābhārata|Mahābhārata]]; [[r#Rāmāyaṇa|Rāmāyaṇa]]
+*See also:* Mahābhārata; Rāmāyaṇa
 
 ---
 

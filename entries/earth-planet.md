@@ -1,6 +1,6 @@
 # Earth planet
 
-[[cc/adi/5/14#purport|Ādi 5.14]]
+[[bg/20|Bg. 20]], [[bg/15/2|Bg. 15.2]], [[cc/adi/5/14#purport|Ādi 5.14]]
 
 * Alarka ruled, [[sb/9/17/7#purport|SB 9.17.7]]
 * approached Brahmā for relief, [[sb/10/1/17#purport|SB 10.1.17]], [[sb/10/1/18#purport|SB 10.1.18]]
@@ -22,10 +22,10 @@
 * Atala’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
 * atheists burden, [[sb/1/16/34#purport|SB 1.16.34]]
 * atomic weapons endured by, [[sb/1/12/22#purport|SB 1.12.22]]
+* attacked, [[sb/4/17/13-17#purport|SB 4.17.13-17]]
 * attainment of, via passion mode, [[bg/14/18|Bg. 14.18]]
 * Ayodhyā Rāmacandra’s residence on, [[sb/5/19/2#purport|SB 5.19.2]]
 * battle for rule of, [[bg/18/78|Bg. 18.78]] (2)
-*  [[bg/20|Bg. 20]], [[bg/15/2|Bg. 15.2]]
 * Bharata ruled, [[sb/9/20/23-26#purport|SB 9.20.23-26]], [[sb/9/20/30#purport|SB 9.20.30]], [[sb/9/20/32#purport|SB 9.20.32]]
 * Bharata’s name given to, [[sb/5/4/9#purport|SB 5.4.9]]
 * boar incarnation rescued, [[sb/9/11/29#purport|SB 9.11.29]]
@@ -33,12 +33,13 @@
 * Boar incarnation saves, [[sb/2/7/1#purport|SB 2.7.1]]
 * bodily conception on, [[sb/8/16/19#purport|SB 8.16.19]]
 * capital of, in Vedic times, [[sb/1/15/38#purport|SB 1.15.38]], [[sb/1/15/38#purport|SB 1.15.38]]
-* compared 
+* compared
 * compared to boat, [[sb/4/17/35#purport|SB 4.17.35]]
 * compared to body, [[sb/6/5/6-8#purport|SB 6.5.6-8]], [[sb/6/5/11-11#purport|SB 6.5.11-11]]
 * compared to cow, [[sb/3/18/20#purport|SB 3.18.20]], [[sb/4/18/10#purport|SB 4.18.10]]
 * compared to Lord, [[sb/8/3/3#purport|SB 8.3.3]], [[sb/8/6/10#purport|SB 8.6.10]]
 * compared to mother, [[sb/4/17/14#purport|SB 4.17.14]], [[sb/9/20/21#purport|SB 9.20.21]]
+* compared to, [[sb/4/16/7#purport|SB 4.16.7]]
 * cultivated by Pṛthu, [[sb/1/3/14#purport|SB 1.3.14]]
 * demigods fall to, [[sb/4/9/32#purport|SB 4.9.32]]
 * demigods falling to, [[sb/4/24/4#purport|SB 4.24.4]]
@@ -47,6 +48,7 @@
 * demigods visited, [[sb/1/13/14#purport|SB 1.13.14]], [[sb/1/16/3#purport|SB 1.16.3]]
 * demons disturbing, [[sb/10/1/17-17#purport|SB 10.1.17-17]], [[sb/10/1/22#purport|SB 10.1.22]], [[sb/10/3/21#purport|SB 10.3.21]]
 * demons’ burden on, [[sb/1/11/34#purport|SB 1.11.34]]
+* developed, [[sb/4/21/9#purport|SB 4.21.9]]
 * devotees on, praised by demigods, [[sb/1/19/18#purport|SB 1.19.18]]
 * disturbed at demons’ birth, [[sb/3/17/3#purport|SB 3.17.3]], [[sb/3/17/4#purport|SB 3.17.4]], [[sb/3/17/5#purport|SB 3.17.5]], [[sb/3/17/7-13#purport|SB 3.17.7-13]], [[sb/3/17/15#purport|SB 3.17.15]]
 * exploitation of, [[sb/2/2/2#purport|SB 2.2.2]]
@@ -71,7 +73,7 @@
 * in Pṛthu’s time, [[sb/4/18/26#purport|SB 4.18.26]]
 * in universal perspective, [[sb/1/19/5#purport|SB 1.19.5]], [[sb/8/2/14-19#purport|SB 8.2.14-19]]
 * Indra withholds rain from, [[sb/5/4/3#purport|SB 5.4.3]]
-* inhabitants of. See: Human beings 
+* inhabitants of. See: Human beings
 * irreligious rulers burden, [[sb/9/15/15#purport|SB 9.15.15]]
 * islands of, [[sb/3/21/2#purport|SB 3.21.2]]
 * Jupiter’s distance from, [[sb/5/22/15#purport|SB 5.22.15]]
@@ -80,12 +82,13 @@
 * Kṛṣṇa consciousness movement as hope of, [[sb/4/18/8#purport|SB 4.18.8]]
 * kṣatriya dynasties on, [[sb/4/22/54#purport|SB 4.22.54]]
 * lamented Lord’s separation, [[sb/1/16/32-33#purport|SB 1.16.32-33]], [[sb/1/16/35#purport|SB 1.16.35]]
+* leveled, [[sb/4/17/4#purport|SB 4.17.4]], [[sb/4/18/29#purport|SB 4.18.29]]
 * liars burden, [[sb/8/20/4-4#purport|SB 8.20.4-4]]
 * life beyond, [[sb/1/15/12#purport|SB 1.15.12]]
 * life’s necessities from, [[sb/4/18/22#purport|SB 4.18.22]], [[sb/4/18/26#purport|SB 4.18.26]], [[sb/4/19/7#purport|SB 4.19.7]], [[sb/7/14/7#purport|SB 7.14.7]]
 * lifted, [[sb/6/8/15#purport|SB 6.8.15]]
 * living conditions vary on, [[sb/3/5/8#purport|SB 3.5.8]]
-* Lord 
+* Lord, [[sb/4/17/29#purport|SB 4.17.29]], [[sb/4/17/32#purport|SB 4.17.32]], [[sb/4/17/33#purport|SB 4.17.33]]
 * Lord maintains, [[sb/3/5/5#purport|SB 3.5.5]]
 * Lord’s descent to, [[sb/9/24/56#purport|SB 9.24.56]], [[sb/9/24/59#purport|SB 9.24.59]]
 * Lord’s footprints on, [[sb/10/2/38#purport|SB 10.2.38]]
@@ -94,6 +97,7 @@
 * Mars’s distance from, [[sb/5/22/14#purport|SB 5.22.14]]
 * Matsya protector of, [[sb/5/18/28#purport|SB 5.18.28]]
 * Mercury’s distance from, [[sb/5/22/13#purport|SB 5.22.13]]
+* milked, [[sb/4/17/3#purport|SB 4.17.3]], [[sb/4/18/12#purport|SB 4.18.12]]
 * misery on, [[sb/1/10/27#purport|SB 1.10.27]]
 * moon voyage from, discredited, [[sb/4/22/54#purport|SB 4.22.54]]
 * names of, [[bg/6/43|Bg. 6.43]]
@@ -106,24 +110,30 @@
 * passion mode binds one to, [[sb/3/22/36#purport|SB 3.22.36]]
 * Pātāla’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
 * personified by mother, [[sb/6/7/29-30#purport|SB 6.7.29-30]]
-* personified. See: Mother Earth 
+* personified. See: Mother Earth
 * pious & impious persons return to, [[sb/5/26/37#purport|SB 5.26.37]]
 * planetary position of, [[sb/4/20/35-36#purport|SB 4.20.35-36]]
 * planetary systems below, [[sb/10/6/12#purport|SB 10.6.12]]
 * planets compared with, [[sb/3/13/30#purport|SB 3.13.30]]
 * pleaded with Pṛthu, [[sb/4/17/18-21#purport|SB 4.17.18-21]], [[sb/4/17/29#purport|SB 4.17.29]], [[sb/4/17/30-36#purport|SB 4.17.30-36]], [[sb/4/18/2#purport|SB 4.18.2]], [[sb/4/18/4-6#purport|SB 4.18.4-6]], [[sb/4/18/7#purport|SB 4.18.7]], [[sb/4/18/8#purport|SB 4.18.8]], [[sb/4/18/9-11#purport|SB 4.18.9-11]]
+* pleased, [[sb/4/18/12#purport|SB 4.18.12]], [[sb/4/18/28#purport|SB 4.18.28]]
 * produces life’s necessities, [[sb/9/20/24-26#purport|SB 9.20.24-26]]
 * productive under pious kings, [[sb/6/14/10-10#purport|SB 6.14.10-10]]
 * prosperity of, [[sb/7/2/10-10#purport|SB 7.2.10-10]]
-* Pṛthu , 
+* protected, [[sb/4/23/21#purport|SB 4.23.21]]
+* protects, [[sb/1/8/43#purport|SB 1.8.43]]
+* Pṛthu
+* Pṛthu & herself, [[sb/4/17/18-21#purport|SB 4.17.18-21]], [[sb/4/17/30#purport|SB 4.17.30]], [[sb/4/17/31#purport|SB 4.17.31]], [[sb/4/17/34-36#purport|SB 4.17.34-36]]
 * Pṛthu &, [[sb/2/7/9#purport|SB 2.7.9]]
-* quoted on 
+* quoted on
 * quoted on Dharma bull, [[sb/1/16/25#purport|SB 1.16.25]]
 * rain enlivens, [[sb/9/14/47#purport|SB 9.14.47]]
 * rain for, [[sb/4/16/5#purport|SB 4.16.5]]
 * Rākṣasas’ abode’s distance from, [[sb/5/24/6#purport|SB 5.24.6]]
 * Rasātala’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
+* relieved, [[sb/1/15/34-35#purport|SB 1.15.34-35]], [[sb/1/17/26#purport|SB 1.17.26]]
 * rescued by Varāha, [[sb/1/3/7#purport|SB 1.3.7]]
+* rescued, [[sb/1/3/7#purport|SB 1.3.7]]
 * residents of heaven return to, [[sb/5/2/2#purport|SB 5.2.2]]
 * Sagara’s sons dug up, during horse search, [[sb/9/8/8#purport|SB 9.8.8]]
 * saintly king ruled, [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/16/27#purport|SB 4.16.27]]
@@ -137,9 +147,12 @@
 * Sutala’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
 * Talātala’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
 * tastes produced from, [[sb/4/19/8#purport|SB 4.19.8]]
+* threatened, [[sb/4/17/22-25#purport|SB 4.17.22-25]], [[sb/4/17/26-28#purport|SB 4.17.26-28]]
 * time for, compared with demigod’s time, [[sb/7/3/15-16#purport|SB 7.3.15-16]]
 * time on, compared with Brahmā’s time, [[sb/10/13/40#purport|SB 10.13.40]]
 * time on, compared with heavenly planets’ time, [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/17/15#purport|SB 1.17.15]]
+* to cow, [[sb/5/15/10#purport|SB 5.15.10]]
+* to lotus flower, [[sb/5/18/39#purport|SB 5.18.39]]
 * upper limits of, [[sb/5/7/6#purport|SB 5.7.6]]
 * upper planets excel, [[sb/3/10/29#purport|SB 3.10.29]]
 * Vāmana stepped down on, [[sb/8/18/20-20#purport|SB 8.18.20-20]]
@@ -153,10 +166,10 @@
 * Vitala’s distance from, [[sb/5/23/9#purport|SB 5.23.9]]
 * water inundation of, [[sb/5/18/28#purport|SB 5.18.28]]
 * worship to, [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/2/6/23#purport|SB 2.6.23]]
-* Yadus ”burdened,” [[sb/3/3/14#purport|SB 3.3.14]]
+* Yadus ”burdened,”, [[sb/3/3/14#purport|SB 3.3.14]]
 * Yaksas’ abode’s distance from, [[sb/5/7/6#purport|SB 5.7.6]]
 * Yayāti ruled, [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/46#purport|SB 9.18.46]], [[sb/9/18/51#purport|SB 9.18.51]]
 * yogīs of, compared with Siddhas, [[sb/7/8/45#purport|SB 7.8.45]]
 * Yudhiṣṭhira ruled, [[sb/3/1/20#purport|SB 3.1.20]], [[sb/3/3/18#purport|SB 3.3.18]]
 
-*See also:* [[e#Earth element|Earth element]]; [[m#Material world|Material world]]
+*See also:* Devotees; Earth element; Material world

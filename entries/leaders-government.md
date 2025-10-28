@@ -1,4 +1,4 @@
 # Leader(s), government
 
 
-*See:* Governments; [[l#leaders|leaders]]; leaders of; [[k#Kṣatriyas|Kṣatriyas]]
+*See:* Governments; leaders; leaders of; Kṣatriyas

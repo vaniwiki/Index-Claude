@@ -1,6 +1,6 @@
 # Kṛṣṇadāsa Kavirāja Gosvāmī
 
-[[cc/adi/4/125#purport|Ādi 4.125]], **[[cc/adi/8/78–79#translation|Ādi 8.78–79]]**, [[cc/adi/9/1#purport|Ādi 9.1]], **[[cc/adi/9/5#translation|Ādi 9.5]]**, **[[cc/antya/11/10#translation|Antya 11.10]]**, **[[cc/antya/20/150–52#translation|Antya 20.150–52]]**, **[[cc/antya/20/90–91#translation|Antya 20.90–91]]**, **[[cc/antya/20/98–101#translation|Antya 20.98–101]]**, [[cc/madhya/18/52#purport|Madhya 18.52]], **[[cc/madhya/2/93#translation|Madhya 2.93]]**
+[[cc/adi/4/125#purport|Ādi 4.125]], [[cc/madhya/18/52#purport|Madhya 18.52]], **[[cc/madhya/2/93#translation|Madhya 2.93]]**, **[[cc/adi/8/78–79#translation|Ādi 8.78–79]]**, [[cc/adi/9/1#purport|Ādi 9.1]], **[[cc/adi/9/5#translation|Ādi 9.5]]**, **[[cc/antya/11/10#translation|Antya 11.10]]**, **[[cc/antya/20/90–91#translation|Antya 20.90–91]]**, **[[cc/antya/20/98–101#translation|Antya 20.98–101]]**, **[[cc/antya/20/150–52#translation|Antya 20.150–52]]**
 
 * appeal to devotees by, **[[cc/madhya/2/93#translation|Madhya 2.93]]**
 * common people and, **[[cc/madhya/2/85#translation|Madhya 2.85]]**

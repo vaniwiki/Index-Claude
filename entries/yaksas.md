@@ -1,6 +1,6 @@
 # Yakṣa(s)
 
-[[sb/4/4/4#purport|SB 4.4.4]], [[sb/9/3/35#purport|SB 9.3.35]]
+[[bg/9/25|Bg. 9.25]], [[bg/17/28|Bg. 17.28]], [[sb/3/20/19#purport|SB 3.20.19]], [[sb/3/20/21#purport|SB 3.20.21]], [[sb/3/20/22#purport|SB 3.20.22]], [[sb/4/4/4#purport|SB 4.4.4]], [[sb/6/8/24#purport|SB 6.8.24]], [[sb/6/10/19-22#purport|SB 6.10.19-22]], [[sb/9/3/35#purport|SB 9.3.35]]
 
 * abode of, [[sb/5/24/6#purport|SB 5.24.6]]
 * as demoniac, [[sb/4/10/28#purport|SB 4.10.28]]
@@ -8,7 +8,6 @@
 * as flesh-eaters, [[sb/4/18/21#purport|SB 4.18.21]]
 * as pious, [[sb/4/11/33#purport|SB 4.11.33]]
 * at Pṛthu’s horse sacrifices, [[sb/4/19/5#purport|SB 4.19.5]]
-*  [[bg/9/25|Bg. 9.25]], [[bg/17/28|Bg. 17.28]], [[sb/3/20/19#purport|SB 3.20.19]], [[sb/3/20/21#purport|SB 3.20.21]], [[sb/3/20/22#purport|SB 3.20.22]], [[sb/6/8/24#purport|SB 6.8.24]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
 * Dhruva vs., [[sb/4/10/4-30#purport|SB 4.10.4-30]], [[sb/4/11/1-6#purport|SB 4.11.1-6]]
 * Hiraṇyakaśipu degraded service of, [[sb/7/8/52#purport|SB 7.8.52]]
 * identity of, [[sb/4/10/5#purport|SB 4.10.5]]

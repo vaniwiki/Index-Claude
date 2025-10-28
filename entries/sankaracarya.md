@@ -1,6 +1,6 @@
 # Śaṅkarācārya
 
-[[cc/adi/7/122#purport|Ādi 7.122]], [[cc/adi/7/133#purport|Ādi 7.133]], [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/adi/7/73#purport|Ādi 7.73]], [[cc/antya/2/89#purport|Antya 2.89]], [[cc/antya/2/95#purport|Antya 2.95]], [[bg/3|Bg. 3]], [[cc/madhya/20/311#purport|Madhya 20.311]], [[cc/madhya/20/359#purport|Madhya 20.359]], **[[cc/madhya/25/156#translation|Madhya 25.156]]**, **[[cc/madhya/25/26–27#translation|Madhya 25.26–27]]**, **[[cc/madhya/25/41–42#translation|Madhya 25.41–42]]**, **[[cc/madhya/25/47–48#translation|Madhya 25.47–48]]**, [[cc/madhya/25/56#purport|Madhya 25.56]], [[cc/madhya/25/91#purport|Madhya 25.91]], [[cc/madhya/6/120#purport|Madhya 6.120]], [[cc/madhya/6/127#purport|Madhya 6.127]], [[cc/madhya/6/130#purport|Madhya 6.130]], **[[cc/madhya/6/169#translation|Madhya 6.169]]**, [[cc/madhya/6/73#purport|Madhya 6.73]], **[[cc/madhya/9/42#translation|Madhya 9.42]]**, [[sb/4/2/30#purport|SB 4.2.30]]
+[[bg/3|Bg. 3]], **[[cc/madhya/9/42#translation|Madhya 9.42]]**, [[cc/adi/7/122#purport|Ādi 7.122]], [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/adi/7/133#purport|Ādi 7.133]], **[[cc/madhya/25/156#translation|Madhya 25.156]]**, [[cc/madhya/20/311#purport|Madhya 20.311]], [[cc/madhya/20/359#purport|Madhya 20.359]], [[cc/madhya/6/73#purport|Madhya 6.73]], [[cc/adi/7/73#purport|Ādi 7.73]], [[cc/madhya/6/120#purport|Madhya 6.120]], [[cc/madhya/6/127#purport|Madhya 6.127]], [[cc/madhya/6/130#purport|Madhya 6.130]], **[[cc/madhya/6/169#translation|Madhya 6.169]]**, **[[cc/madhya/25/26–27#translation|Madhya 25.26–27]]**, **[[cc/madhya/25/41–42#translation|Madhya 25.41–42]]**, **[[cc/madhya/25/47–48#translation|Madhya 25.47–48]]**, [[cc/madhya/25/56#purport|Madhya 25.56]], [[cc/madhya/25/91#purport|Madhya 25.91]], [[cc/antya/2/89#purport|Antya 2.89]], [[cc/antya/2/95#purport|Antya 2.95]], [[sb/4/2/30#purport|SB 4.2.30]]
 
 * *Bhagavad-gītā *commentary of, [[bg/7/3|Bg. 7.3]]
 * *Śārīraka-bhāṣya *of, [[bg/5/6|Bg. 5.6]]
@@ -18,7 +18,7 @@
 * birthplace of, [[cc/adi/1/19#purport|Ādi 1.19]], [[cc/madhya/6/182#purport|Madhya 6.182]]
 * catur-vyūha &, [[cc/adi/5/41#purport|Ādi 5.41]]
 * cited on Kṛṣṇa as Supreme Lord, [[bg/7/24|Bg. 7.24]] (2)
-* cited. See: Śaṅkarācārya cited 
+* cited. See: Śaṅkarācārya cited
 * commentaries of, [[cc/adi/7/101#purport|Ādi 7.101]], **[[cc/adi/7/109–10#translation|Ādi 7.109–10]]**
 * contradiction by, [[cc/adi/5/41#purport|Ādi 5.41]]
 * danger of following, SB Intro 36

@@ -10,7 +10,6 @@
 * austerity involving, [[sb/4/23/6#purport|SB 4.23.6]]
 * cosmos from, [[sb/8/5/33#purport|SB 8.5.33]]
 * drinking of, [[sb/9/4/39-40#purport|SB 9.4.39-40]]
-* *See:* [[e#Elements|Elements]] 
 * elephant & crocodile in, [[sb/8/2/26-27#purport|SB 8.2.26-27]], [[sb/8/2/29#purport|SB 8.2.29]], [[sb/8/2/30#purport|SB 8.2.30]]
 * fasting with, [[sb/1/13/53#purport|SB 1.13.53]]
 * fish incarnation outgrew, [[sb/8/24/17-26#purport|SB 8.24.17-26]]
@@ -35,9 +34,11 @@
 * reflection on, living entity in body compared to, [[sb/4/22/29#purport|SB 4.22.29]]
 * reservoir of, great soul’s mind compared to, [[sb/4/24/20-20#purport|SB 4.24.20-20]]
 * scientists misunderstand, [[sb/8/5/33#purport|SB 8.5.33]]
-* spiritual. See: specific lakes, oceans, & rivers 
+* spiritual. See: specific lakes, oceans, & rivers
 * via Arjuna’s arrow, [[sb/1/15/17#purport|SB 1.15.17]]
 * war demands, [[sb/1/15/17#purport|SB 1.15.17]]
-* Yuvanāśva drank, by ”mistake,” [[sb/9/6/27#purport|SB 9.6.27]], [[sb/9/6/29#purport|SB 9.6.29]]
+* Yuvanāśva drank, by ”mistake,”, [[sb/9/6/27#purport|SB 9.6.27]], [[sb/9/6/29#purport|SB 9.6.29]]
 
-*See also:* [[e#Elements|Elements]]; material; [[r#Rain|Rain]]; [[e#Evolution|Evolution]]
+*See also:* [Rain](entries/rain.md); Elements; [Evolution](entries/evolution.md); material
+
+*See:* Elements

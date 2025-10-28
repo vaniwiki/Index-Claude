@@ -6,4 +6,4 @@
 * benediction from, [[sb/6/9/50#purport|SB 6.9.50]]
 * with Śiva in Sukumāra forest, [[sb/9/1/25#purport|SB 9.1.25]]
 
-*See also:* [[p#Pārvatī|Pārvatī]]
+*See also:* Pārvatī

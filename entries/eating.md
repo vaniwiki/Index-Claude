@@ -1,7 +1,6 @@
 # Eating
 
-* *prasādam. See: Prasādam* 
-* yoga &, [[bg/6/16–17|Bg. 6.16–17]]
+* *prasādam. See: Prasādam*
 * according to modes, [[sb/4/26/11#purport|SB 4.26.11]]
 * attachment to, [[sb/4/25/53#purport|SB 4.25.53]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/4/29/54-54#purport|SB 4.29.54-54]]
 * austerities in, by Dhruva Mahārāja, [[sb/4/30/4#purport|SB 4.30.4]]
@@ -44,10 +43,7 @@
 * in spiritual life, [[bg/6/16|Bg. 6.16]]
 * killing for, [[bg/14/16|Bg. 14.16]], [[sb/3/29/15#purport|SB 3.29.15]]
 * Lord’s, [[sb/3/3/23#purport|SB 3.3.23]], [[sb/3/3/28#purport|SB 3.3.28]], [[sb/3/16/8#purport|SB 3.16.8]]
-* *See:* [[m#Meat-eating|Meat-eating]] 
-* *See:* [[a#Animal slaughter|Animal slaughter]]; [[m#Meat-eating|Meat-eating]] 
 * of meat, [[sb/3/32/2#purport|SB 3.32.2]]
-* of meat. See: Meat-eating 
 * of unoffered foods, [[bg/3/13–14|Bg. 3.13–14]]
 * over-, [[sb/4/23/5#purport|SB 4.23.5]]
 * prasāda only, [[sb/2/9/36#purport|SB 2.9.36]]
@@ -61,7 +57,8 @@
 * spiritual, vs. material eating, [[bg/2/63|Bg. 2.63]]
 * to maintain body, [[sb/4/8/72#purport|SB 4.8.72]]
 * vegetarian diet &, [[bg/6/16–17|Bg. 6.16–17]]
+* yoga &, [[bg/6/16–17|Bg. 6.16–17]]
 
-*See also:* [[f#Food|Food]]; [[p#Prasādam|Prasādam]]; [[m#Meat-eating|Meat-eating]]; [[p#Prasāda|Prasāda]]; [[s#Starvation|Starvation]]
+*See also:* [Food](entries/food.md); [Meat-eating](entries/meat-eating.md); Prasāda; Starvation; Prasādam
 
-*See:* [[f#Food|Food]]; Lunch; [[p#Prasāda|Prasāda]]; [[m#Meat-eaters|Meat-eaters]]
+*See:* [Food](entries/food.md); Lunch; Prasāda; Meat-eaters; [Meat-eating](entries/meat-eating.md); Animal slaughter

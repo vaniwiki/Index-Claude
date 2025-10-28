@@ -1,10 +1,15 @@
 # Caitanya-caritāmṛta
 
-[[cc/adi/8/73#purport|Ādi 8.73]], **[[cc/adi/8/77–78#translation|Ādi 8.77–78]]**, **[[cc/adi/9/5#translation|Ādi 9.5]]**, [[cc/antya/10/149#purport|Antya 10.149]], [[cc/madhya/22/118#purport|Madhya 22.118]]
+[[cc/madhya/22/118#purport|Madhya 22.118]], [[cc/adi/8/73#purport|Ādi 8.73]], **[[cc/adi/8/77–78#translation|Ādi 8.77–78]]**, **[[cc/adi/9/5#translation|Ādi 9.5]]**, [[cc/antya/10/149#purport|Antya 10.149]]
 
 * as auspicious, [[sb/8/1/32#purport|SB 8.1.32]]
-* Caitanya-caritāmṛta cited; Caitanya-caritāmṛta quoted , 
+* Caitanya-caritāmṛta cited; Caitanya-caritāmṛta quoted
 * commentary on, [[bg/9/34|Bg. 9.34]]
+  * on Vedas given to forgetful souls, 24
+  * on devotional service, faith in, [[bg/2/41|Bg. 2.41]]
+  * on Kṛṣṇa as supreme, [[bg/7/20|Bg. 7.20]], [[bg/11/44|Bg. 11.44]]
+  * on pure devotee, [[bg/9/28|Bg. 9.28]]
+  * on Supreme Lord, incarnations of, [[bg/4/8|Bg. 4.8]]
 * compilation of, [[cc/adi/8/39#purport|Ādi 8.39]], **[[cc/adi/8/72#translation|Ādi 8.72]]**
 * devotee’s mercy &, [[cc/madhya/6/81#purport|Madhya 6.81]]
 * disciplic succession &, [[cc/madhya/2/84#purport|Madhya 2.84]], **[[cc/madhya/7/153#translation|Madhya 7.153]]**

@@ -20,10 +20,12 @@
 * religious, [[bg/2/30–32|Bg. 2.30–32]]
 * soul’s eternality doesn’t excuse, [[bg/2/30|Bg. 2.30]]
 * strength for, purpose of, [[bg/7/11|Bg. 7.11]]
-* to animals 
+* to animals
+  * *See also:* Animal slaughter
+  * forbidden, [[bg/2/19|Bg. 2.19]], [[bg/16/1|Bg. 16.1]] (13)
 * to oneself as well as others as demoniac, [[bg/16/18|Bg. 16.18]]
 * work based on, in ignorance mode, [[bg/18/25|Bg. 18.25]]
 
-*See also:* [[a#Animal slaughter|Animal slaughter]]; [[k#Kurukṣetra Battle|Kurukṣetra Battle]]; [[k#Killing|Killing]]; [[m#Murder|Murder]]; [[n#Nonviolence|Nonviolence]]; [[w#War|War]]; Warfare
+*See also:* Animal slaughter; Kurukṣetra Battle; [Killing](entries/killing.md); [Murder](entries/murder.md); [Nonviolence](entries/nonviolence.md); [War](entries/wars.md); Warfare
 
-*See:* [[k#Killing|Killing]]
+*See:* [Killing](entries/killing.md)

@@ -6,4 +6,4 @@
 * scriptures foretell, [[sb/8/13/11#purport|SB 8.13.11]]
 * study of, [[sb/10/6/32#purport|SB 10.6.32]]
 
-*See also:* Past; present; & future; [[t#Time|Time]]
+*See also:* Past; present; & future; [Time](entries/time.md)

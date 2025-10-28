@@ -3,17 +3,17 @@
 [[sb/3/12/31#purport|SB 3.12.31]]
 
 * as *kṣatriya *quality, [[bg/18/43|Bg. 18.43]]
+* compared with Lord’s, [[sb/9/4/56#purport|SB 9.4.56]]
 * contamination reduces, [[sb/9/13/5#purport|SB 9.13.5]]
 * extraordinary, where Kṛṣṇa & Arjuna are present, [[bg/18/78|Bg. 18.78]]
 * from Lord, [[sb/10/2/17#purport|SB 10.2.17]]
 * inferior, vs. superior, [[sb/10/13/45#purport|SB 10.13.45]]
 * Lord as source of, [[sb/1/15/21#purport|SB 1.15.21]]
 * Lord source of, [[sb/8/15/28#purport|SB 8.15.28]]
-* material, compared with transcendental, [[sb/9/10/20#purport|SB 9.10.20]]
 * material, [[sb/3/17/19#purport|SB 3.17.19]]
+* material, compared with transcendental, [[sb/9/10/20#purport|SB 9.10.20]]
 * misuse of, [[sb/1/19/3#purport|SB 1.19.3]]
-* mystic. See: Mystic power 
-* mystic. See: Mystic power(s) 
+* mystic. See: Mystic power
 * of Arjuna from Kṛṣṇa, [[sb/1/15/5#purport|SB 1.15.5]], [[sb/1/15/7-8#purport|SB 1.15.7-8]], [[sb/1/15/13-14#purport|SB 1.15.13-14]]
 * of Bali, [[sb/8/15/25-31#purport|SB 8.15.25-31]], [[sb/8/15/33-36#purport|SB 8.15.33-36]]
 * of brāhmaṇas, kṣatriyas, & vaiśyas, [[sb/4/23/32#purport|SB 4.23.32]]
@@ -21,11 +21,11 @@
 * of chaste women, [[sb/9/10/27#purport|SB 9.10.27]]
 * of demigods, [[sb/1/19/18#purport|SB 1.19.18]], [[sb/9/13/8#purport|SB 9.13.8]]
 * of devotees, [[sb/4/24/58#purport|SB 4.24.58]]
-* of devotional service, [[sb/10/2/30#purport|SB 10.2.30]], [[sb/3/24/29#purport|SB 3.24.29]], [[sb/9/2/14#purport|SB 9.2.14]]
+* of devotional service, [[sb/3/24/29#purport|SB 3.24.29]], [[sb/9/2/14#purport|SB 9.2.14]], [[sb/10/2/30#purport|SB 10.2.30]]
 * of Hiraṇyakaśipu, [[sb/7/8/3-4#purport|SB 7.8.3-4]], [[sb/7/8/6#purport|SB 7.8.6]], [[sb/7/8/29#purport|SB 7.8.29]], [[sb/7/8/45#purport|SB 7.8.45]], [[sb/7/8/46#purport|SB 7.8.46]], [[sb/7/9/23#purport|SB 7.9.23]], [[sb/7/10/27#purport|SB 7.10.27]]
 * of Jamadagni, [[sb/9/16/7#purport|SB 9.16.7]], [[sb/9/16/8#purport|SB 9.16.8]]
 * of Kārtavīryārjuna, [[sb/9/15/17-22#purport|SB 9.15.17-22]]
-* of Kṛṣṇa. See: Kṛṣṇa, potency of 
+* of Kṛṣṇa. See: Kṛṣṇa, potency of
 * of Lord & living entity compared, [[sb/3/23/43#purport|SB 3.23.43]], [[sb/3/23/44#purport|SB 3.23.44]]
 * of Lord, [[sb/4/24/60#purport|SB 4.24.60]], [[sb/4/24/61#purport|SB 4.24.61]], [[sb/4/24/65#purport|SB 4.24.65]], [[sb/8/18/20#purport|SB 8.18.20]], [[sb/9/4/56#purport|SB 9.4.56]], [[sb/9/10/15#purport|SB 9.10.15]], [[sb/9/10/22#purport|SB 9.10.22]]
 * of mantras at ritualistic ceremonies, [[sb/9/6/27#purport|SB 9.6.27]]
@@ -45,4 +45,4 @@
 * via paramparā, [[sb/8/15/28#purport|SB 8.15.28]]
 * via spiritual master, [[sb/8/15/28#purport|SB 8.15.28]]
 
-*See also:* [[e#Energy of Supreme Lord|Energy of Supreme Lord]]; Energy; [[m#Mystic power|Mystic power]]; Mystics power; [[m#Mysticism|Mysticism]]
+*See also:* [Mysticism](entries/mysticism.md); Mystic power; Energy of Supreme Lord; Energy; Mystics power

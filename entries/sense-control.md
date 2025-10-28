@@ -1,15 +1,17 @@
 # Sense control
 
-[[sb/3/25/44#purport|SB 3.25.44]], [[sb/4/31/19#purport|SB 4.31.19]]
+[[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/10/23#purport|SB 1.10.23]], [[sb/1/10/23#purport|SB 1.10.23]], [[sb/3/25/44#purport|SB 3.25.44]], [[sb/4/31/19#purport|SB 4.31.19]]
 
 * *gosvāmīs *&, [[bg/5/23|Bg. 5.23]], [[bg/6/26|Bg. 6.26]]
-* *pratyāhāra,* 6.25
+* *pratyāhāra,*, 6.25
+  * impractical today, [[bg/8/12|Bg. 8.12]]
+  * method of, [[bg/8/12|Bg. 8.12]]
 * advantages of, [[bg/4/39|Bg. 4.39]]
-* air of life &,  4.27, [[bg/4/29|Bg. 4.29]]
+* air of life &, 4.27, [[bg/4/29|Bg. 4.29]]
 * artificial, [[bg/3/43|Bg. 3.43]], [[sb/3/27/5#purport|SB 3.27.5]]
 * as heroic, [[sb/4/25/25#purport|SB 4.25.25]]
 * as sacrifice’s goal, [[bg/4/30|Bg. 4.30]]
-* by *svāmī *or *gosvāmī,* 5.23, [[bg/6/26|Bg. 6.26]]
+* by *svāmī *or *gosvāmī,*, 5.23, [[bg/6/26|Bg. 6.26]]
 * by brahmacārī, [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/12/1#purport|SB 7.12.1]]
 * by devotee & mystic yogī contrasted, [[sb/9/4/25#purport|SB 9.4.25]]
 * by devotees, [[bg/2/58|Bg. 2.58]], [[bg/5/8–11|Bg. 5.8–11]], [[bg/5/13|Bg. 5.13]]
@@ -25,9 +27,10 @@
 * gradual, [[bg/6/25|Bg. 6.25]]
 * happiness via, [[bg/5/23|Bg. 5.23]]
 * human life affords, [[sb/3/31/19#purport|SB 3.31.19]]
-* impersonalism &,  12.3
+* impersonalism &, 12.3
 * knowledge via, [[bg/4/39|Bg. 4.39]]
 * Kṛṣṇa conscious, [[bg/2/58–71|Bg. 2.58–71]], [[bg/6/2|Bg. 6.2]], [[bg/13/8|Bg. 13.8]] (7)
+  * examples of, [[bg/13/8|Bg. 13.8]] (7)
 * Kṛṣṇa origin of, [[bg/10/4|Bg. 10.4]]
 * liberation via, [[bg/5/27|Bg. 5.27]]
 * Lord satisfied via, [[sb/4/31/19-19#purport|SB 4.31.19-19]]
@@ -46,14 +49,12 @@
 * required for knowledge & liberation, [[bg/2/6|Bg. 2.6]]
 * sacrifice of, [[bg/4/26–27|Bg. 4.26–27]]
 * satisfaction via, [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/19/24#purport|SB 8.19.24]]
-*  [[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/6/35#purport|SB 1.6.35]], [[sb/1/10/23#purport|SB 1.10.23]], [[sb/1/10/23#purport|SB 1.10.23]]
 * self-realization via, [[bg/4/27|Bg. 4.27]]
 * sense gratification vs., [[sb/7/6/8#purport|SB 7.6.8]]
 * training for, [[sb/7/6/10#purport|SB 7.6.10]]
 * urgency of, [[bg/3/41|Bg. 3.41]]
 * varṇāśrama-dharma teaches, [[sb/8/19/21#purport|SB 8.19.21]]
-* via *aṣṭāṅga-yoga, * 2.59
-* via yoga,  2.48, [[bg/4/29|Bg. 4.29]], [[bg/5/27|Bg. 5.27]], [[bg/6/11–18|Bg. 6.11–18]], [[bg/6/28|Bg. 6.28]], [[bg/8/12|Bg. 8.12]]
+* via *aṣṭāṅga-yoga, *, 2.59
 * via breath control, [[bg/4/27|Bg. 4.27]], [[bg/4/29|Bg. 4.29]]
 * via chanting Hare Kṛṣṇa, [[sb/3/25/33#purport|SB 3.25.33]]
 * via Deity worship, [[bg/13/8|Bg. 13.8]] (7)
@@ -65,9 +66,9 @@
 * via prasāda, [[sb/3/25/33#purport|SB 3.25.33]]
 * via regulative principles, [[bg/2/64|Bg. 2.64]]
 * via restrictions, [[bg/2/59|Bg. 2.59]]
-* via yoga, [[sb/8/19/21#purport|SB 8.19.21]]
-* Viśvāmitra &,  2.60
+* via yoga, 2.48, [[bg/4/29|Bg. 4.29]], [[bg/5/27|Bg. 5.27]], [[bg/6/11–18|Bg. 6.11–18]], [[bg/6/28|Bg. 6.28]], [[bg/8/12|Bg. 8.12]], [[sb/8/19/21#purport|SB 8.19.21]]
+* Viśvāmitra &, 2.60
 
-*See also:* [[a#Austerity|Austerity]]; [[d#Detachment|Detachment]]; [[r#Renunciation|Renunciation]]; [[c#Celibacy|Celibacy]]; [[m#Meditation|Meditation]]; [[s#Samādhi|Samādhi]]; [[y#Yoga|Yoga]]; [[s#Self-control|Self-control]]
+*See also:* [Austerity](entries/austerities.md); [Celibacy](entries/celibacy.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Meditation](entries/meditation.md); Samādhi; [Yoga](entries/yogas.md); [Self-control](entries/self-control.md)
 
-*See:* [[a#Austerity|Austerity]]; [[d#Detachment|Detachment]]; [[r#Renunciation|Renunciation]]
+*See:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md)

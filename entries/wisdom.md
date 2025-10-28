@@ -4,4 +4,4 @@
 * defined, [[bg/10/38|Bg. 10.38]]
 * Kṛṣṇa represented by, [[bg/10/38|Bg. 10.38]]
 
-*See:* [[a#Absolute Truth|Absolute Truth]]; [[k#Knowledge|Knowledge]]; [[p#Philosophy|Philosophy]]; [[g#God realiātion|God realiātion]]; [[s#Self-realization|Self-realization]]
+*See:* [Knowledge](entries/knowledge.md); Absolute Truth; [Philosophy](entries/philosophies.md); God realiātion; [Self-realization](entries/self-realization.md)

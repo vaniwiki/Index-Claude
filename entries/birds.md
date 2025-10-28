@@ -1,6 +1,6 @@
 # Bird(s)
 
-* ”of a feather flock together,” [[sb/4/22/3#purport|SB 4.22.3]]
+* ”of a feather flock together,”, [[sb/4/22/3#purport|SB 4.22.3]]
 * at Bindu-sarovara Lake, [[sb/3/21/40-43#purport|SB 3.21.40-43]]
 * at demons’ birth, [[sb/3/17/12#purport|SB 3.17.12]]
 * at Kṛṣṇa’s advent, [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/3/1-5#purport|SB 10.3.1-5]]

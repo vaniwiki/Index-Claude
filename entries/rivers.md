@@ -1,5 +1,7 @@
 # River(s)
 
+
+
 * & sea compared to oneness, [[sb/6/8/12#purport|SB 6.8.12]]
 * Alakanandā, [[sb/4/6/24#purport|SB 4.6.24]]
 * at Kṛṣṇa’s advent, [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/3/1-5#purport|SB 10.3.1-5]]
@@ -11,8 +13,8 @@
 * from Kumuda Mountain, [[sb/5/16/24-25#purport|SB 5.16.24-25]]
 * from Meru, [[sb/5/17/10#purport|SB 5.17.10]]
 * from Śuparśva Mountain, [[sb/5/16/22-23#purport|SB 5.16.22-23]]
-* Ganges. See: Ganges River 
-* holy. See: Ganges River; Yamunā River 
+* Ganges. See: Ganges River
+* holy. See: Ganges River; Yamunā River
 * in Kailāsa, [[sb/4/6/24-25#purport|SB 4.6.24-25]]
 * in Lord’s universal form, [[sb/8/20/25-29#purport|SB 8.20.25-29]]
 * India blessed by sacred, [[sb/5/17/1#purport|SB 5.17.1]]
@@ -22,7 +24,7 @@
 * Nandā, [[sb/4/6/24#purport|SB 4.6.24]]
 * Nirvindhyā, [[sb/4/1/18#purport|SB 4.1.18]]
 * opulence produced from, [[sb/5/16/24#purport|SB 5.16.24]]
-* sacred. See: Ganges River; Yamunā River 
+* sacred. See: Ganges River; Yamunā River
 * water from, in Deity worship, [[sb/4/8/55#purport|SB 4.8.55]]
 * waves of, compared with devotional service, [[sb/4/9/11-11#purport|SB 4.9.11-11]]
 

@@ -1,9 +1,8 @@
 # Spiritual world
 
-[[cc/adi/1/56#purport|Ādi 1.56]], [[cc/adi/10/84#purport|Ādi 10.84]], [[cc/adi/14/42#purport|Ādi 14.42]], **[[cc/adi/17/105#translation|Ādi 17.105]]**, [[cc/adi/3/91#purport|Ādi 3.91]], **[[cc/adi/5/16#translation|Ādi 5.16]]**, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/22#purport|Ādi 5.22]], **[[cc/adi/5/23#translation|Ādi 5.23]]**, **[[cc/adi/5/23#translation|Ādi 5.23]]**, **[[cc/adi/5/25#translation|Ādi 5.25]]**, **[[cc/adi/5/25#translation|Ādi 5.25]]**, **[[cc/adi/5/35#translation|Ādi 5.35]]**, **[[cc/adi/5/40#translation|Ādi 5.40]]**, [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/adi/7/113#purport|Ādi 7.113]], [[cc/adi/7/128#purport|Ādi 7.128]], [[cc/adi/7/76#purport|Ādi 7.76]], [[cc/madhya/19/154#purport|Madhya 19.154]], **[[cc/madhya/19/193#translation|Madhya 19.193]]**, [[cc/madhya/20/117#purport|Madhya 20.117]], [[cc/madhya/20/192#purport|Madhya 20.192]], [[cc/madhya/20/192#purport|Madhya 20.192]], **[[cc/madhya/20/210–13#translation|Madhya 20.210–13]]**, **[[cc/madhya/20/214#translation|Madhya 20.214]]**, **[[cc/madhya/20/214#translation|Madhya 20.214]]**, **[[cc/madhya/20/398#translation|Madhya 20.398]]**, **[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**, **[[cc/madhya/21/88#translation|Madhya 21.88]]**, [[cc/madhya/6/167#purport|Madhya 6.167]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/8/229#purport|Madhya 8.229]], **[[cc/madhya/8/229#translation|Madhya 8.229]]**, **[[cc/madhya/8/89#translation|Madhya 8.89]]**, [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/8/90#purport|Madhya 8.90]], **[[cc/madhya/9/257#translation|Madhya 9.257]]**, **[[cc/madhya/9/300#translation|Madhya 9.300]]**, **[[cc/madhya/9/312–15#translation|Madhya 9.312–15]]**, [[cc/madhya/9/49#purport|Madhya 9.49]]
+[[cc/adi/10/84#purport|Ādi 10.84]], **[[cc/adi/17/105#translation|Ādi 17.105]]**, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/76#purport|Ādi 7.76]], [[cc/adi/1/56#purport|Ādi 1.56]], **[[cc/madhya/8/89#translation|Madhya 8.89]]**, [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/9/49#purport|Madhya 9.49]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/128#purport|Ādi 7.128]], **[[cc/madhya/9/312–15#translation|Madhya 9.312–15]]**, **[[cc/madhya/8/229#translation|Madhya 8.229]]**, [[cc/adi/3/91#purport|Ādi 3.91]], **[[cc/adi/5/35#translation|Ādi 5.35]]**, [[cc/madhya/8/229#purport|Madhya 8.229]], **[[cc/madhya/9/257#translation|Madhya 9.257]]**, **[[cc/madhya/9/300#translation|Madhya 9.300]]**, [[cc/madhya/8/90#purport|Madhya 8.90]], [[cc/adi/5/22#purport|Ādi 5.22]], **[[cc/adi/5/16#translation|Ādi 5.16]]**, **[[cc/adi/5/23#translation|Ādi 5.23]]**, **[[cc/adi/5/25#translation|Ādi 5.25]]**, **[[cc/adi/5/40#translation|Ādi 5.40]]**, [[cc/adi/5/41#purport|Ādi 5.41]], [[cc/madhya/20/192#purport|Madhya 20.192]], **[[cc/madhya/20/214#translation|Madhya 20.214]]**, **[[cc/madhya/21/87–88#translation|Madhya 21.87–88]]**, [[cc/adi/14/42#purport|Ādi 14.42]], [[cc/madhya/6/167#purport|Madhya 6.167]], **[[cc/adi/5/23#translation|Ādi 5.23]]**, **[[cc/adi/5/25#translation|Ādi 5.25]]**, [[cc/madhya/20/192#purport|Madhya 20.192]], **[[cc/madhya/20/214#translation|Madhya 20.214]]**, **[[cc/madhya/21/88#translation|Madhya 21.88]]**, [[cc/madhya/20/117#purport|Madhya 20.117]], [[cc/madhya/19/154#purport|Madhya 19.154]], **[[cc/madhya/19/193#translation|Madhya 19.193]]**, **[[cc/madhya/20/210–13#translation|Madhya 20.210–13]]**, **[[cc/madhya/20/398#translation|Madhya 20.398]]**, [[cc/adi/7/113#purport|Ādi 7.113]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/54#purport|SB 4.28.54]], [[sb/10/13/2#purport|SB 10.13.2]], [[sb/10/13/47-48#purport|SB 10.13.47-48]], [[sb/10/13/50#purport|SB 10.13.50]]
 
 * ”hunger” satisfied in, [[sb/1/12/6#purport|SB 1.12.6]]
-* brahmajyoti from, [[bg/15/6|Bg. 15.6]]
 * & Āgnīdhra’s desire, [[sb/5/2/2#purport|SB 5.2.2]]
 * absolute equivalency in, SB Intro 34
 * absolute nature of, [[sb/2/5/39#purport|SB 2.5.39]], [[sb/4/12/29#purport|SB 4.12.29]]
@@ -13,13 +12,16 @@
 * annihilation doesn’t touch, [[bg/8/20|Bg. 8.20]]
 * anxiety absent in, [[cc/madhya/8/64#purport|Madhya 8.64]], [[cc/madhya/21/51#purport|Madhya 21.51]]
 * anxiety-free, [[sb/8/24/51#purport|SB 8.24.51]]
-* as avyakta, 22 
-* as *paraṁ padam, * 2.51
+* as ”bewildered,”, [[sb/3/13/45#purport|SB 3.13.45]]
+* as ”shadow” of, [[sb/1/1/17#purport|SB 1.1.17]]
+* as *paraṁ padam, *, 2.51
 * as abode of Lord, [[bg/18/62|Bg. 18.62]]
+* as ageless, [[sb/3/15/27#purport|SB 3.15.27]]
 * as aim of religion, [[sb/1/2/25#purport|SB 1.2.25]]
 * as all-pervasive, **[[cc/adi/5/15#translation|Ādi 5.15]]**
 * as amṛta, [[sb/2/6/18#purport|SB 2.6.18]]
 * as animate, [[sb/3/15/18#purport|SB 3.15.18]]
+* as avyakta, 22
 * as basis of reality & truth, [[sb/1/1/1#purport|SB 1.1.1]]
 * as Brahmaloka, [[sb/2/5/39#purport|SB 2.5.39]]
 * as cintāmaṇi-dhāma, [[sb/4/30/32#purport|SB 4.30.32]]
@@ -27,8 +29,8 @@
 * as destination of devotees, [[sb/1/6/26#purport|SB 1.6.26]], [[sb/1/6/31#purport|SB 1.6.31]], [[sb/6/2/43-44#purport|SB 6.2.43-44]]
 * as eternal & changeless, [[sb/3/32/9#purport|SB 3.32.9]]
 * as eternal & supreme, [[sb/3/32/26#purport|SB 3.32.26]]
-* as eternal, 16 
 * as eternal, [[cc/adi/7/116#purport|Ādi 7.116]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[sb/3/7/2#purport|SB 3.7.2]], [[sb/4/28/61#purport|SB 4.28.61]]
+* as eternal, 16
 * as eternity, knowledge, & bliss, [[sb/2/9/13#purport|SB 2.9.13]]
 * as expansion of Lord’s energy, [[sb/6/8/32-33#purport|SB 6.8.32-33]], [[sb/6/8/32-33#purport|SB 6.8.32-33]]
 * as factual, [[sb/2/9/5#purport|SB 2.9.5]], [[sb/2/9/9#purport|SB 2.9.9]]
@@ -50,17 +52,16 @@
 * as three-fourths of Lord’s energy, **[[cc/madhya/21/51#translation|Madhya 21.51]]**, **[[cc/madhya/21/55–56#translation|Madhya 21.55–56]]**
 * as transcendental, [[sb/7/8/24#purport|SB 7.8.24]]
 * as tripād-vibhūti, [[sb/2/6/17-18#purport|SB 2.6.17-18]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/10/35#purport|SB 2.10.35]]
-* as unmanifested, 23 
+* as unmanifested, 23
 * as visited via Vedas, [[sb/3/15/15#purport|SB 3.15.15]]
 * as viśuddha-sattva, [[cc/adi/4/62#purport|Ādi 4.62]]
-* attained 
-* *See:* [[g#Godhead|Godhead]]; returning to; [[l#Liberation|Liberation]] 
-* attaining to. See: Liberation , , 
-* attainment to 
+* attained
+* attaining to. See: Liberation
+* attainment to
 * attractive features of, [[sb/3/15/20#purport|SB 3.15.20]]
 * behind phenomenal existence, [[sb/2/1/38#purport|SB 2.1.38]]
 * beings in, [[sb/4/6/30#purport|SB 4.6.30]], [[sb/4/8/81#purport|SB 4.8.81]]
-* beyond 
+* beyond
 * beyond material contact, [[sb/3/9/2#purport|SB 3.9.2]], [[sb/3/9/3#purport|SB 3.9.3]]
 * beyond material qualities, [[sb/4/7/39-39#purport|SB 4.7.39-39]]
 * Bhīṣma attained, [[sb/1/9/44#purport|SB 1.9.44]]
@@ -68,20 +69,26 @@
 * Brahmā &, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/madhya/20/270#purport|Madhya 20.270]]
 * Brahmā realized, [[sb/2/9/9#purport|SB 2.9.9]], [[sb/2/9/9#purport|SB 2.9.9]]
 * Brahmā saw, [[sb/8/5/5#purport|SB 8.5.5]]
+* brahmajyoti from, [[bg/15/6|Bg. 15.6]]
 * Brahmaloka &, [[sb/6/1/1-1#purport|SB 6.1.1-1]]
 * Brahmaloka as, [[sb/5/1/7#purport|SB 5.1.7]]
 * brilliance of, [[sb/2/4/14#purport|SB 2.4.14]], [[sb/2/6/18#purport|SB 2.6.18]]
 * by knowing Lord, [[sb/4/12/24#purport|SB 4.12.24]]
+* by Vṛndāvana animals, [[sb/5/8/26#purport|SB 5.8.26]]
 * causal ocean &, **[[cc/adi/5/51#translation|Ādi 5.51]]**
 * Causal Ocean of, [[sb/2/1/25#purport|SB 2.1.25]], [[sb/2/2/28#purport|SB 2.2.28]], [[sb/2/5/33#purport|SB 2.5.33]], [[sb/2/6/39#purport|SB 2.6.39]]
 * cause & effect in, [[sb/2/6/33#purport|SB 2.6.33]]
 * chanting in, [[sb/4/6/30#purport|SB 4.6.30]]
 * characteristics of, [[bg/14/2|Bg. 14.2]]
 * cloud appears in, [[sb/2/5/33#purport|SB 2.5.33]]
-* compared 
+* compared
+  * to upright tree, 21
+  * with higher planets, [[bg/9/21|Bg. 9.21]]
+  * with material world, 20–21, 22, [[bg/9/33|Bg. 9.33]], [[bg/13/18|Bg. 13.18]], [[bg/13/21|Bg. 13.21]], [[bg/15/6|Bg. 15.6]], [[bg/15/16|Bg. 15.16]]
 * compared to sun, [[cc/adi/7/118#purport|Ādi 7.118]]
 * compared to tree, [[cc/adi/7/121#purport|Ādi 7.121]]
 * compared with material world, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/6/31#purport|SB 1.6.31]], [[sb/1/8/9#purport|SB 1.8.9]], [[sb/1/10/19#purport|SB 1.10.19]], [[sb/1/13/23#purport|SB 1.13.23]], [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/15/25-26#purport|SB 1.15.25-26]], [[sb/1/15/46#purport|SB 1.15.46]], [[sb/1/16/26-30#purport|SB 1.16.26-30]], [[sb/1/19/13#purport|SB 1.19.13]]
+* compared with, [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/8/9#purport|SB 1.8.9]], [[sb/1/10/19#purport|SB 1.10.19]], [[sb/1/13/23#purport|SB 1.13.23]], [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/15/25-26#purport|SB 1.15.25-26]], [[sb/1/15/46#purport|SB 1.15.46]], [[sb/1/16/26-30#purport|SB 1.16.26-30]], [[sb/1/19/13#purport|SB 1.19.13]]
 * competition in, [[sb/4/20/27#purport|SB 4.20.27]], [[sb/7/5/12#purport|SB 7.5.12]]
 * composition of, [[sb/3/15/21#purport|SB 3.15.21]]
 * contrasted to material world, [[sb/4/3/15#purport|SB 4.3.15]], [[sb/4/8/81#purport|SB 4.8.81]]
@@ -92,7 +99,7 @@
 * demons absent in, [[sb/4/7/20#purport|SB 4.7.20]]
 * demons killed by Kṛṣṇa attained, [[sb/2/7/34-35#purport|SB 2.7.34-35]], [[sb/2/7/34-35#purport|SB 2.7.34-35]]
 * demons sometimes enter, after liberation, [[sb/7/2/7-8#purport|SB 7.2.7-8]]
-* described, 20 
+* described, 20
 * desire in, [[cc/madhya/19/155#purport|Madhya 19.155]]
 * desire trees in, [[cc/adi/5/18#purport|Ādi 5.18]]
 * destruction &, [[cc/adi/5/22#purport|Ādi 5.22]]
@@ -109,7 +116,7 @@
 * devotional creeper &, **[[cc/madhya/19/153–54#translation|Madhya 19.153–54]]**
 * devotional creeper enters, [[sb/3/2/6#purport|SB 3.2.6]]
 * devotional life & activity in, [[bg/14/2|Bg. 14.2]]
-* devotional service &,  2.72
+* devotional service &, 2.72
 * devotional service predominates in, [[sb/3/15/14#purport|SB 3.15.14]]
 * Dhruva’s planet in, [[sb/2/7/8#purport|SB 2.7.8]]
 * dimension of, [[sb/2/9/10#purport|SB 2.9.10]]
@@ -120,7 +127,9 @@
 * Dvārakā portion of, [[cc/adi/4/106#purport|Ādi 4.106]], [[cc/adi/5/14#purport|Ādi 5.14]]
 * earthly representatives of, [[sb/3/4/22#purport|SB 3.4.22]]
 * effulgence in, [[sb/1/3/1#purport|SB 1.3.1]]
-* elevation to 
+* elevation to
+  * *See also:* Godhead; returning to
+  * devotee trusts Kṛṣṇa for, [[bg/12/6|Bg. 12.6]] (3)
 * elevation to, as eternal, [[sb/3/32/21#purport|SB 3.32.21]]
 * eligibility for entering, [[sb/3/4/12#purport|SB 3.4.12]]
 * eligibility for, [[sb/1/15/40#purport|SB 1.15.40]], [[sb/1/15/42#purport|SB 1.15.42]], [[sb/1/15/47-48#purport|SB 1.15.47-48]], [[sb/1/19/4#purport|SB 1.19.4]]
@@ -133,6 +142,7 @@
 * equality (qualitative) with Lord in, [[bg/14/2|Bg. 14.2]]
 * eternal, [[sb/4/9/21#purport|SB 4.9.21]]
 * everything personal in, [[sb/3/15/16#purport|SB 3.15.16]], [[sb/3/15/18#purport|SB 3.15.18]]
+* expression, [[sb/2/10/34#purport|SB 2.10.34]]
 * falldown from, [[sb/3/25/29#purport|SB 3.25.29]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/54#purport|SB 4.28.54]], [[sb/4/28/55#purport|SB 4.28.55]], [[sb/4/29/83#purport|SB 4.29.83]]
 * fear absent in, [[sb/2/2/17#purport|SB 2.2.17]]
 * fear in, [[sb/10/3/31#purport|SB 10.3.31]]
@@ -149,33 +159,33 @@
 * Gokula in, **[[cc/madhya/20/258#translation|Madhya 20.258]]**
 * Goloka Vṛndāvana center of, [[sb/2/4/14#purport|SB 2.4.14]]
 * Goloka Vṛndāvana in, [[bg/8/28|Bg. 8.28]], [[sb/2/9/9#purport|SB 2.9.9]], [[sb/2/9/37#purport|SB 2.9.37]], [[sb/2/10/44#purport|SB 2.10.44]]
+* good qualities of, [[sb/3/15/32#purport|SB 3.15.32]]
 * goodness in, [[sb/3/15/15#purport|SB 3.15.15]]
 * goodness unalloyed in, [[sb/2/9/10#purport|SB 2.9.10]]
 * happiness in, [[sb/2/6/18#purport|SB 2.6.18]]
 * happiness only in, [[sb/4/29/34#purport|SB 4.29.34]]
 * harmony in, [[sb/3/15/33-34#purport|SB 3.15.33-34]]
 * Haryaśvas’ understanding of, [[sb/6/5/13#purport|SB 6.5.13]]
+* hearing & chanting about Lord invokes, [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35#purport|SB 4.30.35]]
 * husbands & wives in, [[sb/4/23/29#purport|SB 4.23.29]]
 * ignorance of, [[cc/madhya/11/8#purport|Madhya 11.8]]
-* illumination in, 19 
 * illumination in, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/22#purport|Ādi 5.22]]
+* illumination in, 19
 * impersonalist’s conception of, refuted, [[sb/3/15/23#purport|SB 3.15.23]]
 * in atoms, [[sb/2/9/35#purport|SB 2.9.35]]
 * in banyan-tree analogy, [[bg/15/3|Bg. 15.3]]
 * in pure goodness, [[sb/3/19/30#purport|SB 3.19.30]], [[sb/3/24/10#purport|SB 3.24.10]]
-* inaccessible via ”mindship,” [[sb/2/7/16#purport|SB 2.7.16]]
+* inaccessible via ”mindship,”, [[sb/2/7/16#purport|SB 2.7.16]]
 * individuality maintained in, [[bg/14/2|Bg. 14.2]]
-* inhabitants of 
-* inhabitants of, [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/19/21#purport|SB 1.19.21]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/11-13#purport|SB 2.9.11-13]], [[sb/2/9/13#purport|SB 2.9.13]], [[sb/3/19/15#purport|SB 3.19.15]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/24/28#purport|SB 4.24.28]], [[sb/4/24/33#purport|SB 4.24.33]], [[sb/4/6/30#purport|SB 4.6.30]], [[sb/4/8/81#purport|SB 4.8.81]]
+* inhabitants of, [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/19/21#purport|SB 1.19.21]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/11-13#purport|SB 2.9.11-13]], [[sb/2/9/13#purport|SB 2.9.13]], [[sb/3/19/15#purport|SB 3.19.15]], [[sb/4/6/30#purport|SB 4.6.30]], [[sb/4/8/81#purport|SB 4.8.81]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/24/28#purport|SB 4.24.28]], [[sb/4/24/33#purport|SB 4.24.33]]
 * internal potency &, [[cc/adi/2/96#purport|Ādi 2.96]]
 * invoked by hearing & chanting, [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35#purport|SB 4.30.35]]
 * Kapila in, [[sb/2/7/3#purport|SB 2.7.3]]
 * Kapila Vaikuṇṭha planet in, [[sb/3/33/30#purport|SB 3.33.30]]
 * Kāśīra Māyāvādīs &, [[cc/adi/7/39#purport|Ādi 7.39]]
-* knowledge about. See: Knowledge, spiritual 
+* knowledge about. See: Knowledge, spiritual
 * Kṛṣṇa in, [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/7/52#purport|SB 1.7.52]]
 * Kṛṣṇa origin of, [[bg/10/8|Bg. 10.8]]
-* *See:* Kṛṣṇa; abodes of 
 * Kṛṣṇa’s expansions rule, [[sb/3/15/26#purport|SB 3.15.26]]
 * Kṛṣṇa’s flute &, **[[cc/madhya/21/141–42#translation|Madhya 21.141–42]]**
 * Kṛṣṇa’s opulences &, **[[cc/madhya/15/175#translation|Madhya 15.175]]**, **[[cc/madhya/21/51#translation|Madhya 21.51]]**
@@ -202,14 +212,16 @@
 * Lord’s presence as, [[sb/4/11/26#purport|SB 4.11.26]]
 * Lord’s relationship with, [[sb/2/9/9#purport|SB 2.9.9]]
 * love & devotion dominate, [[sb/1/11/39#purport|SB 1.11.39]]
+* machine’s reach, [[sb/2/4/14#purport|SB 2.4.14]]
+* material coverings, [[sb/2/2/28#purport|SB 2.2.28]]
 * material influences absent from, [[cc/adi/3/71#purport|Ādi 3.71]]
-* material world 
+* material world
 * material world as reflection of, [[bg/15/1|Bg. 15.1]] (3–4), [[bg/15/3|Bg. 15.3]]
-* material world compared with, [[sb/10/1/1#purport|SB 10.1.1]], [[sb/10/4/13#purport|SB 10.4.13]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/37#purport|SB 10.12.37]], [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/31#purport|SB 2.2.31]], [[sb/2/4/8#purport|SB 2.4.8]], [[sb/2/5/39#purport|SB 2.5.39]], [[sb/2/6/17-19#purport|SB 2.6.17-19]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/40#purport|SB 4.22.40]], [[sb/4/24/63#purport|SB 4.24.63]], [[sb/4/31/29#purport|SB 4.31.29]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/7/15/61#purport|SB 7.15.61]], [[sb/8/1/9#purport|SB 8.1.9]], [[sb/8/3/14#purport|SB 8.3.14]], [[sb/8/23/29#purport|SB 8.23.29]], [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/11/16#purport|SB 9.11.16]], [[sb/9/11/17#purport|SB 9.11.17]], [[sb/9/24/58#purport|SB 9.24.58]]
+* material world compared with, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/31#purport|SB 2.2.31]], [[sb/2/4/8#purport|SB 2.4.8]], [[sb/2/5/39#purport|SB 2.5.39]], [[sb/2/6/17-19#purport|SB 2.6.17-19]], [[sb/4/20/35-36#purport|SB 4.20.35-36]], [[sb/4/22/40#purport|SB 4.22.40]], [[sb/4/24/63#purport|SB 4.24.63]], [[sb/4/31/29#purport|SB 4.31.29]], [[sb/7/8/24#purport|SB 7.8.24]], [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/9/33#purport|SB 7.9.33]], [[sb/7/9/43#purport|SB 7.9.43]], [[sb/7/15/61#purport|SB 7.15.61]], [[sb/8/1/9#purport|SB 8.1.9]], [[sb/8/3/14#purport|SB 8.3.14]], [[sb/8/23/29#purport|SB 8.23.29]], [[sb/9/4/25#purport|SB 9.4.25]], [[sb/9/11/16#purport|SB 9.11.16]], [[sb/9/11/17#purport|SB 9.11.17]], [[sb/9/24/58#purport|SB 9.24.58]], [[sb/10/1/1#purport|SB 10.1.1]], [[sb/10/4/13#purport|SB 10.4.13]], [[sb/10/12/5#purport|SB 10.12.5]], [[sb/10/12/37#purport|SB 10.12.37]]
 * material world contrasted to, [[sb/4/9/45#purport|SB 4.9.45]], [[sb/4/12/15#purport|SB 4.12.15]], [[sb/4/12/35#purport|SB 4.12.35]]
 * material world reflection of, [[sb/4/3/11#purport|SB 4.3.11]], [[sb/4/3/15#purport|SB 4.3.15]]
 * material world reflects light of, [[sb/4/12/36#purport|SB 4.12.36]]
-* material world reflects, [[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/7/118#purport|Ādi 7.118]], [[cc/madhya/13/24#purport|Madhya 13.24]]
+* material world reflects, [[cc/madhya/13/24#purport|Madhya 13.24]], [[cc/adi/4/34#purport|Ādi 4.34]], [[cc/adi/7/118#purport|Ādi 7.118]]
 * material world vs., [[sb/3/19/30#purport|SB 3.19.30]], [[sb/3/21/22#purport|SB 3.21.22]], [[sb/3/24/10#purport|SB 3.24.10]], [[sb/3/24/16#purport|SB 3.24.16]]
 * materialists cannot attain, [[sb/7/10/6#purport|SB 7.10.6]]
 * materialists cannot reach, [[sb/1/15/47-48#purport|SB 1.15.47-48]]
@@ -218,6 +230,7 @@
 * māyā absent from, [[cc/adi/5/22#purport|Ādi 5.22]]
 * modes of nature &, **[[cc/madhya/20/270#translation|Madhya 20.270]]**
 * modes of nature absent in, [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/10#purport|SB 2.9.10]]
+* modes of nature, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/30#purport|SB 2.2.30]]
 * mystic yogīs enter, [[sb/3/15/26#purport|SB 3.15.26]]
 * Nārada can enter, [[sb/1/6/31#purport|SB 1.6.31]]
 * Nārāyaṇa Lord of, [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/9/44#purport|SB 1.9.44]]
@@ -225,8 +238,9 @@
 * nature of, [[bg/2/51|Bg. 2.51]], [[bg/15/6|Bg. 15.6]]
 * nature’s modes &, [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/7/113#purport|Ādi 7.113]]
 * nitya-siddhas &, [[cc/madhya/5/113#purport|Madhya 5.113]]
-* no return from, [[bg/8/15–16|Bg. 8.15–16]], [[bg/8/21|Bg. 8.21]], [[bg/15/6|Bg. 15.6]]
+* no return from, [[bg/8/15–16|Bg. 8.15–16]], [[bg/8/21|Bg. 8.21]], [[bg/15/6|Bg. 15.6]], [[sb/4/29/18-20#purport|SB 4.29.18-20]]
 * not seeable from material world, [[bg/15/3|Bg. 15.3]]
+* of Dhruva Mahārāja, [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 * oneness & difference in, [[sb/7/10/9#purport|SB 7.10.9]]
 * oneness of, [[cc/madhya/24/230#purport|Madhya 24.230]]
 * oneness with Lord & living entities in, [[bg/15/16|Bg. 15.16]]
@@ -240,10 +254,32 @@
 * penance for realizing, [[sb/2/9/9#purport|SB 2.9.9]]
 * personal entities in, [[sb/2/9/38#purport|SB 2.9.38]]
 * planet(s) in, 20–22, [[bg/8/13|Bg. 8.13]]
+  * as self-illuminated, [[bg/6/15|Bg. 6.15]]
+  * as unlimited, 23, [[bg/11/45|Bg. 11.45]]
+  * characteristics of, [[bg/6/15|Bg. 6.15]]
+  * chief among, 20, 21
+  * Deities of, [[bg/15/7|Bg. 15.7]]
+  * devotional service in, [[bg/14/2|Bg. 14.2]]
+  * effulgence of, [[bg/15/6|Bg. 15.6]]
+  * Goloka Vṛndāvana as, 19, 20, [[bg/8/15|Bg. 8.15]]
+  * illumination of, [[bg/13/18|Bg. 13.18]], [[bg/15/6|Bg. 15.6]]
+  * in brahmajyoti, 20
+  * Kṛṣṇaloka as, [[bg/8/15|Bg. 8.15]]
+  * liberation to, [[bg/9/25|Bg. 9.25]]
+  * Lord’s manifestations in, [[bg/11/45|Bg. 11.45]]
+  * Nārāyaṇa form for, [[bg/11/45|Bg. 11.45]]
+  * nature of, [[bg/2/51|Bg. 2.51]]
+  * number of, 23
+  * predominating Deities of, [[bg/8/22|Bg. 8.22]]
+  * qualification for entering, [[bg/2/51|Bg. 2.51]]
+  * spiritual bodies of living entities on, [[bg/15/7|Bg. 15.7]]
+  * Vaikuṇṭha as, [[bg/2/51|Bg. 2.51]], [[bg/8/13|Bg. 8.13]], [[bg/11/45|Bg. 11.45]], [[bg/15/6|Bg. 15.6]]
 * planets in, [[cc/madhya/8/139#purport|Madhya 8.139]], [[sb/1/14/35-36#purport|SB 1.14.35-36]], [[sb/1/19/21#purport|SB 1.19.21]], [[sb/2/2/18#purport|SB 2.2.18]], [[sb/2/2/18#purport|SB 2.2.18]], [[sb/3/2/20#purport|SB 3.2.20]], [[sb/3/20/16#purport|SB 3.20.16]], [[sb/4/12/36#purport|SB 4.12.36]], [[sb/4/22/40#purport|SB 4.22.40]], [[sb/4/23/15#purport|SB 4.23.15]], [[sb/4/23/26#purport|SB 4.23.26]], [[sb/4/23/29#purport|SB 4.23.29]], [[sb/4/25/51#purport|SB 4.25.51]], [[sb/9/11/19#purport|SB 9.11.19]]
+* polestar, [[sb/4/29/42-44#purport|SB 4.29.42-44]]
 * Prahlāda exists in, [[sb/7/4/34#purport|SB 7.4.34]]
+* promotion to, [[sb/4/29/13#purport|SB 4.29.13]]
 * Pṛṣadhra achieved, [[sb/9/2/14-14#purport|SB 9.2.14-14]]
-* qualification for speaking of, 10 
+* qualification for speaking of, 10
 * quality in, [[sb/4/7/39#purport|SB 4.7.39]]
 * Rāmacandra brings devotees of Ayodhyā to, [[sb/5/19/8#purport|SB 5.19.8]]
 * reflection of, material world as, [[bg/15/1|Bg. 15.1]] (3–4), [[bg/15/3|Bg. 15.3]]
@@ -251,12 +287,12 @@
 * relationships in, [[sb/1/9/44#purport|SB 1.9.44]], [[sb/1/11/35#purport|SB 1.11.35]]
 * relationships with Kṛṣṇa in, [[bg/4/11|Bg. 4.11]]
 * renunciation for entering, [[sb/2/7/18#purport|SB 2.7.18]]
+* resemble Nārāyaṇa, [[sb/3/15/14#purport|SB 3.15.14]]
 * residences in, [[sb/2/9/13#purport|SB 2.9.13]], [[sb/3/15/13#purport|SB 3.15.13]]
 * respect for leaders in, [[sb/3/15/32#purport|SB 3.15.32]]
 * returning to, [[sb/6/1/40#purport|SB 6.1.40]], [[sb/6/4/29#purport|SB 6.4.29]], [[sb/6/5/13-13#purport|SB 6.5.13-13]], [[sb/7/6/9#purport|SB 7.6.9]], [[sb/7/7/21#purport|SB 7.7.21]], [[sb/7/7/40#purport|SB 7.7.40]], [[sb/7/8/1#purport|SB 7.8.1]], [[sb/7/10/40#purport|SB 7.10.40]]
 * Saṅkarṣaṇa &, **[[cc/madhya/20/257#translation|Madhya 20.257]]**
 * Saubhari Muni & wives entered, [[sb/9/6/55#purport|SB 9.6.55]]
-*  [[sb/10/13/2#purport|SB 10.13.2]], [[sb/10/13/47-48#purport|SB 10.13.47-48]], [[sb/10/13/50#purport|SB 10.13.50]], [[sb/4/28/53#purport|SB 4.28.53]], [[sb/4/28/54#purport|SB 4.28.54]]
 * scientists unable to approach, [[sb/4/12/25#purport|SB 4.12.25]], [[sb/4/12/27#purport|SB 4.12.27]]
 * self-effulgent, [[sb/3/20/16#purport|SB 3.20.16]]
 * self-illuminating, [[sb/3/16/27#purport|SB 3.16.27]]
@@ -267,14 +303,17 @@
 * service attitude in, [[sb/3/9/33#purport|SB 3.9.33]]
 * sex &, [[cc/adi/4/35#purport|Ādi 4.35]], [[cc/madhya/8/138#purport|Madhya 8.138]]
 * sex desire absent in, [[sb/3/15/20#purport|SB 3.15.20]]
+* sex desire, [[sb/2/6/20#purport|SB 2.6.20]]
 * sex in, [[sb/4/6/30#purport|SB 4.6.30]]
 * sex life unwanted in, [[sb/4/23/29#purport|SB 4.23.29]]
 * shape of, **[[cc/madhya/21/7#translation|Madhya 21.7]]**
 * Śivānanda’s dog returns to, **[[cc/antya/1/32#translation|Antya 1.32]]**
-* size of, 23 
 * size of, **[[cc/madhya/21/8#translation|Madhya 21.8]]**
+* size of, 23
 * sky in, [[sb/4/23/15#purport|SB 4.23.15]]
 * social classes absent in, [[cc/madhya/14/46#purport|Madhya 14.46]], [[cc/antya/3/221#purport|Antya 3.221]]
+* sole desire of, [[sb/3/15/17-18#purport|SB 3.15.17-18]]
+* songs sung by, [[sb/2/6/18#purport|SB 2.6.18]]
 * soul travels through, [[sb/7/2/22#purport|SB 7.2.22]]
 * spaceships cannot reach, [[sb/1/15/33#purport|SB 1.15.33]]
 * spiritual body &, [[cc/madhya/9/137#purport|Madhya 9.137]]
@@ -299,14 +338,22 @@
 * variegatedness in, [[sb/2/2/10#purport|SB 2.2.10]]
 * varieties in, [[cc/adi/4/81#purport|Ādi 4.81]], **[[cc/adi/7/5#translation|Ādi 7.5]]**
 * variety in, [[bg/10/19|Bg. 10.19]], [[bg/14/2|Bg. 14.2]], [[sb/3/15/47#purport|SB 3.15.47]]
-* via devotional service, [[sb/1/15/33#purport|SB 1.15.33]], [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/9/9#purport|SB 2.9.9]], [[sb/4/21/7#purport|SB 4.21.7]], [[sb/4/24/54#purport|SB 4.24.54]]
+* via birth in Bhārata-varṣa, [[sb/5/19/22#purport|SB 5.19.22]], [[sb/5/19/23#purport|SB 5.19.23]]
+* via devotional service, [[sb/1/15/33#purport|SB 1.15.33]], [[sb/2/7/18#purport|SB 2.7.18]], [[sb/2/9/9#purport|SB 2.9.9]], [[sb/4/21/7#purport|SB 4.21.7]], [[sb/4/24/54#purport|SB 4.24.54]], [[sb/5/1/16#purport|SB 5.1.16]]
 * via hearing about Nṛsiṁhadeva, [[sb/7/10/47#purport|SB 7.10.47]]
 * via hearing about Prahlāda, [[sb/7/10/47#purport|SB 7.10.47]]
 * via heavenly planets, [[sb/2/5/15#purport|SB 2.5.15]]
+* via knowing Kṛṣṇa, [[sb/8/18/1#purport|SB 8.18.1]]
 * via knowing Lord, [[sb/9/2/14#purport|SB 9.2.14]]
+* via knowledge of Lord’s appearance ” activities, [[sb/5/5/1#purport|SB 5.5.1]], [[sb/5/5/10-13#purport|SB 5.5.10-13]], [[sb/5/6/6#purport|SB 5.6.6]], [[sb/5/6/16#purport|SB 5.6.16]], [[sb/5/19/23#purport|SB 5.19.23]], [[sb/5/23/3#purport|SB 5.23.3]], [[sb/5/16/37#purport|SB 5.16.37]]
 * via Kṛṣṇa conscious meditation, [[sb/1/15/47-48#purport|SB 1.15.47-48]]
 * via Kṛṣṇa consciousness, [[sb/4/21/34#purport|SB 4.21.34]], [[sb/7/9/21#purport|SB 7.9.21]], [[sb/7/9/33#purport|SB 7.9.33]]
+* via Lord’s blessings, [[sb/5/3/8#purport|SB 5.3.8]]
 * via Lord’s lotus feet, [[sb/1/19/15#purport|SB 1.19.15]]
+* via offerings to Lord, [[sb/8/22/23-23#purport|SB 8.22.23-23]]
+* via pure devotees’ association, [[sb/5/13/21#purport|SB 5.13.21]]
+* via remembrance of Lord, [[sb/5/2/22#purport|SB 5.2.22]]
+* via Ṛṣabhadeva’s instructions, [[sb/5/6/12#purport|SB 5.6.12]]
 * via Śrīmad-Bhāgavatam, [[sb/1/15/51#purport|SB 1.15.51]]
 * Virajā River &, [[cc/madhya/15/172#purport|Madhya 15.172]], **[[cc/madhya/20/268–69#translation|Madhya 20.268–69]]**
 * Virajā River borders, [[sb/2/9/10#purport|SB 2.9.10]]
@@ -315,8 +362,10 @@
 * women beautiful in, [[sb/8/2/8#purport|SB 8.2.8]]
 * women in, [[sb/4/6/30#purport|SB 4.6.30]]
 * yoga-pīṭha in, [[sb/2/9/16#purport|SB 2.9.16]]
-* yogamāyā manages, N110, N111 
+* yogamāyā manages, N110, N111
 * yogī’s path to, [[sb/6/1/1#purport|SB 6.1.1]]
 * yogīs attain, [[sb/7/10/39#purport|SB 7.10.39]]
 
-*See also:* [[k#Kṛṣṇaloka|Kṛṣṇaloka]]; [[v#Vṛndāvana|Vṛndāvana]]; Goloka; [[v#Vaikuṇṭha|Vaikuṇṭha]]; [[d#Dvārakā|Dvārakā]]; [[m#Mathurā|Mathurā]]; Energy; spiritual; [[g#Godhead|Godhead]]; returning to; [[g#Gokula|Gokula]]; [[g#Goloka Vṛndāvana|Goloka Vṛndāvana]]; [[p#Planets|Planets]]
+*See also:* [Godhead](entries/godhead.md); returning to; Vṛndāvana; [Gokula](entries/gokula.md); Goloka; Vaikuṇṭha; Dvārakā; Mathurā; Energy; spiritual; Goloka Vṛndāvana; Planets; Kṛṣṇaloka; specific inhabitants
+
+*See:* [Godhead](entries/godhead.md); returning to; [Liberation](entries/liberation.md); Kṛṣṇa; abodes of

@@ -1,6 +1,6 @@
 # Father(s)
 
-* ”born as son,” [[sb/9/20/21#purport|SB 9.20.21]]
+* ”born as son,”, [[sb/9/20/21#purport|SB 9.20.21]]
 * ”fighting” child compared with Lord ”fighting” Hiraṇyākṣa, [[sb/3/19/16#purport|SB 3.19.16]]
 * affectionate to his children, [[sb/9/18/27#purport|SB 9.18.27]]
 * as enemy, [[sb/3/23/3#purport|SB 3.23.3]], [[sb/4/13/21#purport|SB 4.13.21]]
@@ -16,7 +16,7 @@
 * daughter follows, [[sb/4/21/30#purport|SB 4.21.30]]
 * departed, oblations on behalf of, [[sb/3/20/43#purport|SB 3.20.43]]
 * dowry from, [[sb/3/22/23#purport|SB 3.22.23]]
-* duty of, [[sb/10/8/5#purport|SB 10.8.5]], [[sb/4/21/46#purport|SB 4.21.46]], [[sb/4/24/19#purport|SB 4.24.19]], [[sb/6/5/25#purport|SB 6.5.25]]
+* duty of, [[sb/4/21/46#purport|SB 4.21.46]], [[sb/4/24/19#purport|SB 4.24.19]], [[sb/6/5/25#purport|SB 6.5.25]], [[sb/10/8/5#purport|SB 10.8.5]]
 * first & second, [[sb/3/24/15#purport|SB 3.24.15]]
 * in child’s-play analogy, [[sb/4/22/36#purport|SB 4.22.36]]
 * knowledge about, example of, [[sb/3/20/9#purport|SB 3.20.9]]
@@ -40,4 +40,4 @@
 * spiritual master as, [[sb/3/24/13#purport|SB 3.24.13]], [[sb/3/24/15#purport|SB 3.24.15]]
 * value of, [[sb/6/5/20#purport|SB 6.5.20]]
 
-*See also:* [[f#Family life|Family life]]; [[g#Gṛhasthas|Gṛhasthas]]; specific fathers; [[p#Parents|Parents]]; [[h#Husband|Husband]]
+*See also:* [Husband](entries/husbands.md); Parents; Family life; Gṛhasthas; specific fathers

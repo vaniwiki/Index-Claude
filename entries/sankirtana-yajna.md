@@ -1,13 +1,13 @@
 # Saṅkīrtana-yajña
 
-[[sb/5/19/24-25#purport|SB 5.19.24-25]]
+[[sb/2/4/20#purport|SB 2.4.20]], [[sb/2/5/15#purport|SB 2.5.15]], [[sb/5/19/24-25#purport|SB 5.19.24-25]]
 
 * as congregational chanting, [[sb/9/1/17#purport|SB 9.1.17]]
 * as practical sacrifice, [[sb/4/12/10#purport|SB 4.12.10]], [[sb/4/13/25#purport|SB 4.13.25]]
 * as yajña (sacrifice), [[sb/4/7/41#purport|SB 4.7.41]], [[sb/4/7/45#purport|SB 4.7.45]]
 * before Caitanya’s form, [[sb/4/7/41#purport|SB 4.7.41]]
 * benefits society, [[sb/9/1/17#purport|SB 9.1.17]]
-* by Kṛṣṇa consciousness movement, [[sb/4/24/10#purport|SB 4.24.10]], [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/19/7#purport|SB 4.19.7]]
+* by Kṛṣṇa consciousness movement, [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/19/7#purport|SB 4.19.7]], [[sb/4/24/10#purport|SB 4.24.10]]
 * Caitanya satisfied via, [[sb/4/18/8#purport|SB 4.18.8]], [[sb/4/19/7#purport|SB 4.19.7]], [[sb/4/19/36#purport|SB 4.19.36]]
 * Caitanya started, [[sb/4/19/22#purport|SB 4.19.22]]
 * compared with other sacrifices, [[sb/4/7/45#purport|SB 4.7.45]]
@@ -20,8 +20,7 @@
 * for present Age, [[sb/10/7/17#purport|SB 10.7.17]]
 * freedom via, [[sb/9/10/51#purport|SB 9.10.51]]
 * Kṛṣṇa consciousness via, [[sb/4/21/35#purport|SB 4.21.35]]
-*  [[sb/2/4/20#purport|SB 2.4.20]], [[sb/2/5/15#purport|SB 2.5.15]]
 * society benefits by, [[sb/4/19/7#purport|SB 4.19.7]]
 * superexcellence of, [[sb/9/1/17#purport|SB 9.1.17]]
 
-*See also:* [[c#Chanting Hare Kṛṣṇa|Chanting Hare Kṛṣṇa]]; [[p#Preaching Kṛṣṇa consciousness|Preaching Kṛṣṇa consciousness]]; Chantings holy name of Lord; [[k#Kīrtana|Kīrtana]]; Chantings holy name; [[h#Hare Kṛṣṇa mantra|Hare Kṛṣṇa mantra]]; [[c#Chanting|Chanting]]; [[k#Kṛṣṇa consciousness movement|Kṛṣṇa consciousness movement]]; [[p#Preachers|Preachers]]; Kṛṣṇa conscious; [[g#Glorification of Supreme Lord|Glorification of Supreme Lord]]
+*See also:* [Chanting](entries/chanting.md); Kṛṣṇa consciousness movement; Preachers; Kṛṣṇa conscious; Glorification of Supreme Lord; Chanting Hare Kṛṣṇa; Preaching Kṛṣṇa consciousness; Chantings holy name of Lord; Kīrtana; Chantings holy name; Hare Kṛṣṇa mantra

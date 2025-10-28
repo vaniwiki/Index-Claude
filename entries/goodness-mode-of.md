@@ -1,6 +1,6 @@
 # Goodness, mode of
 
-[[cc/adi/4/62#purport|Ādi 4.62]], [[cc/adi/5/104#purport|Ādi 5.104]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/113#purport|Ādi 7.113]], **[[cc/antya/1/92#translation|Antya 1.92]]**, [[bg/8|Bg. 8]], [[cc/madhya/1/43#purport|Madhya 1.43]], [[sb/1/9/5#purport|SB 1.9.5]]
+[[bg/8|Bg. 8]], [[cc/adi/4/62#purport|Ādi 4.62]], [[cc/adi/5/22#purport|Ādi 5.22]], [[cc/adi/5/104#purport|Ādi 5.104]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/adi/7/113#purport|Ādi 7.113]], [[cc/madhya/1/43#purport|Madhya 1.43]], **[[cc/antya/1/92#translation|Antya 1.92]]**, [[sb/1/9/5#purport|SB 1.9.5]]
 
 * *brāhmaṇas *&, [[bg/14/6|Bg. 14.6]], [[bg/18/47|Bg. 18.47]]
 * *varṇāśrama *division in, [[bg/9/32|Bg. 9.32]]
@@ -46,7 +46,7 @@
 * education necessary for, [[bg/14/17|Bg. 14.17]]
 * effects & manifestations of, on living entity, [[bg/14/6|Bg. 14.6]], [[bg/14/9–11|Bg. 14.9–11]], [[bg/14/14|Bg. 14.14]], [[bg/14/16|Bg. 14.16]], 14.17–18
 * elevation to heavenly planets via, [[sb/4/29/30-31#purport|SB 4.29.30-31]], [[sb/4/29/66#purport|SB 4.29.66]], [[sb/4/29/76-77#purport|SB 4.29.76-77]]
-* elevation to, [[bg/3/37|Bg. 3.37]], [[sb/10/13/53#purport|SB 10.13.53]], [[sb/4/21/52#purport|SB 4.21.52]]
+* elevation to, [[bg/3/37|Bg. 3.37]], [[sb/4/21/52#purport|SB 4.21.52]], [[sb/10/13/53#purport|SB 10.13.53]]
 * elevation via, [[sb/4/11/16#purport|SB 4.11.16]]
 * faith in, [[bg/17/2–4|Bg. 17.2–4]]
 * false ego created via, [[sb/4/23/17#purport|SB 4.23.17]]
@@ -63,7 +63,7 @@
 * heavenly planets attained by persons in, [[sb/5/11/3#purport|SB 5.11.3]], [[sb/5/26/37#purport|SB 5.26.37]]
 * heavenly planets in, [[sb/3/6/28#purport|SB 3.6.28]]
 * heavenly planets via, [[sb/2/8/14#purport|SB 2.8.14]]
-* higher planets via, [[sb/10/1/42#purport|SB 10.1.42]], [[sb/3/22/36#purport|SB 3.22.36]]
+* higher planets via, [[sb/3/22/36#purport|SB 3.22.36]], [[sb/10/1/42#purport|SB 10.1.42]]
 * human birth through, [[sb/5/14/30#purport|SB 5.14.30]]
 * human life for, [[sb/10/10/8#purport|SB 10.10.8]]
 * ignorance & passion overwhelm, [[sb/7/8/24#purport|SB 7.8.24]]
@@ -75,14 +75,14 @@
 * intelligence (understanding) in, [[bg/18/30|Bg. 18.30]]
 * Kapila’s body completely in, [[sb/9/8/12#purport|SB 9.8.12]]
 * karmīs & jñānīs in, [[sb/4/29/28#purport|SB 4.29.28]]
-* knowledge 
+* knowledge
 * Kṛṣṇa’s body beyond, [[sb/4/11/25#purport|SB 4.11.25]]
 * liberation requires, [[sb/1/2/24#purport|SB 1.2.24]], [[sb/1/2/24#purport|SB 1.2.24]]
 * living entities in, [[sb/3/17/14#purport|SB 3.17.14]]
 * Lord incomprehensible via, [[sb/8/12/10#purport|SB 8.12.10]]
 * Lord situated in pure, [[sb/5/7/14#purport|SB 5.7.14]], [[sb/5/18/30#purport|SB 5.18.30]]
 * maintenance via, [[sb/4/11/16#purport|SB 4.11.16]]
-* material reactions &,  2.38
+* material reactions &, 2.38
 * material, compared with spiritual, [[sb/3/19/30#purport|SB 3.19.30]], [[sb/3/24/10#purport|SB 3.24.10]]
 * milk for, [[sb/9/24/59#purport|SB 9.24.59]]
 * mind generated from, [[sb/2/5/30#purport|SB 2.5.30]]
@@ -91,9 +91,8 @@
 * necessity of attaining, [[sb/6/14/1#purport|SB 6.14.1]], [[sb/6/17/19#purport|SB 6.17.19]]
 * need to transcend, [[sb/4/7/40#purport|SB 4.7.40]]
 * perfection of, [[sb/3/21/13#purport|SB 3.21.13]]
-* pious activity &,  14.16
+* pious activity &, 14.16
 * pure, [[bg/7/1|Bg. 7.1]], [[bg/14/10|Bg. 14.10]], [[bg/17/3|Bg. 17.3]], [[bg/17/4|Bg. 17.4]]
-* pure. See: Śuddha-sattva , 
 * qualities of, [[sb/1/14/34#purport|SB 1.14.34]]
 * renunciation in, [[bg/18/9–10|Bg. 18.9–10]]
 * result of acts in, [[sb/6/1/45#purport|SB 6.1.45]]
@@ -124,4 +123,4 @@
 * worship in, [[sb/1/2/24#purport|SB 1.2.24]], [[sb/1/2/26#purport|SB 1.2.26]], [[sb/7/2/10#purport|SB 7.2.10]]
 * yogīs transcend, [[sb/2/2/30#purport|SB 2.2.30]]
 
-*See also:* [[m#Modes of nature|Modes of nature]]; [[m#Modes of material nature|Modes of material nature]]
+*See also:* Modes of material nature; Modes of nature

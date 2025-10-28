@@ -5,6 +5,6 @@
 * demoniac, [[sb/3/17/17#purport|SB 3.17.17]]
 * in bodily concept, [[sb/3/24/36#purport|SB 3.24.36]]
 
-*See also:* [[s#Society|Society]]; human; Varṇāṣrama system; [[v#Vedic culture|Vedic culture]]
+*See also:* [Society](entries/society.md); human; Varṇāṣrama system; Vedic culture
 
-*See:* [[s#Society|Society]]; human
+*See:* [Society](entries/society.md); human

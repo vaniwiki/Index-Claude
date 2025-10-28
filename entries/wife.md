@@ -1,5 +1,7 @@
 # Wife
 
+[[bg/1/36|Bg. 1.36]], [[bg/3/34|Bg. 3.34]], [[bg/7/21|Bg. 7.21]], [[bg/11/44|Bg. 11.44]], [[bg/16/7|Bg. 16.7]]
+
 * as beauty of family life, [[sb/4/29/53#purport|SB 4.29.53]], [[sb/4/29/54-54#purport|SB 4.29.54-54]]
 * as body’s half, [[sb/4/26/17#purport|SB 4.26.17]]
 * as enemy, [[sb/3/23/3#purport|SB 3.23.3]], [[sb/4/13/21#purport|SB 4.13.21]], [[sb/4/27/1#purport|SB 4.27.1]]
@@ -9,20 +11,23 @@
 * attached to husband, [[sb/4/25/29#purport|SB 4.25.29]], [[sb/4/25/42#purport|SB 4.25.42]], [[sb/4/28/19#purport|SB 4.28.19]], [[sb/4/28/49-50#purport|SB 4.28.49-50]]
 * attractiveness of, [[sb/4/26/26#purport|SB 4.26.26]], [[sb/4/27/1-2#purport|SB 4.27.1-2]]
 * beauty of, compared to dust of whirlwind, [[sb/5/13/4#purport|SB 5.13.4]]
-*  [[bg/1/36|Bg. 1.36]], [[bg/3/34|Bg. 3.34]], [[bg/7/21|Bg. 7.21]], [[bg/11/44|Bg. 11.44]], [[bg/16/7|Bg. 16.7]]
+* body, [[sb/4/28/17#purport|SB 4.28.17]]
 * chaste, [[sb/4/26/16-17#purport|SB 4.26.16-17]], [[sb/4/28/18#purport|SB 4.28.18]]
-* compared to , 
+* compared to
 * control by, [[sb/4/29/55#purport|SB 4.29.55]]
+* creeper, [[sb/5/13/16#purport|SB 5.13.16]]
 * duty of, [[sb/3/14/17#purport|SB 3.14.17]], [[sb/3/14/20#purport|SB 3.14.20]], [[sb/3/22/11#purport|SB 3.22.11]], [[sb/3/23/1-6#purport|SB 3.23.1-6]], [[sb/3/23/8#purport|SB 3.23.8]], [[sb/6/6/1#purport|SB 6.6.1]]
 * entering husband’s funeral fire, [[sb/4/23/22#purport|SB 4.23.22]], [[sb/4/23/29#purport|SB 4.23.29]]
 * faithless, [[sb/3/23/3#purport|SB 3.23.3]]
+* flower, [[sb/4/29/54#purport|SB 4.29.54]]
 * for sannyāsī forbidden, [[sb/3/24/40#purport|SB 3.24.40]]
 * for sense gratification condemned, [[sb/3/14/19#purport|SB 3.14.19]]
 * for sense gratification, [[sb/4/26/17#purport|SB 4.26.17]]
 * from an obscure family, accepting a, [[sb/1/5/11#purport|SB 1.5.11]]
-* good, lucky man has, [[sb/3/21/15#purport|SB 3.21.15]]
+* good intelligence, [[sb/4/26/16#purport|SB 4.26.16]]
 * good, [[sb/4/13/12#purport|SB 4.13.12]]
-* husband &. See: Husband(s), wife & ... 
+* good, lucky man has, [[sb/3/21/15#purport|SB 3.21.15]]
+* husband &. See: Husband(s), wife & ...
 * husband attracted by, [[sb/3/23/11#purport|SB 3.23.11]]
 * husband spiritual master of, [[sb/3/24/5#purport|SB 3.24.5]]
 * husband’s debt to, [[sb/3/14/21#purport|SB 3.14.21]]
@@ -32,6 +37,7 @@
 * more than one, [[sb/4/26/6#purport|SB 4.26.6]], [[sb/4/27/5#purport|SB 4.27.5]], [[sb/4/30/16#purport|SB 4.30.16]]
 * not offered in charity, [[sb/4/22/44#purport|SB 4.22.44]]
 * of devotee, [[sb/4/13/39#purport|SB 4.13.39]]
+* plunderer, [[sb/5/13/2#purport|SB 5.13.2]]
 * prasāda offered to, before sexual intercourse, [[sb/4/13/38#purport|SB 4.13.38]]
 * prostitute compared with, [[sb/3/14/30#purport|SB 3.14.30]]
 * purpose of accepting, [[sb/4/21/46#purport|SB 4.21.46]]
@@ -40,9 +46,12 @@
 * remembered at death, [[sb/4/28/19-22#purport|SB 4.28.19-22]]
 * satisfaction for, [[sb/4/25/41#purport|SB 4.25.41]], [[sb/4/25/56#purport|SB 4.25.56]]
 * talks of, compared to bumblebees’ humming, [[sb/4/29/54#purport|SB 4.29.54]]
+* thief or burglar, [[sb/4/25/19#purport|SB 4.25.19]]
+* tigress, [[sb/5/14/3#purport|SB 5.14.3]]
 * vānaprastha can keep, [[sb/3/24/40#purport|SB 3.24.40]]
 * voice of, compared to chirping of birds, [[sb/5/13/16#purport|SB 5.13.16]]
+* witch, [[sb/5/14/3#purport|SB 5.14.3]]
 
-*See also:* [[c#Children|Children]]; [[m#Marriage|Marriage]]; [[f#Family life|Family life]]; [[g#Gṛhasthas|Gṛhasthas]]; [[w#Women|Women]]; Mothers; [[p#Parents|Parents]]; [[m#Mother|Mother]]
+*See also:* [Children](entries/children.md); [Marriage](entries/marriage.md); [Mother](entries/mothers.md); [Women](entries/women.md); Family life; Mothers; Parents; Gṛhasthas
 
-*See:* [[f#Family life|Family life]]; [[m#Marriage|Marriage]]; [[w#Women|Women]]
+*See:* [Marriage](entries/marriage.md); Family life; [Women](entries/women.md)

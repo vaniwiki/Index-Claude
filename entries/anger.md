@@ -82,4 +82,4 @@
 * spiritualization of, [[bg/3/37|Bg. 3.37]]
 * universe annihilated by Lord’s, [[sb/7/8/41#purport|SB 7.8.41]]
 
-*See also:* [[e#Envy|Envy]]; [[i#Ignorance|Ignorance]]; [[w#Wrath|Wrath]]
+*See also:* [Envy](entries/envy.md); [Ignorance](entries/ignorance.md); Wrath

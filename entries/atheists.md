@@ -1,8 +1,12 @@
 # Atheist(s)
 
+[[bg/4/3|Bg. 4.3]], [[bg/4/8|Bg. 4.8]], [[bg/4/12|Bg. 4.12]], [[bg/7/15|Bg. 7.15]], [[bg/7/16|Bg. 7.16]], [[bg/11/48|Bg. 11.48]], [[bg/11/55|Bg. 11.55]] (4), [[bg/13/25|Bg. 13.25]]
+
+* & living entity as considered by, [[sb/4/9/15#purport|SB 4.9.15]]
 * anthropomorphism &, [[sb/3/13/35#purport|SB 3.13.35]]
 * as challengers to Lord, [[sb/1/3/22#purport|SB 1.3.22]]
 * as contradictory, [[sb/3/7/31#purport|SB 3.7.31]]
+* as death to, [[sb/4/17/28#purport|SB 4.17.28]]
 * as demons, [[sb/3/3/6#purport|SB 3.3.6]], [[sb/6/7/39#purport|SB 6.7.39]], [[sb/8/7/3#purport|SB 8.7.3]]
 * as detached from devotional service, [[sb/1/5/20#purport|SB 1.5.20]]
 * as doomed, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/7/8/31#purport|SB 7.8.31]]
@@ -13,7 +17,6 @@
 * as punishable, [[sb/9/10/22#purport|SB 9.10.22]]
 * associating with, [[sb/4/4/26#purport|SB 4.4.26]]
 * association with, condemned, [[sb/2/9/34#purport|SB 2.9.34]]
-*  [[bg/4/3|Bg. 4.3]], [[bg/4/8|Bg. 4.8]], [[bg/4/12|Bg. 4.12]], [[bg/7/15|Bg. 7.15]], [[bg/7/16|Bg. 7.16]], [[bg/11/48|Bg. 11.48]], [[bg/11/55|Bg. 11.55]] (4), [[bg/13/25|Bg. 13.25]]
 * Bhagavad-gītā &, [[sb/6/15/12-15#purport|SB 6.15.12-15]]
 * birth & death bind, [[sb/3/18/10#purport|SB 3.18.10]]
 * blessings from, [[sb/5/14/13#purport|SB 5.14.13]]
@@ -73,7 +76,7 @@
 * lamentation by, condemned, [[sb/7/2/37#purport|SB 7.2.37]]
 * laws of Lord not accepted by, [[sb/3/26/5#purport|SB 3.26.5]]
 * leaders of society as, [[sb/1/1/16#purport|SB 1.1.16]]
-* Lord 
+* Lord
 * Lord baffles, [[sb/8/3/28#purport|SB 8.3.28]], [[sb/8/5/31#purport|SB 8.5.31]]
 * Lord concealed from, [[sb/7/6/20-23#purport|SB 7.6.20-23]], [[sb/7/6/20-23#purport|SB 7.6.20-23]]
 * Lord destroys, [[sb/4/24/65#purport|SB 4.24.65]], [[sb/4/24/66#purport|SB 4.24.66]]
@@ -90,6 +93,7 @@
 * misery plagues, [[sb/1/14/10#purport|SB 1.14.10]]
 * misinterpret Kṛṣṇa, [[sb/3/2/10#purport|SB 3.2.10]], [[sb/3/2/22#purport|SB 3.2.22]]
 * misunderstand material world, [[sb/4/22/55#purport|SB 4.22.55]]
+* not understood by, [[sb/4/9/14#purport|SB 4.9.14]]
 * penalized via nature, [[sb/1/1/1#purport|SB 1.1.1]]
 * poverty prescription for, [[sb/10/10/13#purport|SB 10.10.13]]
 * priest of, [[sb/7/5/1#purport|SB 7.5.1]]
@@ -117,4 +121,4 @@
 * world misunderstood by, [[sb/9/24/58#purport|SB 9.24.58]]
 * world overrun by, [[sb/7/8/31#purport|SB 7.8.31]]
 
-*See also:* [[d#Demons|Demons]]; Godlessness; [[i#Impersonalists|Impersonalists]]; [[n#Nondevotees|Nondevotees]]; Scientists; material; [[m#Materialists|Materialists]]; [[p#Pāṣaṇḍī|Pāṣaṇḍī]]
+*See also:* Demons; Godlessness; Impersonalists; Nondevotees; Scientists; material; Materialists; Pāṣaṇḍī

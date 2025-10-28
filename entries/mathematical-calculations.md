@@ -1,6 +1,6 @@
 # Mathematical calculations
 
-[[cc/adi/10/146#purport|Ādi 10.146]], **[[cc/antya/1/67#translation|Antya 1.67]]**, **[[cc/antya/13/36–37#translation|Antya 13.36–37]]**, **[[cc/antya/14/12#translation|Antya 14.12]]**, [[cc/antya/19/45#purport|Antya 19.45]], **[[cc/antya/4/232#translation|Antya 4.232]]**, **[[cc/antya/4/95#translation|Antya 4.95]]**, [[cc/madhya/1/41#purport|Madhya 1.41]], [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/1/51#purport|Madhya 1.51]], [[cc/madhya/13/149#purport|Madhya 13.149]], [[cc/madhya/15/270#purport|Madhya 15.270]], [[cc/madhya/21/20#purport|Madhya 21.20]], **[[cc/madhya/21/91#translation|Madhya 21.91]]**, **[[cc/madhya/22/128#translation|Madhya 22.128]]**, [[cc/madhya/22/129#purport|Madhya 22.129]], [[cc/madhya/4/197#purport|Madhya 4.197]], **[[cc/madhya/4/99#translation|Madhya 4.99]]**, **[[cc/madhya/5/11#translation|Madhya 5.11]]**
+[[cc/madhya/21/20#purport|Madhya 21.20]], [[cc/adi/10/146#purport|Ādi 10.146]], [[cc/madhya/1/41#purport|Madhya 1.41]], [[cc/madhya/1/44#purport|Madhya 1.44]], [[cc/madhya/1/51#purport|Madhya 1.51]], [[cc/madhya/4/197#purport|Madhya 4.197]], **[[cc/madhya/5/11#translation|Madhya 5.11]]**, [[cc/madhya/13/149#purport|Madhya 13.149]], [[cc/madhya/15/270#purport|Madhya 15.270]], **[[cc/antya/1/67#translation|Antya 1.67]]**, **[[cc/antya/4/95#translation|Antya 4.95]]**, **[[cc/antya/4/232#translation|Antya 4.232]]**, **[[cc/antya/14/12#translation|Antya 14.12]]**, [[cc/antya/19/45#purport|Antya 19.45]], **[[cc/madhya/22/128#translation|Madhya 22.128]]**, [[cc/madhya/22/129#purport|Madhya 22.129]], **[[cc/madhya/21/91#translation|Madhya 21.91]]**, **[[cc/madhya/4/99#translation|Madhya 4.99]]**, **[[cc/antya/13/36–37#translation|Antya 13.36–37]]**
 
 * Ambarīṣa &, **[[cc/madhya/22/137–39#translation|Madhya 22.137–39]]**
 * as dear to Caitanya, **[[cc/antya/4/81–82#translation|Antya 4.81–82]]**
@@ -19,7 +19,7 @@
 * Kṛṣṇaloka &, [[cc/adi/5/14#purport|Ādi 5.14]], **[[cc/adi/5/16#translation|Ādi 5.16]]**
 * Lalita-mādhava &, [[cc/antya/1/71#purport|Antya 1.71]], **[[cc/antya/1/124–25#translation|Antya 1.124–25]]**
 * Lord displays pastimes in, **[[cc/adi/5/25#translation|Ādi 5.25]]**
-* Mathurā 1.9.41 purport, [[cc/adi/10/84#purport|Ādi 10.84]], **[[cc/adi/10/87#translation|Ādi 10.87]]**
+* Mathurā, 1.9.41 purport, [[cc/adi/10/84#purport|Ādi 10.84]], **[[cc/adi/10/87#translation|Ādi 10.87]]**
 * pilgrimage to, **[[cc/madhya/24/335#translation|Madhya 24.335]]**
 * residence in, **[[cc/madhya/24/193#translation|Madhya 24.193]]**
 * Rūpa Gosvāmī &, **[[cc/madhya/18/48–49#translation|Madhya 18.48–49]]**

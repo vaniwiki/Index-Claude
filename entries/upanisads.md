@@ -1,12 +1,14 @@
 # Upaniṣad(s)
 
-[[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/2/19#purport|Ādi 2.19]], [[cc/adi/2/37#purport|Ādi 2.37]], [[cc/adi/4/26#purport|Ādi 4.26]], [[cc/adi/7/140#purport|Ādi 7.140]], [[cc/antya/5/119#purport|Antya 5.119]], **[[cc/madhya/25/100#translation|Madhya 25.100]]**, [[cc/madhya/25/154#purport|Madhya 25.154]], [[cc/madhya/6/144#purport|Madhya 6.144]], [[cc/madhya/6/147#purport|Madhya 6.147]], [[cc/madhya/8/224#purport|Madhya 8.224]], [[sb/6/8/19#purport|SB 6.8.19]], [[sb/8/1/17#purport|SB 8.1.17]]
+[[bg/4/8|Bg. 4.8]], [[bg/4/28|Bg. 4.28]], [[bg/7/3|Bg. 7.3]], [[bg/7/24|Bg. 7.24]] (1), [[bg/11/48|Bg. 11.48]], [[cc/madhya/6/147#purport|Madhya 6.147]], **[[cc/madhya/25/100#translation|Madhya 25.100]]**, [[cc/adi/7/140#purport|Ādi 7.140]], [[cc/adi/1/53#purport|Ādi 1.53]], [[cc/adi/4/26#purport|Ādi 4.26]], [[cc/adi/2/19#purport|Ādi 2.19]], [[cc/madhya/8/224#purport|Madhya 8.224]], [[cc/madhya/6/144#purport|Madhya 6.144]], [[cc/antya/5/119#purport|Antya 5.119]], [[cc/adi/2/37#purport|Ādi 2.37]], [[cc/madhya/25/154#purport|Madhya 25.154]], [[sb/6/8/19#purport|SB 6.8.19]], [[sb/8/1/17#purport|SB 8.1.17]]
 
-* *Gītopaniṣad *as, 2 
+* *Gītopaniṣad *as, 2
+  * on Vedas’ origin, [[bg/3/15|Bg. 3.15]]
+  * on Supreme Lord, [[bg/3/22|Bg. 3.22]]
+  * *See also:* Bhagavad-gītā; Bhagavad-gītā As It Is
 * as breathing of Lord, [[sb/1/4/13#purport|SB 1.4.13]]
 * as first book of spiritual knowledge, [[sb/1/4/25#purport|SB 1.4.25]]
 * as source of knowledge, [[cc/adi/7/106#purport|Ādi 7.106]]
-*  [[bg/4/8|Bg. 4.8]], [[bg/4/28|Bg. 4.28]], [[bg/7/3|Bg. 7.3]], [[bg/7/24|Bg. 7.24]] (1), [[bg/11/48|Bg. 11.48]]
 * Bhagavad-gītā essence of, [[sb/1/15/27#purport|SB 1.15.27]]
 * Caitanya confirmed as Kali-yuga incarnation in, [[sb/5/18/35#purport|SB 5.18.35]]
 * Caitanya explains, **[[cc/madhya/25/25#translation|Madhya 25.25]]**
@@ -14,10 +16,10 @@
 * cited on Lord as Supersoul, [[sb/7/2/47#purport|SB 7.2.47]], [[sb/7/3/31#purport|SB 7.3.31]]
 * cited on Lord’s running speed, [[sb/10/9/19#purport|SB 10.9.19]]
 * cited on soul & Supersoul, [[sb/6/1/31#purport|SB 6.1.31]]
-* cited. See: Upaniṣads cited 
+* cited. See: Upaniṣads cited
 * devotional service based in, [[cc/adi/7/102#purport|Ādi 7.102]]
 * dvijas study, [[sb/7/12/13-14#purport|SB 7.12.13-14]]
-* essence of, 30 
+* essence of, 30
 * followers of, [[sb/10/13/54#purport|SB 10.13.54]]
 * glorify Kṛṣṇa indirectly, [[sb/1/10/20#purport|SB 1.10.20]], [[sb/1/10/24#purport|SB 1.10.24]]
 * holy name worshiped by, [[cc/antya/4/71#purport|Antya 4.71]]

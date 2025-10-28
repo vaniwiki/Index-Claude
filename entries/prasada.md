@@ -1,6 +1,6 @@
 # Prasāda
 
-[[sb/10/13/60#purport|SB 10.13.60]], [[sb/9/9/16-17#purport|SB 9.9.16-17]]
+[[sb/3/3/28#purport|SB 3.3.28]], [[sb/3/5/49#purport|SB 3.5.49]], [[sb/3/7/13#purport|SB 3.7.13]], [[sb/3/29/15#purport|SB 3.29.15]], [[sb/3/33/26#purport|SB 3.33.26]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/7/2/7-8#purport|SB 7.2.7-8]], [[sb/7/14/14#purport|SB 7.14.14]], [[sb/9/9/16-17#purport|SB 9.9.16-17]], [[sb/10/13/60#purport|SB 10.13.60]]
 
 * Ambarīṣa tasted, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 * as offered by devotees, [[sb/6/18/49#purport|SB 6.18.49]]
@@ -12,12 +12,12 @@
 * devotees accept, [[sb/3/16/8#purport|SB 3.16.8]]
 * devotees offer, [[sb/4/7/41#purport|SB 4.7.41]]
 * devotees take, [[sb/10/9/15#purport|SB 10.9.15]], [[sb/10/10/9#purport|SB 10.10.9]]
+* distribution of, [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/12/10#purport|SB 4.12.10]], [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/14/18-18#purport|SB 7.14.18-18]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/7/15/5#purport|SB 7.15.5]], [[sb/7/15/6#purport|SB 7.15.6]], [[sb/7/15/11#purport|SB 7.15.11]]
 * distribution of, in payo-vrata sacrifice, [[sb/8/16/43#purport|SB 8.16.43]], [[sb/8/16/54-56#purport|SB 8.16.54-56]]
 * distribution of, now, [[sb/4/6/53#purport|SB 4.6.53]]
 * distribution of, required, [[sb/3/29/24#purport|SB 3.29.24]]
-* distribution of, [[sb/4/9/24#purport|SB 4.9.24]], [[sb/4/12/10#purport|SB 4.12.10]], [[sb/7/14/17#purport|SB 7.14.17]], [[sb/7/14/18-18#purport|SB 7.14.18-18]], [[sb/7/15/2#purport|SB 7.15.2]], [[sb/7/15/5#purport|SB 7.15.5]], [[sb/7/15/6#purport|SB 7.15.6]], [[sb/7/15/11#purport|SB 7.15.11]]
-* eating of, elevation by, [[sb/4/7/24#purport|SB 4.7.24]]
 * eating of, [[sb/3/21/13#purport|SB 3.21.13]]
+* eating of, elevation by, [[sb/4/7/24#purport|SB 4.7.24]]
 * eating only, [[sb/4/22/46#purport|SB 4.22.46]], [[sb/4/23/5#purport|SB 4.23.5]]
 * elevating power of, [[sb/9/6/51#purport|SB 9.6.51]]
 * elevation via, [[sb/3/29/23#purport|SB 3.29.23]]
@@ -48,7 +48,6 @@
 * relieves suffering, [[sb/1/13/47#purport|SB 1.13.47]]
 * salvation via, [[sb/1/13/47#purport|SB 1.13.47]]
 * satisfying power of, [[sb/1/15/11#purport|SB 1.15.11]]
-*  [[sb/3/29/15#purport|SB 3.29.15]], [[sb/3/33/26#purport|SB 3.33.26]], [[sb/3/3/28#purport|SB 3.3.28]], [[sb/3/5/49#purport|SB 3.5.49]], [[sb/3/7/13#purport|SB 3.7.13]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/4/28/35-36#purport|SB 4.28.35-36]], [[sb/7/2/7-8#purport|SB 7.2.7-8]], [[sb/7/14/14#purport|SB 7.14.14]]
 * sins dispelled via, [[sb/10/10/9#purport|SB 10.10.9]]
 * tongue controlled via, [[sb/3/25/33#purport|SB 3.25.33]], [[sb/4/24/38#purport|SB 4.24.38]]
 * tongue should taste, [[sb/4/7/24#purport|SB 4.7.24]]
@@ -56,4 +55,4 @@
 * via brāhmaṇas, [[sb/8/16/9#purport|SB 8.16.9]]
 * with ghee, [[sb/7/15/5#purport|SB 7.15.5]], [[sb/7/15/7#purport|SB 7.15.7]], [[sb/7/15/11#purport|SB 7.15.11]]
 
-*See also:* [[f#Food|Food]]; offered to Deity; [[s#Supreme Lord|Supreme Lord]]; mercy of
+*See also:* [Food](entries/food.md); offered to Deity; Supreme Lord; mercy of

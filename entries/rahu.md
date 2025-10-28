@@ -1,6 +1,6 @@
 # Rāhu
 
-**[[cc/adi/13/92#translation|Ādi 13.92]]**, [[sb/7/4/37#purport|SB 7.4.37]]
+**[[cc/adi/13/92#translation|Ādi 13.92]]**, [[sb/6/6/37#purport|SB 6.6.37]], [[sb/6/18/12-13#purport|SB 6.18.12-13]], [[sb/6/18/14#purport|SB 6.18.14]], [[sb/7/4/37#purport|SB 7.4.37]]
 
 * as most abominable asura, [[sb/5/24/1#purport|SB 5.24.1]]
 * as planetary deity, [[sb/5/24/1#purport|SB 5.24.1]]
@@ -18,7 +18,6 @@
 * moon-god fought, [[sb/8/10/30-31#purport|SB 8.10.30-31]]
 * nectar drunk by, [[sb/8/9/24#purport|SB 8.9.24]]
 * nectar immortalized, [[sb/8/9/26-26#purport|SB 8.9.26-26]]
-*  [[sb/6/6/37#purport|SB 6.6.37]], [[sb/6/18/12-13#purport|SB 6.18.12-13]], [[sb/6/18/14#purport|SB 6.18.14]]
 * scientists compared with, [[sb/5/24/3#purport|SB 5.24.3]]
 * Siddhaloka’s distance from, [[sb/5/24/4#purport|SB 5.24.4]]
 * size of, [[sb/5/24/2#purport|SB 5.24.2]]

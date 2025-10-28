@@ -10,4 +10,4 @@
 * residence for, [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * Vedas studied by, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 
-*See also:* [[b#Brāhmaṇas|Brāhmaṇas]]; [[k#Kṣatriyas|Kṣatriyas]]; [[v#Vaiśyas|Vaiśyas]]
+*See also:* Brāhmaṇas; Kṣatriyas; Vaiśyas

@@ -1,6 +1,6 @@
 # Sannyāsa
 
-[[cc/adi/17/266#purport|Ādi 17.266]], [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/adi/7/163#purport|Ādi 7.163]], [[cc/antya/12/59#purport|Antya 12.59]], [[cc/antya/2/166#purport|Antya 2.166]], [[cc/antya/3/105#purport|Antya 3.105]], **[[cc/antya/8/85#translation|Antya 8.85]]**, [[cc/antya/9/148#purport|Antya 9.148]], [[cc/madhya/1/91#purport|Madhya 1.91]], **[[cc/madhya/10/107–8#translation|Madhya 10.107–8]]**, [[cc/madhya/10/154#purport|Madhya 10.154]], [[cc/madhya/15/243#purport|Madhya 15.243]], **[[cc/madhya/17/179#translation|Madhya 17.179]]**, **[[cc/madhya/22/52#translation|Madhya 22.52]]**, **[[cc/madhya/25/28#translation|Madhya 25.28]]**, [[cc/madhya/3/6#purport|Madhya 3.6]], [[cc/madhya/5/142–43#purport|Madhya 5.142–43]], [[cc/madhya/5/152#purport|Madhya 5.152]], [[cc/madhya/6/127#purport|Madhya 6.127]], [[cc/madhya/6/56#purport|Madhya 6.56]], [[cc/madhya/7/127#purport|Madhya 7.127]], [[cc/madhya/8/61#purport|Madhya 8.61]], [[cc/madhya/9/244#purport|Madhya 9.244]]
+**[[cc/madhya/17/179#translation|Madhya 17.179]]**, [[cc/antya/9/148#purport|Antya 9.148]], [[cc/antya/2/166#purport|Antya 2.166]], [[cc/antya/3/105#purport|Antya 3.105]], [[cc/antya/12/59#purport|Antya 12.59]], [[cc/madhya/8/61#purport|Madhya 8.61]], **[[cc/madhya/22/52#translation|Madhya 22.52]]**, [[cc/madhya/15/243#purport|Madhya 15.243]], **[[cc/antya/8/85#translation|Antya 8.85]]**, [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/madhya/6/127#purport|Madhya 6.127]], [[cc/madhya/7/127#purport|Madhya 7.127]], **[[cc/madhya/25/28#translation|Madhya 25.28]]**, [[cc/adi/7/163#purport|Ādi 7.163]], [[cc/madhya/1/91#purport|Madhya 1.91]], [[cc/madhya/3/6#purport|Madhya 3.6]], [[cc/madhya/5/142–43#purport|Madhya 5.142–43]], [[cc/madhya/5/152#purport|Madhya 5.152]], [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/madhya/6/56#purport|Madhya 6.56]], [[cc/madhya/9/244#purport|Madhya 9.244]], [[cc/madhya/10/154#purport|Madhya 10.154]], **[[cc/madhya/10/107–8#translation|Madhya 10.107–8]]**, [[sb/1/9/26#purport|SB 1.9.26]], [[sb/1/12/14#purport|SB 1.12.14]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/28/2#purport|SB 4.28.2]]
 
 * Arjuna’s opinion of, [[bg/5/1|Bg. 5.1]]
 * as compulsory, [[cc/madhya/25/194#purport|Madhya 25.194]]
@@ -39,7 +39,7 @@
 * eating &, **[[cc/madhya/3/70#translation|Madhya 3.70]]**, **[[cc/madhya/3/74#translation|Madhya 3.74]]**
 * faith required for, [[sb/2/2/5#purport|SB 2.2.5]]
 * food acceptance &, **[[cc/madhya/12/190–91#translation|Madhya 12.190–91]]**
-* for *kṣatriya, * 2.31
+* for *kṣatriya, *, 2.31
 * from brahmacarya to, [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * Gadādhara Paṇḍita &, [[cc/madhya/3/6#purport|Madhya 3.6]]
 * Gauḍīya Vaiṣṇavism &, [[cc/madhya/3/6#purport|Madhya 3.6]]
@@ -70,7 +70,7 @@
 * Māyāvādī, compared with Vaiṣṇava, [[sb/1/13/30#purport|SB 1.13.30]]
 * Māyāvādīs &, [[cc/adi/7/64#purport|Ādi 7.64]], [[cc/adi/15/14#purport|Ādi 15.14]]
 * meaning of, [[bg/10/3|Bg. 10.3]], [[bg/18/2|Bg. 18.2]]
-* members of. See: Sannyāsī(s) 
+* members of. See: Sannyāsī(s)
 * money-saving &, [[cc/madhya/25/205#purport|Madhya 25.205]]
 * Nityānanda &, [[cc/adi/5/149#purport|Ādi 5.149]]
 * occupational duties &, **[[cc/madhya/8/61–63#translation|Madhya 8.61–63]]**
@@ -97,7 +97,6 @@
 * Śaṅkara sampradāya &, [[cc/adi/3/34#purport|Ādi 3.34]], [[cc/adi/5/149#purport|Ādi 5.149]]
 * Śaṅkarācārya &, [[cc/madhya/6/73#purport|Madhya 6.73]]
 * Sārvabhauma &, **[[cc/madhya/6/58#translation|Madhya 6.58]]**
-*  [[sb/1/9/26#purport|SB 1.9.26]], [[sb/1/12/14#purport|SB 1.12.14]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/28/2#purport|SB 4.28.2]]
 * sense control &, [[cc/madhya/6/75#purport|Madhya 6.75]]
 * sense gratification &, [[cc/antya/4/179#purport|Antya 4.179]]
 * sense gratification pollutes, [[sb/4/22/30#purport|SB 4.22.30]]
@@ -105,8 +104,8 @@
 * sex life forbidden in, [[sb/7/14/1#purport|SB 7.14.1]]
 * spiritual status of, [[cc/adi/17/265#purport|Ādi 17.265]], [[cc/antya/5/84#purport|Antya 5.84]]
 * Śrīmad-Bhāgavatam &, [[cc/madhya/3/6#purport|Madhya 3.6]]
-* stages of, four listed, [[sb/7/13/9#purport|SB 7.13.9]]
 * stages of, [[sb/2/4/13#purport|SB 2.4.13]]
+* stages of, four listed, [[sb/7/13/9#purport|SB 7.13.9]]
 * status &, [[cc/madhya/7/69#purport|Madhya 7.69]]
 * Subuddhi Rāya &, [[cc/madhya/25/194#purport|Madhya 25.194]]
 * surnames for, [[cc/madhya/6/73#purport|Madhya 6.73]]
@@ -125,4 +124,4 @@
 * Viśvarūpa &, [[cc/adi/13/74#purport|Ādi 13.74]], **[[cc/adi/15/12–14#translation|Ādi 15.12–14]]**
 * wife’s duty after husband takes, [[sb/4/23/20#purport|SB 4.23.20]]
 
-*See also:* [[d#Detachment|Detachment]]; [[r#Renunciation|Renunciation]]; [[s#Sannyāsīs|Sannyāsīs]]; [[v#Varṇāśrama-dharma|Varṇāśrama-dharma]]
+*See also:* [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); Sannyāsīs; Varṇāśrama-dharma

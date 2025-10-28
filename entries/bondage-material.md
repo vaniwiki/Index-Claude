@@ -2,9 +2,7 @@
 
 * chanting Lord’s glories saves one from, [[sb/5/9/3#purport|SB 5.9.3]]
 * freedom from, [[sb/3/21/16#purport|SB 3.21.16]], [[sb/3/24/17-18#purport|SB 3.24.17-18]], [[sb/3/24/38#purport|SB 3.24.38]], [[sb/3/24/41#purport|SB 3.24.41]]
-* freedom from. See: Liberation 
-* liberation from, [[sb/10/10/41#purport|SB 10.10.41]], [[sb/10/13/19#purport|SB 10.13.19]]
-* liberation from. See: Liberation 
+* liberation from. See: Liberation, [[sb/10/10/41#purport|SB 10.10.41]], [[sb/10/13/19#purport|SB 10.13.19]]
 * Lord can deliver us from, [[sb/4/12/6-6#purport|SB 4.12.6-6]]
 * Lord master of, [[sb/5/20/5#purport|SB 5.20.5]]
 * male-female attachment cause of, [[sb/5/14/28#purport|SB 5.14.28]]
@@ -23,4 +21,4 @@
 * via sinful activities, [[sb/5/13/2#purport|SB 5.13.2]]
 * via work, [[sb/4/6/53#purport|SB 4.6.53]]
 
-*See also:* [[a#Attachment|Attachment]]; material; [[d#Desires|Desires]]; [[i#Ignorance|Ignorance]]; [[i#Illusion|Illusion]]; [[l#Life|Life]]; [[m#Material world|Material world]]; ; [[b#Birth-death cycle|Birth-death cycle]]; [[m#Material life|Material life]]; [[m#Māyā|Māyā]]; [[m#Modes of nature|Modes of nature]]; [[s#Suffering|Suffering]]
+*See also:* [Attachment](entries/attachment.md); material; Desires; [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Life](entries/life.md); Material world; ; Māyā; Modes of nature; [Suffering](entries/sufferings.md); Birth-death cycle; Material life

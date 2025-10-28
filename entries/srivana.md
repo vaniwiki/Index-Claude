@@ -1,6 +1,6 @@
 # Śrīvana
 
-**[[cc/adi/13/108#translation|Ādi 13.108]]**, **[[cc/adi/17/57-59#translation|Ādi 17.57-59]]**, **[[cc/adi/17/60#translation|Ādi 17.60]]**, **[[cc/adi/17/98#translation|Ādi 17.98]]**, **[[cc/antya/10/119#translation|Antya 10.119]]**, **[[cc/antya/10/139#translation|Antya 10.139]]**, **[[cc/antya/10/4#translation|Antya 10.4]]**, **[[cc/antya/12/11#translation|Antya 12.11]]**, **[[cc/antya/2/34–35#translation|Antya 2.34–35]]**, **[[cc/antya/2/79#translation|Antya 2.79]]**, **[[cc/madhya/1/153#translation|Madhya 1.153]]**, **[[cc/madhya/13/38–39#translation|Madhya 13.38–39]]**, **[[cc/madhya/18/67#translation|Madhya 18.67]]**
+**[[cc/madhya/18/67#translation|Madhya 18.67]]**, **[[cc/antya/10/4#translation|Antya 10.4]]**, **[[cc/antya/10/119#translation|Antya 10.119]]**, **[[cc/antya/10/139#translation|Antya 10.139]]**, **[[cc/antya/12/11#translation|Antya 12.11]]**, **[[cc/adi/13/108#translation|Ādi 13.108]]**, **[[cc/antya/2/34–35#translation|Antya 2.34–35]]**, **[[cc/antya/2/79#translation|Antya 2.79]]**, **[[cc/adi/17/98#translation|Ādi 17.98]]**, **[[cc/adi/17/60#translation|Ādi 17.60]]**, **[[cc/adi/17/57-59#translation|Ādi 17.57-59]]**, **[[cc/madhya/1/153#translation|Madhya 1.153]]**, **[[cc/madhya/13/38–39#translation|Madhya 13.38–39]]**
 
 * as foremost devotee, **[[cc/adi/1/38#translation|Ādi 1.38]]**
 * as jīva-tattva, [[cc/adi/7/15#purport|Ādi 7.15]]
@@ -47,7 +47,7 @@
 * Ratha-yātrā &, **[[cc/madhya/1/255#translation|Madhya 1.255]]**, **[[cc/madhya/13/32#translation|Madhya 13.32]]**
 * servitude sentiment of, **[[cc/adi/6/49–50#translation|Ādi 6.49–50]]**
 * son’s death &, **[[cc/adi/17/227-29#translation|Ādi 17.227-29]]**
-* Śrīvāsa Ṭhākura 2.10.77 translation, **[[cc/madhya/11/84#translation|Madhya 11.84]]**, **[[cc/antya/4/108–10#translation|Antya 4.108–10]]**
+* Śrīvāsa Ṭhākura, 2.10.77 translation, **[[cc/madhya/11/84#translation|Madhya 11.84]]**, **[[cc/antya/4/108–10#translation|Antya 4.108–10]]**
 * Vṛndāvana &, [[cc/madhya/16/281#purport|Madhya 16.281]]
 * Vṛndāvana pastimes described by, **[[cc/adi/17/233-40#translation|Ādi 17.233-40]]**
 * water sporting by, **[[cc/madhya/14/81#translation|Madhya 14.81]]**

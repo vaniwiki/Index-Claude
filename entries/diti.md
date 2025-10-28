@@ -20,7 +20,9 @@
 * marriage of, [[sb/3/14/13-14#purport|SB 3.14.13-14]]
 * Maruts born to, [[sb/6/18/66-68#purport|SB 6.18.66-68]]
 * neglect of, in executing vow, [[sb/6/18/60#purport|SB 6.18.60]]
-* Prahlāda Mahārāja &,  10.30
+* Prahlāda Mahārāja &, 10.30
 * pregnancy achieved by, [[sb/6/18/55#purport|SB 6.18.55]]
 * repentance of, [[sb/3/14/33-36#purport|SB 3.14.33-36]]
 * sons of, [[bg/10/30|Bg. 10.30]]
+
+*See also:* Demons

@@ -1,6 +1,6 @@
 # Śivānanda Sena
 
-[[cc/adi/10/113#purport|Ādi 10.113]], **[[cc/antya/10/12#translation|Antya 10.12]]**, **[[cc/antya/12/15–18#translation|Antya 12.15–18]]**, **[[cc/antya/12/32#translation|Antya 12.32]]**, **[[cc/antya/16/65–66#translation|Antya 16.65–66]]**, **[[cc/antya/20/104#translation|Antya 20.104]]**, **[[cc/madhya/1/132#translation|Madhya 1.132]]**, **[[cc/madhya/10/81#translation|Madhya 10.81]]**, **[[cc/madhya/11/87#translation|Madhya 11.87]]**, **[[cc/madhya/16/19–20#translation|Madhya 16.19–20]]**, **[[cc/madhya/16/26–27#translation|Madhya 16.26–27]]**, [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/19/118#translation|Madhya 19.118]]**, [[sb/3/29/23#purport|SB 3.29.23]]
+[[cc/adi/10/113#purport|Ādi 10.113]], **[[cc/madhya/1/132#translation|Madhya 1.132]]**, **[[cc/madhya/10/81#translation|Madhya 10.81]]**, **[[cc/madhya/11/87#translation|Madhya 11.87]]**, [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/19/118#translation|Madhya 19.118]]**, **[[cc/antya/20/104#translation|Antya 20.104]]**, **[[cc/madhya/16/19–20#translation|Madhya 16.19–20]]**, **[[cc/madhya/16/26–27#translation|Madhya 16.26–27]]**, **[[cc/antya/10/12#translation|Antya 10.12]]**, **[[cc/antya/12/15–18#translation|Antya 12.15–18]]**, **[[cc/antya/12/32#translation|Antya 12.32]]**, **[[cc/antya/16/65–66#translation|Antya 16.65–66]]**, [[sb/3/29/23#purport|SB 3.29.23]]
 
 * & Vāsudeva Datta, [[cc/adi/10/41#purport|Ādi 10.41]], **[[cc/madhya/15/93–97#translation|Madhya 15.93–97]]**
 * at Kāṅcaḍāpāḍā, [[cc/adi/10/107#purport|Ādi 10.107]]

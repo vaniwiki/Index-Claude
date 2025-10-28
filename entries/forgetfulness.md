@@ -10,6 +10,6 @@
 * symbolized by bodies, [[sb/2/6/21#purport|SB 2.6.21]]
 * via intoxication, [[sb/3/4/1#purport|SB 3.4.1]]
 
-*See also:* [[i#Illusion|Illusion]]; [[m#Māyā|Māyā]]
+*See also:* [Illusion](entries/illusion.md); Māyā
 
-*See:* [[i#Illusion|Illusion]]; [[m#Māyā|Māyā]]
+*See:* [Illusion](entries/illusion.md); Māyā

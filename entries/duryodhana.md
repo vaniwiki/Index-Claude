@@ -1,15 +1,14 @@
 # Duryodhana
 
-[[cc/adi/8/19#purport|Ādi 8.19]], [[cc/madhya/15/269#purport|Madhya 15.269]], [[sb/1/7/13-14#purport|SB 1.7.13-14]], [[sb/2/5/17#purport|SB 2.5.17]], [[sb/4/22/13#purport|SB 4.22.13]], [[sb/5/5/20#purport|SB 5.5.20]], [[sb/7/10/49#purport|SB 7.10.49]], [[sb/9/22/26#purport|SB 9.22.26]]
+[[bg/1/2–1/3|Bg. 1.2–1.3]], [[bg/1/12|Bg. 1.12]], [[bg/1/26|Bg. 1.26]], [[bg/2/35|Bg. 2.35]], [[cc/adi/8/19#purport|Ādi 8.19]], [[cc/madhya/15/269#purport|Madhya 15.269]], [[sb/1/7/13-14#purport|SB 1.7.13-14]], [[sb/2/5/17#purport|SB 2.5.17]], [[sb/4/22/13#purport|SB 4.22.13]], [[sb/5/5/20#purport|SB 5.5.20]], [[sb/7/10/49#purport|SB 7.10.49]], [[sb/9/22/26#purport|SB 9.22.26]]
 
-* “evil-minded,” 1.23
+* “evil-minded,”, 1.23
 * Arjuna rescued, [[sb/1/12/21#purport|SB 1.12.21]]
 * Arjuna takes arrows from, [[sb/1/9/37#purport|SB 1.9.37]]
 * armies’ strengths compared by, [[bg/1/10|Bg. 1.10]]
 * army instructed by, [[bg/1/11|Bg. 1.11]]
 * as offense personified, [[sb/3/1/13#purport|SB 3.1.13]]
 * Baladeva friend of, [[sb/1/12/21#purport|SB 1.12.21]]
-*  [[bg/1/2–1/3|Bg. 1.2–1.3]], [[bg/1/12|Bg. 1.12]], [[bg/1/26|Bg. 1.26]], [[bg/2/35|Bg. 2.35]]
 * Bhīma killed, [[sb/1/13/23#purport|SB 1.13.23]]
 * Bhīma vs., [[bg/1/10|Bg. 1.10]]
 * Bhīṣma &, [[bg/1/10|Bg. 1.10]], [[bg/1/12|Bg. 1.12]], [[bg/2/5|Bg. 2.5]]

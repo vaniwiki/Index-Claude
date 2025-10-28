@@ -1,14 +1,14 @@
 # Animal slaughter
 
-[[bg/4/21|Bg. 4.21]]
+[[bg/4/21|Bg. 4.21]], [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/12#purport|SB 10.10.12]], [[sb/10/10/14#purport|SB 10.10.14]]
 
 * “excuses” for, [[bg/2/27|Bg. 2.27]], [[bg/4/7|Bg. 4.7]], [[bg/16/1|Bg. 16.1]] (13)
-* ”religious,” [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/26#purport|SB 4.28.26]]
+* ”religious,”, [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/26#purport|SB 4.28.26]]
 * ”sannyāsīs” implicated in, [[sb/4/19/22#purport|SB 4.19.22]]
 * ”Vedic sacrifices” as, [[sb/1/3/24#purport|SB 1.3.24]]
 * animal sacrifice compared with, [[sb/1/8/52#purport|SB 1.8.52]], [[sb/1/12/34#purport|SB 1.12.34]]
 * Āryans avoid, [[sb/4/30/39-40#purport|SB 4.30.39-40]]
-* as ”sacrifice,” [[sb/7/15/7#purport|SB 7.15.7]], [[sb/7/15/10#purport|SB 7.15.10]]
+* as ”sacrifice,”, [[sb/7/15/7#purport|SB 7.15.7]], [[sb/7/15/10#purport|SB 7.15.10]]
 * as abominable, [[sb/7/15/10#purport|SB 7.15.10]]
 * as barbaric, [[sb/1/9/26#purport|SB 1.9.26]]
 * as block to spiritual life, [[sb/1/3/24#purport|SB 1.3.24]]
@@ -20,15 +20,14 @@
 * as preached in this age, [[sb/1/3/24#purport|SB 1.3.24]]
 * as sacrifice in primitive religions, [[sb/6/16/42#purport|SB 6.16.42]]
 * as Satan’s philosophy, [[sb/1/10/6#purport|SB 1.10.6]]
-* as sinful, [[sb/10/2/22#purport|SB 10.2.22]], [[sb/10/5/26#purport|SB 10.5.26]], [[sb/4/26/10#purport|SB 4.26.10]], [[sb/4/28/26#purport|SB 4.28.26]], [[sb/4/29/49#purport|SB 4.29.49]]
+* as sinful, [[sb/4/26/10#purport|SB 4.26.10]], [[sb/4/28/26#purport|SB 4.28.26]], [[sb/4/29/49#purport|SB 4.29.49]], [[sb/10/2/22#purport|SB 10.2.22]], [[sb/10/5/26#purport|SB 10.5.26]]
 * as unjustified, [[sb/1/7/37#purport|SB 1.7.37]]
-* *See:* [[a#Attachment|Attachment]] 
-* attachment to. See: Attachment 
+* attachment to. See: Attachment
 * Buddha &, [[sb/6/8/19#purport|SB 6.8.19]]
 * Buddha came to stop, [[sb/4/26/9#purport|SB 4.26.9]], [[sb/4/27/11#purport|SB 4.27.11]]
-* Buddha stopped, [[sb/10/1/4#purport|SB 10.1.4]], [[sb/4/19/36#purport|SB 4.19.36]]
+* Buddha stopped, [[sb/4/19/36#purport|SB 4.19.36]], [[sb/10/1/4#purport|SB 10.1.4]]
 * Buddha’s opposition to, [[sb/1/3/24#purport|SB 1.3.24]], [[sb/1/5/15#purport|SB 1.5.15]]
-* by *kṣatriyas, * 2.31
+* by *kṣatriyas, *, 2.31
 * by degraded persons, [[bg/3/12|Bg. 3.12]], [[bg/16/9|Bg. 16.9]], [[bg/6/19|Bg. 6.19]], [[bg/17/10|Bg. 17.10]]
 * by Prācīnabarhiṣat, [[sb/4/25/7-8#purport|SB 4.25.7-8]], [[sb/4/29/49#purport|SB 4.29.49]]
 * by Purañjana, [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/9-10#purport|SB 4.26.9-10]]
@@ -58,7 +57,7 @@
 * in Vedic sacrifices, [[sb/10/1/4#purport|SB 10.1.4]]
 * irreligious, [[sb/6/10/9#purport|SB 6.10.9]]
 * kinds of, two, [[sb/1/3/24#purport|SB 1.3.24]]
-* Kṛṣṇa consciousness prohibits, N103 
+* Kṛṣṇa consciousness prohibits, N103
 * kṣatriya kings practice, [[sb/4/26/4#purport|SB 4.26.4]], [[sb/4/26/6-6#purport|SB 4.26.6-6]]
 * leaders condemned by, [[sb/1/17/10-11#purport|SB 1.17.10-11]]
 * Lord & devotees pained to see, [[sb/4/26/9-9#purport|SB 4.26.9-9]]
@@ -74,7 +73,6 @@
 * punishable, [[bg/2/19|Bg. 2.19]], [[bg/14/16|Bg. 14.16]], [[bg/14/17|Bg. 14.17]]
 * punishment for, [[sb/4/25/8-8#purport|SB 4.25.8-8]], [[sb/4/26/5#purport|SB 4.26.5]], [[sb/4/26/9-10#purport|SB 4.26.9-10]], [[sb/4/27/12#purport|SB 4.27.12]], [[sb/4/28/26-26#purport|SB 4.28.26-26]]
 * reaction for, [[sb/6/16/42#purport|SB 6.16.42]]
-*  [[sb/10/10/9#purport|SB 10.10.9]], [[sb/10/10/10#purport|SB 10.10.10]], [[sb/10/10/12#purport|SB 10.10.12]], [[sb/10/10/14#purport|SB 10.10.14]]
 * scriptures restrict, [[sb/1/7/37#purport|SB 1.7.37]]
 * sinful reaction to, [[sb/4/11/7#purport|SB 4.11.7]]
 * society disrupted via, [[sb/1/13/47#purport|SB 1.13.47]]
@@ -87,4 +85,6 @@
 * war caused via, [[sb/1/10/6#purport|SB 1.10.6]]
 * worst kind of, [[bg/14/16|Bg. 14.16]]
 
-*See also:* [[m#Meat-eating|Meat-eating]]; [[c#Cows|Cows]]; killing of; Hunters; [[h#Hunting|Hunting]]
+*See also:* [Hunting](entries/hunting.md); [Meat-eating](entries/meat-eating.md); Cows; killing of; Hunters
+
+*See:* [Attachment](entries/attachment.md)

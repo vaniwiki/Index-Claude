@@ -1,26 +1,27 @@
 # Materialist(s)
 
-[[cc/adi/12/51#purport|Ādi 12.51]], **[[cc/adi/15/1#translation|Ādi 15.1]]**, [[cc/adi/17/212#purport|Ādi 17.212]], [[cc/adi/5/61#purport|Ādi 5.61]], [[cc/adi/5/66#purport|Ādi 5.66]], [[cc/adi/7/119#purport|Ādi 7.119]], [[cc/antya/5/131#purport|Antya 5.131]], [[cc/antya/6/199#purport|Antya 6.199]], [[cc/antya/6/275#purport|Antya 6.275]], [[cc/antya/6/276#purport|Antya 6.276]], **[[cc/antya/6/278–79#translation|Antya 6.278–79]]**, **[[cc/madhya/11/7–11#translation|Madhya 11.7–11]]**, [[cc/madhya/12/184#purport|Madhya 12.184]], [[cc/madhya/12/61#purport|Madhya 12.61]], [[cc/madhya/16/281#purport|Madhya 16.281]], **[[cc/madhya/20/289#translation|Madhya 20.289]]**, [[cc/madhya/7/66#purport|Madhya 7.66]]
+[[cc/adi/12/51#purport|Ādi 12.51]], **[[cc/adi/15/1#translation|Ādi 15.1]]**, [[cc/adi/17/212#purport|Ādi 17.212]], [[cc/madhya/7/66#purport|Madhya 7.66]], **[[cc/madhya/11/7–11#translation|Madhya 11.7–11]]**, [[cc/madhya/12/61#purport|Madhya 12.61]], [[cc/madhya/12/184#purport|Madhya 12.184]], [[cc/madhya/16/281#purport|Madhya 16.281]], [[cc/antya/5/131#purport|Antya 5.131]], [[cc/antya/6/199#purport|Antya 6.199]], [[cc/antya/6/275#purport|Antya 6.275]], [[cc/antya/6/276#purport|Antya 6.276]], **[[cc/antya/6/278–79#translation|Antya 6.278–79]]**, **[[cc/madhya/20/289#translation|Madhya 20.289]]**, [[cc/adi/5/61#purport|Ādi 5.61]], [[cc/adi/5/66#purport|Ādi 5.66]], [[cc/adi/7/119#purport|Ādi 7.119]]
 
-* ”chewing the chewed,” [[sb/3/9/17#purport|SB 3.9.17]]
+* ”chewing the chewed,”, [[sb/3/9/17#purport|SB 3.9.17]]
 * ”partiality” in Kṛṣṇa seen by, [[sb/7/1/2#purport|SB 7.1.2]], [[sb/7/1/6#purport|SB 7.1.6]]
 * ”religion” of, [[sb/2/7/37#purport|SB 2.7.37]]
 * ”welfare” work of, [[sb/2/7/42#purport|SB 2.7.42]]
 * ”yogīs” cater to, [[sb/7/10/59#purport|SB 7.10.59]]
-* *Bhagavad-gītā* 
+* *Bhagavad-gītā*
+  * commentaries on, by, [[bg/4/2|Bg. 4.2]], [[bg/18/67|Bg. 18.67]]
+  * not appreciated by, [[bg/4/2|Bg. 4.2]]
 * Absolute Truth neglected by, [[sb/7/6/14-14#purport|SB 7.6.14-14]]
 * Absolute Truth unknown to, [[sb/4/12/51#purport|SB 4.12.51]]
 * action of, qualities of, [[bg/18/24–25|Bg. 18.24–25]]
-* activities of, as self-defeating, [[sb/7/13/30#purport|SB 7.13.30]]
 * activities of, [[sb/3/21/12#purport|SB 3.21.12]], [[sb/4/22/23#purport|SB 4.22.23]]
+* activities of, as self-defeating, [[sb/7/13/30#purport|SB 7.13.30]]
 * activities of, selfish, [[sb/1/2/8#purport|SB 1.2.8]]
 * advice for, [[sb/1/13/26#purport|SB 1.13.26]]
 * afterlife ignored by, [[sb/2/1/15-16#purport|SB 2.1.15-16]]
 * animal propensities of, [[sb/2/1/12#purport|SB 2.1.12]]
-* *See:* [[a#Animal slaughter|Animal slaughter]] 
 * Arjuna inquires of Kṛṣṇa for benefit of, [[bg/4/4|Bg. 4.4]]
 * artificial demands of, [[sb/2/5/24#purport|SB 2.5.24]]
-* as ”devotees,” [[sb/2/7/53#purport|SB 2.7.53]], [[sb/2/8/4#purport|SB 2.8.4]]
+* as ”devotees,”, [[sb/2/7/53#purport|SB 2.7.53]], [[sb/2/8/4#purport|SB 2.8.4]]
 * as animalistic, [[bg/6/40|Bg. 6.40]]
 * as animallike, [[sb/7/14/3-4#purport|SB 7.14.3-4]]
 * as animals, [[sb/8/2/6#purport|SB 8.2.6]]
@@ -51,17 +52,19 @@
 * as sinners, [[sb/1/8/51#purport|SB 1.8.51]]
 * as thieves, [[bg/3/12|Bg. 3.12]], [[bg/3/13|Bg. 3.13]]
 * as warmongers, [[sb/3/17/29-30#purport|SB 3.17.29-30]], [[sb/3/18/1#purport|SB 3.18.1]]
+* ass or cow, [[sb/4/28/24#purport|SB 4.28.24]]
 * associating with devotees, [[sb/4/22/19#purport|SB 4.22.19]], [[sb/4/22/20#purport|SB 4.22.20]]
 * association with, [[bg/11/55|Bg. 11.55]] (4), [[sb/3/25/20#purport|SB 3.25.20]], [[sb/4/26/13#purport|SB 4.26.13]], [[sb/5/5/2-3#purport|SB 5.5.2-3]], [[sb/5/12/16#purport|SB 5.12.16]], [[sb/9/6/51#purport|SB 9.6.51]]
 * association with, condemned, [[sb/1/18/13#purport|SB 1.18.13]]
 * at death, [[sb/5/19/14#purport|SB 5.19.14]]
 * atheistic, [[bg/9/12|Bg. 9.12]]
+  * *See also:* Atheism; Atheists; Demons
 * attached to women & money, [[sb/10/13/2#purport|SB 10.13.2]]
 * attachment to bodily comforts by, [[sb/5/19/14#purport|SB 5.19.14]]
 * attachments of, [[sb/2/4/2#purport|SB 2.4.2]], [[sb/4/30/18#purport|SB 4.30.18]]
 * attributes of, [[sb/4/25/9#purport|SB 4.25.9]], [[sb/4/25/36#purport|SB 4.25.36]], [[sb/4/26/11#purport|SB 4.26.11]], [[sb/4/28/7#purport|SB 4.28.7]], [[sb/4/30/13#purport|SB 4.30.13]]
 * avoid them, [[sb/4/2/18#purport|SB 4.2.18]], [[sb/4/4/26#purport|SB 4.4.26]]
-* avoidance of, [[sb/4/22/23-23#purport|SB 4.22.23-23]]
+* avoidance of, [[sb/3/27/7-7#purport|SB 3.27.7-7]], [[sb/3/27/8#purport|SB 3.27.8]], [[sb/3/29/18-18#purport|SB 3.29.18-18]], [[sb/3/31/34#purport|SB 3.31.34]], [[sb/4/22/23-23#purport|SB 4.22.23-23]]
 * awakening time of, compared to nighttime of spiritualists, [[bg/2/69|Bg. 2.69]]
 * awed by material forms, [[sb/2/1/24#purport|SB 2.1.24]]
 * benefit by Śiva, [[sb/4/4/15#purport|SB 4.4.15]]
@@ -83,9 +86,17 @@
 * chanting of Lord’s names by, [[sb/1/8/26#purport|SB 1.8.26]]
 * characteristics of, [[sb/3/30/1-15#purport|SB 3.30.1-15]], [[sb/3/31/33#purport|SB 3.31.33]]
 * charity given by, [[sb/2/3/17#purport|SB 2.3.17]]
-* classes of 
-* compared , 
-* compared to 
+* classes of
+* compared
+  * to ass, [[bg/7/15|Bg. 7.15]] (5)
+  * to criminals, [[bg/3/39|Bg. 3.39]]
+  * to diseased person, [[bg/2/59|Bg. 2.59]]
+  * to swine, [[bg/7/15|Bg. 7.15]] (6)
+  * to workers, [[bg/4/14|Bg. 4.14]]
+  * with sage, [[bg/2/69|Bg. 2.69]]
+  * with spiritualists, [[bg/2/69|Bg. 2.69]], [[bg/6/40|Bg. 6.40]]
+  * with transcendentalists, [[bg/6/38|Bg. 6.38]]
+* compared to
 * compared to dead man, [[sb/2/9/36#purport|SB 2.9.36]]
 * compared to flaming wood, [[cc/adi/5/61#purport|Ādi 5.61]]
 * compared to hogs, [[sb/3/32/19-19#purport|SB 3.32.19-19]]
@@ -112,16 +123,21 @@
 * death defeats, [[sb/4/22/35#purport|SB 4.22.35]], [[sb/7/13/31-31#purport|SB 7.13.31-31]]
 * death not heeded by, [[sb/5/18/3#purport|SB 5.18.3]]
 * death unwanted by, [[sb/4/27/12-12#purport|SB 4.27.12-12]], [[sb/4/27/18#purport|SB 4.27.18]], [[sb/4/28/10#purport|SB 4.28.10]]
+* deer, [[sb/4/25/12#purport|SB 4.25.12]], [[sb/4/29/53-55#purport|SB 4.29.53-55]]
 * defined, [[cc/adi/6/14–15#purport|Ādi 6.14–15]]
+* degradation via, [[sb/3/25/20#purport|SB 3.25.20]], [[sb/3/31/32-32#purport|SB 3.31.32-32]]
 * degraded via offenses, [[sb/4/4/13-13#purport|SB 4.4.13-13]]
 * demigod worship by, [[sb/1/2/23#purport|SB 1.2.23]], [[sb/1/2/27#purport|SB 1.2.27]], [[sb/1/2/27#purport|SB 1.2.27]], [[sb/4/2/35#purport|SB 4.2.35]]
-* demigods 
 * demigods as, [[sb/4/2/18#purport|SB 4.2.18]]
-* demigods worshiped by, 18, [[bg/4/12|Bg. 4.12]]
 * demigods worshiped by, [[sb/2/2/7#purport|SB 2.2.7]], [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/3/26/61#purport|SB 3.26.61]], [[sb/3/32/2#purport|SB 3.32.2]], [[sb/4/23/33#purport|SB 4.23.33]], [[sb/4/24/62#purport|SB 4.24.62]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/38#purport|SB 4.30.38]], [[sb/6/9/50#purport|SB 6.9.50]]
+* demigods worshiped by, 18, [[bg/4/12|Bg. 4.12]]
+* demigods, [[sb/4/23/33#purport|SB 4.23.33]], [[sb/4/24/62#purport|SB 4.24.62]], [[sb/4/25/28#purport|SB 4.25.28]], [[sb/4/29/45#purport|SB 4.29.45]], [[sb/4/30/2#purport|SB 4.30.2]], [[sb/4/30/38#purport|SB 4.30.38]]
 * demoniac propensities of, [[sb/2/7/14#purport|SB 2.7.14]]
 * demoniac, falldown of, [[sb/4/28/26#purport|SB 4.28.26]]
 * demonic, [[bg/4/3|Bg. 4.3]], [[bg/7/15|Bg. 7.15]] (14)
+  * *See also:* Atheists; Demons
+  * Kaṁsa example of, [[bg/9/34|Bg. 9.34]]
+  * Lord derided by, [[bg/9/12|Bg. 9.12]]
 * deny self-realization, [[sb/1/1/22#purport|SB 1.1.22]]
 * dependence of, [[cc/adi/5/66#purport|Ādi 5.66]]
 * description of, [[sb/3/30/1-15#purport|SB 3.30.1-15]]
@@ -130,26 +146,32 @@
 * desires of, [[bg/3/25|Bg. 3.25]], [[sb/1/2/27#purport|SB 1.2.27]]
 * devoted to demigods, [[sb/9/9/8#purport|SB 9.9.8]]
 * devotee compared with, [[sb/7/15/16#purport|SB 7.15.16]]
-* devotees 
-* devotees compared with, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/10/2/11-12#purport|SB 10.2.11-12]], [[sb/10/8/43#purport|SB 10.8.43]], [[sb/3/9/6#purport|SB 3.9.6]]
+* devotees
+  * compared with, [[bg/1/28|Bg. 1.28]], [[bg/2/72|Bg. 2.72]], [[bg/3/25|Bg. 3.25]], [[bg/3/27|Bg. 3.27]], [[bg/4/3|Bg. 4.3]], [[bg/4/8|Bg. 4.8]], [[bg/5/10|Bg. 5.10]], [[bg/5/12|Bg. 5.12]], [[bg/7/15|Bg. 7.15]] (2), [[bg/12/15|Bg. 12.15]]
+  * may appear like, 10–11
+  * should not disturb, [[bg/3/26|Bg. 3.26]], [[bg/3/29|Bg. 3.29]]
+* devotees compared with, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/1/16/20#purport|SB 1.16.20]], [[sb/3/9/6#purport|SB 3.9.6]], [[sb/10/2/11-12#purport|SB 10.2.11-12]], [[sb/10/8/43#purport|SB 10.8.43]]
 * devotees give up association with, [[sb/5/18/10#purport|SB 5.18.10]]
 * devotees may appear to be, [[sb/3/27/23#purport|SB 3.27.23]]
 * devotees neutral to, [[sb/2/2/18#purport|SB 2.2.18]]
-* devotional service neglected by, 127–31 
+* devotional service neglected by, 127–31
 * devotional service shunned by, [[sb/7/5/18#purport|SB 7.5.18]]
 * dhāma and, **[[cc/adi/5/20#translation|Ādi 5.20]]**
 * disobedient to Lord, [[bg/3/39|Bg. 3.39]]
+  * perfection lost for, [[bg/3/32|Bg. 3.32]]
+  * reactions for, [[bg/3/32|Bg. 3.32]]
 * disturbance of, wise avoid, [[bg/3/29|Bg. 3.29]]
 * don’t accept Lord’s acts, [[sb/4/7/32#purport|SB 4.7.32]]
 * Durgā &, [[cc/madhya/8/90#purport|Madhya 8.90]]
 * Durgā bestows opulence upon, [[sb/5/18/22#purport|SB 5.18.22]]
 * duty required of, [[bg/3/8–9|Bg. 3.8–9]]
 * education of, useless, [[sb/2/9/36#purport|SB 2.9.36]]
+* elephant, [[sb/4/25/12#purport|SB 4.25.12]]
 * elevation in, [[cc/madhya/8/90#purport|Madhya 8.90]]
 * enjoy without sacrifice, [[bg/3/12|Bg. 3.12]]
 * enlightened by devotees, [[sb/6/15/11-15#purport|SB 6.15.11-15]]
 * envious of Kṛṣṇa, [[bg/18/67|Bg. 18.67]]
-* envy in, [[sb/4/21/21#purport|SB 4.21.21]], [[sb/4/3/17#purport|SB 4.3.17]], [[sb/4/3/21#purport|SB 4.3.21]], [[sb/4/6/47#purport|SB 4.6.47]]
+* envy in, [[sb/4/3/17#purport|SB 4.3.17]], [[sb/4/3/21#purport|SB 4.3.21]], [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/21/21#purport|SB 4.21.21]]
 * eternality of, [[cc/adi/5/41#purport|Ādi 5.41]]
 * examples of, [[sb/1/11/34#purport|SB 1.11.34]]
 * external energy &, [[cc/madhya/8/64#purport|Madhya 8.64]]
@@ -159,11 +181,12 @@
 * false faith in, [[sb/2/2/19#purport|SB 2.2.19]]
 * fame in, [[cc/madhya/8/246#purport|Madhya 8.246]]
 * forget lawmaker, [[sb/2/10/10#purport|SB 2.10.10]]
+* four, [[sb/1/5/40#purport|SB 1.5.40]]
 * frightful, [[sb/8/22/11#purport|SB 8.22.11]]
-* frustrated, attempt liberation, [[sb/4/4/15#purport|SB 4.4.15]]
 * frustrated, [[bg/4/10|Bg. 4.10]]
-* frustration of, result of, [[sb/3/15/48#purport|SB 3.15.48]]
+* frustrated, attempt liberation, [[sb/4/4/15#purport|SB 4.4.15]]
 * frustration of, [[sb/2/2/31#purport|SB 2.2.31]]
+* frustration of, result of, [[sb/3/15/48#purport|SB 3.15.48]]
 * futility for, [[sb/1/1/4#purport|SB 1.1.4]]
 * genitals &, [[sb/2/6/8#purport|SB 2.6.8]]
 * goal of life lacking for, [[bg/3/12|Bg. 3.12]]
@@ -181,33 +204,45 @@
 * heavenly planets sought by, [[sb/1/18/13#purport|SB 1.18.13]]
 * hell, bound for, [[sb/7/5/30-30#purport|SB 7.5.30-30]]
 * higher planets &, [[cc/adi/5/22#purport|Ādi 5.22]]
+* hog in stool, [[sb/4/28/10#purport|SB 4.28.10]]
 * human life misused by, [[sb/1/11/34#purport|SB 1.11.34]]
 * ignorance by, [[sb/5/18/2#purport|SB 5.18.2]]
-* ignorance of. See: Ignorance 
-* ignorant 
-* *See:* [[i#Illusion|Illusion]] 
-* illusion of. See: Illusion 
+* ignorance of. See: Ignorance
+* ignorant
+  * of liberation, [[bg/2/2|Bg. 2.2]] (6)
+  * of Lord, [[bg/4/10|Bg. 4.10]]
+  * of real work & worship, [[bg/4/12|Bg. 4.12]]
+  * of soul & transmigration, [[bg/15/11|Bg. 15.11]]
+* illusion of. See: Illusion
 * in devotional service, [[sb/7/10/4-4#purport|SB 7.10.4-4]]
-* in false ego 
+* in false ego
+  * *See also:* False ego
+  * thinks himself as doer, [[bg/3/27|Bg. 3.27]]
 * in family life, [[sb/3/31/41-41#purport|SB 3.31.41-41]], [[sb/3/32/1-1#purport|SB 3.32.1-1]]
 * in fear, [[sb/7/13/32#purport|SB 7.13.32]], [[sb/7/13/33#purport|SB 7.13.33]]
-* *See:* [[g#Goodness|Goodness]]; mode of 
 * in ignorance, [[bg/3/29|Bg. 3.29]], [[sb/7/6/16-16#purport|SB 7.6.16-16]], [[sb/7/9/41#purport|SB 7.9.41]], [[sb/7/13/30#purport|SB 7.13.30]], [[sb/8/16/19#purport|SB 8.16.19]]
+  * *See also:* Ignorance
 * in illusion, [[sb/3/23/57#purport|SB 3.23.57]], [[sb/7/10/6#purport|SB 7.10.6]], [[sb/7/13/32#purport|SB 7.13.32]]
 * in mahāmāyā, [[sb/10/8/43#purport|SB 10.8.43]]
 * in māyā, [[sb/9/8/25#purport|SB 9.8.25]]
-* *See:* [[p#Passion|Passion]]; mode of 
 * in phenomenal world only, [[sb/2/1/38#purport|SB 2.1.38]]
 * inconceivable potency of, [[cc/adi/5/14#purport|Ādi 5.14]]
 * intelligence absent in, [[sb/7/6/14#purport|SB 7.6.14]]
 * intelligence lacking in, [[bg/16/9|Bg. 16.9]], [[sb/6/9/50#purport|SB 6.9.50]]
 * interpret Śrīmad-Bhāgavatam, [[sb/4/7/32#purport|SB 4.7.32]]
+* invisible to, [[sb/1/8/36#purport|SB 1.8.36]]
 * karma binds, [[sb/9/10/23#purport|SB 9.10.23]]
 * karmic reactions of, [[sb/2/2/7#purport|SB 2.2.7]]
 * knowledge absent in, [[sb/7/6/14#purport|SB 7.6.14]], [[sb/7/6/16-16#purport|SB 7.6.16-16]]
 * knowledge of, qualities of, [[bg/18/21–22|Bg. 18.21–22]]
 * knowledge process of, [[sb/10/13/57#purport|SB 10.13.57]]
-* Kṛṣṇa 
+* Kṛṣṇa
+  * derided by, [[bg/6/47|Bg. 6.47]], [[bg/9/11–12|Bg. 9.11–12]]
+  * features of, for remembering by, [[bg/10/17–39|Bg. 10.17–39]]
+  * forgotten by, [[bg/3/27|Bg. 3.27]]
+  * methods of, rejected by, [[bg/7/15|Bg. 7.15]] (5–7, 9, 11-16)
+  * not understood by, [[bg/4/10|Bg. 4.10]], [[bg/7/4|Bg. 7.4]]
+  * worshipable for, [[bg/4/11|Bg. 4.11]]
 * Kṛṣṇa consciousness as remedy for, [[sb/7/5/32-32#purport|SB 7.5.32-32]]
 * Kṛṣṇa consciousness movement not helped by, [[sb/5/14/31#purport|SB 5.14.31]]
 * Kṛṣṇa consciousness opposed by, [[sb/6/5/20#purport|SB 6.5.20]]
@@ -215,6 +250,7 @@
 * Kṛṣṇa unknown to, [[sb/10/10/32#purport|SB 10.10.32]]
 * kṛṣṇa-kathā disinterests, [[sb/10/1/4#purport|SB 10.1.4]]
 * lack love of Lord, [[sb/3/23/8#purport|SB 3.23.8]]
+* Lakṣmī, goddess of fortune, [[sb/4/31/22#purport|SB 4.31.22]]
 * liberated soul ignored by, [[sb/4/18/5#purport|SB 4.18.5]]
 * life span of, [[sb/7/10/11#purport|SB 7.10.11]]
 * life spoiled by, [[cc/adi/5/22#purport|Ādi 5.22]]
@@ -222,10 +258,10 @@
 * life’s goal escapes, [[sb/7/2/10#purport|SB 7.2.10]]
 * life’s goal unknown to, [[sb/10/5/15-16#purport|SB 10.5.15-16]]
 * literature for, [[sb/1/5/10#purport|SB 1.5.10]], [[sb/1/5/10#purport|SB 1.5.10]]
-* literature of, compared with spiritual literature, 25 
 * literature of, [[sb/3/32/19-19#purport|SB 3.32.19-19]]
+* literature of, compared with spiritual literature, 25
 * literatures for, [[sb/3/5/12#purport|SB 3.5.12]]
-* Lord 
+* Lord
 * Lord & His abode beyond, [[sb/2/4/14#purport|SB 2.4.14]]
 * Lord aloof from, **[[cc/adi/5/86#translation|Ādi 5.86]]**, **[[cc/adi/5/104#translation|Ādi 5.104]]**
 * Lord as beyond, [[sb/4/6/39#purport|SB 4.6.39]]
@@ -243,28 +279,31 @@
 * lust consumes, [[sb/9/19/5-6#purport|SB 9.19.5-6]], [[sb/9/19/13#purport|SB 9.19.13]]
 * Mahā-Viṣṇu &, [[cc/adi/5/22#purport|Ādi 5.22]]
 * material attachments certain for, [[bg/1/28|Bg. 1.28]]
+* Material nature, 2.13.65 purport, [[cc/madhya/14/45#purport|Madhya 14.45]], **[[cc/madhya/20/272–75#translation|Madhya 20.272–75]]**
 * material nature &, [[cc/adi/5/51#purport|Ādi 5.51]]
-* Material nature 2.13.65 purport, [[cc/madhya/14/45#purport|Madhya 14.45]], **[[cc/madhya/20/272–75#translation|Madhya 20.272–75]]**
 * meditation prescribed for, [[sb/2/1/23#purport|SB 2.1.23]], [[sb/2/2/14#purport|SB 2.2.14]]
 * mentality of, [[sb/10/13/61#purport|SB 10.13.61]]
-* minds of, disturbed, [[sb/3/5/42#purport|SB 3.5.42]]
 * minds of, [[sb/2/1/38#purport|SB 2.1.38]]
+* minds of, disturbed, [[sb/3/5/42#purport|SB 3.5.42]]
 * misdirected lives of, [[sb/2/10/25#purport|SB 2.10.25]]
 * misdirected via Vedic literatures, [[sb/1/5/14-15#purport|SB 1.5.14-15]]
 * miserable life chosen by, [[sb/4/26/8#purport|SB 4.26.8]]
 * miserly, [[bg/2/7|Bg. 2.7]]
-* *See:* [[m#Modes of Nature|Modes of Nature]]; specific modes 
 * money blinds, [[sb/7/6/14#purport|SB 7.6.14]]
 * motivation of, [[sb/2/1/2#purport|SB 2.1.2]]
 * Nārada liberator of, [[sb/1/3/8#purport|SB 1.3.8]]
 * nature controls, [[sb/7/13/30-30#purport|SB 7.13.30-30]]
+* necessary for, [[sb/4/6/53#purport|SB 4.6.53]]
 * night of, compared with awakening time for spiritualists, [[bg/2/69|Bg. 2.69]]
 * Nityānanda offers shelter to, [[sb/5/1/3#purport|SB 5.1.3]]
 * nondevotees appreciate, [[cc/adi/7/121#purport|Ādi 7.121]]
+* observe activities of, [[sb/5/13/4#purport|SB 5.13.4]]
 * offend great souls, [[sb/4/4/13-13#purport|SB 4.4.13-13]]
+* offered by, [[sb/4/4/10#purport|SB 4.4.10]]
 * opulence degrading for, [[sb/6/11/22-22#purport|SB 6.11.22-22]]
 * opulences sought by, [[sb/4/22/36#purport|SB 4.22.36]]
 * personalism frightens, [[bg/4/10|Bg. 4.10]]
+* philosophers & workers as, [[sb/1/3/37#purport|SB 1.3.37]]
 * philosophers among, [[sb/4/26/8#purport|SB 4.26.8]], [[sb/4/26/20#purport|SB 4.26.20]]
 * philosophy of, [[bg/3/16|Bg. 3.16]]
 * plans by, [[cc/adi/5/22#purport|Ādi 5.22]]
@@ -279,21 +318,25 @@
 * progress for, [[bg/3/6|Bg. 3.6]]
 * propensities of, listed, [[sb/2/3/18#purport|SB 2.3.18]]
 * pseudo spiritual master for, [[sb/1/19/37#purport|SB 1.19.37]]
+* punishes, [[sb/1/10/25#purport|SB 1.10.25]]
 * Purañjana allegory difficult for, [[sb/4/29/1#purport|SB 4.29.1]]
+* Purañjana by allegory, [[sb/4/25/9-29/85#purport|SB 4.25.9-29.85]]
 * purified by worshiping Lord, [[sb/4/8/23#purport|SB 4.8.23]]
 * purified via prayer, [[sb/6/9/49#purport|SB 6.9.49]]
 * Purūravā as, [[sb/9/14/43#purport|SB 9.14.43]]
-* qualities of 
+* qualities of
+  * *See also:* Modes of nature
+  * in modes of goodness, passion, & ignorance, [[bg/18/7–8|Bg. 18.7–8]], [[bg/18/21–22|Bg. 18.21–22]], [[bg/18/24–25|Bg. 18.24–25]], [[bg/18/27–28|Bg. 18.27–28]], [[bg/18/31–32|Bg. 18.31–32]], [[bg/18/34–35|Bg. 18.34–35]], [[bg/18/38–39|Bg. 18.38–39]]
 * Rāvaṇa’s policy endangers, [[sb/9/10/22#purport|SB 9.10.22]]
 * rebellious to Lord, [[bg/13/20|Bg. 13.20]]
+* recommended for, [[sb/4/7/41#purport|SB 4.7.41]]
 * regulated activities for, [[sb/2/1/3#purport|SB 2.1.3]]
 * regulation absent in, [[bg/6/40|Bg. 6.40]]
-* *See:* [[r#Religion|Religion]]; material 
-* religion of. See: Religion, material 
+* religion of. See: Religion, material
 * religionists as, [[sb/3/31/32#purport|SB 3.31.32]]
 * renunciation deprecated by, [[sb/1/5/15#purport|SB 1.5.15]]
 * ritualistic ceremonies for, [[sb/4/20/6#purport|SB 4.20.6]]
-* sacrifices 
+* sacrifices
 * sacrifices for, [[bg/3/11–12|Bg. 3.11–12]], [[bg/4/25|Bg. 4.25]]
 * sādhus purify, [[sb/1/13/31#purport|SB 1.13.31]]
 * sages compared with, [[sb/8/5/43#purport|SB 8.5.43]]
@@ -317,6 +360,7 @@
 * silkworms compared to, [[sb/7/6/16#purport|SB 7.6.16]]
 * sinful activities committed by, [[sb/5/18/3#purport|SB 5.18.3]]
 * Śiva enlightens, [[sb/4/4/14#purport|SB 4.4.14]]
+* Śiva, [[sb/4/22/36#purport|SB 4.22.36]], [[sb/4/24/17#purport|SB 4.24.17]], [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/24-25#purport|SB 4.24.24-25]], [[sb/4/24/26#purport|SB 4.24.26]]
 * sleep evades, [[sb/7/13/32#purport|SB 7.13.32]]
 * society of envy created by, [[sb/5/5/16#purport|SB 5.5.16]]
 * spiritual advancement by, [[sb/5/11/12#purport|SB 5.11.12]]
@@ -341,6 +385,9 @@
 * temporary creations of, [[sb/2/10/43#purport|SB 2.10.43]]
 * three, [[cc/adi/5/27–28#purport|Ādi 5.27–28]]
 * time defeats, [[sb/1/13/17#purport|SB 1.13.17]]
+* to camels, [[sb/1/2/3#purport|SB 1.2.3]]
+* to crows, [[sb/1/5/10#purport|SB 1.5.10]]
+* to dolls, [[sb/1/5/10#purport|SB 1.5.10]]
 * transcendentalists vs., [[sb/2/3/9#purport|SB 2.3.9]]
 * transmigration continued by, [[bg/8/24|Bg. 8.24]]
 * troublesome life of, [[sb/3/9/10#purport|SB 3.9.10]]
@@ -349,9 +396,10 @@
 * types of, ineligible for Kṛṣṇa consciousness, [[sb/3/32/39-40#purport|SB 3.32.39-40]], [[sb/3/32/40#purport|SB 3.32.40]]
 * universal form for, [[sb/2/1/26#purport|SB 2.1.26]]
 * universal form seen as supreme by, [[bg/4/10|Bg. 4.10]]
+* unknowable by, [[sb/1/5/16#purport|SB 1.5.16]]
 * vastness of, **[[cc/madhya/8/135#translation|Madhya 8.135]]**
-* Vedas followed by, for material benefit, [[sb/5/11/2#purport|SB 5.11.2]]
 * Vedas followed by, [[sb/4/2/22#purport|SB 4.2.22]], [[sb/4/2/25#purport|SB 4.2.25]]
+* Vedas followed by, for material benefit, [[sb/5/11/2#purport|SB 5.11.2]]
 * Vedic authority rejected by, [[sb/4/26/8-8#purport|SB 4.26.8-8]]
 * Vedic regulations taken advantage of by, [[sb/4/29/46#purport|SB 4.29.46]], [[sb/4/29/47-48#purport|SB 4.29.47-48]]
 * Vedic ritualistic ceremonies used by, [[sb/4/29/57#purport|SB 4.29.57]]
@@ -360,10 +408,12 @@
 * warning to, [[sb/10/8/5#purport|SB 10.8.5]]
 * wealth accumulation &, [[cc/madhya/8/247#purport|Madhya 8.247]]
 * wife uncared for by, [[sb/4/26/17#purport|SB 4.26.17]]
+* with devotees, [[sb/1/5/17#purport|SB 1.5.17]], [[sb/1/16/20#purport|SB 1.16.20]]
 * women control, [[sb/7/6/17-18#purport|SB 7.6.17-18]], [[sb/7/6/17-18#purport|SB 7.6.17-18]]
 * words & songs of, [[sb/6/16/33#purport|SB 6.16.33]]
 * work of, qualities of, [[bg/18/27–28|Bg. 18.27–28]]
-* worship 
+* worm in stool, [[sb/4/28/10#purport|SB 4.28.10]]
+* worship
 * worship by, [[sb/7/5/18#purport|SB 7.5.18]]
 * worship demigods for results, [[bg/4/12|Bg. 4.12]]
 * worship demigods, [[sb/3/26/61#purport|SB 3.26.61]], [[sb/3/32/2#purport|SB 3.32.2]], [[sb/4/2/35#purport|SB 4.2.35]], [[sb/7/10/2#purport|SB 7.10.2]], [[sb/7/10/5#purport|SB 7.10.5]]
@@ -371,6 +421,9 @@
 * worship important men, [[bg/4/12|Bg. 4.12]]
 * worship Māyādevī, [[sb/10/2/10#purport|SB 10.2.10]], [[sb/10/2/11-12#purport|SB 10.2.11-12]]
 * worship Śiva, [[sb/3/14/28#purport|SB 3.14.28]]
+* worshiped by, [[sb/5/2/2#purport|SB 5.2.2]], [[sb/5/20/5#purport|SB 5.20.5]]
 * yogīs compared with, [[cc/adi/5/22#purport|Ādi 5.22]]
 
-*See also:* [[d#Demons|Demons]]; [[f#Fruitive workers|Fruitive workers]]; [[a#Atheists|Atheists]]; Conditioneds soul; [[n#Nondevotees|Nondevotees]]; [[j#Jñānīs|Jñānīs]]; [[k#Karmīs|Karmīs]]; [[s#Souls|Souls]]
+*See also:* [Ignorance](entries/ignorance.md); Atheists; Conditioneds soul; Demons; Fruitive workers; Nondevotees; Jñānīs; Karmīs; Souls; Sex life
+
+*See:* [Goodness](entries/goodness.md); mode of; [Illusion](entries/illusion.md); [Religion](entries/religions.md); material; Animal slaughter; Modes of Nature; specific modes; Passion

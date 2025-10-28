@@ -1,4 +1,4 @@
-# Servant(s) of God
+# Servants of God
 
 
-*See:* Devotees; Devotees of Supreme Lord; Pures devotee; [[s#Sages|Sages]]; specific servants; Spirituals master
+*See:* Devotees; Devotees of Supreme Lord; Pures devotee; Sages; specific servants; Spirituals master

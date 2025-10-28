@@ -1,12 +1,12 @@
 # Māyāvādī(s)
 
-[[cc/adi/17/52#purport|Ādi 17.52]], [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/adi/7/143#purport|Ādi 7.143]], **[[cc/antya/3/192#translation|Antya 3.192]]**, [[cc/antya/5/121#purport|Antya 5.121]], [[cc/antya/8/27#purport|Antya 8.27]], [[cc/madhya/12/61#purport|Madhya 12.61]], [[cc/madhya/17/132#purport|Madhya 17.132]], [[cc/madhya/17/142#purport|Madhya 17.142]], **[[cc/madhya/17/143#translation|Madhya 17.143]]**, [[cc/madhya/17/145#purport|Madhya 17.145]], [[cc/madhya/18/109#purport|Madhya 18.109]], [[cc/madhya/18/109#purport|Madhya 18.109]], [[cc/madhya/22/131#purport|Madhya 22.131]], **[[cc/madhya/25/35#translation|Madhya 25.35]]**, [[cc/madhya/3/6#purport|Madhya 3.6]], [[cc/madhya/5/142–43#purport|Madhya 5.142–43]], **[[cc/madhya/6/151#translation|Madhya 6.151]]**, [[cc/madhya/6/152#purport|Madhya 6.152]], [[cc/madhya/6/168#purport|Madhya 6.168]], **[[cc/madhya/6/172#translation|Madhya 6.172]]**, [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/6/269#purport|Madhya 6.269]], [[cc/madhya/6/269#purport|Madhya 6.269]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/9/277#purport|Madhya 9.277]], [[cc/madhya/9/360#purport|Madhya 9.360]]
+[[cc/adi/17/52#purport|Ādi 17.52]], **[[cc/madhya/17/143#translation|Madhya 17.143]]**, [[cc/madhya/17/145#purport|Madhya 17.145]], [[cc/madhya/22/131#purport|Madhya 22.131]], [[cc/antya/8/27#purport|Antya 8.27]], [[cc/adi/7/143#purport|Ādi 7.143]], [[cc/madhya/6/269#purport|Madhya 6.269]], [[cc/adi/7/115#purport|Ādi 7.115]], [[cc/madhya/6/235#purport|Madhya 6.235]], [[cc/madhya/6/269#purport|Madhya 6.269]], **[[cc/antya/3/192#translation|Antya 3.192]]**, [[cc/madhya/6/168#purport|Madhya 6.168]], [[cc/madhya/8/139#purport|Madhya 8.139]], [[cc/madhya/9/277#purport|Madhya 9.277]], [[cc/madhya/9/360#purport|Madhya 9.360]], [[cc/madhya/12/61#purport|Madhya 12.61]], [[cc/madhya/17/132#purport|Madhya 17.132]], [[cc/madhya/18/109#purport|Madhya 18.109]], **[[cc/madhya/25/35#translation|Madhya 25.35]]**, [[cc/antya/5/121#purport|Antya 5.121]], **[[cc/madhya/6/151#translation|Madhya 6.151]]**, [[cc/madhya/6/152#purport|Madhya 6.152]], **[[cc/madhya/6/172#translation|Madhya 6.172]]**, [[cc/madhya/17/142#purport|Madhya 17.142]], [[cc/madhya/3/6#purport|Madhya 3.6]], [[cc/madhya/5/142–43#purport|Madhya 5.142–43]], [[cc/madhya/18/109#purport|Madhya 18.109]]
 
 * activity (activities) &, [[cc/adi/7/118#purport|Ādi 7.118]], [[cc/adi/14/29#purport|Ādi 14.29]]
 * Advaita’s sons as, [[cc/adi/12/27#purport|Ādi 12.27]]
 * aham &, [[cc/adi/1/53#purport|Ādi 1.53]]
 * aprākṛta &, [[cc/madhya/8/138#purport|Madhya 8.138]]
-* as “jagad-gurus,” 2.6.127 purport, [[cc/madhya/25/72#purport|Madhya 25.72]]
+* as “jagad-gurus,”, 2.6.127 purport, [[cc/madhya/25/72#purport|Madhya 25.72]]
 * as atheists, [[cc/adi/7/114#purport|Ādi 7.114]]
 * as offenders, [[cc/adi/7/130#purport|Ādi 7.130]], [[cc/adi/7/144#purport|Ādi 7.144]]
 * as Vidantīs (“toothless”), [[cc/madhya/7/128#purport|Madhya 7.128]]
@@ -90,6 +90,6 @@
 * Yamarāja &, [[cc/madhya/6/167#purport|Madhya 6.167]]
 * Yoga-vāśiṣṭha &, [[cc/adi/12/40#purport|Ādi 12.40]]
 
-*See also:* [[i#Impersonalists|Impersonalists]]; [[j#Jñānīs|Jñānīs]]
+*See also:* Impersonalists; Jñānīs
 
-*See:* [[i#Impersonalists|Impersonalists]]
+*See:* Impersonalists

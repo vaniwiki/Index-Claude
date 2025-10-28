@@ -1,7 +1,19 @@
 # Viśvanātha Cakravartī Ṭhākura cited
 
-* aaViśvanātha Cakravartī Ṭhākura quoted 
+* aaViśvanātha Cakravartī Ṭhākura quoted
+* advent of, [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/13/57#purport|SB 10.13.57]]
+* advent of, within Vasudeva, [[sb/10/2/16#purport|SB 10.2.16]]
 * as author, SB Intro 5, [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/17#purport|SB 1.1.17]]
+* as origin of incarnations, [[sb/10/2/26#purport|SB 10.2.26]]
+* as son of Devakī & Yaśodā, [[sb/10/3/47#purport|SB 10.3.47]]
+* as Yaśodā’s son, [[sb/10/5/1-2#purport|SB 10.5.1-2]]
+* compared with living entities, [[sb/7/15/42#purport|SB 7.15.42]]
+* favoring devotees, [[sb/7/8/34#purport|SB 7.8.34]]
+* fullness of, N102
+* kicking cart demon, [[sb/10/7/7#purport|SB 10.7.7]]
+* Kṛṣṇa consciousness awakened by, [[sb/10/2/8#purport|SB 10.2.8]]
+* living entities always fill, [[sb/5/18/9#purport|SB 5.18.9]]
+* measurements in, [[sb/5/20/38#purport|SB 5.20.38]], [[sb/5/23/9#purport|SB 5.23.9]]
 * on ”fire” of devotional service, [[sb/4/23/11#purport|SB 4.23.11]]
 * on ability to receive Kṛṣṇa, [[sb/7/1/9#purport|SB 7.1.9]]
 * on Aghāsura attaining sārūpya-mukti, [[sb/10/12/33#purport|SB 10.12.33]]
@@ -54,10 +66,10 @@
 * on karma-kāṇḍa activities, [[sb/4/21/34#purport|SB 4.21.34]]
 * on karma, freedom from, [[sb/6/17/17#purport|SB 6.17.17]]
 * on Krauñcadvīpa’s inhabitants, [[sb/5/20/22#purport|SB 5.20.22]]
-* on Kṛṣṇa 
+* on Kṛṣṇa
 * on liberation, [[sb/6/14/5#purport|SB 6.14.5]]
 * on living entities, [[sb/8/12/8#purport|SB 8.12.8]]
-* on Lord 
+* on Lord
 * on Lord ”defeating” Arjuna, [[sb/1/15/20#purport|SB 1.15.20]]
 * on Lord & His consorts, [[sb/2/4/24#purport|SB 2.4.24]]
 * on Lord as Supreme Soul, [[sb/4/20/7#purport|SB 4.20.7]]
@@ -80,7 +92,7 @@
 * on Mohinī & Śiva, [[sb/8/12/34#purport|SB 8.12.34]]
 * on moon, [[sb/5/20/13#purport|SB 5.20.13]]
 * on Nārada cursing Nalakūvara & Maṇigrīva, [[sb/10/10/7#purport|SB 10.10.7]]
-* on Nārada Muni, N114 
+* on Nārada Muni, N114
 * on Nārada’s preaching, [[sb/6/5/35#purport|SB 6.5.35]]
 * on Nārada’s tolerance, [[sb/6/5/44#purport|SB 6.5.44]]
 * on Narottama dāsa Ṭhākura’s songs, [[sb/1/10/20#purport|SB 1.10.20]]
@@ -129,7 +141,7 @@
 * on townships of Brahmā & assistants, [[sb/5/16/29#purport|SB 5.16.29]]
 * on transmigration of soul, [[sb/3/21/17#purport|SB 3.21.17]]
 * on Tretā-yuga & Vedic rituals, [[sb/9/14/49#purport|SB 9.14.49]]
-* on universe 
+* on universe
 * on Vaikuṇṭha & Bhāgavatam, [[sb/8/5/5#purport|SB 8.5.5]]
 * on Vasiṣṭha, [[sb/9/2/9#purport|SB 9.2.9]]
 * on Vasudeva protecting child Kṛṣṇa, [[sb/10/3/51#purport|SB 10.3.51]]
@@ -138,7 +150,9 @@
 * on Yamadūtas, [[sb/6/3/1#purport|SB 6.3.1]], [[sb/6/3/4#purport|SB 6.3.4]], [[sb/6/3/9#purport|SB 6.3.9]]
 * on Yaśodā binding Kṛṣṇa, [[sb/10/9/1-2#purport|SB 10.9.1-2]]
 * on Yaśodā’s forgetfulness via yogamāyā, [[sb/10/8/43#purport|SB 10.8.43]]
-* on yogamāyā & mahāmāyā, N111 
-* Viśvanātha Cakravartī Ṭhākura quoted , , 
+* on yogamāyā & mahāmāyā, N111
+* removing yogamāyā from Brahmā, [[sb/10/13/57#purport|SB 10.13.57]]
+* supreme will of, [[sb/7/1/11#purport|SB 7.1.11]]
+* Viśvanātha Cakravartī Ṭhākura quoted
 
-*See also:* [[v#Viśvanātha Cakravartī Ṭhākura quoted|Viśvanātha Cakravartī Ṭhākura quoted]]
+*See also:* Viśvanātha Cakravartī Ṭhākura quoted

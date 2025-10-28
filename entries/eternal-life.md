@@ -7,4 +7,4 @@
 * via Kṛṣṇa consciousness, [[sb/3/24/38#purport|SB 3.24.38]]
 * via Lord’s advent & activities, [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/11/22#purport|SB 9.11.22]]
 
-*See also:* [[i#Immortality|Immortality]]; [[s#Spiritual world|Spiritual world]]
+*See also:* [Immortality](entries/immortality.md); Spiritual world

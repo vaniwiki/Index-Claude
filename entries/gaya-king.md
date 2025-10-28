@@ -6,6 +6,7 @@
 * brāhmaṇa’s pious activities benefit, [[sb/5/15/11#purport|SB 5.15.11]]
 * brāhmaṇas satisfied by charity of, [[sb/5/15/11#purport|SB 5.15.11]]
 * characteristics of, [[sb/5/15/9#purport|SB 5.15.9]]
+* compared to calf, [[sb/5/15/10#purport|SB 5.15.10]]
 * Dakṣa’s daughters bless, [[sb/5/15/10#purport|SB 5.15.10]]
 * demigods satisfied by, [[sb/5/15/12#purport|SB 5.15.12]]
 * desires of, fulfilled, [[sb/5/15/11#purport|SB 5.15.11]]

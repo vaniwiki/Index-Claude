@@ -6,4 +6,4 @@
 * perpetual, [[sb/8/19/41#purport|SB 8.19.41]]
 * suffering via, [[sb/5/13/12#purport|SB 5.13.12]]
 
-*See:* [[p#Poor man|Poor man]]
+*See:* Poor man

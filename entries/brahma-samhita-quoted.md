@@ -1,8 +1,48 @@
 # Brahma-saṁhitā quoted
 
-**[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/adi/5/155#translation|Ādi 5.155]]**, **[[cc/adi/5/22#translation|Ādi 5.22]]**, [[cc/madhya/19/154#purport|Madhya 19.154]], **[[cc/madhya/20/258#translation|Madhya 20.258]]**, **[[cc/madhya/20/304#translation|Madhya 20.304]]**, **[[cc/madhya/20/310#translation|Madhya 20.310]]**, **[[cc/madhya/20/316#translation|Madhya 20.316]]**, [[cc/madhya/21/18#purport|Madhya 21.18]], **[[cc/madhya/21/35#translation|Madhya 21.35]]**, **[[cc/madhya/21/41#translation|Madhya 21.41]]**
+**[[cc/madhya/20/304#translation|Madhya 20.304]]**, **[[cc/adi/5/22#translation|Ādi 5.22]]**, [[cc/madhya/19/154#purport|Madhya 19.154]], **[[cc/madhya/20/258#translation|Madhya 20.258]]**, **[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/madhya/20/316#translation|Madhya 20.316]]**, **[[cc/adi/5/155#translation|Ādi 5.155]]**, **[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/madhya/21/35#translation|Madhya 21.35]]**, **[[cc/adi/2/107#translation|Ādi 2.107]]**, **[[cc/madhya/21/41#translation|Madhya 21.41]]**, [[cc/madhya/21/18#purport|Madhya 21.18]], **[[cc/madhya/20/310#translation|Madhya 20.310]]**
 
-* Brahma-saṁhitā cited , 
+* & associates, [[sb/10/8/48#purport|SB 10.8.48]]
+* abode of, [[sb/10/1/1#purport|SB 10.1.1]]
+* as all-pervading, [[sb/7/9/30#purport|SB 7.9.30]], [[sb/7/12/15#purport|SB 7.12.15]], [[sb/10/3/24#purport|SB 10.3.24]]
+* as available to devotees, [[sb/10/9/13-14#purport|SB 10.9.13-14]]
+* as cause of all causes, [[sb/3/11/42#purport|SB 3.11.42]], [[sb/4/24/63#purport|SB 4.24.63]], [[sb/7/15/57#purport|SB 7.15.57]]
+* as creator & controller, [[sb/7/7/55#purport|SB 7.7.55]], [[sb/7/9/31#purport|SB 7.9.31]]
+* as free from reactions to past deeds, [[sb/4/21/11#purport|SB 4.21.11]]
+* as Mahā-Viṣṇu, [[sb/7/9/32#purport|SB 7.9.32]]
+* as Maha-Viṣṇu’s source, [[sb/6/16/37#purport|SB 6.16.37]]
+* as one in many, [[sb/7/3/31#purport|SB 7.3.31]]
+* as origin & cause of all, [[sb/4/31/17#purport|SB 4.31.17]]
+* as origin of incarnations, [[sb/10/1/22#purport|SB 10.1.22]], [[sb/10/2/26#purport|SB 10.2.26]]
+* as original person, [[sb/6/16/36#purport|SB 6.16.36]], [[sb/7/10/42#purport|SB 7.10.42]]
+* as original, ever-youthful person, [[sb/3/26/52#purport|SB 3.26.52]], [[sb/3/28/17#purport|SB 3.28.17]], [[sb/3/28/29#purport|SB 3.28.29]], [[sb/3/31/19#purport|SB 3.31.19]], [[sb/3/33/30#purport|SB 3.33.30]]
+* as puruṣāvatāra, [[sb/7/14/37#purport|SB 7.14.37]]
+* as source of Brahman effulgence, [[sb/5/11/13-14#purport|SB 5.11.13-14]]
+* as source of incarnations, [[sb/5/19/4#purport|SB 5.19.4]]
+* as Supersoul, [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/42#purport|SB 4.30.42]], [[sb/5/7/14#purport|SB 5.7.14]]
+* as supreme controller, [[sb/3/26/3#purport|SB 3.26.3]], [[sb/3/26/52#purport|SB 3.26.52]], [[sb/3/29/44#purport|SB 3.29.44]], [[sb/3/32/28#purport|SB 3.32.28]], [[sb/4/22/41#purport|SB 4.22.41]], [[sb/6/1/41#purport|SB 6.1.41]], [[sb/6/4/30#purport|SB 6.4.30]]
+* as Supreme Lord, [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/31/17#purport|SB 4.31.17]]
+* attaining Supreme, [[sb/4/24/54#purport|SB 4.24.54]]
+* beauty of, [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/9-10#purport|SB 10.3.9-10]]
+* body of, [[sb/6/16/19#purport|SB 6.16.19]]
+* Brahma-saṁhitā cited
+* Brahman effulgence of, [[sb/4/24/28#purport|SB 4.24.28]]
+* breathing of, [[sb/3/11/38#purport|SB 3.11.38]]
+* controlling universes, [[sb/10/9/19#purport|SB 10.9.19]]
+* creation process &, [[sb/3/6/2#purport|SB 3.6.2]]
+* devotees see Śyāmasundara form of, [[sb/5/19/4#purport|SB 5.19.4]]
+* effulgence of, [[sb/4/30/5#purport|SB 4.30.5]], [[sb/4/31/15#purport|SB 4.31.15]]
+* effulgence of, containing universes, [[sb/10/9/10#purport|SB 10.9.10]]
+* entourage of &, [[sb/10/3/7-8#purport|SB 10.3.7-8]]
+* expansions of, [[sb/3/3/8#purport|SB 3.3.8]], [[sb/6/16/20#purport|SB 6.16.20]], [[sb/6/16/36#purport|SB 6.16.36]], [[sb/7/10/42#purport|SB 7.10.42]], [[sb/10/1/56#purport|SB 10.1.56]], [[sb/10/2/18#purport|SB 10.2.18]]
+* flute of, [[sb/3/2/29#purport|SB 3.2.29]]
+* form of, [[sb/4/28/63#purport|SB 4.28.63]], [[sb/4/31/17#purport|SB 4.31.17]]
+* forms of, [[sb/10/6/27-29#purport|SB 10.6.27-29]], [[sb/10/8/15#purport|SB 10.8.15]]
+* gopī goddesses &, [[sb/10/5/11#purport|SB 10.5.11]], [[sb/10/5/18#purport|SB 10.5.18]], [[sb/10/8/19#purport|SB 10.8.19]]
+* greatness of, known to devotees, [[sb/6/16/36#purport|SB 6.16.36]], [[sb/6/17/32#purport|SB 6.17.32]]
+* in atoms & universes, [[sb/6/16/9#purport|SB 6.16.9]], [[sb/6/16/36#purport|SB 6.16.36]]
+* in personal abode, [[sb/5/18/7#purport|SB 5.18.7]]
+* loving Lord as Śyāmasundara, [[sb/10/2/36#purport|SB 10.2.36]]
 * on bhakti-yogī seeing Kṛṣṇa, [[sb/8/3/27#purport|SB 8.3.27]]
 * on Brahmā, [[cc/adi/7/157#purport|Ādi 7.157]], [[cc/madhya/8/138#purport|Madhya 8.138]]
 * on Brahmā’s initiation, [[sb/2/9/6#purport|SB 2.9.6]]
@@ -15,14 +55,14 @@
 * on cintāmaṇi-dhāma, [[sb/1/8/21#purport|SB 1.8.21]], [[sb/1/11/26#purport|SB 1.11.26]]
 * on creation, [[sb/2/6/39#purport|SB 2.6.39]], [[sb/4/30/49#purport|SB 4.30.49]], [[sb/4/31/15#purport|SB 4.31.15]]
 * on devotee’s vision, [[cc/madhya/10/181#purport|Madhya 10.181]]
-* on devotees , 
+* on devotees
 * on devotees as transcendental, [[sb/7/10/29#purport|SB 7.10.29]]
 * on devotional service as only way to know Lord, [[sb/4/29/46#purport|SB 4.29.46]]
 * on devotional service surpassing karma, [[sb/9/2/14#purport|SB 9.2.14]]
 * on devotional service without karma, [[sb/6/14/55#purport|SB 6.14.55]]
 * on devotional service, fruitive results destroyed by, [[sb/5/8/26#purport|SB 5.8.26]]
 * on Durgā, [[cc/adi/7/157#purport|Ādi 7.157]], [[sb/4/24/18#purport|SB 4.24.18]], [[sb/5/23/3#purport|SB 5.23.3]], [[sb/6/5/16#purport|SB 6.5.16]]
-* on Durgā, N110 
+* on Durgā, N110
 * on form & abode of Lord, [[sb/3/26/3#purport|SB 3.26.3]]
 * on forms of Godhead, [[sb/6/16/19#purport|SB 6.16.19]]
 * on forms of Lord, [[sb/3/32/8#purport|SB 3.32.8]]
@@ -31,6 +71,7 @@
 * on Gāyatrī, [[cc/madhya/8/138#purport|Madhya 8.138]]
 * on goddess of fortune, [[sb/3/15/21#purport|SB 3.15.21]]
 * on goddesses of fortune worshiping Kṛṣṇa, [[sb/7/11/29#purport|SB 7.11.29]]
+* on Goloka, 19
 * on gopīs, [[cc/madhya/8/139#purport|Madhya 8.139]], **[[cc/madhya/8/163#translation|Madhya 8.163]]**
 * on Govinda & His abode, [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/32#purport|SB 4.30.32]]
 * on Govinda & Rādhā, [[sb/8/12/11#purport|SB 8.12.11]]
@@ -43,15 +84,32 @@
 * on Kāraṇodakaśāyī Viṣṇu, [[bg/10/20|Bg. 10.20]]
 * on karma burned up by devotional service, [[cc/antya/6/200#purport|Antya 6.200]]
 * on knowing Lord, [[sb/3/9/3#purport|SB 3.9.3]]
-* on Kṛṣṇa , , , , , , 
 * on Kṛṣṇa & surabhi cows, [[sb/4/19/7#purport|SB 4.19.7]]
 * on Kṛṣṇa as cause of all causes, [[sb/4/11/17#purport|SB 4.11.17]], [[sb/8/1/12#purport|SB 8.1.12]], [[sb/8/3/3#purport|SB 8.3.3]], [[sb/8/3/15#purport|SB 8.3.15]]
 * on Kṛṣṇa as controller, [[sb/8/12/4#purport|SB 8.12.4]]
 * on Kṛṣṇa as supreme, [[sb/2/4/6#purport|SB 2.4.6]]
 * on Kṛṣṇa consciousness, desires reduced by, [[sb/4/29/69#purport|SB 4.29.69]]
 * on Kṛṣṇa, [[bg/7/7|Bg. 7.7]], [[sb/2/9/37#purport|SB 2.9.37]], [[sb/2/10/7#purport|SB 2.10.7]]
+  * & Mahā-Viṣṇu, [[bg/11/54|Bg. 11.54]] (4)
+  * & sun, [[bg/4/1|Bg. 4.1]] (2)
+  * abode of, [[bg/8/22|Bg. 8.22]]
+  * activities of, as transcendental, [[bg/9/9|Bg. 9.9]]
+  * as all-pervading although localized, [[bg/13/14|Bg. 13.14]]
+  * as cause of all causes, [[bg/7/3|Bg. 7.3]]
+  * as Govinda seen as Śyāmasundara by devotee, [[bg/6/30|Bg. 6.30]]
+  * as known via devotional love, [[bg/9/4|Bg. 9.4]]
+  * as original form of Lord, [[bg/4/5|Bg. 4.5]]
+  * as Supreme Lord, 13, [[bg/2/2|Bg. 2.2]] (3), [[bg/4/5|Bg. 4.5]], [[bg/7/3|Bg. 7.3]], [[bg/7/7|Bg. 7.7]], [[bg/9/11|Bg. 9.11]] (1)
+  * beauty of, seen via love, [[bg/11/50|Bg. 11.50]]
+  * devotees’ love for, [[bg/3/13|Bg. 3.13]]
+  * form of, of eternity, knowledge, & bliss, [[bg/11/54|Bg. 11.54]] (6)
+  * forms & incarnations of, [[bg/4/9|Bg. 4.9]]
+  * in Goloka, [[bg/6/15|Bg. 6.15]]
+  * in innumerable forms, [[bg/11/46|Bg. 11.46]]
+  * incarnations of, [[bg/4/5|Bg. 4.5]]
+  * supremacy of, [[bg/7/3|Bg. 7.3]]
 * on Kṛṣṇa’s forms, [[sb/10/13/19#purport|SB 10.13.19]], [[sb/10/13/39#purport|SB 10.13.39]]
-* on Lord , , 
+* on Lord
 * on Lord as inconceivable, [[sb/2/9/35#purport|SB 2.9.35]]
 * on Lord as seen by love, [[sb/4/9/2#purport|SB 4.9.2]], [[sb/4/12/11#purport|SB 4.12.11]]
 * on Lord dispelling devotee’s karma, [[sb/4/11/20#purport|SB 4.11.20]]
@@ -68,7 +126,7 @@
 * on Lord’s innumerable forms, [[sb/3/20/25#purport|SB 3.20.25]], [[sb/3/24/31#purport|SB 3.24.31]]
 * on Lord’s pervasiveness, [[cc/madhya/6/143#purport|Madhya 6.143]]
 * on Lord’s youthfulness, [[sb/2/7/26#purport|SB 2.7.26]]
-* on Mahā-Viṣṇu, **[[cc/adi/5/71#translation|Ādi 5.71]]**, **[[cc/madhya/20/281#translation|Madhya 20.281]]**, [[sb/1/10/21#purport|SB 1.10.21]], [[sb/10/3/14#purport|SB 10.3.14]], [[sb/2/6/42#purport|SB 2.6.42]], [[sb/2/10/3#purport|SB 2.10.3]], [[sb/2/10/46#purport|SB 2.10.46]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/4/9/14#purport|SB 4.9.14]]
+* on Mahā-Viṣṇu, **[[cc/adi/5/71#translation|Ādi 5.71]]**, **[[cc/madhya/20/281#translation|Madhya 20.281]]**, [[sb/1/10/21#purport|SB 1.10.21]], [[sb/2/6/42#purport|SB 2.6.42]], [[sb/2/10/3#purport|SB 2.10.3]], [[sb/2/10/46#purport|SB 2.10.46]], [[sb/3/7/37#purport|SB 3.7.37]], [[sb/4/9/14#purport|SB 4.9.14]], [[sb/10/3/14#purport|SB 10.3.14]]
 * on material world as dream of Mahā-Viṣṇu, [[sb/4/29/83#purport|SB 4.29.83]]
 * on materialist’s not knowing God, [[sb/6/4/23#purport|SB 6.4.23]]
 * on persons in love with Kṛṣṇa, [[sb/10/13/1#purport|SB 10.13.1]]
@@ -82,11 +140,11 @@
 * on Rādhā & gopīs, **[[cc/adi/4/72#translation|Ādi 4.72]]**, **[[cc/madhya/8/163#translation|Madhya 8.163]]**
 * on seeing God, qualification for, [[sb/7/8/12#purport|SB 7.8.12]]
 * on seeing Kṛṣṇa with love, [[sb/3/27/10#purport|SB 3.27.10]]
-* on seeing Lord, [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/2/9/35#purport|SB 2.9.35]], [[sb/3/1/24#purport|SB 3.1.24]]
+* on seeing Lord, [[sb/2/9/35#purport|SB 2.9.35]], [[sb/3/1/24#purport|SB 3.1.24]], [[sb/10/3/15-17#purport|SB 10.3.15-17]]
 * on Śiva like yogurt, [[sb/4/30/24#purport|SB 4.30.24]]
 * on Śiva, [[cc/adi/5/105#purport|Ādi 5.105]], [[cc/adi/7/157#purport|Ādi 7.157]]
-* on spiritual world, features of, [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/32#purport|SB 4.30.32]]
 * on spiritual world, [[sb/10/8/25#purport|SB 10.8.25]]
+* on spiritual world, features of, [[sb/4/30/3#purport|SB 4.30.3]], [[sb/4/30/32#purport|SB 4.30.32]]
 * on sun as eye of Lord, [[sb/3/26/55#purport|SB 3.26.55]]
 * on sun moving under Lord’s will, [[sb/9/10/16#purport|SB 9.10.16]]
 * on sun-god, [[cc/adi/7/157#purport|Ādi 7.157]]
@@ -100,6 +158,15 @@
 * on transcending destiny, [[sb/9/9/33#purport|SB 9.9.33]]
 * on Vedānta study, [[sb/2/6/35#purport|SB 2.6.35]]
 * on Viṣṇu in Śvetadvīpa, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
-* on Goloka, 19 
+* opulences of, [[sb/5/3/4-5#purport|SB 5.3.4-5]]
+* perceiving Lord’s presence, [[sb/10/2/28#purport|SB 10.2.28]]
+* potency of, [[sb/3/4/33#purport|SB 3.4.33]], [[sb/3/5/26#purport|SB 3.5.26]]
+* presence of, everywhere, [[sb/10/2/26#purport|SB 10.2.26]]*, [[sb/10/2/42#purport|SB 10.2.42]], [[sb/10/3/7-8#purport|SB 10.3.7-8]]
+* protected from karmic reactions, [[sb/10/4/27#purport|SB 10.4.27]]
+* seeing Lord, [[sb/4/21/42#purport|SB 4.21.42]], [[sb/4/22/8#purport|SB 4.22.8]]
+* seen by devotee, [[sb/7/4/37#purport|SB 7.4.37]]
+* seen by love, [[sb/6/16/50#purport|SB 6.16.50]]
+* supremacy of, [[sb/10/1/2#purport|SB 10.1.2]], [[sb/10/1/20#purport|SB 10.1.20]]
+* transcendental nature of, [[sb/7/1/11#purport|SB 7.1.11]]
 
-*See also:* [[b#Brahma-saṁhitā cited|Brahma-saṁhitā cited]]
+*See also:* Brahma-saṁhitā cited

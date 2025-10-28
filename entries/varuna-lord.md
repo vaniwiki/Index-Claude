@@ -1,6 +1,6 @@
 # Varuṇa, Lord
 
-[[bg/3/14|Bg. 3.14]], [[sb/3/21/51#purport|SB 3.21.51]], [[sb/7/12/26-28#purport|SB 7.12.26-28]], [[sb/9/1/13#purport|SB 9.1.13]]
+[[bg/3/14|Bg. 3.14]], [[sb/1/2/23#purport|SB 1.2.23]], [[sb/1/10/3#purport|SB 1.10.3]], [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/19/10#purport|SB 1.19.10]], [[sb/3/21/51#purport|SB 3.21.51]], [[sb/6/6/38-39#purport|SB 6.6.38-39]], [[sb/6/18/3-4#purport|SB 6.18.3-4]], [[sb/6/18/5#purport|SB 6.18.5]], [[sb/6/18/6#purport|SB 6.18.6]], [[sb/7/12/26-28#purport|SB 7.12.26-28]], [[sb/9/1/13#purport|SB 9.1.13]]
 
 * as demigod warrior, [[sb/8/10/26#purport|SB 8.10.26]], [[sb/8/10/28#purport|SB 8.10.28]], [[sb/8/11/42#purport|SB 8.11.42]]
 * as Lord’s tongue, [[sb/8/7/26#purport|SB 8.7.26]]
@@ -13,7 +13,7 @@
 * Hariścandra ”promised” sacrificial son to, [[sb/9/7/9#purport|SB 9.7.9]], [[sb/9/7/14#purport|SB 9.7.14]]
 * Hariścandra begged, for son, [[sb/9/7/8#purport|SB 9.7.8]]
 * Hariścandra’s dropsy caused by, [[sb/9/7/17#purport|SB 9.7.17]]
-* Hiraṇyākṣa ”challenged,” [[sb/3/17/27-29#purport|SB 3.17.27-29]]
+* Hiraṇyākṣa ”challenged,”, [[sb/3/17/27-29#purport|SB 3.17.27-29]]
 * Hiraṇyākṣa advised by, [[sb/3/17/29-31#purport|SB 3.17.29-31]]
 * horse dowry supplied by, [[sb/9/15/7#purport|SB 9.15.7]]
 * human compared to, [[sb/8/24/30#purport|SB 8.24.30]]
@@ -25,5 +25,4 @@
 * Pṛthu compared to, [[sb/4/16/10#purport|SB 4.16.10]]
 * responsibilities of, [[sb/3/23/39#purport|SB 3.23.39]]
 * ropes of, [[sb/7/5/50#purport|SB 7.5.50]]
-*  [[sb/1/2/23#purport|SB 1.2.23]], [[sb/1/10/3#purport|SB 1.10.3]], [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/19/10#purport|SB 1.19.10]], [[sb/6/6/38-39#purport|SB 6.6.38-39]], [[sb/6/18/3-4#purport|SB 6.18.3-4]], [[sb/6/18/5#purport|SB 6.18.5]], [[sb/6/18/6#purport|SB 6.18.6]]
 * Urvaśī &, [[sb/9/13/6#purport|SB 9.13.6]], [[sb/9/14/17-18#purport|SB 9.14.17-18]], [[sb/9/14/21#purport|SB 9.14.21]]

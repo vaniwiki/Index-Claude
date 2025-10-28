@@ -16,6 +16,6 @@
 * to Brahmā from Viṣṇu, [[sb/10/1/21#purport|SB 10.1.21]]
 * Vedas as, [[sb/4/21/23#purport|SB 4.21.23]], [[sb/4/24/40#purport|SB 4.24.40]]
 
-*See also:* Chanting Hare Kṛṣṇa; Hare Kṛṣṇa mantra; Mantras; Chanting holy names of Lord; Chanting Lord’s holy names; [Mantra](entries/mantras.md); Chantings holy name of Lord; Chantings holy name; Names of Supreme Lord
+*See also:* Chanting Hare Kṛṣṇa; Hare Kṛṣṇa mantra; Mantras; Chanting holy names of Lord; Chanting Lord’s holy names; [Mantra](entries/mantra.md); Chantings holy name of Lord; Chantings holy name; Names of Supreme Lord
 
 *See:* Chantings holy name of Lord; Hare Kṛṣṇa mantra; Mantras; 

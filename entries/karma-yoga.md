@@ -7,4 +7,4 @@
 
 *See also:* Devotional service
 
-*See:* [Yoga](entries/yogas.md); karma-
+*See:* [Yoga](entries/yoga.md); karma-

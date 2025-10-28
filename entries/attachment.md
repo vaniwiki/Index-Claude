@@ -86,6 +86,6 @@
 * work in, [[bg/18/27|Bg. 18.27]]
 * worsening of, [[bg/15/20|Bg. 15.20]]
 
-*See also:* [Affection](entries/affection.md); [Bondage](entries/bondage.md); Desires; Fruitive activity; [Association](entries/association.md); Bodily concept; [Desire](entries/desires.md); material; [Detachment](entries/detachment.md); Sense gratification; Bodily concept of life
+*See also:* [Affection](entries/affection.md); [Bondage](entries/bondage.md); Desires; Fruitive activity; [Association](entries/association.md); Bodily concept; [Desire](entries/desire.md); material; [Detachment](entries/detachment.md); Sense gratification; Bodily concept of life
 
 *See:* [Detachment](entries/detachment.md); [Liberation](entries/liberation.md); [Renunciation](entries/renunciation.md); [Illusion](entries/illusion.md); Family life; attachment to

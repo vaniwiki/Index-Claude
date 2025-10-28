@@ -37,4 +37,4 @@
 * vs. worship to Lord, [[bg/9/23–25|Bg. 9.23–25]]
 * with sacrifice, [[bg/4/25|Bg. 4.25]]
 
-*See:* [Sacrifice](entries/sacrifices.md); of animals
+*See:* [Sacrifice](entries/sacrifice.md); of animals

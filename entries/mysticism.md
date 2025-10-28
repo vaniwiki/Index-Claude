@@ -6,6 +6,6 @@
 * Viṣṇu master of, [[sb/8/19/8#purport|SB 8.19.8]]
 * yogic
 
-*See also:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yogas.md)
+*See also:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yoga.md)
 
-*See:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yogas.md); Mystics power; Mystic yoga; Mystics yogī; Yogīs
+*See:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yoga.md); Mystics power; Mystic yoga; Mystics yogī; Yogīs

@@ -17,6 +17,6 @@
 * supreme form of, [[sb/1/2/6#purport|SB 1.2.6]], [[sb/1/2/6#purport|SB 1.2.6]], [[sb/6/16/40#purport|SB 6.16.40]]
 * useless without attraction to Lord, [[sb/1/2/8#purport|SB 1.2.8]], [[sb/1/2/8#purport|SB 1.2.8]]
 
-*See also:* [Duty](entries/duties.md); [Occupation](entries/occupations.md); Sanātana-dharma; Varṇāśrama-dharma; [Religion](entries/religions.md); Religious principles; Devotional service; Religions
+*See also:* [Duty](entries/duties.md); [Occupation](entries/occupation.md); Sanātana-dharma; Varṇāśrama-dharma; [Religion](entries/religion.md); Religious principles; Devotional service; Religions
 
-*See:* [Duty](entries/duties.md); [Religion](entries/religions.md); Religious principles; Varṇāśrama-dharma
+*See:* [Duty](entries/duties.md); [Religion](entries/religion.md); Religious principles; Varṇāśrama-dharma

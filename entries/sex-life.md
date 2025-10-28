@@ -195,4 +195,4 @@
 * world revolves around, [[sb/7/7/46#purport|SB 7.7.46]]
 * Yayāti renounced, [[sb/9/19/1#purport|SB 9.19.1]], [[sb/9/19/19#purport|SB 9.19.19]]
 
-*See also:* [Attachment](entries/attachment.md); Desires; [Lust](entries/lust.md); material; Sense gratification; [Desire](entries/desires.md); [Marriage](entries/marriage.md); Male-female attraction; Sex desire
+*See also:* [Attachment](entries/attachment.md); Desires; [Lust](entries/lust.md); material; Sense gratification; [Desire](entries/desire.md); [Marriage](entries/marriage.md); Male-female attraction; Sex desire

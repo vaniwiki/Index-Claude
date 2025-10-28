@@ -123,6 +123,6 @@
 * via māyā, [[sb/7/8/5#purport|SB 7.8.5]]
 * Yamadūtas’ questions on, [[sb/6/3/5-10#purport|SB 6.3.5-10]]
 
-*See also:* [Law](entries/laws.md); [Suffering](entries/sufferings.md); Hellish planets; Sinful reactions; Sinfuls reaction
+*See also:* [Law](entries/law.md); [Suffering](entries/suffering.md); Hellish planets; Sinful reactions; Sinfuls reaction
 
 *See:* Sinful reactions

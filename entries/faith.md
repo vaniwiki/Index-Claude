@@ -55,6 +55,6 @@
 * via hearing, [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/2/36#purport|SB 2.2.36]]
 * via knowing Lord’s greatness, [[sb/2/4/6#purport|SB 2.4.6]]
 
-*See also:* [Association](entries/association.md); [Attachment](entries/attachment.md); Faith in Lord; [Religion](entries/religions.md)
+*See also:* [Association](entries/association.md); [Attachment](entries/attachment.md); Faith in Lord; [Religion](entries/religion.md)
 
-*See:* [Religion](entries/religions.md)
+*See:* [Religion](entries/religion.md)

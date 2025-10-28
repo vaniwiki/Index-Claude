@@ -360,6 +360,6 @@
 * world lacks, [[sb/7/9/25#purport|SB 7.9.25]], [[sb/7/9/43#purport|SB 7.9.43]]
 * Yudhiṣṭhira rejected, [[sb/1/13/17#purport|SB 1.13.17]]
 
-*See also:* [Bliss](entries/bliss.md); [Ecstasy](entries/ecstasy.md); [Enjoyment](entries/enjoyment.md); [Peace](entries/peace.md); [Pleasure](entries/pleasure.md); material; transcendental; Sense gratification; Material enjoyment; [Suffering](entries/sufferings.md); relief from
+*See also:* [Bliss](entries/bliss.md); [Ecstasy](entries/ecstasy.md); [Enjoyment](entries/enjoyment.md); [Peace](entries/peace.md); [Pleasure](entries/pleasure.md); material; transcendental; Sense gratification; Material enjoyment; [Suffering](entries/suffering.md); relief from
 
-*See:* [Suffering](entries/sufferings.md); Sense gratification
+*See:* [Suffering](entries/suffering.md); Sense gratification

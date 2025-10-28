@@ -6,6 +6,6 @@
 * for good souls, [[sb/1/18/31#purport|SB 1.18.31]]
 * sins absolved by, [[sb/1/18/1#purport|SB 1.18.1]]
 
-*See also:* [Austerity](entries/austerities.md); [Penance](entries/penances.md)
+*See also:* [Austerity](entries/austerities.md); [Penance](entries/penance.md)
 
-*See:* [Penance](entries/penances.md)
+*See:* [Penance](entries/penance.md)

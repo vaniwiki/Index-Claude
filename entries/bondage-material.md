@@ -21,4 +21,4 @@
 * via sinful activities, [[sb/5/13/2#purport|SB 5.13.2]]
 * via work, [[sb/4/6/53#purport|SB 4.6.53]]
 
-*See also:* [Attachment](entries/attachment.md); material; Desires; [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Life](entries/life.md); Material world; ; Māyā; Modes of nature; [Suffering](entries/sufferings.md); Birth-death cycle; Material life
+*See also:* [Attachment](entries/attachment.md); material; Desires; [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Life](entries/life.md); Material world; ; Māyā; Modes of nature; [Suffering](entries/suffering.md); Birth-death cycle; Material life

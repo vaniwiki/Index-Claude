@@ -52,6 +52,6 @@
 * voice of, compared to chirping of birds, [[sb/5/13/16#purport|SB 5.13.16]]
 * witch, [[sb/5/14/3#purport|SB 5.14.3]]
 
-*See also:* [Children](entries/children.md); [Marriage](entries/marriage.md); [Mother](entries/mothers.md); [Women](entries/women.md); Family life; Mothers; Parents; Gṛhasthas
+*See also:* [Children](entries/children.md); [Marriage](entries/marriage.md); [Mother](entries/mother.md); [Women](entries/women.md); Family life; Mothers; Parents; Gṛhasthas
 
 *See:* [Marriage](entries/marriage.md); Family life; [Women](entries/women.md)

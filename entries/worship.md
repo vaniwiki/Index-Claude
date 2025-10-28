@@ -380,6 +380,6 @@
 * worship to devotees excels, [[sb/3/13/4#purport|SB 3.13.4]]
 * Yudhiṣṭhira &. See: Yudhiṣṭhira Mahārāja, Lord & ...
 
-*See also:* [Worship](entries/worship.md); to Lord; Deity form; Devotional service; [Love](entries/love.md); for Lord; Prayers; Sacrifices; Temple; Deity worship; Deity worship to Supreme Lord; [Sacrifice](entries/sacrifices.md); Vedic rituals; Kṛṣṇa consciousness; [Religion](entries/religions.md); Ritualistic ceremonies; SacrificeYādava.s See: Yadu; dynasty of; Worship to Vāmana
+*See also:* [Worship](entries/worship.md); to Lord; Deity form; Devotional service; [Love](entries/love.md); for Lord; Prayers; Sacrifices; Temple; Deity worship; Deity worship to Supreme Lord; [Sacrifice](entries/sacrifice.md); Vedic rituals; Kṛṣṇa consciousness; [Religion](entries/religion.md); Ritualistic ceremonies; SacrificeYādava.s See: Yadu; dynasty of; Worship to Vāmana
 
 *See:* [Arjuna](entries/arjuna.md); Kṛṣṇa & . . .; [Worship](entries/worship.md); to Kṛṣṇa; Deity worship; Demigod worship

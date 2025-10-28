@@ -77,6 +77,6 @@
 * Yadu followed, [[sb/9/18/40#purport|SB 9.18.40]]
 * yuga cycle decays, [[sb/8/14/4#purport|SB 8.14.4]]
 
-*See also:* [Religion](entries/religions.md); Devotional service; Vedic injunctions; Regulative principles; Vedic injunction; Vedics injunction; Ritualistic ceremonies
+*See also:* [Religion](entries/religion.md); Devotional service; Vedic injunctions; Regulative principles; Vedic injunction; Vedics injunction; Ritualistic ceremonies
 
-*See:* [Religion](entries/religions.md); principles
+*See:* [Religion](entries/religion.md); principles

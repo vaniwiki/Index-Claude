@@ -69,6 +69,6 @@
 * via yoga, 2.48, [[bg/4/29|Bg. 4.29]], [[bg/5/27|Bg. 5.27]], [[bg/6/11–18|Bg. 6.11–18]], [[bg/6/28|Bg. 6.28]], [[bg/8/12|Bg. 8.12]], [[sb/8/19/21#purport|SB 8.19.21]]
 * Viśvāmitra &, 2.60
 
-*See also:* [Austerity](entries/austerities.md); [Celibacy](entries/celibacy.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Meditation](entries/meditation.md); Samādhi; [Yoga](entries/yogas.md); [Self-control](entries/self-control.md)
+*See also:* [Austerity](entries/austerities.md); [Celibacy](entries/celibacy.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Meditation](entries/meditation.md); Samādhi; [Yoga](entries/yoga.md); [Self-control](entries/self-control.md)
 
 *See:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md)

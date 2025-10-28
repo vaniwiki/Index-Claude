@@ -34,6 +34,6 @@
 * worship of, [[sb/1/11/5#purport|SB 1.11.5]]
 * Yamarāja son of, [[sb/5/26/6#purport|SB 5.26.6]]
 
-*See also:* [Sun](entries/suns.md); Vivasvān; Sūrya
+*See also:* [Sun](entries/sun.md); Vivasvān; Sūrya
 
 *See:* Vivasvān

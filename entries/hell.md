@@ -42,4 +42,4 @@
 * via sinful activities, [[sb/10/10/10-10#purport|SB 10.10.10-10]]
 * via sinful activity, [[sb/7/7/38#purport|SB 7.7.38]]
 
-*See also:* [Suffering](entries/sufferings.md); Hellish planets
+*See also:* [Suffering](entries/suffering.md); Hellish planets

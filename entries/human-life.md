@@ -115,4 +115,4 @@
 
 *See also:* [Children](entries/children.md); Humans being; Human beings; [Society](entries/society.md); Material enjoyment; Sense gratification; Varṇāśrama-dharma
 
-*See:* [Duty](entries/duties.md); [Happiness](entries/happiness.md); [Life](entries/life.md); human; [Suffering](entries/sufferings.md); Human beings; Human life; purpose of; Humans being
+*See:* [Duty](entries/duties.md); [Happiness](entries/happiness.md); [Life](entries/life.md); human; [Suffering](entries/suffering.md); Human beings; Human life; purpose of; Humans being

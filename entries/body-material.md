@@ -440,4 +440,4 @@
 * yoga manipulates, [[sb/1/18/26#purport|SB 1.18.26]]
 * yogī giving up, [[sb/4/23/13#purport|SB 4.23.13]], [[sb/4/23/14#purport|SB 4.23.14]]
 
-*See also:* [Birth](entries/births.md); Bodily concept of life; [Death](entries/deaths.md); [Intelligence](entries/intelligence.md); [Mind](entries/mind.md); Senses; Living entities; [Body](entries/body.md); spiritual; [Ego](entries/ego.md); false; [Tolerance](entries/tolerance.md); Bodily conception of life; Humans being; Subtle body
+*See also:* [Birth](entries/birth.md); Bodily concept of life; [Death](entries/death.md); [Intelligence](entries/intelligence.md); [Mind](entries/mind.md); Senses; Living entities; [Body](entries/body.md); spiritual; [Ego](entries/ego.md); false; [Tolerance](entries/tolerance.md); Bodily conception of life; Humans being; Subtle body

@@ -139,6 +139,6 @@
 * world ignorant of, [[sb/7/8/24#purport|SB 7.8.24]]
 * worship in, kinds of, [[bg/7/23|Bg. 7.23]], [[bg/7/24|Bg. 7.24]] (4)
 
-*See also:* Brahman realization; Devotional service; God realization; Kṛṣṇa consciousness; [Self-realization](entries/self-realization.md); [Knowledge](entries/knowledge.md); spiritual; Spiritual world; God consciousness; Self-realiātion; [Yoga](entries/yogas.md); God realiātion; [Religion](entries/religions.md)
+*See also:* Brahman realization; Devotional service; God realization; Kṛṣṇa consciousness; [Self-realization](entries/self-realization.md); [Knowledge](entries/knowledge.md); spiritual; Spiritual world; God consciousness; Self-realiātion; [Yoga](entries/yoga.md); God realiātion; [Religion](entries/religion.md)
 
-*See:* [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Self-control](entries/self-control.md); Devotional service; [Yoga](entries/yogas.md); Sense control; Spirituals master
+*See:* [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Self-control](entries/self-control.md); Devotional service; [Yoga](entries/yoga.md); Sense control; Spirituals master

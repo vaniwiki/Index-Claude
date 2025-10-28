@@ -119,4 +119,4 @@
 * with tat, 17.25
 * Yudhiṣṭhira gave, [[sb/9/11/5#purport|SB 9.11.5]]
 
-*See also:* [Sacrifice](entries/sacrifices.md); Welfare work; Philanthropy; Welfare activity
+*See also:* [Sacrifice](entries/sacrifice.md); Welfare work; Philanthropy; Welfare activity

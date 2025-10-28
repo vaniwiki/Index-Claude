@@ -199,4 +199,4 @@
 
 *See also:* [Body](entries/body.md); material; Elements; Energy of Supreme Lord; Māyā; Modes of nature; Material world; Modes of material nature; [Creation](entries/creation.md); Laws; of nature; Universes; Energy; Planets; Universe
 
-*See:* [Birth](entries/births.md); [Evolution](entries/evolution.md); [Liberation](entries/liberation.md); Modes of nature
+*See:* [Birth](entries/birth.md); [Evolution](entries/evolution.md); [Liberation](entries/liberation.md); Modes of nature

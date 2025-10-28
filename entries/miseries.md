@@ -45,6 +45,6 @@
 * via surrender to matter, [[sb/2/6/36#purport|SB 2.6.36]]
 * Vidura’s question on, [[sb/3/7/6#purport|SB 3.7.6]]
 
-*See also:* [Bondage](entries/bondage.md); [Hell](entries/hell.md); [Suffering](entries/sufferings.md)
+*See also:* [Bondage](entries/bondage.md); [Hell](entries/hell.md); [Suffering](entries/suffering.md)
 
-*See:* [Suffering](entries/sufferings.md)
+*See:* [Suffering](entries/suffering.md)

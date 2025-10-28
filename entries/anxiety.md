@@ -14,6 +14,6 @@
 * spiritual world free of, [[sb/8/24/51#purport|SB 8.24.51]]
 * spiritual, vs. material, [[sb/1/12/28#purport|SB 1.12.28]]
 
-*See also:* [Fear](entries/fear.md); [Misery](entries/miseries.md); [Suffering](entries/sufferings.md)
+*See also:* [Fear](entries/fear.md); [Misery](entries/miseries.md); [Suffering](entries/suffering.md)
 
-*See:* [Fear](entries/fear.md); [Misery](entries/miseries.md); [Suffering](entries/sufferings.md)
+*See:* [Fear](entries/fear.md); [Misery](entries/miseries.md); [Suffering](entries/suffering.md)

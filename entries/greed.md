@@ -15,4 +15,4 @@
 * spiritual vs. material, [[sb/7/15/20#purport|SB 7.15.20]], [[sb/7/15/21#purport|SB 7.15.21]]
 * Vasiṣṭha victimized by, [[sb/9/13/5#purport|SB 9.13.5]]
 
-*See also:* [Attachment](entries/attachment.md); [Desire](entries/desires.md); material
+*See also:* [Attachment](entries/attachment.md); [Desire](entries/desire.md); material

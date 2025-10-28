@@ -187,4 +187,4 @@
 * worshiping Lord perfects, [[sb/4/24/72#purport|SB 4.24.72]]
 * worshiping Lord via, [[sb/4/21/33#purport|SB 4.21.33]]
 
-*See also:* [Dharma](entries/dharma.md); [Occupation](entries/occupations.md); Fruitive work; Occupational duty; Sanātana-dharma; Occupations; Varṇāśrama-dharma
+*See also:* [Dharma](entries/dharma.md); [Occupation](entries/occupation.md); Fruitive work; Occupational duty; Sanātana-dharma; Occupations; Varṇāśrama-dharma

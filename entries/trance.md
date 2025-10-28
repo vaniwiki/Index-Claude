@@ -15,4 +15,4 @@
 
 *See also:* Kṛṣṇa consciousness; [Meditation](entries/meditation.md); Meditation on Kṛṣṇa; Samādhi
 
-*See:* [Meditation](entries/meditation.md); [Yoga](entries/yogas.md); Samādhi
+*See:* [Meditation](entries/meditation.md); [Yoga](entries/yoga.md); Samādhi

@@ -344,6 +344,6 @@
 * yoga cures desire for, [[sb/8/19/21#purport|SB 8.19.21]]
 * Yudhiṣṭhira rejected, [[sb/7/10/1#purport|SB 7.10.1]]
 
-*See also:* [Attachment](entries/attachment.md); Bodily concept; [Desire](entries/desires.md); material; [Enjoyment](entries/enjoyment.md); Sex life; Desires; [Lust](entries/lust.md); [Materialism](entries/materialism.md); Bodily concept of life; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); Fruitive activities; Material life; specific forms of sense gratification; Material enjoyment
+*See also:* [Attachment](entries/attachment.md); Bodily concept; [Desire](entries/desire.md); material; [Enjoyment](entries/enjoyment.md); Sex life; Desires; [Lust](entries/lust.md); [Materialism](entries/materialism.md); Bodily concept of life; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); Fruitive activities; Material life; specific forms of sense gratification; Material enjoyment
 
 *See:* [Illusion](entries/illusion.md)

@@ -7,6 +7,6 @@
 * pure devotees disinterested in, [[sb/9/4/25#purport|SB 9.4.25]]
 * travel via, [[sb/3/15/26#purport|SB 3.15.26]]
 
-*See also:* [Yoga](entries/yogas.md); Kṛṣṇa consciousness; [Meditation](entries/meditation.md); Mystic powers
+*See also:* [Yoga](entries/yoga.md); Kṛṣṇa consciousness; [Meditation](entries/meditation.md); Mystic powers
 
-*See:* [Yoga](entries/yogas.md); mystic; Mystics power
+*See:* [Yoga](entries/yoga.md); mystic; Mystics power

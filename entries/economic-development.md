@@ -41,4 +41,4 @@
 * via religious principles, [[sb/4/12/14#purport|SB 4.12.14]]
 * via Śiva worship, [[sb/4/22/36#purport|SB 4.22.36]]
 
-*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); [Industry](entries/industry.md); big; Opulences; material; [Materialism](entries/materialism.md); Materialists; Vaiśyas
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulence.md); [Wealth](entries/wealth.md); [Industry](entries/industry.md); big; Opulences; material; [Materialism](entries/materialism.md); Materialists; Vaiśyas

@@ -21,4 +21,4 @@
 * Rohinī, [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/3/1-5#purport|SB 10.3.1-5]]
 * sunshine reflected by, [[sb/5/16/1#purport|SB 5.16.1]], [[sb/5/16/4#purport|SB 5.16.4]]
 
-*See also:* [Astrology](entries/astrology.md); Astronomy; Planets; Earth planet; [Creation](entries/creation.md); the; [Sun](entries/suns.md); Universes; specific stars & planets; specific stars
+*See also:* [Astrology](entries/astrology.md); Astronomy; Planets; Earth planet; [Creation](entries/creation.md); the; [Sun](entries/sun.md); Universes; specific stars & planets; specific stars

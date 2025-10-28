@@ -202,4 +202,4 @@
 * Yudhiṣṭhira quit, [[sb/1/15/39-40#purport|SB 1.15.39-40]], [[sb/1/15/44#purport|SB 1.15.44]]
 * Yuvanāśva retired from, [[sb/9/6/26-26#purport|SB 9.6.26-26]]
 
-*See also:* [Attachment](entries/attachment.md); [Children](entries/children.md); Fathers; Gṛhamedhīs; Gṛhasthas; Husbands; [Marriage](entries/marriage.md); Mothers; Parents; [Wife](entries/wife.md); [Dynasty](entries/dynasties.md); [Husband](entries/husbands.md); Family life; spiritual; Gṛhastha āśrama
+*See also:* [Attachment](entries/attachment.md); [Children](entries/children.md); Fathers; Gṛhamedhīs; Gṛhasthas; Husbands; [Marriage](entries/marriage.md); Mothers; Parents; [Wife](entries/wife.md); [Dynasty](entries/dynasties.md); [Husband](entries/husband.md); Family life; spiritual; Gṛhastha āśrama

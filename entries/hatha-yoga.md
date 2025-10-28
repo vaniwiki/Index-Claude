@@ -5,4 +5,4 @@
 * mystic power via, [[sb/10/6/32#purport|SB 10.6.32]]
 * purpose of, [[bg/2/17|Bg. 2.17]]
 
-*See also:* [Yoga](entries/yogas.md)
+*See also:* [Yoga](entries/yoga.md)

@@ -23,4 +23,4 @@
 * Śrīmad-Bhāgavatam as, [[sb/2/7/51#purport|SB 2.7.51]]
 * transcendental, [[sb/3/5/11#purport|SB 3.5.11]]
 
-*See also:* [Mantra](entries/mantras.md); Chanting holy names; Gāyatrī mantra; Hare Kṛṣṇa mantra; Hearing about Supreme Lord; Chantings holy name of Lord
+*See also:* [Mantra](entries/mantra.md); Chanting holy names; Gāyatrī mantra; Hare Kṛṣṇa mantra; Hearing about Supreme Lord; Chantings holy name of Lord

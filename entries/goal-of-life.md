@@ -51,4 +51,4 @@
 * via satisfying Lord, [[sb/2/5/30#purport|SB 2.5.30]]
 * via Śrīmad-Bhāgavatam, [[sb/2/10/5#purport|SB 2.10.5]]
 
-*See also:* [Perfection](entries/perfections.md); [Success](entries/success.md); Absolute Truth; Kṛṣṇa; Supreme Lord
+*See also:* [Perfection](entries/perfection.md); [Success](entries/success.md); Absolute Truth; Kṛṣṇa; Supreme Lord

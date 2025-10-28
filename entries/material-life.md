@@ -172,4 +172,4 @@
 
 *See also:* [Attachment](entries/attachment.md); Materialists; Material world; [Materialism](entries/materialism.md); Birth-death cycle; [Bondage](entries/bondage.md); material; Māyā; Fruitive activity
 
-*See:* [Happiness](entries/happiness.md); [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Liberation](entries/liberation.md); [Life](entries/life.md); material; Material world; Family life; Material life; miseries of; [Suffering](entries/sufferings.md); Present Age; Western world
+*See:* [Happiness](entries/happiness.md); [Ignorance](entries/ignorance.md); [Illusion](entries/illusion.md); [Liberation](entries/liberation.md); [Life](entries/life.md); material; Material world; Family life; Material life; miseries of; [Suffering](entries/suffering.md); Present Age; Western world

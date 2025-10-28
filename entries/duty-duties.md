@@ -80,4 +80,4 @@
 * violence may be, [[bg/2/30–32|Bg. 2.30–32]]
 * with detachment, [[bg/3/30|Bg. 3.30]]
 
-*See also:* [Dharma](entries/dharma.md); [Occupation](entries/occupations.md); Sanātana-dharma
+*See also:* [Dharma](entries/dharma.md); [Occupation](entries/occupation.md); Sanātana-dharma

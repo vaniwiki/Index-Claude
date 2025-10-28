@@ -97,6 +97,6 @@ m
 * worship by, [[sb/7/14/16-16#purport|SB 7.14.16-16]], [[sb/8/16/9-9#purport|SB 8.16.9-9]]
 * Yudhiṣṭhira as, [[sb/7/14/1#purport|SB 7.14.1]]
 
-*See also:* [Children](entries/children.md); Family life; [Marriage](entries/marriage.md); Sex life; Varṇāśrama-dharma; Fathers; Husbands; Mothers; Parents; [Wife](entries/wife.md); [Family](entries/family.md); [Husband](entries/husbands.md); Father; [Mother](entries/mothers.md); Gṛhastha-āśrama
+*See also:* [Children](entries/children.md); Family life; [Marriage](entries/marriage.md); Sex life; Varṇāśrama-dharma; Fathers; Husbands; Mothers; Parents; [Wife](entries/wife.md); [Family](entries/family.md); [Husband](entries/husband.md); Father; [Mother](entries/mother.md); Gṛhastha-āśrama
 
 *See:* Family life

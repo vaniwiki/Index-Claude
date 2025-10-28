@@ -43,4 +43,4 @@
 * with Kuvera’s sons, [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/4#purport|SB 10.10.4]], [[sb/10/10/6#purport|SB 10.10.6]]
 * with paramour compared to brāhmaṇas worshiping demigods, [[sb/4/14/23-23#purport|SB 4.14.23-23]], [[sb/4/14/25#purport|SB 4.14.25]]
 
-*See also:* [Marriage](entries/marriage.md); Gopīs; [Mother](entries/mothers.md); [Wife](entries/wife.md)
+*See also:* [Marriage](entries/marriage.md); Gopīs; [Mother](entries/mother.md); [Wife](entries/wife.md)

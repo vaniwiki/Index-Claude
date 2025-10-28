@@ -115,4 +115,4 @@
 * worker in, [[bg/18/27|Bg. 18.27]]
 * worship in, [[sb/1/2/27#purport|SB 1.2.27]]
 
-*See also:* [Desire](entries/desires.md); [Lust](entries/lust.md); Modes of nature
+*See also:* [Desire](entries/desire.md); [Lust](entries/lust.md); Modes of nature

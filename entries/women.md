@@ -214,6 +214,6 @@
 * with paramour degrades family, [[sb/9/3/21#purport|SB 9.3.21]]
 * Yājñalkya cited on, [[sb/1/11/31#purport|SB 1.11.31]]
 
-*See also:* [Female](entries/females.md); Male-female attraction; [Marriage](entries/marriage.md); Sex life; [Wife](entries/wife.md); Family life; Females; Girls; Gopīs; Mothers; Queens; specific women; Mohinī-mūrti
+*See also:* [Female](entries/female.md); Male-female attraction; [Marriage](entries/marriage.md); Sex life; [Wife](entries/wife.md); Family life; Females; Girls; Gopīs; Mothers; Queens; specific women; Mohinī-mūrti
 
 *See:* [Detachment](entries/detachment.md)

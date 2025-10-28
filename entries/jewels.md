@@ -6,4 +6,4 @@
 * in Uttānapāda’s palace, [[sb/4/9/60#purport|SB 4.9.60]], [[sb/4/9/62#purport|SB 4.9.62]]
 * oceans produce, [[sb/4/19/9#purport|SB 4.19.9]]
 
-*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md)
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulence.md)

@@ -781,4 +781,4 @@
 * worshiped Viṣṇu forms, [[sb/10/13/51-51#purport|SB 10.13.51-51]]
 * Yamarāja judges, [[sb/3/5/20-21#purport|SB 3.5.20-21]]
 
-*See also:* [Body](entries/body.md); material; [Desire](entries/desires.md); [Ego](entries/ego.md); false; [Illusion](entries/illusion.md); Animals; Human beings; Souls; Humans being; [Life](entries/life.md); [People](entries/people.md); Conditioneds soul; Births; specific living entities; specific types of living entities; Devotees
+*See also:* [Body](entries/body.md); material; [Desire](entries/desire.md); [Ego](entries/ego.md); false; [Illusion](entries/illusion.md); Animals; Human beings; Souls; Humans being; [Life](entries/life.md); [People](entries/people.md); Conditioneds soul; Births; specific living entities; specific types of living entities; Devotees

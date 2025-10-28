@@ -285,6 +285,6 @@
 * yogīs conquerors of, [[sb/5/1/19#purport|SB 5.1.19]]
 * Yudhiṣṭhira purified, [[sb/1/15/41#purport|SB 1.15.41]]
 
-*See also:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Body](entries/body.md); material; [Intelligence](entries/intelligence.md); [Mind](entries/mind.md); Sense organs; [Meditation](entries/meditation.md); [Yoga](entries/yogas.md)
+*See also:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); [Body](entries/body.md); material; [Intelligence](entries/intelligence.md); [Mind](entries/mind.md); Sense organs; [Meditation](entries/meditation.md); [Yoga](entries/yoga.md)
 
 *See:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md); Sense gratification; Sense objects

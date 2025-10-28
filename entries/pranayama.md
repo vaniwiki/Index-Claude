@@ -6,4 +6,4 @@
 * defined, [[sb/2/1/18#purport|SB 2.1.18]], [[sb/4/23/8#purport|SB 4.23.8]]
 * in meditation, [[sb/2/1/23#purport|SB 2.1.23]]
 
-*See also:* [Yoga](entries/yogas.md); breathing in
+*See also:* [Yoga](entries/yoga.md); breathing in

@@ -10,6 +10,6 @@
 * via devotional service, [[sb/10/6/37-38#purport|SB 10.6.37-38]]
 * via pleasing Lord, [[sb/3/2/32#purport|SB 3.2.32]]
 
-*See also:* [Life](entries/life.md); goal of; [Perfection](entries/perfections.md); Goal of life
+*See also:* [Life](entries/life.md); goal of; [Perfection](entries/perfection.md); Goal of life
 
-*See:* [Perfection](entries/perfections.md); Goal of life
+*See:* [Perfection](entries/perfection.md); Goal of life

@@ -61,4 +61,4 @@
 * via sannyāsī, [[sb/7/13/5#purport|SB 7.13.5]]
 * via spiritual master, [[sb/7/7/23#purport|SB 7.7.23]], [[sb/7/7/40#purport|SB 7.7.40]]
 
-*See also:* Absolute Truth; Devotional service; Kṛṣṇa consciousness; [Knowledge](entries/knowledge.md); Spiritual life; God consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yogas.md); God realization; [Purification](entries/purification.md); God realiātion
+*See also:* Absolute Truth; Devotional service; Kṛṣṇa consciousness; [Knowledge](entries/knowledge.md); Spiritual life; God consciousness; [Meditation](entries/meditation.md); [Yoga](entries/yoga.md); God realization; [Purification](entries/purification.md); God realiātion

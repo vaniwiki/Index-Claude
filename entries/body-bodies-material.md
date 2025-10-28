@@ -166,4 +166,4 @@
 
 *See also:* Living entities; Senses; material
 
-*See:* [Attachment](entries/attachment.md); False ego; [Birth](entries/births.md); Transmigrations of soul; [Body](entries/body.md); determining factors of; [Death](entries/deaths.md); [Duty](entries/duties.md); [Eating](entries/eating.md); [Food](entries/food.md); Prasādam; [Liberation](entries/liberation.md); [Supersoul](entries/supersoul.md); [Violence](entries/violence.md); Animal-killing; [Murder](entries/murder.md); [War](entries/wars.md); Diseases; Human life; old age; Life airs; Sense organs; Senses
+*See:* [Attachment](entries/attachment.md); False ego; [Birth](entries/birth.md); Transmigrations of soul; [Body](entries/body.md); determining factors of; [Death](entries/death.md); [Duty](entries/duties.md); [Eating](entries/eating.md); [Food](entries/food.md); Prasādam; [Liberation](entries/liberation.md); [Supersoul](entries/supersoul.md); [Violence](entries/violence.md); Animal-killing; [Murder](entries/murder.md); [War](entries/war.md); Diseases; Human life; old age; Life airs; Sense organs; Senses

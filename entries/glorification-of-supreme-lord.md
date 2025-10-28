@@ -6,4 +6,4 @@
 * misery cured via, N104
 * via serving His devotees, N103-4
 
-*See also:* [Perfection](entries/perfections.md); Chanting holy names of Lord; Preaching Kṛṣṇa consciousness; Chantings holy name of Lord
+*See also:* [Perfection](entries/perfection.md); Chanting holy names of Lord; Preaching Kṛṣṇa consciousness; Chantings holy name of Lord

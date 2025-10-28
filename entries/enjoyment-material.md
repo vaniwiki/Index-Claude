@@ -39,4 +39,4 @@
 * women &, [[sb/7/7/16#purport|SB 7.7.16]]
 * Yayāti uninterested in, [[sb/9/18/50#purport|SB 9.18.50]]
 
-*See also:* [Bliss](entries/bliss.md); transcendental; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); [Desire](entries/desires.md); material; [Lust](entries/lust.md); [Materialism](entries/materialism.md); Sense gratification; Sex life
+*See also:* [Bliss](entries/bliss.md); transcendental; [Happiness](entries/happiness.md); [Pleasure](entries/pleasure.md); [Desire](entries/desire.md); material; [Lust](entries/lust.md); [Materialism](entries/materialism.md); Sense gratification; Sex life

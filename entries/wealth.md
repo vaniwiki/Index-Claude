@@ -111,6 +111,6 @@
 * via past good deeds, [[bg/16/16|Bg. 16.16]]
 * worship for, [[bg/17/11|Bg. 17.11]]
 
-*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulences.md); material; Possessions; Economic development; Opulences; Treasuries; kings kept; Jewels
+*See also:* [Gold](entries/gold.md); [Money](entries/money.md); [Opulence](entries/opulence.md); material; Possessions; Economic development; Opulences; Treasuries; kings kept; Jewels
 
-*See:* [Money](entries/money.md); [Opulence](entries/opulences.md); material
+*See:* [Money](entries/money.md); [Opulence](entries/opulence.md); material

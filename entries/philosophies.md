@@ -84,4 +84,4 @@
 
 *See also:* [Impersonalism](entries/impersonalism.md); [impersonalism](entries/impersonalism.md); Absolute Truth; [Knowledge](entries/knowledge.md); Mental concoction; specific philosophies; Devotional service; Kṛṣṇa consciousness; Impersonalists; Māyāvāda philosophy; Speculative knowledge
 
-*See:* [Impersonalism](entries/impersonalism.md); [Science](entries/sciences.md); Scientists; Absolute Truth; [Knowledge](entries/knowledge.md); specific philosophies; Acintya-bhedābheda-tattva; Knowledge; spiritual; Devotional service; Kṛṣṇa consciousness
+*See:* [Impersonalism](entries/impersonalism.md); [Science](entries/science.md); Scientists; Absolute Truth; [Knowledge](entries/knowledge.md); specific philosophies; Acintya-bhedābheda-tattva; Knowledge; spiritual; Devotional service; Kṛṣṇa consciousness

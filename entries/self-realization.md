@@ -204,6 +204,6 @@
 * worship to Caitanya-Nitāi &, **[[cc/adi/1/103#translation|Ādi 1.103]]**
 * yoga-mārga &, [[cc/adi/1/91#purport|Ādi 1.91]]
 
-*See also:* Devotional service; [Knowledge](entries/knowledge.md); Kṛṣṇa consciousness; [Liberation](entries/liberation.md); spiritual; [Meditation](entries/meditation.md); Realiātion about Lord; Spiritual life; [Yoga](entries/yogas.md)
+*See also:* Devotional service; [Knowledge](entries/knowledge.md); Kṛṣṇa consciousness; [Liberation](entries/liberation.md); spiritual; [Meditation](entries/meditation.md); Realiātion about Lord; Spiritual life; [Yoga](entries/yoga.md)
 
 *See:* Devotional service; God realization; Brahman realization & . . .

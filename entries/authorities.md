@@ -44,4 +44,4 @@
 
 *See also:* Disciplic succession; Mahājanas; specific authorities; Spirituals master; specific authorities cited
 
-*See:* [Government](entries/governments.md); Humans being; leaders among; Spirituals master
+*See:* [Government](entries/government.md); Humans being; leaders among; Spirituals master

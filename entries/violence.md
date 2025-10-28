@@ -26,6 +26,6 @@
 * to oneself as well as others as demoniac, [[bg/16/18|Bg. 16.18]]
 * work based on, in ignorance mode, [[bg/18/25|Bg. 18.25]]
 
-*See also:* Animal slaughter; Kurukṣetra Battle; [Killing](entries/killing.md); [Murder](entries/murder.md); [Nonviolence](entries/nonviolence.md); [War](entries/wars.md); Warfare
+*See also:* Animal slaughter; Kurukṣetra Battle; [Killing](entries/killing.md); [Murder](entries/murder.md); [Nonviolence](entries/nonviolence.md); [War](entries/war.md); Warfare
 
 *See:* [Killing](entries/killing.md)

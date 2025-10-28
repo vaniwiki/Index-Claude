@@ -22,4 +22,4 @@
 * sense control for executing, [[sb/2/9/40#purport|SB 2.9.40]]
 * types of, four listed, [[sb/2/8/21#purport|SB 2.8.21]]
 
-*See also:* [Charity](entries/charity.md); [Sacrifice](entries/sacrifices.md); [Preaching](entries/preaching.md)
+*See also:* [Charity](entries/charity.md); [Sacrifice](entries/sacrifice.md); [Preaching](entries/preaching.md)

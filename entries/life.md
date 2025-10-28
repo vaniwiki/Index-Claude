@@ -209,4 +209,4 @@
 * yoga extends, [[sb/2/5/29#purport|SB 2.5.29]]
 * yogī prolongs, [[sb/9/12/6#purport|SB 9.12.6]]
 
-*See also:* [Creation](entries/creation.md); [Duty](entries/duties.md); [Materialism](entries/materialism.md); Material world; [Perfection](entries/perfections.md); [Success](entries/success.md); Activities; Living entities; Animals; [Consciousness](entries/consciousness.md); Human beings; Humans being; Souls; Breathing exercise; Goal of life; Human life; Material life; [Society](entries/society.md); Spiritual life; Soul
+*See also:* [Creation](entries/creation.md); [Duty](entries/duties.md); [Materialism](entries/materialism.md); Material world; [Perfection](entries/perfection.md); [Success](entries/success.md); Activities; Living entities; Animals; [Consciousness](entries/consciousness.md); Human beings; Humans being; Souls; Breathing exercise; Goal of life; Human life; Material life; [Society](entries/society.md); Spiritual life; Soul

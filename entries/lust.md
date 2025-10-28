@@ -65,4 +65,4 @@
 * world bound by, [[sb/8/12/22#purport|SB 8.12.22]]
 * wrath compared with, [[sb/2/7/7#purport|SB 2.7.7]]
 
-*See also:* [Attachment](entries/attachment.md); Desires; material; Sense gratification; Sex life; [Desire](entries/desires.md); [Materialism](entries/materialism.md); Passion; mode of; Sex desire
+*See also:* [Attachment](entries/attachment.md); Desires; material; Sense gratification; Sex life; [Desire](entries/desire.md); [Materialism](entries/materialism.md); Passion; mode of; Sex desire

@@ -49,6 +49,6 @@
 * Vedic injunction about, [[sb/10/1/37#purport|SB 10.1.37]], [[sb/10/2/21#purport|SB 10.2.21]]
 * Vedic injunctions for permitting, [[sb/5/9/17#purport|SB 5.9.17]]
 
-*See also:* [Death](entries/deaths.md); [War](entries/wars.md); Animal slaughter; [Murder](entries/murder.md)
+*See also:* [Death](entries/death.md); [War](entries/war.md); Animal slaughter; [Murder](entries/murder.md)
 
-*See:* [Murder](entries/murder.md); [War](entries/wars.md); [Punishment](entries/punishment.md); Sinful reactions; Animal slaughter; Animals; sacrifice of
+*See:* [Murder](entries/murder.md); [War](entries/war.md); [Punishment](entries/punishment.md); Sinful reactions; Animal slaughter; Animals; sacrifice of

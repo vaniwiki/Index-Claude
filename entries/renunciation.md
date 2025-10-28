@@ -296,4 +296,4 @@
 * via varṇāśrama-dharma, [[sb/1/9/26#purport|SB 1.9.26]]
 * Vṛtrāsura expresses, [[sb/6/11/27#purport|SB 6.11.27]]
 
-*See also:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Sacrifice](entries/sacrifices.md); [Surrender](entries/surrender.md); Sannyāsa; [Retirement](entries/retirement.md); Vānaprastha; Sannyāsa āśrama; Sannyāsa order; Sannyāsīs; Sense control
+*See also:* [Austerity](entries/austerities.md); [Detachment](entries/detachment.md); [Sacrifice](entries/sacrifice.md); [Surrender](entries/surrender.md); Sannyāsa; [Retirement](entries/retirement.md); Vānaprastha; Sannyāsa āśrama; Sannyāsa order; Sannyāsīs; Sense control

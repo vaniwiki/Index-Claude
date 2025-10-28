@@ -53,6 +53,6 @@
 * Vṛndāvana residents &, [[cc/adi/5/232#purport|Ādi 5.232]]
 * worship to Lord as, [[sb/4/2/35#purport|SB 4.2.35]]
 
-*See also:* [Religion](entries/religions.md); Vedic injunctions; Devotional service to Lord; Religious principles; Scriptures; regulations of
+*See also:* [Religion](entries/religion.md); Vedic injunctions; Devotional service to Lord; Religious principles; Scriptures; regulations of
 
 *See:* Religious principles

@@ -38,4 +38,4 @@
 * waking from, [[sb/4/7/9#purport|SB 4.7.9]]
 * yoga degrading to, [[sb/7/9/32#purport|SB 7.9.32]]
 
-*See also:* [Dream](entries/dreams.md)
+*See also:* [Dream](entries/dream.md)

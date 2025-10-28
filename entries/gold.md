@@ -33,4 +33,4 @@
 * to ghosts & witches, [[sb/5/13/3#purport|SB 5.13.3]]
 * to yellow stool, [[sb/5/14/7#purport|SB 5.14.7]], [[sb/5/14/13#purport|SB 5.14.13]]
 
-*See also:* [Money](entries/money.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); material
+*See also:* [Money](entries/money.md); [Opulence](entries/opulence.md); [Wealth](entries/wealth.md); material

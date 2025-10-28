@@ -65,6 +65,6 @@
 * surplus, to Kṛṣṇa, [[sb/7/14/8#purport|SB 7.14.8]]
 * vaiśyas’ means of aquiring, [[sb/5/26/36#purport|SB 5.26.36]]
 
-*See also:* [Gold](entries/gold.md); [Opulence](entries/opulences.md); [Wealth](entries/wealth.md); Opulences; material; Economic development
+*See also:* [Gold](entries/gold.md); [Opulence](entries/opulence.md); [Wealth](entries/wealth.md); Opulences; material; Economic development
 
 *See:* [Wealth](entries/wealth.md)

@@ -527,6 +527,6 @@
 * yogamāyā’s creations in, [[sb/8/5/43#purport|SB 8.5.43]]
 * yogīs go beyond, [[sb/3/15/26#purport|SB 3.15.26]]
 
-*See also:* [Bondage](entries/bondage.md); [Creation](entries/creation.md); the; Earth; Energy of Supreme Lord; material; Heavenly planets; Material nature; Māyā; Universes; Planets; Earth planet; [Life](entries/life.md); Nature; Universe; Material; specific planets; [Envy](entries/envy.md); [Liberation](entries/liberation.md); Creation (act of); Heavenlies planet; Creation (the); Energy; Desires; Duality; Liberateds soul; Material Nature; Miseries; [Suffering](entries/sufferings.md)
+*See also:* [Bondage](entries/bondage.md); [Creation](entries/creation.md); the; Earth; Energy of Supreme Lord; material; Heavenly planets; Material nature; Māyā; Universes; Planets; Earth planet; [Life](entries/life.md); Nature; Universe; Material; specific planets; [Envy](entries/envy.md); [Liberation](entries/liberation.md); Creation (act of); Heavenlies planet; Creation (the); Energy; Desires; Duality; Liberateds soul; Material Nature; Miseries; [Suffering](entries/suffering.md)
 
-*See:* [Creation](entries/creation.md); [Godhead](entries/godhead.md); returning to; [Liberation](entries/liberation.md); [Illusion](entries/illusion.md); [Suffering](entries/sufferings.md); Annihilation; Birth-death cycle; Transmigrations of soul
+*See:* [Creation](entries/creation.md); [Godhead](entries/godhead.md); returning to; [Liberation](entries/liberation.md); [Illusion](entries/illusion.md); [Suffering](entries/suffering.md); Annihilation; Birth-death cycle; Transmigrations of soul

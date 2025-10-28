@@ -10,4 +10,4 @@
 * Kṛṣṇa represented by, [[bg/10/38|Bg. 10.38]]
 * where Kṛṣṇa & Arjuna are present, [[bg/18/78|Bg. 18.78]]
 
-*See also:* [Religion](entries/religions.md); Kṛṣṇa consciousness; [Purification](entries/purification.md); Virtue; Religious principles
+*See also:* [Religion](entries/religion.md); Kṛṣṇa consciousness; [Purification](entries/purification.md); Virtue; Religious principles

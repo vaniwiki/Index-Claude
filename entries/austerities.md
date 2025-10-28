@@ -128,4 +128,4 @@
 * valuable only in devotional service, [[sb/4/31/12#purport|SB 4.31.12]]
 * value of, [[sb/4/28/35-37#purport|SB 4.28.35-37]]
 
-*See also:* [Celibacy](entries/celibacy.md); Sacrifices; specific austerities; [Penance](entries/penances.md); [Renunciation](entries/renunciation.md)
+*See also:* [Celibacy](entries/celibacy.md); Sacrifices; specific austerities; [Penance](entries/penance.md); [Renunciation](entries/renunciation.md)

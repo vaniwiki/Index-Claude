@@ -184,6 +184,6 @@
 * yogī in, [[sb/8/3/27#purport|SB 8.3.27]]
 * yogic process of, [[bg/5/27|Bg. 5.27]]
 
-*See also:* [Yoga](entries/yogas.md); Chantings holy name of Lord; Samādhi; Devotional service to Supreme Lord; Mystic yoga; [Trance](entries/trance.md); Devotional service; Remembering Supreme Lord; Kṛṣṇa consciousness; Love for Lord; Remembrance about Lord
+*See also:* [Yoga](entries/yoga.md); Chantings holy name of Lord; Samādhi; Devotional service to Supreme Lord; Mystic yoga; [Trance](entries/trance.md); Devotional service; Remembering Supreme Lord; Kṛṣṇa consciousness; Love for Lord; Remembrance about Lord
 
-*See:* Kṛṣṇa consciousness; [Trance](entries/trance.md); [Yoga](entries/yogas.md)
+*See:* Kṛṣṇa consciousness; [Trance](entries/trance.md); [Yoga](entries/yoga.md)

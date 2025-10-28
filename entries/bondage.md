@@ -29,4 +29,4 @@
 * via fruitive mentality, [[sb/3/8/12#purport|SB 3.8.12]]
 * via sex attraction, [[sb/3/12/28#purport|SB 3.12.28]]
 
-*See also:* [Life](entries/life.md); material; Birth-death cycle; [Karma](entries/karma.md); Māyā; Modes of nature; [Suffering](entries/sufferings.md); Transmigrations of soul; Bodily conception of life; Miseries
+*See also:* [Life](entries/life.md); material; Birth-death cycle; [Karma](entries/karma.md); Māyā; Modes of nature; [Suffering](entries/suffering.md); Transmigrations of soul; Bodily conception of life; Miseries

@@ -1,0 +1,38 @@
+# Preacher(s), Kṛṣṇa conscious
+
+* as dear to Lord, [[sb/8/7/44#purport|SB 8.7.44]]
+* as dearmost to Kṛṣṇa, [[sb/7/6/24#purport|SB 7.6.24]]
+* as guru, [[sb/8/14/5#purport|SB 8.14.5]]
+* as paramahaṁsas, [[sb/8/3/7#purport|SB 8.3.7]]
+* as tolerant & fearless, [[sb/6/5/39#purport|SB 6.5.39]]
+* attitude of, [[sb/6/2/34#purport|SB 6.2.34]], [[sb/6/2/36-37#purport|SB 6.2.36-37]], [[sb/6/4/5#purport|SB 6.4.5]], [[sb/6/5/44#purport|SB 6.5.44]]
+* brāhmaṇas as, [[sb/7/14/42#purport|SB 7.14.42]]
+* Caitanya as, [[sb/7/9/41#purport|SB 7.9.41]]
+* Caitanya wants, [[sb/8/14/5#purport|SB 8.14.5]]
+* Caitanya’s formula for, [[sb/6/4/5#purport|SB 6.4.5]], [[sb/6/5/44#purport|SB 6.5.44]]
+* common man’s challenge to, [[sb/8/3/26#purport|SB 8.3.26]]
+* conduct for, [[sb/7/13/7#purport|SB 7.13.7]]
+* curse on author may be accepted by, [[sb/6/5/43#purport|SB 6.5.43]]
+* Deity worshiper compared with, [[sb/7/14/39#purport|SB 7.14.39]], [[sb/7/14/40#purport|SB 7.14.40]]
+* demons accuse, [[sb/9/24/59#purport|SB 9.24.59]]
+* demons vanquished by, [[sb/7/10/42#purport|SB 7.10.42]]
+* devotee’s duty to be, [[sb/6/3/18#purport|SB 6.3.18]]
+* in civilian dress, [[sb/7/13/9#purport|SB 7.13.9]]
+* knowledge required for, [[sb/6/1/38#purport|SB 6.1.38]]
+* Kṛṣṇa empowers, [[sb/7/14/39#purport|SB 7.14.39]]
+* Kṛṣṇa satisfied by, [[sb/6/5/39#purport|SB 6.5.39]]
+* literature distribution by, [[sb/7/14/39#purport|SB 7.14.39]]
+* Lord recognizes, [[sb/7/14/40#purport|SB 7.14.40]], [[sb/7/14/42#purport|SB 7.14.42]]
+* Lord’s mercy to, [[sb/9/9/5#purport|SB 9.9.5]]
+* money advice to, [[sb/7/13/32#purport|SB 7.13.32]]
+* Nṛsiṁhadeva protects, [[sb/7/8/51#purport|SB 7.8.51]]
+* opposition to, [[sb/6/2/2#purport|SB 6.2.2]]
+* Prahlāda as, [[sb/7/8/1#purport|SB 7.8.1]], [[sb/7/8/2#purport|SB 7.8.2]]
+* protected by Kṛṣṇa, [[sb/6/2/36-37#purport|SB 6.2.36-37]]
+* pure devotees as, [[sb/7/8/1#purport|SB 7.8.1]]
+* recognized by Lord, [[sb/6/4/44#purport|SB 6.4.44]]
+* tolerance recommended for, [[sb/6/5/44#purport|SB 6.5.44]]
+
+*See also:* Devotees; Pures devotee
+
+*See:* Devotees; as preachers

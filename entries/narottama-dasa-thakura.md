@@ -1,0 +1,15 @@
+# Narottama dāsa Ṭhākura
+
+* as representative of mercy of Lord Caitanya, [[cc/antya/5/88#purport|Antya 5.88]]
+* as spiritual master, [[cc/madhya/24/330#purport|Madhya 24.330]]
+* Jīva Gosvāmī &, [[cc/adi/10/85#purport|Ādi 10.85]]
+* Lokanātha &, [[cc/adi/12/88#purport|Ādi 12.88]], [[cc/madhya/18/49#purport|Madhya 18.49]]
+* Nityānanda &, [[cc/adi/5/204#purport|Ādi 5.204]]
+* Pāṇihāṭi festival &, [[cc/adi/11/32#purport|Ādi 11.32]]
+* purity of, [[cc/antya/2/120#purport|Antya 2.120]]
+* quoted on life wasted, [[sb/1/13/26#purport|SB 1.13.26]]
+* quoted on spiritual master, [[sb/8/15/28#purport|SB 8.15.28]]
+* Rāmacandra Kavirāja &, [[cc/adi/10/78–79#purport|Ādi 10.78–79]], [[cc/adi/11/51#purport|Ādi 11.51]]
+* songs by, [[sb/8/5/25#purport|SB 8.5.25]]
+* songs of, [[sb/1/10/20#purport|SB 1.10.20]]
+* spiritual master &, [[cc/adi/1/46#purport|Ādi 1.46]]

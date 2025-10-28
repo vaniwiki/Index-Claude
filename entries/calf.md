@@ -1,0 +1,21 @@
+# Calf
+
+* Aryamā in form of, [[sb/4/18/18#purport|SB 4.18.18]]
+* banyan tree in form of, [[sb/4/18/25#purport|SB 4.18.25]]
+* Bṛhaspati in form of, [[sb/4/18/14#purport|SB 4.18.14]]
+* devotee compared to, [[sb/4/9/17-17#purport|SB 4.9.17-17]]
+* Garuḍa in form of, [[sb/4/18/23-24#purport|SB 4.18.23-24]]
+* Himalayas in form of, [[sb/4/18/25#purport|SB 4.18.25]]
+* in cow-Earth analogy, [[sb/4/18/10#purport|SB 4.18.10]]
+* Indra in form of, [[sb/4/18/15#purport|SB 4.18.15]]
+* Kapila in form of, [[sb/4/18/19#purport|SB 4.18.19]]
+* lion in form of, [[sb/4/18/23-24#purport|SB 4.18.23-24]]
+* Maya demon in form of, [[sb/4/18/20#purport|SB 4.18.20]]
+* Prahlāda in form of, [[sb/4/18/16#purport|SB 4.18.16]]
+* Śiva (Rudra) in form of, [[sb/4/18/21#purport|SB 4.18.21]]
+* Śiva’s bull in form of, [[sb/4/18/23-24#purport|SB 4.18.23-24]]
+* Svāyambhuva Manu in form of, [[sb/4/18/12#purport|SB 4.18.12]]
+* Takṣaka in form of, [[sb/4/18/22#purport|SB 4.18.22]]
+* Viśvāvasu in form of, [[sb/4/18/17#purport|SB 4.18.17]]
+
+*See also:* [[c#Cows|Cows]]

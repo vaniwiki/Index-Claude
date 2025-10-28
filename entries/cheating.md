@@ -1,0 +1,20 @@
+# Cheating
+
+[[bg/18/28|Bg. 18.28]]
+
+* as conditioned defect, [[sb/1/14/4#purport|SB 1.14.4]], [[sb/3/24/12#purport|SB 3.24.12]], [[sb/3/24/17#purport|SB 3.24.17]]
+* as ominous sign, [[sb/1/14/4#purport|SB 1.14.4]]
+* brāhmaṇas &, [[sb/5/4/5#purport|SB 5.4.5]]
+* by ”yogīs,” [[sb/3/20/35#purport|SB 3.20.35]], [[sb/3/21/7#purport|SB 3.21.7]]
+* by economists, [[sb/5/14/26#purport|SB 5.14.26]]
+* by material energy, [[sb/3/23/57#purport|SB 3.23.57]]
+* by philosophers, [[sb/5/14/26#purport|SB 5.14.26]]
+* by pseudo spiritualists, [[sb/5/14/13#purport|SB 5.14.13]], [[sb/5/14/29#purport|SB 5.14.29]], [[sb/5/14/30#purport|SB 5.14.30]]
+* by scientists, [[sb/5/14/26#purport|SB 5.14.26]]
+* conditioned souls have propensity for, [[sb/5/14/26#purport|SB 5.14.26]], [[sb/5/14/37#purport|SB 5.14.37]]
+* enmity caused by, [[sb/5/14/35#purport|SB 5.14.35]]
+* in business, suffering via, [[sb/5/13/11#purport|SB 5.13.11]]
+* in marriage, [[sb/5/14/37#purport|SB 5.14.37]]
+* punishment for, [[sb/5/26/10#purport|SB 5.26.10]]
+* religion made by man as, [[sb/5/3/20#purport|SB 5.3.20]]
+* transcendental, [[sb/1/13/37#purport|SB 1.13.37]]

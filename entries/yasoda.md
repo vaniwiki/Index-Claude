@@ -1,0 +1,6 @@
+# Yaśodā
+
+[[cc/adi/13/86#purport|Ādi 13.86]], **[[cc/adi/14/3#translation|Ādi 14.3]]**, [[cc/adi/14/90#purport|Ādi 14.90]], **[[cc/adi/17/294#translation|Ādi 17.294]]**, **[[cc/adi/4/24#translation|Ādi 4.24]]**, [[cc/adi/4/35#purport|Ādi 4.35]], [[cc/adi/5/18#purport|Ādi 5.18]], [[cc/adi/6/53#purport|Ādi 6.53]], [[cc/adi/7/7#purport|Ādi 7.7]], **[[cc/antya/7/33–34#translation|Antya 7.33–34]]**, [[bg/6/47|Bg. 6.47]], [[cc/madhya/1/44#purport|Madhya 1.44]], **[[cc/madhya/13/145#translation|Madhya 13.145]]**, **[[cc/madhya/15/19#translation|Madhya 15.19]]**, [[cc/madhya/15/241#purport|Madhya 15.241]], [[cc/madhya/15/270#purport|Madhya 15.270]], **[[cc/madhya/15/29#translation|Madhya 15.29]]**, [[cc/madhya/18/66#purport|Madhya 18.66]], [[cc/madhya/18/67#purport|Madhya 18.67]], [[cc/madhya/19/165#purport|Madhya 19.165]], **[[cc/madhya/19/190#translation|Madhya 19.190]]**, **[[cc/madhya/19/204–5#translation|Madhya 19.204–5]]**, [[cc/madhya/23/116#purport|Madhya 23.116]], **[[cc/madhya/23/93#translation|Madhya 23.93]]**, [[cc/madhya/3/167#purport|Madhya 3.167]], [[cc/madhya/8/223#purport|Madhya 8.223]], [[cc/madhya/8/294#purport|Madhya 8.294]], **[[cc/madhya/8/76–78#translation|Madhya 8.76–78]]**, [[sb/9/24/65#purport|SB 9.24.65]]
+
+* Kṛṣṇa as son of, [[bg/1/15|Bg. 1.15]]
+*  [[sb/5/4/4#purport|SB 5.4.4]], [[sb/5/18/23#purport|SB 5.18.23]]

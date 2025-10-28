@@ -1,0 +1,17 @@
+# Sannyāsa order
+
+* as life’s success, [[sb/9/19/3#purport|SB 9.19.3]]
+* bogus, compared with bona fide, [[sb/3/24/34#purport|SB 3.24.34]]
+* Caitanya accepts, [[sb/6/10/8#purport|SB 6.10.8]]
+* Caitanya in, [[sb/9/19/19#purport|SB 9.19.19]]
+* danger of women for one in, [[sb/6/18/41#purport|SB 6.18.41]]
+* defined, [[sb/9/19/2#purport|SB 9.19.2]]
+* failures in, [[sb/6/14/5#purport|SB 6.14.5]]
+* for first-class human beings, [[sb/6/10/8#purport|SB 6.10.8]]
+* in Kali-yuga forbidden, [[sb/9/20/24-26#purport|SB 9.20.24-26]], [[sb/9/22/25#purport|SB 9.22.25]]
+* in Kali-yuga, [[sb/3/24/35#purport|SB 3.24.35]]
+* necessity of, [[sb/3/25/5#purport|SB 3.25.5]], [[sb/3/25/22#purport|SB 3.25.22]], [[sb/3/30/14-14#purport|SB 3.30.14-14]]
+* perfectional stage of, [[sb/3/22/19#purport|SB 3.22.19]]
+* purpose of, [[sb/3/24/35#purport|SB 3.24.35]]
+* value of, not understood, [[sb/6/14/4#purport|SB 6.14.4]]
+* women &, [[sb/3/24/40#purport|SB 3.24.40]]

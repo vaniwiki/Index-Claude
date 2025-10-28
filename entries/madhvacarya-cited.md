@@ -1,0 +1,22 @@
+# Madhvācārya cited
+
+* Madhvācārya quoted 
+* on action, proper, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
+* on aṣṭāṅga-yoga, purpose of, [[sb/5/14/45#purport|SB 5.14.45]]
+* on Bhārata-varṣa’s residents, [[sb/5/6/13#purport|SB 5.6.13]]
+* on blasphemy, [[sb/7/1/26#purport|SB 7.1.26]]
+* on bodily conception of life, [[sb/5/10/10#purport|SB 5.10.10]]
+* on creation’s oneness & variety, [[sb/7/9/31#purport|SB 7.9.31]]
+* on demigods as subordinate to Kṛṣṇa, [[sb/6/4/46#purport|SB 6.4.46]]
+* on demigods, three kinds of, [[sb/7/4/13#purport|SB 7.4.13]]
+* on different theistic views, [[sb/6/4/34#purport|SB 6.4.34]]
+* on Kāmadeva (Pradyumna), [[sb/5/18/15#purport|SB 5.18.15]]
+* on Kṛṣṇa as cause, [[sb/6/3/12#purport|SB 6.3.12]]
+* on living entity, [[sb/7/7/25#purport|SB 7.7.25]]
+* on Lord as transcendental, [[sb/7/9/32#purport|SB 7.9.32]]
+* on Lord, worship to, [[sb/5/20/5#purport|SB 5.20.5]]
+* on material nature, [[sb/7/3/26-27#purport|SB 7.3.26-27]]
+* on meaningless verbage, [[sb/5/2/16#purport|SB 5.2.16]]
+* on Prahlāda’s good fortune, [[sb/7/9/26#purport|SB 7.9.26]]
+* on Vāmana, [[sb/5/17/1#purport|SB 5.17.1]]
+* on Viṣṇu as original cause, [[sb/5/12/10#purport|SB 5.12.10]]

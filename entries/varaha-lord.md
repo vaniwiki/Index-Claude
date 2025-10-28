@@ -1,0 +1,33 @@
+# Varāha, Lord
+
+[[cc/adi/10/49#purport|Ādi 10.49]], [[cc/adi/14/19#purport|Ādi 14.19]], [[cc/adi/2/67#purport|Ādi 2.67]], [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/7/19#translation|Ādi 7.19]]**, **[[cc/madhya/20/242#translation|Madhya 20.242]]**, [[cc/madhya/20/244#purport|Madhya 20.244]], **[[cc/madhya/20/298–99#translation|Madhya 20.298–99]]**, [[cc/madhya/6/99#purport|Madhya 6.99]]
+
+* advent of, [[sb/3/11/35#purport|SB 3.11.35]], [[sb/3/11/37#purport|SB 3.11.37]], [[sb/3/13/18-25#purport|SB 3.13.18-25]], [[sb/3/13/31#purport|SB 3.13.31]], [[sb/3/20/1#purport|SB 3.20.1]]
+* as ādi-sūkara, [[sb/3/19/31#purport|SB 3.19.31]]
+* as Kṛṣṇa’s expansion, [[sb/7/10/42#purport|SB 7.10.42]]
+* as original boar, [[sb/3/19/31#purport|SB 3.19.31]]
+* as transcendental hog, [[sb/3/13/28#purport|SB 3.13.28]]
+* as Vedas personified, [[sb/3/13/26#purport|SB 3.13.26]]
+*  [[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/18/65|Bg. 18.65]], [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/3/7#purport|SB 1.3.7]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/8/19#purport|SB 1.8.19]], [[sb/1/8/30#purport|SB 1.8.30]], [[sb/2/7/1#purport|SB 2.7.1]], [[sb/2/7/1#purport|SB 2.7.1]], [[sb/5/18/34#purport|SB 5.18.34]], [[sb/5/18/39#purport|SB 5.18.39]], [[sb/5/25/10#purport|SB 5.25.10]]
+* body of, [[sb/3/13/27-28#purport|SB 3.13.27-28]], [[sb/3/13/32-33#purport|SB 3.13.32-33]]
+* Brahmā advised, to kill Hiraṇyākṣa, [[sb/3/18/25-28#purport|SB 3.18.25-28]]
+* Brahmā praised, [[sb/3/18/8-8#purport|SB 3.18.8-8]]
+* Brahmā’s prayer accepted by, [[sb/3/19/1-1#purport|SB 3.19.1-1]]
+* demigods honored, [[sb/3/18/8-8#purport|SB 3.18.8-8]]
+* Earth rescued by, [[sb/1/3/7#purport|SB 1.3.7]], [[sb/3/13/27-34#purport|SB 3.13.27-34]]
+* Earth saved by, [[sb/3/18/2-2#purport|SB 3.18.2-2]], [[sb/3/18/6#purport|SB 3.18.6]], [[sb/3/18/7#purport|SB 3.18.7]], [[sb/3/18/8-8#purport|SB 3.18.8-8]], [[sb/3/18/9#purport|SB 3.18.9]], [[sb/3/18/20#purport|SB 3.18.20]]
+* existing eternally, [[sb/3/20/25#purport|SB 3.20.25]]
+* faith created by, [[sb/1/3/28#purport|SB 1.3.28]]
+* form of 
+* from Brahmā’s nostril, [[sb/3/19/2#purport|SB 3.19.2]], [[sb/3/24/6#purport|SB 3.24.6]]
+* hair of, fell at Barhiṣmatī, [[sb/3/22/29-30#purport|SB 3.22.29-30]], [[sb/3/22/29-30#purport|SB 3.22.29-30]]
+* hearing about, benefit of, [[sb/3/19/37-38#purport|SB 3.19.37-38]]
+* hearing about, value of, [[sb/3/13/48#purport|SB 3.13.48]]
+* Hiraṇyākṣa 
+* Hiraṇyākṣa killed by, [[sb/3/13/31-32#purport|SB 3.13.31-32]], [[sb/7/1/41#purport|SB 7.1.41]], [[sb/7/2/1#purport|SB 7.2.1]]
+* Jayadeva quoted on, [[sb/3/13/27#purport|SB 3.13.27]]
+* pure water from, [[sb/3/13/44#purport|SB 3.13.44]]
+* quoted on Hiraṇyākṣa, [[sb/3/18/10#purport|SB 3.18.10]]
+* sages glorifying, [[sb/3/13/33-46#purport|SB 3.13.33-46]]
+* Svāyambhuva Manu contemporary with, [[sb/3/21/3#purport|SB 3.21.3]]
+* two incarnations of, [[sb/3/14/2#purport|SB 3.14.2]]

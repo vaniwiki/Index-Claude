@@ -1,0 +1,15 @@
+# Payo-vrata sacrifice
+
+* as bona fide, [[sb/8/16/60#purport|SB 8.16.60]]
+* as sarva-yajña, [[sb/8/16/60#purport|SB 8.16.60]]
+* by Aditi, [[sb/8/17/1#purport|SB 8.17.1]], [[sb/8/17/2-3#purport|SB 8.17.2-3]], [[sb/8/17/18#purport|SB 8.17.18]]
+* celibacy in, [[sb/8/16/44-45#purport|SB 8.16.44-45]], [[sb/8/16/48#purport|SB 8.16.48]]
+* Deity worship in, [[sb/8/16/28#purport|SB 8.16.28]], [[sb/8/16/39#purport|SB 8.16.39]], [[sb/8/16/41-45#purport|SB 8.16.41-45]], [[sb/8/16/50#purport|SB 8.16.50]], [[sb/8/16/51-52#purport|SB 8.16.51-52]]
+* duration of, [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/16/48#purport|SB 8.16.48]], [[sb/8/16/57#purport|SB 8.16.57]], [[sb/8/16/60#purport|SB 8.16.60]]
+* instructions to Aditi for, [[sb/8/16/25-58#purport|SB 8.16.25-58]]
+* mantras for, [[sb/8/16/26-42#purport|SB 8.16.26-42]], [[sb/8/16/51-52#purport|SB 8.16.51-52]], [[sb/8/16/57#purport|SB 8.16.57]]
+* milk sustains, [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/16/46#purport|SB 8.16.46]]
+* prasāda distribution in, [[sb/8/16/41#purport|SB 8.16.41]], [[sb/8/16/44-45#purport|SB 8.16.44-45]], [[sb/8/16/54-56#purport|SB 8.16.54-56]]
+* spiritual master honored in, [[sb/8/16/53#purport|SB 8.16.53]], [[sb/8/16/55#purport|SB 8.16.55]]
+* superexcellence of, [[sb/8/16/58-60#purport|SB 8.16.58-60]], [[sb/8/16/61#purport|SB 8.16.61]]
+* time for, [[sb/8/16/25#purport|SB 8.16.25]], [[sb/8/16/60#purport|SB 8.16.60]]

@@ -1,0 +1,9 @@
+# Hari-bhakti-vilāsa
+
+[[cc/adi/10/105#purport|Ādi 10.105]], [[cc/adi/10/84#purport|Ādi 10.84]], [[cc/adi/12/27#purport|Ādi 12.27]], [[cc/adi/14/1#purport|Ādi 14.1]], [[cc/adi/17/203#purport|Ādi 17.203]], [[cc/adi/17/265#purport|Ādi 17.265]], [[cc/adi/17/266#purport|Ādi 17.266]], [[cc/adi/5/203#purport|Ādi 5.203]], [[cc/adi/7/47#purport|Ādi 7.47]], [[cc/adi/8/39#purport|Ādi 8.39]], [[cc/antya/16/25#purport|Antya 16.25]], **[[cc/antya/3/60#translation|Antya 3.60]]**, [[cc/antya/4/197#purport|Antya 4.197]], [[cc/antya/4/221#purport|Antya 4.221]], [[cc/antya/4/222#purport|Antya 4.222]], [[cc/antya/4/81#purport|Antya 4.81]], [[cc/antya/6/223#purport|Antya 6.223]], [[cc/madhya/10/139#purport|Madhya 10.139]], [[cc/madhya/12/127#purport|Madhya 12.127]], [[cc/madhya/15/261#purport|Madhya 15.261]], [[cc/madhya/18/115#purport|Madhya 18.115]], **[[cc/madhya/19/50#translation|Madhya 19.50]]**, **[[cc/madhya/20/58#translation|Madhya 20.58]]**, **[[cc/madhya/22/100–101#translation|Madhya 22.100–101]]**, [[cc/madhya/23/104#purport|Madhya 23.104]], [[cc/madhya/23/105#purport|Madhya 23.105]], [[cc/madhya/24/331#purport|Madhya 24.331]], [[cc/madhya/24/334#purport|Madhya 24.334]], [[cc/madhya/24/337#purport|Madhya 24.337]], [[cc/madhya/25/121#purport|Madhya 25.121]], [[cc/madhya/4/59#purport|Madhya 4.59]], [[cc/madhya/4/62#purport|Madhya 4.62]], [[cc/madhya/8/128#purport|Madhya 8.128]], [[cc/madhya/9/11#purport|Madhya 9.11]], [[cc/madhya/9/155#purport|Madhya 9.155]]
+
+* author of, [[sb/3/28/22#purport|SB 3.28.22]]
+* cited on ācārya’s body, [[sb/10/4/20#purport|SB 10.4.20]]
+*  [[cc/madhya/1/35#purport|Madhya 1.35]] (2 purport, [[cc/madhya/15/108#purport|Madhya 15.108]] (1–2 purport
+* quoted on faith in Kṛṣṇa, [[sb/10/7/31#purport|SB 10.7.31]]
+* quoted on initiation, [[sb/3/33/6#purport|SB 3.33.6]]

@@ -1,0 +1,43 @@
+# Birth(s)
+
+* as suffering, [[sb/1/13/19#purport|SB 1.13.19]]
+* brāhmaṇa’s qualifications beyond, [[sb/9/9/29#purport|SB 9.9.29]], [[sb/9/15/10#purport|SB 9.15.10]]
+* caste qualifications independent of, [[sb/9/2/17#purport|SB 9.2.17]], [[sb/9/2/23-24#purport|SB 9.2.23-24]]
+* conditioned souls bound to, [[sb/1/15/29#purport|SB 1.15.29]]
+* freedom from, [[sb/1/8/25#purport|SB 1.8.25]], [[sb/1/15/32#purport|SB 1.15.32]], [[sb/1/15/41#purport|SB 1.15.41]], [[sb/9/2/14#purport|SB 9.2.14]]
+* in devotee’s home, [[sb/9/13/9#purport|SB 9.13.9]]
+* knowing Lord stops, [[sb/9/9/42#purport|SB 9.9.42]], [[sb/9/10/15#purport|SB 9.10.15]]
+* Kṛṣṇa consciousness irrelevant to, [[sb/1/18/18#purport|SB 1.18.18]]
+* of Ambarīṣa, [[sb/9/4/13#purport|SB 9.4.13]]
+* of Asamañjasa, past & present, [[sb/9/8/15-16#purport|SB 9.8.15-16]]
+* of Aśmaka, [[sb/9/9/39#purport|SB 9.9.39]]
+* of Brahmā, [[sb/1/8/22#purport|SB 1.8.22]], [[sb/1/8/34#purport|SB 1.8.34]], [[sb/9/1/9#purport|SB 9.1.9]], [[sb/9/14/2#purport|SB 9.14.2]]
+* of higher planets’ rejects on earth, [[sb/9/20/39#purport|SB 9.20.39]]
+* of Ikṣvāku from Manu’s sneezing, [[sb/9/6/4#purport|SB 9.6.4]]
+* of Ilā, [[sb/9/1/16#purport|SB 9.1.16]]
+* of Jarāsandha, [[sb/9/22/8#purport|SB 9.22.8]]
+* of Kaśyapa, [[sb/9/1/10#purport|SB 9.1.10]]
+* of Kṛṣṇa. See: Kṛṣṇa, advent of 
+* of Lord. See: Supreme Lord, advent(s) of 
+* of Manu, [[sb/9/1/11-12#purport|SB 9.1.11-12]]
+* of Marīci, [[sb/9/1/10#purport|SB 9.1.10]]
+* of Nimi’s son, [[sb/9/13/12#purport|SB 9.13.12]], [[sb/9/13/13#purport|SB 9.13.13]]
+* of Parīkṣit, [[sb/1/12/12#purport|SB 1.12.12]]
+* of Sagara, [[sb/9/8/4#purport|SB 9.8.4]]
+* of Soma, [[sb/9/14/3-3#purport|SB 9.14.3-3]]
+* of Śukadeva, [[sb/9/21/25#purport|SB 9.21.25]]
+* of Vajranābha from sun-god, [[sb/9/12/2#purport|SB 9.12.2]]
+* of Vasiṣṭha again, [[sb/9/13/6#purport|SB 9.13.6]]
+* of Vivasvān, [[sb/9/1/10#purport|SB 9.1.10]]
+* of Yuvanāśva’s son, [[sb/9/6/30#purport|SB 9.6.30]]
+* purification at, [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/12/13#purport|SB 1.12.13]], [[sb/1/12/13#purport|SB 1.12.13]]
+* purification before, [[sb/1/12/12#purport|SB 1.12.12]]
+* repeated. See: Birth-death cycle; Transmigration of soul(s) 
+* ritualistic ceremonies at, [[sb/9/20/37#purport|SB 9.20.37]]
+* second, [[sb/1/4/25#purport|SB 1.4.25]]
+* social status not determined by, [[sb/9/20/1#purport|SB 9.20.1]], [[sb/9/21/21#purport|SB 9.21.21]]
+* symptoms more important than, in character judgment, [[sb/9/5/6#purport|SB 9.5.6]]
+* types of, three, [[sb/9/18/23#purport|SB 9.18.23]]
+* via past activity, [[sb/1/12/7#purport|SB 1.12.7]]
+
+*See also:* Transmigrations of soul

@@ -1,0 +1,17 @@
+# Kailāsa (abode of Śiva)
+
+* Alakā area of, [[sb/4/6/23#purport|SB 4.6.23]]
+* almost like Kṛṣṇa’s abode, [[sb/4/6/28#purport|SB 4.6.28]]
+* animals in, [[sb/4/6/19-21#purport|SB 4.6.19-21]]
+* banyan tree of, [[sb/4/6/31-33#purport|SB 4.6.31-33]]
+* beauty & opulence of, [[sb/4/6/9-31#purport|SB 4.6.9-31]]
+* birds in, [[sb/4/6/12#purport|SB 4.6.12]], [[sb/4/6/19-20#purport|SB 4.6.19-20]], [[sb/4/6/29#purport|SB 4.6.29]]
+* deer in, [[sb/4/6/19-21#purport|SB 4.6.19-21]]
+* desire trees in, [[sb/4/6/28#purport|SB 4.6.28]]
+* forest in, [[sb/4/6/28#purport|SB 4.6.28]]
+* Ganges in, [[sb/4/6/22#purport|SB 4.6.22]]
+* lotus flowers in, [[sb/4/6/23-23#purport|SB 4.6.23-23]], [[sb/4/6/29#purport|SB 4.6.29]]
+* near Kuvera’s abode, [[sb/4/6/28#purport|SB 4.6.28]]
+* residents of, [[sb/4/6/9#purport|SB 4.6.9]]
+* rivers in, [[sb/4/6/24#purport|SB 4.6.24]]
+* trees in, [[sb/4/6/13-18#purport|SB 4.6.13-18]]

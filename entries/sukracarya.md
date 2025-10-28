@@ -1,0 +1,31 @@
+# Śukrācārya
+
+[[cc/madhya/17/185#purport|Madhya 17.185]], [[sb/2/7/17#purport|SB 2.7.17]], [[sb/3/21/28#purport|SB 3.21.28]], [[sb/4/1/45#purport|SB 4.1.45]], [[sb/6/7/39#purport|SB 6.7.39]], [[sb/8/6/19#purport|SB 8.6.19]]
+
+* as atheists’ priest, [[sb/7/5/1#purport|SB 7.5.1]]
+* as Bhṛgu’s descendant, [[sb/8/15/3#purport|SB 8.15.3]]
+* as brāhmaṇa, [[sb/9/18/5-5#purport|SB 9.18.5-5]]
+* as Devayānī’s father, [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/22#purport|SB 9.18.22]], [[sb/9/18/24-27#purport|SB 9.18.24-27]]
+* as Hiraṇyakaśipu’s spiritual master, [[sb/7/5/25#purport|SB 7.5.25]], [[sb/7/5/28#purport|SB 7.5.28]]
+* as Kaca’s spiritual master, [[sb/9/18/22#purport|SB 9.18.22]]
+* as materialist, [[sb/8/20/2#purport|SB 8.20.2]]
+* as professional priest, [[sb/8/20/7#purport|SB 8.20.7]], [[sb/8/20/14#purport|SB 8.20.14]]
+* as smārta-brāhmaṇa, [[sb/8/19/33#purport|SB 8.19.33]], [[sb/8/23/16#purport|SB 8.23.16]]
+* Bali 
+* Bali’s sacrifices corrected by, [[sb/8/23/18#purport|SB 8.23.18]]
+* Bali’s soldiers rejuvenated by, [[sb/9/3/11#purport|SB 9.3.11]]
+* Bṛhaspati vs., [[sb/8/10/32-34#purport|SB 8.10.32-34]]
+* demons advised to fight by, [[sb/6/7/18#purport|SB 6.7.18]]
+* demons get strength from, [[sb/6/7/23#purport|SB 6.7.23]], [[sb/6/7/24#purport|SB 6.7.24]]
+* demons revived by, [[sb/8/11/47#purport|SB 8.11.47]]
+* Lord foiled, [[sb/8/10/56#purport|SB 8.10.56]]
+* misused mystic power, [[sb/9/19/10#purport|SB 9.19.10]]
+* name of, [[sb/7/5/1#purport|SB 7.5.1]], [[sb/7/5/31#purport|SB 7.5.31]]
+* Prahlāda enthroned by, [[sb/7/10/33#purport|SB 7.10.33]]
+* priestly profession condemned by, [[sb/9/18/25-25#purport|SB 9.18.25-25]]
+* quoted. See: Śukrācārya quoted 
+*  [[sb/1/9/8#purport|SB 1.9.8]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/1/14/42#purport|SB 1.14.42]], [[sb/5/1/34#purport|SB 5.1.34]], [[sb/5/5/18#purport|SB 5.5.18]]
+* sons of, [[sb/7/5/1#purport|SB 7.5.1]], [[sb/7/5/48#purport|SB 7.5.48]], [[sb/7/6/29-30#purport|SB 7.6.29-30]], [[sb/7/8/2#purport|SB 7.8.2]]
+* Vāmana’s purpose detected by, [[sb/8/19/29-35#purport|SB 8.19.29-35]]
+* Vṛṣaparvā &, [[sb/9/18/26-29#purport|SB 9.18.26-29]]
+* Yayāti &, [[sb/9/18/30#purport|SB 9.18.30]], [[sb/9/18/32#purport|SB 9.18.32]], [[sb/9/18/36#purport|SB 9.18.36]], [[sb/9/18/37#purport|SB 9.18.37]], [[sb/9/19/10#purport|SB 9.19.10]]

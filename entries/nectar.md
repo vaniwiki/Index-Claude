@@ -1,0 +1,21 @@
+# Nectar
+
+[[sb/1/3/16#purport|SB 1.3.16]]
+
+* as miracle potion, [[sb/8/9/21#purport|SB 8.9.21]], [[sb/8/9/25#purport|SB 8.9.25]]
+* demigods drank, [[sb/8/9/27#purport|SB 8.9.27]], [[sb/8/9/28#purport|SB 8.9.28]]
+* demigods enlivened by, [[sb/8/10/4#purport|SB 8.10.4]]
+* demons deprived of, [[sb/8/10/1#purport|SB 8.10.1]], [[sb/8/10/19-24#purport|SB 8.10.19-24]]
+* demons quarreled over, [[sb/8/8/38#purport|SB 8.8.38]], [[sb/8/8/39-40#purport|SB 8.8.39-40]], [[sb/8/8/39-40#purport|SB 8.8.39-40]], [[sb/8/9/1#purport|SB 8.9.1]], [[sb/8/9/6#purport|SB 8.9.6]]
+* demons stole, [[sb/8/8/35#purport|SB 8.8.35]], [[sb/8/8/36#purport|SB 8.8.36]]
+* Dhanvantari carried, [[sb/8/8/35#purport|SB 8.8.35]]
+* for immortality, [[sb/8/6/21#purport|SB 8.6.21]]
+* from milk ocean, [[sb/8/5/10#purport|SB 8.5.10]], [[sb/8/5/11-12#purport|SB 8.5.11-12]], [[sb/8/6/22-23#purport|SB 8.6.22-23]], [[sb/8/6/25#purport|SB 8.6.25]]
+* from poison, analogy of, [[sb/1/5/11#purport|SB 1.5.11]]
+* Lord fed, to demigods, [[sb/8/10/2#purport|SB 8.10.2]], [[sb/8/12/47#purport|SB 8.12.47]]
+* Mohinī cheated demons out of, [[sb/8/9/11#purport|SB 8.9.11]], [[sb/8/9/12#purport|SB 8.9.12]], [[sb/8/9/19#purport|SB 8.9.19]], [[sb/8/9/21#purport|SB 8.9.21]], [[sb/8/9/21-24#purport|SB 8.9.21-24]]
+* Mohinī gave, to demigods, [[sb/8/9/21-21#purport|SB 8.9.21-21]]
+* Rāhu immortalized by, [[sb/8/9/26-26#purport|SB 8.9.26-26]]
+* Rāhu sneaked, [[sb/8/9/24#purport|SB 8.9.24]]
+* Śrīmad-Bhāgavatam as, [[sb/2/8/27#purport|SB 2.8.27]]
+* Śukadeva’s speeches compared to, [[sb/2/8/26#purport|SB 2.8.26]]

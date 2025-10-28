@@ -1,0 +1,20 @@
+# Himalaya mountain(s)
+
+[[sb/4/20/14#purport|SB 4.20.14]], [[sb/9/16/21-22#purport|SB 9.16.21-22]]
+
+* as Bhārata-varṣa’s boundary, [[sb/5/4/9#purport|SB 5.4.9]]
+* as Jambūdvīpa’s boundary, [[sb/5/16/6#purport|SB 5.16.6]]
+* as shelter, [[sb/1/12/22#purport|SB 1.12.22]]
+* daughter of, [[sb/1/15/12#purport|SB 1.15.12]]
+* Gāndhārī died in, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* Ganges reaches, [[sb/5/17/4#purport|SB 5.17.4]]
+* gold in, [[sb/1/12/33#purport|SB 1.12.33]]
+* height of, [[sb/5/16/9#purport|SB 5.16.9]]
+* impersonalist sannyāsīs prefer, [[sb/1/13/30#purport|SB 1.13.30]]
+* Jayadratha in, [[sb/1/15/163#purport|SB 1.15.163]]
+* opulence of, [[sb/1/12/22#purport|SB 1.12.22]]
+* Parīkṣit compared to, [[sb/1/12/22#purport|SB 1.12.22]]
+* Pṛthu compared to, [[sb/4/22/59#purport|SB 4.22.59]]
+* sages in, [[sb/4/24/14#purport|SB 4.24.14]]
+* Śivaloka near, [[sb/4/24/22#purport|SB 4.24.22]]
+* Yudhiṣṭhira retired to, [[sb/1/12/13#purport|SB 1.12.13]]

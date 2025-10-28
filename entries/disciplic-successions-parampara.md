@@ -1,0 +1,18 @@
+# Disciplic succession(s) (paramparā)
+
+* authority of, as perfect, [[sb/2/8/25#purport|SB 2.8.25]]
+* Bhāgavatam via, [[sb/2/7/51#purport|SB 2.7.51]]
+* devotional service via, [[sb/2/3/23#purport|SB 2.3.23]]
+* from Brahmā, [[sb/2/4/25#purport|SB 2.4.25]], [[sb/2/6/34#purport|SB 2.6.34]], [[sb/2/7/51#purport|SB 2.7.51]], [[sb/2/8/26#purport|SB 2.8.26]], [[sb/2/9/6-7#purport|SB 2.9.6-7]], [[sb/2/9/37#purport|SB 2.9.37]]
+* history of, [[sb/2/2/27#purport|SB 2.2.27]]
+* knowledge (spiritual) via, [[sb/2/8/1#purport|SB 2.8.1]], [[sb/2/8/25#purport|SB 2.8.25]], [[sb/2/9/37#purport|SB 2.9.37]]
+* qualification of, [[sb/2/8/1#purport|SB 2.8.1]], [[sb/2/8/25#purport|SB 2.8.25]]
+* questions & answers in, [[sb/2/5/1#purport|SB 2.5.1]]
+* quoting authorities, [[sb/2/10/51#purport|SB 2.10.51]]
+* self-realization via, [[sb/2/9/36#purport|SB 2.9.36]]
+* spiritual knowledge via, [[sb/2/1/10#purport|SB 2.1.10]], [[sb/2/4/8#purport|SB 2.4.8]]
+* spiritual master in, [[sb/2/9/37#purport|SB 2.9.37]]
+* teaches by example, [[sb/2/9/40#purport|SB 2.9.40]]
+* truth descends in, [[sb/2/2/32#purport|SB 2.2.32]], [[sb/2/4/23#purport|SB 2.4.23]]
+* Vaiṣṇava, agreement among, [[sb/2/4/21#purport|SB 2.4.21]]
+* Vedic sound descends via, [[sb/2/4/22#purport|SB 2.4.22]]

@@ -1,0 +1,4 @@
+# Amṛta-pravāha-bhāṣya
+
+[[cc/adi/12/73#purport|Ādi 12.73]], [[cc/adi/14/75#purport|Ādi 14.75]], [[cc/adi/17/229#purport|Ādi 17.229]], [[cc/antya/13/39#purport|Antya 13.39]], [[cc/antya/2/31#purport|Antya 2.31]], [[cc/antya/5/20#purport|Antya 5.20]], [[cc/antya/5/85#purport|Antya 5.85]], [[cc/antya/6/198#purport|Antya 6.198]], [[cc/antya/6/23#purport|Antya 6.23]], [[cc/antya/6/237#purport|Antya 6.237]], [[cc/madhya/19/180#purport|Madhya 19.180]], [[cc/madhya/19/228#purport|Madhya 19.228]], [[cc/madhya/25/121#purport|Madhya 25.121]], [[cc/madhya/25/56#purport|Madhya 25.56]], [[cc/madhya/6/144#purport|Madhya 6.144]], [[cc/madhya/7/62#purport|Madhya 7.62]], [[cc/madhya/7/99#purport|Madhya 7.99]], [[cc/madhya/8/128#purport|Madhya 8.128]], [[cc/madhya/8/192#purport|Madhya 8.192]], [[cc/madhya/8/210#purport|Madhya 8.210]], [[cc/madhya/8/58#purport|Madhya 8.58]], [[cc/madhya/8/68#purport|Madhya 8.68]]
+

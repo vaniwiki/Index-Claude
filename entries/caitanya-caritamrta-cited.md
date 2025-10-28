@@ -1,0 +1,43 @@
+# Caitanya-caritāmṛta cited
+
+[[cc/adi/13/1#purport|Ādi 13.1]]
+
+* Caitanya-caritāmṛta quoted , , 
+* on Acyutānanda, [[cc/adi/12/17#purport|Ādi 12.17]]
+* on Ananta Śeṣa, [[sb/5/17/21#purport|SB 5.17.21]]
+* on associating with saintly person, [[sb/3/23/54#purport|SB 3.23.54]]
+* on association of sādhu, [[sb/5/13/25#purport|SB 5.13.25]]
+* on association with devotees & materialists, [[sb/5/5/2#purport|SB 5.5.2]]
+* on Brahmā subordinate to Kṛṣṇa, [[sb/7/3/28#purport|SB 7.3.28]]
+* on Brahman effulgence, [[sb/5/12/11#purport|SB 5.12.11]]
+* on Caitanya, Rāmānanda Rāya, & liberation, [[sb/4/24/53#purport|SB 4.24.53]]
+* on chanting of Lord’s holy names, [[sb/5/24/20#purport|SB 5.24.20]]
+* on curses & benedictions, [[sb/4/2/27#purport|SB 4.2.27]]
+* on desire, material vs. spiritual, [[sb/2/9/23#purport|SB 2.9.23]]
+* on devotee’s activities, [[cc/madhya/15/120#purport|Madhya 15.120]]
+* on devotee’s dedication, [[cc/madhya/15/154#purport|Madhya 15.154]]
+* on devotee’s relationship with Kṛṣṇa, [[sb/7/10/40#purport|SB 7.10.40]]
+* on devotees 
+* on devotional service in opulence or love, [[sb/10/3/31#purport|SB 10.3.31]]
+* on devotional service, attainment of, [[sb/5/5/6#purport|SB 5.5.6]]
+* on gopīs, [[sb/5/18/23#purport|SB 5.18.23]]
+* on guru, [[sb/8/16/23#purport|SB 8.16.23]]
+* on Kali-yuga, incarnation for, [[sb/5/18/35#purport|SB 5.18.35]]
+* on Kṛṣṇa & Viṣṇu, N102 
+* on Kṛṣṇa as master, [[sb/5/4/17#purport|SB 5.4.17]], [[sb/5/10/11#purport|SB 5.10.11]], [[sb/5/18/19#purport|SB 5.18.19]]
+* on Kṛṣṇa conscious person as beyond rituals, [[sb/3/20/43#purport|SB 3.20.43]]
+* on Kṛṣṇa conscious song, [[sb/8/5/25#purport|SB 8.5.25]]
+* on Kṛṣṇa’s advent, [[sb/10/1/24#purport|SB 10.1.24]]
+* on Kṛṣṇa’s greatness, [[sb/2/4/6#purport|SB 2.4.6]]
+* on Lord & devotee, [[sb/4/20/30#purport|SB 4.20.30]], [[sb/5/14/10#purport|SB 5.14.10]]
+* on Lord & pure devotees, [[sb/4/12/42#purport|SB 4.12.42]]
+* on material world, happiness in, [[sb/5/14/38#purport|SB 5.14.38]]
+* on mercy of Lord & guru, [[cc/madhya/13/18#purport|Madhya 13.18]]
+* on offenses to devotees, [[cc/adi/17/10#purport|Ādi 17.10]]
+* on peacefulness, [[sb/5/5/35#purport|SB 5.5.35]]
+* on preaching, [[cc/adi/10/59#purport|Ādi 10.59]], [[cc/adi/12/73#purport|Ādi 12.73]]
+* on Rāḍhārāṇī, [[sb/2/6/36#purport|SB 2.6.36]]
+* on saṅkīrtana, [[sb/5/19/24#purport|SB 5.19.24]]
+* on Vedic literatures, [[sb/2/3/1#purport|SB 2.3.1]]
+
+*See also:* [[c#Caitanya-caritāmṛta quoted|Caitanya-caritāmṛta quoted]]

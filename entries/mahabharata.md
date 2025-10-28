@@ -1,0 +1,47 @@
+# Mahābhārata
+
+**[[cc/madhya/19/96#translation|Madhya 19.96]]**, [[cc/madhya/9/245#purport|Madhya 9.245]], [[sb/4/1/3#purport|SB 4.1.3]]
+
+* as compiled for common people, [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/4/28-29#purport|SB 1.4.28-29]]
+* as fifth Veda, [[cc/madhya/20/353#purport|Madhya 20.353]]
+* as more essential than Vedas, [[sb/1/4/28-29#purport|SB 1.4.28-29]]
+* as source of knowledge, [[cc/adi/7/106#purport|Ādi 7.106]], [[cc/madhya/6/137#purport|Madhya 6.137]]
+* as transcendental literature, [[sb/1/1/19#purport|SB 1.1.19]], [[sb/1/7/12#purport|SB 1.7.12]]
+* as Vedas simplified, SB Intro 22, [[sb/1/4/3#purport|SB 1.4.3]], [[sb/1/4/28-29#purport|SB 1.4.28-29]]
+* as Vedic literature, [[sb/1/1/6#purport|SB 1.1.6]], [[sb/1/3/21#purport|SB 1.3.21]], [[sb/1/4/19#purport|SB 1.4.19]]
+* author of. See: Vyāsadeva 
+* authority of, [[cc/adi/5/14#purport|Ādi 5.14]]
+*  [[bg/25|Bg. 25]], [[bg/1/1|Bg. 1.1]], [[bg/4/8|Bg. 4.8]], [[sb/3/5/10#purport|SB 3.5.10]], [[sb/3/5/12#purport|SB 3.5.12]], [[sb/3/7/29#purport|SB 3.7.29]]
+* Bhagavad-gītā as essence of, [[sb/1/4/25#purport|SB 1.4.25]], [[sb/1/5/15#purport|SB 1.5.15]]
+* Bhagavad-gītā within, [[sb/1/15/27#purport|SB 1.15.27]]
+* Caitanya confirmed as Kali-yuga incarnation in, [[sb/5/18/35#purport|SB 5.18.35]]
+* caste system explained in, [[sb/1/9/26#purport|SB 1.9.26]]
+* chronology in, [[sb/1/9/28#purport|SB 1.9.28]]
+* chronology of compilation of, [[sb/1/7/8#purport|SB 1.7.8]]
+* cited on Gāndhārī & Dhṛtarāṣṭra, [[sb/3/23/5#purport|SB 3.23.5]]
+* cited on Lord as sacrifice, [[sb/5/7/6#purport|SB 5.7.6]]
+* criticized by Nārada, [[sb/1/5/15#purport|SB 1.5.15]]
+* dated, [[sb/1/10/16#purport|SB 1.10.16]]
+* for Kali-yuga, [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/2/7/36#purport|SB 2.7.36]]
+* for less intelligent, [[sb/1/15/27#purport|SB 1.15.27]]
+* Gaṇeśa recorded, [[sb/1/9/6-7#purport|SB 1.9.6-7]]
+* hearing from, as transcendental life, [[sb/1/7/12#purport|SB 1.7.12]]
+* history in, compared with modern version, [[sb/1/3/41#purport|SB 1.3.41]]
+* in Śrīmad-Bhāgavatam, **[[cc/madhya/25/143–44#translation|Madhya 25.143–44]]**
+* India’s history in, [[sb/2/8/21#purport|SB 2.8.21]]
+* Kṛṣṇa spiritualizes, [[sb/1/7/12#purport|SB 1.7.12]]
+* Kṛṣṇa’s history in, [[sb/10/2/36#purport|SB 10.2.36]]
+* Lord explained in, [[cc/adi/7/131#purport|Ādi 7.131]]
+* men misdirected by, [[sb/1/5/15#purport|SB 1.5.15]]
+* of Vyāsadeva, [[sb/6/8/19#purport|SB 6.8.19]]
+* purpose of, [[sb/1/4/25#purport|SB 1.4.25]], [[sb/2/3/14#purport|SB 2.3.14]]
+* quoted on *Bhagavad-gītā’s *history, [[bg/4/1|Bg. 4.1]] (4)
+* quoted on munis,  2.56
+* quoted on Vidura warning Pāṇḍavas, [[sb/1/13/8#purport|SB 1.13.8]]
+* reason for compilation of, [[cc/madhya/6/147#purport|Madhya 6.147]]
+* sacred, [[sb/3/19/34#purport|SB 3.19.34]]
+* spiritual master must know, [[sb/1/1/6#purport|SB 1.1.6]]
+* Vidura in, [[sb/1/13/1#purport|SB 1.13.1]]
+* Vyāsadeva compiled, [[sb/1/9/6-7#purport|SB 1.9.6-7]]
+
+*See also:* [[m#Mahābhārata cited|Mahābhārata cited]]

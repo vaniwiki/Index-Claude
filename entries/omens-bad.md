@@ -1,0 +1,18 @@
+# Omen(s), bad
+
+* anger as, [[sb/1/14/5#purport|SB 1.14.5]]
+* cheating as, [[sb/1/14/4#purport|SB 1.14.4]]
+* for Kali-yuga, [[sb/1/14/5#purport|SB 1.14.5]]
+* for Lord’s disappearance, [[sb/1/14/2-5#purport|SB 1.14.2-5]], [[sb/1/14/10-24#purport|SB 1.14.10-24]], [[sb/1/14/39#purport|SB 1.14.39]], [[sb/1/14/44#purport|SB 1.14.44]]
+* in animals, [[sb/1/14/12-14#purport|SB 1.14.12-14]], [[sb/1/14/19#purport|SB 1.14.19]]
+* in body, [[sb/1/14/11#purport|SB 1.14.11]]
+* in Deities, [[sb/1/14/20#purport|SB 1.14.20]]
+* in family life, [[sb/1/14/4#purport|SB 1.14.4]]
+* in marriage, [[sb/1/14/4#purport|SB 1.14.4]]
+* in nature, [[sb/1/14/15-20#purport|SB 1.14.15-20]]
+* in occupational duty, [[sb/1/14/3#purport|SB 1.14.3]]
+* in seasons, [[sb/1/14/3#purport|SB 1.14.3]]
+* in society, [[sb/1/14/3-5#purport|SB 1.14.3-5]], [[sb/1/14/20#purport|SB 1.14.20]]
+* in time, [[sb/1/14/3#purport|SB 1.14.3]]
+* irreligion as, [[sb/1/14/5#purport|SB 1.14.5]]
+* Yudhiṣṭhira saw, [[sb/1/14/2-5#purport|SB 1.14.2-5]], [[sb/1/14/10-24#purport|SB 1.14.10-24]], [[sb/1/14/39#purport|SB 1.14.39]], [[sb/1/14/44#purport|SB 1.14.44]]

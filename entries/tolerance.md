@@ -1,0 +1,31 @@
+# Tolerance
+
+**[[cc/adi/17/27–29#translation|Ādi 17.27–29]]**, **[[cc/adi/17/31#translation|Ādi 17.31]]**, [[cc/adi/17/44#purport|Ādi 17.44]], [[cc/adi/7/68#purport|Ādi 7.68]], [[cc/adi/8/16#purport|Ādi 8.16]], **[[cc/antya/20/21–24#translation|Antya 20.21–24]]**, [[cc/antya/3/137#purport|Antya 3.137]], [[cc/antya/3/207#purport|Antya 3.207]], [[cc/antya/3/213#purport|Antya 3.213]], [[cc/antya/4/71#purport|Antya 4.71]]
+
+* about material duality, [[sb/9/13/27#purport|SB 9.13.27]]
+* Arjuna requests from Kṛṣṇa, [[bg/11/44|Bg. 11.44]]
+* as brahminical quality, [[bg/18/42|Bg. 18.42]]
+*  [[bg/2/14–15|Bg. 2.14–15]], [[bg/8/5|Bg. 8.5]], [[bg/10/4|Bg. 10.4]] (3), [[bg/11/44|Bg. 11.44]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (11), [[bg/16/1|Bg. 16.1]] (15)
+* by brāhmaṇas, [[sb/5/5/24#purport|SB 5.5.24]]
+* by Jaḍa Bharata’s father, [[sb/5/9/1-2#purport|SB 5.9.1-2]]
+* by Kṛṣṇa consciousness, [[sb/4/7/29#purport|SB 4.7.29]]
+* by Ṛṣabhadeva, [[sb/5/5/30#purport|SB 5.5.30]]
+* by superiors, [[bg/11/44|Bg. 11.44]]
+* defined, [[bg/13/8|Bg. 13.8]] (4)
+* devotee should practice, [[sb/4/22/24#purport|SB 4.22.24]]
+* exemplary persons in, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]]
+* in chanting Lord’s name, [[sb/4/6/47#purport|SB 4.6.47]]
+* in devotee, [[sb/8/11/8#purport|SB 8.11.8]], [[sb/9/4/47#purport|SB 9.4.47]]
+* in devotees, [[sb/6/17/17#purport|SB 6.17.17]], [[sb/6/17/27#purport|SB 6.17.27]], [[sb/6/17/29#purport|SB 6.17.29]]
+* in dhīras, [[sb/6/1/13-14#purport|SB 6.1.13-14]]
+* in kṣatriya, [[sb/8/11/7#purport|SB 8.11.7]]
+* in Lord’s devotees, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]], [[sb/4/6/49#purport|SB 4.6.49]]
+* in Parīkṣit, [[sb/4/6/48#purport|SB 4.6.48]]
+* in preaching & chanting, [[sb/6/4/5#purport|SB 6.4.5]], [[sb/6/5/44-44#purport|SB 6.5.44-44]]
+* in pure devotees, [[bg/12/13–15|Bg. 12.13–15]]
+* Nārada’s, of Dakṣa, [[sb/6/5/44-44#purport|SB 6.5.44-44]]
+* of all as Lord’s will, [[sb/4/8/33#purport|SB 4.8.33]]
+* of bodily happiness & distress, [[sb/4/20/11#purport|SB 4.20.11]]
+* of happiness & distress, [[sb/4/8/33#purport|SB 4.8.33]]
+* of relative’s insults, [[sb/4/3/19#purport|SB 4.3.19]]
+* on transcendental platform, [[sb/4/8/28#purport|SB 4.8.28]]

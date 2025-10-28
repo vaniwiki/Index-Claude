@@ -1,0 +1,26 @@
+# Bliss, transcendental
+
+* Brahmā in, [[sb/10/13/56#purport|SB 10.13.56]]
+* brahmajyoti lacks, [[sb/4/23/15#purport|SB 4.23.15]]
+* by pleasing Lord, [[sb/4/11/14#purport|SB 4.11.14]]
+* devotees in, [[sb/10/7/29#purport|SB 10.7.29]], [[sb/10/8/51#purport|SB 10.8.51]]
+* enjoyed by devotee, [[sb/6/9/39#purport|SB 6.9.39]]
+* in hearing Lord’s pastimes, [[sb/4/7/35-35#purport|SB 4.7.35-35]]
+* in Kṛṣṇa, [[sb/6/16/19-20#purport|SB 6.16.19-20]]
+* in self-realiātion & devotional service compared, [[sb/4/20/29#purport|SB 4.20.29]]
+* Kṛṣṇa bestows, [[sb/10/8/15#purport|SB 10.8.15]], [[sb/10/8/16#purport|SB 10.8.16]]
+* Kṛṣṇa in, [[sb/10/7/9#purport|SB 10.7.9]], [[sb/10/7/20#purport|SB 10.7.20]], [[sb/10/9/20#purport|SB 10.9.20]]
+* nondual nature of, [[sb/6/9/36#purport|SB 6.9.36]]
+* on Brahman platform, [[sb/4/16/25#purport|SB 4.16.25]]
+* personal, compared with impersonal, [[sb/4/9/10-10#purport|SB 4.9.10-10]]
+* process for, [[sb/4/23/7#purport|SB 4.23.7]]
+* seeing Kṛṣṇa as, [[sb/10/13/8#purport|SB 10.13.8]]
+* spiritual life as, [[sb/4/13/8-9#purport|SB 4.13.8-9]]
+* spiritual pain as, [[sb/4/3/15#purport|SB 4.3.15]]
+* Utkala in, [[sb/4/13/8-9#purport|SB 4.13.8-9]]
+* variety in, [[sb/4/24/23#purport|SB 4.24.23]]
+* via chanting Lord’s names, N105 
+* via devotional service, [[sb/4/24/52#purport|SB 4.24.52]]
+* via knowing Lord’s pastimes, [[sb/4/9/16#purport|SB 4.9.16]]
+
+*See also:* [[e#Ecstasy|Ecstasy]]; [[e#Enjoyment|Enjoyment]]; [[h#Happiness|Happiness]]; [[p#Pleasure|Pleasure]]

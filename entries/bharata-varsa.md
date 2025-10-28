@@ -1,0 +1,30 @@
+# Bhārata-varṣa
+
+[[cc/antya/2/10#purport|Antya 2.10]], [[bg/6/43|Bg. 6.43]], [[cc/madhya/20/218#purport|Madhya 20.218]], [[sb/1/16/12#purport|SB 1.16.12]], [[sb/3/18/19#purport|SB 3.18.19]]
+
+* advantages for spiritual life in, [[sb/5/19/21#purport|SB 5.19.21]]
+* as field of fruitive activity, [[sb/5/17/11#purport|SB 5.17.11]]
+* birth in, [[sb/5/19/19#purport|SB 5.19.19]]
+* boundaries of modern, [[sb/5/4/9#purport|SB 5.4.9]]
+* Brahmaloka compared with, [[sb/5/19/23#purport|SB 5.19.23]]
+* Caitanya appeared in, [[sb/5/19/24#purport|SB 5.19.24]]
+* demigod worship in, [[sb/5/19/26#purport|SB 5.19.26]]
+* duty of persons born in, [[sb/5/19/21#purport|SB 5.19.21]], [[sb/5/19/25#purport|SB 5.19.25]], [[sb/5/19/28#purport|SB 5.19.28]]
+* Earth as, [[sb/1/12/20#purport|SB 1.12.20]]
+* Earth planet known as, due to Bharata’s reign, [[sb/5/7/3#purport|SB 5.7.3]]
+* Ganges reaches, [[sb/5/17/9#purport|SB 5.17.9]]
+* heavenly region in, [[sb/5/17/11#purport|SB 5.17.11]]
+* Himālaya Mountain boundary for, [[sb/5/16/9#purport|SB 5.16.9]]
+* holy places in, [[sb/5/19/25#purport|SB 5.19.25]]
+* Lord descends to, [[sb/5/19/28#purport|SB 5.19.28]]
+* mountains in, [[sb/5/19/16#purport|SB 5.19.16]]
+* Nara-Nārāyaṇa appears in, [[sb/5/19/9#purport|SB 5.19.9]]
+* Nara-Nārāyaṇa served by residents of, [[sb/5/19/10#purport|SB 5.19.10]]
+* opportunity for devotional service in, [[sb/5/19/25#purport|SB 5.19.25]]
+* piety of, [[sb/5/6/13#purport|SB 5.6.13]]
+* preaching by residents of, [[sb/5/6/13#purport|SB 5.6.13]]
+* residents of 
+* rivers in, [[sb/5/19/17-18#purport|SB 5.19.17-18]]
+* varṇāśrama-dharma in, [[sb/5/19/19#purport|SB 5.19.19]]
+
+*See also:* [[i#India|India]]; [[e#Earth planet|Earth planet]]

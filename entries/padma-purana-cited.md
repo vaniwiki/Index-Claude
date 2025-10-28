@@ -1,0 +1,16 @@
+# Padma Purāṇa cited
+
+* on bathing, [[cc/madhya/8/55#purport|Madhya 8.55]]
+* on catur-vyūha, [[cc/adi/5/40#purport|Ādi 5.40]]
+* on dark universes, [[sb/2/9/34#purport|SB 2.9.34]]
+* on Deity form of Lord, [[cc/adi/5/226#purport|Ādi 5.226]], [[cc/madhya/20/217#purport|Madhya 20.217]]
+* on goddess of fortune, [[cc/adi/5/223#purport|Ādi 5.223]]
+* on Kapila, [[cc/adi/6/14–15#purport|Ādi 6.14–15]]
+* on Lord’s abode, [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/16#purport|SB 2.9.16]]
+* on offenses to holy name, [[sb/2/1/11#purport|SB 2.1.11]]
+* on Rāmacandra & brothers, [[cc/adi/5/153#purport|Ādi 5.153]]
+* on Rāmacandra, [[sb/5/19/2#purport|SB 5.19.2]]
+* on sinful reactions, [[cc/madhya/17/95#purport|Madhya 17.95]]
+* on Śiva as Śaṅkarācārya, [[cc/adi/7/157#purport|Ādi 7.157]]
+* on spiritual master, qualification of, [[sb/5/4/7#purport|SB 5.4.7]], [[sb/5/17/11#purport|SB 5.17.11]]
+* on wife of leper brāhmaṇa, [[cc/antya/20/57#purport|Antya 20.57]]

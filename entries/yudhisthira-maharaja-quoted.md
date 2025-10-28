@@ -1,0 +1,15 @@
+# Yudhiṣṭhira Mahārāja quoted
+
+* on Arjuna, [[sb/1/14/6-7#purport|SB 1.14.6-7]]
+* on Dantavakra & Śiśupāla, [[sb/7/1/19-20#purport|SB 7.1.19-20]]
+* on Hiraṇyakaśipu & Prahlāda, [[sb/7/1/48#purport|SB 7.1.48]]
+* on Lord, [[sb/1/14/8#purport|SB 1.14.8]], [[sb/1/14/34#purport|SB 1.14.34]]
+* on Maya Dānava, Śiva, & Kṛṣṇa, [[sb/7/10/52#purport|SB 7.10.52]]
+* on most wonderful thing in world, [[sb/7/2/57#purport|SB 7.2.57]]
+* on Nārada, [[sb/1/13/40#purport|SB 1.13.40]], [[sb/7/11/3#purport|SB 7.11.3]], [[sb/7/11/4#purport|SB 7.11.4]]
+* on omens for Lord’s disappearance, [[sb/1/14/2-8#purport|SB 1.14.2-8]], [[sb/1/14/10-21#purport|SB 1.14.10-21]], [[sb/1/14/39#purport|SB 1.14.39]], [[sb/1/14/44#purport|SB 1.14.44]]
+* on Parīkṣit, [[sb/1/12/18#purport|SB 1.12.18]]
+* on relatives’ whereabouts, [[sb/1/13/32-34#purport|SB 1.13.32-34]], [[sb/1/13/39#purport|SB 1.13.39]]
+* on Śiśupāla, [[sb/7/1/16-17#purport|SB 7.1.16-17]]
+* on spiritual world’s inhabitants, [[sb/7/1/34-35#purport|SB 7.1.34-35]]
+* on Vidura, [[sb/1/13/8-11#purport|SB 1.13.8-11]]

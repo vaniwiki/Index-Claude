@@ -1,0 +1,35 @@
+# Ṛṣabhadeva quoted
+
+* on austerity, [[sb/7/8/43#purport|SB 7.8.43]], [[sb/7/14/1#purport|SB 7.14.1]]
+* on Bharata, [[sb/5/5/20#purport|SB 5.5.20]]
+* on brāhmaṇas, [[sb/5/5/21-22#purport|SB 5.5.21-22]], [[sb/5/5/23-25#purport|SB 5.5.23-25]]
+* on demigod, duty of, [[sb/5/5/18#purport|SB 5.5.18]]
+* on devotional service, practice of, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
+* on duality, material, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
+* on duty of superiors, [[sb/5/5/15#purport|SB 5.5.15]], [[sb/5/5/18#purport|SB 5.5.18]]
+* on envy, [[sb/5/5/26#purport|SB 5.5.26]]
+* on father, duty of, [[sb/5/5/15#purport|SB 5.5.15]], [[sb/5/5/18#purport|SB 5.5.18]]
+* on fruitive activity, [[sb/5/5/5#purport|SB 5.5.5]]
+* on Himself 
+* on human life, purpose for, [[sb/5/5/1#purport|SB 5.5.1]]
+* on ignorance by living entity, [[sb/5/5/6#purport|SB 5.5.6]]
+* on karma, [[sb/5/5/5#purport|SB 5.5.5]]
+* on king, duty of, [[sb/5/5/15#purport|SB 5.5.15]], [[sb/5/5/18#purport|SB 5.5.18]]
+* on liberation 
+* on Lord’s mercy, [[sb/5/5/15#purport|SB 5.5.15]]
+* on mahātmās, [[sb/5/5/2#purport|SB 5.5.2]]
+* on male-female attraction, [[sb/5/5/8#purport|SB 5.5.8]]
+* on material body, acceptance of, [[sb/5/5/4-5#purport|SB 5.5.4-5]], [[sb/5/5/6#purport|SB 5.5.6]]
+* on material existence, basic principle of, [[sb/5/5/8#purport|SB 5.5.8]]
+* on material forms, gradations of, [[sb/5/5/21-22#purport|SB 5.5.21-22]]
+* on material life as misery, [[sb/7/7/27#purport|SB 7.7.27]]
+* on materialists 
+* on mother, duty of, [[sb/5/5/18#purport|SB 5.5.18]]
+* on sense gratification, [[sb/5/5/4#purport|SB 5.5.4]], [[sb/5/5/7#purport|SB 5.5.7]]
+* on senses, purpose of, [[sb/5/5/27#purport|SB 5.5.27]]
+* on serving devotees, [[sb/7/5/30#purport|SB 7.5.30]]
+* on sex, [[sb/5/5/7#purport|SB 5.5.7]]
+* on spiritual aspirants, [[sb/5/5/3#purport|SB 5.5.3]]
+* on spiritual master 
+* on superiors instructing dependents, [[sb/5/5/15#purport|SB 5.5.15]], [[sb/5/5/18#purport|SB 5.5.18]]
+* on Vedas, [[sb/5/5/24#purport|SB 5.5.24]]

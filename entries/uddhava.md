@@ -1,0 +1,23 @@
+# Uddhava
+
+**[[cc/adi/13/41#translation|Ādi 13.41]]**, [[cc/adi/17/250#purport|Ādi 17.250]], **[[cc/adi/4/163#translation|Ādi 4.163]]**, [[cc/adi/6/61#purport|Ādi 6.61]], **[[cc/adi/6/65–66#translation|Ādi 6.65–66]]**, **[[cc/adi/6/68#translation|Ādi 6.68]]**, [[cc/adi/9/13–15#purport|Ādi 9.13–15]], **[[cc/antya/14/13–14#translation|Antya 14.13–14]]**, [[cc/antya/14/53#purport|Antya 14.53]], [[cc/antya/19/107#purport|Antya 19.107]], **[[cc/antya/7/45–47#translation|Antya 7.45–47]]**, [[cc/madhya/1/44#purport|Madhya 1.44]], **[[cc/madhya/1/87#translation|Madhya 1.87]]**, **[[cc/madhya/13/139#translation|Madhya 13.139]]**, [[cc/madhya/15/237#purport|Madhya 15.237]], [[cc/madhya/19/214#purport|Madhya 19.214]], **[[cc/madhya/2/4#translation|Madhya 2.4]]**, [[cc/madhya/2/78#purport|Madhya 2.78]], [[cc/madhya/20/147–48#purport|Madhya 20.147–48]], [[cc/madhya/21/100#purport|Madhya 21.100]], [[cc/madhya/22/103#purport|Madhya 22.103]], [[cc/madhya/22/146#purport|Madhya 22.146]], [[cc/madhya/22/48#purport|Madhya 22.48]], [[cc/madhya/22/50#purport|Madhya 22.50]], **[[cc/madhya/22/97–98#translation|Madhya 22.97–98]]**, **[[cc/madhya/23/8#translation|Madhya 23.8]]**, [[cc/madhya/25/37#purport|Madhya 25.37]], [[cc/madhya/4/197#purport|Madhya 4.197]], [[cc/madhya/8/216#purport|Madhya 8.216]], [[cc/madhya/8/246#purport|Madhya 8.246]], [[cc/madhya/8/80#purport|Madhya 8.80]], [[sb/10/3/46#purport|SB 10.3.46]], [[sb/4/7/60#purport|SB 4.7.60]]
+
+* as faithful, [[sb/3/4/28#purport|SB 3.4.28]]
+* as Lord’s representative, [[sb/3/4/30#purport|SB 3.4.30]]
+* as pure devotee, [[sb/3/2/1-5#purport|SB 3.2.1-5]], [[sb/3/4/10#purport|SB 3.4.10]], [[sb/3/4/15#purport|SB 3.4.15]]
+* beyond modes of nature, [[sb/3/4/31#purport|SB 3.4.31]]
+* cited on Pūtanā, [[sb/10/6/37-38#purport|SB 10.6.37-38]]
+* doubts of, [[sb/3/4/16#purport|SB 3.4.16]], [[sb/3/4/17#purport|SB 3.4.17]]
+* ecstasy of, [[sb/3/2/4-5#purport|SB 3.2.4-5]], [[sb/3/4/14#purport|SB 3.4.14]]
+* expanded as Vasu, [[sb/3/4/11#purport|SB 3.4.11]]
+* forgot material world, [[sb/3/2/6#purport|SB 3.2.6]]
+* in Lord’s family, [[sb/3/1/25#purport|SB 3.1.25]]
+* in separation from Lord, [[sb/3/4/20-21#purport|SB 3.4.20-21]]
+* Lord instructed, [[sb/3/4/19#purport|SB 3.4.19]]
+* Lord’s activities bewildered, [[sb/3/2/16-17#purport|SB 3.2.16-17]]
+* Lord’s mercy on, [[sb/3/4/11#purport|SB 3.4.11]]
+* mourning Lord’s disappearance, [[sb/3/2/7#purport|SB 3.2.7]]
+* quoted on Kṛṣṇa’s pastimes, [[sb/3/3/1#purport|SB 3.3.1]]
+*  [[sb/1/5/30#purport|SB 1.5.30]], [[sb/1/10/18#purport|SB 1.10.18]], [[sb/1/14/33#purport|SB 1.14.33]]
+* Vidura questions, [[sb/3/1/25-45#purport|SB 3.1.25-45]]
+* Vidura’s relation to, [[sb/3/4/24-26#purport|SB 3.4.24-26]]

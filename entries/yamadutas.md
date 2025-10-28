@@ -1,0 +1,21 @@
+# Yamadūtas
+
+[[bg/18/25|Bg. 18.25]], [[sb/3/30/19-20#purport|SB 3.30.19-20]], [[sb/5/26/6#purport|SB 5.26.6]]
+
+* Ajāmila described by, [[sb/6/1/56-68#purport|SB 6.1.56-68]]
+* Ajāmila saved from, [[sb/6/1/21#purport|SB 6.1.21]]
+* devotees avoided by, [[sb/6/3/34#purport|SB 6.3.34]]
+* frustration of, [[sb/6/3/4#purport|SB 6.3.4]], [[sb/6/3/10-10#purport|SB 6.3.10-10]]
+* instructed concerning devotees, [[sb/6/3/27-28#purport|SB 6.3.27-28]]
+* Parīkṣit’s question on, [[sb/6/3/1-2#purport|SB 6.3.1-2]]
+* punishment by, for whom meant, [[sb/6/3/28-29#purport|SB 6.3.28-29]]
+* question Yamarāja, [[sb/6/3/4-10#purport|SB 6.3.4-10]]
+* real religion not known by, [[sb/6/3/19#purport|SB 6.3.19]]
+* return to Yamarāja, [[sb/6/2/21#purport|SB 6.2.21]]
+* upheld by Vedic principles, [[sb/6/3/1#purport|SB 6.3.1]]
+* Viṣṇudūtas criticize, [[sb/6/2/2-19#purport|SB 6.2.2-19]]
+* Viṣṇudūtas threaten, [[sb/6/1/31#purport|SB 6.1.31]]
+* Viṣṇudūtas vie for Ajāmila with, [[sb/6/1/31-2/19#purport|SB 6.1.31-2.19]]
+* wanted Viṣṇudūtas punished, [[sb/6/3/10#purport|SB 6.3.10]]
+* Yamarāja questioned by, [[sb/6/3/4-10#purport|SB 6.3.4-10]]
+* Yamarāja thought supreme by, [[sb/6/3/7#purport|SB 6.3.7]], [[sb/6/3/8#purport|SB 6.3.8]]

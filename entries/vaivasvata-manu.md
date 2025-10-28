@@ -1,0 +1,21 @@
+# Vaivasvata Manu
+
+[[cc/adi/3/10#purport|Ādi 3.10]], **[[cc/adi/3/9#translation|Ādi 3.9]]**, [[cc/madhya/20/328#purport|Madhya 20.328]], [[sb/2/7/12#purport|SB 2.7.12]]
+
+* as sun-god’s son, [[sb/5/1/22#purport|SB 5.1.22]]
+* as Vivasvān’s son, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]]
+* austerities by, [[sb/9/2/1#purport|SB 9.2.1]]
+* demigods’ battle in Age of, [[sb/6/10/16#purport|SB 6.10.16]]
+* dissatisfied with sacrifice, [[sb/9/1/16#purport|SB 9.1.16]], [[sb/9/1/17#purport|SB 9.1.17]]
+* in Brahmā’s day, [[sb/9/3/32#purport|SB 9.3.32]]
+* Matsya worshiped by, [[sb/5/18/24#purport|SB 5.18.24]]
+* prayers by, to Matsya, [[sb/5/18/25-28#purport|SB 5.18.25-28]]
+* present Age of, [[sb/6/10/16#purport|SB 6.10.16]]
+* Priyavrata compared with, [[sb/5/1/22#purport|SB 5.1.22]]
+* Ramyaka-varṣa ruled by, [[sb/5/18/24#purport|SB 5.18.24]]
+* Satyavrata as, [[sb/9/1/2-3#purport|SB 9.1.2-3]]
+*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/9/19#purport|SB 1.9.19]], [[sb/1/12/19#purport|SB 1.12.19]], [[sb/3/20/1#purport|SB 3.20.1]], [[sb/3/21/3#purport|SB 3.21.3]], [[sb/4/30/19#purport|SB 4.30.19]], [[sb/4/30/49#purport|SB 4.30.49]]
+* sons of, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]], [[sb/9/1/36#purport|SB 9.1.36]], [[sb/9/2/1#purport|SB 9.2.1]], [[sb/9/2/2#purport|SB 9.2.2]], [[sb/9/2/3#purport|SB 9.2.3]], [[sb/9/2/15#purport|SB 9.2.15]], [[sb/9/2/16#purport|SB 9.2.16]], [[sb/9/2/17#purport|SB 9.2.17]], [[sb/9/2/19#purport|SB 9.2.19]], [[sb/9/2/22#purport|SB 9.2.22]], [[sb/9/2/23-24#purport|SB 9.2.23-24]], [[sb/9/3/1#purport|SB 9.3.1]], [[sb/9/6/4#purport|SB 9.6.4]]
+* Vasiṣṭha’s sacrifice for, [[sb/9/1/13-17#purport|SB 9.1.13-17]], [[sb/9/1/18-22#purport|SB 9.1.18-22]]
+* wife of, [[sb/9/1/11-16#purport|SB 9.1.11-16]], [[sb/9/6/4#purport|SB 9.6.4]]
+* worshiped Lord for sons, [[sb/9/2/2#purport|SB 9.2.2]]

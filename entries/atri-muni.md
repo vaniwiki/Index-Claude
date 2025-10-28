@@ -1,0 +1,18 @@
+# Atri Muni
+
+* addressed by deities, [[sb/4/1/29-31#purport|SB 4.1.29-31]]
+* asks about Lord, [[sb/4/1/26-28#purport|SB 4.1.26-28]]
+* austerities of, [[sb/4/1/19#purport|SB 4.1.19]], [[sb/4/1/21#purport|SB 4.1.21]]
+* called for jagad-īśvara, [[sb/4/1/26-27#purport|SB 4.1.26-27]]
+* concentrated on Supersoul, [[sb/4/1/21#purport|SB 4.1.21]]
+* dazzled by deities, [[sb/4/1/25#purport|SB 4.1.25]]
+* deities welcomed by, [[sb/4/1/23-28#purport|SB 4.1.23-28]]
+* desire of fulfilled, [[sb/4/1/30#purport|SB 4.1.30]], [[sb/4/1/31#purport|SB 4.1.31]]
+* desire of, [[sb/4/1/20#purport|SB 4.1.20]]
+* didn’t know God, [[sb/4/1/20#purport|SB 4.1.20]], [[sb/4/1/26-27#purport|SB 4.1.26-27]], [[sb/4/1/30#purport|SB 4.1.30]]
+* fire from, [[sb/4/1/21#purport|SB 4.1.21]]
+* Indra’s trick seen by, [[sb/4/19/12#purport|SB 4.19.12]], [[sb/4/19/13#purport|SB 4.19.13]]
+* not pure devotee, [[sb/4/1/20#purport|SB 4.1.20]]
+* prays to deities, [[sb/4/1/26-28#purport|SB 4.1.26-28]]
+* Pṛthu’s son advised by, [[sb/4/19/13#purport|SB 4.19.13]], [[sb/4/19/15#purport|SB 4.19.15]], [[sb/4/19/20-21#purport|SB 4.19.20-21]]
+* sons of, [[sb/4/1/15#purport|SB 4.1.15]]

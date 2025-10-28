@@ -1,0 +1,43 @@
+# Glorification about Supreme Lord
+
+* art & science in, [[sb/1/5/22#purport|SB 1.5.22]]
+* as devotee’s desire, [[sb/3/15/48#purport|SB 3.15.48]]
+* as essential for happiness, [[sb/1/5/8-9#purport|SB 1.5.8-9]]
+* as essential for peace, [[sb/1/1/16#purport|SB 1.1.16]]
+* as goal of knowledge, [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]]
+* as identical with Lord, [[sb/1/6/33#purport|SB 1.6.33]]
+* as perfection of life, SB Intro 29-30
+* as prime necessity, [[sb/3/6/36#purport|SB 3.6.36]]
+* as special functions, [[sb/1/5/36#purport|SB 1.5.36]]
+* attempts to stop, [[sb/1/1/16#purport|SB 1.1.16]], [[sb/1/5/11#purport|SB 1.5.11]]
+* attracts Lord, [[sb/1/6/33#purport|SB 1.6.33]]
+* authorities followed for, SB Intro 30
+* avoided by Vyāsa, [[sb/1/5/8-9#purport|SB 1.5.8-9]]
+* bliss in, [[sb/1/5/8#purport|SB 1.5.8]]
+* by devotees, [[sb/1/6/21#purport|SB 1.6.21]], [[sb/1/6/26#purport|SB 1.6.26]], [[sb/1/6/32#purport|SB 1.6.32]]
+* by Maitreya, [[sb/3/13/5#purport|SB 3.13.5]]
+* by Nārada Muni, [[sb/1/6/26#purport|SB 1.6.26]], [[sb/1/6/32#purport|SB 1.6.32]], [[sb/1/6/38#purport|SB 1.6.38]]
+* by Vaikuṇṭha’s residents, [[sb/3/15/17-18#purport|SB 3.15.17-18]]
+* compared to boat, [[sb/1/6/34#purport|SB 1.6.34]]
+* compared with mundane discussion, [[sb/1/2/14#purport|SB 1.2.14]], [[sb/1/6/34#purport|SB 1.6.34]]
+* destroys anxiety, [[sb/1/6/34#purport|SB 1.6.34]]
+* destroys misery, [[sb/1/5/40#purport|SB 1.5.40]], [[sb/1/6/38#purport|SB 1.6.38]]
+* for mahātmās, [[sb/3/7/20#purport|SB 3.7.20]]
+* goddess of fortune serves, [[sb/1/18/20#purport|SB 1.18.20]]
+* goodness needed for knowing, [[sb/1/4/24#purport|SB 1.4.24]]
+* hearing about. See: Hearing about Supreme Lord 
+* in Nārada’s footsteps, [[sb/1/6/21#purport|SB 1.6.21]]
+* in prayer, [[sb/3/8/6#purport|SB 3.8.6]]
+* knowledge used in, [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/5/22#purport|SB 1.5.22]]
+* literature’s role in, [[sb/1/5/22#purport|SB 1.5.22]]
+* necessity for, [[sb/1/5/8-9#purport|SB 1.5.8-9]], [[sb/1/5/8-9#purport|SB 1.5.8-9]]
+* philosophy in, [[sb/1/5/22#purport|SB 1.5.22]]
+* pilgrimage places for, [[sb/3/1/45#purport|SB 3.1.45]]
+* purifying effect of, [[sb/1/5/11#purport|SB 1.5.11]]
+* saints engaged in, [[sb/1/5/11#purport|SB 1.5.11]]
+* singing meters for, [[sb/1/6/32#purport|SB 1.6.32]]
+* Śrīmad-Bhāgavatam as guide for, SB Intro 30
+* with Vedic hymns, [[sb/3/13/25#purport|SB 3.13.25]], [[sb/3/15/26#purport|SB 3.15.26]]
+* writer’s role in, [[sb/1/5/22#purport|SB 1.5.22]]
+
+*See also:* [[s#Saṅkīrtana movement|Saṅkīrtana movement]]

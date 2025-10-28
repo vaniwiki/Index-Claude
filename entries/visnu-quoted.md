@@ -1,0 +1,15 @@
+# Viṣṇu quoted
+
+* on detachment from bodily concept, [[sb/4/20/5#purport|SB 4.20.5]], [[sb/4/20/6#purport|SB 4.20.6]]
+* on Indra, [[sb/4/20/2#purport|SB 4.20.2]]
+* on intelligence, human, [[sb/4/20/3#purport|SB 4.20.3]]
+* on kings (pious & impious), [[sb/4/20/14#purport|SB 4.20.14]]
+* on knowledge for liberation, [[sb/4/20/11#purport|SB 4.20.11]]
+* on Lord’s attraction to elevated soul, [[sb/4/20/16#purport|SB 4.20.16]]
+* on matter, spirit, & devotee, [[sb/4/20/12#purport|SB 4.20.12]]
+* on occupational duty & devotional service, [[sb/4/20/9#purport|SB 4.20.9]]
+* on Pṛthu’s duty, [[sb/4/20/13#purport|SB 4.20.13]], [[sb/4/20/15#purport|SB 4.20.15]]
+* on purified devotee, [[sb/4/20/10#purport|SB 4.20.10]]
+* on spiritual master, [[sb/4/20/13#purport|SB 4.20.13]]
+* on Supreme Soul, [[sb/4/20/7#purport|SB 4.20.7]]
+* on transcending nature’s modes, [[sb/4/20/8#purport|SB 4.20.8]]

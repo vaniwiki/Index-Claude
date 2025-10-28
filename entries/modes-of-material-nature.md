@@ -1,0 +1,44 @@
+# Modes of material nature
+
+* activities activated by, [[sb/2/5/23#purport|SB 2.5.23]]
+* as bewildering, [[sb/2/6/37#purport|SB 2.6.37]]
+* as controller, [[sb/8/11/7#purport|SB 8.11.7]]
+* as Lord’s eyes, [[sb/8/7/30#purport|SB 8.7.30]]
+* association with, effect of, [[sb/2/10/41#purport|SB 2.10.41]]
+* base symptoms of, [[sb/8/12/10#purport|SB 8.12.10]]
+* Brahman effulgence above, [[sb/8/7/31#purport|SB 8.7.31]]
+* competition among, [[sb/8/16/20#purport|SB 8.16.20]]
+* covering power of, [[sb/2/5/19#purport|SB 2.5.19]]
+* deities presiding over, [[sb/2/7/39#purport|SB 2.7.39]]
+* demigods under, [[sb/8/11/8#purport|SB 8.11.8]], [[sb/8/16/14#purport|SB 8.16.14]]
+* demons under, [[sb/8/16/14#purport|SB 8.16.14]]
+* devotees beyond, [[sb/2/3/12#purport|SB 2.3.12]]
+* devotional service above, [[sb/8/16/20#purport|SB 8.16.20]]
+* duality caused by, [[sb/8/12/8#purport|SB 8.12.8]]
+* evolution caused by, [[sb/2/5/31#purport|SB 2.5.31]], [[sb/2/5/31#purport|SB 2.5.31]]
+* false ego in, [[sb/2/10/32#purport|SB 2.10.32]], [[sb/2/10/32#purport|SB 2.10.32]]
+* freedom from, [[sb/2/7/3#purport|SB 2.7.3]], [[sb/2/7/3#purport|SB 2.7.3]], [[sb/8/24/38#purport|SB 8.24.38]]
+* goodness. See: Goodness, mode of , 
+* ignorance, [[sb/2/1/20#purport|SB 2.1.20]], [[sb/2/5/30#purport|SB 2.5.30]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/10#purport|SB 2.9.10]]
+* ignorance. See: Ignorance, mode of 
+* impersonalists covered by, [[sb/2/5/20#purport|SB 2.5.20]]
+* in body wheel, [[sb/8/5/28#purport|SB 8.5.28]]
+* interactions in, [[sb/2/10/3#purport|SB 2.10.3]]
+* living entities under, [[sb/2/5/18#purport|SB 2.5.18]], [[sb/8/3/16#purport|SB 8.3.16]], [[sb/8/8/21#purport|SB 8.8.21]]
+* Lord , 
+* material & spiritual, [[sb/2/6/32#purport|SB 2.6.32]]
+* mixing of, [[sb/2/10/41#purport|SB 2.10.41]]
+* origin of, [[sb/2/5/22#purport|SB 2.5.22]], [[sb/2/5/24#purport|SB 2.5.24]]
+* passion. See: Passion, mode of , 
+* philosophers under, [[sb/8/12/10#purport|SB 8.12.10]]
+* senses merge into, [[sb/2/2/30#purport|SB 2.2.30]]
+* spiritual world beyond, [[sb/2/2/17#purport|SB 2.2.17]], [[sb/2/2/17#purport|SB 2.2.17]]
+* spiritual world free of, [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/10#purport|SB 2.9.10]]
+* suffering in, [[sb/8/17/23#purport|SB 8.17.23]]
+* transcendentalist above, [[sb/8/11/8#purport|SB 8.11.8]]
+* wise men tolerate, [[sb/8/11/8#purport|SB 8.11.8]]
+* work in, elevation or degradation by, [[sb/2/8/14#purport|SB 2.8.14]]
+* world conducted via, [[sb/8/5/23#purport|SB 8.5.23]], [[sb/8/7/11#purport|SB 8.7.11]]
+* yogīs transcend, [[sb/2/2/30#purport|SB 2.2.30]]
+
+*See also:* [[g#Goodness|Goodness]]; mode of; [[i#Ignorance|Ignorance]]; [[p#Passion|Passion]]; [[m#Material nature|Material nature]]; specific modes of nature

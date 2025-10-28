@@ -1,0 +1,21 @@
+# Kuntī, Queen
+
+* after Kṛṣṇa’s disappearance, [[sb/1/15/33#purport|SB 1.15.33]]
+* as Arjuna’s mother, [[sb/1/12/21#purport|SB 1.12.21]]
+* as innocent, [[sb/1/8/20#purport|SB 1.8.20]]
+* as Kṛṣṇa’s aunt, [[sb/1/19/35#purport|SB 1.19.35]]
+* brāhmaṇas served by, [[sb/1/15/11#purport|SB 1.15.11]]
+* chastity of, [[sb/1/8/17#purport|SB 1.8.17]]
+* Devakī compared with, [[sb/1/8/23#purport|SB 1.8.23]]
+* Durvāsā blessed, [[sb/1/15/11#purport|SB 1.15.11]]
+* Gāndhārī envied, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* historical accounts on, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* Kṛṣṇa 
+* Kurukṣetra war aggrieved, [[sb/1/8/3#purport|SB 1.8.3]]
+* Lord’s disappearance &, [[sb/1/15/33#purport|SB 1.15.33]]
+* Lord’s separation feared by, [[sb/1/8/37#purport|SB 1.8.37]], [[sb/1/8/39#purport|SB 1.8.39]]
+* meditation of, [[sb/1/8/22#purport|SB 1.8.22]]
+* prayers by, [[sb/1/8/18-43#purport|SB 1.8.18-43]]
+* suffering of, [[sb/1/9/13#purport|SB 1.9.13]]
+* sun-god’s child by, [[sb/1/15/16#purport|SB 1.15.16]]
+* Yaśodā compared with, [[sb/1/8/31#purport|SB 1.8.31]]

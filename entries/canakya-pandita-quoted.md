@@ -1,0 +1,22 @@
+# Cāṇakya Paṇḍita quoted
+
+* Cāṇaka-śloka, [[sb/8/20/7#purport|SB 8.20.7]]
+* on beautiful wife as enemy, [[sb/4/27/1#purport|SB 4.27.1]]
+* on brief life & worthy deeds, [[sb/9/13/3#purport|SB 9.13.3]]
+* on equality, [[sb/6/7/30#purport|SB 6.7.30]]
+* on home life, [[sb/4/26/15#purport|SB 4.26.15]]
+* on king, woman, & politician, [[sb/10/1/35#purport|SB 10.1.35]]
+* on knowledge from lowborn, [[sb/6/7/33#purport|SB 6.7.33]]
+* on leaving home, [[sb/6/14/40#purport|SB 6.14.40]]
+* on piety in association & action, [[sb/10/1/44#purport|SB 10.1.44]]
+* on politicians, [[sb/8/9/9#purport|SB 8.9.9]]
+* on possessions, [[sb/8/20/7#purport|SB 8.20.7]]
+* on renouncing household life, [[sb/9/4/29#purport|SB 9.4.29]]
+* on reputation, [[sb/8/20/8#purport|SB 8.20.8]]
+* on sons 
+* on temporary possessions, good use of, [[sb/6/9/55#purport|SB 6.9.55]]
+* on time’s value, [[sb/6/5/19#purport|SB 6.5.19]]
+* on wife of another, [[sb/8/9/4#purport|SB 8.9.4]]
+* on wife, [[sb/9/14/21#purport|SB 9.14.21]], [[sb/9/14/36#purport|SB 9.14.36]]
+* on woman & politician, [[sb/9/14/36#purport|SB 9.14.36]]
+* on women, [[sb/6/18/41#purport|SB 6.18.41]], [[sb/8/9/9#purport|SB 8.9.9]]

@@ -1,0 +1,25 @@
+# Hearing & chanting about Lord
+
+[[cc/adi/2/117#purport|Ādi 2.117]]
+
+* as devotee’s main desire, [[sb/4/30/33-33#purport|SB 4.30.33-33]]
+* as meditation, [[sb/3/28/19#purport|SB 3.28.19]]
+* bathing in Ganges & visiting holy places compared with, [[sb/5/18/11#purport|SB 5.18.11]]
+* benediction for, [[sb/3/32/43#purport|SB 3.32.43]]
+* bhāgavata-vidhi includes, [[sb/4/27/24#purport|SB 4.27.24]]
+* compared to watering seed, [[sb/3/31/43#purport|SB 3.31.43]]
+* detachment via, [[sb/4/30/35#purport|SB 4.30.35]]
+* envy removed via, [[sb/4/30/35-35#purport|SB 4.30.35-35]], [[sb/4/30/36#purport|SB 4.30.36]]
+* importance of constant, [[sb/5/8/29#purport|SB 5.8.29]]
+* in devotee’s association detailed, [[sb/4/30/33-37#purport|SB 4.30.33-37]]
+* in family life, [[sb/4/30/19#purport|SB 4.30.19]]
+* knowledge of Lord via, [[sb/5/6/16#purport|SB 5.6.16]]
+* liberation via, [[sb/4/29/83-84#purport|SB 4.29.83-84]]
+* Lord’s presence invoked by, [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35-36#purport|SB 4.30.35-36]]
+* mind easily disciplined via, [[sb/3/28/19#purport|SB 3.28.19]]
+* Nārada’s Purañjana allegory, [[sb/4/29/83-85#purport|SB 4.29.83-85]]
+* on Brahmaloka, [[sb/4/29/84#purport|SB 4.29.84]]
+* purification via, [[sb/4/29/83-85#purport|SB 4.29.83-85]], [[sb/4/30/21#purport|SB 4.30.21]], [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35-36#purport|SB 4.30.35-36]], [[sb/5/8/11#purport|SB 5.8.11]], [[sb/5/8/31#purport|SB 5.8.31]]
+* spiritual world invoked via, [[sb/4/30/33#purport|SB 4.30.33]], [[sb/4/30/35#purport|SB 4.30.35]]
+
+*See also:* [[h#Hearing about Lord|Hearing about Lord]]; [[h#Hearing about Supreme Lord|Hearing about Supreme Lord]]

@@ -1,0 +1,27 @@
+# Matsya, Lord
+
+**[[cc/adi/1/66#translation|Ādi 1.66]]**, [[cc/adi/2/97#purport|Ādi 2.97]], **[[cc/adi/5/78#translation|Ādi 5.78]]**, **[[cc/madhya/20/244#translation|Madhya 20.244]]**, **[[cc/madhya/20/298#translation|Madhya 20.298]]**
+
+* activities of, [[sb/1/3/15#purport|SB 1.3.15]], [[sb/1/3/15#purport|SB 1.3.15]]
+* as aquatic incarnation, [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/40#purport|SB 6.9.40]]
+* as first incarnation, [[sb/8/24/1#purport|SB 8.24.1]]
+* as first of Lord’s incarnations, [[sb/5/18/25#purport|SB 5.18.25]]
+* boat tied to, [[sb/8/24/45#purport|SB 8.24.45]]
+* body of, [[sb/8/24/44#purport|SB 8.24.44]]
+* demigods pray to, [[sb/6/9/23#purport|SB 6.9.23]]
+* Earth protected by, [[sb/5/18/18#purport|SB 5.18.18]]
+* in ocean of inundation, [[sb/8/24/44#purport|SB 8.24.44]], [[sb/8/24/54#purport|SB 8.24.54]]
+* in Satyavrata’s palms, [[sb/8/24/12#purport|SB 8.24.12]]
+* narration about Satyavrata &, recommended, [[sb/8/24/59#purport|SB 8.24.59]], [[sb/8/24/60#purport|SB 8.24.60]]
+* protection by, [[sb/6/8/13#purport|SB 6.8.13]]
+* purpose of, [[sb/8/24/2-3#purport|SB 8.24.2-3]], [[sb/8/24/61#purport|SB 8.24.61]]
+* quoted on wider water residences, [[sb/8/24/20-24#purport|SB 8.24.20-24]]
+* Satyavrata 
+* Satyavrata’s protection begged by, [[sb/8/24/14#purport|SB 8.24.14]]
+*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/1/3/28#purport|SB 1.3.28]], [[sb/1/8/30#purport|SB 1.8.30]], [[sb/1/12/19#purport|SB 1.12.19]], [[sb/1/15/35#purport|SB 1.15.35]]
+* Vaivasvata Manu worships, [[sb/5/18/24#purport|SB 5.18.24]]
+* Varāha’s incarnation compared with, [[sb/8/24/10#purport|SB 8.24.10]]
+* Vedas protected by, [[sb/5/18/25#purport|SB 5.18.25]]
+* Vedas saved by, [[sb/8/24/9#purport|SB 8.24.9]], [[sb/8/24/10#purport|SB 8.24.10]]
+* Vedic knowledge protected by, [[sb/5/18/6#purport|SB 5.18.6]]
+* waters outgrown by, [[sb/8/24/16-26#purport|SB 8.24.16-26]]

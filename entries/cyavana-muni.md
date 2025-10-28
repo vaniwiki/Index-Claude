@@ -1,0 +1,15 @@
+# Cyavana Muni
+
+* as irritable, [[sb/9/3/10#purport|SB 9.3.10]]
+* as old, [[sb/9/3/10#purport|SB 9.3.10]], [[sb/9/3/14#purport|SB 9.3.14]], [[sb/9/3/20#purport|SB 9.3.20]]
+* as Sukanyā’s husband, [[sb/9/3/10#purport|SB 9.3.10]], [[sb/9/3/16#purport|SB 9.3.16]], [[sb/9/3/20#purport|SB 9.3.20]], [[sb/9/3/22#purport|SB 9.3.22]]
+* āśrama of, [[sb/9/3/2-8#purport|SB 9.3.2-8]], [[sb/9/3/11#purport|SB 9.3.11]], [[sb/9/3/18#purport|SB 9.3.18]]
+* Aśvinī-kumāras with, [[sb/9/3/11-17#purport|SB 9.3.11-17]], [[sb/9/3/24#purport|SB 9.3.24]]
+* in earthworm’s hole, [[sb/9/3/8#purport|SB 9.3.8]]
+* in lake of life, [[sb/9/3/14#purport|SB 9.3.14]], [[sb/9/3/15#purport|SB 9.3.15]]
+* Indra foiled by, [[sb/9/3/25#purport|SB 9.3.25]]
+* quoted on soma-rasa proposal to Aśvinī-kumāras, [[sb/9/3/12#purport|SB 9.3.12]]
+* rejuvenation of, [[sb/9/3/11-17#purport|SB 9.3.11-17]], [[sb/9/3/23#purport|SB 9.3.23]]
+* Śaryāti afraid of, [[sb/9/3/8#purport|SB 9.3.8]]
+* Śaryāti’s daughter married by, [[sb/9/3/9#purport|SB 9.3.9]]
+* Soma-yajña via, [[sb/9/3/24#purport|SB 9.3.24]]

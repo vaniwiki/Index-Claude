@@ -1,0 +1,28 @@
+# Draupadī
+
+[[cc/adi/6/74#purport|Ādi 6.74]], [[cc/adi/6/75#purport|Ādi 6.75]], [[sb/4/28/29#purport|SB 4.28.29]]
+
+* argues for Aśvatthāmā’s life, [[sb/1/7/43-48#purport|SB 1.7.43-48]]
+* Arjuna won, [[sb/1/15/7#purport|SB 1.15.7]], [[sb/1/15/16#purport|SB 1.15.16]]
+* as aggrieved mother, [[sb/1/7/15#purport|SB 1.7.15]], [[sb/1/7/47#purport|SB 1.7.47]], [[sb/1/7/49#purport|SB 1.7.49]]
+* as gambling prize, [[sb/1/15/16#purport|SB 1.15.16]]
+* as Pāñcālī, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* Aśvatthāmā respected by, [[sb/1/7/42-43#purport|SB 1.7.42-43]], [[sb/1/7/42-43#purport|SB 1.7.42-43]]
+* at Lord’s lotus feet, [[sb/1/15/10#purport|SB 1.15.10]]
+*  [[bg/1/11|Bg. 1.11]], [[bg/11/49|Bg. 11.49]], [[sb/3/1/7#purport|SB 3.1.7]], [[sb/3/1/43#purport|SB 3.1.43]], [[sb/9/10/27#purport|SB 9.10.27]], [[sb/9/20/15#purport|SB 9.20.15]], [[sb/9/22/3#purport|SB 9.22.3]], [[sb/9/22/27-28#purport|SB 9.22.27-28]]
+* Bhīma’s conflict with, [[sb/1/7/52#purport|SB 1.7.52]]
+* compassion of, [[sb/1/7/46#purport|SB 1.7.46]], [[sb/1/7/49#purport|SB 1.7.49]], [[sb/1/7/49#purport|SB 1.7.49]]
+* Duḥśāsana insulted, [[sb/1/15/10#purport|SB 1.15.10]]
+* food blessing for, [[sb/1/15/11#purport|SB 1.15.11]]
+* good statements of, [[sb/1/7/49#purport|SB 1.7.49]]
+* historical accounts on, [[sb/1/13/3-4#purport|SB 1.13.3-4]]
+* Jayadratha pursued, [[sb/1/15/16#purport|SB 1.15.16]]
+* Kurukṣetra war aggrieved, [[sb/1/8/3#purport|SB 1.8.3]]
+* Kurus insulted, [[sb/1/8/5#purport|SB 1.8.5]], [[sb/1/8/5#purport|SB 1.8.5]]
+* Lord 
+* marriage contest for, [[sb/1/15/7#purport|SB 1.15.7]], [[sb/1/15/16#purport|SB 1.15.16]]
+* Pāṇḍavas left, [[sb/1/15/50#purport|SB 1.15.50]]
+* passing away of, [[sb/1/15/50#purport|SB 1.15.50]]
+* Satyabhāmā instructed by, [[sb/1/14/37#purport|SB 1.14.37]]
+* sons of, [[bg/1/6|Bg. 1.6]], [[bg/1/16–20|Bg. 1.16–20]]
+* svayaṁvara for, [[sb/1/15/16#purport|SB 1.15.16]]

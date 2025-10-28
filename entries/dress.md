@@ -1,0 +1,17 @@
+# Dress
+
+* body compared to, [[sb/7/2/37#purport|SB 7.2.37]], [[sb/9/1/33#purport|SB 9.1.33]]
+* for brahmacārī, [[sb/7/12/4#purport|SB 7.12.4]]
+* for Kṛṣṇa conscious preachers, [[sb/7/13/9#purport|SB 7.13.9]]
+* for ritualistic ceremony, [[sb/8/9/14-15#purport|SB 8.9.14-15]]
+* for sannyāsī, [[sb/7/13/2#purport|SB 7.13.2]]
+* for vānaprastha, [[sb/7/12/21#purport|SB 7.12.21]]
+* in demigod-demon battle, [[sb/8/10/13-15#purport|SB 8.10.13-15]]
+* of Ambarīṣa’s Kṛṣṇa Deity, [[sb/9/4/31-32#purport|SB 9.4.31-32]]
+* of clans changed by Sagara, [[sb/9/8/5-6#purport|SB 9.8.5-6]]
+* of Cyavana & Aśvinī-kumāras emerging from lake of life, [[sb/9/3/15#purport|SB 9.3.15]]
+* of Lord, [[sb/8/10/54#purport|SB 8.10.54]], [[sb/8/16/35#purport|SB 8.16.35]], [[sb/8/16/39#purport|SB 8.16.39]], [[sb/8/17/4#purport|SB 8.17.4]], [[sb/8/18/1-3#purport|SB 8.18.1-3]], [[sb/8/20/32-33#purport|SB 8.20.32-33]]
+* of Mohinī, [[sb/8/12/18-20#purport|SB 8.12.18-20]], [[sb/8/12/23#purport|SB 8.12.23]]
+* of Prahlāda, [[sb/8/22/13#purport|SB 8.22.13]]
+* of saintly person, [[sb/7/13/39#purport|SB 7.13.39]]
+* of Vāmana, [[sb/8/18/24-25#purport|SB 8.18.24-25]]

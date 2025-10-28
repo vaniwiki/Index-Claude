@@ -1,0 +1,22 @@
+# Scientist(s), modern
+
+[[cc/adi/14/1#purport|Ādi 14.1]], [[cc/adi/16/81#purport|Ādi 16.81]], [[cc/adi/17/106#purport|Ādi 17.106]], [[cc/adi/5/71#purport|Ādi 5.71]], [[cc/adi/6/14–15#purport|Ādi 6.14–15]], [[cc/madhya/19/138#purport|Madhya 19.138]], [[cc/madhya/24/230#purport|Madhya 24.230]], [[cc/madhya/6/109#purport|Madhya 6.109]], [[cc/madhya/8/139#purport|Madhya 8.139]]
+
+* as cheaters, [[sb/5/14/26#purport|SB 5.14.26]]
+* as narādhamas, [[sb/5/14/27#purport|SB 5.14.27]]
+* authority of, [[sb/5/16/4#purport|SB 5.16.4]]
+* cheating by, [[cc/adi/7/107#purport|Ādi 7.107]]
+* godlessness &, [[cc/adi/5/51#purport|Ādi 5.51]]
+* ignorance by, [[cc/adi/14/32#purport|Ādi 14.32]], [[cc/madhya/6/171#purport|Madhya 6.171]], [[sb/5/1/13#purport|SB 5.1.13]]
+* living entities’ insignificance &, [[cc/adi/5/72#purport|Ādi 5.72]]
+* Lord challenged by, [[sb/5/18/27#purport|SB 5.18.27]]
+* material nature &, [[cc/adi/5/66#purport|Ādi 5.66]]
+* material nature studied by, [[sb/5/18/33#purport|SB 5.18.33]]
+* powerlessness of, [[cc/adi/9/38#purport|Ādi 9.38]]
+* Rāhu compared with, [[sb/5/24/3#purport|SB 5.24.3]]
+* real knowledge bewilders, [[cc/adi/2/96#purport|Ādi 2.96]]
+* shortcomings of, [[sb/5/17/4#purport|SB 5.17.4]], [[sb/5/17/24#purport|SB 5.17.24]]
+* space travel &, [[cc/adi/5/14#purport|Ādi 5.14]], [[cc/adi/5/22#purport|Ādi 5.22]]
+* speculation by, [[sb/5/16/4#purport|SB 5.16.4]]
+* sun &, [[cc/adi/7/127#purport|Ādi 7.127]]
+* theory of, about sunshine, [[sb/5/7/14#purport|SB 5.7.14]]

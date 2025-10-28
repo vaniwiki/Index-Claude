@@ -150,7 +150,7 @@
 
 [[sb/4/28/34#purport|SB 4.28.34]], [[sb/4/28/65#purport|SB 4.28.65]]...
 
-* brāhmaṇa instructs,, [[sb/4/28/51-64#purport|SB 4.28.51-64]]
+* brāhmaṇa instructs, [[sb/4/28/51-64#purport|SB 4.28.51-64]]
 
 *→ See all 8 references in* [Vaidarbhī](entries/vaidarbhi.md)
 
@@ -165,7 +165,7 @@
 
 ### Vaideha
 
-*  [[sb/9/10/11-11#purport|SB 9.10.11-11]], [[sb/9/13/13#purport|SB 9.13.13]]
+* [[sb/9/10/11-11#purport|SB 9.10.11-11]], [[sb/9/13/13#purport|SB 9.13.13]]
 
 ---
 
@@ -199,7 +199,7 @@
 
 ### Vaidūrya gem
 
-*  [[sb/10/3/9-10#purport|SB 10.3.9-10]], [[sb/10/3/9-10#purport|SB 10.3.9-10]]
+* [[sb/10/3/9-10#purport|SB 10.3.9-10]], [[sb/10/3/9-10#purport|SB 10.3.9-10]]
 
 ---
 
@@ -277,7 +277,7 @@
 
 [[sb/3/33/30#purport|SB 3.33.30]]...
 
-* as eternal abodes,, [[sb/3/25/38-38#purport|SB 3.25.38-38]]
+* as eternal abodes, [[sb/3/25/38-38#purport|SB 3.25.38-38]]
 
 *→ See all 6 references in* [Vaikuṇṭha planet(s)](entries/vaikuntha-planets.md)
 
@@ -287,7 +287,7 @@
 
 [[cc/adi/12/86#purport|Ādi 12.86]], [[cc/adi/2/97#purport|Ādi 2.97]]
 
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
+* [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
 
 ---
 
@@ -295,7 +295,7 @@
 
 **[[cc/adi/17/105#translation|Ādi 17.105]]**...
 
-* airplanes in,, [[cc/adi/5/22#purport|Ādi 5.22]]
+* airplanes in, [[cc/adi/5/22#purport|Ādi 5.22]]
 
 *→ See all 74 references in* [Vaikuṇṭha(s)](entries/vaikunthas.md)
 
@@ -317,7 +317,7 @@
 
 ### [Vairāgya](entries/vairagya.md)
 
-* defined,, [[bg/6/35|Bg. 6.35]], [[sb/3/25/18#purport|SB 3.25.18]]
+* defined, [[bg/6/35|Bg. 6.35]], [[sb/3/25/18#purport|SB 3.25.18]]
 
 *→ See all 9 references in* [Vairāgya](entries/vairagya.md)
 
@@ -327,7 +327,7 @@
 
 [[sb/5/13/14#purport|SB 5.13.14]], [[sb/9/24/67#purport|SB 9.24.67]]
 
-*  [[sb/3/12/4#purport|SB 3.12.4]], [[sb/3/13/39#purport|SB 3.13.39]]
+* [[sb/3/12/4#purport|SB 3.12.4]], [[sb/3/13/39#purport|SB 3.13.39]]
 
 *See also:* [Detachment](entries/detachment.md); [Renunciation](entries/renunciation.md)
 
@@ -380,13 +380,13 @@
 
 **[[cc/adi/3/47#translation|Ādi 3.47]]**
 
-*  [[sb/1/4/21#purport|SB 1.4.21]], [[sb/1/9/7#purport|SB 1.9.7]]
+* [[sb/1/4/21#purport|SB 1.4.21]], [[sb/1/9/7#purport|SB 1.9.7]]
 
 ---
 
 ### Vaiśasa
 
-*  [[sb/4/25/53#purport|SB 4.25.53]], [[sb/4/29/15#purport|SB 4.29.15]]
+* [[sb/4/25/53#purport|SB 4.25.53]], [[sb/4/29/15#purport|SB 4.29.15]]
 
 ---
 
@@ -447,7 +447,7 @@
 
 ### [Vaiṣṇava-toṣaṇī cited](entries/vaisnava-tosani-cited.md)
 
-* on Aghāsura attaining sārūpya-mukti,, [[sb/10/12/33#purport|SB 10.12.33]]
+* on Aghāsura attaining sārūpya-mukti, [[sb/10/12/33#purport|SB 10.12.33]]
 
 *→ See all 14 references in* [Vaiṣṇava-toṣaṇī cited](entries/vaisnava-tosani-cited.md)
 
@@ -456,7 +456,7 @@
 ### Vaiṣṇava-toṣaṇī quoted
 
 * on bodily concept of life, [[sb/10/2/22#purport|SB 10.2.22]]
-* on dharma-śīlasya, 102 
+* on dharma-śīlasya, 102, 
 
 *See:* Vaiṣṇava-toṣaṇī cited
 
@@ -464,7 +464,7 @@
 
 ### [Vaiṣṇavas](entries/vaisnavas.md)
 
-* defined,, [[sb/3/29/8#purport|SB 3.29.8]], [[sb/3/29/16#purport|SB 3.29.16]]
+* defined, [[sb/3/29/8#purport|SB 3.29.8]], [[sb/3/29/16#purport|SB 3.29.16]]
 
 *→ See all 14 references in* [Vaiṣṇavas](entries/vaisnavas.md)
 
@@ -514,7 +514,7 @@
 
 [[cc/adi/17/59#purport|Ādi 17.59]]...
 
-* as created from Lord’s waist,, [[sb/3/22/2#purport|SB 3.22.2]]
+* as created from Lord’s waist, [[sb/3/22/2#purport|SB 3.22.2]]
 
 *→ See all 87 references in* [Vaiśya(s)](entries/vaisyas.md)
 
@@ -522,7 +522,7 @@
 
 ### [Vaiśya(s) (farmers & merchants)](entries/vaisyas-farmers-merchants.md)
 
-* approaching supreme destination,, [[sb/4/14/46#purport|SB 4.14.46]]
+* approaching supreme destination, [[sb/4/14/46#purport|SB 4.14.46]]
 
 *→ See all 10 references in* [Vaiśya(s) (farmers & merchants)](entries/vaisyas-farmers-merchants.md)
 
@@ -574,7 +574,7 @@
 
 **[[cc/adi/3/9#translation|Ādi 3.9]]**...
 
-* as sun-god’s son,, [[sb/5/1/22#purport|SB 5.1.22]]
+* as sun-god’s son, [[sb/5/1/22#purport|SB 5.1.22]]
 
 *→ See all 23 references in* [Vaivasvata Manu](entries/vaivasvata-manu.md)
 
@@ -638,7 +638,7 @@
 
 ### Vajrāṅgajī (Hanumān)
 
-*  [[sb/3/20/25#purport|SB 3.20.25]], [[sb/3/24/31#purport|SB 3.24.31]]
+* [[sb/3/20/25#purport|SB 3.20.25]], [[sb/3/24/31#purport|SB 3.24.31]]
 
 ---
 
@@ -671,7 +671,7 @@
 
 ### Vālikhilyas
 
-*  [[sb/5/21/17#purport|SB 5.21.17]], [[sb/5/21/18#purport|SB 5.21.18]]
+* [[sb/5/21/17#purport|SB 5.21.17]], [[sb/5/21/18#purport|SB 5.21.18]]
 
 ---
 
@@ -725,7 +725,7 @@
 
 [[cc/adi/1/57#purport|Ādi 1.57]]...
 
-* Advaita &,, **[[cc/antya/7/100–101#translation|Antya 7.100–101]]**, **[[cc/antya/7/103–5#translation|Antya 7.103–5]]**
+* Advaita &, **[[cc/antya/7/100–101#translation|Antya 7.100–101]]**, **[[cc/antya/7/103–5#translation|Antya 7.103–5]]**
 
 *→ See all 47 references in* [Vallabhācārya (Bhaṭṭa)](entries/vallabhacarya-bhatta.md)
 
@@ -763,7 +763,7 @@
 
 [[sb/4/30/4#purport|SB 4.30.4]], [[sb/6/18/5#purport|SB 6.18.5]]
 
-*  [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/12/19#purport|SB 1.12.19]]
+* [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/5/22#purport|SB 1.5.22]], [[sb/1/12/19#purport|SB 1.12.19]]
 
 ---
 
@@ -855,7 +855,7 @@
 
 [[bg/8/22|Bg. 8.22]]...
 
-* as brahmacārī,, [[sb/8/18/12#purport|SB 8.18.12]], [[sb/8/18/13#purport|SB 8.18.13]], [[sb/8/18/15#purport|SB 8.18.15]], [[sb/8/18/18#purport|SB 8.18.18]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/19/30#purport|SB 8.19.30]], [[sb/8/19/32#purport|SB 8.19.32]], [[sb/8/19/34#purport|SB 8.19.34]], [[sb/8/20/12#purport|SB 8.20.12]], [[sb/8/21/11#purport|SB 8.21.11]]
+* as brahmacārī, [[sb/8/18/12#purport|SB 8.18.12]], [[sb/8/18/13#purport|SB 8.18.13]], [[sb/8/18/15#purport|SB 8.18.15]], [[sb/8/18/18#purport|SB 8.18.18]], [[sb/8/19/21#purport|SB 8.19.21]], [[sb/8/19/30#purport|SB 8.19.30]], [[sb/8/19/32#purport|SB 8.19.32]], [[sb/8/19/34#purport|SB 8.19.34]], [[sb/8/20/12#purport|SB 8.20.12]], [[sb/8/21/11#purport|SB 8.21.11]]
 
 *→ See all 76 references in* [Vāmana, Lord](entries/vamana-lord.md)
 
@@ -954,7 +954,7 @@
 
 ### Vānaprastha (retired life)
 
-*  [[sb/2/1/15-16#purport|SB 2.1.15-16]], [[sb/2/6/20#purport|SB 2.6.20]], [[sb/2/7/6#purport|SB 2.7.6]]
+* [[sb/2/1/15-16#purport|SB 2.1.15-16]], [[sb/2/6/20#purport|SB 2.6.20]], [[sb/2/7/6#purport|SB 2.7.6]]
 
 ---
 
@@ -982,7 +982,7 @@
 
 [[sb/1/1/10#purport|SB 1.1.10]], [[sb/1/9/26-27#purport|SB 1.9.26-27]]...
 
-* Ambarīṣa in,, [[sb/9/5/26#purport|SB 9.5.26]]
+* Ambarīṣa in, [[sb/9/5/26#purport|SB 9.5.26]]
 
 *→ See all 48 references in* [Vānaprastha(s)](entries/vanaprasthas.md)
 
@@ -1055,7 +1055,7 @@
 
 ### Vāṇī
 
-*  [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]]
+* [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]]
 
 ---
 
@@ -1095,7 +1095,7 @@
 
 ### Vapuḥ
 
-*  [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]]
+* [[sb/4/28/47#purport|SB 4.28.47]], [[sb/4/28/51#purport|SB 4.28.51]]
 
 ---
 
@@ -1119,7 +1119,7 @@
 * on creation, [[bg/10/8|Bg. 10.8]]
 * on demigods, [[bg/10/8|Bg. 10.8]]
 * on devotee at time of death, [[bg/12/6|Bg. 12.6]] (4)
-* on Nārāyaṇa as origin of demigods, 10. 
+* on Nārāyaṇa as origin of demigods, 10., 
 
 ---
 
@@ -1170,7 +1170,7 @@
 
 [[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/18/65|Bg. 18.65]]...
 
-* advent of,, [[sb/3/11/35#purport|SB 3.11.35]], [[sb/3/11/37#purport|SB 3.11.37]], [[sb/3/13/18-25#purport|SB 3.13.18-25]], [[sb/3/13/31#purport|SB 3.13.31]], [[sb/3/20/1#purport|SB 3.20.1]]
+* advent of, [[sb/3/11/35#purport|SB 3.11.35]], [[sb/3/11/37#purport|SB 3.11.37]], [[sb/3/13/18-25#purport|SB 3.13.18-25]], [[sb/3/13/31#purport|SB 3.13.31]], [[sb/3/20/1#purport|SB 3.20.1]]
 
 *→ See all 52 references in* [Varāha, Lord](entries/varaha-lord.md)
 
@@ -1180,7 +1180,7 @@
 
 * as incarnation among animals, [[sb/6/9/26-27#purport|SB 6.9.26-27]], [[sb/6/9/40#purport|SB 6.9.40]]
 * protection by, [[sb/6/8/15#purport|SB 6.8.15]]
-*  [[sb/4/7/46#purport|SB 4.7.46]], [[sb/4/8/57#purport|SB 4.8.57]], [[sb/4/17/34#purport|SB 4.17.34]], [[sb/4/17/35#purport|SB 4.17.35]]
+* [[sb/4/7/46#purport|SB 4.7.46]], [[sb/4/8/57#purport|SB 4.8.57]], [[sb/4/17/34#purport|SB 4.17.34]], [[sb/4/17/35#purport|SB 4.17.35]]
 
 ---
 
@@ -1188,7 +1188,7 @@
 
 [[sb/8/3/12#purport|SB 8.3.12]]...
 
-* authorities debate over,, [[sb/8/5/6#purport|SB 8.5.6]]
+* authorities debate over, [[sb/8/5/6#purport|SB 8.5.6]]
 
 *→ See all 6 references in* [Varāhadeva, Lord](entries/varahadeva-lord.md)
 
@@ -1212,7 +1212,7 @@
 
 [[cc/adi/9/41#purport|Ādi 9.41]]...
 
-* Caitanya instructs Sanātana in,, **[[cc/madhya/1/243–44#translation|Madhya 1.243–44]]**
+* Caitanya instructs Sanātana in, **[[cc/madhya/1/243–44#translation|Madhya 1.243–44]]**
 
 *→ See all 40 references in* [Vārāṇasī (Benares)](entries/varanasi-benares.md)
 
@@ -1299,7 +1299,7 @@
 
 [[sb/4/27/7#purport|SB 4.27.7]], [[sb/4/27/8#purport|SB 4.27.8]], [[sb/4/31/1#purport|SB 4.31.1]]...
 
-* hippies as,, [[sb/7/11/25#purport|SB 7.11.25]]
+* hippies as, [[sb/7/11/25#purport|SB 7.11.25]]
 
 *→ See all 7 references in* [Varṇa-saṅkara](entries/varna-sankara.md)
 
@@ -1307,7 +1307,7 @@
 
 ### Varṇa-saṅkara (unwanted progeny)
 
-*  [[bg/1/40|Bg. 1.40]], [[bg/1/42|Bg. 1.42]], [[bg/3/24|Bg. 3.24]]
+* [[bg/1/40|Bg. 1.40]], [[bg/1/42|Bg. 1.42]], [[bg/3/24|Bg. 3.24]]
 
 ---
 
@@ -1315,7 +1315,7 @@
 
 [[sb/10/3/34-35#purport|SB 10.3.34-35]], [[sb/3/17/15#purport|SB 3.17.15]], [[sb/5/2/21#purport|SB 5.2.21]]
 
-*  [[sb/1/8/5#purport|SB 1.8.5]], [[sb/1/9/27#purport|SB 1.9.27]]
+* [[sb/1/8/5#purport|SB 1.8.5]], [[sb/1/9/27#purport|SB 1.9.27]]
 
 ---
 
@@ -1344,7 +1344,7 @@
 
 ### [Varṇāśrama system](entries/varnasrama-system.md)
 
-* as human necessity,, [[sb/3/29/31-31#purport|SB 3.29.31-31]]
+* as human necessity, [[sb/3/29/31-31#purport|SB 3.29.31-31]]
 
 *→ See all 10 references in* [Varṇāśrama system](entries/varnasrama-system.md)
 
@@ -1354,7 +1354,7 @@
 
 **[[cc/madhya/22/142#translation|Madhya 22.142]]**, [[cc/madhya/3/194#purport|Madhya 3.194]]...
 
-* & surrender to Lord,, [[sb/5/1/15#purport|SB 5.1.15]]
+* & surrender to Lord, [[sb/5/1/15#purport|SB 5.1.15]]
 
 *→ See all 178 references in* [Varṇāśrama-dharma](entries/varnasrama-dharma.md)
 
@@ -1364,7 +1364,7 @@
 
 [[bg/9/32|Bg. 9.32]]...
 
-* *brāhmaṇa *as spiritual master in,, [[bg/16/1|Bg. 16.1]] (4)
+* *brāhmaṇa *as spiritual master in, [[bg/16/1|Bg. 16.1]] (4)
 
 *→ See all 54 references in* [Varṇāśrama-dharma system](entries/varnasrama-dharma-system.md)
 
@@ -1412,7 +1412,7 @@
 
 [[bg/3/14|Bg. 3.14]]...
 
-* as demigod warrior,, [[sb/8/10/26#purport|SB 8.10.26]], [[sb/8/10/28#purport|SB 8.10.28]], [[sb/8/11/42#purport|SB 8.11.42]]
+* as demigod warrior, [[sb/8/10/26#purport|SB 8.10.26]], [[sb/8/10/28#purport|SB 8.10.28]], [[sb/8/11/42#purport|SB 8.11.42]]
 
 *→ See all 30 references in* [Varuṇa, Lord](entries/varuna-lord.md)
 
@@ -1434,7 +1434,7 @@
 
 ### Vāruṇī liquor, Kuveras sons drank
 
-*  [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/19#purport|SB 10.10.19]]
+* [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/19#purport|SB 10.10.19]]
 
 ---
 
@@ -1463,7 +1463,7 @@
 
 [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/24/22-23#purport|SB 3.24.22-23]]...
 
-* as Indra’s sacrificial priest,, [[sb/9/13/1-4#purport|SB 9.13.1-4]], [[sb/9/13/5#purport|SB 9.13.5]]
+* as Indra’s sacrificial priest, [[sb/9/13/1-4#purport|SB 9.13.1-4]], [[sb/9/13/5#purport|SB 9.13.5]]
 
 *→ See all 28 references in* [Vasiṣṭha](entries/vasistha.md)
 
@@ -1474,7 +1474,7 @@
 [[sb/3/8/9#purport|SB 3.8.9]], [[sb/8/1/24#purport|SB 8.1.24]]
 
 * quoted on Lord’s glories, [[sb/8/23/29#purport|SB 8.23.29]]
-*  [[sb/1/9/7#purport|SB 1.9.7]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/1/19/10#purport|SB 1.19.10]]
+* [[sb/1/9/7#purport|SB 1.9.7]], [[sb/1/12/24#purport|SB 1.12.24]], [[sb/1/19/10#purport|SB 1.19.10]]
 
 ---
 
@@ -1495,7 +1495,7 @@
 
 ### Vasiṣṭha, sons of
 
-*  [[sb/4/1/40#purport|SB 4.1.40]], [[sb/4/1/41#purport|SB 4.1.41]]
+* [[sb/4/1/40#purport|SB 4.1.40]], [[sb/4/1/41#purport|SB 4.1.41]]
 
 ---
 
@@ -1523,7 +1523,7 @@
 
 ### Vasu (son of Bhūtajyoti)
 
-*  [[sb/9/2/17#purport|SB 9.2.17]], [[sb/9/2/18#purport|SB 9.2.18]]
+* [[sb/9/2/17#purport|SB 9.2.17]], [[sb/9/2/18#purport|SB 9.2.18]]
 
 ---
 
@@ -1545,7 +1545,7 @@
 
 [[sb/1/4/14#purport|SB 1.4.14]]...
 
-* in universal form,, [[bg/11/6|Bg. 11.6]], [[bg/11/22|Bg. 11.22]]
+* in universal form, [[bg/11/6|Bg. 11.6]], [[bg/11/22|Bg. 11.22]]
 
 *→ See all 19 references in* [Vasu(s)](entries/vasus.md)
 
@@ -1576,7 +1576,7 @@
 
 [[bg/7/24|Bg. 7.24]] (2)...
 
-* advised by, about life & death,, [[sb/10/1/37-39#purport|SB 10.1.37-39]], [[sb/10/1/39#purport|SB 10.1.39]], [[sb/10/1/40#purport|SB 10.1.40]], [[sb/10/1/41#purport|SB 10.1.41]], [[sb/10/1/42#purport|SB 10.1.42]], [[sb/10/1/43-43#purport|SB 10.1.43-43]], [[sb/10/1/44#purport|SB 10.1.44]]
+* advised by, about life & death, [[sb/10/1/37-39#purport|SB 10.1.37-39]], [[sb/10/1/39#purport|SB 10.1.39]], [[sb/10/1/40#purport|SB 10.1.40]], [[sb/10/1/41#purport|SB 10.1.41]], [[sb/10/1/42#purport|SB 10.1.42]], [[sb/10/1/43-43#purport|SB 10.1.43-43]], [[sb/10/1/44#purport|SB 10.1.44]]
 
 *→ See all 82 references in* [Vasudeva](entries/vasudeva.md)
 
@@ -1600,7 +1600,7 @@
 
 [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/2/22#purport|SB 1.2.22]], [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/5/37#purport|SB 1.5.37]]...
 
-* as Baladeva’s expansion,, [[sb/1/9/18#purport|SB 1.9.18]]
+* as Baladeva’s expansion, [[sb/1/9/18#purport|SB 1.9.18]]
 
 *→ See all 7 references in* [Vāsudeva (viṣṇu-tattva)](entries/vasudeva-visnu-tattva.md)
 
@@ -1628,7 +1628,7 @@
 
 **[[cc/madhya/1/256#translation|Madhya 1.256]]**...
 
-* as Prahlāda,, **[[cc/madhya/15/165#translation|Madhya 15.165]]**
+* as Prahlāda, **[[cc/madhya/15/165#translation|Madhya 15.165]]**
 
 *→ See all 23 references in* [Vāsudeva Datta](entries/vasudeva-datta.md)
 
@@ -1650,13 +1650,13 @@
 
 ### Vāsudeva manifestation as śuddha-sattva
 
-*  [[sb/3/26/21#purport|SB 3.26.21]], [[sb/3/27/13#purport|SB 3.27.13]]
+* [[sb/3/26/21#purport|SB 3.26.21]], [[sb/3/27/13#purport|SB 3.27.13]]
 
 ---
 
 ### Vasudeva platform
 
-*  [[sb/8/5/29#purport|SB 8.5.29]], [[sb/8/16/20#purport|SB 8.16.20]]
+* [[sb/8/5/29#purport|SB 8.5.29]], [[sb/8/16/20#purport|SB 8.16.20]]
 
 ---
 
@@ -1718,7 +1718,7 @@
 
 [[bg/8/22|Bg. 8.22]]...
 
-* addressed in Nārada’s mantra,, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
+* addressed in Nārada’s mantra, [[sb/6/16/18-19#purport|SB 6.16.18-19]]
 
 *→ See all 52 references in* [Vāsudeva, Lord](entries/vasudeva-lord.md)
 
@@ -1732,7 +1732,7 @@
 
 [[sb/6/12/3#purport|SB 6.12.3]]...
 
-* as anchor rope,, [[sb/8/24/45#purport|SB 8.24.45]]
+* as anchor rope, [[sb/8/24/45#purport|SB 8.24.45]]
 
 *→ See all 11 references in* [Vāsuki](entries/vasuki.md)
 
@@ -1838,7 +1838,7 @@
 
 ### Vatsaka
 
-*  [[sb/9/24/28-31#purport|SB 9.24.28-31]], [[sb/9/24/43#purport|SB 9.24.43]]
+* [[sb/9/24/28-31#purport|SB 9.24.28-31]], [[sb/9/24/43#purport|SB 9.24.43]]
 
 ---
 
@@ -1851,7 +1851,7 @@
 
 ### Vātsalya (filial love)
 
-*  [[sb/2/7/4#purport|SB 2.7.4]], [[sb/2/7/27#purport|SB 2.7.27]]
+* [[sb/2/7/4#purport|SB 2.7.4]], [[sb/2/7/27#purport|SB 2.7.27]]
 
 ---
 
@@ -1877,7 +1877,7 @@
 
 [[sb/5/22/7#purport|SB 5.22.7]]
 
-*  [[sb/4/10/1#purport|SB 4.10.1]], [[sb/4/13/11#purport|SB 4.13.11]], [[sb/4/13/12#purport|SB 4.13.12]]
+* [[sb/4/10/1#purport|SB 4.10.1]], [[sb/4/13/11#purport|SB 4.13.11]], [[sb/4/13/12#purport|SB 4.13.12]]
 
 ---
 
@@ -1921,7 +1921,7 @@
 
 [[cc/madhya/21/58#purport|Madhya 21.58]]
 
-*  [[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/23/39#purport|SB 3.23.39]]
+* [[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/23/39#purport|SB 3.23.39]]
 
 ---
 
@@ -1943,7 +1943,7 @@
 
 [[sb/1/10/3#purport|SB 1.10.3]], [[sb/1/10/27#purport|SB 1.10.27]], [[sb/1/13/4#purport|SB 1.13.4]]...
 
-* as demigod warrior,, [[sb/8/10/26#purport|SB 8.10.26]], [[sb/8/11/1#purport|SB 8.11.1]], [[sb/8/11/42#purport|SB 8.11.42]]
+* as demigod warrior, [[sb/8/10/26#purport|SB 8.10.26]], [[sb/8/11/1#purport|SB 8.11.1]], [[sb/8/11/42#purport|SB 8.11.42]]
 
 *→ See all 8 references in* [Vāyu, Lord](entries/vayu-lord.md)
 
@@ -2052,7 +2052,7 @@
 
 [[bg/10/32|Bg. 10.32]]...
 
-* ”cow killing” in,, SB Intro 10-11
+* ”cow killing” in, SB Intro 10-11
 
 *→ See all 417 references in* [Veda(s)](entries/vedas.md)
 
@@ -2152,7 +2152,7 @@
 
 ### [Vedānta-sūtra quoted](entries/vedanta-sutra-quoted.md)
 
-* as origin of everything,, [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/30/7#purport|SB 4.30.7]], [[sb/4/30/25#purport|SB 4.30.25]], [[sb/4/31/17#purport|SB 4.31.17]]
+* as origin of everything, [[sb/4/29/56#purport|SB 4.29.56]], [[sb/4/30/7#purport|SB 4.30.7]], [[sb/4/30/25#purport|SB 4.30.25]], [[sb/4/31/17#purport|SB 4.31.17]]
 
 *→ See all 32 references in* [Vedānta-sūtra quoted](entries/vedanta-sutra-quoted.md)
 
@@ -2176,7 +2176,7 @@
 
 [[bg/4/28|Bg. 4.28]], [[bg/10/32|Bg. 10.32]], [[bg/11/48|Bg. 11.48]]...
 
-* & *Śrīmad-Bhāgavatam,* 25,, [[bg/15/15|Bg. 15.15]]
+* & *Śrīmad-Bhāgavatam,* 25, [[bg/15/15|Bg. 15.15]]
 
 *→ See all 127 references in* [Vedānta-sūtra(s)](entries/vedanta-sutras.md)
 
@@ -2241,7 +2241,7 @@
 
 ### [Vedas cited](entries/vedas-cited.md)
 
-* on Brahmā, reception of,, [[sb/5/1/10#purport|SB 5.1.10]]
+* on Brahmā, reception of, [[sb/5/1/10#purport|SB 5.1.10]]
 
 *→ See all 9 references in* [Vedas cited](entries/vedas-cited.md)
 
@@ -2249,7 +2249,7 @@
 
 ### [Vedas quoted](entries/vedas-quoted.md)
 
-* on Brahmā & Brahmaloka,, [[sb/6/1/1#purport|SB 6.1.1]]
+* on Brahmā & Brahmaloka, [[sb/6/1/1#purport|SB 6.1.1]]
 
 *→ See all 7 references in* [Vedas quoted](entries/vedas-quoted.md)
 
@@ -2259,7 +2259,7 @@
 
 [[sb/6/6/20#purport|SB 6.6.20]]
 
-*  [[sb/8/1/21#purport|SB 8.1.21]], [[sb/8/5/3#purport|SB 8.5.3]]
+* [[sb/8/1/21#purport|SB 8.1.21]], [[sb/8/5/3#purport|SB 8.5.3]]
 
 ---
 
@@ -2328,7 +2328,7 @@
 
 ### Vedic civiliātion
 
-*  [[sb/6/7/13#purport|SB 6.7.13]], [[sb/6/16/43#purport|SB 6.16.43]]
+* [[sb/6/7/13#purport|SB 6.7.13]], [[sb/6/16/43#purport|SB 6.16.43]]
 
 *See also:* Varṇāśrama-dharma
 
@@ -2336,7 +2336,7 @@
 
 ### [Vedic civilization](entries/vedic-civilization.md)
 
-* basis of,, [[sb/5/10/15#purport|SB 5.10.15]]
+* basis of, [[sb/5/10/15#purport|SB 5.10.15]]
 
 *→ See all 8 references in* [Vedic civilization](entries/vedic-civilization.md)
 
@@ -2346,7 +2346,7 @@
 
 [[cc/madhya/25/193#purport|Madhya 25.193]]...
 
-* animal-hunting restricted in,, [[sb/9/6/7#purport|SB 9.6.7]]
+* animal-hunting restricted in, [[sb/9/6/7#purport|SB 9.6.7]]
 
 *→ See all 137 references in* [Vedic culture](entries/vedic-culture.md)
 
@@ -2375,7 +2375,7 @@
 
 [[cc/madhya/8/36#purport|Madhya 8.36]]...
 
-* as Lord’s order,, [[sb/10/2/14#purport|SB 10.2.14]]
+* as Lord’s order, [[sb/10/2/14#purport|SB 10.2.14]]
 
 *→ See all 30 references in* [Vedic injunctions](entries/vedic-injunctions.md)
 
@@ -2385,7 +2385,7 @@
 
 [[cc/madhya/12/38#purport|Madhya 12.38]]...
 
-* acceptance of,, [[sb/10/13/57#purport|SB 10.13.57]]
+* acceptance of, [[sb/10/13/57#purport|SB 10.13.57]]
 
 *→ See all 44 references in* [Vedic knowledge](entries/vedic-knowledge.md)
 
@@ -2412,7 +2412,7 @@
 
 **[[cc/adi/7/128#translation|Ādi 7.128]]**...
 
-* impractical nowadays,, [[sb/9/1/17#purport|SB 9.1.17]]
+* impractical nowadays, [[sb/9/1/17#purport|SB 9.1.17]]
 
 *→ See all 6 references in* [Vedic mantras](entries/vedic-mantras.md)
 
@@ -2441,7 +2441,7 @@
 
 [[bg/3/15|Bg. 3.15]]...
 
-* about animal sacrifice,, [[bg/4/7|Bg. 4.7]]
+* about animal sacrifice, [[bg/4/7|Bg. 4.7]]
 
 *→ See all 9 references in* [Vedic regulations](entries/vedic-regulations.md)
 
@@ -2451,7 +2451,7 @@
 
 [[cc/adi/8/17#purport|Ādi 8.17]]...
 
-* difficult today,, [[bg/2/46|Bg. 2.46]]
+* difficult today, [[bg/2/46|Bg. 2.46]]
 
 *→ See all 18 references in* [Vedic rituals](entries/vedic-rituals.md)
 
@@ -2516,7 +2516,7 @@
 * condemned, [[sb/7/1/17#purport|SB 7.1.17]]
 * Hiraṇyakaśipu compared to, [[sb/7/4/9-12#purport|SB 7.4.9-12]]
 * salvation eludes, [[sb/7/1/32#purport|SB 7.1.32]]
-*  [[sb/2/7/9#purport|SB 2.7.9]], [[sb/2/7/9#purport|SB 2.7.9]]
+* [[sb/2/7/9#purport|SB 2.7.9]], [[sb/2/7/9#purport|SB 2.7.9]]
 
 ---
 
@@ -2524,7 +2524,7 @@
 
 [[cc/madhya/17/185#purport|Madhya 17.185]]...
 
-* advised,, [[sb/4/14/14-17#purport|SB 4.14.14-17]], [[sb/4/14/18#purport|SB 4.14.18]], [[sb/4/14/20#purport|SB 4.14.20]], [[sb/4/14/21#purport|SB 4.14.21]], [[sb/4/14/22#purport|SB 4.14.22]]
+* advised, [[sb/4/14/14-17#purport|SB 4.14.14-17]], [[sb/4/14/18#purport|SB 4.14.18]], [[sb/4/14/20#purport|SB 4.14.20]], [[sb/4/14/21#purport|SB 4.14.21]], [[sb/4/14/22#purport|SB 4.14.22]]
 
 *→ See all 28 references in* [Vena, King](entries/vena-king.md)
 
@@ -2539,7 +2539,7 @@
 
 ### Veṅka
 
-*  [[sb/5/6/7#purport|SB 5.6.7]], [[sb/5/6/9#purport|SB 5.6.9]]
+* [[sb/5/6/7#purport|SB 5.6.7]], [[sb/5/6/9#purport|SB 5.6.9]]
 
 ---
 
@@ -2547,7 +2547,7 @@
 
 **[[cc/madhya/9/126#translation|Madhya 9.126]]**...
 
-* Caitanya corrects,, **[[cc/madhya/9/140–41#translation|Madhya 9.140–41]]**
+* Caitanya corrects, **[[cc/madhya/9/140–41#translation|Madhya 9.140–41]]**
 
 *→ See all 20 references in* [Veṅkata Bhaṭṭa](entries/venkata-bhatta.md)
 
@@ -2578,7 +2578,7 @@
 
 [[cc/madhya/6/230#purport|Madhya 6.230]]
 
-*  [[sb/5/22/12#purport|SB 5.22.12]], [[sb/5/23/7#purport|SB 5.23.7]]
+* [[sb/5/22/12#purport|SB 5.22.12]], [[sb/5/23/7#purport|SB 5.23.7]]
 
 ---
 
@@ -2658,7 +2658,7 @@
 ### Vibhinnāṁśa
 
 * defined, [[sb/5/3/18#purport|SB 5.3.18]], [[sb/9/11/1#purport|SB 9.11.1]]
-*  [[sb/5/2/13#purport|SB 5.2.13]], [[sb/5/15/6#purport|SB 5.15.6]]
+* [[sb/5/2/13#purport|SB 5.2.13]], [[sb/5/15/6#purport|SB 5.15.6]]
 
 *See also:* Living entity
 
@@ -2675,13 +2675,13 @@
 
 [[sb/10/1/56#purport|SB 10.1.56]], [[sb/3/21/32#purport|SB 3.21.32]]
 
-*  [[sb/4/22/29#purport|SB 4.22.29]], [[sb/4/28/53#purport|SB 4.28.53]]
+* [[sb/4/22/29#purport|SB 4.22.29]], [[sb/4/28/53#purport|SB 4.28.53]]
 
 ---
 
 ### Vibhinnāṁśa expansions of Lord
 
-*  [[sb/4/1/15#purport|SB 4.1.15]], [[sb/4/7/43#purport|SB 4.7.43]]
+* [[sb/4/1/15#purport|SB 4.1.15]], [[sb/4/7/43#purport|SB 4.7.43]]
 
 ---
 
@@ -2711,7 +2711,7 @@
 
 ### Vibhrājita
 
-*  [[sb/4/25/47#purport|SB 4.25.47]], [[sb/4/29/10#purport|SB 4.29.10]]
+* [[sb/4/25/47#purport|SB 4.25.47]], [[sb/4/29/10#purport|SB 4.29.10]]
 
 ---
 
@@ -2726,7 +2726,7 @@
 
 [[sb/5/15/6#purport|SB 5.15.6]]...
 
-* as brahmacārī,, [[sb/8/1/22#purport|SB 8.1.22]]
+* as brahmacārī, [[sb/8/1/22#purport|SB 8.1.22]]
 
 *→ See all 6 references in* [Vibhu](entries/vibhu.md)
 
@@ -2755,7 +2755,7 @@
 
 ### Vibhu, Lord
 
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
+* [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
 
 ---
 
@@ -2811,7 +2811,7 @@
 
 [[sb/1/13/21#purport|SB 1.13.21]], [[sb/3/5/20#purport|SB 3.5.20]]
 
-*  [[sb/9/22/20#purport|SB 9.22.20]], [[sb/9/22/21-24#purport|SB 9.22.21-24]], [[sb/9/22/25#purport|SB 9.22.25]]
+* [[sb/9/22/20#purport|SB 9.22.20]], [[sb/9/22/21-24#purport|SB 9.22.21-24]], [[sb/9/22/25#purport|SB 9.22.25]]
 
 ---
 
@@ -2840,7 +2840,7 @@
 
 [[cc/adi/10/84#purport|Ādi 10.84]] (2 purport...
 
-* description of contents of,, [[cc/madhya/1/41#purport|Madhya 1.41]]
+* description of contents of, [[cc/madhya/1/41#purport|Madhya 1.41]]
 
 *→ See all 9 references in* [Vidagdha-mādhava](entries/vidagdha-madhava.md)
 
@@ -2850,7 +2850,7 @@
 
 [[cc/madhya/11/31#purport|Madhya 11.31]]...
 
-* on Caitanya,, **[[cc/adi/3/4#translation|Ādi 3.4]]**, **[[cc/antya/1/132#translation|Antya 1.132]]**
+* on Caitanya, **[[cc/adi/3/4#translation|Ādi 3.4]]**, **[[cc/antya/1/132#translation|Antya 1.132]]**
 
 *→ See all 24 references in* [Vidagdha-mādhava quoted](entries/vidagdha-madhava-quoted.md)
 
@@ -2869,7 +2869,7 @@
 
 ### Vidarbha (son of Jyāmagha)
 
-*  [[sb/9/23/38#purport|SB 9.23.38]], [[sb/9/24/1#purport|SB 9.24.1]]
+* [[sb/9/23/38#purport|SB 9.23.38]], [[sb/9/24/1#purport|SB 9.24.1]]
 
 ---
 
@@ -2904,7 +2904,7 @@
 
 ### Vidharma defined
 
-*  [[sb/7/15/12#purport|SB 7.15.12]], [[sb/7/15/13#purport|SB 7.15.13]]
+* [[sb/7/15/12#purport|SB 7.15.12]], [[sb/7/15/13#purport|SB 7.15.13]]
 
 ---
 
@@ -2912,13 +2912,13 @@
 
 [[sb/5/23/5#purport|SB 5.23.5]]
 
-*  [[sb/6/6/38-39#purport|SB 6.6.38-39]], [[sb/6/18/3-4#purport|SB 6.18.3-4]]
+* [[sb/6/6/38-39#purport|SB 6.6.38-39]], [[sb/6/18/3-4#purport|SB 6.18.3-4]]
 
 ---
 
 ### Vidhātā (son of Bhṛgu)
 
-*  [[sb/4/1/43#purport|SB 4.1.43]], [[sb/4/1/44#purport|SB 4.1.44]]
+* [[sb/4/1/43#purport|SB 4.1.43]], [[sb/4/1/44#purport|SB 4.1.44]]
 
 ---
 
@@ -2945,7 +2945,7 @@
 
 ### Vidhi-bhakti defined
 
-*  [[sb/2/3/24#purport|SB 2.3.24]], [[sb/2/9/31#purport|SB 2.9.31]]
+* [[sb/2/3/24#purport|SB 2.3.24]], [[sb/2/9/31#purport|SB 2.9.31]]
 
 ---
 
@@ -2996,7 +2996,7 @@
 
 ### [Vidura quoted](entries/vidura-quoted.md)
 
-* on Aṅga,, [[sb/4/13/21#purport|SB 4.13.21]]
+* on Aṅga, [[sb/4/13/21#purport|SB 4.13.21]]
 
 *→ See all 10 references in* [Vidura quoted](entries/vidura-quoted.md)
 
@@ -3011,7 +3011,7 @@
 
 ### Vidūratha (son of Citraratha)
 
-*  [[sb/9/24/16-18#purport|SB 9.24.16-18]], [[sb/9/24/26#purport|SB 9.24.26]]
+* [[sb/9/24/16-18#purport|SB 9.24.16-18]], [[sb/9/24/26#purport|SB 9.24.26]]
 
 ---
 
@@ -3031,7 +3031,7 @@
 
 ### [Vidyā](entries/vidya.md)
 
-* Lord understood through,, [[sb/6/16/51#purport|SB 6.16.51]]
+* Lord understood through, [[sb/6/16/51#purport|SB 6.16.51]]
 
 *→ See all 6 references in* [Vidyā](entries/vidya.md)
 
@@ -3075,7 +3075,7 @@
 
 **[[cc/madhya/25/77#translation|Madhya 25.77]]**...
 
-* at Pṛthu’s horse sacrifices,, [[sb/4/19/5#purport|SB 4.19.5]]
+* at Pṛthu’s horse sacrifices, [[sb/4/19/5#purport|SB 4.19.5]]
 
 *→ See all 13 references in* [Vidyādharas](entries/vidyadharas.md)
 
@@ -3083,7 +3083,7 @@
 
 ### Vidyādharas, Citraketu rules
 
-*  [[sb/6/16/28#purport|SB 6.16.28]], [[sb/6/16/29#purport|SB 6.16.29]], [[sb/6/17/1#purport|SB 6.17.1]]
+* [[sb/6/16/28#purport|SB 6.16.28]], [[sb/6/16/29#purport|SB 6.16.29]], [[sb/6/17/1#purport|SB 6.17.1]]
 
 ---
 
@@ -3215,13 +3215,13 @@
 
 ### Vijaya (son of Purūravā)
 
-*  [[sb/9/15/1#purport|SB 9.15.1]], [[sb/9/15/2-3#purport|SB 9.15.2-3]]
+* [[sb/9/15/1#purport|SB 9.15.1]], [[sb/9/15/2-3#purport|SB 9.15.2-3]]
 
 ---
 
 ### Vijaya (son of Sudeva)
 
-*  [[sb/9/8/1#purport|SB 9.8.1]], [[sb/9/8/2#purport|SB 9.8.2]]
+* [[sb/9/8/1#purport|SB 9.8.1]], [[sb/9/8/2#purport|SB 9.8.2]]
 
 ---
 
@@ -3292,7 +3292,7 @@
 
 ### [Vijayadhvaja Tīrtha](entries/vijayadhvaja-tirtha.md)
 
-* cited on supplementary verse to Śrīmad-Bhāgavatam,, [[sb/4/29/1#purport|SB 4.29.1]]a-2a
+* cited on supplementary verse to Śrīmad-Bhāgavatam, [[sb/4/29/1#purport|SB 4.29.1]]a-2a
 
 *→ See all 6 references in* [Vijayadhvaja Tīrtha](entries/vijayadhvaja-tirtha.md)
 
@@ -3344,7 +3344,7 @@
 
 [[sb/10/2/35#purport|SB 10.2.35]], [[sb/3/24/17#purport|SB 3.24.17]]
 
-*  [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/22/33#purport|SB 4.22.33]]
+* [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/22/33#purport|SB 4.22.33]]
 
 ---
 
@@ -3449,7 +3449,7 @@
 
 ### [Vikukṣi](entries/vikuksi.md)
 
-* as Ikṣvāku’s son,, [[sb/9/6/4#purport|SB 9.6.4]], [[sb/9/6/6#purport|SB 9.6.6]]
+* as Ikṣvāku’s son, [[sb/9/6/4#purport|SB 9.6.4]], [[sb/9/6/6#purport|SB 9.6.6]]
 
 *→ See all 7 references in* [Vikukṣi](entries/vikuksi.md)
 
@@ -3541,7 +3541,7 @@
 
 ### Vimukti defined
 
-*  [[sb/10/9/20#purport|SB 10.9.20]], [[sb/10/12/33#purport|SB 10.12.33]]
+* [[sb/10/9/20#purport|SB 10.9.20]], [[sb/10/12/33#purport|SB 10.12.33]]
 
 ---
 
@@ -3629,7 +3629,7 @@
 
 [[sb/1/7/36#purport|SB 1.7.36]]...
 
-* *kṣatriyas *may use,, [[bg/16/1|Bg. 16.1]] (16), [[bg/18/47|Bg. 18.47]], [[bg/18/48|Bg. 18.48]]
+* *kṣatriyas *may use, [[bg/16/1|Bg. 16.1]] (16), [[bg/18/47|Bg. 18.47]], [[bg/18/48|Bg. 18.48]]
 
 *→ See all 27 references in* [Violence](entries/violence.md)
 
@@ -3644,7 +3644,7 @@
 
 ### Vipaṇa
 
-*  [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/11#purport|SB 4.29.11]]
+* [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/11#purport|SB 4.29.11]]
 
 ---
 
@@ -3666,7 +3666,7 @@
 
 [[sb/9/22/46-48#purport|SB 9.22.46-48]]...
 
-* as astrologers,, [[sb/1/12/29#purport|SB 1.12.29]]
+* as astrologers, [[sb/1/12/29#purport|SB 1.12.29]]
 
 *→ See all 10 references in* [Vipra(s)](entries/vipras.md)
 
@@ -3683,7 +3683,7 @@
 
 [[sb/1/15/9#purport|SB 1.15.9]], [[sb/7/2/4-5#purport|SB 7.2.4-5]], [[sb/8/10/19-24#purport|SB 8.10.19-24]]
 
-*  [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
+* [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
 * wife & sons of, [[sb/6/6/37#purport|SB 6.6.37]]
 
 ---
@@ -3760,7 +3760,7 @@
 
 ### [Vīrabhadra demon](entries/virabhadra-demon.md)
 
-* as anger personified,, [[sb/4/5/5#purport|SB 4.5.5]]
+* as anger personified, [[sb/4/5/5#purport|SB 4.5.5]]
 
 *→ See all 7 references in* [Vīrabhadra demon](entries/virabhadra-demon.md)
 
@@ -3874,7 +3874,7 @@
 
 ### [Vīrarāghava Ācārya cited](entries/viraraghava-acarya-cited.md)
 
-* on alakā,, [[sb/4/6/23#purport|SB 4.6.23]]
+* on alakā, [[sb/4/6/23#purport|SB 4.6.23]]
 
 *→ See all 18 references in* [Vīrarāghava Ācārya cited](entries/viraraghava-acarya-cited.md)
 
@@ -3941,7 +3941,7 @@
 
 ### Virāṭ-rūpa of Lord
 
-*  [[sb/1/3/30#purport|SB 1.3.30]], [[sb/1/3/30-31#purport|SB 1.3.30-31]], [[sb/1/14/8#purport|SB 1.14.8]]
+* [[sb/1/3/30#purport|SB 1.3.30]], [[sb/1/3/30-31#purport|SB 1.3.30-31]], [[sb/1/14/8#purport|SB 1.14.8]]
 
 ---
 
@@ -3973,13 +3973,13 @@
 
 ### Virāṭa-rūpa (universal form of Lord)
 
-*  [[sb/6/4/32#purport|SB 6.4.32]], [[sb/6/9/26-27#purport|SB 6.9.26-27]]
+* [[sb/6/4/32#purport|SB 6.4.32]], [[sb/6/9/26-27#purport|SB 6.9.26-27]]
 
 ---
 
 ### Virāṭa-rūpa defined
 
-*  [[sb/5/18/31#purport|SB 5.18.31]], [[sb/5/23/4#purport|SB 5.23.4]]
+* [[sb/5/18/31#purport|SB 5.18.31]], [[sb/5/23/4#purport|SB 5.23.4]]
 
 ---
 
@@ -3994,7 +3994,7 @@
 
 [[cc/antya/9/10#purport|Antya 9.10]]...
 
-* as Bali’s father,, [[sb/8/10/16-18#purport|SB 8.10.16-18]], [[sb/8/13/12#purport|SB 8.13.12]], [[sb/8/15/33#purport|SB 8.15.33]], [[sb/8/19/14-14#purport|SB 8.19.14-14]]
+* as Bali’s father, [[sb/8/10/16-18#purport|SB 8.10.16-18]], [[sb/8/13/12#purport|SB 8.13.12]], [[sb/8/15/33#purport|SB 8.15.33]], [[sb/8/19/14-14#purport|SB 8.19.14-14]]
 
 *→ See all 7 references in* [Virocana](entries/virocana.md)
 
@@ -4002,13 +4002,13 @@
 
 ### Virocana Mahārāja
 
-*  [[sb/5/15/14-15#purport|SB 5.15.14-15]], [[sb/5/24/18#purport|SB 5.24.18]]
+* [[sb/5/15/14-15#purport|SB 5.15.14-15]], [[sb/5/24/18#purport|SB 5.24.18]]
 
 ---
 
 ### [Virtue(s)](entries/virtues.md)
 
-* ages when prominent,, [[bg/8/17|Bg. 8.17]]
+* ages when prominent, [[bg/8/17|Bg. 8.17]]
 
 *→ See all 69 references in* [Virtue(s)](entries/virtues.md)
 
@@ -4212,7 +4212,7 @@
 
 ### Vision, material vs. spiritual
 
-*  [[sb/4/20/38#purport|SB 4.20.38]], [[sb/4/22/28#purport|SB 4.22.28]], [[sb/4/22/29#purport|SB 4.22.29]]
+* [[sb/4/20/38#purport|SB 4.20.38]], [[sb/4/22/28#purport|SB 4.22.28]], [[sb/4/22/29#purport|SB 4.22.29]]
 
 ---
 
@@ -4232,7 +4232,7 @@
 
 ### Vision, two types of
 
-*  [[sb/3/1/6#purport|SB 3.1.6]], [[sb/3/5/45#purport|SB 3.5.45]]
+* [[sb/3/1/6#purport|SB 3.1.6]], [[sb/3/5/45#purport|SB 3.5.45]]
 
 ---
 
@@ -4252,7 +4252,7 @@
 
 ### Visiting of friends (relatives)
 
-*  [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18-18#purport|SB 4.3.18-18]]
+* [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18-18#purport|SB 4.3.18-18]]
 
 ---
 
@@ -4296,7 +4296,7 @@
 
 ### [Viṣṇu Purāṇa cited](entries/visnu-purana-cited.md)
 
-* on Aṣṭāvakra’s curse,, [[sb/1/15/20#purport|SB 1.15.20]]
+* on Aṣṭāvakra’s curse, [[sb/1/15/20#purport|SB 1.15.20]]
 
 *→ See all 9 references in* [Viṣṇu Purāṇa cited](entries/visnu-purana-cited.md)
 
@@ -4313,7 +4313,7 @@
 
 ### Viṣṇu Purāṇa cited on varṇāśrama-dharma
 
-*  [[sb/4/20/28#purport|SB 4.20.28]], [[sb/4/21/27#purport|SB 4.21.27]]
+* [[sb/4/20/28#purport|SB 4.20.28]], [[sb/4/21/27#purport|SB 4.21.27]]
 
 ---
 
@@ -4321,7 +4321,7 @@
 
 **[[cc/madhya/13/77#translation|Madhya 13.77]]**...
 
-* number of,, [[cc/madhya/19/138#purport|Madhya 19.138]]
+* number of, [[cc/madhya/19/138#purport|Madhya 19.138]]
 
 *→ See all 36 references in* [Viṣṇu Purāṇa quoted](entries/visnu-purana-quoted.md)
 
@@ -4336,13 +4336,13 @@
 
 ### Viṣṇu Purāṇa quoted on varṇāśrama-dharma
 
-*  [[sb/7/5/5#purport|SB 7.5.5]], [[sb/7/15/14#purport|SB 7.15.14]]
+* [[sb/7/5/5#purport|SB 7.5.5]], [[sb/7/15/14#purport|SB 7.15.14]]
 
 ---
 
 ### Viṣṇu Purāṇa quoted on varṇāśrama, Lord worshiped by execution of
 
-*  [[sb/5/1/14#purport|SB 5.1.14]], [[sb/5/19/19#purport|SB 5.19.19]]
+* [[sb/5/1/14#purport|SB 5.1.14]], [[sb/5/19/19#purport|SB 5.19.19]]
 
 ---
 
@@ -4355,7 +4355,7 @@
 
 ### [Viṣṇu quoted](entries/visnu-quoted.md)
 
-* on detachment from bodily concept,, [[sb/4/20/5#purport|SB 4.20.5]], [[sb/4/20/6#purport|SB 4.20.6]]
+* on detachment from bodily concept, [[sb/4/20/5#purport|SB 4.20.5]], [[sb/4/20/6#purport|SB 4.20.6]]
 
 *→ See all 13 references in* [Viṣṇu quoted](entries/visnu-quoted.md)
 
@@ -4514,7 +4514,7 @@
 
 [[bg/2/17|Bg. 2.17]]...
 
-* ”percentage” of Kṛṣṇa in,, [[sb/4/1/15#purport|SB 4.1.15]]
+* ”percentage” of Kṛṣṇa in, [[sb/4/1/15#purport|SB 4.1.15]]
 
 *→ See all 24 references in* [Viṣṇu-tattva(s)](entries/visnu-tattvas.md)
 
@@ -4552,7 +4552,7 @@
 
 [[bg/11/55|Bg. 11.55]] (6), [[bg/15/7|Bg. 15.7]], [[bg/18/65|Bg. 18.65]]...
 
-* ”percentage” of Kṛṣṇa in,, [[sb/4/1/15#purport|SB 4.1.15]]
+* ”percentage” of Kṛṣṇa in, [[sb/4/1/15#purport|SB 4.1.15]]
 
 *→ See all 416 references in* [Viṣṇu, Lord](entries/visnu-lord.md)
 
@@ -4574,7 +4574,7 @@
 
 ### [Viṣṇudūtas](entries/visnudutas.md)
 
-* Ajāmila released by,, [[sb/6/2/20#purport|SB 6.2.20]]
+* Ajāmila released by, [[sb/6/2/20#purport|SB 6.2.20]]
 
 *→ See all 17 references in* [Viṣṇudūtas](entries/visnudutas.md)
 
@@ -4588,7 +4588,7 @@
 
 [[cc/adi/5/40#purport|Ādi 5.40]]...
 
-* as achieved rarely,, [[sb/4/12/25#purport|SB 4.12.25]], [[sb/4/12/26#purport|SB 4.12.26]]
+* as achieved rarely, [[sb/4/12/25#purport|SB 4.12.25]], [[sb/4/12/26#purport|SB 4.12.26]]
 
 *→ See all 7 references in* [Viṣṇuloka](entries/visnuloka.md)
 
@@ -4682,7 +4682,7 @@
 
 [[sb/3/23/1#purport|SB 3.23.1]]
 
-*  [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/76#purport|SB 4.24.76]], [[sb/4/28/31#purport|SB 4.28.31]]
+* [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/76#purport|SB 4.24.76]], [[sb/4/28/31#purport|SB 4.28.31]]
 
 ---
 
@@ -4718,7 +4718,7 @@
 
 [[sb/7/1/44#purport|SB 7.1.44]]
 
-*  [[sb/9/2/32#purport|SB 9.2.32]], [[sb/9/10/15#purport|SB 9.10.15]]
+* [[sb/9/2/32#purport|SB 9.2.32]], [[sb/9/10/15#purport|SB 9.10.15]]
 
 ---
 
@@ -4852,13 +4852,13 @@
 
 ### Viśva-rūpa of Lord
 
-*  [[sb/1/3/30#purport|SB 1.3.30]], [[sb/1/3/30-31#purport|SB 1.3.30-31]]
+* [[sb/1/3/30#purport|SB 1.3.30]], [[sb/1/3/30-31#purport|SB 1.3.30-31]]
 
 ---
 
 ### Viśvabāhu
 
-*  [[sb/9/12/7#purport|SB 9.12.7]], [[sb/9/12/8#purport|SB 9.12.8]]
+* [[sb/9/12/7#purport|SB 9.12.7]], [[sb/9/12/8#purport|SB 9.12.8]]
 
 ---
 
@@ -4866,7 +4866,7 @@
 
 [[sb/2/3/2-7#purport|SB 2.3.2-7]]
 
-*  [[sb/1/12/33#purport|SB 1.12.33]], [[sb/1/15/16#purport|SB 1.15.16]], [[sb/6/6/15#purport|SB 6.6.15]], [[sb/6/10/17-18#purport|SB 6.10.17-18]]
+* [[sb/1/12/33#purport|SB 1.12.33]], [[sb/1/15/16#purport|SB 1.15.16]], [[sb/6/6/15#purport|SB 6.6.15]], [[sb/6/10/17-18#purport|SB 6.10.17-18]]
 
 ---
 
@@ -4909,7 +4909,7 @@
 
 [[sb/4/15/17#purport|SB 4.15.17]]...
 
-* as heaven’s engineer,, [[sb/8/22/32#purport|SB 8.22.32]]
+* as heaven’s engineer, [[sb/8/22/32#purport|SB 8.22.32]]
 
 *→ See all 11 references in* [Viśvakarmā](entries/visvakarma.md)
 
@@ -4919,7 +4919,7 @@
 
 [[sb/5/20/40#purport|SB 5.20.40]]
 
-*  [[sb/9/21/25#purport|SB 9.21.25]], [[sb/9/21/26#purport|SB 9.21.26]]
+* [[sb/9/21/25#purport|SB 9.21.25]], [[sb/9/21/26#purport|SB 9.21.26]]
 
 ---
 
@@ -4927,7 +4927,7 @@
 
 [[cc/adi/2/97#purport|Ādi 2.97]]
 
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/6/8/29#purport|SB 6.8.29]], [[sb/6/19/7#purport|SB 6.19.7]]
+* [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]], [[sb/6/8/29#purport|SB 6.8.29]], [[sb/6/19/7#purport|SB 6.19.7]]
 
 ---
 
@@ -4974,7 +4974,7 @@
 
 [[sb/1/6/35#purport|SB 1.6.35]], [[sb/2/1/18#purport|SB 2.1.18]]
 
-*  [[sb/4/22/21#purport|SB 4.22.21]], [[sb/4/24/12#purport|SB 4.24.12]], [[sb/4/30/13#purport|SB 4.30.13]]
+* [[sb/4/22/21#purport|SB 4.22.21]], [[sb/4/24/12#purport|SB 4.24.12]], [[sb/4/30/13#purport|SB 4.30.13]]
 
 ---
 
@@ -4989,7 +4989,7 @@
 
 [[bg/31|Bg. 31]]...
 
-* Ambarīṣa supported by,, [[sb/9/4/44#purport|SB 9.4.44]]
+* Ambarīṣa supported by, [[sb/9/4/44#purport|SB 9.4.44]]
 
 *→ See all 25 references in* [Viśvanātha Cakravartī Ṭhākura](entries/visvanatha-cakravarti-thakura.md)
 
@@ -5067,7 +5067,7 @@
 
 [[sb/6/6/44#purport|SB 6.6.44]]...
 
-* accepted, as their priest,, [[sb/6/6/45#purport|SB 6.6.45]]
+* accepted, as their priest, [[sb/6/6/45#purport|SB 6.6.45]]
 
 *→ See all 17 references in* [Viśvarūpa (son of Tvaṣṭā)](entries/visvarupa-son-of-tvasta.md)
 
@@ -5112,7 +5112,7 @@
 
 [[sb/4/18/17#purport|SB 4.18.17]], [[sb/8/11/41#purport|SB 8.11.41]]
 
-*  [[sb/3/20/39#purport|SB 3.20.39]], [[sb/3/22/17#purport|SB 3.22.17]], [[sb/3/22/18#purport|SB 3.22.18]]
+* [[sb/3/20/39#purport|SB 3.20.39]], [[sb/3/22/17#purport|SB 3.22.17]], [[sb/3/22/18#purport|SB 3.22.18]]
 
 ---
 
@@ -5146,13 +5146,13 @@
 
 ### Vital force
 
-*  [[sb/4/25/21#purport|SB 4.25.21]], [[sb/4/25/27#purport|SB 4.25.27]], [[sb/4/25/35#purport|SB 4.25.35]]
+* [[sb/4/25/21#purport|SB 4.25.21]], [[sb/4/25/27#purport|SB 4.25.27]], [[sb/4/25/35#purport|SB 4.25.35]]
 
 ---
 
 ### Vitala planetary system
 
-*  [[sb/5/23/9#purport|SB 5.23.9]], [[sb/5/24/17#purport|SB 5.24.17]]
+* [[sb/5/23/9#purport|SB 5.23.9]], [[sb/5/24/17#purport|SB 5.24.17]]
 
 ---
 
@@ -5165,7 +5165,7 @@
 
 ### Vitatha (Bharadvāja)
 
-*  [[sb/9/20/35#purport|SB 9.20.35]], [[sb/9/20/37-39#purport|SB 9.20.37-39]], [[sb/9/21/1#purport|SB 9.21.1]]
+* [[sb/9/20/35#purport|SB 9.20.35]], [[sb/9/20/37-39#purport|SB 9.20.37-39]], [[sb/9/21/1#purport|SB 9.21.1]]
 
 ---
 
@@ -5199,7 +5199,7 @@
 
 ### Vītihotra
 
-*  [[sb/5/1/33#purport|SB 5.1.33]], [[sb/5/20/31#purport|SB 5.20.31]]
+* [[sb/5/1/33#purport|SB 5.1.33]], [[sb/5/20/31#purport|SB 5.20.31]]
 
 ---
 
@@ -5242,7 +5242,7 @@
 
 [[cc/adi/5/221#purport|Ādi 5.221]]...
 
-* *Bhagavad-gītā *spoken to,, [[bg/4/1|Bg. 4.1]], [[bg/4/4|Bg. 4.4]], [[bg/4/5|Bg. 4.5]]
+* *Bhagavad-gītā *spoken to, [[bg/4/1|Bg. 4.1]], [[bg/4/4|Bg. 4.4]], [[bg/4/5|Bg. 4.5]]
 
 *→ See all 26 references in* [Vivasvān](entries/vivasvan.md)
 
@@ -5284,7 +5284,7 @@
 
 ### Viviṁśati
 
-*  [[sb/9/2/23-24#purport|SB 9.2.23-24]], [[sb/9/2/25#purport|SB 9.2.25]]
+* [[sb/9/2/23-24#purport|SB 9.2.23-24]], [[sb/9/2/25#purport|SB 9.2.25]]
 
 ---
 
@@ -5299,7 +5299,7 @@
 
 ### Voice from sky quoted on Duṣmanta, fatherhood, & Sakuntalā
 
-*  [[sb/9/20/21#purport|SB 9.20.21]], [[sb/9/20/22#purport|SB 9.20.22]]
+* [[sb/9/20/21#purport|SB 9.20.21]], [[sb/9/20/22#purport|SB 9.20.22]]
 
 ---
 
@@ -5314,7 +5314,7 @@
 
 [[cc/madhya/6/168#purport|Madhya 6.168]]...
 
-* philosophy of,, [[sb/3/27/17#purport|SB 3.27.17]]
+* philosophy of, [[sb/3/27/17#purport|SB 3.27.17]]
 
 *→ See all 6 references in* [Voidism](entries/voidism.md)
 
@@ -5385,7 +5385,7 @@
 
 ### [Vow(s)](entries/vows.md)
 
-* for cow protection,, [[sb/9/2/3#purport|SB 9.2.3]]
+* for cow protection, [[sb/9/2/3#purport|SB 9.2.3]]
 
 *→ See all 7 references in* [Vow(s)](entries/vows.md)
 
@@ -5520,7 +5520,7 @@
 
 [[sb/7/2/18-19#purport|SB 7.2.18-19]]
 
-*  [[sb/4/22/54#purport|SB 4.22.54]], [[sb/4/24/2#purport|SB 4.24.2]]
+* [[sb/4/22/54#purport|SB 4.22.54]], [[sb/4/24/2#purport|SB 4.24.2]]
 
 ---
 
@@ -5572,7 +5572,7 @@
 
 [[bg/6/11|Bg. 6.11]], [[bg/8/22|Bg. 8.22]], [[bg/9/19|Bg. 9.19]]...
 
-* ”Anglican temple” in,, [[sb/7/15/2#purport|SB 7.15.2]]
+* ”Anglican temple” in, [[sb/7/15/2#purport|SB 7.15.2]]
 
 *→ See all 299 references in* [Vṛndāvana](entries/vrndavana.md)
 
@@ -5580,7 +5580,7 @@
 
 ### [Vṛndāvana (Vraja)](entries/vrndavana-vraja.md)
 
-* as loved in,, [[sb/3/2/28#purport|SB 3.2.28]]
+* as loved in, [[sb/3/2/28#purport|SB 3.2.28]]
 
 *→ See all 12 references in* [Vṛndāvana (Vraja)](entries/vrndavana-vraja.md)
 
@@ -5608,7 +5608,7 @@
 
 **[[cc/madhya/18/78–79#translation|Madhya 18.78–79]]**...
 
-* Advaita &,, **[[cc/madhya/16/210#translation|Madhya 16.210]]**
+* Advaita &, **[[cc/madhya/16/210#translation|Madhya 16.210]]**
 
 *→ See all 98 references in* [Vṛndāvana journey by Caitanya](entries/vrndavana-journey-by-caitanya.md)
 
@@ -5691,13 +5691,13 @@
 [[sb/8/10/30-31#purport|SB 8.10.30-31]]
 
 * daughter of, [[sb/6/6/32#purport|SB 6.6.32]]
-*  [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
+* [[sb/6/6/29-31#purport|SB 6.6.29-31]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]
 
 ---
 
 ### Vṛṣaparvā, King
 
-*  [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/26-29#purport|SB 9.18.26-29]]
+* [[sb/9/18/4#purport|SB 9.18.4]], [[sb/9/18/26-29#purport|SB 9.18.26-29]]
 
 ---
 
@@ -5717,7 +5717,7 @@
 
 ### Vṛṣṇi (son of Anamitra)
 
-*  [[sb/9/24/14#purport|SB 9.24.14]], [[sb/9/24/15#purport|SB 9.24.15]]
+* [[sb/9/24/14#purport|SB 9.24.14]], [[sb/9/24/15#purport|SB 9.24.15]]
 
 ---
 
@@ -5730,31 +5730,31 @@
 
 ### Vṛṣṇi (son of Madhu)
 
-*  [[sb/9/23/29#purport|SB 9.23.29]], [[sb/9/23/30-31#purport|SB 9.23.30-31]], [[sb/9/24/16-18#purport|SB 9.24.16-18]]
+* [[sb/9/23/29#purport|SB 9.23.29]], [[sb/9/23/30-31#purport|SB 9.23.30-31]], [[sb/9/24/16-18#purport|SB 9.24.16-18]]
 
 ---
 
 ### Vṛṣṇi (son of Sātvata)
 
-*  [[sb/9/24/6-8#purport|SB 9.24.6-8]], [[sb/9/24/12#purport|SB 9.24.12]]
+* [[sb/9/24/6-8#purport|SB 9.24.6-8]], [[sb/9/24/12#purport|SB 9.24.12]]
 
 ---
 
 ### Vṛṣṇi dynasty
 
-*  [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/62-63#purport|SB 10.1.62-63]]
+* [[sb/10/1/62-63#purport|SB 10.1.62-63]], [[sb/10/1/62-63#purport|SB 10.1.62-63]]
 
 ---
 
 ### Vṛṣṇi family
 
-*  [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/14/30#purport|SB 1.14.30]]
+* [[sb/1/3/23#purport|SB 1.3.23]], [[sb/1/14/30#purport|SB 1.14.30]]
 
 ---
 
 ### Vṛṣṇi, King
 
-*  [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/11/11#purport|SB 1.11.11]]
+* [[sb/1/9/18#purport|SB 1.9.18]], [[sb/1/11/11#purport|SB 1.11.11]]
 
 ---
 
@@ -5790,7 +5790,7 @@
 
 [[cc/madhya/9/270#purport|Madhya 9.270]]...
 
-* as brāhmaṇa,, [[sb/6/13/3#purport|SB 6.13.3]]
+* as brāhmaṇa, [[sb/6/13/3#purport|SB 6.13.3]]
 
 *→ See all 49 references in* [Vṛtrāsura](entries/vrtrasura.md)
 
@@ -5805,7 +5805,7 @@
 
 ### Vṛtrāsura, Indra killed
 
-*  [[sb/8/11/32#purport|SB 8.11.32]], [[sb/8/11/35#purport|SB 8.11.35]]
+* [[sb/8/11/32#purport|SB 8.11.32]], [[sb/8/11/35#purport|SB 8.11.35]]
 
 ---
 
@@ -5901,7 +5901,7 @@
 
 [[cc/adi/17/16#purport|Ādi 17.16]]...
 
-* Antya),, [[cc/madhya/6/120#purport|Madhya 6.120]], [[cc/madhya/6/127#purport|Madhya 6.127]]
+* Antya), [[cc/madhya/6/120#purport|Madhya 6.120]], [[cc/madhya/6/127#purport|Madhya 6.127]]
 
 *→ See all 64 references in* [Vyāsa, Kṛṣṇa-dvaipāyana](entries/vyasa-krsna-dvaipayana.md)
 
@@ -5911,7 +5911,7 @@
 
 [[bg/5|Bg. 5]], [[bg/2/32|Bg. 2.32]], [[bg/7/24|Bg. 7.24]] (1)...
 
-* able to describe Lord,, [[sb/1/5/13#purport|SB 1.5.13]]
+* able to describe Lord, [[sb/1/5/13#purport|SB 1.5.13]]
 
 *→ See all 114 references in* [Vyāsadeva](entries/vyasadeva.md)
 
@@ -5921,7 +5921,7 @@
 
 [[sb/3/20/3-3#purport|SB 3.20.3-3]], [[sb/3/21/20#purport|SB 3.21.20]], [[sb/3/25/4#purport|SB 3.25.4]]...
 
-* as authority,, [[sb/7/4/17#purport|SB 7.4.17]]
+* as authority, [[sb/7/4/17#purport|SB 7.4.17]]
 
 *→ See all 16 references in* [Vyāsadeva, Śrīla](entries/vyasadeva-srila.md)
 

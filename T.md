@@ -8,7 +8,7 @@
 
 ### ”Ta-pa,” Brahmā heard
 
-*  [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/7#purport|SB 2.9.7]], [[sb/2/9/7#purport|SB 2.9.7]]
+* [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/6#purport|SB 2.9.6]], [[sb/2/9/7#purport|SB 2.9.7]], [[sb/2/9/7#purport|SB 2.9.7]]
 
 ---
 
@@ -42,7 +42,7 @@
 
 ### [Taittirīya Upaniṣad quoted](entries/taittiriya-upanisad-quoted.md)
 
-* on blissfulness of understanding Kṛṣṇa,, [[bg/14/27|Bg. 14.27]]
+* on blissfulness of understanding Kṛṣṇa, [[bg/14/27|Bg. 14.27]]
 
 *→ See all 6 references in* [Taittirīya Upaniṣad quoted](entries/taittiriya-upanisad-quoted.md)
 
@@ -127,7 +127,7 @@
 
 ### Tālajaṅgha (son of Jayadhvaja)
 
-*  [[sb/9/23/28#purport|SB 9.23.28]], [[sb/9/23/29#purport|SB 9.23.29]]
+* [[sb/9/23/28#purport|SB 9.23.28]], [[sb/9/23/29#purport|SB 9.23.29]]
 
 ---
 
@@ -391,7 +391,7 @@
 
 **[[cc/madhya/25/12–13#translation|Madhya 25.12–13]]**...
 
-* Balabhadra &,, **[[cc/madhya/17/88–89#translation|Madhya 17.88–89]]**
+* Balabhadra &, **[[cc/madhya/17/88–89#translation|Madhya 17.88–89]]**
 
 *→ See all 24 references in* [Tapana Miśra](entries/tapana-misra.md)
 
@@ -430,7 +430,7 @@
 
 [[sb/1/2/29#purport|SB 1.2.29]]...
 
-* defined,, [[bg/10/4|Bg. 10.4]] (8), [[bg/11/48|Bg. 11.48]], [[sb/3/20/53#purport|SB 3.20.53]]
+* defined, [[bg/10/4|Bg. 10.4]] (8), [[bg/11/48|Bg. 11.48]], [[sb/3/20/53#purport|SB 3.20.53]]
 
 *→ See all 14 references in* [Tapasya](entries/tapasya.md)
 
@@ -489,7 +489,7 @@
 
 ### Tārā
 
-*  [[sb/9/14/5#purport|SB 9.14.5]], [[sb/9/14/7-13#purport|SB 9.14.7-13]]
+* [[sb/9/14/5#purport|SB 9.14.5]], [[sb/9/14/7-13#purport|SB 9.14.7-13]]
 
 ---
 
@@ -497,7 +497,7 @@
 
 **[[cc/madhya/8/142#translation|Madhya 8.142]]**
 
-*  [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/28#purport|SB 8.10.28]]
+* [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/28#purport|SB 8.10.28]]
 
 ---
 
@@ -545,7 +545,7 @@
 
 ### Taste
 
-*  [[sb/3/26/41#purport|SB 3.26.41]], [[sb/3/26/48#purport|SB 3.26.48]]
+* [[sb/3/26/41#purport|SB 3.26.41]], [[sb/3/26/48#purport|SB 3.26.48]]
 
 ---
 
@@ -565,7 +565,7 @@
 
 ### Tat
 
-*  [[bg/17/23|Bg. 17.23]], [[bg/17/25|Bg. 17.25]]
+* [[bg/17/23|Bg. 17.23]], [[bg/17/25|Bg. 17.25]]
 
 ---
 
@@ -725,7 +725,7 @@
 
 ### [Taxes](entries/taxes.md)
 
-* brāhmaṇas exempt from,, [[sb/7/11/14#purport|SB 7.11.14]]
+* brāhmaṇas exempt from, [[sb/7/11/14#purport|SB 7.11.14]]
 
 *→ See all 7 references in* [Taxes](entries/taxes.md)
 
@@ -754,7 +754,7 @@
 
 ### [Teacher(s)](entries/teachers.md)
 
-* accepting a,, [[sb/1/5/11#purport|SB 1.5.11]]
+* accepting a, [[sb/1/5/11#purport|SB 1.5.11]]
 
 *→ See all 8 references in* [Teacher(s)](entries/teachers.md)
 
@@ -764,7 +764,7 @@
 
 ...
 
-* true & false,, [[sb/3/9/10#purport|SB 3.9.10]]
+* true & false, [[sb/3/9/10#purport|SB 3.9.10]]
 
 *→ See all 6 references in* [Teachers, spiritual](entries/teachers-spiritual.md)
 
@@ -783,7 +783,7 @@
 
 ### Tears of Brahmā at Kṛṣṇas feet
 
-*  [[sb/10/13/62-62#purport|SB 10.13.62-62]], [[sb/10/13/64#purport|SB 10.13.64]]
+* [[sb/10/13/62-62#purport|SB 10.13.62-62]], [[sb/10/13/64#purport|SB 10.13.64]]
 
 ---
 
@@ -806,7 +806,7 @@
 * as artificial, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/24#purport|SB 2.5.24]]
 * for śūdras, [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 * good or bad use of, [[sb/2/2/36#purport|SB 2.2.36]]
-* in ”darkness,” [[sb/2/5/30#purport|SB 2.5.30]]
+* in ”darkness,”, [[sb/2/5/30#purport|SB 2.5.30]]
 * mind disturbed via, [[sb/7/14/10#purport|SB 7.14.10]]
 
 ---
@@ -877,7 +877,7 @@
 
 **[[cc/madhya/1/143#translation|Madhya 1.143]]**...
 
-* ”Anglican,” in Vṛndāvana,, [[sb/7/15/2#purport|SB 7.15.2]]
+* ”Anglican,” in Vṛndāvana, [[sb/7/15/2#purport|SB 7.15.2]]
 
 *→ See all 157 references in* [Temple(s)](entries/temples.md)
 
@@ -885,7 +885,7 @@
 
 ### [Temple(s) of Supreme Lord](entries/temples-of-supreme-lord.md)
 
-* Ambarīṣa served,, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
+* Ambarīṣa served, [[sb/9/4/18-20#purport|SB 9.4.18-20]]
 
 *→ See all 16 references in* [Temple(s) of Supreme Lord](entries/temples-of-supreme-lord.md)
 
@@ -925,7 +925,7 @@
 
 [[sb/4/12/18#purport|SB 4.12.18]]
 
-*  [[bg/2/62|Bg. 2.62]], [[bg/6/17|Bg. 6.17]], [[bg/6/44|Bg. 6.44]], [[bg/11/55|Bg. 11.55]] (5), [[sb/4/21/41#purport|SB 4.21.41]], [[sb/4/24/70#purport|SB 4.24.70]]
+* [[bg/2/62|Bg. 2.62]], [[bg/6/17|Bg. 6.17]], [[bg/6/44|Bg. 6.44]], [[bg/11/55|Bg. 11.55]] (5), [[sb/4/21/41#purport|SB 4.21.41]], [[sb/4/24/70#purport|SB 4.24.70]]
 * imitators of, [[sb/4/29/1#purport|SB 4.29.1]]b
 
 *See:* Haridāsa Thākura
@@ -977,7 +977,7 @@
 
 ### [Theory](entries/theory.md)
 
-* of chance,, [[sb/4/24/42#purport|SB 4.24.42]]
+* of chance, [[sb/4/24/42#purport|SB 4.24.42]]
 
 *→ See all 6 references in* [Theory](entries/theory.md)
 
@@ -1001,7 +1001,7 @@
 
 **[[cc/antya/13/34–35#translation|Antya 13.34–35]]**...
 
-* flourishing or fleeing,, [[sb/4/14/3#purport|SB 4.14.3]]
+* flourishing or fleeing, [[sb/4/14/3#purport|SB 4.14.3]]
 
 *→ See all 8 references in* [Thieves](entries/thieves.md)
 
@@ -1077,7 +1077,7 @@
 
 ### [Three worlds](entries/three-worlds.md)
 
-* names of,, [[sb/8/24/32#purport|SB 8.24.32]]
+* names of, [[sb/8/24/32#purport|SB 8.24.32]]
 
 *→ See all 6 references in* [Three worlds](entries/three-worlds.md)
 
@@ -1125,13 +1125,13 @@
 
 ### Thunderbolts & razors compared to time
 
-*  [[sb/6/5/6-8#purport|SB 6.5.6-8]], [[sb/6/5/19-19#purport|SB 6.5.19-19]]
+* [[sb/6/5/6-8#purport|SB 6.5.6-8]], [[sb/6/5/19-19#purport|SB 6.5.19-19]]
 
 ---
 
 ### Thunderbolts, land leveled by
 
-*  [[sb/4/18/11#purport|SB 4.18.11]], [[sb/4/18/29#purport|SB 4.18.29]]
+* [[sb/4/18/11#purport|SB 4.18.11]], [[sb/4/18/29#purport|SB 4.18.29]]
 
 ---
 
@@ -1208,7 +1208,7 @@
 
 [[cc/madhya/1/35#purport|Madhya 1.35]]...
 
-* of false devotee,, [[sb/4/19/37#purport|SB 4.19.37]]
+* of false devotee, [[sb/4/19/37#purport|SB 4.19.37]]
 
 *→ See all 9 references in* [Tilaka](entries/tilaka.md)
 
@@ -1225,7 +1225,7 @@
 
 [[bg/8|Bg. 8]], [[bg/18/78|Bg. 18.78]] (6)...
 
-* above,, [[sb/7/9/31#purport|SB 7.9.31]]
+* above, [[sb/7/9/31#purport|SB 7.9.31]]
 
 *→ See all 199 references in* [Time](entries/time.md)
 
@@ -1400,7 +1400,7 @@
 
 ### Titikṣu
 
-*  [[sb/9/23/2#purport|SB 9.23.2]], [[sb/9/23/3-4#purport|SB 9.23.3-4]]
+* [[sb/9/23/2#purport|SB 9.23.2]], [[sb/9/23/3-4#purport|SB 9.23.3-4]]
 
 ---
 
@@ -1417,7 +1417,7 @@
 
 [[bg/2/14–15|Bg. 2.14–15]], [[bg/8/5|Bg. 8.5]], [[bg/10/4|Bg. 10.4]] (3), [[bg/11/44|Bg. 11.44]], [[bg/13/8|Bg. 13.8]], [[bg/13/8|Bg. 13.8]] (11), [[bg/16/1|Bg. 16.1]] (15)...
 
-* about material duality,, [[sb/9/13/27#purport|SB 9.13.27]]
+* about material duality, [[sb/9/13/27#purport|SB 9.13.27]]
 
 *→ See all 38 references in* [Tolerance](entries/tolerance.md)
 
@@ -1425,7 +1425,7 @@
 
 ### Tolerance by devotees
 
-*  [[sb/1/18/48#purport|SB 1.18.48]], [[sb/1/18/48#purport|SB 1.18.48]]
+* [[sb/1/18/48#purport|SB 1.18.48]], [[sb/1/18/48#purport|SB 1.18.48]]
 
 ---
 
@@ -1498,7 +1498,7 @@
 
 ### Tortoise incarnation of Godhead
 
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/16#purport|SB 1.3.16]]
+* [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/16#purport|SB 1.3.16]]
 
 ---
 
@@ -1506,7 +1506,7 @@
 
 [[sb/7/9/37#purport|SB 7.9.37]]
 
-*  [[sb/2/7/13#purport|SB 2.7.13]], [[sb/2/7/13#purport|SB 2.7.13]]
+* [[sb/2/7/13#purport|SB 2.7.13]], [[sb/2/7/13#purport|SB 2.7.13]]
 
 ---
 
@@ -1567,7 +1567,7 @@
 
 **[[cc/madhya/6/171#translation|Madhya 6.171]]**...
 
-* compared to Lord,, [[sb/4/11/19#purport|SB 4.11.19]]
+* compared to Lord, [[sb/4/11/19#purport|SB 4.11.19]]
 
 *→ See all 7 references in* [Touchstone](entries/touchstone.md)
 
@@ -1635,7 +1635,7 @@
 
 [[sb/6/4/26#purport|SB 6.4.26]]...
 
-* as absorption in Kṛṣṇa,, [[sb/2/1/1#purport|SB 2.1.1]]
+* as absorption in Kṛṣṇa, [[sb/2/1/1#purport|SB 2.1.1]]
 
 *→ See all 21 references in* [Trance](entries/trance.md)
 
@@ -1652,7 +1652,7 @@
 
 ### [Transcendence](entries/transcendence.md)
 
-* as freedom,, [[sb/3/23/7#purport|SB 3.23.7]]
+* as freedom, [[sb/3/23/7#purport|SB 3.23.7]]
 
 *→ See all 14 references in* [Transcendence](entries/transcendence.md)
 
@@ -1660,7 +1660,7 @@
 
 ### Transcendence, Lords position in
 
-*  [[sb/6/4/29-29#purport|SB 6.4.29-29]], [[sb/6/5/12-12#purport|SB 6.5.12-12]]
+* [[sb/6/4/29-29#purport|SB 6.4.29-29]], [[sb/6/5/12-12#purport|SB 6.5.12-12]]
 
 ---
 
@@ -1712,7 +1712,7 @@
 
 ### [Transcendentalist(s)](entries/transcendentalists.md)
 
-* advanced,, [[sb/7/13/18#purport|SB 7.13.18]]
+* advanced, [[sb/7/13/18#purport|SB 7.13.18]]
 
 *→ See all 127 references in* [Transcendentalist(s)](entries/transcendentalists.md)
 
@@ -1743,7 +1743,7 @@
 
 [[cc/adi/12/70#purport|Ādi 12.70]]...
 
-* ”intermediate” period in,, [[sb/2/1/15#purport|SB 2.1.15]]
+* ”intermediate” period in, [[sb/2/1/15#purport|SB 2.1.15]]
 
 *→ See all 276 references in* [Transmigration of soul(s)](entries/transmigration-of-souls.md)
 
@@ -1787,7 +1787,7 @@
 
 ### Travelers satisfaction at home
 
-*  [[sb/2/8/6#purport|SB 2.8.6]], [[sb/2/8/6#purport|SB 2.8.6]]
+* [[sb/2/8/6#purport|SB 2.8.6]], [[sb/2/8/6#purport|SB 2.8.6]]
 
 ---
 
@@ -1831,7 +1831,7 @@
 
 ### Trees at summit of four mountains surrounding Sumeru
 
-*  [[sb/5/16/12#purport|SB 5.16.12]], [[sb/5/16/16#purport|SB 5.16.16]], [[sb/5/16/19#purport|SB 5.16.19]], [[sb/5/16/22#purport|SB 5.16.22]], [[sb/5/16/24#purport|SB 5.16.24]]
+* [[sb/5/16/12#purport|SB 5.16.12]], [[sb/5/16/16#purport|SB 5.16.16]], [[sb/5/16/19#purport|SB 5.16.19]], [[sb/5/16/22#purport|SB 5.16.22]], [[sb/5/16/24#purport|SB 5.16.24]]
 
 ---
 
@@ -1853,7 +1853,7 @@
 
 [[bg/4/1|Bg. 4.1]] (4), [[bg/8/17|Bg. 8.17]]...
 
-* as three-fourths religious,, [[sb/8/14/4#purport|SB 8.14.4]]
+* as three-fourths religious, [[sb/8/14/4#purport|SB 8.14.4]]
 
 *→ See all 27 references in* [Tretā-yuga](entries/treta-yuga.md)
 
@@ -1868,7 +1868,7 @@
 
 ### Tretā-yuga, life span in
 
-*  [[sb/4/9/62#purport|SB 4.9.62]], [[sb/4/12/13#purport|SB 4.12.13]]
+* [[sb/4/9/62#purport|SB 4.9.62]], [[sb/4/12/13#purport|SB 4.12.13]]
 
 ---
 
@@ -1909,7 +1909,7 @@
 
 ### Tri-kāla-jñas defined
 
-*  [[sb/3/11/17#purport|SB 3.11.17]], [[sb/3/15/3#purport|SB 3.15.3]]
+* [[sb/3/11/17#purport|SB 3.11.17]], [[sb/3/15/3#purport|SB 3.15.3]]
 
 ---
 
@@ -1940,7 +1940,7 @@
 
 ### Tribandhana
 
-*  [[sb/9/7/4#purport|SB 9.7.4]], [[sb/9/7/5-6#purport|SB 9.7.5-6]]
+* [[sb/9/7/4#purport|SB 9.7.4]], [[sb/9/7/5-6#purport|SB 9.7.5-6]]
 
 ---
 
@@ -1990,7 +1990,7 @@
 
 [[sb/5/16/26#purport|SB 5.16.26]], [[sb/5/19/16#purport|SB 5.19.16]]...
 
-* animals of,, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/2/7#purport|SB 8.2.7]], [[sb/8/2/14-19#purport|SB 8.2.14-19]], [[sb/8/2/20#purport|SB 8.2.20]], [[sb/8/2/21#purport|SB 8.2.21]], [[sb/8/2/22#purport|SB 8.2.22]], [[sb/8/2/23-24#purport|SB 8.2.23-24]]
+* animals of, [[sb/8/2/6#purport|SB 8.2.6]], [[sb/8/2/7#purport|SB 8.2.7]], [[sb/8/2/14-19#purport|SB 8.2.14-19]], [[sb/8/2/20#purport|SB 8.2.20]], [[sb/8/2/21#purport|SB 8.2.21]], [[sb/8/2/22#purport|SB 8.2.22]], [[sb/8/2/23-24#purport|SB 8.2.23-24]]
 
 *→ See all 11 references in* [Trikūṭa Mountain](entries/trikuta-mountain.md)
 
@@ -2040,7 +2040,7 @@
 
 ### Tripād-vibhūti defined
 
-*  [[sb/2/6/17-18#purport|SB 2.6.17-18]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/10/35#purport|SB 2.10.35]]
+* [[sb/2/6/17-18#purport|SB 2.6.17-18]], [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/10/35#purport|SB 2.10.35]]
 
 ---
 
@@ -2228,7 +2228,7 @@
 
 [[bg/16/1|Bg. 16.1]]...
 
-* *kṣatriyas *&,, [[bg/18/47|Bg. 18.47]]
+* *kṣatriyas *&, [[bg/18/47|Bg. 18.47]]
 
 *→ See all 35 references in* [Truth](entries/truth.md)
 
@@ -2325,7 +2325,7 @@
 
 [[bg/2/61|Bg. 2.61]], [[bg/6/18|Bg. 6.18]]...
 
-* *prasādam, *benefits of,, [[bg/9/2|Bg. 9.2]] (9)
+* *prasādam, *benefits of, [[bg/9/2|Bg. 9.2]] (9)
 
 *→ See all 6 references in* [Tulasī](entries/tulasi.md)
 
@@ -2349,7 +2349,7 @@
 
 **[[cc/madhya/17/141–42#translation|Madhya 17.141–42]]**...
 
-* at Kṛṣṇa’s lotus feet,, [[sb/1/19/6#purport|SB 1.19.6]]
+* at Kṛṣṇa’s lotus feet, [[sb/1/19/6#purport|SB 1.19.6]]
 
 *→ See all 16 references in* [Tulasī leaves](entries/tulasi-leaves.md)
 
@@ -2386,7 +2386,7 @@
 
 [[sb/9/24/20#purport|SB 9.24.20]]
 
-*  [[sb/5/25/8#purport|SB 5.25.8]], [[sb/5/25/9#purport|SB 5.25.9]]
+* [[sb/5/25/8#purport|SB 5.25.8]], [[sb/5/25/9#purport|SB 5.25.9]]
 
 ---
 
@@ -2420,13 +2420,13 @@
 
 ### Turvasu
 
-*  [[sb/9/18/33#purport|SB 9.18.33]], [[sb/9/18/41#purport|SB 9.18.41]], [[sb/9/19/22#purport|SB 9.19.22]], [[sb/9/23/16#purport|SB 9.23.16]]
+* [[sb/9/18/33#purport|SB 9.18.33]], [[sb/9/18/41#purport|SB 9.18.41]], [[sb/9/19/22#purport|SB 9.19.22]], [[sb/9/23/16#purport|SB 9.23.16]]
 
 ---
 
 ### Tuṣita
 
-*  [[sb/8/1/20#purport|SB 8.1.20]], [[sb/8/1/21#purport|SB 8.1.21]]
+* [[sb/8/1/20#purport|SB 8.1.20]], [[sb/8/1/21#purport|SB 8.1.21]]
 
 ---
 
@@ -2446,7 +2446,7 @@
 
 ### Tuṣṭi defined
 
-*  [[bg/10/4|Bg. 10.4]] (8)
+* [[bg/10/4|Bg. 10.4]] (8)
 
 ---
 
@@ -2463,7 +2463,7 @@
 
 [[sb/5/15/14-15#purport|SB 5.15.14-15]]...
 
-* mistake of, in chanting mantra,, [[sb/6/9/11#purport|SB 6.9.11]]
+* mistake of, in chanting mantra, [[sb/6/9/11#purport|SB 6.9.11]]
 
 *→ See all 7 references in* [Tvaṣṭā](entries/tvasta.md)
 
@@ -2473,7 +2473,7 @@
 
 ### Twice-born man
 
-*  [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/16/23#purport|SB 3.16.23]]
+* [[sb/3/5/7#purport|SB 3.5.7]], [[sb/3/16/23#purport|SB 3.16.23]]
 
 *See also:* Brāhmaṇas; Kṣatriyas; Vaiśyas
 

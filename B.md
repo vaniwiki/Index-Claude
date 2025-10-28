@@ -19,7 +19,7 @@
 
 ### Babhru (son of Devāvṛdha)
 
-*  [[sb/9/24/9#purport|SB 9.24.9]], [[sb/9/24/10-11#purport|SB 9.24.10-11]]
+* [[sb/9/24/9#purport|SB 9.24.9]], [[sb/9/24/10-11#purport|SB 9.24.10-11]]
 
 ---
 
@@ -143,7 +143,7 @@
 
 [[cc/adi/3/34#purport|Ādi 3.34]]...
 
-* as sacred place,, [[sb/7/14/30-33#purport|SB 7.14.30-33]]
+* as sacred place, [[sb/7/14/30-33#purport|SB 7.14.30-33]]
 
 *→ See all 11 references in* [Badarikāśrama](entries/badarikasrama.md)
 
@@ -186,7 +186,7 @@
 
 ### Bahiraṅgā māyā defined
 
-*  [[sb/2/1/39#purport|SB 2.1.39]], [[sb/2/7/26#purport|SB 2.7.26]]
+* [[sb/2/1/39#purport|SB 2.1.39]], [[sb/2/7/26#purport|SB 2.7.26]]
 
 ---
 
@@ -227,7 +227,7 @@
 
 ### Bahūdana
 
-*  [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/12#purport|SB 4.29.12]]
+* [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/12#purport|SB 4.29.12]]
 
 ---
 
@@ -326,7 +326,7 @@
 
 [[cc/adi/3/87#purport|Ādi 3.87]]...
 
-* Kṛṣṇa vs.,, [[sb/10/11/48-51#purport|SB 10.11.48-51]]
+* Kṛṣṇa vs., [[sb/10/11/48-51#purport|SB 10.11.48-51]]
 
 *→ See all 7 references in* [Bakāsura](entries/bakasura.md)
 
@@ -376,7 +376,7 @@
 
 ### Bala, Indra vs.
 
-*  [[sb/8/11/19#purport|SB 8.11.19]], [[sb/8/11/20#purport|SB 8.11.20]], [[sb/8/11/28#purport|SB 8.11.28]]
+* [[sb/8/11/19#purport|SB 8.11.19]], [[sb/8/11/20#purport|SB 8.11.20]], [[sb/8/11/28#purport|SB 8.11.28]]
 
 ---
 
@@ -391,7 +391,7 @@
 
 **[[cc/adi/10/146#translation|Ādi 10.146]]**...
 
-* animals feared by,, **[[cc/madhya/17/27#translation|Madhya 17.27]]**
+* animals feared by, **[[cc/madhya/17/27#translation|Madhya 17.27]]**
 
 *→ See all 30 references in* [Balabhadra Bhaṭṭācārya](entries/balabhadra-bhattacarya.md)
 
@@ -415,7 +415,7 @@
 
 [[bg/31|Bg. 31]]...
 
-* cited on material world,, [[cc/adi/5/83#purport|Ādi 5.83]]
+* cited on material world, [[cc/adi/5/83#purport|Ādi 5.83]]
 
 *→ See all 10 references in* [Baladeva Vidyābhūṣaṇa](entries/baladeva-vidyabhusana.md)
 
@@ -498,7 +498,7 @@
 
 ### Balarāma (Baladeva), Lord
 
-*  [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/28/12#purport|SB 3.28.12]]
+* [[sb/3/21/32#purport|SB 3.21.32]], [[sb/3/28/12#purport|SB 3.28.12]]
 
 ---
 
@@ -527,7 +527,7 @@
 
 [[bg/9/11|Bg. 9.11]], [[bg/10/37|Bg. 10.37]]...
 
-* “Hare Rāma” &,, [[cc/adi/5/132#purport|Ādi 5.132]], [[cc/madhya/9/155#purport|Madhya 9.155]]
+* “Hare Rāma” &, [[cc/adi/5/132#purport|Ādi 5.132]], [[cc/madhya/9/155#purport|Madhya 9.155]]
 
 *→ See all 131 references in* [Balarāma, Lord](entries/balarama-lord.md)
 
@@ -587,7 +587,7 @@
 
 ### [Bali Mahārāja quoted](entries/bali-maharaja-quoted.md)
 
-* on Bali’s promise to Lord,, [[sb/8/22/2#purport|SB 8.22.2]]
+* on Bali’s promise to Lord, [[sb/8/22/2#purport|SB 8.22.2]]
 
 *→ See all 9 references in* [Bali Mahārāja quoted](entries/bali-maharaja-quoted.md)
 
@@ -660,7 +660,7 @@
 
 [[sb/3/3/11#purport|SB 3.3.11]]
 
-*  [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/30-31#purport|SB 8.10.30-31]]
+* [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/30-31#purport|SB 8.10.30-31]]
 
 ---
 
@@ -736,7 +736,7 @@
 
 ### Banyan tree of Kailāsa
 
-*  [[sb/4/6/31#purport|SB 4.6.31]], [[sb/4/6/32#purport|SB 4.6.32]]
+* [[sb/4/6/31#purport|SB 4.6.31]], [[sb/4/6/32#purport|SB 4.6.32]]
 
 ---
 
@@ -815,7 +815,7 @@
 
 ### Barhiṣmatī
 
-*  [[sb/3/22/28-30#purport|SB 3.22.28-30]], [[sb/3/22/32#purport|SB 3.22.32]], [[sb/5/1/24#purport|SB 5.1.24]], [[sb/5/1/29#purport|SB 5.1.29]]
+* [[sb/3/22/28-30#purport|SB 3.22.28-30]], [[sb/3/22/32#purport|SB 3.22.32]], [[sb/5/1/24#purport|SB 5.1.24]], [[sb/5/1/29#purport|SB 5.1.29]]
 
 ---
 
@@ -837,7 +837,7 @@
 
 [[bg/2/52|Bg. 2.52]], [[bg/13/8|Bg. 13.8]] (6)...
 
-* after sacrifice,, [[sb/4/2/35#purport|SB 4.2.35]]
+* after sacrifice, [[sb/4/2/35#purport|SB 4.2.35]]
 
 *→ See all 27 references in* [Bathing](entries/bathing.md)
 
@@ -856,7 +856,7 @@
 
 [[sb/8/10/3-12#purport|SB 8.10.3-12]], [[sb/8/10/13-15#purport|SB 8.10.13-15]], [[sb/8/10/16-18#purport|SB 8.10.16-18]], [[sb/8/10/19-53#purport|SB 8.10.19-53]], [[sb/8/11/1-48#purport|SB 8.11.1-48]]...
 
-* animals in,, [[sb/8/10/8-12#purport|SB 8.10.8-12]], [[sb/8/10/25#purport|SB 8.10.25]], [[sb/8/10/37#purport|SB 8.10.37]], [[sb/8/10/41#purport|SB 8.10.41]], [[sb/8/10/47#purport|SB 8.10.47]], [[sb/8/10/56#purport|SB 8.10.56]], [[sb/8/11/14-16#purport|SB 8.11.14-16]]
+* animals in, [[sb/8/10/8-12#purport|SB 8.10.8-12]], [[sb/8/10/25#purport|SB 8.10.25]], [[sb/8/10/37#purport|SB 8.10.37]], [[sb/8/10/41#purport|SB 8.10.41]], [[sb/8/10/47#purport|SB 8.10.47]], [[sb/8/10/56#purport|SB 8.10.56]], [[sb/8/11/14-16#purport|SB 8.11.14-16]]
 
 *→ See all 14 references in* [Battle between demigods & demons](entries/battle-between-demigods-demons.md)
 
@@ -866,7 +866,7 @@
 
 [[sb/8/5/23#purport|SB 8.5.23]]
 
-*  [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/31/30#purport|SB 4.31.30]]
+* [[sb/4/30/27#purport|SB 4.30.27]], [[sb/4/31/30#purport|SB 4.31.30]]
 
 *See:* Kurukṣetra; Battle of; Kurukṣetra Battle
 
@@ -954,7 +954,7 @@
 
 ### [Beauty](entries/beauty.md)
 
-* compared with spiritual,, [[sb/3/20/31#purport|SB 3.20.31]]
+* compared with spiritual, [[sb/3/20/31#purport|SB 3.20.31]]
 
 *→ See all 35 references in* [Beauty](entries/beauty.md)
 
@@ -976,7 +976,7 @@
 
 ### Bee as spiritual master
 
-*  [[sb/7/13/35#purport|SB 7.13.35]], [[sb/7/13/37#purport|SB 7.13.37]]
+* [[sb/7/13/35#purport|SB 7.13.35]], [[sb/7/13/37#purport|SB 7.13.37]]
 
 ---
 
@@ -991,7 +991,7 @@
 
 * at Śiva’s lake, [[sb/4/24/22#purport|SB 4.24.22]]
 * humanity compared to, [[sb/4/24/64#purport|SB 4.24.64]]
-*  [[sb/10/13/5#purport|SB 10.13.5]], [[sb/10/13/11#purport|SB 10.13.11]]
+* [[sb/10/13/5#purport|SB 10.13.5]], [[sb/10/13/11#purport|SB 10.13.11]]
 
 ---
 
@@ -1036,7 +1036,7 @@
 
 ### Begging
 
-*  [[bg/10/4|Bg. 10.4]] (9), [[bg/16/1|Bg. 16.1]] (6)
+* [[bg/10/4|Bg. 10.4]] (9), [[bg/16/1|Bg. 16.1]] (6)
 * by brahmacārī, [[sb/7/12/5#purport|SB 7.12.5]], [[sb/7/12/6#purport|SB 7.12.6]]
 * by sannyāsī, [[sb/7/13/3#purport|SB 7.13.3]]
 
@@ -1143,7 +1143,7 @@
 
 [[bg/2/33|Bg. 2.33]], [[bg/18/73|Bg. 18.73]]...
 
-* as best,, [[sb/4/30/33#purport|SB 4.30.33]]
+* as best, [[sb/4/30/33#purport|SB 4.30.33]]
 
 *→ See all 64 references in* [Benedictions](entries/benedictions.md)
 
@@ -1359,7 +1359,7 @@
 
 ### [Bhadraśravā quoted](entries/bhadrasrava-quoted.md)
 
-* as cause of all causes,, [[sb/5/18/5#purport|SB 5.18.5]]
+* as cause of all causes, [[sb/5/18/5#purport|SB 5.18.5]]
 
 *→ See all 8 references in* [Bhadraśravā quoted](entries/bhadrasrava-quoted.md)
 
@@ -1369,7 +1369,7 @@
 
 [[sb/9/6/23-24#purport|SB 9.6.23-24]]
 
-*  [[sb/1/16/12#purport|SB 1.16.12]], [[sb/1/16/12#purport|SB 1.16.12]], [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
+* [[sb/1/16/12#purport|SB 1.16.12]], [[sb/1/16/12#purport|SB 1.16.12]], [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
 
 ---
 
@@ -1401,7 +1401,7 @@
 
 * arrested by Śiva’s men, [[sb/4/5/17#purport|SB 4.5.17]], [[sb/4/5/20#purport|SB 4.5.20]]
 * Brahmā’s request for, [[sb/4/6/51#purport|SB 4.6.51]]
-*  [[sb/6/6/38-39#purport|SB 6.6.38-39]],
+* [[sb/6/6/38-39#purport|SB 6.6.38-39]]
 * vision restored to, [[sb/4/7/3#purport|SB 4.7.3]]
 
 ---
@@ -1429,7 +1429,7 @@
 
 ### Bhagavad-dharma defined
 
-*  [[sb/4/23/10#purport|SB 4.23.10]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
+* [[sb/4/23/10#purport|SB 4.23.10]], [[sb/4/26/1-3#purport|SB 4.26.1-3]]
 
 ---
 
@@ -1480,7 +1480,7 @@
 
 [[bg/8|Bg. 8]]...
 
-* as Absolute Truth’s highest feature,, [[sb/5/11/2#purport|SB 5.11.2]]
+* as Absolute Truth’s highest feature, [[sb/5/11/2#purport|SB 5.11.2]]
 
 *→ See all 37 references in* [Bhagavān](entries/bhagavan.md)
 
@@ -1517,7 +1517,7 @@
 
 [[cc/adi/2/10#purport|Ādi 2.10]]
 
-*  [[sb/4/23/30#purport|SB 4.23.30]], [[sb/4/31/8#purport|SB 4.31.8]]
+* [[sb/4/23/30#purport|SB 4.23.30]], [[sb/4/31/8#purport|SB 4.31.8]]
 
 *See also:* Kṛṣṇa; Supreme Lord
 
@@ -1616,7 +1616,7 @@
 
 ### Bhāgavata defined
 
-*  [[sb/2/2/31#purport|SB 2.2.31]], [[sb/2/2/36#purport|SB 2.2.36]]
+* [[sb/2/2/31#purport|SB 2.2.31]], [[sb/2/2/36#purport|SB 2.2.36]]
 
 ---
 
@@ -1652,7 +1652,7 @@
 
 [[sb/6/3/20-21#purport|SB 6.3.20-21]], [[sb/6/3/20-21#purport|SB 6.3.20-21]], [[sb/6/3/22-22#purport|SB 6.3.22-22]]...
 
-* as devotional service,, [[sb/6/16/40-40#purport|SB 6.16.40-40]]
+* as devotional service, [[sb/6/16/40-40#purport|SB 6.16.40-40]]
 
 *→ See all 13 references in* [Bhāgavata-dharma](entries/bhagavata-dharma.md)
 
@@ -1766,7 +1766,7 @@
 
 [[cc/madhya/15/261#purport|Madhya 15.261]]...
 
-* as Śruta’s father,, [[sb/9/9/16-17#purport|SB 9.9.16-17]]
+* as Śruta’s father, [[sb/9/9/16-17#purport|SB 9.9.16-17]]
 
 *→ See all 7 references in* [Bhagīratha](entries/bhagiratha.md)
 
@@ -1865,7 +1865,7 @@
 
 ### [Bhakta(s)](entries/bhaktas.md)
 
-* as class of human being,, [[sb/6/14/4#purport|SB 6.14.4]]
+* as class of human being, [[sb/6/14/4#purport|SB 6.14.4]]
 
 *→ See all 15 references in* [Bhakta(s)](entries/bhaktas.md)
 
@@ -1880,7 +1880,7 @@
 
 ### [Bhakti](entries/bhakti.md)
 
-* ”creeper” of,, [[sb/4/22/23#purport|SB 4.22.23]]
+* ”creeper” of, [[sb/4/22/23#purport|SB 4.22.23]]
 
 *→ See all 23 references in* [Bhakti](entries/bhakti.md)
 
@@ -1936,7 +1936,7 @@
 
 [[cc/adi/5/203#purport|Ādi 5.203]]...
 
-* cited on devotional principles,, [[sb/2/8/21#purport|SB 2.8.21]]
+* cited on devotional principles, [[sb/2/8/21#purport|SB 2.8.21]]
 
 *→ See all 21 references in* [Bhakti-rasāmṛta-sindhu](entries/bhakti-rasamrta-sindhu.md)
 
@@ -1946,7 +1946,7 @@
 
 [[cc/madhya/19/177#purport|Madhya 19.177]]...
 
-* on attachment to Lord,, [[cc/madhya/19/183–84#purport|Madhya 19.183–84]]
+* on attachment to Lord, [[cc/madhya/19/183–84#purport|Madhya 19.183–84]]
 
 *→ See all 33 references in* [Bhakti-rasāmṛta-sindhu cited](entries/bhakti-rasamrta-sindhu-cited.md)
 
@@ -1963,7 +1963,7 @@
 
 [[cc/madhya/19/183–84#purport|Madhya 19.183–84]]...
 
-* as inconceivable to material senses,, [[sb/10/12/3#purport|SB 10.12.3]]
+* as inconceivable to material senses, [[sb/10/12/3#purport|SB 10.12.3]]
 
 *→ See all 131 references in* [Bhakti-rasāmṛta-sindhu quoted](entries/bhakti-rasamrta-sindhu-quoted.md)
 
@@ -1997,7 +1997,7 @@
 
 [[cc/antya/4/222#purport|Antya 4.222]]...
 
-* books by,, [[cc/antya/4/226#purport|Antya 4.226]]
+* books by, [[cc/antya/4/226#purport|Antya 4.226]]
 
 *→ See all 15 references in* [Bhakti-ratnākara cited](entries/bhakti-ratnakara-cited.md)
 
@@ -2005,7 +2005,7 @@
 
 ### [Bhakti-ratnākara quoted](entries/bhakti-ratnakara-quoted.md)
 
-* on Akrūra-tīrtha,, [[cc/madhya/18/70#purport|Madhya 18.70]]
+* on Akrūra-tīrtha, [[cc/madhya/18/70#purport|Madhya 18.70]]
 
 *→ See all 13 references in* [Bhakti-ratnākara quoted](entries/bhakti-ratnakara-quoted.md)
 
@@ -2051,7 +2051,7 @@
 
 [[bg/5/29|Bg. 5.29]], [[bg/6/23|Bg. 6.23]]...
 
-* as sāṅkhya-yoga,, [[sb/8/24/55#purport|SB 8.24.55]]
+* as sāṅkhya-yoga, [[sb/8/24/55#purport|SB 8.24.55]]
 
 *→ See all 17 references in* [Bhakti-yoga](entries/bhakti-yoga.md)
 
@@ -2084,7 +2084,7 @@
 
 [[sb/4/1/1#purport|SB 4.1.1]], [[sb/4/2/18#purport|SB 4.2.18]]...
 
-* as Caitanya’s servant,, [[sb/4/22/42#purport|SB 4.22.42]]
+* as Caitanya’s servant, [[sb/4/22/42#purport|SB 4.22.42]]
 
 *→ See all 8 references in* [Bhaktisiddhānta Sarasvatī](entries/bhaktisiddhanta-sarasvati.md)
 
@@ -2092,7 +2092,7 @@
 
 ### [Bhaktisiddhānta Sarasvatī Gosvāmī](entries/bhaktisiddhanta-sarasvati-gosvami.md)
 
-* as author of transcendental literature,, SB Intro 5, [[sb/1/1/17#purport|SB 1.1.17]]
+* as author of transcendental literature, SB Intro 5, [[sb/1/1/17#purport|SB 1.1.17]]
 
 *→ See all 7 references in* [Bhaktisiddhānta Sarasvatī Gosvāmī](entries/bhaktisiddhanta-sarasvati-gosvami.md)
 
@@ -2100,7 +2100,7 @@
 
 ### [Bhaktisiddhānta Sarasvatī Ṭhākura](entries/bhaktisiddhanta-sarasvati-thakura.md)
 
-* “Prabhupāda” title &,, [[cc/adi/10/7#purport|Ādi 10.7]]
+* “Prabhupāda” title &, [[cc/adi/10/7#purport|Ādi 10.7]]
 
 *→ See all 40 references in* [Bhaktisiddhānta Sarasvatī Ṭhākura](entries/bhaktisiddhanta-sarasvati-thakura.md)
 
@@ -2110,7 +2110,7 @@
 
 [[cc/antya/6/162#purport|Antya 6.162]]...
 
-* compilers of,, [[cc/adi/7/106#purport|Ādi 7.106]]
+* compilers of, [[cc/adi/7/106#purport|Ādi 7.106]]
 
 *→ See all 131 references in* [Bhaktisiddhānta Sarasvatī Ṭhākura cited](entries/bhaktisiddhanta-sarasvati-thakura-cited.md)
 
@@ -2125,7 +2125,7 @@
 
 ### [Bhaktisiddhānta Sarasvatī Ṭhākura quoted](entries/bhaktisiddhanta-sarasvati-thakura-quoted.md)
 
-* on “Prabhupāda” title,, [[cc/madhya/10/23#purport|Madhya 10.23]]
+* on “Prabhupāda” title, [[cc/madhya/10/23#purport|Madhya 10.23]]
 
 *→ See all 62 references in* [Bhaktisiddhānta Sarasvatī Ṭhākura quoted](entries/bhaktisiddhanta-sarasvati-thakura-quoted.md)
 
@@ -2190,7 +2190,7 @@
 
 [[bg/31|Bg. 31]]...
 
-* as Caitanya’s servant,, [[sb/4/22/42#purport|SB 4.22.42]]
+* as Caitanya’s servant, [[sb/4/22/42#purport|SB 4.22.42]]
 
 *→ See all 20 references in* [Bhaktivinoda Ṭhākura](entries/bhaktivinoda-thakura.md)
 
@@ -2200,7 +2200,7 @@
 
 [[cc/madhya/8/294#purport|Madhya 8.294]]...
 
-* association with,, [[cc/antya/1/24#purport|Antya 1.24]]
+* association with, [[cc/antya/1/24#purport|Antya 1.24]]
 
 *→ See all 65 references in* [Bhaktivinoda Ṭhākura cited](entries/bhaktivinoda-thakura-cited.md)
 
@@ -2208,7 +2208,7 @@
 
 ### [Bhaktivinoda Ṭhākura quoted](entries/bhaktivinoda-thakura-quoted.md)
 
-* benefits of,, [[cc/madhya/14/45#purport|Madhya 14.45]]
+* benefits of, [[cc/madhya/14/45#purport|Madhya 14.45]]
 
 *→ See all 40 references in* [Bhaktivinoda Ṭhākura quoted](entries/bhaktivinoda-thakura-quoted.md)
 
@@ -2258,7 +2258,7 @@
 
 ### Bhānumān (son of Bharga)
 
-*  [[sb/9/23/16#purport|SB 9.23.16]], [[sb/9/23/17#purport|SB 9.23.17]]
+* [[sb/9/23/16#purport|SB 9.23.16]], [[sb/9/23/17#purport|SB 9.23.17]]
 
 ---
 
@@ -2285,7 +2285,7 @@
 
 ### Bharadvāja (Vitatha)
 
-*  [[sb/9/20/35#purport|SB 9.20.35]], [[sb/9/20/37-38#purport|SB 9.20.37-38]], [[sb/9/21/1#purport|SB 9.21.1]]
+* [[sb/9/20/35#purport|SB 9.20.35]], [[sb/9/20/37-38#purport|SB 9.20.37-38]], [[sb/9/21/1#purport|SB 9.21.1]]
 
 ---
 
@@ -2336,7 +2336,7 @@
 
 [[bg/1/24|Bg. 1.24]], [[bg/2/30|Bg. 2.30]], [[bg/6/43|Bg. 6.43]], [[bg/8/6|Bg. 8.6]]...
 
-* affection for deer by,, [[sb/5/8/8-25#purport|SB 5.8.8-25]]
+* affection for deer by, [[sb/5/8/8-25#purport|SB 5.8.8-25]]
 
 *→ See all 56 references in* [Bharata Mahārāja](entries/bharata-maharaja.md)
 
@@ -2361,7 +2361,7 @@
 
 [[bg/6/43|Bg. 6.43]]...
 
-* advantages for spiritual life in,, [[sb/5/19/21#purport|SB 5.19.21]]
+* advantages for spiritual life in, [[sb/5/19/21#purport|SB 5.19.21]]
 
 *→ See all 38 references in* [Bhārata-varṣa](entries/bharata-varsa.md)
 
@@ -2399,13 +2399,13 @@
 
 [[sb/3/23/43#purport|SB 3.23.43]]
 
-*  [[sb/2/7/10#purport|SB 2.7.10]], [[sb/2/7/23#purport|SB 2.7.23]]
+* [[sb/2/7/10#purport|SB 2.7.10]], [[sb/2/7/23#purport|SB 2.7.23]]
 
 ---
 
 ### [Bharata, Lord](entries/bharata-lord.md)
 
-* activities of, in Rāma’s absence,, [[sb/9/10/34#purport|SB 9.10.34]]
+* activities of, in Rāma’s absence, [[sb/9/10/34#purport|SB 9.10.34]]
 
 *→ See all 7 references in* [Bharata, Lord](entries/bharata-lord.md)
 
@@ -2487,7 +2487,7 @@
 
 ### Bharmyāśva
 
-*  [[sb/9/21/31-33#purport|SB 9.21.31-33]], [[sb/9/21/34#purport|SB 9.21.34]], [[sb/9/22/3#purport|SB 9.22.3]]
+* [[sb/9/21/31-33#purport|SB 9.21.31-33]], [[sb/9/21/34#purport|SB 9.21.34]], [[sb/9/22/3#purport|SB 9.22.3]]
 
 ---
 
@@ -2527,7 +2527,7 @@
 
 ### Bhaumāsura
 
-*  [[sb/1/10/29#purport|SB 1.10.29]], [[sb/1/10/29-30#purport|SB 1.10.29-30]]
+* [[sb/1/10/29#purport|SB 1.10.29]], [[sb/1/10/29-30#purport|SB 1.10.29-30]]
 
 ---
 
@@ -2542,7 +2542,7 @@
 
 [[cc/adi/7/83#purport|Ādi 7.83]]...
 
-* defined,, [[sb/7/1/31#purport|SB 7.1.31]], [[sb/7/9/54#purport|SB 7.9.54]]
+* defined, [[sb/7/1/31#purport|SB 7.1.31]], [[sb/7/9/54#purport|SB 7.9.54]]
 
 *→ See all 17 references in* [Bhāva](entries/bhava.md)
 
@@ -2649,7 +2649,7 @@
 
 [[cc/adi/16/54#purport|Ādi 16.54]]...
 
-* as Dakṣa’s daughter,, [[sb/8/7/45#purport|SB 8.7.45]]
+* as Dakṣa’s daughter, [[sb/8/7/45#purport|SB 8.7.45]]
 
 *→ See all 6 references in* [Bhavānī](entries/bhavani.md)
 
@@ -2657,7 +2657,7 @@
 
 ### Bhavānī (Pārvatī)
 
-*  [[sb/3/23/1#purport|SB 3.23.1]], [[sb/3/24/5#purport|SB 3.24.5]]
+* [[sb/3/23/1#purport|SB 3.23.1]], [[sb/3/24/5#purport|SB 3.24.5]]
 
 ---
 
@@ -2752,7 +2752,7 @@
 
 [[bg/1/4|Bg. 1.4]], [[bg/1/10|Bg. 1.10]], [[bg/1/15|Bg. 1.15]]...
 
-* anger of,, [[sb/3/1/11#purport|SB 3.1.11]]
+* anger of, [[sb/3/1/11#purport|SB 3.1.11]]
 
 *→ See all 22 references in* [Bhīma](entries/bhima.md)
 
@@ -2830,7 +2830,7 @@
 
 ### Bhīṣma
 
-*  [[sb/3/1/9#purport|SB 3.1.9]], [[sb/3/5/20#purport|SB 3.5.20]]
+* [[sb/3/1/9#purport|SB 3.1.9]], [[sb/3/5/20#purport|SB 3.5.20]]
 
 ---
 
@@ -2838,7 +2838,7 @@
 
 [[bg/1/8|Bg. 1.8]], [[bg/1/25|Bg. 1.25]], [[bg/1/26|Bg. 1.26]], [[bg/2/4|Bg. 2.4]], [[bg/4/16|Bg. 4.16]], [[bg/18/78|Bg. 18.78]] (1)...
 
-* Arjuna &,, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/16/5|Bg. 16.5]]
+* Arjuna &, [[bg/2/26|Bg. 2.26]], [[bg/2/30|Bg. 2.30]], [[bg/16/5|Bg. 16.5]]
 
 *→ See all 66 references in* [Bhīṣmadeva](entries/bhismadeva.md)
 
@@ -2846,7 +2846,7 @@
 
 ### [Bhīṣmadeva cited](entries/bhismadeva-cited.md)
 
-* on Deity worship,, [[sb/1/9/27#purport|SB 1.9.27]]
+* on Deity worship, [[sb/1/9/27#purport|SB 1.9.27]]
 
 *→ See all 6 references in* [Bhīṣmadeva cited](entries/bhismadeva-cited.md)
 
@@ -2854,7 +2854,7 @@
 
 ### [Bhīṣmadeva quoted](entries/bhismadeva-quoted.md)
 
-* & gopīs,, [[sb/1/9/40#purport|SB 1.9.40]]
+* & gopīs, [[sb/1/9/40#purport|SB 1.9.40]]
 
 *→ See all 13 references in* [Bhīṣmadeva quoted](entries/bhismadeva-quoted.md)
 
@@ -2976,7 +2976,7 @@
 
 [[sb/5/15/14-15#purport|SB 5.15.14-15]]
 
-*  [[sb/1/11/11#purport|SB 1.11.11]], [[sb/1/14/25#purport|SB 1.14.25]], [[sb/3/4/1#purport|SB 3.4.1]], [[sb/3/4/3#purport|SB 3.4.3]]
+* [[sb/1/11/11#purport|SB 1.11.11]], [[sb/1/14/25#purport|SB 1.14.25]], [[sb/3/4/1#purport|SB 3.4.1]], [[sb/3/4/3#purport|SB 3.4.3]]
 
 ---
 
@@ -3027,7 +3027,7 @@
 [[cc/madhya/8/246#purport|Madhya 8.246]]
 
 * Hiraṇyakaśipu’s austerities attracted, [[sb/7/3/14#purport|SB 7.3.14]]
-*  [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/24/22-23#purport|SB 3.24.22-23]], [[sb/4/22/43#purport|SB 4.22.43]], [[sb/4/24/72#purport|SB 4.24.72]]
+* [[sb/3/24/15#purport|SB 3.24.15]], [[sb/3/24/22-23#purport|SB 3.24.22-23]], [[sb/4/22/43#purport|SB 4.22.43]], [[sb/4/24/72#purport|SB 4.24.72]]
 * Vena feared, [[sb/7/4/9-12#purport|SB 7.4.9-12]]
 
 ---
@@ -3036,7 +3036,7 @@
 
 [[sb/2/2/25#purport|SB 2.2.25]], [[sb/2/7/7-8#purport|SB 2.7.7-8]]...
 
-* arrested by Śiva’s men,, [[sb/4/5/17#purport|SB 4.5.17]]
+* arrested by Śiva’s men, [[sb/4/5/17#purport|SB 4.5.17]]
 
 *→ See all 23 references in* [Bhṛgu Muni](entries/bhrgu-muni.md)
 
@@ -3100,7 +3100,7 @@
 
 ### [Bhū-maṇḍala](entries/bhu-mandala.md)
 
-* Bhuvarloka & Svargaloka above,, [[sb/5/1/31#purport|SB 5.1.31]]
+* Bhuvarloka & Svargaloka above, [[sb/5/1/31#purport|SB 5.1.31]]
 
 *→ See all 6 references in* [Bhū-maṇḍala](entries/bhu-mandala.md)
 
@@ -3197,7 +3197,7 @@
 
 [[sb/9/22/18-19#purport|SB 9.22.18-19]]
 
-*  [[bg/1/8|Bg. 1.8]], [[bg/1/26|Bg. 1.26]]
+* [[bg/1/8|Bg. 1.8]], [[bg/1/26|Bg. 1.26]]
 * father of, [[bg/1/8|Bg. 1.8]]
 
 ---
@@ -3258,7 +3258,7 @@
 
 [[sb/6/6/2#purport|SB 6.6.2]]...
 
-* defined,, [[sb/4/2/32#purport|SB 4.2.32]]
+* defined, [[sb/4/2/32#purport|SB 4.2.32]]
 
 *→ See all 7 references in* [Bhūta(s)](entries/bhutas.md)
 
@@ -3411,7 +3411,7 @@
 
 ### Bīja defined
 
-*  [[sb/4/29/73#purport|SB 4.29.73]], [[sb/4/29/78#purport|SB 4.29.78]]
+* [[sb/4/29/73#purport|SB 4.29.73]], [[sb/4/29/78#purport|SB 4.29.78]]
 
 ---
 
@@ -3449,7 +3449,7 @@
 
 [[cc/adi/1/57#purport|Ādi 1.57]]...
 
-* cited & quoted on devotional service,, [[sb/4/23/11#purport|SB 4.23.11]]
+* cited & quoted on devotional service, [[sb/4/23/11#purport|SB 4.23.11]]
 
 *→ See all 26 references in* [Bilvamaṅgala Ṭhākura](entries/bilvamangala-thakura.md)
 
@@ -3538,7 +3538,7 @@
 
 ### Bindu-sarovara Lake
 
-*  [[sb/3/21/33#purport|SB 3.21.33]], [[sb/3/21/35#purport|SB 3.21.35]], [[sb/3/21/38-39#purport|SB 3.21.38-39]], [[sb/3/23/23#purport|SB 3.23.23]], [[sb/3/25/5#purport|SB 3.25.5]]
+* [[sb/3/21/33#purport|SB 3.21.33]], [[sb/3/21/35#purport|SB 3.21.35]], [[sb/3/21/38-39#purport|SB 3.21.38-39]], [[sb/3/23/23#purport|SB 3.23.23]], [[sb/3/25/5#purport|SB 3.25.5]]
 
 ---
 
@@ -3598,7 +3598,7 @@
 
 [[sb/1/2/10#purport|SB 1.2.10]], [[sb/3/5/19#purport|SB 3.5.19]], [[sb/4/27/6-7#purport|SB 4.27.6-7]]
 
-*  [[sb/3/30/21#purport|SB 3.30.21]], [[sb/3/31/17#purport|SB 3.31.17]]
+* [[sb/3/30/21#purport|SB 3.30.21]], [[sb/3/31/17#purport|SB 3.31.17]]
 
 ---
 
@@ -3611,7 +3611,7 @@
 
 ### [Birth-death cycle](entries/birth-death-cycle.md)
 
-* & sacrifice,, [[bg/8/3|Bg. 8.3]]
+* & sacrifice, [[bg/8/3|Bg. 8.3]]
 
 *→ See all 46 references in* [Birth-death cycle](entries/birth-death-cycle.md)
 
@@ -3619,7 +3619,7 @@
 
 ### [Birth(s)](entries/births.md)
 
-* & death, cause for,, [[sb/2/8/3#purport|SB 2.8.3]]
+* & death, cause for, [[sb/2/8/3#purport|SB 2.8.3]]
 
 *→ See all 213 references in* [Birth(s)](entries/births.md)
 
@@ -3650,7 +3650,7 @@
 
 ### Black market trade
 
-*  [[bg/16/1|Bg. 16.1]] (17), [[bg/16/16|Bg. 16.16]]
+* [[bg/16/1|Bg. 16.1]] (17), [[bg/16/16|Bg. 16.16]]
 
 ---
 
@@ -3665,7 +3665,7 @@
 
 [[bg/16/18|Bg. 16.18]]...
 
-* anger at,, [[sb/4/4/10#purport|SB 4.4.10]]
+* anger at, [[sb/4/4/10#purport|SB 4.4.10]]
 
 *→ See all 32 references in* [Blasphemy](entries/blasphemy.md)
 
@@ -3722,7 +3722,7 @@
 
 ### [Bliss](entries/bliss.md)
 
-* Aditi in,, [[sb/8/17/5#purport|SB 8.17.5]], [[sb/8/17/6#purport|SB 8.17.6]]
+* Aditi in, [[sb/8/17/5#purport|SB 8.17.5]], [[sb/8/17/6#purport|SB 8.17.6]]
 
 *→ See all 44 references in* [Bliss](entries/bliss.md)
 
@@ -3730,7 +3730,7 @@
 
 ### [Bliss, transcendental](entries/bliss-transcendental.md)
 
-* Brahmā in,, [[sb/10/13/56#purport|SB 10.13.56]]
+* Brahmā in, [[sb/10/13/56#purport|SB 10.13.56]]
 
 *→ See all 25 references in* [Bliss, transcendental](entries/bliss-transcendental.md)
 
@@ -3789,7 +3789,7 @@
 
 ### Boar incarnation of Lord
 
-*  [[sb/4/7/46#purport|SB 4.7.46]], [[sb/4/8/57#purport|SB 4.8.57]], [[sb/4/17/34#purport|SB 4.17.34]], [[sb/4/17/35#purport|SB 4.17.35]], [[sb/5/18/34#purport|SB 5.18.34]], [[sb/5/18/39#purport|SB 5.18.39]], [[sb/5/25/10#purport|SB 5.25.10]]
+* [[sb/4/7/46#purport|SB 4.7.46]], [[sb/4/8/57#purport|SB 4.8.57]], [[sb/4/17/34#purport|SB 4.17.34]], [[sb/4/17/35#purport|SB 4.17.35]], [[sb/5/18/34#purport|SB 5.18.34]], [[sb/5/18/39#purport|SB 5.18.39]], [[sb/5/25/10#purport|SB 5.25.10]]
 
 *See:* Varāha
 
@@ -3846,7 +3846,7 @@
 
 ### [Boat(s)](entries/boats.md)
 
-* brāhmaṇas boarded,, [[sb/8/24/42#purport|SB 8.24.42]]
+* brāhmaṇas boarded, [[sb/8/24/42#purport|SB 8.24.42]]
 
 *→ See all 12 references in* [Boat(s)](entries/boats.md)
 
@@ -3877,7 +3877,7 @@
 
 [[bg/1/29|Bg. 1.29]], [[bg/2/1|Bg. 2.1]], [[bg/2/26–27|Bg. 2.26–27]], [[bg/3/40|Bg. 3.40]], [[bg/13/1|Bg. 13.1]], [[bg/13/8|Bg. 13.8]] (8)...
 
-* ”dead” body of one in,, [[sb/2/7/38#purport|SB 2.7.38]]
+* ”dead” body of one in, [[sb/2/7/38#purport|SB 2.7.38]]
 
 *→ See all 114 references in* [Bodily concept of life](entries/bodily-concept-of-life.md)
 
@@ -3887,7 +3887,7 @@
 
 **[[cc/madhya/6/235#translation|Madhya 6.235]]**...
 
-* & devotional service,, [[sb/5/10/10#purport|SB 5.10.10]]
+* & devotional service, [[sb/5/10/10#purport|SB 5.10.10]]
 
 *→ See all 12 references in* [Bodily conception of life](entries/bodily-conception-of-life.md)
 
@@ -3908,7 +3908,7 @@
 
 ### [Body (bodies), material](entries/body-bodies-material.md)
 
-* *varṇāśrama* &,, [[bg/2/31|Bg. 2.31]]
+* *varṇāśrama* &, [[bg/2/31|Bg. 2.31]]
 
 *→ See all 184 references in* [Body (bodies), material](entries/body-bodies-material.md)
 
@@ -3918,7 +3918,7 @@
 
 [[sb/3/2/4-5#purport|SB 3.2.4-5]]...
 
-* as transcendental,, [[sb/4/29/82#purport|SB 4.29.82]]
+* as transcendental, [[sb/4/29/82#purport|SB 4.29.82]]
 
 *→ See all 33 references in* [Body (spiritual)](entries/body-spiritual.md)
 
@@ -3934,7 +3934,7 @@
 ### Body of Lord
 
 * & living entity contrasted, [[sb/4/20/37#purport|SB 4.20.37]]
-*  [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/47-52#purport|SB 4.24.47-52]]
+* [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/47-52#purport|SB 4.24.47-52]]
 
 *See:* Kṛṣṇa; body of; Supreme Lord
 
@@ -3956,7 +3956,7 @@
 
 ### [Body, material](entries/body-material.md)
 
-* ”I-&-mine” concept perpetuates,, [[sb/3/5/44#purport|SB 3.5.44]]
+* ”I-&-mine” concept perpetuates, [[sb/3/5/44#purport|SB 3.5.44]]
 
 *→ See all 533 references in* [Body, material](entries/body-material.md)
 
@@ -4020,7 +4020,7 @@
 
 [[sb/4/26/1-3#purport|SB 4.26.1-3]], [[sb/4/28/20#purport|SB 4.28.20]], [[sb/4/29/78-78#purport|SB 4.29.78-78]], [[sb/4/29/82#purport|SB 4.29.82]]...
 
-* cause of,, [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/9/1#purport|SB 2.9.1]], [[sb/2/9/23#purport|SB 2.9.23]], [[sb/2/9/36#purport|SB 2.9.36]]
+* cause of, [[sb/2/7/50#purport|SB 2.7.50]], [[sb/2/9/1#purport|SB 2.9.1]], [[sb/2/9/23#purport|SB 2.9.23]], [[sb/2/9/36#purport|SB 2.9.36]]
 
 *→ See all 33 references in* [Bondage](entries/bondage.md)
 
@@ -4028,7 +4028,7 @@
 
 ### [Bondage, material](entries/bondage-material.md)
 
-* chanting Lord’s glories saves one from,, [[sb/5/9/3#purport|SB 5.9.3]]
+* chanting Lord’s glories saves one from, [[sb/5/9/3#purport|SB 5.9.3]]
 
 *→ See all 25 references in* [Bondage, material](entries/bondage-material.md)
 
@@ -4124,7 +4124,7 @@
 
 ### ”Brainwashing” & Kṛṣṇa consciousness movement
 
-*  [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/1/40#purport|SB 10.1.40]], [[sb/10/4/41#purport|SB 10.4.41]]
+* [[sb/10/1/13#purport|SB 10.1.13]], [[sb/10/1/40#purport|SB 10.1.40]], [[sb/10/4/41#purport|SB 10.4.41]]
 
 ---
 
@@ -4174,7 +4174,7 @@
 
 [[cc/madhya/8/138#purport|Madhya 8.138]]...
 
-* direction by,, [[sb/5/1/15#purport|SB 5.1.15]]
+* direction by, [[sb/5/1/15#purport|SB 5.1.15]]
 
 *→ See all 45 references in* [Brahmā quoted](entries/brahma-quoted.md)
 
@@ -4191,7 +4191,7 @@
 
 [[cc/madhya/15/264#purport|Madhya 15.264]]...
 
-* Dakṣa as,, [[sb/4/7/13#purport|SB 4.7.13]]
+* Dakṣa as, [[sb/4/7/13#purport|SB 4.7.13]]
 
 *→ See all 7 references in* [Brahma-bandhus](entries/brahma-bandhus.md)
 
@@ -4223,13 +4223,13 @@
 
 [[sb/3/31/43#purport|SB 3.31.43]]
 
-*  [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/37#purport|SB 2.9.37]], [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/19/20#purport|SB 5.19.20]], [[sb/8/11/8#purport|SB 8.11.8]], [[sb/8/24/52#purport|SB 8.24.52]], [[sb/9/8/13#purport|SB 9.8.13]], [[sb/9/19/15#purport|SB 9.19.15]]
+* [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/37#purport|SB 2.9.37]], [[sb/5/1/16#purport|SB 5.1.16]], [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/19/20#purport|SB 5.19.20]], [[sb/8/11/8#purport|SB 8.11.8]], [[sb/8/24/52#purport|SB 8.24.52]], [[sb/9/8/13#purport|SB 9.8.13]], [[sb/9/19/15#purport|SB 9.19.15]]
 
 ---
 
 ### Brahma-bhūta persons
 
-*  [[sb/3/21/34#purport|SB 3.21.34]], [[sb/3/22/36#purport|SB 3.22.36]]
+* [[sb/3/21/34#purport|SB 3.21.34]], [[sb/3/22/36#purport|SB 3.22.36]]
 
 ---
 
@@ -4237,13 +4237,13 @@
 
 [[sb/6/12/15#purport|SB 6.12.15]]
 
-*  [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/14#purport|SB 4.23.14]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/30/20#purport|SB 4.30.20]]
+* [[sb/4/21/32#purport|SB 4.21.32]], [[sb/4/23/9#purport|SB 4.23.9]], [[sb/4/23/11#purport|SB 4.23.11]], [[sb/4/23/14#purport|SB 4.23.14]], [[sb/4/24/52#purport|SB 4.24.52]], [[sb/4/25/62#purport|SB 4.25.62]], [[sb/4/29/82#purport|SB 4.29.82]], [[sb/4/30/20#purport|SB 4.30.20]]
 
 ---
 
 ### Brahma-bhūta stage of realization
 
-*  [[bg/5/24|Bg. 5.24]], [[bg/6/27|Bg. 6.27]], [[bg/9/2|Bg. 9.2]] (11), [[bg/18/51–54|Bg. 18.51–54]], [[bg/18/55|Bg. 18.55]], [[bg/18/63|Bg. 18.63]]
+* [[bg/5/24|Bg. 5.24]], [[bg/6/27|Bg. 6.27]], [[bg/9/2|Bg. 9.2]] (11), [[bg/18/51–54|Bg. 18.51–54]], [[bg/18/55|Bg. 18.55]], [[bg/18/63|Bg. 18.63]]
 
 ---
 
@@ -4294,7 +4294,7 @@
 
 [[sb/1/9/44#purport|SB 1.9.44]], [[sb/9/24/58#purport|SB 9.24.58]]
 
-*  [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/10/15#purport|SB 5.10.15]], [[sb/5/10/19#purport|SB 5.10.19]]
+* [[sb/5/5/14#purport|SB 5.5.14]], [[sb/5/10/15#purport|SB 5.10.15]], [[sb/5/10/19#purport|SB 5.10.19]]
 
 ---
 
@@ -4353,7 +4353,7 @@
 
 ### Brahma-nirvāṇa
 
-*  [[bg/2/72|Bg. 2.72]], [[bg/5/26|Bg. 5.26]], [[bg/5/29|Bg. 5.29]]
+* [[bg/2/72|Bg. 2.72]], [[bg/5/26|Bg. 5.26]], [[bg/5/29|Bg. 5.29]]
 
 ---
 
@@ -4361,7 +4361,7 @@
 
 [[bg/3|Bg. 3]], [[bg/4/5|Bg. 4.5]]...
 
-* as Vedic corollary,, [[sb/8/21/2-3#purport|SB 8.21.2-3]]
+* as Vedic corollary, [[sb/8/21/2-3#purport|SB 8.21.2-3]]
 
 *→ See all 11 references in* [Brahma-saṁhitā](entries/brahma-samhita.md)
 
@@ -4371,7 +4371,7 @@
 
 [[cc/adi/3/111#purport|Ādi 3.111]]...
 
-* & His expansions,, [[sb/5/7/9#purport|SB 5.7.9]], [[sb/5/19/4#purport|SB 5.19.4]]
+* & His expansions, [[sb/5/7/9#purport|SB 5.7.9]], [[sb/5/19/4#purport|SB 5.19.4]]
 
 *→ See all 85 references in* [Brahma-saṁhitā cited](entries/brahma-samhita-cited.md)
 
@@ -4388,7 +4388,7 @@
 
 **[[cc/madhya/20/304#translation|Madhya 20.304]]**...
 
-* & associates,, [[sb/10/8/48#purport|SB 10.8.48]]
+* & associates, [[sb/10/8/48#purport|SB 10.8.48]]
 
 *→ See all 227 references in* [Brahma-saṁhitā quoted](entries/brahma-samhita-quoted.md)
 
@@ -4410,7 +4410,7 @@
 
 ### Brahma-saṁhitā, origin of
 
-*  [[sb/3/8/22#purport|SB 3.8.22]], [[sb/3/8/26#purport|SB 3.8.26]]
+* [[sb/3/8/22#purport|SB 3.8.22]], [[sb/3/8/26#purport|SB 3.8.26]]
 
 ---
 
@@ -4432,7 +4432,7 @@
 
 [[cc/antya/2/95#purport|Antya 2.95]]...
 
-* as Brahmā’s preaching party,, [[sb/2/9/19#purport|SB 2.9.19]]
+* as Brahmā’s preaching party, [[sb/2/9/19#purport|SB 2.9.19]]
 
 *→ See all 10 references in* [Brahma-sampradāya](entries/brahma-sampradaya.md)
 
@@ -4597,7 +4597,7 @@
 
 [[cc/adi/15/14#purport|Ādi 15.14]]...
 
-* cited on Kṛṣṇa protecting Śukadeva,, [[sb/2/8/27#purport|SB 2.8.27]]
+* cited on Kṛṣṇa protecting Śukadeva, [[sb/2/8/27#purport|SB 2.8.27]]
 
 *→ See all 7 references in* [Brahma-vaivarta Purāṇa](entries/brahma-vaivarta-purana.md)
 
@@ -4654,7 +4654,7 @@
 
 ### Brahma-vimohana-līlā
 
-*  [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/17#purport|SB 10.13.17]]
+* [[sb/10/13/15#purport|SB 10.13.15]], [[sb/10/13/17#purport|SB 10.13.17]]
 
 ---
 
@@ -4676,7 +4676,7 @@
 
 [[bg/2/2|Bg. 2.2]] (3), [[bg/4/16|Bg. 4.16]], [[bg/8/2|Bg. 8.2]], [[bg/10/7|Bg. 10.7]], [[bg/10/42|Bg. 10.42]], [[bg/11/46|Bg. 11.46]], [[bg/11/52|Bg. 11.52]], [[bg/14/4|Bg. 14.4]], [[bg/15/16|Bg. 15.16]], [[bg/17/4|Bg. 17.4]]...
 
-* ”born” of,, [[sb/3/19/2#purport|SB 3.19.2]], [[sb/3/24/6#purport|SB 3.24.6]]
+* ”born” of, [[sb/3/19/2#purport|SB 3.19.2]], [[sb/3/24/6#purport|SB 3.24.6]]
 
 *→ See all 810 references in* [Brahmā, Lord](entries/brahma-lord.md)
 
@@ -4695,7 +4695,7 @@
 
 ### [Brahmacārī āśrama](entries/brahmacari-asrama.md)
 
-* Absolute Truth not understood by observing vows of,, [[sb/5/12/12#purport|SB 5.12.12]]
+* Absolute Truth not understood by observing vows of, [[sb/5/12/12#purport|SB 5.12.12]]
 
 *→ See all 8 references in* [Brahmacārī āśrama](entries/brahmacari-asrama.md)
 
@@ -4710,7 +4710,7 @@
 
 ### Brahmacārī training
 
-*  [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/1/18/32#purport|SB 1.18.32]]
+* [[sb/1/9/26-27#purport|SB 1.9.26-27]], [[sb/1/18/32#purport|SB 1.18.32]]
 
 ---
 
@@ -4718,7 +4718,7 @@
 
 [[bg/4/26|Bg. 4.26]], [[bg/6/13|Bg. 6.13]] (1), [[bg/8/28|Bg. 8.28]], [[bg/16/1|Bg. 16.1]] (9–10)...
 
-* Ajāmila as,, [[sb/6/1/56-57#purport|SB 6.1.56-57]], [[sb/6/1/58-60#purport|SB 6.1.58-60]]
+* Ajāmila as, [[sb/6/1/56-57#purport|SB 6.1.56-57]], [[sb/6/1/58-60#purport|SB 6.1.58-60]]
 
 *→ See all 71 references in* [Brahmacārī(s)](entries/brahmacaris.md)
 
@@ -4728,7 +4728,7 @@
 
 [[bg/6/13|Bg. 6.13]] (1), [[bg/8/11|Bg. 8.11]], [[bg/8/28|Bg. 8.28]]...
 
-* āśrama choices beyond,, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
+* āśrama choices beyond, [[sb/7/12/13-14#purport|SB 7.12.13-14]], [[sb/7/12/13-14#purport|SB 7.12.13-14]]
 
 *→ See all 16 references in* [Brahmacarya](entries/brahmacarya.md)
 
@@ -4775,7 +4775,7 @@
 
 [[bg/9/14|Bg. 9.14]], [[bg/15/6|Bg. 15.6]]...
 
-* as covering of Lord’s form,, [[bg/7/25|Bg. 7.25]]
+* as covering of Lord’s form, [[bg/7/25|Bg. 7.25]]
 
 *→ See all 46 references in* [Brahmajyoti](entries/brahmajyoti.md)
 
@@ -4785,7 +4785,7 @@
 
 [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/24#purport|SB 10.3.24]]...
 
-* as Lord’s bodily luster,, [[sb/3/24/39#purport|SB 3.24.39]]
+* as Lord’s bodily luster, [[sb/3/24/39#purport|SB 3.24.39]]
 
 *→ See all 9 references in* [Brahmajyoti (Brahman effulgence)](entries/brahmajyoti-brahman-effulgence.md)
 
@@ -4795,7 +4795,7 @@
 
 [[bg/20|Bg. 20]], [[bg/8/16|Bg. 8.16]], [[bg/14/14|Bg. 14.14]], [[bg/15/1|Bg. 15.1]], [[bg/15/2|Bg. 15.2]]...
 
-* as Brahmā’s abode,, [[sb/5/1/7#purport|SB 5.1.7]]
+* as Brahmā’s abode, [[sb/5/1/7#purport|SB 5.1.7]]
 
 *→ See all 39 references in* [Brahmaloka](entries/brahmaloka.md)
 
@@ -4823,7 +4823,7 @@
 
 [[sb/7/12/13-14#purport|SB 7.12.13-14]]...
 
-* ”devotional service” for attaining,, [[sb/6/14/5#purport|SB 6.14.5]]
+* ”devotional service” for attaining, [[sb/6/14/5#purport|SB 6.14.5]]
 
 *→ See all 97 references in* [Brahman (impersonal Absolute)](entries/brahman-impersonal-absolute.md)
 
@@ -4831,7 +4831,7 @@
 
 ### [Brahman (spirit)](entries/brahman-spirit.md)
 
-* as eternal,, [[sb/10/12/5#purport|SB 10.12.5]]
+* as eternal, [[sb/10/12/5#purport|SB 10.12.5]]
 
 *→ See all 6 references in* [Brahman (spirit)](entries/brahman-spirit.md)
 
@@ -4841,7 +4841,7 @@
 
 ...
 
-* as caused by Lord,, [[sb/2/6/33#purport|SB 2.6.33]]
+* as caused by Lord, [[sb/2/6/33#purport|SB 2.6.33]]
 
 *→ See all 47 references in* [Brahman effulgence](entries/brahman-effulgence.md)
 
@@ -4851,7 +4851,7 @@
 
 * as Lord’s bodily luster, [[sb/3/24/39#purport|SB 3.24.39]]
 * defined, [[sb/3/20/16#purport|SB 3.20.16]]
-*  [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/24#purport|SB 10.3.24]]
+* [[sb/10/3/15-17#purport|SB 10.3.15-17]], [[sb/10/3/24#purport|SB 10.3.24]]
 
 *See also:* [Brahman](entries/brahman.md)
 
@@ -4886,7 +4886,7 @@
 
 [[sb/3/25/1#purport|SB 3.25.1]], [[sb/3/25/19#purport|SB 3.25.19]], [[sb/3/28/44#purport|SB 3.28.44]], [[sb/3/32/26#purport|SB 3.32.26]], [[sb/3/32/33#purport|SB 3.32.33]], [[sb/3/33/26#purport|SB 3.33.26]], [[sb/3/33/30#purport|SB 3.33.30]]...
 
-* artificial type of,, [[sb/1/1/19#purport|SB 1.1.19]]
+* artificial type of, [[sb/1/1/19#purport|SB 1.1.19]]
 
 *→ See all 10 references in* [Brahman realization](entries/brahman-realization.md)
 
@@ -4896,7 +4896,7 @@
 
 [[cc/adi/7/140#purport|Ādi 7.140]], 2.20.59 translation, [[cc/madhya/24/330#purport|Madhya 24.330]], **[[cc/antya/16/26#translation|Antya 16.26]]**...
 
-* & Virajā River,, [[cc/madhya/15/277#purport|Madhya 15.277]]
+* & Virajā River, [[cc/madhya/15/277#purport|Madhya 15.277]]
 
 *→ See all 197 references in* [Brahman, impersonal](entries/brahman-impersonal.md)
 
@@ -4904,7 +4904,7 @@
 
 ### [Brahman, Supreme](entries/brahman-supreme.md)
 
-* as cause of all causes,, [[sb/8/12/8#purport|SB 8.12.8]]
+* as cause of all causes, [[sb/8/12/8#purport|SB 8.12.8]]
 
 *→ See all 32 references in* [Brahman, Supreme](entries/brahman-supreme.md)
 
@@ -4912,7 +4912,7 @@
 
 ### Brahman, Supreme, Kṛṣṇa as
 
-*  [[sb/4/27/5#purport|SB 4.27.5]], [[sb/4/28/38#purport|SB 4.28.38]], [[sb/4/30/7#purport|SB 4.30.7]]
+* [[sb/4/27/5#purport|SB 4.27.5]], [[sb/4/28/38#purport|SB 4.28.38]], [[sb/4/30/7#purport|SB 4.30.7]]
 
 ---
 
@@ -4948,7 +4948,7 @@
 
 [[sb/10/13/53#purport|SB 10.13.53]]...
 
-* *oṁ tat sat* &,, [[bg/17/23|Bg. 17.23]]
+* *oṁ tat sat* &, [[bg/17/23|Bg. 17.23]]
 
 *→ See all 487 references in* [Brāhmaṇa(s)](entries/brahmanas.md)
 
@@ -4956,7 +4956,7 @@
 
 ### [Brāhmaṇa(s) (intellectuals)](entries/brahmanas-intellectuals.md)
 
-* as brahmacārī,, [[sb/7/12/11#purport|SB 7.12.11]]
+* as brahmacārī, [[sb/7/12/11#purport|SB 7.12.11]]
 
 *→ See all 61 references in* [Brāhmaṇa(s) (intellectuals)](entries/brahmanas-intellectuals.md)
 
@@ -4964,7 +4964,7 @@
 
 ### Brahmānanda (brahma-nirvāṇa) defined
 
-*  [[sb/4/4/15#purport|SB 4.4.15]], [[sb/4/6/39#purport|SB 4.6.39]], [[sb/4/9/10-10#purport|SB 4.9.10-10]], [[sb/4/9/16#purport|SB 4.9.16]]
+* [[sb/4/4/15#purport|SB 4.4.15]], [[sb/4/6/39#purport|SB 4.6.39]], [[sb/4/9/10-10#purport|SB 4.9.10-10]], [[sb/4/9/16#purport|SB 4.9.16]]
 
 ---
 
@@ -5128,7 +5128,7 @@
 
 [[sb/1/7/27-32#purport|SB 1.7.27-32]]...
 
-* as atomic weapon,, [[sb/1/7/19#purport|SB 1.7.19]], [[sb/1/7/27#purport|SB 1.7.27]], [[sb/1/7/30#purport|SB 1.7.30]]
+* as atomic weapon, [[sb/1/7/19#purport|SB 1.7.19]], [[sb/1/7/27#purport|SB 1.7.27]], [[sb/1/7/30#purport|SB 1.7.30]]
 
 *→ See all 12 references in* [Brahmāstra(s)](entries/brahmastras.md)
 
@@ -5140,7 +5140,7 @@
 
 * Ṛṣabhadeva attends conference at, [[sb/5/4/19#purport|SB 5.4.19]]
 * Ṛṣabhadeva departs, [[sb/5/5/28#purport|SB 5.5.28]]
-*  [[sb/3/21/25#purport|SB 3.21.25]], [[sb/3/22/28#purport|SB 3.22.28]]
+* [[sb/3/21/25#purport|SB 3.21.25]], [[sb/3/22/28#purport|SB 3.22.28]]
 
 ---
 
@@ -5176,7 +5176,7 @@
 
 [[cc/antya/3/50#purport|Antya 3.50]]...
 
-* cow protection maintains,, [[sb/8/24/5#purport|SB 8.24.5]]
+* cow protection maintains, [[sb/8/24/5#purport|SB 8.24.5]]
 
 *→ See all 13 references in* [Brahminical culture](entries/brahminical-culture.md)
 
@@ -5262,7 +5262,7 @@
 
 ### Breath control
 
-*  [[bg/4/27|Bg. 4.27]], [[bg/4/29|Bg. 4.29]], [[bg/5/28|Bg. 5.28]]
+* [[bg/4/27|Bg. 4.27]], [[bg/4/29|Bg. 4.29]], [[bg/5/28|Bg. 5.28]]
 * by yogī, [[sb/9/12/6#purport|SB 9.12.6]]
 
 *See also:* Life airs; [Yoga](entries/yogas.md)
@@ -5271,7 +5271,7 @@
 
 ### [Breathing](entries/breathing.md)
 
-* by Dhruva,, [[sb/4/8/75-76#purport|SB 4.8.75-76]], [[sb/4/8/80#purport|SB 4.8.80]], [[sb/4/8/81#purport|SB 4.8.81]]
+* by Dhruva, [[sb/4/8/75-76#purport|SB 4.8.75-76]], [[sb/4/8/80#purport|SB 4.8.80]], [[sb/4/8/81#purport|SB 4.8.81]]
 
 *→ See all 6 references in* [Breathing](entries/breathing.md)
 
@@ -5286,13 +5286,13 @@
 
 ### Breathing process in yoga
 
-*  [[sb/3/15/7#purport|SB 3.15.7]], [[sb/3/15/45#purport|SB 3.15.45]]
+* [[sb/3/15/7#purport|SB 3.15.7]], [[sb/3/15/45#purport|SB 3.15.45]]
 
 ---
 
 ### Bṛghu
 
-*  [[sb/6/18/3-4#purport|SB 6.18.3-4]], [[sb/6/18/5#purport|SB 6.18.5]]
+* [[sb/6/18/3-4#purport|SB 6.18.3-4]], [[sb/6/18/5#purport|SB 6.18.5]]
 
 ---
 
@@ -5381,7 +5381,7 @@
 
 ### Bṛhad-viṣṇu Purāṇa quoted on chanting
 
-*  [[sb/6/2/7#purport|SB 6.2.7]], [[sb/6/13/8-9#purport|SB 6.13.8-9]]
+* [[sb/6/2/7#purport|SB 6.2.7]], [[sb/6/13/8-9#purport|SB 6.13.8-9]]
 
 ---
 
@@ -5434,7 +5434,7 @@
 
 ### Bṛhadbala (son of Takṣaka)
 
-*  [[sb/9/12/8#purport|SB 9.12.8]], [[sb/9/12/9#purport|SB 9.12.9]], [[sb/9/12/15#purport|SB 9.12.15]]
+* [[sb/9/12/8#purport|SB 9.12.8]], [[sb/9/12/9#purport|SB 9.12.9]], [[sb/9/12/15#purport|SB 9.12.15]]
 
 ---
 
@@ -5442,7 +5442,7 @@
 
 [[sb/9/23/11#purport|SB 9.23.11]]
 
-*  [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
+* [[sb/1/3/5#purport|SB 1.3.5]], [[sb/1/3/26#purport|SB 1.3.26]]
 
 ---
 
@@ -5469,7 +5469,7 @@
 
 ### Bṛhadiṣu
 
-*  [[sb/9/21/22#purport|SB 9.21.22]], [[sb/9/21/26#purport|SB 9.21.26]]
+* [[sb/9/21/22#purport|SB 9.21.22]], [[sb/9/21/26#purport|SB 9.21.26]]
 
 ---
 
@@ -5517,7 +5517,7 @@
 
 ### Bṛhadratha (son of Uparicara Vasu)
 
-*  [[sb/9/22/6#purport|SB 9.22.6]], [[sb/9/22/8#purport|SB 9.22.8]]
+* [[sb/9/22/6#purport|SB 9.22.6]], [[sb/9/22/8#purport|SB 9.22.8]]
 
 ---
 
@@ -5545,7 +5545,7 @@
 
 [[bg/6/12|Bg. 6.12]]
 
-*  [[sb/6/16/44#purport|SB 6.16.44]], [[sb/6/16/53-54#purport|SB 6.16.53-54]]
+* [[sb/6/16/44#purport|SB 6.16.44]], [[sb/6/16/53-54#purport|SB 6.16.53-54]]
 
 ---
 
@@ -5592,7 +5592,7 @@
 
 [[bg/10/24|Bg. 10.24]]...
 
-* as Indra’s spiritual master,, [[sb/8/15/24#purport|SB 8.15.24]]
+* as Indra’s spiritual master, [[sb/8/15/24#purport|SB 8.15.24]]
 
 *→ See all 26 references in* [Bṛhaspati](entries/brhaspati.md)
 
@@ -5600,7 +5600,7 @@
 
 ### Bṛhaspati-sava sacrifice
 
-*  [[sb/4/3/3#purport|SB 4.3.3]], [[sb/4/3/4#purport|SB 4.3.4]]
+* [[sb/4/3/3#purport|SB 4.3.3]], [[sb/4/3/4#purport|SB 4.3.4]]
 
 ---
 
@@ -5641,7 +5641,7 @@
 
 ### Bṛhatkṣatra
 
-*  [[sb/9/21/1#purport|SB 9.21.1]], [[sb/9/21/19-20#purport|SB 9.21.19-20]]
+* [[sb/9/21/1#purport|SB 9.21.1]], [[sb/9/21/19-20#purport|SB 9.21.19-20]]
 
 ---
 
@@ -5661,7 +5661,7 @@
 
 ### Bridge of Rāma over ocean
 
-*  [[sb/9/10/15#purport|SB 9.10.15]], [[sb/9/10/16#purport|SB 9.10.16]]
+* [[sb/9/10/15#purport|SB 9.10.15]], [[sb/9/10/16#purport|SB 9.10.16]]
 
 ---
 
@@ -5721,7 +5721,7 @@
 
 [[cc/adi/4/34#purport|Ādi 4.34]]...
 
-* animal slaughter stopped by,, [[sb/4/19/36#purport|SB 4.19.36]]
+* animal slaughter stopped by, [[sb/4/19/36#purport|SB 4.19.36]]
 
 *→ See all 32 references in* [Buddha, Lord](entries/buddha-lord.md)
 
@@ -5759,7 +5759,7 @@
 
 [[sb/4/29/5#purport|SB 4.29.5]]
 
-*  [[bg/2/39–25|Bg. 2.39–25]], [[bg/2/49|Bg. 2.49]], [[bg/3/1|Bg. 3.1]], [[bg/3/3|Bg. 3.3]], [[bg/3/4|Bg. 3.4]], [[bg/5/1|Bg. 5.1]], [[bg/10/10|Bg. 10.10]]
+* [[bg/2/39–25|Bg. 2.39–25]], [[bg/2/49|Bg. 2.49]], [[bg/3/1|Bg. 3.1]], [[bg/3/3|Bg. 3.3]], [[bg/3/4|Bg. 3.4]], [[bg/5/1|Bg. 5.1]], [[bg/10/10|Bg. 10.10]]
 * defined, [[sb/7/9/50#purport|SB 7.9.50]]
 
 *See also:* Devotional service
@@ -5782,7 +5782,7 @@
 
 ### Buddhism
 
-*  [[bg/2/26|Bg. 2.26]], [[bg/2/72|Bg. 2.72]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/40#purport|SB 4.28.40]]
+* [[bg/2/26|Bg. 2.26]], [[bg/2/72|Bg. 2.72]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/40#purport|SB 4.28.40]]
 
 ---
 
@@ -5809,7 +5809,7 @@
 ### Budha
 
 * as moon-king’s son, [[sb/9/1/34#purport|SB 9.1.34]], [[sb/9/1/35#purport|SB 9.1.35]]
-*  [[sb/9/14/14#purport|SB 9.14.14]], [[sb/9/14/15-16#purport|SB 9.14.15-16]]
+* [[sb/9/14/14#purport|SB 9.14.14]], [[sb/9/14/15-16#purport|SB 9.14.15-16]]
 * woman with, [[sb/9/1/34#purport|SB 9.1.34]], [[sb/9/1/35#purport|SB 9.1.35]]
 
 ---
@@ -5865,13 +5865,13 @@
 
 ### Bull carrier of Śiva
 
-*  [[sb/4/1/24-24#purport|SB 4.1.24-24]], [[sb/4/18/23-24#purport|SB 4.18.23-24]]
+* [[sb/4/1/24-24#purport|SB 4.1.24-24]], [[sb/4/18/23-24#purport|SB 4.18.23-24]]
 
 ---
 
 ### Bull, Indra as
 
-*  [[sb/9/6/14#purport|SB 9.6.14]], [[sb/9/6/15-16#purport|SB 9.6.15-16]]
+* [[sb/9/6/14#purport|SB 9.6.14]], [[sb/9/6/15-16#purport|SB 9.6.15-16]]
 
 ---
 
@@ -5879,7 +5879,7 @@
 
 **[[cc/adi/17/153–54#translation|Ādi 17.153–54]]**...
 
-* as offenseless,, [[sb/1/17/13#purport|SB 1.17.13]]
+* as offenseless, [[sb/1/17/13#purport|SB 1.17.13]]
 
 *→ See all 9 references in* [Bull(s)](entries/bulls.md)
 
@@ -5901,7 +5901,7 @@
 
 ### Bulls circling compared to planets orbiting
 
-*  [[sb/4/9/20-21#purport|SB 4.9.20-21]], [[sb/4/12/39#purport|SB 4.12.39]]
+* [[sb/4/9/20-21#purport|SB 4.9.20-21]], [[sb/4/12/39#purport|SB 4.12.39]]
 
 ---
 
@@ -5922,7 +5922,7 @@
 
 ### Business
 
-*  [[sb/5/13/11#purport|SB 5.13.11]], [[sb/5/13/13#purport|SB 5.13.13]]
+* [[sb/5/13/11#purport|SB 5.13.11]], [[sb/5/13/13#purport|SB 5.13.13]]
 
 ---
 

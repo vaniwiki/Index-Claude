@@ -8,7 +8,7 @@
 
 ### ”I & mine” concept
 
-*  [[sb/2/1/11#purport|SB 2.1.11]], [[sb/2/5/13#purport|SB 2.5.13]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/2/9/3#purport|SB 2.9.3]], [[sb/2/9/3#purport|SB 2.9.3]]
+* [[sb/2/1/11#purport|SB 2.1.11]], [[sb/2/5/13#purport|SB 2.5.13]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/2/9/2#purport|SB 2.9.2]], [[sb/2/9/3#purport|SB 2.9.3]], [[sb/2/9/3#purport|SB 2.9.3]]
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### Iḍaviḍā (wife of Viśravā)
 
-*  [[sb/4/1/37#purport|SB 4.1.37]], [[sb/4/12/9#purport|SB 4.12.9]]
+* [[sb/4/1/37#purport|SB 4.1.37]], [[sb/4/12/9#purport|SB 4.12.9]]
 
 ---
 
@@ -110,7 +110,7 @@
 
 **[[cc/adi/1/97–98#translation|Ādi 1.97–98]]**...
 
-* ”light” for destroying,, [[sb/2/9/34#purport|SB 2.9.34]]
+* ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
 
 *→ See all 290 references in* [Ignorance](entries/ignorance.md)
 
@@ -120,7 +120,7 @@
 
 [[bg/8|Bg. 8]]...
 
-* *varṇāśrama *division in,, [[bg/9/32|Bg. 9.32]]
+* *varṇāśrama *division in, [[bg/9/32|Bg. 9.32]]
 
 *→ See all 125 references in* [Ignorance, mode of](entries/ignorance-mode-of.md)
 
@@ -139,7 +139,7 @@
 
 [[cc/madhya/8/312#purport|Madhya 8.312]], [[cc/madhya/9/11#purport|Madhya 9.11]]
 
-*  [[bg/3|Bg. 3]], [[bg/4/1|Bg. 4.1]], [[bg/4/1|Bg. 4.1]] (4), [[bg/4/16|Bg. 4.16]]
+* [[bg/3|Bg. 3]], [[bg/4/1|Bg. 4.1]], [[bg/4/1|Bg. 4.1]] (4), [[bg/4/16|Bg. 4.16]]
 
 ---
 
@@ -147,7 +147,7 @@
 
 [[sb/1/12/19#purport|SB 1.12.19]], [[sb/1/12/19#purport|SB 1.12.19]]...
 
-* as Manu’s son,, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]], [[sb/9/2/2#purport|SB 9.2.2]], [[sb/9/6/4#purport|SB 9.6.4]]
+* as Manu’s son, [[sb/9/1/2-3#purport|SB 9.1.2-3]], [[sb/9/1/11-12#purport|SB 9.1.11-12]], [[sb/9/2/2#purport|SB 9.2.2]], [[sb/9/6/4#purport|SB 9.6.4]]
 
 *→ See all 11 references in* [Ikṣvāku Mahārāja](entries/iksvaku-maharaja.md)
 
@@ -168,7 +168,7 @@
 
 [[sb/4/10/2#purport|SB 4.10.2]]...
 
-* born by descrepancy,, [[sb/9/1/16#purport|SB 9.1.16]]
+* born by descrepancy, [[sb/9/1/16#purport|SB 9.1.16]]
 
 *→ See all 6 references in* [Ilā](entries/ila.md)
 
@@ -176,7 +176,7 @@
 
 ### Ilā (wife of Vasudeva)
 
-*  [[sb/9/24/45#purport|SB 9.24.45]], [[sb/9/24/49#purport|SB 9.24.49]]
+* [[sb/9/24/45#purport|SB 9.24.45]], [[sb/9/24/49#purport|SB 9.24.49]]
 
 ---
 
@@ -189,13 +189,13 @@
 
 ### Ilavilā
 
-*  [[sb/9/2/31#purport|SB 9.2.31]], [[sb/9/2/32#purport|SB 9.2.32]]
+* [[sb/9/2/31#purport|SB 9.2.31]], [[sb/9/2/32#purport|SB 9.2.32]]
 
 ---
 
 ### Ilāvṛta
 
-*  [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
+* [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
 
 ---
 
@@ -203,7 +203,7 @@
 
 [[bg/6/43|Bg. 6.43]]...
 
-* Aruṇodā River flows through,, [[sb/5/6/17#purport|SB 5.6.17]]
+* Aruṇodā River flows through, [[sb/5/6/17#purport|SB 5.6.17]]
 
 *→ See all 13 references in* [Ilāvṛta-varṣa](entries/ilavrta-varsa.md)
 
@@ -211,7 +211,7 @@
 
 ### Illicit sex
 
-*  [[sb/3/20/53#purport|SB 3.20.53]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/3/30/28#purport|SB 3.30.28]]
+* [[sb/3/20/53#purport|SB 3.20.53]], [[sb/3/24/35#purport|SB 3.24.35]], [[sb/3/30/28#purport|SB 3.30.28]]
 
 *See also:* Sex life
 
@@ -235,7 +235,7 @@
 
 ### [Illusion](entries/illusion.md)
 
-* ”I & mine” as,, [[sb/2/9/3#purport|SB 2.9.3]]
+* ”I & mine” as, [[sb/2/9/3#purport|SB 2.9.3]]
 
 *→ See all 308 references in* [Illusion](entries/illusion.md)
 
@@ -252,7 +252,7 @@
 
 [[sb/6/18/15#purport|SB 6.18.15]], [[sb/7/2/4-5#purport|SB 7.2.4-5]]
 
-*  [[sb/8/7/14#purport|SB 8.7.14]], [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/32-34#purport|SB 8.10.32-34]]
+* [[sb/8/7/14#purport|SB 8.7.14]], [[sb/8/10/19-24#purport|SB 8.10.19-24]], [[sb/8/10/32-34#purport|SB 8.10.32-34]]
 
 ---
 
@@ -260,7 +260,7 @@
 
 ### Imagination, Lord not known via
 
-*  [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/32#purport|SB 10.3.32]]
+* [[sb/10/2/35#purport|SB 10.2.35]], [[sb/10/2/36#purport|SB 10.2.36]], [[sb/10/3/32#purport|SB 10.3.32]]
 
 ---
 
@@ -273,7 +273,7 @@
 
 ### [Immortality](entries/immortality.md)
 
-* for Rāhu,, [[sb/8/9/26#purport|SB 8.9.26]]
+* for Rāhu, [[sb/8/9/26#purport|SB 8.9.26]]
 
 *→ See all 12 references in* [Immortality](entries/immortality.md)
 
@@ -306,7 +306,7 @@
 
 [[bg/3/4|Bg. 3.4]]...
 
-* ”oneness” idea of,, [[sb/3/27/16#purport|SB 3.27.16]], [[sb/3/32/11#purport|SB 3.32.11]]
+* ”oneness” idea of, [[sb/3/27/16#purport|SB 3.27.16]], [[sb/3/32/11#purport|SB 3.32.11]]
 
 *→ See all 47 references in* [Impersonalism](entries/impersonalism.md)
 
@@ -316,7 +316,7 @@
 
 [[cc/madhya/24/124#purport|Madhya 24.124]]...
 
-* as demons,, [[cc/madhya/17/104#purport|Madhya 17.104]]
+* as demons, [[cc/madhya/17/104#purport|Madhya 17.104]]
 
 *→ See all 41 references in* [Impersonalism/Impersonalists](entries/impersonalism-impersonalists.md)
 
@@ -326,7 +326,7 @@
 
 [[sb/9/11/1#purport|SB 9.11.1]], [[sb/9/11/19#purport|SB 9.11.19]]...
 
-* ”I” concept of,, [[sb/2/9/33#purport|SB 2.9.33]]
+* ”I” concept of, [[sb/2/9/33#purport|SB 2.9.33]]
 
 *→ See all 288 references in* [Impersonalist(s)](entries/impersonalists.md)
 
@@ -375,7 +375,7 @@
 
 [[cc/adi/12/49#purport|Ādi 12.49]]...
 
-* Advaita as,, **[[cc/adi/12/31#translation|Ādi 12.31]]**, **[[cc/adi/12/34#translation|Ādi 12.34]]**
+* Advaita as, **[[cc/adi/12/31#translation|Ādi 12.31]]**, **[[cc/adi/12/34#translation|Ādi 12.34]]**
 
 *→ See all 78 references in* [Incarnation(s) of Lord](entries/incarnations-of-lord.md)
 
@@ -385,7 +385,7 @@
 
 ...
 
-* ”material” & transcendental,, [[sb/1/1/17#purport|SB 1.1.17]]
+* ”material” & transcendental, [[sb/1/1/17#purport|SB 1.1.17]]
 
 *→ See all 196 references in* [Incarnation(s) of Supreme Lord](entries/incarnations-of-supreme-lord.md)
 
@@ -428,7 +428,7 @@
 
 ### [Independence](entries/independence.md)
 
-* compared with living beings’,, [[sb/2/9/1-3#purport|SB 2.9.1-3]], [[sb/2/9/34#purport|SB 2.9.34]], [[sb/2/10/8-9#purport|SB 2.10.8-9]], [[sb/2/10/16#purport|SB 2.10.16]]
+* compared with living beings’, [[sb/2/9/1-3#purport|SB 2.9.1-3]], [[sb/2/9/34#purport|SB 2.9.34]], [[sb/2/10/8-9#purport|SB 2.10.8-9]], [[sb/2/10/16#purport|SB 2.10.16]]
 
 *→ See all 25 references in* [Independence](entries/independence.md)
 
@@ -438,7 +438,7 @@
 
 [[bg/3/20|Bg. 3.20]]...
 
-* ”missionary” work in,, [[sb/4/27/11#purport|SB 4.27.11]]
+* ”missionary” work in, [[sb/4/27/11#purport|SB 4.27.11]]
 
 *→ See all 113 references in* [India](entries/india.md)
 
@@ -462,7 +462,7 @@
 
 [[cc/madhya/25/183#purport|Madhya 25.183]]...
 
-* atheism in,, [[cc/adi/7/119#purport|Ādi 7.119]]
+* atheism in, [[cc/adi/7/119#purport|Ādi 7.119]]
 
 *→ See all 31 references in* [India/Indians](entries/india-indians.md)
 
@@ -470,7 +470,7 @@
 
 ### Indian Ocean
 
-*  [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/10/25#purport|SB 1.10.25]]
+* [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/3/22#purport|SB 1.3.22]], [[sb/1/10/25#purport|SB 1.10.25]]
 
 *See:* [Ocean](entries/oceans.md)
 
@@ -513,7 +513,7 @@
 
 ### Individuality
 
-*  [[bg/2/12–13|Bg. 2.12–13]], [[bg/2/23–24|Bg. 2.23–24]], [[bg/4/11|Bg. 4.11]], [[bg/4/35|Bg. 4.35]], [[bg/5/3|Bg. 5.3]], [[bg/7/24|Bg. 7.24]] (4–5), [[bg/13/23|Bg. 13.23]]
+* [[bg/2/12–13|Bg. 2.12–13]], [[bg/2/23–24|Bg. 2.23–24]], [[bg/4/11|Bg. 4.11]], [[bg/4/35|Bg. 4.35]], [[bg/5/3|Bg. 5.3]], [[bg/7/24|Bg. 7.24]] (4–5), [[bg/13/23|Bg. 13.23]]
 
 ---
 
@@ -577,7 +577,7 @@
 
 [[sb/3/21/51#purport|SB 3.21.51]], [[sb/3/25/42-42#purport|SB 3.25.42-42]]...
 
-* Adbhuta as,, [[sb/8/13/19#purport|SB 8.13.19]], [[sb/8/13/20#purport|SB 8.13.20]]
+* Adbhuta as, [[sb/8/13/19#purport|SB 8.13.19]], [[sb/8/13/20#purport|SB 8.13.20]]
 
 *→ See all 54 references in* [Indra, King](entries/indra-king.md)
 
@@ -587,7 +587,7 @@
 
 [[sb/1/3/12#purport|SB 1.3.12]], [[sb/1/19/9-10#purport|SB 1.19.9-10]]...
 
-* “killed” by Vṛtrāsura,, [[sb/6/12/35#purport|SB 6.12.35]]
+* “killed” by Vṛtrāsura, [[sb/6/12/35#purport|SB 6.12.35]]
 
 *→ See all 183 references in* [Indra, Lord](entries/indra-lord.md)
 
@@ -599,7 +599,7 @@
 
 [[bg/8/2|Bg. 8.2]], [[bg/17/4|Bg. 17.4]]...
 
-* Arjuna &,, [[bg/2/33|Bg. 2.33]]
+* Arjuna &, [[bg/2/33|Bg. 2.33]]
 
 *→ See all 6 references in* [Indra, Lord, 19, 3.14. 7.23](entries/indra-lord-19-7-23.md)
 
@@ -616,7 +616,7 @@
 
 [[cc/adi/10/135–36#purport|Ādi 10.135–36]]...
 
-* Agastya cursed,, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
+* Agastya cursed, [[sb/8/4/10#purport|SB 8.4.10]], [[sb/8/4/11-12#purport|SB 8.4.11-12]]
 
 *→ See all 11 references in* [Indradyumna, King](entries/indradyumna-king.md)
 
@@ -631,7 +631,7 @@
 
 ### Indrakīla Mountain
 
-*  [[sb/5/19/16#purport|SB 5.19.16]], [[sb/5/20/3-4#purport|SB 5.20.3-4]]
+* [[sb/5/19/16#purport|SB 5.19.16]], [[sb/5/20/3-4#purport|SB 5.20.3-4]]
 
 ---
 
@@ -702,7 +702,7 @@
 
 [[sb/1/6/11#purport|SB 1.6.11]]...
 
-* as artificial,, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/24#purport|SB 2.5.24]]
+* as artificial, [[sb/2/2/37#purport|SB 2.2.37]], [[sb/2/5/24#purport|SB 2.5.24]]
 
 *→ See all 7 references in* [Industry](entries/industry.md)
 
@@ -772,7 +772,7 @@
 
 [[cc/madhya/1/208#purport|Madhya 1.208]]...
 
-* meaning of,, [[sb/6/5/21#purport|SB 6.5.21]]
+* meaning of, [[sb/6/5/21#purport|SB 6.5.21]]
 
 *→ See all 8 references in* [Initiation, spiritual](entries/initiation-spiritual.md)
 
@@ -803,7 +803,7 @@
 
 [[sb/2/4/18#purport|SB 2.4.18]]...
 
-* accepting tapas as,, [[sb/2/9/6#purport|SB 2.9.6]]
+* accepting tapas as, [[sb/2/9/6#purport|SB 2.9.6]]
 
 *→ See all 7 references in* [Initiation(s)](entries/initiations.md)
 
@@ -872,7 +872,7 @@
 
 **[[cc/madhya/19/211–13#translation|Madhya 19.211–13]]**...
 
-* duties in,, **[[cc/antya/1/217–19#translation|Antya 1.217–19]]**
+* duties in, **[[cc/antya/1/217–19#translation|Antya 1.217–19]]**
 
 *→ See all 47 references in* [Instructions to Rūpa Gosvāmī](entries/instructions-to-rupa-gosvami.md)
 
@@ -882,7 +882,7 @@
 
 **[[cc/madhya/22/43#translation|Madhya 22.43]]**...
 
-* hearing,, **[[cc/madhya/23/126#translation|Madhya 23.126]]**
+* hearing, **[[cc/madhya/23/126#translation|Madhya 23.126]]**
 
 *→ See all 169 references in* [Instructions to Sanātana](entries/instructions-to-sanatana.md)
 
@@ -892,7 +892,7 @@
 
 **[[cc/madhya/6/173–74#translation|Madhya 6.173–74]]**...
 
-* creation &,, **[[cc/madhya/6/145–46#translation|Madhya 6.145–46]]**, **[[cc/madhya/6/170–71#translation|Madhya 6.170–71]]**
+* creation &, **[[cc/madhya/6/145–46#translation|Madhya 6.145–46]]**, **[[cc/madhya/6/170–71#translation|Madhya 6.170–71]]**
 
 *→ See all 21 references in* [Instructions to Sārvabhauma Bhaṭṭācārya](entries/instructions-to-sarvabhauma-bhattacarya.md)
 
@@ -923,7 +923,7 @@
 
 [[bg/10/4|Bg. 10.4]]...
 
-* & material assets,, [[sb/5/1/12#purport|SB 5.1.12]]
+* & material assets, [[sb/5/1/12#purport|SB 5.1.12]]
 
 *→ See all 161 references in* [Intelligence](entries/intelligence.md)
 
@@ -956,7 +956,7 @@
 
 **[[cc/adi/4/62#translation|Ādi 4.62]]**...
 
-* Caitanya &,, [[cc/adi/4/56#purport|Ādi 4.56]], [[cc/adi/17/301#purport|Ādi 17.301]]
+* Caitanya &, [[cc/adi/4/56#purport|Ādi 4.56]], [[cc/adi/17/301#purport|Ādi 17.301]]
 
 *→ See all 26 references in* [Internal potency](entries/internal-potency.md)
 
@@ -1007,7 +1007,7 @@
 
 [[bg/3/24|Bg. 3.24]], [[bg/4/10|Bg. 4.10]], [[bg/4/26|Bg. 4.26]], [[bg/14/8|Bg. 14.8]], [[bg/14/17|Bg. 14.17]], [[bg/17/22|Bg. 17.22]]...
 
-* ”yogīs” advocate,, [[sb/3/15/45#purport|SB 3.15.45]]
+* ”yogīs” advocate, [[sb/3/15/45#purport|SB 3.15.45]]
 
 *→ See all 35 references in* [Intoxication](entries/intoxication.md)
 
@@ -1015,7 +1015,7 @@
 
 ### Intoxication of Kuveras sons
 
-*  [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/6#purport|SB 10.10.6]], [[sb/10/10/19-22#purport|SB 10.10.19-22]]
+* [[sb/10/10/2-3#purport|SB 10.10.2-3]], [[sb/10/10/5#purport|SB 10.10.5]], [[sb/10/10/6#purport|SB 10.10.6]], [[sb/10/10/19-22#purport|SB 10.10.19-22]]
 
 *See also:* [Wine](entries/wine.md)
 
@@ -1037,7 +1037,7 @@
 
 ### Invitations, etiquette regarding
 
-*  [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18-18#purport|SB 4.3.18-18]]
+* [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18-18#purport|SB 4.3.18-18]]
 
 ---
 
@@ -1087,7 +1087,7 @@
 
 ### Iron rod in fire, devotee in devotional service compared to
 
-*  [[sb/7/7/36#purport|SB 7.7.36]], [[sb/7/9/26#purport|SB 7.9.26]]
+* [[sb/7/7/36#purport|SB 7.7.36]], [[sb/7/9/26#purport|SB 7.9.26]]
 
 ---
 
@@ -1107,7 +1107,7 @@
 
 ### [Irreligion](entries/irreligion.md)
 
-* as barbarous,, [[sb/1/1/2#purport|SB 1.1.2]]
+* as barbarous, [[sb/1/1/2#purport|SB 1.1.2]]
 
 *→ See all 29 references in* [Irreligion](entries/irreligion.md)
 
@@ -1115,7 +1115,7 @@
 
 ### Irreligion (son of Brahmā)
 
-*  [[sb/4/8/2#purport|SB 4.8.2]], [[sb/4/8/5#purport|SB 4.8.5]]
+* [[sb/4/8/2#purport|SB 4.8.2]], [[sb/4/8/5#purport|SB 4.8.5]]
 
 ---
 
@@ -1209,7 +1209,7 @@
 
 [[sb/4/28/31#purport|SB 4.28.31]]...
 
-* cooperation in,, [[sb/4/30/8#purport|SB 4.30.8]]
+* cooperation in, [[sb/4/30/8#purport|SB 4.30.8]]
 
 *→ See all 16 references in* [ISKCON](entries/iskcon.md)
 
@@ -1240,7 +1240,7 @@
 
 [[cc/adi/3/71#purport|Ādi 3.71]]...
 
-* Advaita &,, **[[cc/adi/3/95#translation|Ādi 3.95]]**, [[cc/adi/5/147#purport|Ādi 5.147]]
+* Advaita &, **[[cc/adi/3/95#translation|Ādi 3.95]]**, [[cc/adi/5/147#purport|Ādi 5.147]]
 
 *→ See all 41 references in* [Īśopaniṣad](entries/isopanisad.md)
 
@@ -1276,7 +1276,7 @@
 
 ### [Īśopaniṣad quoted](entries/isopanisad-quoted.md)
 
-* as proprietor,, [[sb/4/22/45#purport|SB 4.22.45]]
+* as proprietor, [[sb/4/22/45#purport|SB 4.22.45]]
 
 *→ See all 9 references in* [Īśopaniṣad quoted](entries/isopanisad-quoted.md)
 

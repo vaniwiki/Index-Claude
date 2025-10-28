@@ -31,7 +31,7 @@
 
 **[[cc/madhya/23/9#translation|Madhya 23.9]]**...
 
-* & His pure devotee,, [[sb/4/21/43#purport|SB 4.21.43]]
+* & His pure devotee, [[sb/4/21/43#purport|SB 4.21.43]]
 
 *→ See all 68 references in* [Faith](entries/faith.md)
 
@@ -67,7 +67,7 @@
 
 [[bg/9/25|Bg. 9.25]], [[bg/13/24|Bg. 13.24]]...
 
-* Arjuna’s questions about,, [[bg/6/37–39|Bg. 6.37–39]]
+* Arjuna’s questions about, [[bg/6/37–39|Bg. 6.37–39]]
 
 *→ See all 44 references in* [Falldown](entries/falldown.md)
 
@@ -77,7 +77,7 @@
 
 [[sb/5/8/7-26#purport|SB 5.8.7-26]]...
 
-* as punishment by Lord,, [[sb/5/18/4#purport|SB 5.18.4]]
+* as punishment by Lord, [[sb/5/18/4#purport|SB 5.18.4]]
 
 *→ See all 11 references in* [Falldown from spiritual life](entries/falldown-from-spiritual-life.md)
 
@@ -87,7 +87,7 @@
 
 [[bg/6/5|Bg. 6.5]]...
 
-* absence of,, [[bg/2/71|Bg. 2.71]], [[bg/5/11|Bg. 5.11]], [[bg/5/20|Bg. 5.20]], [[bg/12/8|Bg. 12.8]], [[bg/12/13|Bg. 12.13]], [[bg/13/3|Bg. 13.3]], [[bg/13/8|Bg. 13.8]], [[bg/2/31|Bg. 2.31]], [[bg/2/48|Bg. 2.48]], [[bg/18/17|Bg. 18.17]], [[bg/18/26|Bg. 18.26]], [[bg/18/51|Bg. 18.51]]
+* absence of, [[bg/2/71|Bg. 2.71]], [[bg/5/11|Bg. 5.11]], [[bg/5/20|Bg. 5.20]], [[bg/12/8|Bg. 12.8]], [[bg/12/13|Bg. 12.13]], [[bg/13/3|Bg. 13.3]], [[bg/13/8|Bg. 13.8]], [[bg/2/31|Bg. 2.31]], [[bg/2/48|Bg. 2.48]], [[bg/18/17|Bg. 18.17]], [[bg/18/26|Bg. 18.26]], [[bg/18/51|Bg. 18.51]]
 
 *→ See all 30 references in* [False ego](entries/false-ego.md)
 
@@ -112,7 +112,7 @@
 
 **[[cc/madhya/8/246#translation|Madhya 8.246]]**...
 
-* as opulence of Kṛṣṇa,, [[bg/2/2|Bg. 2.2]] (3), [[bg/5/15|Bg. 5.15]], [[bg/7/3|Bg. 7.3]], [[bg/7/13|Bg. 7.13]], [[bg/10/1|Bg. 10.1]]
+* as opulence of Kṛṣṇa, [[bg/2/2|Bg. 2.2]] (3), [[bg/5/15|Bg. 5.15]], [[bg/7/3|Bg. 7.3]], [[bg/7/13|Bg. 7.13]], [[bg/10/1|Bg. 10.1]]
 
 *→ See all 6 references in* [Fame](entries/fame.md)
 
@@ -143,7 +143,7 @@
 
 ### [Family](entries/family.md)
 
-* affection for,, [[sb/3/5/11#purport|SB 3.5.11]]
+* affection for, [[sb/3/5/11#purport|SB 3.5.11]]
 
 *→ See all 16 references in* [Family](entries/family.md)
 
@@ -151,7 +151,7 @@
 
 ### [Family (Family life)](entries/family-family-life.md)
 
-* *varṇāśrama *&,, [[bg/7/15|Bg. 7.15]] (8)
+* *varṇāśrama *&, [[bg/7/15|Bg. 7.15]] (8)
 
 *→ See all 52 references in* [Family (Family life)](entries/family-family-life.md)
 
@@ -161,7 +161,7 @@
 
 [[sb/3/33/12#purport|SB 3.33.12]]...
 
-* ”fallible soldiers” in,, [[sb/2/1/4#purport|SB 2.1.4]]
+* ”fallible soldiers” in, [[sb/2/1/4#purport|SB 2.1.4]]
 
 *→ See all 230 references in* [Family life](entries/family-life.md)
 
@@ -169,7 +169,7 @@
 
 ### Family, devotee purifies
 
-*  [[sb/7/9/10-10#purport|SB 7.9.10-10]], [[sb/7/10/18#purport|SB 7.10.18]], [[sb/7/10/19#purport|SB 7.10.19]]
+* [[sb/7/9/10-10#purport|SB 7.9.10-10]], [[sb/7/10/18#purport|SB 7.10.18]], [[sb/7/10/19#purport|SB 7.10.19]]
 
 ---
 
@@ -237,7 +237,7 @@
 
 [[bg/6/16|Bg. 6.16]], [[bg/8/28|Bg. 8.28]], [[bg/17/5|Bg. 17.5]]...
 
-* bogus & bona fide,, [[sb/1/17/25#purport|SB 1.17.25]]
+* bogus & bona fide, [[sb/1/17/25#purport|SB 1.17.25]]
 
 *→ See all 28 references in* [Fasting](entries/fasting.md)
 
@@ -298,7 +298,7 @@
 
 [[sb/4/4/11-12#purport|SB 4.4.11-12]]
 
-*  [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (15), [[bg/18/28|Bg. 18.28]]
+* [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (15), [[bg/18/28|Bg. 18.28]]
 
 *See also:* Offenses
 
@@ -317,7 +317,7 @@
 
 [[bg/1/29|Bg. 1.29]], [[bg/1/30|Bg. 1.30]], [[bg/2/35|Bg. 2.35]], [[bg/2/56|Bg. 2.56]], [[bg/10/4|Bg. 10.4]] (5), [[bg/18/30|Bg. 18.30]], [[bg/18/35|Bg. 18.35]]...
 
-* ”light” for destroying,, [[sb/2/9/34#purport|SB 2.9.34]]
+* ”light” for destroying, [[sb/2/9/34#purport|SB 2.9.34]]
 
 *→ See all 134 references in* [Fear](entries/fear.md)
 
@@ -358,7 +358,7 @@
 
 **[[cc/antya/13/4#translation|Antya 13.4]]**...
 
-* Advaita’s sonnet &,, **[[cc/antya/19/30#translation|Antya 19.30]]**
+* Advaita’s sonnet &, **[[cc/antya/19/30#translation|Antya 19.30]]**
 
 *→ See all 21 references in* [Feelings of separation](entries/feelings-of-separation.md)
 
@@ -381,7 +381,7 @@
 
 ### [Females](entries/females.md)
 
-* birth of,, [[sb/3/23/11#purport|SB 3.23.11]]
+* birth of, [[sb/3/23/11#purport|SB 3.23.11]]
 
 *→ See all 7 references in* [Females](entries/females.md)
 
@@ -404,7 +404,7 @@
 ### Festival(s)
 
 * Dīpāvalī Day, [[sb/10/9/1-2#purport|SB 10.9.1-2]]
-* Vedic. See: Ritualistic ceremonies 
+* Vedic. See: Ritualistic ceremonies, 
 
 ---
 
@@ -431,7 +431,7 @@
 
 ### Fever at death
 
-*  [[sb/4/27/30-30#purport|SB 4.27.30-30]], [[sb/4/28/11-11#purport|SB 4.28.11-11]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/71#purport|SB 4.29.71]]
+* [[sb/4/27/30-30#purport|SB 4.27.30-30]], [[sb/4/28/11-11#purport|SB 4.28.11-11]], [[sb/4/28/65#purport|SB 4.28.65]], [[sb/4/29/71#purport|SB 4.29.71]]
 
 ---
 
@@ -486,7 +486,7 @@
 
 ### Fighting pastime of Lord
 
-*  [[sb/3/16/26#purport|SB 3.16.26]], [[sb/3/16/36#purport|SB 3.16.36]]
+* [[sb/3/16/26#purport|SB 3.16.26]], [[sb/3/16/36#purport|SB 3.16.36]]
 
 ---
 
@@ -506,7 +506,7 @@
 
 ### [Fire](entries/fire.md)
 
-* & by-products,, [[sb/2/5/14#purport|SB 2.5.14]], [[sb/2/10/45#purport|SB 2.10.45]]
+* & by-products, [[sb/2/5/14#purport|SB 2.5.14]], [[sb/2/10/45#purport|SB 2.10.45]]
 
 *→ See all 125 references in* [Fire](entries/fire.md)
 
@@ -558,7 +558,7 @@
 
 ### [Fish](entries/fish.md)
 
-* as mixture of ignorance & passion modes,, [[sb/5/18/25#purport|SB 5.18.25]]
+* as mixture of ignorance & passion modes, [[sb/5/18/25#purport|SB 5.18.25]]
 
 *→ See all 9 references in* [Fish](entries/fish.md)
 
@@ -573,7 +573,7 @@
 
 ### Fish compared with foolish souls
 
-*  [[sb/3/2/8#purport|SB 3.2.8]], [[sb/3/2/11#purport|SB 3.2.11]]
+* [[sb/3/2/8#purport|SB 3.2.8]], [[sb/3/2/11#purport|SB 3.2.11]]
 
 ---
 
@@ -682,19 +682,19 @@
 
 ### Flower shower by demigods for Dhruva
 
-*  [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/12/34#purport|SB 4.12.34]]
+* [[sb/4/12/31#purport|SB 4.12.31]], [[sb/4/12/34#purport|SB 4.12.34]]
 
 ---
 
 ### Flower shower for Rāma
 
-*  [[sb/9/10/33#purport|SB 9.10.33]], [[sb/9/11/30#purport|SB 9.11.30]]
+* [[sb/9/10/33#purport|SB 9.10.33]], [[sb/9/11/30#purport|SB 9.11.30]]
 
 ---
 
 ### [Flowers](entries/flowers.md)
 
-* at Bindu-sarovara Lake,, [[sb/3/21/42-43/#purport|SB 3.21.42-43.]] 21.42-43
+* at Bindu-sarovara Lake, [[sb/3/21/42-43/#purport|SB 3.21.42-43.]] 21.42-43
 
 *→ See all 23 references in* [Flowers](entries/flowers.md)
 
@@ -741,7 +741,7 @@
 
 [[bg/3/14|Bg. 3.14]]...
 
-* ”shortage” of,, [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/49#purport|SB 3.5.49]]
+* ”shortage” of, [[sb/3/5/5#purport|SB 3.5.5]], [[sb/3/5/49#purport|SB 3.5.49]]
 
 *→ See all 136 references in* [Food](entries/food.md)
 
@@ -749,7 +749,7 @@
 
 ### Food remnants & Pṛthus property, analogy of
 
-*  [[sb/4/22/43#purport|SB 4.22.43]], [[sb/4/22/44#purport|SB 4.22.44]]
+* [[sb/4/22/43#purport|SB 4.22.43]], [[sb/4/22/44#purport|SB 4.22.44]]
 
 ---
 
@@ -771,7 +771,7 @@
 
 [[sb/1/2/19#purport|SB 1.2.19]]
 
-*  [[bg/3/6|Bg. 3.6]], [[bg/4/8|Bg. 4.8]], [[bg/4/12|Bg. 4.12]], [[bg/7/15|Bg. 7.15]], [[bg/7/15|Bg. 7.15]] (5), [[bg/7/25|Bg. 7.25]], [[bg/9/11|Bg. 9.11]], [[bg/11/48|Bg. 11.48]], [[bg/11/52|Bg. 11.52]], [[bg/14/16|Bg. 14.16]], [[bg/14/17|Bg. 14.17]]
+* [[bg/3/6|Bg. 3.6]], [[bg/4/8|Bg. 4.8]], [[bg/4/12|Bg. 4.12]], [[bg/7/15|Bg. 7.15]], [[bg/7/15|Bg. 7.15]] (5), [[bg/7/25|Bg. 7.25]], [[bg/9/11|Bg. 9.11]], [[bg/11/48|Bg. 11.48]], [[bg/11/52|Bg. 11.52]], [[bg/14/16|Bg. 14.16]], [[bg/14/17|Bg. 14.17]]
 
 ---
 
@@ -890,7 +890,7 @@
 
 ### [Forest(s)](entries/forests.md)
 
-* Ambarīṣa retired to,, [[sb/9/5/26#purport|SB 9.5.26]], [[sb/9/5/27#purport|SB 9.5.27]]
+* Ambarīṣa retired to, [[sb/9/5/26#purport|SB 9.5.26]], [[sb/9/5/27#purport|SB 9.5.27]]
 
 *→ See all 39 references in* [Forest(s)](entries/forests.md)
 
@@ -898,7 +898,7 @@
 
 ### [Forgetfulness](entries/forgetfulness.md)
 
-* in living beings,, [[sb/2/2/1#purport|SB 2.2.1]]
+* in living beings, [[sb/2/2/1#purport|SB 2.2.1]]
 
 *→ See all 12 references in* [Forgetfulness](entries/forgetfulness.md)
 
@@ -915,7 +915,7 @@
 
 [[bg/1/32–36|Bg. 1.32–36]], [[bg/16/1|Bg. 16.1]], [[bg/16/1|Bg. 16.1]] (16)...
 
-* in Lord’s devotees,, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]]
+* in Lord’s devotees, [[sb/4/6/47#purport|SB 4.6.47]], [[sb/4/6/48#purport|SB 4.6.48]]
 
 *→ See all 6 references in* [Forgiveness](entries/forgiveness.md)
 
@@ -952,8 +952,8 @@
 ### Form(s)
 
 * in Kṛṣṇa consciousness, [[sb/10/13/51#purport|SB 10.13.51]]
-* of God. See: Deity form; Kṛṣṇa, form(s) of; Supreme Lord, form(s) of; Viṣṇu, form(s) of 
-* of Lord. See: Deity form(s); Supreme Lord, form(s) of 
+* of God. See: Deity form; Kṛṣṇa, form(s) of; Supreme Lord, form(s) of; Viṣṇu, form(s) of, 
+* of Lord. See: Deity form(s); Supreme Lord, form(s) of, 
 * qualities of, [[sb/3/26/39#purport|SB 3.26.39]]
 
 ---
@@ -1004,7 +1004,7 @@
 
 ### ”Friends of twice-born
 
-* ” *See: Brāhmaṇas,* unqualified 
+* ” *See: Brāhmaṇas,* unqualified, 
 
 ---
 
@@ -1028,13 +1028,13 @@
 
 ### Free will & independence
 
-*  [[bg/3/37|Bg. 3.37]], [[bg/4/14|Bg. 4.14]], [[bg/5/15|Bg. 5.15]], [[bg/7/21|Bg. 7.21]], [[bg/13/23|Bg. 13.23]], [[bg/15/7|Bg. 15.7]], [[bg/15/8|Bg. 15.8]], [[bg/18/63|Bg. 18.63]], [[bg/18/78|Bg. 18.78]] (7)
+* [[bg/3/37|Bg. 3.37]], [[bg/4/14|Bg. 4.14]], [[bg/5/15|Bg. 5.15]], [[bg/7/21|Bg. 7.21]], [[bg/13/23|Bg. 13.23]], [[bg/15/7|Bg. 15.7]], [[bg/15/8|Bg. 15.8]], [[bg/18/63|Bg. 18.63]], [[bg/18/78|Bg. 18.78]] (7)
 
 ---
 
 ### [Freedom](entries/freedom.md)
 
-* as ceasing sinful activity,, [[sb/1/19/7#purport|SB 1.19.7]]
+* as ceasing sinful activity, [[sb/1/19/7#purport|SB 1.19.7]]
 
 *→ See all 59 references in* [Freedom](entries/freedom.md)
 
@@ -1079,7 +1079,7 @@
 
 ### Friends (relatives), etiquette for visiting
 
-*  [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18#purport|SB 4.3.18]], [[sb/4/3/19#purport|SB 4.3.19]]
+* [[sb/4/3/13#purport|SB 4.3.13]], [[sb/4/3/16#purport|SB 4.3.16]], [[sb/4/3/18#purport|SB 4.3.18]], [[sb/4/3/19#purport|SB 4.3.19]]
 
 ---
 
@@ -1102,7 +1102,7 @@
 
 ### Friendship(s)
 
-* transcendental, compared with material, 4 
+* transcendental, compared with material, 4, 
 * with Kṛṣṇa, [[sb/3/2/27#purport|SB 3.2.27]], [[sb/3/3/7#purport|SB 3.3.7]]
 * with Vaiṣṇavas, [[sb/3/1/41#purport|SB 3.1.41]]
 
@@ -1112,7 +1112,7 @@
 
 ### Friendships with devotees
 
-*  [[sb/3/25/21-21#purport|SB 3.25.21-21]], [[sb/3/27/8-8#purport|SB 3.27.8-8]], [[sb/3/29/17#purport|SB 3.29.17]]
+* [[sb/3/25/21-21#purport|SB 3.25.21-21]], [[sb/3/27/8-8#purport|SB 3.27.8-8]], [[sb/3/29/17#purport|SB 3.29.17]]
 
 *See also:* Devotees; association with
 
@@ -1148,7 +1148,7 @@
 
 [[sb/4/25/9#purport|SB 4.25.9]], [[sb/4/27/11#purport|SB 4.27.11]], [[sb/4/28/28#purport|SB 4.28.28]], [[sb/4/28/65#purport|SB 4.28.65]]...
 
-* & transmigration of soul,, [[sb/4/25/5#purport|SB 4.25.5]]
+* & transmigration of soul, [[sb/4/25/5#purport|SB 4.25.5]]
 
 *→ See all 146 references in* [Fruitive activities](entries/fruitive-activities.md)
 
@@ -1163,7 +1163,7 @@
 
 ### [Fruitive work](entries/fruitive-work.md)
 
-* as cause of material status,, [[sb/1/5/18#purport|SB 1.5.18]]
+* as cause of material status, [[sb/1/5/18#purport|SB 1.5.18]]
 
 *→ See all 15 references in* [Fruitive work](entries/fruitive-work.md)
 
@@ -1173,7 +1173,7 @@
 
 [[cc/madhya/6/162#purport|Madhya 6.162]]...
 
-* bodily conception &,, **[[cc/madhya/24/214#translation|Madhya 24.214]]**, [[cc/antya/4/173#purport|Antya 4.173]]
+* bodily conception &, **[[cc/madhya/24/214#translation|Madhya 24.214]]**, [[cc/antya/4/173#purport|Antya 4.173]]
 
 *→ See all 49 references in* [Fruitive work (workers)](entries/fruitive-work-workers.md)
 
@@ -1183,7 +1183,7 @@
 
 ...
 
-* as class of materialist,, [[sb/1/3/37#purport|SB 1.3.37]]
+* as class of materialist, [[sb/1/3/37#purport|SB 1.3.37]]
 
 *→ See all 23 references in* [Fruitive workers](entries/fruitive-workers.md)
 
@@ -1202,13 +1202,13 @@
 
 ### Fruits of Trikūṭa Mountain
 
-*  [[sb/8/2/9-13#purport|SB 8.2.9-13]], [[sb/8/2/14-19#purport|SB 8.2.14-19]]
+* [[sb/8/2/9-13#purport|SB 8.2.9-13]], [[sb/8/2/14-19#purport|SB 8.2.14-19]]
 
 ---
 
 ### Frustration of Parīkṣit as Lords will
 
-*  [[sb/1/18/24-25#purport|SB 1.18.24-25]], [[sb/1/18/28-29#purport|SB 1.18.28-29]], [[sb/1/18/31#purport|SB 1.18.31]]
+* [[sb/1/18/24-25#purport|SB 1.18.24-25]], [[sb/1/18/28-29#purport|SB 1.18.28-29]], [[sb/1/18/31#purport|SB 1.18.31]]
 
 ---
 
@@ -1224,7 +1224,7 @@
 
 ### [Future](entries/future.md)
 
-* Lord’s mercy on devotees in,, [[sb/9/24/61#purport|SB 9.24.61]]
+* Lord’s mercy on devotees in, [[sb/9/24/61#purport|SB 9.24.61]]
 
 *→ See all 6 references in* [Future](entries/future.md)
 

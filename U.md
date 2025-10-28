@@ -128,7 +128,7 @@
 
 **[[cc/adi/4/163#translation|Ādi 4.163]]**...
 
-* as faithful,, [[sb/3/4/28#purport|SB 3.4.28]]
+* as faithful, [[sb/3/4/28#purport|SB 3.4.28]]
 
 *→ See all 52 references in* [Uddhava](entries/uddhava.md)
 
@@ -253,13 +253,13 @@
 [[bg/2/4|Bg. 2.4]]
 
 * historical accounts on, [[sb/1/11/16-17#purport|SB 1.11.16-17]], [[sb/1/11/16-17#purport|SB 1.11.16-17]]
-*  [[sb/1/14/28-29#purport|SB 1.14.28-29]], [[sb/1/16/2#purport|SB 1.16.2]], [[sb/3/1/29#purport|SB 3.1.29]], [[sb/3/2/22#purport|SB 3.2.22]]
+* [[sb/1/14/28-29#purport|SB 1.14.28-29]], [[sb/1/16/2#purport|SB 1.16.2]], [[sb/3/1/29#purport|SB 3.1.29]], [[sb/3/2/22#purport|SB 3.2.22]]
 
 ---
 
 ### Ugrasena (son of Āhuka)
 
-*  [[sb/9/24/21-23#purport|SB 9.24.21-23]], [[sb/9/24/24#purport|SB 9.24.24]], [[sb/9/24/25#purport|SB 9.24.25]]
+* [[sb/9/24/21-23#purport|SB 9.24.21-23]], [[sb/9/24/24#purport|SB 9.24.24]], [[sb/9/24/25#purport|SB 9.24.25]]
 
 ---
 
@@ -272,7 +272,7 @@
 
 ### Ugrasena, King
 
-*  [[sb/10/1/30#purport|SB 10.1.30]], [[sb/10/1/69#purport|SB 10.1.69]], [[sb/10/3/28#purport|SB 10.3.28]]
+* [[sb/10/1/30#purport|SB 10.1.30]], [[sb/10/1/69#purport|SB 10.1.69]], [[sb/10/3/28#purport|SB 10.3.28]]
 
 ---
 
@@ -320,7 +320,7 @@
 
 [[sb/2/3/2-7#purport|SB 2.3.2-7]]...
 
-* as Śiva’s wife,, [[sb/8/12/1-2#purport|SB 8.12.1-2]], [[sb/8/12/22#purport|SB 8.12.22]]
+* as Śiva’s wife, [[sb/8/12/1-2#purport|SB 8.12.1-2]], [[sb/8/12/22#purport|SB 8.12.22]]
 
 *→ See all 7 references in* [Umā](entries/uma.md)
 
@@ -358,7 +358,7 @@
 
 ### [Understanding](entries/understanding.md)
 
-* in goodness mode,, [[bg/18/30|Bg. 18.30]]
+* in goodness mode, [[bg/18/30|Bg. 18.30]]
 
 *→ See all 6 references in* [Understanding](entries/understanding.md)
 
@@ -420,7 +420,7 @@
 
 [[sb/4/7/54#purport|SB 4.7.54]]
 
-*  [[sb/6/8/32-33#purport|SB 6.8.32-33]], [[sb/6/8/32-33#purport|SB 6.8.32-33]]
+* [[sb/6/8/32-33#purport|SB 6.8.32-33]], [[sb/6/8/32-33#purport|SB 6.8.32-33]]
 
 *See also:* [Oneness](entries/oneness.md)
 
@@ -437,7 +437,7 @@
 
 [[bg/9/11|Bg. 9.11]] (5)...
 
-* appearance of bodily parts of,, [[sb/3/26/54-61#purport|SB 3.26.54-61]]
+* appearance of bodily parts of, [[sb/3/26/54-61#purport|SB 3.26.54-61]]
 
 *→ See all 89 references in* [Universal form of Lord](entries/universal-form-of-lord.md)
 
@@ -447,7 +447,7 @@
 
 [[sb/1/3/3#purport|SB 1.3.3]], [[sb/1/3/30-32#purport|SB 1.3.30-32]], [[sb/1/7/52#purport|SB 1.7.52]]...
 
-* abdomen of,, [[sb/8/7/28#purport|SB 8.7.28]]
+* abdomen of, [[sb/8/7/28#purport|SB 8.7.28]]
 
 *→ See all 106 references in* [Universal form of Supreme Lord](entries/universal-form-of-supreme-lord.md)
 
@@ -455,7 +455,7 @@
 
 ### [Universal forms creation](entries/universal-forms-creation.md)
 
-* of abdomen,, [[sb/2/10/29#purport|SB 2.10.29]]
+* of abdomen, [[sb/2/10/29#purport|SB 2.10.29]]
 
 *→ See all 40 references in* [Universal forms creation](entries/universal-forms-creation.md)
 
@@ -463,7 +463,7 @@
 
 ### Universal time, ages of
 
-*  [[bg/4/1|Bg. 4.1]] (5)
+* [[bg/4/1|Bg. 4.1]] (5)
 
 ---
 
@@ -478,7 +478,7 @@
 
 **[[cc/madhya/22/8#translation|Madhya 22.8]]**, **[[cc/madhya/20/278–82#translation|Madhya 20.278–82]]**...
 
-* ”dawn” of,, [[sb/2/5/21#purport|SB 2.5.21]]
+* ”dawn” of, [[sb/2/5/21#purport|SB 2.5.21]]
 
 *→ See all 413 references in* [Universe(s)](entries/universes.md)
 
@@ -486,7 +486,7 @@
 
 ### Unkind words of relatives
 
-*  [[sb/4/3/19-19#purport|SB 4.3.19-19]], [[sb/4/3/24#purport|SB 4.3.24]]
+* [[sb/4/3/19-19#purport|SB 4.3.19-19]], [[sb/4/3/24#purport|SB 4.3.24]]
 
 ---
 
@@ -570,7 +570,7 @@
 
 ### Upadevā (daughter of Devaka)
 
-*  [[sb/9/24/21-23#purport|SB 9.24.21-23]], [[sb/9/24/51#purport|SB 9.24.51]]
+* [[sb/9/24/21-23#purport|SB 9.24.21-23]], [[sb/9/24/51#purport|SB 9.24.51]]
 
 ---
 
@@ -632,7 +632,7 @@
 
 ### Upagupta
 
-*  [[sb/9/13/24#purport|SB 9.13.24]], [[sb/9/13/25#purport|SB 9.13.25]]
+* [[sb/9/13/24#purport|SB 9.13.24]], [[sb/9/13/25#purport|SB 9.13.25]]
 
 ---
 
@@ -747,7 +747,7 @@
 
 ### Uparicara Vasu
 
-*  [[sb/9/22/6#purport|SB 9.22.6]], [[sb/9/22/20#purport|SB 9.22.20]]
+* [[sb/9/22/6#purport|SB 9.22.6]], [[sb/9/22/20#purport|SB 9.22.20]]
 
 ---
 
@@ -853,7 +853,7 @@
 
 ### Ūrdhva-retāḥ defined
 
-*  [[sb/4/8/1#purport|SB 4.8.1]], [[sb/4/11/5#purport|SB 4.11.5]]
+* [[sb/4/8/1#purport|SB 4.8.1]], [[sb/4/11/5#purport|SB 4.11.5]]
 
 ---
 
@@ -908,7 +908,7 @@
 
 ### Ūrjā (wife of Vasiṣṭha)
 
-*  [[sb/4/1/40#purport|SB 4.1.40]], [[sb/4/1/41#purport|SB 4.1.41]]
+* [[sb/4/1/40#purport|SB 4.1.40]], [[sb/4/1/41#purport|SB 4.1.41]]
 
 ---
 
@@ -921,7 +921,7 @@
 
 ### Urjasvatī
 
-*  [[sb/5/1/24#purport|SB 5.1.24]], [[sb/5/1/34#purport|SB 5.1.34]]
+* [[sb/5/1/24#purport|SB 5.1.24]], [[sb/5/1/34#purport|SB 5.1.34]]
 
 ---
 
@@ -1008,7 +1008,7 @@
 
 [[cc/adi/1/59#purport|Ādi 1.59]]...
 
-* beauty of,, [[sb/9/14/23#purport|SB 9.14.23]]
+* beauty of, [[sb/9/14/23#purport|SB 9.14.23]]
 
 *→ See all 14 references in* [Urvaśīs](entries/urvasis.md)
 
@@ -1069,7 +1069,7 @@
 
 [[sb/1/12/20#purport|SB 1.12.20]]
 
-*  [[sb/7/2/28#purport|SB 7.2.28]], [[sb/7/2/33#purport|SB 7.2.33]], [[sb/9/23/2#purport|SB 9.23.2]], [[sb/9/23/3-4#purport|SB 9.23.3-4]]
+* [[sb/7/2/28#purport|SB 7.2.28]], [[sb/7/2/33#purport|SB 7.2.33]], [[sb/9/23/2#purport|SB 9.23.2]], [[sb/9/23/3-4#purport|SB 9.23.3-4]]
 
 ---
 
@@ -1112,7 +1112,7 @@
 
 ### Utilization of natures gifts
 
-*  [[sb/2/2/4-5#purport|SB 2.2.4-5]], [[sb/2/2/5#purport|SB 2.2.5]]
+* [[sb/2/2/4-5#purport|SB 2.2.4-5]], [[sb/2/2/5#purport|SB 2.2.5]]
 
 ---
 
@@ -1127,7 +1127,7 @@
 
 [[cc/adi/1/19#purport|Ādi 1.19]]...
 
-* Dhruva’s kingdom didn’t interest,, [[sb/4/13/6#purport|SB 4.13.6]]
+* Dhruva’s kingdom didn’t interest, [[sb/4/13/6#purport|SB 4.13.6]]
 
 *→ See all 11 references in* [Utkala](entries/utkala.md)
 
@@ -1176,7 +1176,7 @@
 
 [[sb/5/14/43#purport|SB 5.14.43]]
 
-*  [[bg/9/2|Bg. 9.2]] (5)
+* [[bg/9/2|Bg. 9.2]] (5)
 
 ---
 
@@ -1274,7 +1274,7 @@
 
 [[sb/3/12/56#purport|SB 3.12.56]], [[sb/3/14/6#purport|SB 3.14.6]]...
 
-* addressed by Nārada,, [[sb/4/8/64#purport|SB 4.8.64]], [[sb/4/8/68-69#purport|SB 4.8.68-69]]
+* addressed by Nārada, [[sb/4/8/64#purport|SB 4.8.64]], [[sb/4/8/68-69#purport|SB 4.8.68-69]]
 
 *→ See all 26 references in* [Uttānapāda, King](entries/uttanapada-king.md)
 
@@ -1284,7 +1284,7 @@
 
 [[sb/2/4/1#purport|SB 2.4.1]]...
 
-* Arjuna music teacher of,, [[sb/1/12/21#purport|SB 1.12.21]]
+* Arjuna music teacher of, [[sb/1/12/21#purport|SB 1.12.21]]
 
 *→ See all 10 references in* [Uttarā](entries/uttara.md)
 
@@ -1327,7 +1327,7 @@
 
 ### Uttara-pañcāla
 
-*  [[sb/4/25/51#purport|SB 4.25.51]], [[sb/4/29/13#purport|SB 4.29.13]]
+* [[sb/4/25/51#purport|SB 4.25.51]], [[sb/4/29/13#purport|SB 4.29.13]]
 
 ---
 

@@ -12,7 +12,7 @@
 [[sb/6/16/18-19#purport|SB 6.16.18-19]], [[sb/9/10/2#purport|SB 9.10.2]]
 
 * as Balarāma’s expansions, [[sb/10/1/2#purport|SB 10.1.2]]
-* as Kṛṣṇa’s expansions, N108 
+* as Kṛṣṇa’s expansions, N108, 
 * second, Saṅkarṣaṇa (Ananta) among, [[sb/10/1/8#purport|SB 10.1.8]], [[sb/10/2/4-5#purport|SB 10.2.4-5]], [[sb/10/2/4-5#purport|SB 10.2.4-5]]
 
 ---
@@ -33,7 +33,7 @@
 
 ### [Qualities](entries/qualities.md)
 
-* beauty according to,, [[sb/9/15/40#purport|SB 9.15.40]]
+* beauty according to, [[sb/9/15/40#purport|SB 9.15.40]]
 
 *→ See all 19 references in* [Qualities](entries/qualities.md)
 
@@ -69,7 +69,7 @@
 
 ### [Queen(s)](entries/queens.md)
 
-* devotional service compared to,, [[sb/4/23/11#purport|SB 4.23.11]]
+* devotional service compared to, [[sb/4/23/11#purport|SB 4.23.11]]
 
 *→ See all 7 references in* [Queen(s)](entries/queens.md)
 
@@ -80,7 +80,7 @@
 * conquered via love, [[sb/1/16/35#purport|SB 1.16.35]]
 * devotional service of, [[sb/1/14/37#purport|SB 1.14.37]]
 * heavenly pleasure for, [[sb/1/14/37#purport|SB 1.14.37]]
-*  [[sb/1/11/30-32#purport|SB 1.11.30-32]], [[sb/1/11/35-36#purport|SB 1.11.35-36]], [[sb/1/11/39#purport|SB 1.11.39]]
+* [[sb/1/11/30-32#purport|SB 1.11.30-32]], [[sb/1/11/35-36#purport|SB 1.11.35-36]], [[sb/1/11/39#purport|SB 1.11.39]]
 
 *See also:* Supreme Lord; wives of
 
@@ -88,7 +88,7 @@
 
 ### [Question(s)](entries/questions.md)
 
-* & answers, material compared with spiritual,, [[sb/3/1/4#purport|SB 3.1.4]]
+* & answers, material compared with spiritual, [[sb/3/1/4#purport|SB 3.1.4]]
 
 *→ See all 18 references in* [Question(s)](entries/questions.md)
 
@@ -96,7 +96,7 @@
 
 ### Questions & answers among saintly persons
 
-*  [[sb/4/22/18#purport|SB 4.22.18]], [[sb/4/22/19-19#purport|SB 4.22.19-19]]
+* [[sb/4/22/18#purport|SB 4.22.18]], [[sb/4/22/19-19#purport|SB 4.22.19-19]]
 
 *See also:* Absolute Truth; [Knowledge](entries/knowledge.md)
 

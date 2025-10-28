@@ -15,7 +15,7 @@
 
 ### Rābha
 
-*  [[sb/9/17/1-3#purport|SB 9.17.1-3]], [[sb/9/17/10#purport|SB 9.17.10]]
+* [[sb/9/17/1-3#purport|SB 9.17.1-3]], [[sb/9/17/10#purport|SB 9.17.10]]
 
 ---
 
@@ -51,7 +51,7 @@
 
 [[sb/1/13/3-4#purport|SB 1.13.3-4]], [[sb/1/16/26-30#purport|SB 1.16.26-30]]...
 
-* beauty of,, [[sb/3/20/31#purport|SB 3.20.31]]
+* beauty of, [[sb/3/20/31#purport|SB 3.20.31]]
 
 *→ See all 8 references in* [Rādhā & Kṛṣṇa](entries/radha-krsna.md)
 
@@ -116,7 +116,7 @@
 
 [[sb/10/13/53#purport|SB 10.13.53]], [[sb/2/2/13#purport|SB 2.2.13]]
 
-*  [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/45-46#purport|SB 4.24.45-46]]
+* [[sb/4/24/44#purport|SB 4.24.44]], [[sb/4/24/45-46#purport|SB 4.24.45-46]]
 
 ---
 
@@ -172,7 +172,7 @@
 
 [[bg/1|Bg. 1]], [[bg/2|Bg. 2]]...
 
-* as Kṛṣṇa’s pleasure potency,, [[sb/10/13/20#purport|SB 10.13.20]], [[sb/10/13/57#purport|SB 10.13.57]]
+* as Kṛṣṇa’s pleasure potency, [[sb/10/13/20#purport|SB 10.13.20]], [[sb/10/13/57#purport|SB 10.13.57]]
 
 *→ See all 6 references in* [Rādhārāṇī](entries/radharani.md)
 
@@ -190,7 +190,7 @@
 
 **[[cc/antya/1/169–71#translation|Antya 1.169–71]]**...
 
-* & Govinda-kuṇḍa,, [[cc/madhya/18/37#purport|Madhya 18.37]]
+* & Govinda-kuṇḍa, [[cc/madhya/18/37#purport|Madhya 18.37]]
 
 *→ See all 218 references in* [Rādhārāṇī, Śrīmatī](entries/radharani-srimati.md)
 
@@ -247,7 +247,7 @@
 
 ### Rāga-bhakti defined
 
-*  [[sb/3/5/4#purport|SB 3.5.4]], [[sb/3/7/14#purport|SB 3.7.14]]
+* [[sb/3/5/4#purport|SB 3.5.4]], [[sb/3/7/14#purport|SB 3.7.14]]
 
 ---
 
@@ -283,7 +283,7 @@
 
 **[[cc/madhya/10/84#translation|Madhya 10.84]]**...
 
-* affection for Caitanya by,, **[[cc/antya/10/34#translation|Antya 10.34]]**
+* affection for Caitanya by, **[[cc/antya/10/34#translation|Antya 10.34]]**
 
 *→ See all 28 references in* [Rāghava Paṇḍita](entries/raghava-pandita.md)
 
@@ -305,7 +305,7 @@
 
 ### Raghu dynasty
 
-*  [[bg/4/1|Bg. 4.1]] (4)
+* [[bg/4/1|Bg. 4.1]] (4)
 
 ---
 
@@ -414,7 +414,7 @@
 
 [[cc/adi/10/103#purport|Ādi 10.103]]...
 
-* at Mathurā,, **[[cc/madhya/18/49#translation|Madhya 18.49]]**
+* at Mathurā, **[[cc/madhya/18/49#translation|Madhya 18.49]]**
 
 *→ See all 24 references in* [Raghunātha Bhaṭṭa Gosvāmī](entries/raghunatha-bhatta-gosvami.md)
 
@@ -431,7 +431,7 @@
 
 [[bg/31|Bg. 31]]...
 
-* arrival in Purī by,, **[[cc/antya/6/188–90#translation|Antya 6.188–90]]**
+* arrival in Purī by, **[[cc/antya/6/188–90#translation|Antya 6.188–90]]**
 
 *→ See all 93 references in* [Raghunātha dāsa Gosvāmī](entries/raghunatha-dasa-gosvami.md)
 
@@ -497,7 +497,7 @@
 
 **[[cc/adi/13/92#translation|Ādi 13.92]]**...
 
-* as most abominable asura,, [[sb/5/24/1#purport|SB 5.24.1]]
+* as most abominable asura, [[sb/5/24/1#purport|SB 5.24.1]]
 
 *→ See all 28 references in* [Rāhu](entries/rahu.md)
 
@@ -533,7 +533,7 @@
 
 ### [Rahūgaṇa quoted](entries/rahugana-quoted.md)
 
-* association with,, [[sb/5/13/22#purport|SB 5.13.22]]
+* association with, [[sb/5/13/22#purport|SB 5.13.22]]
 
 *→ See all 14 references in* [Rahūgaṇa quoted](entries/rahugana-quoted.md)
 
@@ -543,7 +543,7 @@
 
 **[[cc/madhya/22/52#translation|Madhya 22.52]]**...
 
-* accepted as guru by,, [[sb/5/10/16#purport|SB 5.10.16]]
+* accepted as guru by, [[sb/5/10/16#purport|SB 5.10.16]]
 
 *→ See all 30 references in* [Rahūgaṇa, King](entries/rahugana-king.md)
 
@@ -553,7 +553,7 @@
 
 [[sb/5/4/3#purport|SB 5.4.3]], [[sb/5/5/23#purport|SB 5.5.23]]...
 
-* austerity involving,, [[sb/4/23/6#purport|SB 4.23.6]]
+* austerity involving, [[sb/4/23/6#purport|SB 4.23.6]]
 
 *→ See all 20 references in* [Rain](entries/rain.md)
 
@@ -561,7 +561,7 @@
 
 ### Rain at Kṛṣṇas advent
 
-*  [[sb/10/3/48-49#purport|SB 10.3.48-49]], [[sb/10/3/50#purport|SB 10.3.50]]
+* [[sb/10/3/48-49#purport|SB 10.3.48-49]], [[sb/10/3/50#purport|SB 10.3.50]]
 
 ---
 
@@ -595,7 +595,7 @@
 
 ### Rainfall & Lords beauty, analogy of
 
-*  [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/45-46#purport|SB 4.24.45-46]]
+* [[sb/4/24/45-46#purport|SB 4.24.45-46]], [[sb/4/24/45-46#purport|SB 4.24.45-46]]
 
 ---
 
@@ -671,7 +671,7 @@
 
 ### Rājādhidevī
 
-*  [[sb/9/24/28-31#purport|SB 9.24.28-31]], [[sb/9/24/39#purport|SB 9.24.39]]
+* [[sb/9/24/28-31#purport|SB 9.24.28-31]], [[sb/9/24/39#purport|SB 9.24.39]]
 
 ---
 
@@ -721,7 +721,7 @@
 
 [[sb/1/18/41#purport|SB 1.18.41]], [[sb/10/1/15#purport|SB 10.1.15]], [[sb/9/9/30#purport|SB 9.9.30]]
 
-*  [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/14/4#purport|SB 4.14.4]]
+* [[sb/4/9/65#purport|SB 4.9.65]], [[sb/4/14/4#purport|SB 4.14.4]]
 
 ---
 
@@ -743,7 +743,7 @@
 
 [[sb/2/1/13#purport|SB 2.1.13]], [[sb/8/1/7#purport|SB 8.1.7]]
 
-*  [[sb/5/1/22#purport|SB 5.1.22]], [[sb/5/10/15#purport|SB 5.10.15]]
+* [[sb/5/1/22#purport|SB 5.1.22]], [[sb/5/10/15#purport|SB 5.10.15]]
 
 ---
 
@@ -772,7 +772,7 @@
 
 [[cc/madhya/1/44#purport|Madhya 1.44]]...
 
-* by Yudhiṣṭhira,, [[sb/7/14/35#purport|SB 7.14.35]], [[sb/7/14/42#purport|SB 7.14.42]]
+* by Yudhiṣṭhira, [[sb/7/14/35#purport|SB 7.14.35]], [[sb/7/14/42#purport|SB 7.14.42]]
 
 *→ See all 8 references in* [Rājasūya sacrifice](entries/rajasuya-sacrifice.md)
 
@@ -808,7 +808,7 @@
 
 ### Rajī
 
-*  [[sb/9/17/1-3#purport|SB 9.17.1-3]], [[sb/9/17/13#purport|SB 9.17.13]]
+* [[sb/9/17/1-3#purport|SB 9.17.1-3]], [[sb/9/17/13#purport|SB 9.17.13]]
 * sons of, [[sb/9/17/12-15#purport|SB 9.17.12-15]]
 
 ---
@@ -875,7 +875,7 @@
 
 [[sb/6/8/24-25#purport|SB 6.8.24-25]], [[sb/6/10/19-22#purport|SB 6.10.19-22]]...
 
-* abode of,, [[sb/5/24/5#purport|SB 5.24.5]]
+* abode of, [[sb/5/24/5#purport|SB 5.24.5]]
 
 *→ See all 29 references in* [Rākṣasa(s)](entries/raksasas.md)
 
@@ -883,7 +883,7 @@
 
 ### Rākṣasas (man-eaters)
 
-*  [[sb/3/20/19#purport|SB 3.20.19]], [[sb/3/20/21#purport|SB 3.20.21]], [[sb/3/20/22#purport|SB 3.20.22]]
+* [[sb/3/20/19#purport|SB 3.20.19]], [[sb/3/20/21#purport|SB 3.20.21]], [[sb/3/20/22#purport|SB 3.20.22]]
 
 ---
 
@@ -953,7 +953,7 @@
 
 [[bg/1/36|Bg. 1.36]]...
 
-* defined,, [[sb/1/13/47#purport|SB 1.13.47]]
+* defined, [[sb/1/13/47#purport|SB 1.13.47]]
 
 *→ See all 6 references in* [Rāma-rājya](entries/rama-rajya.md)
 
@@ -989,7 +989,7 @@
 
 ### Rāma(candra), Lord
 
-*  [[sb/4/15/3#purport|SB 4.15.3]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/4/19/37#purport|SB 4.19.37]]
+* [[sb/4/15/3#purport|SB 4.15.3]], [[sb/4/17/36#purport|SB 4.17.36]], [[sb/4/19/37#purport|SB 4.19.37]]
 
 ---
 
@@ -1038,7 +1038,7 @@
 
 **[[cc/antya/8/46–47#translation|Antya 8.46–47]]**...
 
-* arrival in Purī by,, **[[cc/antya/8/7–10#translation|Antya 8.7–10]]**
+* arrival in Purī by, **[[cc/antya/8/7–10#translation|Antya 8.7–10]]**
 
 *→ See all 27 references in* [Rāmacandra Purī](entries/ramacandra-puri.md)
 
@@ -1048,7 +1048,7 @@
 
 [[bg/1/20|Bg. 1.20]], [[bg/4/13|Bg. 4.13]], [[bg/6/47|Bg. 6.47]], [[bg/8/14|Bg. 8.14]], [[bg/14/26|Bg. 14.26]], [[bg/15/7|Bg. 15.7]], [[bg/18/65|Bg. 18.65]]...
 
-* & sages in Daṇḍakāraṇya Forest,, [[sb/5/18/23#purport|SB 5.18.23]]
+* & sages in Daṇḍakāraṇya Forest, [[sb/5/18/23#purport|SB 5.18.23]]
 
 *→ See all 220 references in* [Rāmacandra, Lord](entries/ramacandra-lord.md)
 
@@ -1166,7 +1166,7 @@
 
 ### Ramaṇaka
 
-*  [[sb/5/19/29-30#purport|SB 5.19.29-30]], [[sb/5/20/9#purport|SB 5.20.9]]
+* [[sb/5/19/29-30#purport|SB 5.19.29-30]], [[sb/5/20/9#purport|SB 5.20.9]]
 
 ---
 
@@ -1181,7 +1181,7 @@
 
 **[[cc/adi/17/301#translation|Ādi 17.301]]**...
 
-* as Lord’s associate at Purī,, **[[cc/madhya/1/128#translation|Madhya 1.128]]**, **[[cc/madhya/1/254#translation|Madhya 1.254]]**
+* as Lord’s associate at Purī, **[[cc/madhya/1/128#translation|Madhya 1.128]]**, **[[cc/madhya/1/254#translation|Madhya 1.254]]**
 
 *→ See all 148 references in* [Rāmānanda Rāya](entries/ramananda-raya.md)
 
@@ -1198,7 +1198,7 @@
 
 **[[cc/madhya/8/279–80#translation|Madhya 8.279–80]]**...
 
-* on himself,, **[[cc/madhya/8/35#translation|Madhya 8.35]]**, **[[cc/madhya/8/51–52#translation|Madhya 8.51–52]]**
+* on himself, **[[cc/madhya/8/35#translation|Madhya 8.35]]**, **[[cc/madhya/8/51–52#translation|Madhya 8.51–52]]**
 
 *→ See all 14 references in* [Rāmānanda Rāya quoted](entries/ramananda-raya-quoted.md)
 
@@ -1208,7 +1208,7 @@
 
 **[[cc/madhya/8/142#translation|Madhya 8.142]]**...
 
-* attainment of,, **[[cc/madhya/8/229#translation|Madhya 8.229]]**
+* attainment of, **[[cc/madhya/8/229#translation|Madhya 8.229]]**
 
 *→ See all 83 references in* [Rāmānanda Rāyas talks with Caitanya](entries/ramananda-rayas-talks-with-caitanya.md)
 
@@ -1222,7 +1222,7 @@
 
 ### Rāmānuja
 
-*  [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/8/19#purport|SB 1.8.19]]
+* [[sb/1/1/17#purport|SB 1.1.17]], [[sb/1/8/19#purport|SB 1.8.19]]
 
 ---
 
@@ -1230,7 +1230,7 @@
 
 [[cc/adi/7/128#purport|Ādi 7.128]]...
 
-* birthplace of,, [[cc/adi/1/19#purport|Ādi 1.19]]
+* birthplace of, [[cc/adi/1/19#purport|Ādi 1.19]]
 
 *→ See all 8 references in* [Rāmānuja Ācārya](entries/ramanuja-acarya.md)
 
@@ -1253,7 +1253,7 @@
 
 [[bg/3|Bg. 3]], [[bg/2/12|Bg. 2.12]], [[bg/7/24|Bg. 7.24]] (1)...
 
-* as surrendered to Lord,, [[bg/7/15|Bg. 7.15]] (2)
+* as surrendered to Lord, [[bg/7/15|Bg. 7.15]] (2)
 
 *→ See all 13 references in* [Rāmānujācārya](entries/ramanujacarya.md)
 
@@ -1309,7 +1309,7 @@
 
 [[cc/adi/5/14#purport|Ādi 5.14]]...
 
-* as Rāma’s history,, [[sb/1/12/19#purport|SB 1.12.19]]
+* as Rāma’s history, [[sb/1/12/19#purport|SB 1.12.19]]
 
 *→ See all 18 references in* [Rāmāyaṇa](entries/ramayana.md)
 
@@ -1393,7 +1393,7 @@
 
 ### Ramyaka (Āgnīdhras son)
 
-*  [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
+* [[sb/5/2/19-21#purport|SB 5.2.19-21]], [[sb/5/2/23#purport|SB 5.2.23]]
 
 ---
 
@@ -1401,7 +1401,7 @@
 
 [[cc/madhya/20/218#purport|Madhya 20.218]]
 
-*  [[sb/5/16/8#purport|SB 5.16.8]], [[sb/5/18/24#purport|SB 5.18.24]]
+* [[sb/5/16/8#purport|SB 5.16.8]], [[sb/5/18/24#purport|SB 5.18.24]]
 
 ---
 
@@ -1456,13 +1456,13 @@
 
 ### Rantideva, King
 
-*  [[sb/9/21/2#purport|SB 9.21.2]], [[sb/9/21/3-16#purport|SB 9.21.3-16]], [[sb/9/21/16#purport|SB 9.21.16]], [[sb/9/21/17#purport|SB 9.21.17]], [[sb/9/21/18-18#purport|SB 9.21.18-18]]
+* [[sb/9/21/2#purport|SB 9.21.2]], [[sb/9/21/3-16#purport|SB 9.21.3-16]], [[sb/9/21/16#purport|SB 9.21.16]], [[sb/9/21/17#purport|SB 9.21.17]], [[sb/9/21/18-18#purport|SB 9.21.18-18]]
 
 ---
 
 ### Rantināva
 
-*  [[sb/9/20/6#purport|SB 9.20.6]], [[sb/9/20/7#purport|SB 9.20.7]]
+* [[sb/9/20/6#purport|SB 9.20.6]], [[sb/9/20/7#purport|SB 9.20.7]]
 
 ---
 
@@ -1491,7 +1491,7 @@
 
 **[[cc/madhya/1/5#translation|Madhya 1.5]]**...
 
-* analogies on,, **[[cc/antya/14/44#translation|Antya 14.44]]**
+* analogies on, **[[cc/antya/14/44#translation|Antya 14.44]]**
 
 *→ See all 52 references in* [Rāsa dance](entries/rasa-dance.md)
 
@@ -1506,7 +1506,7 @@
 
 ### Rāsa dance, Kṛṣṇa enjoys
 
-*  [[sb/10/8/19#purport|SB 10.8.19]], [[sb/10/8/31#purport|SB 10.8.31]]
+* [[sb/10/8/19#purport|SB 10.8.19]], [[sb/10/8/31#purport|SB 10.8.31]]
 
 ---
 
@@ -1528,7 +1528,7 @@
 
 [[sb/1/1/1#purport|SB 1.1.1]], [[sb/1/1/3#purport|SB 1.1.3]]...
 
-* ”devotees” attracted to,, [[sb/2/7/53#purport|SB 2.7.53]]
+* ”devotees” attracted to, [[sb/2/7/53#purport|SB 2.7.53]]
 
 *→ See all 14 references in* [Rāsa-līlā](entries/rasa-lila.md)
 
@@ -1556,7 +1556,7 @@
 
 ### Rasajña
 
-*  [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/11#purport|SB 4.29.11]]
+* [[sb/4/25/49#purport|SB 4.25.49]], [[sb/4/29/11#purport|SB 4.29.11]]
 
 ---
 
@@ -1571,7 +1571,7 @@
 
 [[cc/madhya/23/13#purport|Madhya 23.13]]...
 
-* absolute nature of,, [[cc/adi/4/44#purport|Ādi 4.44]]
+* absolute nature of, [[cc/adi/4/44#purport|Ādi 4.44]]
 
 *→ See all 145 references in* [Rasas](entries/rasas.md)
 
@@ -1668,7 +1668,7 @@
 
 ### Rāṣṭrapālika
 
-*  [[sb/9/24/25#purport|SB 9.24.25]], [[sb/9/24/42#purport|SB 9.24.42]]
+* [[sb/9/24/25#purport|SB 9.24.25]], [[sb/9/24/42#purport|SB 9.24.42]]
 
 ---
 
@@ -1690,7 +1690,7 @@
 
 [[cc/adi/10/63#purport|Ādi 10.63]]...
 
-* Acyutānanda &,, [[cc/adi/12/17#purport|Ādi 12.17]]
+* Acyutānanda &, [[cc/adi/12/17#purport|Ādi 12.17]]
 
 *→ See all 55 references in* [Ratha-yātrā festival](entries/ratha-yatra-festival.md)
 
@@ -1762,7 +1762,7 @@
 
 ### Raudrāśva
 
-*  [[sb/9/20/3#purport|SB 9.20.3]], [[sb/9/20/4-5#purport|SB 9.20.4-5]]
+* [[sb/9/20/3#purport|SB 9.20.3]], [[sb/9/20/4-5#purport|SB 9.20.4-5]]
 
 ---
 
@@ -1777,7 +1777,7 @@
 
 [[bg/4/8|Bg. 4.8]], [[bg/7/15|Bg. 7.15]] (4), [[bg/16/20|Bg. 16.20]]...
 
-* angry at,, [[sb/9/10/20#purport|SB 9.10.20]]
+* angry at, [[sb/9/10/20#purport|SB 9.10.20]]
 
 *→ See all 73 references in* [Rāvaṇa](entries/ravana.md)
 
@@ -1785,7 +1785,7 @@
 
 ### Raya
 
-*  [[sb/9/15/1#purport|SB 9.15.1]], [[sb/9/15/2-3#purport|SB 9.15.2-3]]
+* [[sb/9/15/1#purport|SB 9.15.1]], [[sb/9/15/2-3#purport|SB 9.15.2-3]]
 
 ---
 
@@ -1805,7 +1805,7 @@
 
 ### Razors & thunderbolts compared to time
 
-*  [[sb/6/5/6-8#purport|SB 6.5.6-8]], [[sb/6/5/19-19#purport|SB 6.5.19-19]]
+* [[sb/6/5/6-8#purport|SB 6.5.6-8]], [[sb/6/5/19-19#purport|SB 6.5.19-19]]
 
 ---
 
@@ -1883,7 +1883,7 @@
 
 ### Reading propensity
 
-*  [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]]
+* [[sb/1/5/11#purport|SB 1.5.11]], [[sb/1/5/13#purport|SB 1.5.13]]
 
 ---
 
@@ -1912,7 +1912,7 @@
 
 ### [Reality](entries/reality.md)
 
-* affection for Supreme Soul as,, [[sb/2/7/47#purport|SB 2.7.47]]
+* affection for Supreme Soul as, [[sb/2/7/47#purport|SB 2.7.47]]
 
 *→ See all 12 references in* [Reality](entries/reality.md)
 
@@ -1943,7 +1943,7 @@
 
 [[sb/3/32/36#purport|SB 3.32.36]]...
 
-* as kaivalya,, [[sb/3/21/12#purport|SB 3.21.12]]
+* as kaivalya, [[sb/3/21/12#purport|SB 3.21.12]]
 
 *→ See all 11 references in* [Realization about Lord](entries/realization-about-lord.md)
 
@@ -1951,7 +1951,7 @@
 
 ### Realization, personal
 
-*  [[sb/1/4/1#purport|SB 1.4.1]], [[sb/1/4/13#purport|SB 1.4.13]]
+* [[sb/1/4/1#purport|SB 1.4.1]], [[sb/1/4/13#purport|SB 1.4.13]]
 
 ---
 
@@ -1980,7 +1980,7 @@
 
 ### Reception for Rāma returning to Ayodhyā
 
-*  [[sb/9/10/33#purport|SB 9.10.33]], [[sb/9/10/35-46#purport|SB 9.10.35-46]]
+* [[sb/9/10/33#purport|SB 9.10.33]], [[sb/9/10/35-46#purport|SB 9.10.35-46]]
 
 ---
 
@@ -2011,13 +2011,13 @@
 
 ### Recitation of Lords appearances
 
-*  [[sb/1/3/29#purport|SB 1.3.29]], [[sb/1/3/29#purport|SB 1.3.29]]
+* [[sb/1/3/29#purport|SB 1.3.29]], [[sb/1/3/29#purport|SB 1.3.29]]
 
 ---
 
 ### Rectum
 
-*  [[sb/4/25/53#purport|SB 4.25.53]], [[sb/4/29/9#purport|SB 4.29.9]], [[sb/4/29/14#purport|SB 4.29.14]], [[sb/4/29/15#purport|SB 4.29.15]]
+* [[sb/4/25/53#purport|SB 4.25.53]], [[sb/4/29/9#purport|SB 4.29.9]], [[sb/4/29/14#purport|SB 4.29.14]], [[sb/4/29/15#purport|SB 4.29.15]]
 
 ---
 
@@ -2070,7 +2070,7 @@
 
 [[bg/18/78|Bg. 18.78]] (4)...
 
-* ācārya recommends following,, [[cc/antya/13/133#purport|Antya 13.133]]
+* ācārya recommends following, [[cc/antya/13/133#purport|Antya 13.133]]
 
 *→ See all 78 references in* [Regulative principles](entries/regulative-principles.md)
 
@@ -2100,7 +2100,7 @@
 
 ### [Relationship(s)](entries/relationships.md)
 
-* ”forgetfulness” in,, [[sb/1/15/17#purport|SB 1.15.17]]
+* ”forgetfulness” in, [[sb/1/15/17#purport|SB 1.15.17]]
 
 *→ See all 43 references in* [Relationship(s)](entries/relationships.md)
 
@@ -2162,7 +2162,7 @@
 
 ### Religiosity, material
 
-*  [[sb/3/25/34#purport|SB 3.25.34]], [[sb/3/28/3#purport|SB 3.28.3]], [[sb/3/29/22#purport|SB 3.29.22]], [[sb/3/31/32#purport|SB 3.31.32]], [[sb/3/32/40#purport|SB 3.32.40]]
+* [[sb/3/25/34#purport|SB 3.25.34]], [[sb/3/28/3#purport|SB 3.28.3]], [[sb/3/29/22#purport|SB 3.29.22]], [[sb/3/31/32#purport|SB 3.31.32]], [[sb/3/32/40#purport|SB 3.32.40]]
 
 ---
 
@@ -2177,7 +2177,7 @@
 
 **[[cc/madhya/17/184–86#translation|Madhya 17.184–86]]**...
 
-* Āgnīdhra follower of,, [[sb/5/2/1#purport|SB 5.2.1]]
+* Āgnīdhra follower of, [[sb/5/2/1#purport|SB 5.2.1]]
 
 *→ See all 84 references in* [Religious principles](entries/religious-principles.md)
 
@@ -2187,7 +2187,7 @@
 
 [[sb/3/25/44#purport|SB 3.25.44]]...
 
-* as meditation’s goal,, [[sb/3/21/7#purport|SB 3.21.7]]
+* as meditation’s goal, [[sb/3/21/7#purport|SB 3.21.7]]
 
 *→ See all 6 references in* [Remembering about Supreme Lord](entries/remembering-about-supreme-lord.md)
 
@@ -2197,7 +2197,7 @@
 
 [[bg/2/48|Bg. 2.48]], [[bg/6/3|Bg. 6.3]], [[bg/6/10|Bg. 6.10]], [[bg/6/19|Bg. 6.19]], [[bg/6/31|Bg. 6.31]], [[bg/7/28|Bg. 7.28]], [[bg/8/5–10|Bg. 8.5–10]]...
 
-* & meditation,, [[bg/2/61|Bg. 2.61]]
+* & meditation, [[bg/2/61|Bg. 2.61]]
 
 *→ See all 24 references in* [Remembering in Kṛṣṇa consciousness](entries/remembering-in-krsna-consciousness.md)
 
@@ -2205,7 +2205,7 @@
 
 ### Remembering Kṛṣṇa
 
-*  [[sb/10/9/1-2#purport|SB 10.9.1-2]], [[sb/10/12/7-11#purport|SB 10.12.7-11]]
+* [[sb/10/9/1-2#purport|SB 10.9.1-2]], [[sb/10/12/7-11#purport|SB 10.12.7-11]]
 
 ---
 
@@ -2213,7 +2213,7 @@
 
 [[sb/1/2/14-15#purport|SB 1.2.14-15]], [[sb/1/2/15#purport|SB 1.2.15]], [[sb/1/3/42#purport|SB 1.3.42]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/5/36#purport|SB 1.5.36]], [[sb/1/7/10#purport|SB 1.7.10]]...
 
-* as devotional process,, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
+* as devotional process, [[sb/7/5/23-24#purport|SB 7.5.23-24]]
 
 *→ See all 22 references in* [Remembering Supreme Lord](entries/remembering-supreme-lord.md)
 
@@ -2229,7 +2229,7 @@
 
 ### [Remembrance about Lord](entries/remembrance-about-lord.md)
 
-* as first duty,, [[sb/4/24/72#purport|SB 4.24.72]]
+* as first duty, [[sb/4/24/72#purport|SB 4.24.72]]
 
 *→ See all 7 references in* [Remembrance about Lord](entries/remembrance-about-lord.md)
 
@@ -2237,7 +2237,7 @@
 
 ### [Remembrance of Lord](entries/remembrance-of-lord.md)
 
-* at death, as life’s success,, [[sb/5/3/12#purport|SB 5.3.12]], [[sb/5/14/45#purport|SB 5.14.45]]
+* at death, as life’s success, [[sb/5/3/12#purport|SB 5.3.12]], [[sb/5/14/45#purport|SB 5.14.45]]
 
 *→ See all 24 references in* [Remembrance of Lord](entries/remembrance-of-lord.md)
 
@@ -2245,7 +2245,7 @@
 
 ### Remembrance of past life
 
-*  [[sb/9/8/15-16#purport|SB 9.8.15-16]], [[sb/9/8/17#purport|SB 9.8.17]]
+* [[sb/9/8/15-16#purport|SB 9.8.15-16]], [[sb/9/8/17#purport|SB 9.8.17]]
 
 ---
 
@@ -2331,7 +2331,7 @@
 
 ...
 
-* next life for,, [[bg/1/31|Bg. 1.31]]
+* next life for, [[bg/1/31|Bg. 1.31]]
 
 ---
 
@@ -2339,7 +2339,7 @@
 
 [[bg/16/1|Bg. 16.1]]...
 
-* “danger” of,, [[bg/6/38|Bg. 6.38]], [[bg/6/40|Bg. 6.40]]
+* “danger” of, [[bg/6/38|Bg. 6.38]], [[bg/6/40|Bg. 6.40]]
 
 *→ See all 343 references in* [Renunciation](entries/renunciation.md)
 
@@ -2356,7 +2356,7 @@
 
 [[sb/4/26/18-19#purport|SB 4.26.18-19]]...
 
-* by Diti,, [[sb/3/14/33-36#purport|SB 3.14.33-36]]
+* by Diti, [[sb/3/14/33-36#purport|SB 3.14.33-36]]
 
 *→ See all 6 references in* [Repentance](entries/repentance.md)
 
@@ -2392,7 +2392,7 @@
 
 ### [Reputation](entries/reputation.md)
 
-* Bali protected,, [[sb/8/22/3#purport|SB 8.22.3]]
+* Bali protected, [[sb/8/22/3#purport|SB 8.22.3]]
 
 *→ See all 9 references in* [Reputation](entries/reputation.md)
 
@@ -2414,7 +2414,7 @@
 
 ### [Residence](entries/residence.md)
 
-* attachment to,, [[bg/14/12|Bg. 14.12]]
+* attachment to, [[bg/14/12|Bg. 14.12]]
 
 *→ See all 6 references in* [Residence](entries/residence.md)
 
@@ -2452,7 +2452,7 @@
 
 [[bg/9/11|Bg. 9.11]] (7)...
 
-* by bowing,, [[sb/1/19/11#purport|SB 1.19.11]]
+* by bowing, [[sb/1/19/11#purport|SB 1.19.11]]
 
 *→ See all 19 references in* [Respects](entries/respects.md)
 
@@ -2474,7 +2474,7 @@
 
 [[sb/3/23/52#purport|SB 3.23.52]]...
 
-* for politicians,, [[sb/1/15/37#purport|SB 1.15.37]], [[sb/1/15/39#purport|SB 1.15.39]]
+* for politicians, [[sb/1/15/37#purport|SB 1.15.37]], [[sb/1/15/39#purport|SB 1.15.39]]
 
 *→ See all 17 references in* [Retirement](entries/retirement.md)
 
@@ -2482,7 +2482,7 @@
 
 ### Retirement (vānaprastha)
 
-*  [[sb/2/1/15-16#purport|SB 2.1.15-16]], [[sb/2/6/20#purport|SB 2.6.20]], [[sb/2/7/6#purport|SB 2.7.6]]
+* [[sb/2/1/15-16#purport|SB 2.1.15-16]], [[sb/2/6/20#purport|SB 2.6.20]], [[sb/2/7/6#purport|SB 2.7.6]]
 
 ---
 
@@ -2545,7 +2545,7 @@
 
 [[bg/9/17|Bg. 9.17]]...
 
-* Bharata chants hymns from,, [[sb/5/7/13#purport|SB 5.7.13]]
+* Bharata chants hymns from, [[sb/5/7/13#purport|SB 5.7.13]]
 
 *→ See all 18 references in* [Ṛg Veda](entries/rg-veda.md)
 
@@ -2576,7 +2576,7 @@
 
 ### Rice, Kṛṣṇa holding
 
-*  [[sb/10/13/11#purport|SB 10.13.11]], [[sb/10/13/14#purport|SB 10.13.14]]
+* [[sb/10/13/11#purport|SB 10.13.11]], [[sb/10/13/14#purport|SB 10.13.14]]
 
 ---
 
@@ -2624,7 +2624,7 @@
 
 ### Ripuñjaya (son of Suvīra)
 
-*  [[sb/9/21/28-29#purport|SB 9.21.28-29]], [[sb/9/21/30#purport|SB 9.21.30]]
+* [[sb/9/21/28-29#purport|SB 9.21.28-29]], [[sb/9/21/30#purport|SB 9.21.30]]
 
 ---
 
@@ -2646,7 +2646,7 @@
 
 [[sb/6/7/38#purport|SB 6.7.38]]...
 
-* animal-killing &,, [[sb/10/1/4#purport|SB 10.1.4]]
+* animal-killing &, [[sb/10/1/4#purport|SB 10.1.4]]
 
 *→ See all 108 references in* [Ritualistic ceremonies](entries/ritualistic-ceremonies.md)
 
@@ -2678,7 +2678,7 @@
 
 ...
 
-* & sea compared to oneness,, [[sb/6/8/12#purport|SB 6.8.12]]
+* & sea compared to oneness, [[sb/6/8/12#purport|SB 6.8.12]]
 
 *→ See all 28 references in* [River(s)](entries/rivers.md)
 
@@ -2766,7 +2766,7 @@
 
 ### Ṛkṣa mountain
 
-*  [[sb/4/1/17#purport|SB 4.1.17]], [[sb/4/1/18#purport|SB 4.1.18]]
+* [[sb/4/1/17#purport|SB 4.1.17]], [[sb/4/1/18#purport|SB 4.1.18]]
 
 ---
 
@@ -2790,7 +2790,7 @@
 
 [[sb/8/1/20#purport|SB 8.1.20]]
 
-*  [[sb/9/24/45#purport|SB 9.24.45]], [[sb/9/24/49#purport|SB 9.24.49]]
+* [[sb/9/24/45#purport|SB 9.24.45]], [[sb/9/24/49#purport|SB 9.24.49]]
 
 ---
 
@@ -2819,7 +2819,7 @@
 
 [[cc/madhya/15/241#purport|Madhya 15.241]]...
 
-* as Balarāma’s mother,, [[sb/10/1/8#purport|SB 10.1.8]], [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/5/17#purport|SB 10.5.17]], [[sb/10/5/27#purport|SB 10.5.27]], [[sb/10/8/12-12#purport|SB 10.8.12-12]]
+* as Balarāma’s mother, [[sb/10/1/8#purport|SB 10.1.8]], [[sb/10/2/8#purport|SB 10.2.8]], [[sb/10/5/17#purport|SB 10.5.17]], [[sb/10/5/27#purport|SB 10.5.27]], [[sb/10/8/12-12#purport|SB 10.8.12-12]]
 
 *→ See all 16 references in* [Rohiṇī](entries/rohini.md)
 
@@ -2827,7 +2827,7 @@
 
 ### Rohiṇī star
 
-*  [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/7/4#purport|SB 10.7.4]]
+* [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/3/1-5#purport|SB 10.3.1-5]], [[sb/10/7/4#purport|SB 10.7.4]]
 
 ---
 
@@ -2835,7 +2835,7 @@
 
 [[sb/9/16/31#purport|SB 9.16.31]]...
 
-* as Hariścandra’s son,, [[sb/9/7/9#purport|SB 9.7.9]], [[sb/9/7/20#purport|SB 9.7.20]]
+* as Hariścandra’s son, [[sb/9/7/9#purport|SB 9.7.9]], [[sb/9/7/20#purport|SB 9.7.20]]
 
 *→ See all 6 references in* [Rohita](entries/rohita.md)
 
@@ -2843,7 +2843,7 @@
 
 ### Romaharṣaṇa
 
-*  [[sb/1/2/1#purport|SB 1.2.1]], [[sb/1/4/22#purport|SB 1.4.22]]
+* [[sb/1/2/1#purport|SB 1.2.1]], [[sb/1/4/22#purport|SB 1.4.22]]
 
 ---
 
@@ -2891,13 +2891,13 @@
 
 ### Roots being watered
 
-*  [[sb/2/5/15#purport|SB 2.5.15]], [[sb/2/9/36#purport|SB 2.9.36]]
+* [[sb/2/5/15#purport|SB 2.5.15]], [[sb/2/9/36#purport|SB 2.9.36]]
 
 ---
 
 ### Rope mistaken for snake
 
-*  [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/34#purport|SB 2.9.34]]
+* [[sb/2/9/10#purport|SB 2.9.10]], [[sb/2/9/34#purport|SB 2.9.34]]
 
 ---
 
@@ -2917,7 +2917,7 @@
 
 ### Rope, Yaśodā binding Kṛṣṇa with
 
-*  [[sb/10/9/13-14#purport|SB 10.9.13-14]], [[sb/10/9/13-14#purport|SB 10.9.13-14]]
+* [[sb/10/9/13-14#purport|SB 10.9.13-14]], [[sb/10/9/13-14#purport|SB 10.9.13-14]]
 
 ---
 
@@ -2995,7 +2995,7 @@
 
 ### Ṛṣabha Mountain
 
-*  [[sb/5/16/26#purport|SB 5.16.26]], [[sb/5/19/16#purport|SB 5.19.16]]
+* [[sb/5/16/26#purport|SB 5.16.26]], [[sb/5/19/16#purport|SB 5.19.16]]
 
 ---
 
@@ -3003,7 +3003,7 @@
 
 [[sb/4/8/7#purport|SB 4.8.7]]
 
-*  [[sb/1/3/9#purport|SB 1.3.9]], [[sb/1/3/13#purport|SB 1.3.13]], [[sb/1/3/13#purport|SB 1.3.13]]
+* [[sb/1/3/9#purport|SB 1.3.9]], [[sb/1/3/13#purport|SB 1.3.13]], [[sb/1/3/13#purport|SB 1.3.13]]
 
 ---
 
@@ -3030,7 +3030,7 @@
 
 ### [Ṛṣabhadeva quoted](entries/rsabhadeva-quoted.md)
 
-* acceptance of,, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
+* acceptance of, [[sb/5/5/10-13#purport|SB 5.5.10-13]]
 
 *→ See all 46 references in* [Ṛṣabhadeva quoted](entries/rsabhadeva-quoted.md)
 
@@ -3038,7 +3038,7 @@
 
 ### Ṛṣabhadeva quoted on body & suffering
 
-*  [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/8/5#purport|SB 10.8.5]]
+* [[sb/10/1/43#purport|SB 10.1.43]], [[sb/10/8/5#purport|SB 10.8.5]]
 
 ---
 
@@ -3063,7 +3063,7 @@
 
 [[cc/adi/2/97#purport|Ādi 2.97]]...
 
-* abuse to,, [[sb/5/5/30#purport|SB 5.5.30]]
+* abuse to, [[sb/5/5/30#purport|SB 5.5.30]]
 
 *→ See all 108 references in* [Ṛṣabhadeva, Lord](entries/rsabhadeva-lord.md)
 
@@ -3108,7 +3108,7 @@
 
 [[sb/1/6/30#purport|SB 1.6.30]]...
 
-* as kind of progeny,, [[sb/4/1/8#purport|SB 4.1.8]]
+* as kind of progeny, [[sb/4/1/8#purport|SB 4.1.8]]
 
 *→ See all 13 references in* [Ṛṣi(s)](entries/rsis.md)
 
@@ -3209,7 +3209,7 @@
 
 ### Ṛtumat garden
 
-*  [[sb/8/2/9-13#purport|SB 8.2.9-13]], [[sb/8/2/14-19#purport|SB 8.2.14-19]]
+* [[sb/8/2/9-13#purport|SB 8.2.9-13]], [[sb/8/2/14-19#purport|SB 8.2.14-19]]
 
 ---
 
@@ -3229,7 +3229,7 @@
 
 ### Ṛtvijaḥ defined
 
-*  [[sb/5/3/15#purport|SB 5.3.15]], [[sb/5/3/18#purport|SB 5.3.18]]
+* [[sb/5/3/15#purport|SB 5.3.15]], [[sb/5/3/18#purport|SB 5.3.18]]
 
 ---
 
@@ -3260,7 +3260,7 @@
 
 [[cc/madhya/20/328#purport|Madhya 20.328]]...
 
-* Ākūti given to,, [[sb/4/1/2#purport|SB 4.1.2]]
+* Ākūti given to, [[sb/4/1/2#purport|SB 4.1.2]]
 
 *→ See all 8 references in* [Ruci](entries/ruci.md)
 
@@ -3268,7 +3268,7 @@
 
 ### Rucirāśva
 
-*  [[sb/9/21/23#purport|SB 9.21.23]], [[sb/9/21/24#purport|SB 9.21.24]]
+* [[sb/9/21/23#purport|SB 9.21.23]], [[sb/9/21/24#purport|SB 9.21.24]]
 
 ---
 
@@ -3304,7 +3304,7 @@
 
 [[cc/antya/2/95#purport|Antya 2.95]], [[sb/6/8/42#purport|SB 6.8.42]], [[sb/7/7/17#purport|SB 7.7.17]]
 
-*  [[sb/4/2/2#purport|SB 4.2.2]], [[sb/4/6/39#purport|SB 4.6.39]], [[sb/4/22/4#purport|SB 4.22.4]], [[sb/4/22/6#purport|SB 4.22.6]], [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/76#purport|SB 4.24.76]], [[sb/4/30/3#purport|SB 4.30.3]]
+* [[sb/4/2/2#purport|SB 4.2.2]], [[sb/4/6/39#purport|SB 4.6.39]], [[sb/4/22/4#purport|SB 4.22.4]], [[sb/4/22/6#purport|SB 4.22.6]], [[sb/4/24/18#purport|SB 4.24.18]], [[sb/4/24/76#purport|SB 4.24.76]], [[sb/4/30/3#purport|SB 4.30.3]]
 
 ---
 
@@ -3332,7 +3332,7 @@
 
 [[sb/2/3/2-7#purport|SB 2.3.2-7]], [[sb/2/10/43#purport|SB 2.10.43]]...
 
-* chief of,, [[bg/10/23|Bg. 10.23]]
+* chief of, [[bg/10/23|Bg. 10.23]]
 
 *→ See all 20 references in* [Rudra(s)](entries/rudras.md)
 
@@ -3396,9 +3396,9 @@
 
 ### Rukmiṇī
 
-* Kṛṣṇa advented for, N109 
+* Kṛṣṇa advented for, N109, 
 * Kṛṣṇa kidnapped, [[sb/10/11/49#purport|SB 10.11.49]]
-*  [[sb/1/7/10#purport|SB 1.7.10]], [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/1/10/29#purport|SB 1.10.29]], [[sb/3/1/28#purport|SB 3.1.28]], [[sb/3/3/3#purport|SB 3.3.3]], [[sb/3/3/22#purport|SB 3.3.22]], [[sb/3/6/38#purport|SB 3.6.38]]
+* [[sb/1/7/10#purport|SB 1.7.10]], [[sb/1/9/6-7#purport|SB 1.9.6-7]], [[sb/1/10/29#purport|SB 1.10.29]], [[sb/3/1/28#purport|SB 3.1.28]], [[sb/3/3/3#purport|SB 3.3.3]], [[sb/3/3/22#purport|SB 3.3.22]], [[sb/3/6/38#purport|SB 3.6.38]]
 
 ---
 
@@ -3475,7 +3475,7 @@
 
 **[[cc/antya/4/223–26#translation|Antya 4.223–26]]**...
 
-* “Prabhupāda” title &,, [[cc/adi/10/7#purport|Ādi 10.7]]
+* “Prabhupāda” title &, [[cc/adi/10/7#purport|Ādi 10.7]]
 
 *→ See all 194 references in* [Rūpa Gosvāmī](entries/rupa-gosvami.md)
 
@@ -3552,7 +3552,7 @@
 
 ### Ruṣābhānu
 
-*  [[sb/7/2/18-19#purport|SB 7.2.18-19]], [[sb/7/2/61#purport|SB 7.2.61]]
+* [[sb/7/2/18-19#purport|SB 7.2.18-19]], [[sb/7/2/61#purport|SB 7.2.61]]
 
 ---
 

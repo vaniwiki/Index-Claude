@@ -2,7 +2,7 @@
 
 ### Zodiac
 
-*  [[sb/5/22/2#purport|SB 5.22.2]], [[sb/5/22/5#purport|SB 5.22.5]]
+* [[sb/5/22/2#purport|SB 5.22.2]], [[sb/5/22/5#purport|SB 5.22.5]]
 
 ---
 
